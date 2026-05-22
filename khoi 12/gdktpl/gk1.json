@@ -1,0 +1,982 @@
+
+[
+{
+"question": "Theo quy định của pháp luật, một trong những đặc điểm của tăng trưởng kinh tế là gì?",
+"options": [
+"Sự gia tăng quy mô sản lượng của nền kinh tế trong một thời kỳ nhất định",
+"Sự thay đổi toàn diện về cơ cấu kinh tế và tiến bộ xã hội",
+"Sự công bằng trong phân phối thu nhập giữa mọi thành viên",
+"Sự biến động giảm sút của tổng sản phẩm quốc nội thực tế"
+],
+"answer": "Sự gia tăng quy mô sản lượng của nền kinh tế trong một thời kỳ nhất định",
+"explanation": "Tăng trưởng kinh tế là sự gia tăng về quy mô sản lượng của nền kinh tế (thường tính bằng GDP hoặc GNI) trong một thời kỳ nhất định so với thời kỳ gốc."
+},
+{
+"question": "Phát triển kinh tế bao gồm tăng trưởng kinh tế và yếu tố nào sau đây?",
+"options": [
+"Sự dịch chuyển cơ cấu kinh tế và tiến bộ xã hội",
+"Sự gia tăng tuyệt đối của tỷ lệ lạm phát",
+"Sự gia tăng số lượng lao động chưa qua đào tạo",
+"Sự mở rộng quy mô các ngành kinh tế truyền thống"
+],
+"answer": "Sự dịch chuyển cơ cấu kinh tế và tiến bộ xã hội",
+"explanation": "Phát triển kinh tế là một quá trình biến đổi toàn diện về kinh tế, bao gồm tăng trưởng kinh tế, sự chuyển dịch cơ cấu kinh tế theo hướng hiện đại và sự tiến bộ, công bằng xã hội."
+},
+{
+"question": "Hội nhập kinh tế quốc tế là quá trình một quốc gia thực hiện hành vi nào sau đây?",
+"options": [
+"Gắn kết nền kinh tế của mình với nền kinh tế các nước khác và kinh tế toàn cầu",
+"Đóng cửa nền kinh tế để bảo hộ tuyệt đối các doanh nghiệp trong nước",
+"Hạn chế tối đa các hoạt động xuất nhập khẩu hàng hóa với nước ngoài",
+"Cấm các doanh nghiệp nước ngoài đầu tư trực tiếp vào thị trường nội địa"
+],
+"answer": "Gắn kết nền kinh tế của mình với nền kinh tế các nước khác và kinh tế toàn cầu",
+"explanation": "Hội nhập kinh tế quốc tế là quá trình quốc gia tham gia vào nền kinh tế thế giới thông qua các hình thức hợp tác, liên kết kinh tế trên cơ sở tôn trọng độc lập, chủ quyền."
+},
+{
+"question": "Một trong những hình thức hội nhập kinh tế quốc tế phổ biến là gì?",
+"options": [
+"Hội nhập song phương",
+"Bế quan tỏa cảng",
+"Độc quyền quốc gia",
+"Ly khai kinh tế"
+],
+"answer": "Hội nhập song phương",
+"explanation": "Các hình thức hội nhập kinh tế quốc tế bao gồm hội nhập song phương (giữa hai quốc gia) và hội nhập đa phương (giữa nhiều quốc gia, khu vực hoặc toàn cầu)."
+},
+{
+"question": "Sự phân chia các nguồn lực kinh tế giữa các ngành, các vùng và các chủ thể kinh tế được gọi là gì?",
+"options": [
+"Phân bổ nguồn lực",
+"Tập trung tư bản",
+"Thu hồi tài sản",
+"Tiêu dùng xã hội"
+],
+"answer": "Phân bổ nguồn lực",
+"explanation": "Phân bổ nguồn lực kinh tế là việc sắp xếp, bố trí các yếu tố sản xuất như vốn, lao động, đất đai vào các ngành nghề và khu vực kinh tế khác nhau."
+},
+{
+"question": "Hệ thống các quy định, luật pháp, chính sách và cơ cấu tổ chức quản lý các hoạt động kinh tế của một quốc gia được gọi là gì?",
+"options": [
+"Thể chế kinh tế",
+"Xu hướng kinh tế",
+"Chỉ số kinh tế",
+"Mô hình kinh doanh"
+],
+"answer": "Thể chế kinh tế",
+"explanation": "Thể chế kinh tế bao gồm hệ thống luật pháp, chính sách, quy tắc và cơ chế vận hành được thiết lập để quản lý và điều tiết hành vi của các chủ thể kinh tế."
+},
+{
+"question": "Theo quy định, thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam có đặc điểm nào?",
+"options": [
+"Kinh tế nhà nước giữ vai trò chủ đạo",
+"Kinh tế tư nhân nắm giữ toàn bộ tư liệu sản xuất",
+"Nhà nước áp đặt hoàn toàn giá cả mọi loại hàng hóa",
+"Triệt tiêu hoàn toàn các thành phần kinh tế tập thể"
+],
+"answer": "Kinh tế nhà nước giữ vai trò chủ đạo",
+"explanation": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, kinh tế nhà nước giữ vai trò chủ đạo, liên kết với các thành phần kinh tế khác để cùng phát triển."
+},
+{
+"question": "Hoạt động nào sau đây thuộc nội dung cơ bản của quản lý nhà nước về kinh tế?",
+"options": [
+"Ban hành chiến lược, quy hoạch, kế hoạch phát triển kinh tế - xã hội",
+"Trực tiếp quản lý hoạt động kinh doanh hàng ngày của cửa hàng tư nhân",
+"Quy định mức lợi nhuận tối thiểu cho các công ty liên doanh",
+"Thay thế các doanh nghiệp thực hiện giao thương quốc tế"
+],
+"answer": "Ban hành chiến lược, quy hoạch, kế hoạch phát triển kinh tế - xã hội",
+"explanation": "Quản lý nhà nước về kinh tế thể hiện qua việc ban hành hệ thống văn bản pháp luật, chiến lược định hướng và kiểm tra, giám sát nền kinh tế vĩ mĩ."
+},
+{
+"question": "Theo quy định của pháp luật, một trong những mục tiêu của an sinh xã hội là gì?",
+"options": [
+"Trợ giúp các thành viên trong xã hội khi gặp phải rủi ro, biến cố",
+"Đảm bảo mọi công dân đều có mức thu nhập cao bằng nhau",
+"Miễn trừ toàn bộ nghĩa vụ đóng thuế cho các doanh nghiệp",
+"Cung cấp toàn bộ nhu cầu tiêu dùng miễn phí cho người dân"
+],
+"answer": "Trợ giúp các thành viên trong xã hội khi gặp phải rủi ro, biến cố",
+"explanation": "An sinh xã hội là hệ thống các chính sách và biện pháp của Nhà nước nhằm trợ giúp công dân đối phó với những rủi ro về thu nhập do ốm đau, thai sản, tai nạn, thất nghiệp, già già hoặc thiên tai."
+},
+{
+"question": "Trụ cột nào sau đây giữ vai trò cốt lõi trong hệ thống an sinh xã hội ở Việt Nam?",
+"options": [
+"Bảo hiểm xã hội",
+"Quỹ từ thiện tư nhân",
+"Viện trợ quốc tế",
+"Tín dụng đen xã hội"
+],
+"answer": "Bảo hiểm xã hội",
+"explanation": "Bảo hiểm xã hội (bao gồm bắt buộc và tự nguyện) là trụ cột cơ bản nhất, giúp người lao động bù đắp hoặc thay thế một phần thu nhập khi bị giảm hoặc mất thu nhập."
+},
+{
+"question": "Hệ thống các quy phạm pháp luật điều chỉnh các quan hệ xã hội phát sinh trong quá trình tổ chức và quản lý nhà nước được gọi là ngành luật nào?",
+"options": [
+"Luật Hành chính",
+"Luật Dân sự",
+"Luật Hình sự",
+"Luật Thương mại"
+],
+"answer": "Luật Hành chính",
+"explanation": "Luật Hành chính là một ngành luật độc lập trong hệ thống pháp luật Việt Nam, điều chỉnh các quan hệ xã hội phát sinh trong hoạt động chấp hành và điều hành của các cơ quan hành chính nhà nước."
+},
+{
+"question": "Một trong những nguyên tắc cơ bản của luật hành chính Việt Nam là gì?",
+"options": [
+"Nguyên tắc nhân dân tham gia quản lý nhà nước",
+"Nguyên tắc tự do thỏa thuận không tuân thủ luật",
+"Nguyên tắc ưu tiên lợi ích cá nhân trước nhà nước",
+"Nguyên tắc bí mật toàn bộ hoạt động hành chính"
+],
+"answer": "Nguyên tắc nhân dân tham gia quản lý nhà nước",
+"explanation": "Hoạt động hành chính nhà nước đặt dưới sự giám sát của nhân dân, đảm bảo quyền làm chủ và sự tham gia đóng góp ý kiến của công dân theo quy định pháp luật."
+},
+{
+"question": "Hành vi vi phạm hành chính là hành vi có lỗi do cá nhân, tổ chức thực hiện nhưng chưa đến mức nào?",
+"options": [
+"Chưa đến mức bị truy cứu trách nhiệm hình sự",
+"Chưa đến mức bị nhắc nhở phê bình nội bộ",
+"Chưa đến mức gây ra thiệt hại về vật chất",
+"Chưa đến mức bị xử lý kỷ luật lao động"
+],
+"answer": "Chưa đến mức bị truy cứu trách nhiệm hình sự",
+"explanation": "Vi phạm hành chính là hành vi trái pháp luật hành chính, có lỗi, xâm phạm quy tắc quản lý nhà nước nhưng không phải là tội phạm hình sự."
+},
+{
+"question": "Hình thức xử phạt hành chính nào sau đây là hình thức xử phạt chính được áp dụng phổ biến nhất?",
+"options": [
+"Phạt tiền",
+"Tịch thu tang vật",
+"Trục xuất khỏi lãnh thổ",
+"Tước quyền sử dụng giấy phép"
+],
+"answer": "Phạt tiền",
+"explanation": "Phạt tiền và cảnh cáo là hai hình thức xử phạt chính. Trong đó, phạt tiền được áp dụng rộng rãi nhất đối với các hành vi vi phạm trật tự quản lý hành chính."
+},
+{
+"question": "Hệ thống các quy phạm pháp luật điều chỉnh các quan hệ tài sản và quan hệ nhân thân được gọi là ngành luật nào?",
+"options": [
+"Luật Dân sự",
+"Luật Hình sự",
+"Luật Hành chính",
+"Luật Hiến pháp"
+],
+"answer": "Luật Dân sự",
+"explanation": "Luật Dân sự điều chỉnh các quan hệ tài sản và quan hệ nhân thân dựa trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm của các chủ thể."
+},
+{
+"question": "Theo luật dân sự, quan hệ nhân thân là quan hệ giữa các chủ thể về những giá trị tinh thần nào?",
+"options": [
+"Gắn liền với mỗi cá nhân, tổ chức và không thể chuyển giao",
+"Có thể mua bán, trao đổi tự do trên thị trường",
+"Chỉ tồn tại khi có sự định giá của cơ quan thuế",
+"Thuộc sở hữu của cơ quan quản lý hành chính"
+],
+"answer": "Gắn liền với mỗi cá nhân, tổ chức và không thể chuyển giao",
+"explanation": "Quan hệ nhân thân gắn liền với các quyền nhân thân (như họ tên, danh dự, nhân phẩm, uy tín) mang tính chất tinh thần và không thể định giá hay chuyển dịch cho người khác trừ trường hợp luật quy định."
+},
+{
+"question": "Người từ đủ bao nhiêu tuổi trở lên có năng lực hành vi dân sự đầy đủ theo quy định của Bộ luật Dân sự?",
+"options": [
+"Đủ 18 tuổi trở lên",
+"Đủ 16 tuổi trở lên",
+"Đủ 20 tuổi trở lên",
+"Đủ 21 tuổi trở lên"
+],
+"answer": "Đủ 18 tuổi trở lên",
+"explanation": "Công dân đủ mười tám tuổi trở lên là người thành niên và có năng lực hành vi dân sự đầy đủ, tự mình xác lập, thực hiện mọi quyền và nghĩa vụ dân sự."
+},
+{
+"question": "Sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự được gọi là gì?",
+"options": [
+"Hợp đồng dân sự",
+"Quyết định hành chính",
+"Bản án hình sự",
+"Biên bản xử phạt"
+],
+"answer": "Hợp đồng dân sự",
+"explanation": "Hợp đồng dân sự là sự thỏa thuận giữa các bên dựa trên nguyên tắc tự nguyện, bình đẳng nhằm phát sinh các hệ quả pháp lý dân sự."
+},
+{
+"question": "Hành vi nguy hiểm cho xã hội bị coi là tội phạm được quy định cụ thể trong văn bản luật nào?",
+"options": [
+"Bộ luật Hình sự",
+"Bộ luật Dân sự",
+"Luật Xử lý vi phạm hành chính",
+"Luật Lao động"
+],
+"answer": "Bộ luật Hình sự",
+"explanation": "Chỉ có Bộ luật Hình sự mới quy định tội phạm và hình phạt, làm cơ sở bảo vệ an ninh quốc gia, trật tự an toàn xã hội."
+},
+{
+"question": "Một trong những dấu hiệu cơ bản của tội phạm theo Luật Hình sự là gì?",
+"options": [
+"Tính nguy hiểm cao cho xã hội và do người có năng lực trách nhiệm hình sự thực hiện",
+"Tính thỏa thuận tự nguyện giữa người gây hại và nạn nhân",
+"Gây ra thiệt hại về kinh tế nhưng không có lỗi",
+"Hành vi vi phạm nội quy lao động tại cơ quan"
+],
+"answer": "Tính nguy hiểm cao cho xã hội và do người có năng lực trách nhiệm hình sự thực hiện",
+"explanation": "Tội phạm là hành vi nguy hiểm cho xã hội, có lỗi, do người có năng lực trách nhiệm hình sự thực hiện và bị hình phạt quy định trong Bộ luật Hình sự."
+},
+{
+"question": "Người từ đủ bao nhiêu tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm do mình gây ra?",
+"options": [
+"Đủ 16 tuổi trở lên",
+"Đủ 14 tuổi trở lên",
+"Đủ 18 tuổi trở lên",
+"Đủ 15 tuổi trở lên"
+],
+"answer": "Đủ 16 tuổi trở lên",
+"explanation": "Theo quy định, người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, còn người từ đủ 14 đến dưới 16 tuổi chỉ chịu trách nhiệm về một số tội phạm rất nghiêm trọng hoặc đặc biệt nghiêm trọng."
+},
+{
+"question": "Biện pháp cưỡng chế nghiêm khắc nhất do Tòa án áp dụng đối với người phạm tội được gọi là gì?",
+"options": [
+"Hình phạt",
+"Xử phạt hành chính",
+"Kỷ luật lao động",
+"Bồi thường dân sự"
+],
+"answer": "Hình phạt",
+"explanation": "Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước nhằm tước đoạt hoặc hạn chế quyền, lợi ích của người phạm tội, do Tòa án quyết định bằng bản án."
+},
+{
+"question": "Tổng hợp các quy định pháp luật quy định về trình tự, thủ tục giải quyết các vụ án hình sự được gọi là gì?",
+"options": [
+"Luật Tố tụng hình sự",
+"Luật Tố tụng dân sự",
+"Luật Tố tụng hành chính",
+"Luật Thi hành án dân sự"
+],
+"answer": "Luật Tố tụng hình sự",
+"explanation": "Luật Tố tụng hình sự quy định trình tự, thủ tục khởi tố, điều tra, truy tố, xét xử và thi hành án hình sự nhằm phát hiện chính xác tội phạm, không bỏ lọt tội phạm và không làm oan người vô tội."
+},
+{
+"question": "Một trong những cơ quan có thẩm quyền tiến hành tố tụng hình sự là cơ quan nào?",
+"options": [
+"Cơ quan Điều tra",
+"Đoàn Luật sư",
+"Trung tâm Trọng tài",
+"Văn phòng Công chứng"
+],
+"answer": "Cơ quan Điều tra",
+"explanation": "Các cơ quan tiến hành tố tụng hình sự bao gồm: Cơ quan điều tra, Viện kiểm sát và Tòa án nhân dân."
+},
+{
+"question": "Người bị buộc tội được coi là không có tội cho đến khi được chứng minh theo trình tự luật định và có bản án kết tội của Tòa án đã có hiệu lực pháp luật phản ánh nguyên tắc nào?",
+"options": [
+"Suy đoán vô tội",
+"Bảo đảm quyền bào chữa",
+"Tranh tụng dân sự công bằng",
+"Thành khẩn khai báo giảm nhẹ"
+],
+"answer": "Suy đoán vô tội",
+"explanation": "Nguyên tắc suy đoán vô tội là nguyên tắc tiến bộ, cốt lõi của tố tụng hình sự nhằm bảo vệ quyền con người, tránh làm oan sai người vô tội."
+},
+{
+"question": "Giai đoạn đầu tiên của tố tụng hình sự khi cơ quan chức năng tiếp nhận và xử lý nguồn tin về tội phạm gọi là gì?",
+"options": [
+"Khởi tố vụ án hình sự",
+"Điều tra vụ án",
+"Truy tố bị can",
+"Xét xử sơ thẩm"
+],
+"answer": "Khởi tố vụ án hình sự",
+"explanation": "Trình tự tố tụng hình sự gồm các giai đoạn: Khởi tố, điều tra, truy tố, xét xử và thi hành án. Khởi tố là giai đoạn mở đầu xác định có dấu hiệu tội phạm hay không."
+},
+{
+"question": "Hệ thống các quy phạm pháp luật quy định trình tự, thủ tục giải quyết các tranh chấp dân sự, hôn nhân gia đình, kinh doanh thương mại gọi là gì?",
+"options": [
+"Luật Tố tụng dân sự",
+"Luật Tố tụng hành chính",
+"Luật Tố tụng hình sự",
+"Luật Trọng tài thương mại"
+],
+"answer": "Luật Tố tụng dân sự",
+"explanation": "Luật Tố tụng dân sự quy định trình tự, thủ tục khởi kiện, giải quyết các vụ án dân sự để bảo vệ quyền và lợi ích hợp pháp của cá nhân, cơ quan, tổ chức."
+},
+{
+"question": "Trong tố tụng dân sự, người khởi kiện yêu cầu Tòa án giải quyết vụ án dân sự được gọi là gì?",
+"options": [
+"Nguyên đơn",
+"Bị đơn",
+"Người bị hại",
+"Người có quyền lợi liên quan"
+],
+"answer": "Nguyên đơn",
+"explanation": "Nguyên đơn trong vụ án dân sự là người khởi kiện, người được cá nhân, cơ quan, tổ chức khác khởi kiện để yêu cầu Tòa án bảo vệ quyền lợi bị xâm phạm."
+},
+{
+"question": "Giai đoạn đặc trưng mang tính bắt buộc trước khi Tòa án đưa vụ án dân sự ra xét xử sơ thẩm là gì?",
+"options": [
+"Hòa giải",
+"Cưỡng chế kê biên",
+"Khởi tố bị can",
+"Thực hành công tố"
+],
+"answer": "Hòa giải",
+"explanation": "Trong quá trình giải quyết vụ án dân sự, Tòa án có trách nhiệm tiến hành hòa giải để các đương sự thỏa thuận với nhau về việc giải quyết vụ án, trừ các trường hợp không được hòa giải."
+},
+{
+"question": "Trình tự, thủ tục giải quyết khiếu kiện đối với quyết định hành chính, hành vi hành chính của cơ quan nhà nước thuộc phạm vi điều chỉnh của ngành luật nào?",
+"options": [
+"Luật Tố tụng hành chính",
+"Luật Tố tụng dân sự",
+"Luật Tố tụng hình sự",
+"Luật Thanh tra chính phủ"
+],
+"answer": "Luật Tố tụng hành chính",
+"explanation": "Luật Tố tụng hành chính quy định trình tự, thủ tục khiếu kiện các quyết định hành chính, hành vi hành chính trái pháp luật của cơ quan, người có thẩm quyền."
+},
+{
+"question": "Cá nhân, tổ chức khởi kiện vụ án hành chính tại Tòa án được gọi là gì?",
+"options": [
+"Người khởi kiện",
+"Người bị kiện",
+"Bị can hành chính",
+"Bị cáo hành chính"
+],
+"answer": "Người khởi kiện",
+"explanation": "Theo Luật Tố tụng hành chính, đương sự bao gồm người khởi kiện (cá nhân, tổ chức nộp đơn kiện), người bị kiện (cơ quan, người có thẩm quyền ra quyết định bị kiện)."
+},
+{
+"question": "Quy chế pháp lý thiết lập quan hệ giữa các quốc gia và các chủ thể quốc tế khác dựa trên luật pháp quốc tế được gọi là gì?",
+"options": [
+"Pháp luật quốc tế",
+"Pháp luật nội bang",
+"Hiến pháp đa quốc gia",
+"Luật hành chính quốc tế"
+],
+"answer": "Pháp luật quốc tế",
+"explanation": "Pháp luật quốc tế là hệ thống các nguyên tắc và quy phạm pháp luật được các quốc gia thỏa thuận xây dựng nên nhằm điều chỉnh quan hệ giữa các quốc gia và chủ thể quốc tế khác."
+},
+{
+"question": "Một trong những nguyên tắc cơ bản của pháp luật quốc tế hiện đại là gì?",
+"options": [
+"Bình đẳng chủ quyền giữa các quốc gia",
+"Dùng vũ lực để giải quyết mọi tranh chấp",
+"Can thiệp thô bạo vào nội bộ nước khác",
+"Ưu tiên quyền lợi của các nước siêu cường"
+],
+"answer": "Bình đẳng chủ quyền giữa các quốc gia",
+"explanation": "Nguyên tắc bình đẳng chủ quyền giữa các quốc gia là nền tảng của quan hệ quốc tế, tôn trọng sự độc lập, toàn vẹn lãnh thổ và thể chế chính trị của nhau."
+},
+{
+"question": "Văn bản pháp lý quốc tế do các quốc gia hoặc chủ thể luật quốc tế thỏa thuận ký kết nhằm xác lập quyền và nghĩa vụ gọi là gì?",
+"options": [
+"Điều ước quốc tế",
+"Tập quán địa phương",
+"Luật quốc gia",
+"Thông tư hướng dẫn"
+],
+"answer": "Điều ước quốc tế",
+"explanation": "Điều ước quốc tế là văn bản pháp lý quốc tế bằng văn bản, ký kết giữa các quốc gia hoặc tổ chức quốc tế nhằm thiết lập các cam kết ràng buộc."
+},
+{
+"question": "Công ước Liên hợp quốc về Luật Biển năm 1982 được viết tắt là gì?",
+"options": [
+"UNCLOS 1982",
+"WTO 1995",
+"ASEAN 1967",
+"UNESCO 1945"
+],
+"answer": "UNCLOS 1982",
+"explanation": "UNCLOS 1982 (United Nations Convention on the Law of the Sea) là văn bản pháp lý quốc tế toàn diện quy định về các vùng biển và việc sử dụng đại dương."
+},
+{
+"question": "Việt Nam chính thức trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới (WTO) vào năm nào?",
+"options": [
+"Năm 2007",
+"Năm 1995",
+"Năm 2000",
+"Năm 2015"
+],
+"answer": "Năm 2007",
+"explanation": "Việt Nam gia nhập WTO vào tháng 1 năm 2007, đánh dấu bước tiến lớn trong tiến trình hội nhập kinh tế quốc tế sâu rộng."
+},
+{
+"question": "Thỏa thuận thiết lập khu vực mậu dịch tự do giữa Việt Nam và Liên minh châu Âu được viết tắt là gì?",
+"options": [
+"EVFTA",
+"CPTPP",
+"AFTA",
+"RCEP"
+],
+"answer": "EVFTA",
+"explanation": "EVFTA (EU - Vietnam Free Trade Agreement) là Hiệp định thương mại tự do giữa Việt Nam và Liên minh châu Âu mang lại nhiều ưu đãi thuế quan."
+},
+{
+"question": "Quy chế pháp lý xác định quyền và nghĩa vụ của người lao động nước ngoài làm việc tại Việt Nam phải tuân theo văn bản luật nào của nước sở tại?",
+"options": [
+"Bộ luật Lao động Việt Nam",
+"Luật Dân sự quốc tế",
+"Hiến pháp của nước phái cử",
+"Quy chế nội bộ của đại sứ quán"
+],
+"answer": "Bộ luật Lao động Việt Nam",
+"explanation": "Người lao động nước ngoài làm việc tại Việt Nam phải tuân thủ pháp luật lao động nước Cộng hòa xã hội chủ nghĩa Việt Nam, trừ trường hợp điều ước quốc tế có quy định khác."
+},
+{
+"question": "Hành vi nào dưới đây bị nghiêm cấm trong hoạt động hành chính nhà nước?",
+"options": [
+"Hạch sách, nhũng nhiễu, gây khó khăn cho người dân",
+"Tiếp nhận và giải quyết hồ sơ trước thời hạn quy định",
+"Hướng dẫn người dân làm thủ tục công khai, minh bạch",
+"Tổ chức đối thoại trực tiếp với công dân theo lịch định kỳ"
+],
+"answer": "Hạch sách, nhũng nhiễu, gây khó khăn cho người dân",
+"explanation": "Cán bộ, công chức bị nghiêm cấm lợi dụng chức vụ để gây phiền hà, sách nhiễu công dân trong quá trình thực thi công vụ hành chính."
+},
+{
+"question": "Hình thức sở hữu nào giữ vai trò nền tảng, tư liệu sản xuất chủ yếu thuộc về toàn dân do Nhà nước đại diện chủ sở hữu trong nền kinh tế Việt Nam?",
+"options": [
+"Sở hữu toàn dân",
+"Sở hữu tư nhân",
+"Sở hữu hỗn hợp",
+"Sở hữu tập thể"
+],
+"answer": "Sở hữu toàn dân",
+"explanation": "Đất đai, tài nguyên thiên nhiên... thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý, làm nền tảng kinh tế."
+},
+{
+"question": "Mối quan hệ giữa tăng trưởng kinh tế và phát triển bền vững được thể hiện như thế nào trong nền kinh tế hiện đại?",
+"options": [
+"Tăng trưởng kinh tế là điều kiện cần nhưng phải gắn liền với bảo vệ môi trường và tiến bộ xã hội",
+"Chỉ cần tập trung tối đa cho tăng trưởng kinh tế, các vấn đề khác tự động được giải quyết",
+"Tăng trưởng kinh tế hoàn toàn đối lập và mâu thuẫn với mục tiêu phát triển bền vững",
+"Phát triển bền vững yêu cầu nền kinh tế ngừng tăng trưởng để bảo vệ tài nguyên thiên nhiên"
+],
+"answer": "Tăng trưởng kinh tế là điều kiện cần nhưng phải gắn liền với bảo vệ môi trường và tiến bộ xã hội",
+"explanation": "Tăng trưởng kinh tế cung cấp nguồn lực vật chất, nhưng phát triển bền vững đòi hỏi phải kết hợp chặt chẽ với công bằng xã hội và gìn giữ môi trường sinh thái cho tương lai."
+},
+{
+"question": "Hội nhập kinh tế quốc tế mang lại cơ hội nào sau đây cho các doanh nghiệp Việt Nam?",
+"options": [
+"Mở rộng thị trường xuất khẩu và tiếp cận công nghệ hiện đại",
+"Được Nhà nước trợ cấp vốn vô điều kiện để cạnh tranh nước ngoài",
+"Loại bỏ hoàn toàn mọi đối thủ cạnh tranh trên thị trường nội địa",
+"Không cần tuân thủ các tiêu chuẩn chất lượng khắt khe quốc tế"
+],
+"answer": "Mở rộng thị trường xuất khẩu và tiếp cận công nghệ hiện đại",
+"explanation": "Hội nhập giúp dỡ bỏ rào cản thuế quan, tạo điều kiện cho hàng hóa Việt Nam vươn ra thế giới và thu hút dòng vốn chuyển giao công nghệ cao."
+},
+{
+"question": "Ý nào sau đây phản ánh đúng thách thức của hội nhập kinh tế quốc tế đối với nền kinh tế nước ta?",
+"options": [
+"Sức ép cạnh tranh gay gắt từ hàng hóa và doanh nghiệp nước ngoài",
+"Sự suy giảm tuyệt đối của các mối quan hệ ngoại giao kinh tế",
+"Các doanh nghiệp bị cấm đầu tư ra nước ngoài",
+"Sự biến mất hoàn toàn của các ngành công nghiệp nội địa"
+],
+"answer": "Sức ép cạnh tranh gay gắt từ hàng hóa và doanh nghiệp nước ngoài",
+"explanation": "Khi mở cửa thị trường, hàng hóa nước ngoài tràn vào với mẫu mã đẹp, giá cạnh tranh, tạo áp lực lớn buộc doanh nghiệp trong nước phải tự đổi mới để sinh tồn."
+},
+{
+"question": "Vai trò của Nhà nước trong việc hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam là gì?",
+"options": [
+"Xây dựng khung khổ pháp luật, kiến tạo môi trường kinh doanh bình đẳng, ổn định vĩ mô",
+"Trực tiếp ấn định giá bán cho toàn bộ sản phẩm của các doanh nghiệp tư nhân",
+"Bảo hộ độc quyền cho tất cả các tổng công ty và tập đoàn nhà nước",
+"Cấm các nhà đầu tư nước ngoài mua cổ phần của doanh nghiệp Việt Nam"
+],
+"answer": "Xây dựng khung khổ pháp luật, kiến tạo môi trường kinh doanh bình đẳng, ổn định vĩ mô",
+"explanation": "Nhà nước đóng vai trò kiến tạo, quản lý thông qua luật pháp, chính sách để điều tiết các khuyết tật của thị trường và bảo đảm định hướng xã hội chủ nghĩa."
+},
+{
+"question": "Chính sách trợ giúp xã hội trong hệ thống an sinh xã hội nước ta có ý nghĩa như thế nào?",
+"options": [
+"Hỗ trợ kịp thời cho các đối tượng yếu thế, hoàn cảnh đặc biệt khó khăn ổn định cuộc sống",
+"Đảm bảo phân phối tiền thưởng công bằng cho mọi lao động có năng suất cao",
+"Cung cấp toàn bộ vốn khởi nghiệp miễn phí cho thanh niên nông thôn",
+"Chi trả lương hưu cho người lao động đóng bảo hiểm xã hội đầy đủ"
+],
+"answer": "Hỗ trợ kịp thời cho các đối tượng yếu thế, hoàn cảnh đặc biệt khó khăn ổn định cuộc sống",
+"explanation": "Trợ giúp xã hội (thường xuyên hoặc đột xuất) hướng tới người nghèo, người khuyết tật, nạn nhân thiên tai... không có khả năng tự bảo đảm cuộc sống tối thiểu."
+},
+{
+"question": "Các quyết định hành chính và hành vi hành chính của cơ quan quản lý nhà nước phải đảm bảo tính hợp pháp nghĩa là gì?",
+"options": [
+"Phải phù hợp với nội dung và tinh thần của văn bản quy phạm pháp luật cấp trên",
+"Chỉ cần phù hợp với mong muốn cá nhân của người đứng đầu cơ quan",
+"Có thể thay đổi tùy tiện theo thực tế mà không cần căn cứ vào luật",
+"Được ban hành bằng lời nói và không cần lưu trữ hồ sơ lưu hành"
+],
+"answer": "Phải phù hợp với nội dung và tinh thần của văn bản quy phạm pháp luật cấp trên",
+"explanation": "Tính hợp pháp đòi hỏi mọi hoạt động quản lý hành chính phải tuân thủ nghiêm ngặt thẩm quyền, hình thức, nội dung quy định trong luật."
+},
+{
+"question": "Sự khác biệt căn bản giữa vi phạm hành chính và tội phạm hình sự chủ yếu dựa vào tiêu chí nào?",
+"options": [
+"Mức độ nguy hiểm cho xã hội của hành vi",
+"Địa điểm và thời gian xảy ra hành vi vi phạm",
+"Độ tuổi của người bị thiệt hại do hành vi gây ra",
+"Thành phần xã hội của người thực hiện hành vi"
+],
+"answer": "Mức độ nguy hiểm cho xã hội của hành vi",
+"explanation": "Tội phạm hình sự có mức độ nguy hiểm rất lớn, xâm phạm nghiêm trọng các quan hệ xã hội được luật hình sự bảo vệ, trong khi vi phạm hành chính có mức độ nguy hiểm thấp hơn."
+},
+{
+"question": "Khi tham gia giao thông đường bộ, người điều khiển xe máy không đội mũ bảo hiểm sẽ bị xử lý như thế nào?",
+"options": [
+"Bị xử phạt vi phạm hành chính bằng hình thức phạt tiền",
+"Bị khởi tố vụ án hình sự và chịu mức án cải tạo không giam giữ",
+"Bị buộc phải bồi thường thiệt hại dân sự cho người đi đường",
+"Bị sa thải khỏi cơ quan làm việc theo kỷ luật lao động"
+],
+"answer": "Bị xử phạt vi phạm hành chính bằng hình thức phạt tiền",
+"explanation": "Không đội mũ bảo hiểm vi phạm quy tắc trật tự an toàn giao thông đường bộ, là hành vi vi phạm hành chính và bị xử phạt tiền theo Nghị định của Chính phủ."
+},
+{
+"question": "Một hợp đồng dân sự được coi là vô hiệu khi xảy ra trường hợp nào sau đây?",
+"options": [
+"Một trong các bên tham gia bị lừa dối, ép buộc hoặc không có năng lực hành vi",
+"Các bên tự nguyện thỏa thuận điều chỉnh thời gian giao nhận tài sản",
+"Giá trị của hợp đồng tăng lên do biến động giá cả trên thị trường",
+"Hợp đồng được ký kết bằng hình thức văn bản có công chứng đầy đủ"
+],
+"answer": "Một trong các bên tham gia bị lừa dối, ép buộc hoặc không có năng lực hành vi",
+"explanation": "Hợp đồng vô hiệu khi vi phạm các điều kiện có hiệu lực như: chủ thể không có năng lực hành vi dân sự, không tự nguyện, nội dung vi phạm điều cấm của luật."
+},
+{
+"question": "Hành vi xâm phạm quyền tác giả đối với một tác phẩm văn học nghệ thuật thuộc phạm vi điều chỉnh của ngành luật nào?",
+"options": [
+"Luật Dân sự (Sở hữu trí tuệ)",
+"Luật Hành chính quốc gia",
+"Luật Tố tụng hành chính",
+"Luật Lao động công ích"
+],
+"answer": "Luật Dân sự (Sở hữu trí tuệ)",
+"explanation": "Quyền tác giả là một phần của quyền sở hữu trí tuệ, thuộc nhóm quyền nhân thân và quyền tài sản do Bộ luật Dân sự điều chỉnh bảo vệ."
+},
+{
+"question": "Trách nhiệm hình sự được áp dụng đối với đối tượng nào sau đây?",
+"options": [
+"Cá nhân hoặc pháp nhân thương mại có hành vi phạm tội được quy định trong Bộ luật Hình sự",
+"Mọi tổ chức xã hội không thực hiện đúng các cam kết từ thiện",
+"Người không thực hiện đúng nghĩa vụ thanh toán tiền mua hàng hóa",
+"Cơ quan nhà nước ban hành quyết định hành chính sai thẩm quyền"
+],
+"answer": "Cá nhân hoặc pháp nhân thương mại có hành vi phạm tội được quy định trong Bộ luật Hình sự",
+"explanation": "Trách nhiệm hình sự là trách nhiệm của người hoặc pháp nhân thương mại phạm tội phải chịu hậu quả pháp lý bất lợi trước Nhà nước."
+},
+{
+"question": "Nguyên tắc 'Bảo đảm quyền bào chữa của người bị buộc tội' trong tố tụng hình sự có vai trò gì?",
+"options": [
+"Giúp người bị buộc tội tự bảo vệ hoặc nhờ luật sư bảo vệ quyền lợi hợp pháp, tránh oan sai",
+"Cho phép người phạm tội tự do rời khỏi nơi cư trú trong quá trình điều tra vụ án",
+"Bắt buộc cơ quan điều tra phải đình chỉ vụ án ngay lập tức khi có luật sư tham gia",
+"Giúp người phạm tội tìm cách che giấu các chứng cứ vi phạm pháp luật"
+],
+"answer": "Giúp người bị buộc tội tự bảo vệ hoặc nhờ luật sư bảo vệ quyền lợi hợp pháp, tránh oan sai",
+"explanation": "Bảo đảm quyền bào chữa là nguyên tắc hiến định, giúp người bị buộc tội đưa ra chứng cứ gỡ tội hoặc giảm nhẹ trách nhiệm, bảo đảm xét xử khách quan."
+},
+{
+"question": "Trong tố tụng dân sự, nghĩa vụ chứng minh thuộc về chủ thể nào?",
+"options": [
+"Đương sự có yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp của mình",
+"Tòa án nhân dân có trách nhiệm đi thu thập toàn bộ chứng cứ thay các bên",
+"Viện kiểm sát nhân dân thực hiện nghĩa vụ chứng minh thay cho nguyên đơn",
+"Người làm chứng bắt buộc phải tự tìm chứng cứ xác thực vụ việc"
+],
+"answer": "Đương sự có yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp của mình",
+"explanation": "Khác với tố tụng hình sự, trong tố tụng dân sự, các đương sự có quyền và nghĩa vụ chủ động cung cấp tài liệu, chứng cứ để chứng minh cho yêu cầu của mình là có căn cứ."
+},
+{
+"question": "Tòa án nhân dân ra phán quyết giải quyết vụ án hành chính dưới hình thức văn bản nào?",
+"options": [
+"Bản án hoặc Quyết định",
+"Nghị quyết hành chính",
+"Biên bản phạt vi phạm",
+"Thông báo cưỡng chế"
+],
+"answer": "Bản án hoặc Quyết định",
+"explanation": "Sau khi xét xử công khai, Hội đồng xét xử nhân danh nước Cộng hòa xã hội chủ nghĩa Việt Nam đưa ra phán quyết bằng một Bản án hành chính."
+},
+{
+"question": "Mối quan hệ giữa pháp luật quốc tế và pháp luật quốc gia của Việt Nam được thực hiện theo nguyên tắc nào?",
+"options": [
+"Chủ động nội luật hóa các cam kết quốc tế phù hợp với Hiến pháp Việt Nam",
+"Pháp luật quốc tế hoàn toàn thay thế và xóa bỏ Hiến pháp Việt Nam",
+"Việt Nam không cần tuân thủ các điều ước quốc tế đã ký kết",
+"Pháp luật quốc gia hoàn toàn biệt lập, không tiếp thu luật quốc tế"
+],
+"answer": "Chủ động nội luật hóa các cam kết quốc tế phù hợp với Hiến pháp Việt Nam",
+"explanation": "Việt Nam tôn trọng luật pháp quốc tế, thực hiện các cam kết bằng cách sửa đổi, bổ sung hoặc ban hành luật quốc gia cho phù hợp với điều ước đã tham gia."
+},
+{
+"question": "Khi một điều ước quốc tế mà Việt Nam là thành viên có quy định khác với quy định của luật trong nước thì áp dụng quy định nào?",
+"options": [
+"Áp dụng quy định của điều ước quốc tế đó",
+"Áp dụng quy định của văn bản luật trong nước",
+"Hủy bỏ toàn bộ vụ việc không giải quyết nữa",
+"Chờ xin ý kiến của tổ chức trọng tài nước thứ ba"
+],
+"answer": "Áp dụng quy định của điều ước quốc tế đó",
+"explanation": "Theo Luật Điều ước quốc tế, trường hợp văn bản quy phạm pháp luật trong nước và điều ước quốc tế có quy định khác nhau về cùng một vấn đề thì áp dụng quy định của điều ước quốc tế."
+},
+{
+"question": "Công ước của Liên hợp quốc về Quyền trẻ em thể hiện tinh thần pháp lý quốc tế nào dưới đây?",
+"options": [
+"Bảo vệ, chăm sóc và giáo dục trẻ em không phân biệt đối xử trên toàn cầu",
+"Chỉ áp dụng quyền lợi đối với trẻ em ở các nước phát triển",
+"Ép buộc trẻ em phải tham gia lao động sản xuất kinh tế sớm",
+"Cho phép cha mẹ có quyền định đoạt tuyệt đối tính mạng trẻ em"
+],
+"answer": "Bảo vệ, chăm sóc và giáo dục trẻ em không phân biệt đối xử trên toàn cầu",
+"explanation": "Công ước quy định các quyền cơ bản của trẻ em như quyền được sống, phát triển, bảo vệ và tham gia, mang tính ràng buộc các quốc gia thành viên thực hiện."
+},
+{
+"question": "Ý nào sau đây phản ánh đúng mục tiêu của chính sách giảm nghèo bền vững ở nước ta?",
+"options": [
+"Tạo cơ hội và sinh kế để người nghèo tự vươn lên thoát nghèo, hạn chế tái nghèo",
+"Phát tiền mặt định kỳ cho tất cả mọi người dân sinh sống ở nông thôn",
+"Yêu cầu các hộ giàu phải chia sẻ một nửa tài sản cho hộ nghèo cùng xã",
+"Xóa bỏ hoàn toàn hoạt động sản xuất kinh doanh của các tập đoàn lớn"
+],
+"answer": "Tạo cơ hội và sinh kế để người nghèo tự vươn lên thoát nghèo, hạn chế tái nghèo",
+"explanation": "Chính sách giảm nghèo bền vững không chỉ hỗ trợ trực tiếp mà tập trung hỗ trợ cần câu (học nghề, vay vốn, khuyến nông) để người dân tự chủ kinh tế."
+},
+{
+"question": "Bảo hiểm y tế toàn dân đóng vai trò gì trong việc thực hiện an sinh xã hội?",
+"options": [
+"Chia sẻ rủi ro tài chính y tế, giúp mọi người dân được tiếp cận dịch vụ chăm sóc sức khỏe",
+"Đảm bảo cho mọi bệnh nhân đều được chữa bệnh miễn phí hoàn toàn ở nước ngoài",
+"Cung cấp thu nhập thay thế tiền lương cho người lao động nghỉ việc dài ngày",
+"Tài trợ kinh phí xây dựng toàn bộ hệ thống bệnh viện tư nhân lớn"
+],
+"answer": "Chia sẻ rủi ro tài chính y tế, giúp mọi người dân được tiếp cận dịch vụ chăm sóc sức khỏe",
+"explanation": "Bảo hiểm y tế hoạt động trên nguyên tắc cộng đồng chia sẻ rủi ro, người khỏe hỗ trợ người ốm, giúp giảm bớt gánh nặng viện phí khi đau ốm."
+},
+{
+"question": "Hành vi một cơ quan hành chính chậm trễ cấp giấy chứng nhận quyền sử dụng đất cho người dân mà không có lý do chính đáng đã xâm phạm đến quy tắc nào?",
+"options": [
+"Quy tắc thời hạn và thủ tục hành chính công khai, minh bạch",
+"Quyền tự do định đoạt tuyệt đối của cán bộ tiếp nhận hồ sơ",
+"Quy định về giải quyết tranh chấp quyền sở hữu trí tuệ",
+"Nguyên tắc tự do thỏa thuận hợp đồng của Luật Dân sự"
+],
+"answer": "Quy tắc thời hạn và thủ tục hành chính công khai, minh bạch",
+"explanation": "Cơ quan nhà nước phải giải quyết các thủ tục hành chính của công dân đúng thời hạn luật quy định, việc trì hoãn không lý do là vi phạm công vụ."
+},
+{
+"question": "Khi doanh nghiệp thực hiện các hoạt động kinh doanh, việc tăng trưởng kinh tế bền vững sẽ giúp doanh nghiệp",
+"options": [
+"Tạo ra thặng dư ổn định lâu dài và xây dựng uy tín thương hiệu vững chắc",
+"Triệt tiêu hoàn toàn nghĩa vụ đóng thuế cho ngân sách quốc gia",
+"Tự do khai thác cạn kiệt tài nguyên thiên nhiên mà không bị phạt",
+"Không cần quan tâm đến các chế độ bảo hiểm của người lao động"
+],
+"answer": "Tạo ra thặng dư ổn định lâu dài và xây dựng uy tín thương hiệu vững chắc",
+"explanation": "Tăng trưởng gắn với bền vững giúp doanh nghiệp tối ưu chi phí, được khách hàng đón nhận nhờ trách nhiệm xã hội, tạo tiền đề phát triển dài hạn."
+},
+{
+"question": "Hành vi tự ý sản xuất và bán ra thị trường các sản phẩm nhái nhãn hiệu nổi tiếng đã đăng ký bảo hộ là vi phạm quy định nào?",
+"options": [
+"Vi phạm pháp luật về sở hữu công nghiệp thuộc Luật Dân sự",
+"Vi phạm hợp đồng cung ứng dịch vụ thương mại quốc tế",
+"Thực hiện quyền tự do cạnh tranh lành mạnh trong kinh doanh",
+"Vi phạm quy tắc quản lý trật tự công cộng thuộc Luật Hành chính"
+],
+"answer": "Vi phạm pháp luật về sở hữu công nghiệp thuộc Luật Dân sự",
+"explanation": "Nhãn hiệu hàng hóa là đối tượng của quyền sở hữu công nghiệp. Làm giả nhãn hiệu là hành vi xâm phạm quyền sở hữu trí tuệ được Bộ luật Dân sự bảo vệ."
+},
+{
+"question": "Nhận định nào sau đây là đúng về mối quan hệ giữa quốc tịch và năng lực chủ thể pháp luật hành chính của công dân?",
+"options": [
+"Chỉ công dân mang quốc tịch Việt Nam mới có đầy đủ các quyền chính trị hành chính tại Việt Nam",
+"Người nước ngoài đến du lịch có quyền tham gia thi tuyển vào mọi công chức nhà nước Việt Nam",
+"Người không quốc tịch cư trú tại Việt Nam không phải tuân thủ bất kỳ luật hành chính nào",
+"Quốc tịch không liên quan đến việc xác định quyền và nghĩa vụ hành chính của cá nhân"
+],
+"answer": "Chỉ công dân mang quốc tịch Việt Nam mới có đầy đủ các quyền chính trị hành chính tại Việt Nam",
+"explanation": "Mối quan hệ quốc tịch gắn kết công dân với Nhà nước. Một số quyền hành chính và chính trị đặc thù (như làm công chức, lực lượng vũ trang) chỉ dành riêng cho công dân Việt Nam."
+},
+{
+"question": "Hành vi lái xe ô tô đi vào đường ngược chiều và gây tai nạn giao thông nghiêm trọng làm chết người sẽ bị xử lý theo ngành luật nào?",
+"options": [
+"Luật Hình sự",
+"Luật Hành chính",
+"Luật Dân sự",
+"Luật Lao động"
+],
+"answer": "Luật Hình sự",
+"explanation": "Lái xe vào đường ngược chiều gây hậu quả chết người đã cấu thành tội 'Vi phạm quy định về tham gia giao thông đường bộ' quy định trong Bộ luật Hình sự, nên phải chịu trách nhiệm hình sự."
+},
+{
+"question": "Trong vụ án hình sự, pháp nhân thương mại phạm tội có thể bị áp dụng hình phạt chính nào sau đây?",
+"options": [
+"Phạt tiền hoặc đình chỉ hoạt động có thời hạn/vĩnh viễn",
+"Tước quyền công dân và quản chế hành chính",
+"Phạt tù có thời hạn từ 3 năm đến 20 năm",
+"Cải tạo không giam giữ tại nơi cư trú"
+],
+"answer": "Phạt tiền hoặc đình chỉ hoạt động có thời hạn/vĩnh viễn",
+"explanation": "Theo Bộ luật Hình sự, pháp nhân thương mại phạm tội không bị phạt tù mà bị áp dụng các hình phạt đặc thù như phạt tiền, đình chỉ hoạt động có thời hạn hoặc vĩnh viễn."
+},
+{
+"question": "Quyết định hành chính mang tính cá biệt của Chủ tịch Ủy ban nhân dân cấp huyện xâm phạm đến quyền lợi hợp pháp của doanh nghiệp. Doanh nghiệp có quyền lựa chọn phương thức tố tụng nào?",
+"options": [
+"Khởi kiện vụ án hành chính ra Tòa án nhân dân có thẩm quyền",
+"Khởi tố hình sự đối với Chủ tịch Ủy ban nhân dân huyện",
+"Yêu cầu Trung tâm Trọng tài thương mại hủy bỏ quyết định đó",
+"Làm đơn gửi Tòa án giải quyết theo thủ tục tố tụng dân sự"
+],
+"answer": "Khởi kiện vụ án hành chính ra Tòa án nhân dân có thẩm quyền",
+"explanation": "Khi không đồng ý với quyết định hành chính cá biệt, chủ thể có quyền khiếu nại hoặc khởi kiện vụ án hành chính tại Tòa án theo Luật Tố tụng hành chính."
+},
+{
+"question": "Ý nào sau đây mô tả đúng tính chất của việc thực hiện hợp đồng dân sự?",
+"options": [
+"Các bên phải thực hiện đúng, trung thực, hợp tác và không xâm phạm lợi ích chung",
+"Một bên có quyền tự ý thay đổi nội dung hợp đồng mà không cần báo trước",
+"Hợp đồng dân sự chỉ mang tính chất tham khảo, không có giá trị bắt buộc",
+"Bên có tiềm lực kinh tế mạnh hơn có quyền ép buộc bên kia thực hiện theo ý mình"
+],
+"answer": "Các bên phải thực hiện đúng, trung thực, hợp tác và không xâm phạm lợi ích chung",
+"explanation": "Bộ luật Dân sự quy định việc thực hiện nghĩa vụ dân sự và hợp đồng phải tuân thủ nguyên tắc trung thực, thiện chí, đúng đối tượng, thời hạn và địa điểm."
+},
+{
+"question": "Mục đích tối cao của việc ký kết các Hiệp định tương trợ tư pháp giữa Việt Nam và các nước khác là gì?",
+"options": [
+"Hợp tác đấu tranh phòng chống tội phạm xuyên quốc gia và bảo vệ quyền lợi công dân hai nước",
+"Cho phép cơ quan công an nước ngoài tự do bắt người trên lãnh thổ Việt Nam",
+"Xóa bỏ hoàn toàn biên giới pháp lý giữa hai quốc gia thành viên",
+"Tài trợ kinh phí xây dựng hệ thống tòa án dân sự cho nước nghèo"
+],
+"answer": "Hợp tác đấu tranh phòng chống tội phạm xuyên quốc gia và bảo vệ quyền lợi công dân hai nước",
+"explanation": "Tương trợ tư pháp giúp các quốc gia phối hợp thực hiện các hoạt động điều tra, tống đạt văn bản, dẫn độ tội phạm nhằm bảo vệ an ninh và pháp luật mỗi nước."
+},
+{
+"question": "Hành vi xả chất thải nguy hại chưa qua xử lý của một nhà máy ra biển quốc tế vi phạm văn bản pháp lý quốc tế nào phổ biến nhất?",
+"options": [
+"UNCLOS 1982 (Bảo vệ môi trường biển)",
+"Hiệp định thương mại tự do EVFTA",
+"Hiến chương Liên hợp quốc về quyền con người",
+"Hiệp ước thân thiện và hợp tác ASEAN"
+],
+"answer": "UNCLOS 1982 (Bảo vệ môi trường biển)",
+"explanation": "UNCLOS 1982 quy định nghĩa vụ của tất cả các quốc gia trong việc bảo vệ và gìn giữ môi trường biển, ngăn ngừa, giảm thiểu và kiểm soát ô nhiễm môi trường biển."
+},
+{
+"question": "Doanh nghiệp A tại tỉnh Y liên tục mở rộng nhà xưởng, tuyển dụng thêm 500 lao động địa phương, đẩy mạnh xuất khẩu linh kiện điện tử sang Mỹ, đóng đóng ngân sách nhà nước tăng 30% mỗi năm. Hoạt động của doanh nghiệp A chứng minh",
+"options": [
+"Doanh nghiệp đã đóng góp tích cực vào cả tăng trưởng và phát triển kinh tế của tỉnh",
+"Doanh nghiệp đang tìm cách thao túng toàn bộ nền kinh tế của địa phương",
+"Hoạt động sản xuất của doanh nghiệp chỉ mang tính tự phát, không bền vững",
+"Doanh nghiệp vi phạm quy luật cạnh tranh bằng cách sử dụng quá nhiều lao động"
+],
+"answer": "Doanh nghiệp đã đóng góp tích cực vào cả tăng trưởng và phát triển kinh tế của tỉnh",
+"explanation": "Doanh nghiệp vừa làm gia tăng quy mô sản lượng (tăng trưởng), vừa tạo việc làm và thu nhập cho người dân, đóng góp vào ngân sách xã hội (phát triển)."
+},
+{
+"question": "Nhà nước ban hành Luật Đầu tư, cắt giảm đơn giản hóa 50% thủ tục hành chính liên quan đến cấp phép kinh doanh và áp dụng thuế suất ưu đãi cho doanh nghiệp công nghệ cao. Việc làm này thể hiện",
+"options": [
+"Sự can thiệp sâu sắc làm triệt tiêu tính tự chủ của thị trường",
+"Hoạt động hoàn thiện thể chế kinh tế nhằm kiến tạo môi trường đầu tư thuận lợi",
+"Sự lỏng lẻo trong công tác quản lý các hoạt động sản xuất kinh doanh",
+"Chính sách bảo hộ tuyệt đối, phân biệt đối xử với kinh tế truyền thống"
+],
+"answer": "Hoạt động hoàn thiện thể chế kinh tế nhằm kiến tạo môi trường đầu tư thuận lợi",
+"explanation": "Cải cách thủ tục pháp lý và ưu đãi thuế là biện pháp hoàn thiện thể chế kinh tế, kích thích các chủ thể kinh tế đầu tư phát triển công nghệ."
+},
+{
+"question": "Chị Hoa làm việc tại công ty X, bị tai nạn lao động gãy tay trong giờ làm việc. Chị được quỹ Bảo hiểm xã hội chi trả toàn bộ viện phí và trợ cấp một khoản tiền bằng 5 tháng lương cơ bản. Khoản hỗ trợ này thể hiện vai trò nào của an sinh xã hội?",
+"options": [
+"Trợ giúp kịp thời, giảm bớt khó khăn tài chính và ổn định cuộc sống cho người lao động",
+"Xóa bỏ hoàn toàn trách nhiệm bồi thường cá nhân của giám đốc công ty X",
+"Phân phối lại thu nhập giúp chị Hoa có mức giàu sang tương đương người khác",
+"Biện pháp xử phạt hành chính đối với hành vi vi phạm an toàn lao động"
+],
+"answer": "Trợ giúp kịp thời, giảm bớt khó khăn tài chính và ổn định cuộc sống cho người lao động",
+"explanation": "Chế độ tai nạn lao động của bảo hiểm xã hội bảo đảm an sinh cho người lao động, giúp họ bù đắp tổn thất thu nhập và chi phí y tế khi rủi ro nghề nghiệp xảy ra."
+},
+{
+"question": "Anh Nam xây nhà ở kiên cố đã tự ý đào vỉa hè công cộng để làm lối đi riêng cho ô tô mà không xin phép cơ quan chức năng. Đội Quản lý trật tự đô thị đã lập biên bản và ra quyết định xử phạt hành chính. Việc xử phạt này dựa trên cơ sở nào?",
+"options": [
+"Anh Nam vi phạm quy tắc quản lý hạ tầng giao thông đô thị thuộc Luật Hành chính",
+"Anh Nam vi phạm hợp đồng thuê mướn mặt bằng với chính quyền địa phương",
+"Hành vi của anh Nam đã cấu thành tội hủy hoại tài sản công của Bộ luật Hình sự",
+"Ủy ban nhân dân ép buộc người dân để thu tiền vào quỹ công ích riêng"
+],
+"answer": "Anh Nam vi phạm quy tắc quản lý hạ tầng giao thông đô thị thuộc Luật Hành chính",
+"explanation": "Vỉa hè thuộc hạ tầng công cộng do nhà nước quản lý. Tự ý thay đổi kết cấu mà không phép là hành vi vi phạm hành chính về trật tự đô thị."
+},
+{
+"question": "Chủ cửa hàng tạp hóa B bán hàng tạp hóa đã cố tình bán sữa bột hết hạn sử dụng cho khách hàng, khiến một cháu bé phải nhập viện cấp cứu. Gia đình cháu bé yêu cầu bồi thường thiệt hại về sức khỏe và viện phí. Quan hệ tranh chấp này được giải quyết theo ngành luật nào?",
+"options": [
+"Luật Dân sự",
+"Luật Hành chính",
+"Luật Tố tụng hành chính",
+"Luật Hiến pháp"
+],
+"answer": "Luật Dân sự",
+"explanation": "Tranh chấp về bồi thường thiệt hại ngoài hợp đồng do sức khỏe bị xâm phạm là quan hệ tài sản và nhân thân thuộc thẩm quyền điều chỉnh của Luật Dân sự."
+},
+{
+"question": "Đối tượng X (19 tuổi) đột nhập vào một tiệm vàng, dùng dao đe dọa chủ tiệm và lấy đi số vàng trị giá 200 triệu đồng. Hành vi của X sẽ bị xử lý theo giai đoạn tố tụng hình sự nào đầu tiên khi bị bắt giữ?",
+"options": [
+"Cơ quan Điều tra ra quyết định khởi tố vụ án, khởi tố bị can để tiến hành điều tra",
+"Tòa án nhân dân mở phiên tòa xét xử sơ thẩm công khai và tuyên án phạt tù",
+"Viện kiểm sát nhân dân lập bản cáo trạng để truy tố X ra trước Tòa án",
+"Cơ quan Công an ra quyết định xử phạt vi phạm hành chính và tịch thu tang vật"
+],
+"answer": "Cơ quan Điều tra ra quyết định khởi tố vụ án, khởi tố bị can để tiến hành điều tra",
+"explanation": "Hành vi của X có dấu hiệu của tội 'Cướp tài sản'. Theo trình tự tố tụng hình sự, giai đoạn đầu tiên là khởi tố và điều tra vụ án do Cơ quan điều tra thực hiện."
+},
+{
+"question": "Công ty Minh Trí ký hợp đồng cung cấp 10 tấn gạo cho công ty An Bình nhưng đến hạn lại giao thiếu 2 tấn mà không có lý do chính đáng. Công ty An Bình đã làm đơn kiện ra Tòa án. Vụ việc này sẽ được giải quyết theo trình tự nào?",
+"options": [
+"Trình tự tố tụng dân sự nhằm giải quyết tranh chấp hợp đồng thương mại",
+"Trình tự tố tụng hành chính nhằm hủy bỏ giao dịch của doanh nghiệp tư nhân",
+"Trình tự tố tụng hình sự để bỏ tù giám đốc công ty Minh Trí về tội trốn nợ",
+"Quy trình xử lý vi phạm trật tự quản lý kinh tế của Ủy ban nhân dân"
+],
+"answer": "Trình tự tố tụng dân sự nhằm giải quyết tranh chấp hợp đồng thương mại",
+"explanation": "Tranh chấp hợp đồng giữa các pháp nhân kinh tế là tranh chấp dân sự/thương mại, thuộc phạm vi điều chỉnh và giải quyết theo Bộ luật Tố tụng dân sự."
+},
+{
+"question": "Bà Mai nhận được quyết định của Chủ tịch huyện về việc cưỡng chế dỡ bỏ hàng rào bảo vệ đất mà bà cho là đất hợp pháp của tổ tiên. Bà Mai đã nộp đơn khởi kiện quyết định cưỡng chế này ra Tòa án nhân dân tỉnh. Tiến trình giải quyết vụ kiện này tuân theo luật nào?",
+"options": [
+"Luật Tố tụng hành chính",
+"Luật Tố tụng dân sự",
+"Luật Tố tụng hình sự",
+"Luật Đất đai dân sự"
+],
+"answer": "Luật Tố tụng hành chính",
+"explanation": "Khiếu kiện quyết định hành chính của người đứng đầu cơ quan quản lý hành chính nhà nước thuộc đối tượng giải quyết của Tòa án theo Luật Tố tụng hành chính."
+},
+{
+"question": "Một công ty của Việt Nam xuất khẩu lô hàng thủy sản sang thị trường Pháp nhưng bị phía hải quan nước bạn giữ lại vì cho rằng vi phạm quy định về dư lượng kháng sinh theo thỏa thuận EVFTA. Để giải quyết tranh chấp này, các bên cần căn cứ vào đâu?",
+"options": [
+"Các điều khoản tiêu chuẩn kỹ thuật quy định trong Hiệp định EVFTA và luật pháp quốc tế",
+"Luật Xử lý vi phạm hành chính của riêng nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+"Quyết định hành chính cá biệt của Bộ trưởng Bộ Công thương Việt Nam",
+"Nội quy lao động và sản xuất nội bộ của công ty xuất khẩu Việt Nam"
+],
+"answer": "Các điều khoản tiêu chuẩn kỹ thuật quy định trong Hiệp định EVFTA và luật pháp quốc tế",
+"explanation": "Tranh chấp thương mại quốc tế phát sinh từ hiệp định song/đa phương phải được đối chiếu và giải quyết dựa trên chính văn bản hiệp định đó và tập quán quốc tế liên quan."
+},
+{
+"question": "Anh Hoàng (đại diện công ty Việt Nam) ký hợp đồng hợp tác với ông John (quốc tịch Anh) để mở chuỗi nhà hàng tại Hà Nội. Trong quá trình thực hiện, ông John tự ý rút toàn bộ vốn về nước trái thỏa thuận hợp đồng. Việc xử lý vi phạm hợp đồng này dựa trên nguyên tắc nào của luật pháp?",
+"options": [
+"Tôn trọng sự thỏa thuận hợp pháp trong hợp đồng và áp dụng quy định của Bộ luật Dân sự Việt Nam",
+"Sử dụng biện pháp cưỡng chế hình sự bắt giữ ngay ông John tại nước Anh",
+"Tịch thu toàn bộ tài sản riêng của gia đình ông John đang sinh sống tại nước Anh",
+"Yêu cầu Đại sứ quán Anh tại Việt Nam đứng ra chi trả tiền thay cho ông John"
+],
+"answer": "Tôn trọng sự thỏa thuận hợp pháp trong hợp đồng và áp dụng quy định của Bộ luật Dân sự Việt Nam",
+"explanation": "Tranh chấp hợp đồng dân sự có yếu tố nước ngoài xảy ra trên lãnh thổ Việt Nam, nếu các bên không chọn luật khác, sẽ áp dụng Bộ luật Dân sự Việt Nam để giải quyết bồi thường."
+},
+{
+"question": "Nhận thấy tỉnh Hải Dương có thế mạnh về nông nghiệp sản xuất nông sản sạch, Nhà nước đã đầu tư ngân sách xây dựng hệ thống kênh mương hiện đại, hỗ trợ vốn vay ưu đãi cho các hợp tác xã, đồng thời kết nối doanh nghiệp xuất khẩu để bao tiêu sản phẩm vải thiều ra thị trường quốc tế. Những biện pháp tổng thể này phản ánh tư duy điều tiết vĩ mô nào của Nhà nước?",
+"options": [
+"Sự kết hợp đồng bộ giữa phát triển kinh tế vùng, hoàn thiện thể chế và đẩy mạnh hội nhập kinh tế quốc tế nhằm mục tiêu phát triển bền vững",
+"Chính sách bảo hộ độc quyền của Nhà nước, loại bỏ hoàn toàn vai trò tự điều tiết của quy luật cung cầu",
+"Sự can thiệp hành chính áp đặt làm giảm tính chủ động sáng tạo của người nông dân địa phương",
+"Biện pháp tình thế tạm thời nhằm giải quyết khủng hoảng thừa nông sản trong ngắn hạn"
+],
+"answer": "Sự kết hợp đồng bộ giữa phát triển kinh tế vùng, hoàn thiện thể chế và đẩy mạnh hội nhập kinh tế quốc tế nhằm mục tiêu phát triển bền vững",
+"explanation": "Việc hỗ trợ hạ tầng (phát triển nguồn lực), hỗ trợ vốn (thể chế kinh tế) và tìm đường xuất khẩu (hội nhập) là sự vận dụng toàn diện lý thuyết quản lý kinh tế hiện đại của Nhà nước giúp nâng cao đời sống nhân dân bền vững."
+},
+{
+"question": "Chính phủ triển khai Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi, trong đó hỗ trợ đất ở, đất sản xuất, nước sinh hoạt và đào tạo nghề miễn phí cho hàng vạn hộ gia đình khó khăn. Xét về bản chất kinh tế - pháp luật, chương trình này đạt được mục tiêu nào?",
+"options": [
+"Sử dụng ngân sách nhà nước để thực hiện chính sách an sinh xã hội, thu hẹp khoảng cách giàu nghèo và bảo đảm công bằng xã hội",
+"Sự bao cấp toàn diện của Nhà nước, khiến người dân miền núi nảy sinh tâm lý thụ động, ỷ lại vào chính quyền",
+"Hành vi phân bổ nguồn lực kinh tế không đồng đều, gây thiệt thòi cho cư dân sinh sống tại các đô thị lớn",
+"Biện pháp nhằm thay thế hoàn toàn hoạt động của các quỹ từ thiện tự phát trong xã hội"
+],
+"answer": "Sự sử dụng ngân sách nhà nước để thực hiện chính sách an sinh xã hội, thu hẹp khoảng cách giàu nghèo và bảo đảm công bằng xã hội",
+"explanation": "Chương trình hỗ trợ toàn diện về sinh kế cho vùng khó khăn là biểu hiện sinh động của chính sách an sinh xã hội (trợ giúp xã hội và giảm nghèo), giúp hiện thực hóa quyền bình đẳng giữa các dân tộc."
+},
+{
+"question": "Giám đốc công ty hóa chất X đã chỉ đạo nhân viên bí mật chôn lấp 20 tấn chất thải độc hại chưa qua xử lý xuống lòng đất ngay trong khuôn viên nhà máy nhằm tiết kiệm chi phí vận hành hệ thống lọc thải. Hành vi này bị cơ quan Cảnh sát môi trường bắt quả tang. Hành vi của vị giám đốc này sẽ bị xử lý pháp lý ra sao?",
+"options": [
+"Bị truy cứu trách nhiệm hình sự về tội gây ô nhiễm môi trường theo Bộ luật Hình sự, đồng thời công ty phải bồi thường thiệt hại dân sự",
+"Chỉ bị xử phạt vi phạm hành chính bằng hình thức phạt tiền và nhắc nhở phê bình nội bộ công khai",
+"Bị buộc phải đóng cửa doanh nghiệp vĩnh viễn mà không cần qua trình tự xét xử của Tòa án nhân dân",
+"Được miễn trừ mọi trách nhiệm pháp lý nếu doanh nghiệp cam kết đóng góp tiền vào quỹ từ thiện địa phương"
+],
+"answer": "Bị truy cứu trách nhiệm hình sự về tội gây ô nhiễm môi trường theo Bộ luật Hình sự, đồng thời công ty phải bồi thường thiệt hại dân sự",
+"explanation": "Hành vi cố ý chôn lấp chất thải nguy hại khối lượng lớn gây nguy cơ ô nhiễm nghiêm trọng là tội danh hình sự. Cá nhân chỉ đạo phải chịu trách nhiệm hình sự, và pháp nhân phải khắc phục hậu quả bồi thường thiệt hại theo luật dân sự."
+},
+{
+"question": "Anh Long kinh doanh dịch vụ karaoke, dù đã bị cơ quan có thẩm quyền ra quyết định đình chỉ hoạt động do không đảm bảo các điều kiện an toàn về phòng cháy chữa cháy, nhưng vẫn lén lút mở cửa đón khách. Khi kiểm tra đột xuất, Chủ tịch Ủy ban nhân dân xã đã lập biên bản. Quyết định xử lý nào sau đây là đúng thẩm quyền và bản chất pháp lý?",
+"options": [
+"Chủ tịch Ủy ban nhân dân xã ra quyết định xử phạt vi phạm hành chính trong phạm vi thẩm quyền và yêu cầu dừng ngay hành vi vi phạm",
+"Chủ tịch Ủy ban nhân dân xã ra lệnh phạt tù anh Long 6 tháng về tội coi thường kỷ cương hành chính",
+"Tịch thu toàn bộ ngôi nhà và đất đai thuộc sở hữu của anh Long để bán đấu giá công ích",
+"Yêu cầu người dân trong xã đến đập phá toàn bộ thiết bị âm thanh của quán karaoke này"
+],
+"answer": "Chủ tịch Ủy ban nhân dân xã ra quyết định xử phạt vi phạm hành chính trong phạm vi thẩm quyền và yêu cầu dừng ngay hành vi vi phạm",
+"explanation": "Anh Long vi phạm quy định quản lý nhà nước về phòng cháy chữa cháy, đây là vi phạm hành chính. Chủ tịch xã có thẩm quyền xử phạt hành chính theo hạn mức quy định của Luật Xử lý vi phạm hành chính."
+},
+{
+"question": "Ông Hùng ký hợp đồng bán căn nhà thuộc sở hữu riêng của mình cho anh Bình với giá 2 tỷ đồng, hai bên đã lập văn bản công chứng và anh Bình đã giao trước 1,5 tỷ đồng. Tuy nhiên, một tuần sau, giá đất tăng mạnh, ông Hùng đã tự ý bán và sang tên căn nhà đó cho ông Tiến với giá 2,5 tỷ đồng. Anh Bình cần sử dụng công cụ pháp lý nào để bảo vệ quyền lợi chính đáng?",
+"options": [
+"Khởi kiện ông Hùng ra Tòa án nhân dân theo thủ tục tố tụng dân sự để buộc thực hiện hợp đồng hoặc bồi thường thiệt hại do vi phạm hợp đồng",
+"Thuê người đến đập phá ngôi nhà để ngăn cản không cho ông Tiến dọn vào sinh sống",
+"Làm đơn tố cáo gửi Ủy ban nhân dân huyện yêu cầu tịch thu lại căn nhà của ông Hùng",
+"Làm đơn khởi kiện hành chính đối với văn phòng công chứng đã chứng thực hợp đồng của ông Tiến"
+],
+"answer": "Khởi kiện ông Hùng ra Tòa án nhân dân theo thủ tục tố tụng dân sự để buộc thực hiện hợp đồng hoặc bồi thường thiệt hại do vi phạm hợp đồng",
+"explanation": "Đây là tranh chấp hợp đồng mua bán tài sản thuần túy dân sự. Anh Bình là nguyên đơn, có quyền khởi kiện dân sự đòi bảo vệ quyền lợi, yêu cầu bồi thường thiệt hại do ông Hùng bội tín vi phạm nghĩa vụ."
+},
+{
+"question": "Anh Minh (20 tuổi, lái xe tải) do buồn ngủ đã đâm vào xe máy của chị Lan đang dừng đèn đỏ, khiến chị Lan bị thương tật 65% và xe máy bị hư hỏng hoàn toàn. Cơ quan chức năng xác định anh Minh vi phạm quy định giao thông đường bộ. Trách nhiệm pháp lý đặt ra đối với anh Minh gồm những loại nào?",
+"options": [
+"Trách nhiệm hình sự đối với hành vi gây tai nạn nghiêm trọng và trách nhiệm dân sự bồi thường chi phí y tế, tài sản cho chị Lan",
+"Chỉ chịu trách nhiệm hành chính phạt tiền và bị tước giấy phép lái xe vĩnh viễn không bồi thường",
+"Trách nhiệm kỷ luật lao động của công ty vận tải và trách nhiệm hành chính của Công an giao thông",
+"Anh Minh được miễn trừ mọi trách nhiệm nếu chứng minh được lý do buồn ngủ là bất khả kháng"
+],
+"answer": "Trách nhiệm hình sự đối với hành vi gây tai nạn nghiêm trọng và trách nhiệm dân sự bồi thường chi phí y tế, tài sản cho chị Lan",
+"explanation": "Gây tai nạn giao thông dẫn đến thương tật từ 61% trở lên đã đủ yếu tố cấu thành tội hình sự theo Bộ luật Hình sự. Song song đó, anh Minh phải chịu trách nhiệm dân sự bồi thường toàn bộ thiệt hại vật chất và tinh thần gây ra cho nạn nhân."
+},
+{
+"question": "Trong một vụ án kinh tế phức tạp, Cơ quan Điều tra phát hiện giám đốc công ty A có hành vi lập hóa đơn khống để chiếm đoạt tiền hoàn thuế. Sau khi kết thúc điều tra, hồ sơ được chuyển sang Viện kiểm sát nhân dân cùng cấp. Giai đoạn tiếp theo của tiến trình tố tụng này sẽ diễn ra như thế nào?",
+"options": [
+"Viện kiểm sát nghiên cứu hồ sơ để ra bản cáo trạng truy tố bị can trước Tòa án, bảo đảm thực hành quyền công tố đúng luật",
+"Viện kiểm sát tự mình ra bản án kết tội bị can và chuyển thẳng sang cơ quan thi hành án phạt tù",
+"Viện kiểm sát ra quyết định xử phạt tiền hành chính đối với doanh nghiệp và khép lại hồ sơ vụ án",
+"Viện kiểm sát bàn giao hồ sơ cho Tòa án tối cao để tiến hành điều tra lại từ đầu"
+],
+"answer": "Viện kiểm sát nghiên cứu hồ sơ để ra bản cáo trạng truy tố bị can trước Tòa án, bảo đảm thực hành quyền công tố đúng luật",
+"explanation": "Theo trình tự tố tụng hình sự, sau giai đoạn điều tra là giai đoạn truy tố do Viện kiểm sát thực hiện. Viện kiểm sát có nhiệm vụ tối cao là thực hành quyền công tố, quyết định việc truy tố bị can ra trước Tòa án bằng bản cáo trạng."
+},
+{
+"question": "Tòa án nhân dân huyện X đang giải quyết tranh chấp đất đai giữa gia đình ông An và bà Bình. Tại phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải, hai bên đã thống nhất được phương án phân chia ranh giới đất dưới sự chứng kiến của Thẩm phán. Hệ quả pháp lý tiếp theo của sự việc này là gì?",
+"options": [
+"Thẩm phán ra quyết định công nhận sự thỏa thuận của các đương sự, quyết định này có hiệu lực pháp luật ngay và các bên không có quyền kháng cáo",
+"Tòa án vẫn bắt buộc phải mở phiên tòa xét xử sơ thẩm để tuyên một bản án mới theo ý kiến của Hội thẩm",
+"Quyết định hòa giải thành công chỉ có giá trị tham khảo, các bên có quyền thay đổi ý kiến bất cứ lúc nào",
+"Bà Bình có quyền làm đơn khiếu nại hành chính đòi hủy bỏ biên bản hòa giải đã ký"
+],
+"answer": "Thẩm phán ra quyết định công nhận sự thỏa thuận của các đương sự, quyết định này có hiệu lực pháp luật ngay và các bên không có quyền kháng cáo",
+"explanation": "Trong tố tụng dân sự, nếu hết thời hạn 07 ngày kể từ ngày lập biên bản hòa giải thành mà không có đương sự nào thay đổi ý kiến, Thẩm phán sẽ ra quyết định công nhận sự thỏa thuận, có hiệu lực thi hành ngay."
+},
+{
+"question": "Doanh nghiệp sản xuất nước giải khát K bị Chánh thanh tra Sở Y tế ra quyết định xử phạt vi phạm hành chính 50 triệu đồng vì vi phạm tiêu chuẩn vệ sinh. Cho rằng mức phạt quá cao và quy trình kiểm mẫu không khách quan, doanh nghiệp K đã làm đơn khởi kiện ra Tòa án nhân dân tỉnh. Trách nhiệm chứng minh tính hợp pháp của quyết định xử phạt thuộc về ai?",
+"options": [
+"Chánh thanh tra Sở Y tế (người bị kiện) phải chứng minh quyết định xử phạt của mình là có căn cứ và đúng pháp luật",
+"Doanh nghiệp K (người khởi kiện) phải tự đi tìm các bằng chứng khoa học để chứng minh mình hoàn toàn vô tội",
+"Tòa án nhân dân tỉnh phải tự chịu toàn bộ chi phí và công sức đi thực nghiệm lại mẫu nước giải khát",
+"Viện kiểm sát nhân dân tỉnh có nghĩa vụ chứng minh thay cho cả hai bên đương sự tại phiên tòa"
+],
+"answer": "Chánh thanh tra Sở Y tế (người bị kiện) phải chứng minh quyết định xử phạt của mình là có căn cứ và đúng pháp luật",
+"explanation": "Đặc thù của tố tụng hành chính là 'nghĩa vụ chứng minh ngược'. Người bị kiện (cơ quan hành chính, người có thẩm quyền) có nghĩa vụ cung cấp chứng cứ, chứng minh tính hợp pháp của quyết định hành chính bị khởi kiện."
+},
+{
+"question": "Một tàu đánh cá nước ngoài xâm phạm sâu vào vùng đặc quyền kinh tế của Việt Nam để đánh bắt hải sản trái phép. Lực lượng Cảnh sát biển Việt Nam đã tiến hành áp sát, bắt giữ và đưa tàu về cảng xử lý. Hành động của lực lượng chức năng Việt Nam đã vận dụng đúng quy định pháp lý nào?",
+"options": [
+"Thực thi quyền chủ quyền và quyền tài phán quốc gia trên biển theo quy định của UNCLOS 1982 và Luật Biển Việt Nam",
+"Hành vi vi phạm nguyên tắc bình đẳng chủ quyền giữa các quốc gia trong pháp luật quốc tế hiện đại",
+"Sự can thiệp thô bạo vào hoạt động kinh tế tự do của công dân các nước thành viên ASEAN",
+"Biện pháp sử dụng vũ lực quân sự để giải quyết tranh chấp ranh giới lãnh hải quốc tế"
+],
+"answer": "Thực thi quyền chủ quyền và quyền tài phán quốc gia trên biển theo quy định của UNCLOS 1982 và Luật Biển Việt Nam",
+"explanation": "Theo UNCLOS 1982, trong vùng đặc quyền kinh tế, quốc gia ven biển có quyền chủ quyền đối với tài nguyên thiên nhiên và quyền tài phán đối với việc bảo vệ môi trường, kiểm soát đánh bắt. Việc bắt giữ tàu vi phạm là hoàn toàn hợp pháp."
+}
+]

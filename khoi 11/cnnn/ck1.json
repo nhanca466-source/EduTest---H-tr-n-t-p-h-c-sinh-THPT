@@ -1,0 +1,1135 @@
+[
+  {
+    "question": "Hoạt động nào sau đây thuộc lĩnh vực chăn nuôi?",
+    "options": [
+      "Nuôi cá tra trong ao",
+      "Nuôi gà thả vườn lấy thịt",
+      "Trồng cây ăn quả",
+      "Khai thác gỗ rừng"
+    ],
+    "answer": "Nuôi gà thả vườn lấy thịt",
+    "explanation": "Nuôi gà thuộc đối tượng vật nuôi trên cạn của ngành chăn nuôi, các hoạt động còn lại thuộc thủy sản và lâm nghiệp."
+  },
+  {
+    "question": "Nhóm vật nuôi nào sau đây thuộc loại gia súc?",
+    "options": [
+      "Gà, vịt, ngan",
+      "Trâu, bò, lợn",
+      "Bồ câu, cút, ngỗng",
+      "Ong, tằm, cá"
+    ],
+    "answer": "Trâu, bò, lợn",
+    "explanation": "Gia súc là các loài động vật bốn chân, có vú, được con người thuần hóa và chăn nuôi như trâu, bò, lợn."
+  },
+  {
+    "question": "Vai trò nào sau đây KHÔNG phải của ngành chăn nuôi?",
+    "options": [
+      "Cung cấp thực phẩm cho con người",
+      "Cung cấp sức kéo cho canh tác",
+      "Cung cấp gỗ và lâm sản xuất khẩu",
+      "Cung cấp nguyên liệu cho công nghiệp chế biến"
+    ],
+    "answer": "Cung cấp gỗ và lâm sản xuất khẩu",
+    "explanation": "Cung cấp gỗ và lâm sản là vai trò của ngành lâm nghiệp, không phải của chăn nuôi."
+  },
+  {
+    "question": "Phương thức chăn nuôi phổ biến nhất ở các hộ gia đình Việt Nam hiện nay là gì?",
+    "options": [
+      "Chăn nuôi công nghiệp",
+      "Chăn thả tự do",
+      "Chăn nuôi bán chăn thả",
+      "Chăn nuôi tự động hóa hoàn toàn"
+    ],
+    "answer": "Chăn nuôi bán chăn thả",
+    "explanation": "Chăn nuôi bán chăn thả kết hợp giữa nuôi nhốt và thả vườn, phù hợp với điều kiện kinh tế hộ gia đình ở nước ta."
+  },
+  {
+    "question": "Đặc điểm nổi bật của phương thức chăn nuôi công nghiệp là gì?",
+    "options": [
+      "Nuôi thả tự do ngoài tự nhiên",
+      "Sử dụng thức ăn tự nhiên là chính",
+      "Nuôi nhốt hoàn toàn, mật độ cao, sử dụng thức ăn công nghiệp",
+      "Quy mô nhỏ lẻ, năng suất thấp"
+    ],
+    "answer": "Nuôi nhốt hoàn toàn, mật độ cao, sử dụng thức ăn công nghiệp",
+    "explanation": "Chăn nuôi công nghiệp đặc trưng bởi quy mô lớn, nuôi nhốt hoàn toàn trong chuồng trại khép kín và dùng thức ăn hỗn hợp."
+  },
+  {
+    "question": "Xu hướng phát triển của chăn nuôi hiện đại ở Việt Nam và thế giới là gì?",
+    "options": [
+      "Quay lại chăn nuôi tự cung tự cấp",
+      "Chăn nuôi bền vững, an toàn sinh học và ứng dụng công nghệ cao",
+      "Chỉ tập trung chăn nuôi các loại gia cầm",
+      "Hạn chế sử dụng máy móc để tăng việc làm cho con người"
+    ],
+    "answer": "Chăn nuôi bền vững, an toàn sinh học và ứng dụng công nghệ cao",
+    "explanation": "Xu hướng tất yếu của chăn nuôi hiện đại là đảm bảo an toàn dịch bệnh, bảo vệ môi trường và tối ưu năng suất nhờ công nghệ."
+  },
+  {
+    "question": "Yếu tố nào sau đây thuộc về công nghệ cao được áp dụng trong quản lý vật nuôi?",
+    "options": [
+      "Dùng vôi bột khử trùng",
+      "Gắn chip điện tử theo dõi sức khỏe vật nuôi",
+      "Cho vật nuôi ăn bằng máng sành",
+      "Đánh dấu tai bằng cách bấm lỗ thủ công"
+    ],
+    "answer": "Gắn chip điện tử theo dõi sức khỏe vật nuôi",
+    "explanation": "Gắn chip điện tử là ứng dụng công nghệ số và IoT trong việc số hóa, quản lý vật nuôi hiện đại."
+  },
+  {
+    "question": "Loại giống vật nuôi nào sau đây là giống nội của Việt Nam?",
+    "options": [
+      "Lợn Landrace",
+      "Gà Đông Tảo",
+      "Bò Holstein Friesian",
+      "Gà Hubbard"
+    ],
+    "answer": "Gà Đông Tảo",
+    "explanation": "Gà Đông Tảo là giống gà quý hiếm bản địa của Việt Nam, xuất xứ từ tỉnh Hưng Yên."
+  },
+  {
+    "question": "Giống lợn nào sau đây được nhập ngoại và nuôi phổ biến ở nước ta để lấy thịt hướng nạc?",
+    "options": [
+      "Lợn Ỉ",
+      "Lợn Móng Cái",
+      "Lợn Yorkshire",
+      "Lợn Sọc Dưa"
+    ],
+    "answer": "Lợn Yorkshire",
+    "explanation": "Lợn Yorkshire là giống lợn ngoại có nguồn gốc từ Anh, thân hình lớn, cho tỉ lệ nạc cao."
+  },
+  {
+    "question": "Chỉ số nào biểu thị khối lượng, kích thước các chiều của cơ thể vật nuôi tăng lên?",
+    "options": [
+      "Sự phát dục",
+      "Sự sinh trưởng",
+      "Sự sinh sản",
+      "Sự thuần hóa"
+    ],
+    "answer": "Sự sinh trưởng",
+    "explanation": "Sinh trưởng là sự tăng lên về khối lượng và kích thước các cơ quan của cơ thể vật nuôi."
+  },
+  {
+    "question": "Sự thay đổi về chất, làm hoàn thiện chức năng của các cơ quan ở vật nuôi gọi là gì?",
+    "options": [
+      "Sự sinh trưởng",
+      "Sự phát dục",
+      "Sự đồng hóa",
+      "Sự dị hóa"
+    ],
+    "answer": "Sự phát dục",
+    "explanation": "Phát dục là quá trình biến đổi về chất, hình thành và hoàn thiện chức năng sinh lí của các cơ quan mới."
+  },
+  {
+    "question": "Phương pháp chọn lọc nào chọn ra những cá thể tốt nhất dựa trực tiếp vào kiểu hình của bản thân vật nuôi?",
+    "options": [
+      "Chọn lọc hàng loạt",
+      "Chọn lọc cá thể",
+      "Chọn lọc theo dòng",
+      "Chọn lọc tổ tiên"
+    ],
+    "answer": "Chọn lọc hàng loạt",
+    "explanation": "Chọn lọc hàng loạt dựa vào tiêu chuẩn định trước và kiểu hình bên ngoài của cả đàn để chọn ra những cá thể đạt yêu cầu."
+  },
+  {
+    "question": "Phương pháp nhân giống nào giao phối giữa các cá thể cùng một giống để duy trì và hoàn thiện giống đó?",
+    "options": [
+      "Nhân giống thuần chủng",
+      "Lai kinh tế",
+      "Lai cải tiến",
+      "Lai xa"
+    ],
+    "answer": "Nhân giống thuần chủng",
+    "explanation": "Nhân giống thuần chủng là cho giao phối giữa hai cá thể đực và cái thuộc cùng một giống nhằm giữ vững đặc tính di truyền."
+  },
+  {
+    "question": "Mục đích chủ yếu của phương pháp lai kinh tế là gì?",
+    "options": [
+      "Tạo ra một giống vật nuôi hoàn toàn mới",
+      "Tạo ra con lai có ưu thế lai cao để thương phẩm lấy thịt, trứng, sữa",
+      "Bảo tồn nguồn gen quý hiếm sắp tuyệt chủng",
+      "Thay thế hoàn toàn đặc điểm của giống nội"
+    ],
+    "answer": "Tạo ra con lai có ưu thế lai cao để thương phẩm lấy thịt, trứng, sữa",
+    "explanation": "Lai kinh tế nhằm khai thác hiện tượng ưu thế lai ở đời con (F1) phục vụ mục đích thương phẩm, không dùng làm giống."
+  },
+  {
+    "question": "Thành phần dinh dưỡng nào chiếm tỉ lệ lớn nhất trong cơ thể của hầu hết vật nuôi non?",
+    "options": [
+      "Chất đạm",
+      "Chất béo",
+      "Nước",
+      "Khoáng chất"
+    ],
+    "answer": "Nước",
+    "explanation": "Nước là thành phần chiếm tỉ lệ cao nhất trong tế bào và cơ thể sinh vật, đặc biệt là ở cơ thể non trẻ."
+  },
+  {
+    "question": "Nhóm thức ăn nào sau đây thuộc nhóm thức ăn giàu tinh bột (thức ăn năng lượng)?",
+    "options": [
+      "Bột cá, bột thịt, bã đậu",
+      "Ngô, thóc, khoai lang khô",
+      "Rơm rạ, cỏ khô, vỏ trấu",
+      "Khô dầu đậu tương, bột máu"
+    ],
+    "answer": "Ngô, thóc, khoai lang khô",
+    "explanation": "Hạt ngũ cốc và củ giàu tinh bột cung cấp nguồn năng lượng chính cho vật nuôi."
+  },
+  {
+    "question": "Thức ăn giàu protein là thức ăn có hàm lượng protein thô chiếm bao nhiêu phần trăm?",
+    "options": [
+      "Dưới 10 phần trăm",
+      "Từ 12 đến 15 phần trăm",
+      "Từ 20 phần trăm trở lên",
+      "Dưới 5 phần trăm"
+    ],
+    "answer": "Từ 20 phần trăm trở lên",
+    "explanation": "Theo phân loại dinh dưỡng, thức ăn có hàm lượng protein thô từ 20 phần trăm trở lên được xếp vào nhóm giàu protein."
+  },
+  {
+    "question": "Mục đích chính của việc chế biến thức ăn chăn nuôi là gì?",
+    "options": [
+      "Tăng khối lượng thức ăn để vật nuôi ăn được nhiều hơn",
+      "Tăng độ ngon miệng, dễ tiêu hóa, giảm độc tố và tăng hiệu quả sử dụng",
+      "Giúp thức ăn có thể bảo quản vô thời hạn",
+      "Làm thay đổi hoàn toàn cấu trúc hóa học của các chất khoáng"
+    ],
+    "answer": "Tăng độ ngon miệng, dễ tiêu hóa, giảm độc tố và tăng hiệu quả sử dụng",
+    "explanation": "Chế biến làm biến đổi cấu trúc, tăng mùi vị, cắt ngắn chuỗi polime giúp hệ tiêu hóa vật nuôi hấp thụ tốt hơn."
+  },
+  {
+    "question": "Phương pháp ứng dụng công nghệ vi sinh nào biến đổi sinh khối vi khuẩn, nấm men thành nguồn đạm?",
+    "options": [
+      "Ủ xanh thức ăn thô",
+      "Sản xuất protein đơn bào",
+      "Ủ men bột ngô",
+      "Làm chín bằng nhiệt"
+    ],
+    "answer": "Sản xuất protein đơn bào",
+    "explanation": "Protein đơn bào là sinh khối thu được từ vi sinh vật nuôi cấy trên các nguồn cơ chất thích hợp, rất giàu đạm."
+  },
+  {
+    "question": "Chuồng nuôi gia súc nên chọn hướng nào là tốt nhất để tránh gió lùa mùa đông và đón gió mát mùa hè tại Việt Nam?",
+    "options": [
+      "Hướng Chính Bắc",
+      "Hướng Đông Bắc",
+      "Hướng Nam hoặc Đông Nam",
+      "Hướng Tây hoặc Tây Bắc"
+    ],
+    "answer": "Hướng Nam hoặc Đông Nam",
+    "explanation": "Hướng Nam và Đông Nam giúp chuồng trại mát mẻ về mùa hè, ấm áp vào mùa đông nhờ tránh được gió mùa Đông Bắc."
+  },
+  {
+    "question": "Yêu cầu nào sau đây về nền chuồng nuôi lợn là đúng kỹ thuật?",
+    "options": [
+      "Gồ ghề để lợn dễ bám",
+      "Bằng phẳng, nhẵn thín như gương",
+      "Có độ dốc vừa phải hướng về rãnh thoát nước, không trơn trượt",
+      "Làm bằng đất mềm để lợn đào bới"
+    ],
+    "answer": "Có độ dốc vừa phải hướng về rãnh thoát nước, không trơn trượt",
+    "explanation": "Nền chuồng phải có độ dốc từ 1 đến 2 phần trăm về phía cống thoát để dễ vệ sinh, đồng thời không trơn để tránh chấn thương."
+  },
+  {
+    "question": "Biện pháp nào sau đây thuộc nguyên tắc an toàn sinh học trong chăn nuôi?",
+    "options": [
+      "Cho người lạ thoải mái vào tham quan chuồng nuôi",
+      "Cách ly triệt để vật nuôi mới nhập đàn để theo dõi",
+      "Sử dụng chung dụng cụ chăn nuôi giữa các khu chuồng bị bệnh",
+      "Tích tụ chất thải chăn nuôi lâu ngày không xử lý"
+    ],
+    "answer": "Cách ly triệt để vật nuôi mới nhập đàn để theo dõi",
+    "explanation": "Cách ly vật nuôi mới từ 2 đến 3 tuần giúp ngăn ngừa mầm bệnh lạ xâm nhập vào hệ thống chăn nuôi hiện tại."
+  },
+  {
+    "question": "Bệnh nào sau đây ở vật nuôi do virus gây ra?",
+    "options": [
+      "Bệnh tụ huyết trùng lợn",
+      "Bệnh dịch tả lợn châu Phi",
+      "Bệnh đóng dấu lợn",
+      "Bệnh sán lá gan trâu bò"
+    ],
+    "answer": "Bệnh dịch tả lợn châu Phi",
+    "explanation": "Dịch tả lợn châu Phi là bệnh truyền nhiễm nguy hiểm do African swine fever virus gây ra."
+  },
+  {
+    "question": "Loại thuốc nào sau đây dùng để tiêu diệt hoặc ức chế sự phát triển của vi khuẩn gây bệnh?",
+    "options": [
+      "Vắc xin",
+      "Thuốc kháng sinh",
+      "Vitamin",
+      "Thuốc bổ gan"
+    ],
+    "answer": "Thuốc kháng sinh",
+    "explanation": "Kháng sinh là những chất có khả năng tiêu diệt hoặc kìm hãm vi khuẩn, không có tác dụng với virus."
+  },
+  {
+    "question": "Mục đích chính của việc tiêm vắc xin cho vật nuôi là gì?",
+    "options": [
+      "Để chữa bệnh khi vật nuôi đã phát bệnh nặng",
+      "Giúp cơ thể vật nuôi sản sinh miễn dịch chủ động chống lại mầm bệnh trước khi nhiễm",
+      "Làm cho vật nuôi béo nhanh hơn",
+      "Thay thế hoàn toàn thức ăn hằng ngày"
+    ],
+    "answer": "Giúp cơ thể vật nuôi sản sinh miễn dịch chủ động chống lại mầm bệnh trước khi nhiễm",
+    "explanation": "Vắc xin chứa mầm bệnh đã chết hoặc suy yếu, kích thích cơ thể tạo kháng thể phòng bệnh chủ động."
+  },
+  {
+    "question": "Trong chăn nuôi gà đẻ trứng, việc chiếu sáng có tác dụng sinh học chủ yếu nào?",
+    "options": [
+      "Giúp gà nhìn thấy đường đi vào ban đêm",
+      "Kích thích tuyến yên tiết hormone thúc đẩy quá trình chín và rụng trứng",
+      "Làm ấm chuồng nuôi thay cho lò sưởi",
+      "Tiêu diệt hoàn toàn vi khuẩn trên lông gà"
+    ],
+    "answer": "Kích thích tuyến yên tiết hormone thúc đẩy quá trình chín và rụng trứng",
+    "explanation": "Ánh sáng tác động qua cơ quan thị giác đến hệ thần kinh và tuyến yên, điều hòa sinh sản ở gia cầm."
+  },
+  {
+    "question": "Sản phẩm nào dưới đây là chất thải rắn của ngành chăn nuôi cần được xử lý?",
+    "options": [
+      "Nước rửa chuồng",
+      "Khí amoniac",
+      "Phân và chất độn chuồng",
+      "Hơi nước"
+    ],
+    "answer": "Phân và chất độn chuồng",
+    "explanation": "Phân, chất độn chuồng, thức ăn thừa rơi vãi thuộc nhóm chất thải rắn trong chăn nuôi."
+  },
+  {
+    "question": "Công nghệ nào ứng dụng chất thải chăn nuôi để sản xuất năng lượng sạch (khí đốt) và phân bón hữu cơ?",
+    "options": [
+      "Công nghệ ủ phân xanh",
+      "Công nghệ khí sinh học (Biogas)",
+      "Công nghệ sấy khô cấp tốc",
+      "Công nghệ thiêu hủy"
+    ],
+    "answer": "Công nghệ khí sinh học (Biogas)",
+    "explanation": "Biogas phân hủy chất thải hữu cơ trong điều kiện kị khí, tạo ra khí methane làm chất đốt và nước thải làm phân bón."
+  },
+  {
+    "question": "Mô hình nuôi giun quế sử dụng chất thải chăn nuôi thuộc xu hướng chăn nuôi nào?",
+    "options": [
+      "Chăn nuôi lãng phí",
+      "Chăn nuôi tuần hoàn",
+      "Chăn nuôi độc canh",
+      "Chăn nuôi tự phát"
+    ],
+    "answer": "Chăn nuôi tuần hoàn",
+    "explanation": "Chăn nuôi tuần hoàn tận dụng phế phụ phẩm, chất thải của công đoạn này làm đầu vào cho công đoạn khác (phân nuôi giun, giun làm thức ăn)."
+  },
+  {
+    "question": "Nội dung nào sau đây mô tả đúng về ứng dụng công nghệ nuôi cấy mô tế bào trong chăn nuôi?",
+    "options": [
+      "Tạo ra các dòng tế bào để sản xuất vắc xin hoặc nhân bản vô tính tinh trùng",
+      "Trồng cỏ nuôi bò bằng phương pháp vô tính",
+      "Chế biến thức ăn bằng nấm men",
+      "Sửa chữa cơ khí máy băm cỏ"
+    ],
+    "answer": "Tạo ra các dòng tế bào để sản xuất vắc xin hoặc nhân bản vô tính tinh trùng",
+    "explanation": "Công nghệ tế bào động vật ứng dụng trong bảo tồn nguồn gen, nhân bản hoặc sản xuất các chế phẩm sinh học bảo vệ vật nuôi."
+  },
+  {
+    "question": "Kỹ thuật thụ tinh nhân tạo cho vật nuôi nghĩa là gì?",
+    "options": [
+      "Cho con đực và con cái giao phối tự nhiên trong phòng thí nghiệm",
+      "Lấy tinh dịch từ con đực, kiểm tra, pha loãng rồi bơm vào tử cung con cái bằng dụng cụ",
+      "Nuôi trứng và tinh trùng trong ống nghiệm thành con non rồi cấy vào chuồng",
+      "Thay thế cơ quan sinh sản của vật nuôi bằng máy móc"
+    ],
+    "answer": "Lấy tinh dịch từ con đực, kiểm tra, pha loãng rồi bơm vào tử cung con cái bằng dụng cụ",
+    "explanation": "Thụ tinh nhân tạo giúp con người chủ động chọn lọc tinh trùng tốt, tăng hiệu suất sử dụng đực giống mà không cần giao phối trực tiếp."
+  },
+  {
+    "question": "Thuật ngữ 'Ưu thế lai' dùng để chỉ hiện tượng nào?",
+    "options": [
+      "Con lai có sức sống, năng suất kém hơn bố mẹ",
+      "Con lai có các đặc điểm vượt trội hơn hẳn so với bố mẹ thuần chủng",
+      "Đời con giống hệt hoàn toàn một bên bố hoặc mẹ",
+      "Sự thoái hóa giống qua các thế hệ liên tiếp"
+    ],
+    "answer": "Con lai có các đặc điểm vượt trội hơn hẳn so với bố mẹ thuần chủng",
+    "explanation": "Ưu thế lai là hiện tượng cơ thể lai F1 có sức sống, khả năng chống chịu và năng suất vượt trội so với các thế hệ bố mẹ."
+  },
+  {
+    "question": "Thức ăn hỗn hợp hoàn chỉnh cho vật nuôi là gì?",
+    "options": [
+      "Chỉ gồm một loại hạt nông sản duy nhất",
+      "Hỗn hợp của nhiều loại thức ăn được phối chế đáp ứng đầy đủ nhu cầu dinh dưỡng cho từng giai đoạn của vật nuôi",
+      "Thức ăn tự nhiên ngoài đồng cỏ",
+      "Hỗn hợp các chất hóa học tổng hợp nhân tạo"
+    ],
+    "answer": "Hỗn hợp của nhiều loại thức ăn được phối chế đáp ứng đầy đủ nhu cầu dinh dưỡng cho từng giai đoạn của vật nuôi",
+    "explanation": "Thức ăn hỗn hợp hoàn chỉnh chứa đầy đủ năng lượng, protein, khoáng, vitamin phối trộn theo công thức khoa học, vật nuôi ăn vào không cần bổ sung gì khác trừ nước uống."
+  },
+  {
+    "question": "Chăn nuôi an toàn sinh học yêu cầu khoảng cách từ trang trại đến khu dân cư như thế nào?",
+    "options": [
+      "Càng gần càng tốt để tiện bán sản phẩm",
+      "Phải cách xa khu dân cư, trường học, bệnh viện theo quy định của pháp luật",
+      "Nằm ngay trong trung tâm thành phố lớn",
+      "Không có quy định cụ thể nào về khoảng cách"
+    ],
+    "answer": "Phải cách xa khu dân cư, trường học, bệnh viện theo quy định của pháp luật",
+    "explanation": "Khoảng cách an toàn giúp hạn chế lây lan dịch bệnh từ môi trường ngoài vào trại và ngược lại, giảm ô nhiễm tiếng ồn, mùi hôi cho khu dân cư."
+  },
+  {
+    "question": "Biện pháp xử lý xác vật nuôi chết do bệnh truyền nhiễm nguy hiểm nào sau đây là đúng pháp luật?",
+    "options": [
+      "Vứt xuống sông, hồ gần nhất",
+      "Bán rẻ cho các lò mổ lậu",
+      "Chôn sâu kèm vôi bột hoặc thiêu hủy tại vị trí quy định",
+      "Để nguyên tại chuồng nuôi một thời gian"
+    ],
+    "answer": "Chôn sâu kèm vôi bột hoặc thiêu hủy tại vị trí quy định",
+    "explanation": "Tiêu hủy bằng cách chôn sâu, đổ vôi bột hoặc đốt giúp tiêu diệt triệt để mầm bệnh, ngăn chặn dịch lây lan diện rộng."
+  },
+  {
+    "question": "Chăn nuôi hữu cơ tuyệt đối KHÔNG sử dụng chất nào sau đây?",
+    "options": [
+      "Cỏ tươi tự nhiên",
+      "Hạt ngô hữu cơ",
+      "Chất kích thích tăng trưởng và kháng sinh phòng bệnh định kỳ",
+      "Nước uống sạch"
+    ],
+    "answer": "Chất kích thích tăng trưởng và kháng sinh phòng bệnh định kỳ",
+    "explanation": "Tiêu chuẩn chăn nuôi hữu cơ nghiêm cấm sử dụng các hóa chất tổng hợp, chất tăng trọng, kháng sinh hóa học."
+  },
+  {
+    "question": "Sự phát triển của ngành chăn nuôi tạo ra sinh kế và việc làm cho nhóm đối tượng nào lớn nhất ở nông thôn?",
+    "options": [
+      "Các kỹ sư công nghệ thông tin",
+      "Người lao động nông nghiệp và nông dân",
+      "Các phi công và tiếp viên",
+      "Nhân viên ngân hàng"
+    ],
+    "answer": "Người lao động nông nghiệp và nông dân",
+    "explanation": "Chăn nuôi là sinh kế truyền thống và cơ bản, thu hút phần lớn lực lượng lao động tại nông thôn Việt Nam."
+  },
+  {
+    "question": "Ứng dụng internet kết nối vạn vật (IoT) trong chăn nuôi giúp người chủ trang trại có thể làm gì?",
+    "options": [
+      "Thay thế con vật ăn hộ thức ăn",
+      "Giám sát nhiệt độ, độ ẩm chuồng trại và điều khiển thiết bị từ xa qua điện thoại",
+      "Làm cho vật nuôi tự biến đổi gen",
+      "Tự động tăng gấp đôi giá bán sản phẩm trên thị trường"
+    ],
+    "answer": "Giám sát nhiệt độ, độ ẩm chuồng trại và điều khiển thiết bị từ xa qua điện thoại",
+    "explanation": "IoT liên kết cảm biến chuồng trại với hệ thống máy chủ, cho phép theo dõi và tinh chỉnh môi trường nuôi tự động."
+  },
+  {
+    "question": "Giống vật nuôi có vai trò như thế nào trong sản xuất chăn nuôi?",
+    "options": [
+      "Không quan trọng bằng màu sơn chuồng trại",
+      "Là yếu tố quyết định đến năng suất và chất lượng sản phẩm chăn nuôi",
+      "Chỉ có tác dụng làm cảnh",
+      "Là yếu tố có thể thay thế bằng bất kỳ loại thức ăn nào"
+    ],
+    "answer": "Là yếu tố quyết định đến năng suất và chất lượng sản phẩm chăn nuôi",
+    "explanation": "Năng suất chăn nuôi phụ thuộc trước hết vào tiềm năng di truyền của giống vật nuôi; giống tốt mới phát huy được hiệu quả của thức ăn."
+  },
+  {
+    "question": "Ngành chăn nuôi cung cấp nguyên liệu đầu vào cho ngành sản xuất nào sau đây?",
+    "options": [
+      "Công nghiệp dệt may, giày da, chế biến thực phẩm",
+      "Sản xuất xi măng và vật liệu xây dựng",
+      "Chế tạo linh kiện điện tử",
+      "Luyện kim và khai khoáng"
+    ],
+    "answer": "Công nghiệp dệt may, giày da, chế biến thực phẩm",
+    "explanation": "Chăn nuôi cung cấp thịt, trứng, sữa cho ngành thực phẩm; da, lông cho ngành may mặc, giày da."
+  },
+  {
+    "question": "Tại sao việc phát triển chăn nuôi bền vững lại cần gắn liền với việc bảo vệ môi trường?",
+    "options": [
+      "Vì bảo vệ môi trường giúp hạ giá thành thức ăn chăn nuôi ngay lập tức",
+      "Vì chất thải chăn nuôi nếu không xử lý sẽ làm ô nhiễm đất, nước, không khí, phát sinh dịch bệnh ảnh hưởng ngược lại vật nuôi và con người",
+      "Vì môi trường sạch sẽ giúp tăng trọng lượng vật nuôi lên gấp mười lần",
+      "Vì đó là quy định mang tính hình thức, không ảnh hưởng đến kinh tế"
+    ],
+    "answer": "Vì chất thải chăn nuôi nếu không xử lý sẽ làm ô nhiễm đất, nước, không khí, phát sinh dịch bệnh ảnh hưởng ngược lại vật nuôi và con người",
+    "explanation": "Chăn nuôi bền vững bắt buộc phải giải quyết bài toán chất thải để bảo vệ hệ sinh thái, tránh khủng hoảng dịch bệnh diện rộng."
+  },
+  {
+    "question": "Vì sao phương thức chăn thả tự do không còn phù hợp với chăn nuôi thương phẩm quy mô lớn hiện nay?",
+    "options": [
+      "Do vật nuôi di chuyển nhiều sẽ làm hỏng cảnh quan đô thị",
+      "Do năng suất thấp, khó kiểm soát dịch bệnh và gây ô nhiễm môi trường tự do",
+      "Do phương thức này tốn quá nhiều chi phí mua thức ăn hỗn hợp",
+      "Do con vật dễ bị béo phì khi chạy nhảy tự do"
+    ],
+    "answer": "Do năng suất thấp, khó kiểm soát dịch bệnh và gây ô nhiễm môi trường tự do",
+    "explanation": "Chăn thả tự do phụ thuộc hoàn toàn tự nhiên, năng suất thịt/trứng thấp, con vật dễ tiếp xúc với mầm bệnh ngoài môi trường gây lây lan dịch."
+  },
+  {
+    "question": "Giải thích tại sao giống lợn Móng Cái thường được dùng làm nái nền trong các công thức lai kinh tế ở Việt Nam?",
+    "options": [
+      "Vì lợn Móng Cái cho tỉ lệ nạc cực kỳ cao vượt trội giống ngoại",
+      "Vì chúng có ưu điểm thích nghi tốt với khí hậu nóng ẩm, mắn đẻ, nuôi con khéo và dễ nuôi",
+      "Vì cơ thể chúng lớn nhanh hơn lợn Landrace ngoại nhập",
+      "Vì chúng có màu lông đẹp làm tăng giá trị thẩm mỹ của trang trại"
+    ],
+    "answer": "Vì chúng có ưu điểm thích nghi tốt với khí hậu nóng ẩm, mắn đẻ, nuôi con khéo và dễ nuôi",
+    "explanation": "Lợn Móng Cái (giống nội) sở hữu đặc tính sinh sản tốt, khả năng chống chịu bệnh cao, khi lai với đực ngoại sẽ cho đời con vừa khỏe vừa nhiều nạc."
+  },
+  {
+    "question": "Sự khác biệt căn bản giữa chọn lọc hàng loạt và chọn lọc cá thể là gì?",
+    "options": [
+      "Chọn lọc hàng loạt tốn nhiều thời gian và chi phí hơn chọn lọc cá thể",
+      "Chọn lọc hàng loạt dựa trên kiểu hình của cả đàn, còn chọn lọc cá thể dựa trên sức sản xuất của từng cá thể và đời sau của nó",
+      "Chọn lọc hàng loạt chỉ áp dụng cho gia súc lớn, chọn lọc cá thể áp dụng cho gia cầm",
+      "Không có sự khác biệt nào về độ chính xác giữa hai phương pháp"
+    ],
+    "answer": "Chọn lọc hàng loạt dựa trên kiểu hình của cả đàn, còn chọn lọc cá thể dựa trên sức sản xuất của từng cá thể và đời sau của nó",
+    "explanation": "Chọn lọc cá thể kiểm tra được cả kiểu gen thông qua đời sau nên có độ chính xác rất cao, tiến bộ di truyền nhanh hơn chọn lọc hàng loạt."
+  },
+  {
+    "question": "Tại sao không dùng con lai F1 của phép lai kinh tế để làm giống cho thế hệ tiếp theo?",
+    "options": [
+      "Vì con lai F1 không có khả năng sinh sản (bị vô sinh hoàn toàn)",
+      "Vì ở thế hệ F2, các gen sẽ bị phân ly dẫn đến ưu thế lai bị giảm mạnh, năng suất không đồng đều",
+      "Vì luật chăn nuôi cấm sử dụng con lai F1 dưới mọi hình thức",
+      "Vì con lai F1 có kích thước quá lớn không thể giao phối được"
+    ],
+    "answer": "Vì ở thế hệ F2, các gen sẽ bị phân ly dẫn đến ưu thế lai bị giảm mạnh, năng suất không đồng wooden",
+    "explanation": "Theo quy luật di truyền, đời F2 sẽ phân tính, làm xuất hiện nhiều kiểu hình xấu, tính trạng phân tán và mất đi ưu thế lai đỉnh cao của F1."
+  },
+  {
+    "question": "Việc bổ sung enzyme tiêu hóa vào thức ăn chăn nuôi nhằm mục đích gì?",
+    "options": [
+      "Thay thế hoàn toàn lượng đạm có trong thức ăn",
+      "Hỗ trợ hệ tiêu hóa phân giải các chất hữu cơ phức tạp, tăng hiệu suất hấp thu dinh dưỡng",
+      "Làm cho thức ăn chuyển sang màu sắc bắt mắt hơn",
+      "Giúp bảo quản thức ăn lâu hơn trong điều kiện ẩm ướt"
+    ],
+    "answer": "Hỗ trợ hệ tiêu hóa phân giải các chất hữu cơ phức tạp, tăng hiệu suất hấp thu dinh dưỡng",
+    "explanation": "Enzyme ngoại sinh giúp bẻ gãy các liên kết khó tiêu (như xơ, phytate) mà cơ thể vật nuôi không tự phân giải được, giảm lãng phí thức ăn."
+  },
+  {
+    "question": "Tại sao thức ăn ủ xanh lại có mùi thơm chua nhẹ và được trâu bò rất thích ăn?",
+    "options": [
+      "Do quá trình lên men kị khí sinh ra axit lactic và các este mùi thơm",
+      "Do người chăn nuôi trộn thêm nước giấm và đường vào thức ăn",
+      "Do các tế bào cỏ tự giải thể thành chất béo thơm",
+      "Do quá trình phân hủy thối rữa của các loại vi khuẩn độc hại"
+    ],
+    "answer": "Do quá trình lên men kị khí sinh ra axit lactic và các este mùi thơm",
+    "explanation": "Vi khuẩn lactic phân hủy đường có sẵn trong thức ăn xanh thành axit lactic trong điều kiện kín khí, hạ pH giúp bảo quản cỏ và tạo vị chua ngọt kích thích vị giác."
+  },
+  {
+    "question": "Bản chất của kỹ thuật cấy truyền phôi bò là gì?",
+    "options": [
+      "Lấy phôi từ bò mẹ có gen quý cấy vào tử cung của các bò nhận khác để nhờ mang thai hộ",
+      "Lấy tinh trùng của bò đực cấy trực tiếp vào buồng trứng bò cái",
+      "Nuôi phôi bò trong máy móc cho đến khi thành con bê con hoàn chỉnh",
+      "Cắt một phần cơ thể bò mẹ để nuôi thành một con bò mới"
+    ],
+    "answer": "Lấy phôi từ bò mẹ có gen quý cấy vào tử cung của các bò nhận khác để nhờ mang thai hộ",
+    "explanation": "Kỹ thuật này giúp nhân nhanh số lượng con giống quý từ một cặp bố mẹ xuất sắc thông qua hệ thống bò nhận (bò nền mang thai hộ)."
+  },
+  {
+    "question": "Tại sao chuồng nuôi gia cầm cần có hệ thống thông gió hoạt động liên tục?",
+    "options": [
+      "Để thổi bớt lông gia cầm ra ngoài cho chuồng sạch sẽ",
+      "Để loại bỏ các khí độc như amoniac, hydrogen sulfide và cung cấp oxy, điều hòa nhiệt độ chuồng nuôi",
+      "Để kích thích gia cầm bay lượn nhiều hơn tăng độ săn chắc của thịt",
+      "Để giảm bớt tiếng ồn do gia cầm phát ra"
+    ],
+    "answer": "Để loại bỏ các khí độc như amoniac, hydrogen sulfide và cung cấp oxy, điều hòa nhiệt độ chuồng nuôi",
+    "explanation": "Gia cầm có thân nhiệt cao và thải lượng khí độc lớn từ phân; thông gió liên tục giúp giữ môi trường trong lành, tránh ngạt và stress nhiệt."
+  },
+  {
+    "question": "Hố sát trùng đặt tại cổng vào khu chăn nuôi có vai trò gì trong hệ thống an toàn sinh học?",
+    "options": [
+      "Làm sạch bùn đất bám trên bánh xe cho đẹp đội hình",
+      "Tiêu diệt các mầm bệnh (vi khuẩn, virus) bám trên phương tiện vận chuyển và giày dép trước khi vào trại",
+      "Là nơi chứa nước thải sinh hoạt của công nhân",
+      "Để ngăn chặn các động vật hoang dã bò vào trại"
+    ],
+    "answer": "Tiêu diệt các mầm bệnh (vi khuẩn, virus) bám trên phương tiện vận chuyển và giày dép trước khi vào trại",
+    "explanation": "Hố chứa hóa chất sát trùng là chốt chặn sinh học đầu tiên ngăn ngừa mầm bệnh từ môi trường bên ngoài lây truyền cơ giới vào trang trại."
+  },
+  {
+    "question": "Tại sao sử dụng kháng sinh quá liều hoặc sai mục đích lại gây hại cho vật nuôi và người tiêu dùng?",
+    "options": [
+      "Làm vật nuôi chán ăn hoàn toàn và sụt cân ngay lập tức",
+      "Gây ra hiện tượng kháng thuốc ở vi khuẩn, tồn dư kháng sinh trong sản phẩm (thịt, trứng) ảnh hưởng sức khỏe con người",
+      "Làm biến đổi màu sắc của thịt lợn từ đỏ sang xanh",
+      "Kháng sinh hóa học sẽ biến thành chất phóng xạ gây nguy hiểm"
+    ],
+    "answer": "Gây ra hiện tượng kháng thuốc ở vi khuẩn, tồn dư kháng sinh trong sản phẩm (thịt, trứng) ảnh hưởng sức khỏe con người",
+    "explanation": "Lạm dụng kháng sinh tạo áp lực chọn lọc làm xuất hiện siêu vi khuẩn kháng thuốc, đồng thời dư lượng chất hóa học trong thực phẩm gây độc cho người ăn."
+  },
+  {
+    "question": "Nguyên lý hoạt động của vắc xin trong việc bảo vệ cơ thể vật nuôi chống lại bệnh tật là gì?",
+    "options": [
+      "Vắc xin trực tiếp tấn công và tiêu diệt virus đang gây bệnh trong máu",
+      "Vắc xin kích thích hệ miễn dịch nhận diện mầm bệnh và tạo ra kháng thể, tế bào nhớ để sẵn sàng tiêu diệt mầm bệnh thật sau này",
+      "Vắc xin bọc một lớp màng bảo vệ xung quanh tất cả các tế bào của cơ thể",
+      "Vắc xin cung cấp năng lượng tức thời giúp vật nuôi khỏe mạnh vượt qua cơn bệnh"
+    ],
+    "answer": "Vắc xin kích thích hệ miễn dịch nhận diện mầm bệnh và tạo ra kháng thể, tế bào nhớ để sẵn sàng tiêu diệt mầm bệnh thật sau này",
+    "explanation": "Vắc xin đóng vai trò như một đợt tập trận giả, huấn luyện hệ miễn dịch nhận biết và phản ứng cực nhanh khi có mầm bệnh thực sự xâm nhập."
+  },
+  {
+    "question": "Tại sao việc ứng dụng đệm lót sinh học trong chuồng nuôi gà lại giảm được mùi hôi thối?",
+    "options": [
+      "Do đệm lót sinh học hấp thụ toàn bộ phân vào lòng đất sâu",
+      "Do các vi sinh vật có ích trong đệm lót phân hủy chất hữu cơ trong phân, ức chế vi khuẩn lên men thối",
+      "Do đệm lót tỏa ra mùi hương nước hoa nhân tạo lấn át mùi hôi",
+      "Do đệm lót làm gà không đi tiêu ra chuồng nữa"
+    ],
+    "answer": "Do các vi sinh vật có ích trong đệm lót phân hủy chất hữu cơ trong phân, ức chế vi khuẩn lên men thối",
+    "explanation": "Men sinh học chứa các chủng vi khuẩn, nấm có lợi giúp phân giải nhanh protein và chất hữu cơ thành chất không mùi, ngăn chặn sự hình thành khí amoniac."
+  },
+  {
+    "question": "Mục đích của việc kiểm tra chất lượng tinh dịch của đực giống trước khi tiến hành thụ tinh nhân tạo là gì?",
+    "options": [
+      "Để xác định màu sắc xem tinh dịch có đẹp mắt hay không",
+      "Để đánh giá mật độ, sức hoạt động của tinh trùng nhằm đảm bảo tỷ lệ đậu thai cao và chất lượng đời con",
+      "Để kiểm tra xem con đực có ăn no hay không",
+      "Để tính toán lượng nước cần pha thêm vào cho càng nhiều càng tốt"
+    ],
+    "answer": "Để đánh giá mật độ, sức hoạt động của tinh trùng nhằm đảm bảo tỷ lệ đậu thai cao và chất lượng đời con",
+    "explanation": "Tinh dịch không đạt chuẩn về mật độ hoặc tỷ lệ dị dạng cao sẽ bị loại bỏ để tránh lãng phí chi phí phối giống và không đạt hiệu quả sinh sản."
+  },
+  {
+    "question": "Sự khác biệt về nhu cầu dinh dưỡng giữa lợn giai đoạn nuôi thịt và lợn nái đang nuôi con là gì?",
+    "options": [
+      "Lợn thịt cần nhiều năng lượng và đạm để tạo cơ, lợn nái nuôi con cần hàm lượng đạm, khoáng chất cực cao để sản xuất sữa",
+      "Lợn nái nuôi con chỉ cần ăn rau xanh, còn lợn thịt chỉ ăn cám công nghiệp",
+      "Lợn thịt cần nhiều khoáng chất hơn lợn nái nuôi con",
+      "Hai giai đoạn này có nhu cầu dinh dưỡng hoàn toàn giống nhau"
+    ],
+    "answer": "Lợn thịt cần nhiều năng lượng và đạm để tạo cơ, lợn nái nuôi con cần hàm lượng đạm, khoáng chất cực cao để sản xuất sữa",
+    "explanation": "Lợn nái nuôi con phải huy động lượng lớn chất dinh dưỡng từ cơ thể ra sữa nuôi đàn con nên khẩu phần cần đậm đặc dinh dưỡng hơn lợn thịt."
+  },
+  {
+    "question": "Chăn nuôi công nghệ cao giúp người nuôi giải quyết bài toán gì trong bối cảnh biến đổi khí hậu?",
+    "options": [
+      "Làm cho thời tiết không còn biến đổi nữa",
+      "Chủ động điều hòa tiểu khí hậu chuồng nuôi, cách ly vật nuôi khỏi tác động cực đoan của thời tiết bên ngoài",
+      "Giúp vật nuôi tự mọc lông dày hơn khi trời lạnh",
+      "Biến đổi vật nuôi thành sinh vật không cần uống nước"
+    ],
+    "answer": "Chủ động điều hòa tiểu khí hậu chuồng nuôi, cách ly vật nuôi khỏi tác động cực đoan của thời tiết bên ngoài",
+    "explanation": "Chuồng kín (chuồng lạnh) ứng dụng cảm biến tự động giữ nhiệt độ, độ ẩm luôn ổn định lý tưởng, bất chấp bên ngoài nắng nóng gay gắt hay rét đậm."
+  },
+  {
+    "question": "Tại sao trong quy trình sản xuất thức ăn hỗn hợp, việc nghiền nhỏ nguyên liệu hạt lại là bắt buộc?",
+    "options": [
+      "Để làm giảm khối lượng thực tế của nguyên liệu",
+      "Để tăng diện tích tiếp xúc với dịch tiêu hóa, giúp vật nuôi dễ nhai, dễ nuốt và tiêu hóa triệt để hơn",
+      "Để thay đổi bản chất hóa học của các phân tử tinh bột",
+      "Để dễ đóng gói vào bao bì nhỏ hơn"
+    ],
+    "answer": "Để tăng diện tích tiếp xúc với dịch tiêu hóa, giúp vật nuôi dễ nhai, dễ nuốt và tiêu hóa triệt để hơn",
+    "explanation": "Hạt nhỏ giúp các enzyme tiêu hóa trong ruột tiếp cận dễ dàng, phá vỡ màng cellulose của hạt, nâng cao tỷ lệ hấp thu chất dinh dưỡng."
+  },
+  {
+    "question": "Vai trò của việc luân chuyển các nhóm thuốc sát trùng khác nhau trong trang trại chăn nuôi là gì?",
+    "options": [
+      "Để thay đổi màu sắc cho công nhân đỡ nhàm chán",
+      "Tránh hiện tượng mầm bệnh thích nghi và nhờn thuốc (kháng thuốc sát trùng)",
+      "Để tiết kiệm chi phí vì mua một loại sẽ bị đắt",
+      "Để ủng hộ các công ty sản xuất thuốc khác nhau"
+    ],
+    "answer": "Tránh hiện tượng mầm bệnh thích nghi và nhờn thuốc (kháng thuốc sát trùng)",
+    "explanation": "Sử dụng liên tục một loại hóa chất sát trùng có thể tạo điều kiện cho các cá thể vi khuẩn, virus có đột biến kháng thuốc sống sót và nhân lên."
+  },
+  {
+    "question": "Tại sao người ta thường sấy khô các loại cỏ, thân cây ngô để làm thức ăn dự trữ cho trâu bò vào mùa đông?",
+    "options": [
+      "Vì sấy khô làm tăng lượng nước có trong cỏ",
+      "Hạ độ ẩm xuống dưới mức vi sinh vật gây thối có thể phát triển, giúp bảo quản được lâu dài trong mùa khan hiếm cỏ tươi",
+      "Vì trâu bò chỉ thích ăn cỏ khô tuyệt đối",
+      "Sấy khô để đốt làm củi sưởi cho trâu bò"
+    ],
+    "answer": "Hạ độ ẩm xuống dưới mức vi sinh vật gây thối có thể phát triển, giúp bảo quản được lâu dài trong mùa khan hiếm cỏ tươi",
+    "explanation": "Khi độ ẩm thức ăn thô giảm xuống dưới 14 phần trăm, nấm mốc và vi khuẩn thối rữa không thể hoạt động, giúp giữ nguyên giá trị dinh dưỡng của cỏ trong nhiều tháng."
+  },
+  {
+    "question": "Ý nghĩa kinh tế của việc phân tách các khu chức năng riêng biệt (khu nuôi phối, khu đẻ, khu nuôi thịt) trong một trại lợn lớn là gì?",
+    "options": [
+      "Để lợn có không gian đi dạo chơi giữa các khu",
+      "Tối ưu hóa quy trình chăm sóc, quản lý dinh dưỡng chuyên biệt và ngăn chặn lây lan dịch bệnh giữa các nhóm lợn",
+      "Để làm cho trang trại trông rộng lớn và đẹp mắt hơn",
+      "Để tăng chi phí xây dựng tường ngăn cách"
+    ],
+    "answer": "Tối ưu hóa quy trình chăm sóc, quản lý dinh dưỡng chuyên biệt và ngăn chặn lây lan dịch bệnh giữa các nhóm lợn",
+    "explanation": "Mỗi nhóm lợn có nhu cầu môi trường và dinh dưỡng hoàn toàn khác nhau; phân khu giúp quản lý chính xác và khoanh vùng dịch bệnh hiệu quả nếu có sự cố."
+  },
+  {
+    "question": "Một trang trại muốn mua lợn giống đực ngoại về để phối giống nâng cao tỉ lệ nạc cho đàn lợn địa phương. Tiêu chí nào sau đây cần quan tâm hàng đầu?",
+    "options": [
+      "Màu lông của con đực phải thật đẹp",
+      "Nguồn gốc rõ ràng, các chỉ số sinh trưởng nhanh, tỉ lệ nạc cao và cơ quan sinh dục phát triển bình thường",
+      "Kích thước tai phải thật to",
+      "Giá thành phải rẻ nhất bất kể tình trạng sức khỏe"
+    ],
+    "answer": "Nguồn gốc rõ ràng, các chỉ số sinh trưởng nhanh, tỉ lệ nạc cao và cơ quan sinh dục phát triển bình thường",
+    "explanation": "Đực giống di truyền tính trạng năng suất (tăng trọng, tỉ lệ nạc) cho hàng ngàn con đời con, do đó các chỉ số năng suất cá thể và cơ quan sinh sản là quan trọng nhất."
+  },
+  {
+    "question": "Khi phát hiện một con gà trong đàn có biểu hiện rủ cánh, đi ngoài phân xanh, sốt cao và chết nhanh, hành động nào sau đây là phù hợp nhất?",
+    "options": [
+      "Bỏ mặc xem các con khác có bị lây không",
+      "Cách ly ngay con ốm, báo thú y và tiến hành các biện pháp tiêu độc khử trùng toàn bộ chuồng trại",
+      "Mang con gà ốm ra chợ bán tháo để gỡ vốn",
+      "Trộn thêm thật nhiều thức ăn vào máng cho các con khác ăn cạnh"
+    ],
+    "answer": "Cách ly ngay con ốm, báo thú y và tiến hành các biện pháp tiêu độc khử trùng toàn bộ chuồng trại",
+    "explanation": "Hành động này giúp cô lập mầm bệnh ngay lập tức, ngăn ngừa nguy cơ dịch bệnh truyền nhiễm lây lan thành đại dịch hủy hoại cả đàn."
+  },
+  {
+    "question": "Nhà bạn Nam có một đàn lợn nội nuôi mãi không lớn, tiêu tốn nhiều thức ăn. Theo em, Nam nên tư vấn gia đình giải quyết vấn đề này từ gốc bằng cách nào?",
+    "options": [
+      "Mua thêm thuốc kích thích tăng trọng loại cực mạnh",
+      "Thay thế đàn giống bằng các giống lợn ngoại hoặc lợn lai hướng nạc có tiềm năng tăng trưởng cao",
+      "Chuyển sang cho lợn ăn hoàn toàn rau chuối ngoài tự nhiên",
+      "Xây lại chuồng nuôi to gấp đôi chuồng cũ"
+    ],
+    "answer": "Thay thế đàn giống bằng các giống lợn ngoại hoặc lợn lai hướng nạc có tiềm năng tăng trưởng cao",
+    "explanation": "Giống lợn nội có giới hạn di truyền về tốc độ lớn và tỉ lệ nạc thấp. Muốn cải thiện năng suất kinh tế bắt buộc phải cải tiến năng suất từ khâu chọn giống."
+  },
+  {
+    "question": "Tại sao việc cho gà ăn thức ăn bị nấm mốc lại có thể gây suy giảm miễn dịch và ngộ độc hàng loạt?",
+    "options": [
+      "Vì nấm mốc làm cho thức ăn cứng hơn gà không nhai được",
+      "Vì nấm mốc sản sinh ra độc tố mycotoxin (như aflatoxin) hủy hoại tế bào gan và ức chế hệ thống miễn dịch của gà",
+      "Vì nấm mốc hút hết toàn bộ nước trong dạ dày của gà",
+      "Vì nấm mốc tạo ra mùi hương làm gà ăn quá nhiều dẫn đến bội thực"
+    ],
+    "answer": "Vì nấm mốc sản sinh ra độc tố mycotoxin (như aflatoxin) hủy hoại tế bào gan và ức chế hệ thống miễn dịch của gà",
+    "explanation": "Aflatoxin trong thức ăn mốc là độc tố cực mạnh, tích lũy trong gan vật nuôi gây nhiễm độc mạn tính hoặc cấp tính, làm hỏng hệ miễn dịch khiến gà dễ mắc các bệnh truyền nhiễm khác."
+  },
+  {
+    "question": "Để giảm thiểu ô nhiễm không khí tại một vùng có mật độ trang trại chăn nuôi lợn dày đặc, giải pháp kỹ thuật nào mang tính bền vững nhất?",
+    "options": [
+      "Yêu cầu các trang trại đóng cửa kín toàn bộ không cho thông gió",
+      "Xây dựng hệ thống hầm biogas kết hợp sử dụng chế phẩm sinh học trong thức ăn và đệm lót để xử lý triệt đi nguồn phát thải",
+      "Xịt nước hoa công nghiệp hằng ngày quanh khu vực dân cư",
+      "Chuyển toàn bộ chất thải chưa xử lý đổ trực tiếp ra các cánh đồng xa"
+    ],
+    "answer": "Xây dựng hệ thống hầm biogas kết hợp sử dụng chế phẩm sinh học trong thức ăn và đệm lót để xử lý triệt đi nguồn phát thải",
+    "explanation": "Sự kết hợp giữa công nghệ biogas và vi sinh xử lý mùi tận gốc từ chuồng nuôi là giải pháp căn cơ, xử lý triệt để chất thải hữu cơ gây mùi hôi độc hại."
+  },
+  {
+    "question": "Gia đình ông An nuôi bò sữa nhưng năng suất sữa dạo này bị giảm sút do thời tiết nắng nóng kéo dài. Ông An nên áp dụng biện pháp nào?",
+    "options": [
+      "Cắt giảm bớt khẩu phần ăn để bò đỡ nóng",
+      "Lắp đặt hệ thống quạt mát, phun mưa mái chuồng, bổ sung chất điện giải và tăng cường thức ăn xanh, mát vào ban đêm",
+      "Ép bò uống thật nhiều nước đá lạnh",
+      "Thả bò ra ngoài đồng nắng để bò tự thích nghi"
+    ],
+    "answer": "Lắp đặt hệ thống quạt mát, phun mưa mái chuồng, bổ sung chất điện giải và tăng cường thức ăn xanh, mát vào ban đêm",
+    "explanation": "Bò sữa rất nhạy cảm với stress nhiệt. Hạ nhiệt chuồng nuôi và bổ sung điện giải giúp duy trì cân bằng sinh lý, kích thích bò ăn uống để tạo sữa."
+  },
+  {
+    "question": "Một người chăn nuôi gà đẻ trứng nhận thấy vỏ trứng dạo này rất mỏng, dễ vỡ. Họ nên bổ sung thành phần nào vào thức ăn cho gà?",
+    "options": [
+      "Bổ sung thêm mỡ động vật và dầu thực vật",
+      "Bổ sung nguồn khoáng canxi và photpho (như bột vỏ sò, bột xương) và vitamin D3",
+      "Bổ sung thêm kháng sinh liều cao",
+      "Tăng lượng rau muống tươi trong khẩu phần"
+    ],
+    "answer": "Bổ sung nguồn khoáng canxi và photpho (như bột vỏ sò, bột xương) và vitamin D3",
+    "explanation": "Vỏ trứng cấu tạo chủ yếu từ calcium carbonate. Thiếu canxi, photpho hoặc vitamin D3 (chất giúp hấp thu canxi) sẽ khiến gà phải rút canxi từ xương làm vỏ trứng bị mỏng."
+  },
+  {
+    "question": "Để xây dựng thương hiệu 'Thịt lợn sạch hoàn toàn không chứa chất cấm', trang trại cần thực hiện nghiêm ngặt khâu quản lý nào?",
+    "options": [
+      "Chỉ cần kiểm tra sản phẩm lúc chuẩn bị xuất bán",
+      "Quản lý khép kín từ nguồn nước, con giống, thức ăn tự phối trộn không hóa chất cấm và có hệ thống truy xuất nguồn gốc rõ ràng",
+      "Sử dụng bao bì đóng gói thật đẹp mắt",
+      "Nuôi lợn bằng các loại phế thải nhà hàng"
+    ],
+    "answer": "Quản lý khép kín từ nguồn nước, con giống, thức ăn tự phối trộn không hóa chất cấm và có hệ thống truy xuất nguồn gốc rõ ràng",
+    "explanation": "Chất lượng thịt sạch được quyết định bởi toàn bộ quá trình nuôi dưỡng lâu dài, việc kiểm soát đầu vào và quy trình nuôi giúp loại bỏ hoàn toàn nguy cơ nhiễm độc chất cấm."
+  },
+  {
+    "question": "Tại sao việc thiết kế máng ăn tự động trong chăn nuôi công nghiệp lại giúp tăng hiệu quả kinh tế hơn so với máng ăn thủ công?",
+    "options": [
+      "Máng tự động làm cho thức ăn tự biến đổi chất ngon hơn",
+      "Giảm thiểu hao hụt thức ăn do rơi vãi, tiết kiệm công lao động và đảm bảo vật nuôi được ăn liên tục theo nhu cầu",
+      "Máng tự động có giá thành mua ban đầu rẻ hơn máng thủ công",
+      "Làm cho vật nuôi sợ hãi nên ăn nhanh hơn"
+    ],
+    "answer": "Giảm thiểu hao hụt thức ăn do rơi vãi, tiết kiệm công lao động và đảm bảo vật nuôi được ăn liên tục theo nhu cầu",
+    "explanation": "Thức ăn chiếm tới 70 phần trăm chi phí chăn nuôi. Máng ăn tự động kiểm soát lượng rơi vãi tối đa và giải phóng sức lao động cho công nhân."
+  },
+  {
+    "question": "Vào mùa mưa ẩm, bệnh tiêu chảy ở lợn con thường xảy ra rất mạnh. Biện pháp phòng bệnh tổng hợp nào hiệu quả nhất?",
+    "options": [
+      "Chờ lợn bị tiêu chảy rồi mới mua thuốc kháng sinh về tiêm loạt",
+      "Giữ nền chuồng luôn khô ráo, ấm áp, định kỳ sát trùng, tiêm phòng vắc xin đầy đủ cho lợn mẹ và lợn con",
+      "Tắm cho lợn con nhiều lần trong ngày bằng nước lạnh",
+      "Cho lợn con nhịn ăn hoàn toàn để ruột trống rỗng"
+    ],
+    "answer": "Giữ nền chuồng luôn khô ráo, ấm áp, định kỳ sát trùng, tiêm phòng vắc xin đầy đủ cho lợn mẹ và lợn con",
+    "explanation": "Phòng bệnh chủ động bằng giữ vệ sinh môi trường (độ ẩm cao là điều kiện cho vi khuẩn phát triển) kết hợp miễn dịch vắc xin là chìa khóa phòng tiêu chảy hiệu quả nhất."
+  },
+  {
+    "question": "Giả sử một vùng chăn nuôi bị ngập lụt sau bão, nguồn nước bị ô nhiễm nghiêm trọng. Nguy cơ lớn nhất đối với đàn vật nuôi tại đây là gì?",
+    "options": [
+      "Vật nuôi bị khát nước do không thích nước đục",
+      "Bùng phát các dịch bệnh truyền nhiễm, đặc biệt là bệnh đường tiêu hóa và bệnh lây lan qua nguồn nước do mầm bệnh phát tán",
+      "Vật nuôi sẽ tự động bỏ trốn khỏi trang trại",
+      "Thức ăn chăn nuôi tự động tăng giá gấp trăm lần"
+    ],
+    "answer": "Bùng phát các dịch bệnh truyền nhiễm, đặc biệt là bệnh đường tiêu hóa và bệnh lây lan qua nguồn nước do mầm bệnh phát tán",
+    "explanation": "Nước lũ mang theo xác động vật và mầm bệnh từ khắp nơi hòa vào nguồn nước sinh hoạt, nếu vật nuôi uống phải hoặc môi trường ẩm ướt ô nhiễm sẽ kích hoạt dịch bệnh bùng phát."
+  },
+  {
+    "question": "Tại sao việc thiết lập hệ thống 'Cùng vào - Cùng ra' (All in - All out) trong các dãy chuồng nuôi lại có khả năng cắt đứt vòng đời của mầm bệnh?",
+    "options": [
+      "Vì lợn cùng tuổi sẽ không tranh giành thức ăn của nhau",
+      "Vì sau khi xuất bán toàn bộ một lứa vật nuôi, chuồng trại được trống hoàn toàn để làm vệ sinh, sát trùng và để trống chuồng cắt đứt nguồn nuôi dưỡng mầm bệnh",
+      "Vì phương pháp này giúp bán được giá cao hơn cho thương lái",
+      "Vì nó bắt buộc tất cả công nhân phải nghỉ phép cùng một lúc"
+    ],
+    "answer": "Vì sau khi xuất bán toàn bộ một lứa vật nuôi, chuồng trại được trống hoàn toàn để làm vệ sinh, sát trùng và để trống chuồng cắt đứt nguồn nuôi dưỡng mầm bệnh",
+    "explanation": "Nếu nuôi gối vụ liên tục, mầm bệnh từ lứa già sẽ lây sang lứa non mới nhập. Trống chuồng tiêu độc từ 7 đến 14 ngày giúp diệt trừ triệt để mầm bệnh lưu trú."
+  },
+  {
+    "question": "Một cơ sở chăn nuôi gà muốn ứng dụng công nghệ chiếu sáng nhân tạo để điều khiển thời gian đẻ trứng của gà. Họ cần dựa vào nguyên lý sinh học nào?",
+    "options": [
+      "Gà chỉ đẻ trứng khi trời hoàn toàn tối đen",
+      "Thời gian chiếu sáng dài liên tục kích thích vùng dưới đồi và tuyến yên tiết hormone kích dục gonadotropin thúc đẩy buồng trứng phát triển",
+      "Ánh sáng nhân tạo làm tăng nhiệt độ cơ thể gà giúp trứng mau chín",
+      "Ánh sáng làm gà không thể ngủ được nên phải đẻ trứng cho đỡ buồn"
+    ],
+    "answer": "Thời gian chiếu sáng dài liên tục kích thích vùng dưới đồi và tuyến yên tiết hormone kích dục gonadotropin thúc đẩy buồng trứng phát triển",
+    "explanation": "Gia cầm là động vật nhạy cảm với chu kỳ quang (thời gian chiếu sáng). Điều khiển thời lượng chiếu sáng hợp lý (14 đến 16 giờ một ngày) giúp duy trì tỷ lệ đẻ đỉnh cao."
+  },
+  {
+    "question": "Khi phối trộn thức ăn hỗn hợp từ ngô, bột cá và cám gạo, tại sao phải tính toán tỷ lệ protein thô thật chính xác?",
+    "options": [
+      "Để thức ăn không bị biến đổi màu sắc sau khi trộn",
+      "Đảm bảo vừa đủ nhu cầu sinh trưởng của vật nuôi, tránh thiếu hụt gây còi cọc hoặc dư thừa gây lãng phí kinh tế và tăng ô nhiễm nitơ trong phân",
+      "Để hạt thức ăn sau khi ép viên đạt độ cứng lớn nhất",
+      "Để đáp ứng đúng luật quảng cáo thức ăn chăn nuôi"
+    ],
+    "answer": "Đảm bảo vừa đủ nhu cầu sinh trưởng của vật nuôi, tránh thiếu hụt gây còi cọc hoặc dư thừa gây lãng phí kinh tế và tăng ô nhiễm nitơ trong phân",
+    "explanation": "Protein là thành phần đắt đỏ nhất trong cám. Thiếu thì lợn không lớn, thừa thì lợn đào thải qua nước tiểu, phân dưới dạng hợp chất nitơ gây mùi khai, thối và lãng phí tiền của."
+  },
+  {
+    "question": "Trong chăn nuôi tuần hoàn, tại sao bùn thải từ hầm biogas sau một thời gian phân hủy lại là nguồn phân bón cực tốt cho cây trồng?",
+    "options": [
+      "Vì nó chứa các hóa chất kích thích sinh trưởng nhân tạo",
+      "Vì quá trình lên men kị khí đã phân hủy các chất hữu cơ phức tạp thành dạng khoáng dễ tiêu, đồng thời tiêu diệt hầu hết hạt cỏ dại và trứng ký sinh trùng",
+      "Vì bùn thải chứa lượng cát lớn giúp làm thoáng đất",
+      "Vì bùn có màu đen giúp hấp thụ ánh nắng mặt trời tốt hơn"
+    ],
+    "answer": "Vì quá trình lên men kị khí đã phân hủy các chất hữu cơ phức tạp thành dạng khoáng dễ tiêu, đồng thời tiêu diệt hầu hết hạt cỏ dại và trứng ký sinh trùng",
+    "explanation": "Quá trình ủ kị khí hoại mục chất thải, chuyển hóa các dạng nitơ khó tan thành ion amoni dễ hấp thụ, sạch mầm bệnh, rất an toàn và tốt cho cây."
+  },
+  {
+    "question": "Tại sao việc nhân bản vô tính động vật (như cừu Dolly) lại khó áp dụng rộng rãi trong chăn nuôi thương phẩm lấy thịt hiện nay?",
+    "options": [
+      "Do động vật nhân bản vô tính không có thịt để ăn",
+      "Do tỷ lệ thành công thấp, chi phí công nghệ quá cao, con vật có nguy cơ mắc các dị tật di truyền và tuổi thọ ngắn",
+      "Do luật pháp quốc tế cấm ăn thịt động vật có màu lông trắng",
+      "Do động vật nhân bản vô tính lớn quá nhanh chuồng nuôi không chứa hết"
+    ],
+    "answer": "Do tỷ lệ thành công thấp, chi phí công nghệ quá cao, con vật có nguy cơ mắc các dị tật di truyền và tuổi thọ ngắn",
+    "explanation": "Nhân bản vô tính hiện tại vẫn dừng lại ở mức độ nghiên cứu và bảo tồn nguồn gen quý do rào cản kỹ thuật phức tạp, giá thành đắt đỏ và các vấn đề về lỗi biểu hiện gen."
+  },
+  {
+    "question": "Để đánh giá hiệu quả của một loại thức ăn mới đối với tốc độ tăng trọng của gà, kỹ sư chăn nuôi cần thực hiện phương pháp thí nghiệm nào?",
+    "options": [
+      "Cho toàn bộ gà trong trại ăn thử rồi đoán bằng mắt",
+      "Chia gà cùng độ tuổi, cân nặng thành 2 lô: lô đối chứng (ăn thức ăn cũ) và lô thí nghiệm (ăn thức ăn mới), nuôi trong cùng điều kiện và cân đo khối lượng định kỳ",
+      "Hỏi ý kiến của những người nuôi gà xung quanh",
+      "Đếm số lượng thức ăn mà gà ăn hết trong ngày đầu tiên"
+    ],
+    "answer": "Chia gà cùng độ tuổi, cân nặng thành 2 lô: lô đối chứng (ăn thức ăn cũ) và lô thí nghiệm (ăn thức ăn mới), nuôi trong cùng điều kiện và cân đo khối lượng định kỳ",
+    "explanation": "Phương pháp khoa học bắt buộc phải có lô đối chứng để loại trừ các yếu tố nhiễu từ môi trường, từ đó khẳng định chính xác hiệu quả do thức ăn mới mang lại."
+  },
+  {
+    "question": "Sự khác biệt cốt lõi giữa mô hình chăn nuôi hữu cơ và mô hình chăn nuôi công nghiệp thông thường là gì?",
+    "options": [
+      "Chăn nuôi hữu cơ nuôi trong nhà kính, chăn nuôi công nghiệp nuôi ngoài trời",
+      "Chăn nuôi hữu cơ kiểm soát nghiêm ngặt đầu vào tự nhiên, không dùng hóa chất tổng hợp, kháng sinh, chất kích trọng, đảm bảo phúc lợi động vật",
+      "Chăn nuôi công nghiệp cho năng suất thấp hơn chăn nuôi hữu cơ",
+      "Chăn nuôi hữu cơ chỉ sử dụng các loại máy móc tự động hoàn toàn"
+    ],
+    "answer": "Chăn nuôi hữu cơ kiểm soát nghiêm ngặt đầu vào tự nhiên, không dùng hóa chất tổng hợp, kháng sinh, chất kích trọng, đảm bảo phúc lợi động vật",
+    "explanation": "Triết lý của chăn nuôi hữu cơ là tôn trọng tự nhiên, tạo sản phẩm sạch nhất và thân thiện sinh thái, đổi lại chu kỳ nuôi dài hơn và năng suất thấp hơn nuôi công nghiệp."
+  },
+  {
+    "question": "Khi thiết kế hệ thống xử lý nước thải chăn nuôi bằng phương pháp sinh học dòng chảy qua các ao (ao sinh học), nguyên lý nào được sử dụng để làm sạch nước?",
+    "options": [
+      "Sử dụng các màng lọc cơ học bằng kim loại để giữ chất bẩn",
+      "Dựa vào khả năng tự làm sạch của nước nhờ hệ vi sinh vật phân hủy chất hữu cơ và các loài thực vật thủy sinh (như bèo tây) hấp thụ chất dinh dưỡng dư thừa",
+      "Đổ thật nhiều chất clo vào ao để diệt toàn bộ sinh vật",
+      "Đun sôi nước thải liên tục trước khi cho chảy qua các ao"
+    ],
+    "answer": "Dựa vào khả năng tự làm sạch của nước nhờ hệ vi sinh vật phân hủy chất hữu cơ và các loài thực vật thủy sinh (như bèo tây) hấp thụ chất dinh dưỡng dư thừa",
+    "explanation": "Hệ thống ao sinh học tận dụng chu trình sinh địa hóa tự nhiên: vi khuẩn hiếu khí/kị khí bẻ gãy chất hữu cơ, thực vật thủy sinh hấp thụ nitơ, photpho để làm sạch nước tự nhiên."
+  },
+  {
+    "question": "Tại sao việc bổ sung một lượng nhỏ chế phẩm vi sinh (probiotics) vào nước uống hằng ngày lại giúp vật nuôi giảm tỷ lệ mắc bệnh đường ruột?",
+    "options": [
+      "Vì vi sinh vật này tiêu diệt toàn bộ các tế bào ruột của vật nuôi",
+      "Vì các lợi khuẩn giúp thiết lập cân bằng hệ vi sinh đường ruột, cạnh tranh vị trí bám và thức ăn với vi khuẩn gây bệnh, đồng thời hỗ trợ tiêu hóa",
+      "Vì probiotic biến thành một lớp màng nhựa bảo vệ ruột",
+      "Vì vi sinh vật này hút hết nước trong ruột làm vi khuẩn hại chết khát"
+    ],
+    "answer": "Vì các lợi khuẩn giúp thiết lập cân bằng hệ vi sinh đường ruột, cạnh tranh vị trí bám và thức ăn với vi khuẩn gây bệnh, đồng thời hỗ trợ tiêu hóa",
+    "explanation": "Probiotics bổ sung hàng triệu lợi khuẩn (như Lactobacillus), tiết ra axit hữu cơ và bacteriocin giúp hạ pH ruột, ức chế các vi khuẩn gây hại như E. coli hay Salmonella."
+  },
+  {
+    "question": "Một chủ trang trại nuôi lợn muốn tối ưu hóa chi phí bằng cách tự mua nguyên liệu về phối trộn cám. Để cám tự trộn không bị mốc khi lưu kho 1 tháng, biện pháp nào quan trọng nhất?",
+    "options": [
+      "Trộn thêm chất kháng sinh liều cao vào cám",
+      "Đảm bảo tất cả nguyên liệu (ngô, cám gạo) phải đạt độ ẩm an toàn dưới 14 phần trăm, kho lưu trữ phải khô ráo, thoáng mát và kê trên balét cách nền, tường",
+      "Đóng gói cám vào các thùng sắt kín hoàn toàn",
+      "Phun thuốc diệt cỏ xung quanh bao cám"
+    ],
+    "answer": "Đảm bảo tất cả nguyên liệu (ngô, cám gạo) phải đạt độ ẩm an toàn dưới 14 phần trăm, kho lưu trữ phải khô ráo, thoáng mát và kê trên balét cách nền, tường",
+    "explanation": "Độ ẩm và độ thông thoáng là yếu tố quyết định sự phát triển của nấm mốc. Giữ nguyên liệu khô và cách ẩm từ nền/tường giúp ngăn chặn tuyệt đối mầm nấm lên men hủy hoại cám."
+  },
+  {
+    "question": "Phân tích nguyên nhân tại sao việc nuôi chung các loài vật nuôi khác nhau (như gà, vịt, lợn) trong cùng một không gian chuồng chật hẹp lại cực kỳ nguy hiểm về mặt dịch tễ?",
+    "options": [
+      "Vì các loài vật nuôi sẽ tranh giành lãnh thổ và cắn nhau gây chấn thương",
+      "Tạo cơ hội cho các mầm bệnh trao đổi, biến đổi chéo giữa các loài (ví dụ virus cúm gia cầm tiến hóa) và rất khó kiểm soát nguồn lây",
+      "Vì phân của loài này sẽ làm cho loài kia bị béo phì",
+      "Vì điều đó vi phạm quy luật thẩm mỹ kiến trúc trang trại"
+    ],
+    "answer": "Tạo cơ hội cho các mầm bệnh trao đổi, biến đổi chéo giữa các loài (ví dụ virus cúm gia cầm tiến hóa) và rất khó kiểm soát nguồn lây",
+    "explanation": "Nuôi chung tạo môi trường lý tưởng cho hiện tượng tái tổ hợp di truyền của virus (đặc biệt là virus cúm A), có thể tạo ra các chủng siêu virus mới nguy hiểm lây sang cả người."
+  },
+  {
+    "question": "Tại sao việc tiêm vắc xin phòng bệnh dịch tả lợn cho đàn lợn đang bị nhiễm bệnh ở giai đoạn ủ bệnh nặng lại có thể khiến lợn chết nhanh và nhiều hơn?",
+    "options": [
+      "Vì vắc xin biến thành độc tố hóa học khi gặp máu lợn bệnh",
+      "Vì cơ thể lợn đang suy kiệt do mầm bệnh thật tấn công, việc đưa thêm kháng nguyên vắc xin làm tăng áp lực lên hệ miễn dịch, khiến bệnh bùng phát cấp tính",
+      "Vì kim tiêm làm lợn bị mất máu quá nhiều",
+      "Vì vắc xin kích thích lợn chạy nhảy nhiều dẫn đến kiệt sức"
+    ],
+    "answer": "Vì cơ thể lợn đang suy kiệt do mầm bệnh thật tấn công, việc đưa thêm kháng nguyên vắc xin làm tăng áp lực lên hệ miễn dịch, khiến bệnh bùng phát cấp tính",
+    "explanation": "Vắc xin chỉ có tác dụng phòng bệnh trên cơ thể khỏe mạnh. Tiêm cho vật nuôi đang ủ bệnh nặng sẽ làm sụp đổ hoàn toàn hệ thống phòng ngự miễn dịch đang quá tải của cơ thể."
+  },
+  {
+    "question": "Một trang trại gà có tỷ lệ nuôi sống đến lúc xuất chuồng đạt 95 phần trăm. Tổng số gà ban đầu nhập về là 10000 con. Hãy xác định số lượng gà bị hao hụt (chết hoặc loại thải) trong quá trình nuôi?",
+    "options": [
+      "50 con",
+      "500 con",
+      "9500 con",
+      "1000 con"
+    ],
+    "answer": "500 con",
+    "explanation": "Tỷ lệ hao hụt là: 100 phần trăm trừ 95 phần trăm bằng 5 phần trăm. Số gà hao hụt bằng: 10000 nhân với 5 phần trăm bằng 500 con."
+  },
+  {
+    "question": "Khi đọc nhãn một bao thức ăn hỗn hợp cho lợn thịt từ 20 đến 50 kg, kỹ sư thấy ghi: 'Protein thô tối thiểu: 16 phần trăm; Năng lượng trao đổi tối thiểu: 3100 kcal/kg'. Hãy giải thích ý nghĩa của các chỉ số này?",
+    "options": [
+      "Đây là lượng chất độc tối đa cho phép có trong 1 kg thức ăn",
+      "Đây là hàm lượng dinh dưỡng thiết yếu tối thiểu có trong 1 kg thức ăn nhằm đảm bảo nhu cầu phát triển cơ bắp và hoạt động sống của lợn ở giai đoạn này",
+      "Chỉ số này cho biết bao thức ăn này chỉ tích trữ được tối đa 3100 ngày",
+      "Chỉ số này biểu thị tỉ lệ nước có trong cám"
+    ],
+    "answer": "Đây là hàm lượng dinh dưỡng thiết yếu tối thiểu có trong 1 kg thức ăn nhằm đảm bảo nhu cầu phát triển cơ bắp và hoạt động sống của lợn ở giai đoạn này",
+    "explanation": "Mỗi giai đoạn lợn cần mức đạm và năng lượng cụ thể để tối ưu tốc độ lớn. Thông số trên nhãn là cam kết chất lượng của nhà sản xuất đáp ứng tiêu chuẩn sinh học của vật nuôi."
+  },
+  {
+    "question": "Gia đình bác Hùng có một ao cá rộng và một chuồng lợn 50 con đặt ngay trên bờ ao. Bác muốn thiết kế mô hình kinh tế tuần hoàn VAC (Vườn - Ao - Chuồng) để tận dụng chất thải. Cách làm nào sau đây khoa học và an toàn nhất?",
+    "options": [
+      "Xẻ rãnh cho toàn bộ phân lợn tươi chảy trực tiếp xuống ao cho cá ăn",
+      "Dẫn toàn bộ chất thải chuồng lợn vào hầm biogas, nước thải sau biogas dùng tưới cây ở vườn và làm sạch dùng nuôi cá; bùn thải dùng bón cây",
+      "Ủ phân lợn lộ thiên ngay sát nguồn nước ao",
+      "Phơi khô phân lợn rồi đổ toàn bộ xuống đáy ao trước khi thả cá"
+    ],
+    "answer": "Dẫn toàn bộ chất thải chuồng lợn vào hầm biogas, nước thải sau biogas dùng tưới cây ở vườn và làm sạch dùng nuôi cá; bùn thải dùng bón cây",
+    "explanation": "Xử lý qua hầm biogas giúp diệt mầm bệnh, phân hủy chất hữu cơ phức tạp tránh làm thối ao, thiếu oxy gây chết cá, đồng thời cung cấp năng lượng sạch và dòng dinh dưỡng an toàn cho chu trình tuần hoàn."
+  },
+  {
+    "question": "Một doanh nghiệp muốn đầu tư hệ thống chuồng kín (chuồng lạnh) nuôi lợn nái ngoại sinh sản tại miền Trung Việt Nam - nơi có mùa hè cực kỳ gay gắt và gió Lào thổi mạnh. Yếu tố kỹ thuật cốt lõi nào của chuồng nuôi giúp bảo vệ đàn lợn?",
+    "options": [
+      "Hệ thống tường bao quanh làm bằng kính trong suốt để đón ánh nắng",
+      "Hệ thống tấm làm mát (cooling pad) kết hợp quạt hút công suất lớn tạo áp suất âm, hạ nhiệt độ chuồng thấp hơn bên ngoài từ 5 đến 7 độ C",
+      "Thiết kế trần chuồng thật cao và để trống hoàn toàn hai bên tường",
+      "Sử dụng hệ thống lò sưởi hoạt động công suất lớn vào mùa hè"
+    ],
+    "answer": "Hệ thống tấm làm mát (cooling pad) kết hợp quạt hút công suất lớn tạo áp suất âm, hạ nhiệt độ chuồng thấp hơn bên ngoài từ 5 đến 7 độ C",
+    "explanation": "Hệ thống làm mát áp suất âm ép không khí nóng từ ngoài đi qua các tấm giàn ướt, nước bốc hơi thu nhiệt giúp hạ nhiệt độ không khí trước khi vào chuồng, bảo vệ lợn khỏi sốc nhiệt do gió Lào."
+  },
+  {
+    "question": "Tại sao việc lạm dụng kẽm oxit (ZnO) hoặc đồng sunfat (CuSO4) liều cao trong thức ăn cho lợn con để phòng tiêu chảy và kích thích tăng trưởng lại bị hạn chế nghiêm trọng trong chăn nuôi hiện đại?",
+    "options": [
+      "Vì các chất này làm lợn con bị rụng toàn bộ lông",
+      "Vì chúng tích lũy độc tính trong gan, thận vật nuôi và thải ra ngoài theo phân gây ô nhiễm kim loại nặng nghiêm trọng cho đất và nguồn nước",
+      "Vì đồng và kẽm làm thức ăn có vị đắng lợn không ăn được",
+      "Vì những chất này làm lợn con biến đổi thành loài khác"
+    ],
+    "answer": "Vì chúng tích lũy độc tính trong gan, thận vật nuôi và thải ra ngoài theo phân gây ô nhiễm kim loại nặng nghiêm trọng cho đất và nguồn nước",
+    "explanation": "Kim loại nặng không bị phân hủy sinh học. Việc thải lượng lớn đồng, kẽm ra môi trường qua phân lợn sẽ làm chết hệ vi sinh vật đất, nhiễm độc nguồn nước ngầm và tích lũy vào chuỗi thức ăn của con người."
+  },
+  {
+    "question": "Khi áp dụng kỹ thuật chăn nuôi an toàn sinh học, tại sao nhân viên trang trại bắt buộc phải tắm và thay quần áo bảo hộ lao động, cách ly 24 giờ sau khi trở về từ vùng có dịch?",
+    "options": [
+      "Để kiểm tra xem nhân viên có trung thực hay không",
+      "Vì quần áo, tóc, da của con người có thể mang theo virus, vi khuẩn dịch bệnh cơ giới từ vùng dịch vào trại, việc vệ sinh và cách ly giúp loại bỏ nguy cơ này",
+      "Để tiết kiệm chi phí giặt là của trang trại",
+      "Vì đó là quy định mang tính nghi thức tôn giáo của ngành chăn nuôi"
+    ],
+    "answer": "Vì quần áo, tóc, da của con người có thể mang theo virus, vi khuẩn dịch bệnh cơ giới từ vùng dịch vào trại, việc vệ sinh và cách ly giúp loại bỏ nguy cơ này",
+    "explanation": "Con người là vật trung gian truyền bệnh cơ giới nguy hiểm (đặc biệt đối với các dịch virus bền vững như dịch tả lợn châu Phi). Vệ sinh nghiêm ngặt và cách ly đủ thời gian giúp đảm bảo an toàn tuyệt đối cho ranh giới sinh học của trại."
+  },
+  {
+    "question": "Giả sử một giống gà có hệ số tiêu tốn thức ăn (FCR) là 1.8. Điều này có nghĩa là gì về mặt kinh tế và kỹ thuật?",
+    "options": [
+      "Để sản xuất ra 1.8 kg thịt gà, con người cần cho gà ăn 1 kg thức ăn",
+      "Để gà tăng trưởng được 1 kg khối lượng cơ thể, nó cần tiêu thụ hết 1.8 kg thức ăn hỗn hợp",
+      "Gà cứ nuôi được 1.8 ngày thì sẽ đẻ ra 1 quả trứng",
+      "Mỗi con gà chỉ được phép ăn tối đa 1.8 kg thức ăn trong suốt cuộc đời"
+    ],
+    "answer": "Để gà tăng trưởng được 1 kg khối lượng cơ thể, nó cần tiêu thụ hết 1.8 kg thức ăn hỗn hợp",
+    "explanation": "FCR (Feed Conversion Ratio) là chỉ số chuyển đổi thức ăn. FCR càng thấp chứng tỏ giống gà chuyển hóa dinh dưỡng càng tốt, hiệu quả kinh tế càng cao."
+  },
+  {
+    "question": "Tại sao trong công nghệ sản xuất vắc xin, người ta thường ưa chuộng sử dụng trứng gà có phôi (trứng lộn) sạch bệnh để nuôi cấy virus hơn là nuôi trên môi trường nhân tạo?",
+    "options": [
+      "Vì trứng gà có giá thành rẻ hơn các loại hóa chất nhân tạo",
+      "Vì virus là ký sinh bắt buộc, chúng chỉ có thể nhân lên và phát triển bên trong các tế bào sống của phôi đang phát triển",
+      "Vì vỏ trứng gà có chứa sẵn chất kháng thể chống virus",
+      "Vì trứng gà giúp virus có mùi thơm dễ chịu hơn"
+    ],
+    "answer": "Vì virus là ký sinh bắt buộc, chúng chỉ có thể nhân lên và phát triển bên trong các tế bào sống của phôi đang phát triển",
+    "explanation": "Virus không có cấu tạo tế bào và hệ thống chuyển hóa riêng. Chúng bắt buộc phải dùng bộ máy tổng hợp của tế bào sống (phôi trứng) để nhân bản hạt virus mới."
+  },
+  {
+    "question": "Một trang trại bò thịt muốn ứng dụng công nghệ khẩu phần trộn hoàn chỉnh (TMR - Total Mixed Ration). Lợi ích sinh học lớn nhất của công nghệ này đối với dạ cỏ của bò là gì?",
+    "options": [
+      "Làm cho bò nhai nhanh hơn để tiết kiệm thời gian",
+      "Đảm bảo mỗi miếng thức ăn bò ăn vào đều có tỷ lệ đồng đều giữa thức ăn tinh và thô, giữ ổn định pH dạ cỏ và tối ưu hóa hoạt động của hệ vi sinh vật dạ cỏ",
+      "Giúp bò không cần phải ợ lên để nhai lại nữa",
+      "Thay thế hoàn toàn nhu cầu uống nước của bò"
+    ],
+    "answer": "Đảm bảo mỗi miếng thức ăn bò ăn vào đều có tỷ lệ đồng đều giữa thức ăn tinh và thô, giữ ổn định pH dạ cỏ và tối ưu hóa hoạt động của hệ vi sinh vật dạ cỏ",
+    "explanation": "Nếu ăn riêng lẻ, bò ăn quá nhiều thức ăn tinh sẽ làm axit hóa dạ cỏ (hạ pH đột ngột) gây chết vi sinh vật. TMR trộn đều ngăn ngừa hiện tượng này, giúp quá trình lên men cỏ diễn ra liên tục, hiệu quả."
+  },
+  {
+    "question": "Hãy phân tích tác động tiêu cực của việc xả trực tiếp nước thải chăn nuôi chưa qua xử lý chứa hàm lượng hợp chất phốt pho và nitơ cao vào ao hồ tự nhiên?",
+    "options": [
+      "Làm nước ao bị đóng băng do quá nhiều chất dinh dưỡng",
+      "Gây ra hiện tượng phì dưỡng (tảo nở hoa), tảo phát triển quá mức hút hết oxy trong nước và tiết độc tố làm tôm cá chết hàng loạt",
+      "Làm cho các loài cá trong ao lớn nhanh đột biến thành khổng lồ",
+      "Làm tăng độ trong suốt của nước ao lên gấp nhiều lần"
+    ],
+    "answer": "Gây ra hiện tượng phì dưỡng (tảo nở hoa), tảo phát triển quá mức hút hết oxy trong nước và tiết độc tố làm tôm cá chết hàng loạt",
+    "explanation": "Dư thừa nitơ và phốt pho kích thích tảo độc phát triển bùng phát. Khi tảo chết, quá trình phân hủy tiêu thụ lượng lớn oxy hòa tan, gây ra tình trạng thiếu oxy nghiêm trọng (ngạt) cho hệ thủy sinh."
+  },
+  {
+    "question": "Một gia đình nông dân muốn nuôi thử nghiệm 20 con lợn thịt hướng nạc ngoại nhập trong chuồng hở truyền thống vào mùa hè. Theo em, rủi ro lớn nhất họ có thể gặp phải là gì và giải pháp khắc phục tối ưu trong điều kiện kinh tế hạn hẹp là gì?",
+    "options": [
+      "Lợn bị béo phì do ăn quá nhiều; giải pháp là bỏ đói lợn",
+      "Lợn bị stress nhiệt nghiêm trọng, bỏ ăn và dễ mắc bệnh; giải pháp là lợp mái chống nóng (lá cọ/mái chống nóng), lắp hệ thống quạt điện và giàn phun mưa lên mái",
+      "Lợn bị rụng lông do thiếu ánh sáng; giải pháp là thắp đèn cao áp cả ngày",
+      "Không có rủi ro nào vì lợn ngoại thích nghi rất tốt với nắng nóng"
+    ],
+    "answer": "Lợn bị stress nhiệt nghiêm trọng, bỏ ăn và dễ mắc bệnh; giải pháp là lợp mái chống nóng (lá cọ/mái chống nóng), lắp hệ thống quạt điện và giàn phun mưa lên mái",
+    "explanation": "Lợn ngoại hướng nạc chịu nhiệt kém hơn lợn nội. Trong chuồng hở mùa hè, nhiệt độ cao làm lợn giảm ăn sâu, suy giảm miễn dịch. Các biện pháp hạ nhiệt thủ công tiết kiệm là bắt buộc để duy trì năng suất."
+  },
+  {
+    "question": "Trong một chương trình giống quốc gia, các nhà khoa học muốn bảo tồn nguồn gen của giống lợn I quý hiếm của Việt Nam đang có nguy cơ tuyệt chủng. Phương pháp phối giống nào dưới đây là bắt buộc phải thực hiện để đạt mục tiêu bảo tồn?",
+    "options": [
+      "Cho lợn I phối giống với đực ngoại Landrace để tăng tỉ lệ nạc",
+      "Nhân giống thuần chủng phối giữa lợn đực I thuần và lợn cái I thuần, kết hợp xây dựng ngân hàng lưu trữ tinh dịch và phôi đông lạnh",
+      "Lai kinh tế tạo ra con lai F1 rồi đem thả về tự nhiên",
+      "Cho giao phối cận huyết cận kề liên tục qua 20 thế hệ"
+    ],
+    "answer": "Nhân giống thuần chủng phối giữa lợn đực I thuần và lợn cái I thuần, kết hợp xây dựng ngân hàng lưu trữ tinh dịch và phôi đông lạnh",
+    "explanation": "Mục tiêu bảo tồn nguồn gen là giữ nguyên vẹn đặc tính di truyền gốc của giống, chống tạp giao. Nhân giống thuần chủng phối hợp với công nghệ sinh học bảo quản lạnh là giải pháp cốt lõi."
+  },
+  {
+    "question": "Nhà bạn An nuôi một đàn gà thả vườn 200 con. Đến lịch tiêm vắc xin phòng bệnh Newcastle (bệnh dịch tả gà), An thấy đàn gà đang có khoảng 30 con bị sổ mũi, tiêu chảy nhẹ do thay đổi thời tiết. An nên xử lý như thế nào để đảm bảo an toàn?",
+    "options": [
+      "Tiêm vắc xin cho toàn bộ 200 con gà ngay lập tức để phòng bệnh đồng loạt",
+      "Tách riêng 30 con gà ốm ra khu cách ly để điều trị bằng thuốc bổ, điện giải; chỉ tiêm vắc xin phòng bệnh cho 170 con gà hoàn toàn khỏe mạnh còn lại",
+      "Ngừng tiêm vắc xin hoàn toàn và bán thanh lý toàn bộ đàn gà luôn",
+      "Đổ trực tiếp lọ vắc xin vào máng nước cho toàn đàn uống chung mà không cần tách lọc"
+    ],
+    "answer": "Tách riêng 30 con gà ốm ra khu cách ly để điều trị bằng thuốc bổ, điện giải; chỉ tiêm vắc xin phòng bệnh cho 170 con gà hoàn toàn khỏe mạnh còn lại",
+    "explanation": "Tiêm vắc xin cho những cá thể đang ốm có thể làm bệnh trầm trọng hơn và không tạo được đáp ứng miễn dịch mong muốn. Việc phân loại giúp bảo vệ nhóm khỏe và hồi sức nhóm yếu an toàn."
+  },
+  {
+    "question": "Để thiết kế một công thức thức ăn hỗn hợp hoàn chỉnh cho lợn đạt hiệu quả kinh tế cao nhất trên thị trường hiện nay, nhà sản xuất cần áp dụng thuật toán tối ưu hóa trên máy tính dựa trên những nhóm dữ liệu đầu vào nào?",
+    "options": [
+      "Chỉ cần dữ liệu về màu sắc và mùi thơm của các loại hạt",
+      "Nhu cầu dinh dưỡng tiêu chuẩn của từng giai đoạn vật nuôi, hàm lượng dinh dưỡng thực tế của từng nguyên liệu và giá cả thị trường tại thời điểm phối trộn",
+      "Tổng số lượng công nhân của nhà máy và kích thước bao bì",
+      "Tên của các trang trại sẽ mua thức ăn chăn nuôi"
+    ],
+    "answer": "Nhu cầu dinh dưỡng tiêu chuẩn của từng giai đoạn vật nuôi, hàm lượng dinh dưỡng thực tế của từng nguyên liệu và giá cả thị trường tại thời điểm phối trộn",
+    "explanation": "Phối trộn khẩu phần giá tối thiểu (Least-cost ration formulation) sử dụng lập trình tuyến tính để tìm ra tỷ lệ trộn các nguyên liệu sao cho đáp ứng vừa đủ chuẩn dinh dưỡng của con vật với chi phí thấp nhất."
+  },
+  {
+    "question": "Một trang trại nuôi bò sữa quy mô 500 con muốn áp dụng công nghệ số hóa trong khâu quản lý vắt sữa. Họ lắp đặt hệ thống robot vắt sữa tự động kết hợp cảm biến đeo cổ cho từng con bò. Hệ thống này giúp phát hiện sớm bệnh viêm vú ở bò sữa dựa trên nguyên lý kỹ thuật nào?",
+    "options": [
+      "Robot tự động chụp ảnh bầu vú và so sánh màu sắc da",
+      "Cảm biến đo lường liên tục độ dẫn điện của dòng sữa, sản lượng sữa từng bầu và nhiệt độ cơ thể bò trong quá trình vắt sữa để cảnh báo bất thường",
+      "Hệ thống đếm số lần bò kêu trong ngày khi vào buồng vắt sữa",
+      "Cảm biến đo tốc độ chạy của bò khi đi vào khu vắt sữa"
+    ],
+    "answer": "Cảm biến đo lường liên tục độ dẫn điện của dòng sữa, sản lượng sữa từng bầu và nhiệt độ cơ thể bò trong quá trình vắt sữa để cảnh báo bất thường",
+    "explanation": "Khi bò bị viêm vú, nồng độ ion natri và clo trong sữa tăng mạnh làm tăng độ dẫn điện của sữa. Phát hiện sớm qua cảm biến giúp điều trị kịp thời trước khi bầu vú bị tổn thương nghiêm trọng."
+  },
+  {
+    "question": "Khi quy hoạch một khu chăn nuôi công nghiệp tập trung quy mô lớn, việc đặt khu xử lý chất thải (hầm biogas, hồ lắng) ở cuối hướng gió chính của vùng có ý nghĩa khoa học môi trường gì?",
+    "options": [
+      "Để tận dụng sức gió thổi bay toàn bộ lượng chất thải rắn đi xa hơn",
+      "Hạn chế tối đa việc gió mang theo mùi hôi thối, khí độc và vi sinh vật gây hại thổi ngược vào khu chuồng nuôi vật nuôi và khu nhà hành chính, dân cư",
+      "Giúp cho quá trình phân hủy chất hữu cơ diễn ra nhanh hơn nhờ có nhiều gió",
+      "Để giấu khu chất thải đi không cho người ngoài nhìn thấy"
+    ],
+    "answer": "Hạn chế tối đa việc gió mang theo mùi hôi thối, khí độc và vi sinh vật gây hại thổi ngược vào khu chuồng nuôi vật nuôi và khu nhà hành chính, dân cư",
+    "explanation": "Bố trí mặt bằng trang trại theo hướng gió chính là nguyên tắc cơ bản trong thiết kế kiến trúc chăn nuôi nhằm đảm bảo an toàn sinh học và giữ gìn môi trường không khí trong lành cho các khu vực sạch."
+  },
+  {
+    "question": "Phân tích lý do kinh tế và sinh học tại sao các trang trại gà thịt công nghiệp lớn lại áp dụng chế độ chiếu sáng hạn chế (chỉ thắp sáng từ 1 đến 2 giờ xen kẽ các khoảng tối) ở giai đoạn gà chuẩn bị xuất chuồng?",
+    "options": [
+      "Để tiết kiệm tối đa tiền điện thắp sáng cho chủ trang trại",
+      "Hạn chế hoạt động đi lại, chạy nhảy của gà nhằm giảm hao phí năng lượng cho vận động, kích thích gà nghỉ ngơi, tích lũy mỡ và tăng trọng nhanh",
+      "Làm cho gà bị cận thị không nhìn thấy đường để tranh giành thức ăn",
+      "Để gà không nhìn thấy người vào bắt đem đi bán"
+    ],
+    "answer": "Hạn chế hoạt động đi lại, chạy nhảy của gà nhằm giảm hao phí năng lượng cho vận động, kích thích gà nghỉ ngơi, tích lũy mỡ và tăng trọng nhanh",
+    "explanation": "Ở giai đoạn cuối, đích đến là tối đa lượng thịt tích lũy. Khoảng tối thông minh làm giảm sự hung hăng, giảm chuyển hóa năng lượng duy trì cho cơ bắp vận động, chuyển hóa tối đa cám thành khối lượng cơ thể."
+  },
+  {
+    "question": "Một vùng ven biển miền Trung muốn phát triển chuỗi chăn nuôi vịt biển lấy trứng bền vững. Khó khăn lớn nhất về mặt sinh lý của vật nuôi khi uống nước có độ mặn cao là gì và giải pháp sinh học công nghệ nào được áp dụng?",
+    "options": [
+      "Vịt biển sẽ bị rụng hết lông do ngộ độc muối; giải pháp là nhuộm lông cho vịt",
+      "Áp lực thẩm thấu cao gây mất nước tế bào và hỏng thận; giải pháp là chọn lọc các dòng vịt có tuyến muối ở hốc mắt phát triển mạnh giúp bài tiết muối thừa và phối trộn thức ăn có hàm lượng natri thấp",
+      "Vịt sẽ đẻ ra trứng có vị quá mặn không ăn được; giải pháp là bọc màng nhựa cho trứng",
+      "Vịt không thể bơi được trên nước mặn; giải pháp là xây bể nước ngọt hoàn toàn"
+    ],
+    "answer": "Áp lực thẩm thấu cao gây mất nước tế bào và hỏng thận; giải pháp là chọn lọc các dòng vịt có tuyến muối ở hốc mắt phát triển mạnh giúp bài tiết muối thừa và phối trộn thức ăn có hàm lượng natri thấp",
+    "explanation": "Vịt biển có khả năng thích nghi đặc biệt nhờ tuyến bài tiết muối ngoại thận. Chọn tạo giống chuyên vịt biển kết hợp dinh dưỡng cân bằng là giải pháp cốt lõi để phát triển chăn nuôi tại vùng sinh thái ngập mặn."
+  },
+  {
+    "question": "Tại sao việc áp dụng công nghệ sấy lạnh hoặc sấy thăng hoa trong bảo quản các chế phẩm sinh học như vắc xin sống hoặc men vi sinh lại ưu việt hơn phương pháp sấy nhiệt truyền thống?",
+    "options": [
+      "Vì sấy lạnh làm cho thể tích của vắc xin tăng lên gấp nhiều lần",
+      "Vì nhiệt độ cao của phương pháp sấy nhiệt sẽ làm biến tính protein, phá hủy cấu trúc kháng nguyên và làm chết các vi sinh vật sống có trong chế phẩm",
+      "Vì sấy thăng hoa tạo ra màu sắc vắc xin bắt mắt hơn",
+      "Vì sấy lạnh không cần sử dụng nguồn điện năng"
+    ],
+    "answer": "Vì nhiệt độ cao của phương pháp sấy nhiệt sẽ làm biến tính protein, phá hủy cấu trúc kháng nguyên và làm chết các vi sinh vật sống có trong chế phẩm",
+    "explanation": "Vắc xin sống chứa virus/vi khuẩn giảm độc lực rất nhạy cảm với nhiệt. Sấy thăng hoa (sấy ở nhiệt độ âm và áp suất chân không) giữ nguyên vẹn cấu trúc sinh học và hoạt tính của chế phẩm mà không làm hỏng chúng."
+  },
+  {
+    "question": "Tại sao việc sử dụng nước thải từ các lò giết mổ gia súc chưa qua xử lý để tưới trực tiếp cho các đồng cỏ nuôi bò lại có thể làm lây lan bệnh sán lá gan và các bệnh ký sinh trùng nguy hiểm khác cho đàn bò?",
+    "options": [
+      "Vì nước thải làm cỏ bị chết héo bò không có gì ăn",
+      "Vì nước thải lò mổ chứa lượng lớn trứng, ấu trùng ký sinh trùng; khi tưới lên cỏ, ấu trùng sẽ bám vào ngọn cỏ và đi vào dạ dày bò khi bò ăn cỏ",
+      "Vì nước thải chứa hóa chất làm sán lá gan tự phát sinh từ tế bào cỏ",
+      "Vì nước lò mổ làm bò sợ hãi không dám ăn cỏ nữa"
+    ],
+    "answer": "Vì nước thải lò mổ chứa lượng lớn trứng, ấu trùng ký sinh trùng; khi tưới lên cỏ, ấu trùng sẽ bám vào ngọn cỏ và đi vào dạ dày bò khi bò ăn cỏ",
+    "explanation": "Nước thải lò mổ là nguồn chứa đậm đặc các trứng sâu, sán, nang sán. Chu trình sinh học của ký sinh trùng cần vật chủ trung gian (như ốc) và bám vào thực vật thủy sinh/cỏ, nếu không xử lý nhiệt hoặc hóa chất sẽ làm bùng phát dịch ký sinh trùng diện rộng."
+  }
+]

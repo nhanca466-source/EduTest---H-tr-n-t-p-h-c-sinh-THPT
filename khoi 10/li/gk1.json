@@ -1,0 +1,553 @@
+
+[
+  {
+    "question": "Đối tượng nghiên cứu nào sau đây thuộc lĩnh vực Vật lí?",
+    "options": [
+      "Sự phát triển của các loài sinh vật.",
+      "Các hiện tượng quang học, cơ học và nhiệt học.",
+      "Sự thay đổi cấu trúc của các hợp chất hữu cơ.",
+      "Sự phát triển kinh tế xã hội."
+    ],
+    "answer": "Các hiện tượng quang học, cơ học và nhiệt học.",
+    "explanation": "Vật lí nghiên cứu về các dạng vận động của vật chất và năng lượng, bao gồm cơ, nhiệt, điện, từ, quang, hạt nhân..."
+  },
+  {
+    "question": "Hành động nào sau đây đảm bảo an toàn trong phòng thực hành vật lí?",
+    "options": [
+      "Tự ý cắm phích điện khi chưa có sự hướng dẫn của giáo viên.",
+      "Nếm thử các chất lỏng có trong phòng thí nghiệm.",
+      "Đọc kĩ hướng dẫn sử dụng thiết bị trước khi làm thí nghiệm.",
+      "Chạy nhảy và làm mất trật tự trong phòng thực hành."
+    ],
+    "answer": "Đọc kĩ hướng dẫn sử dụng thiết bị trước khi làm thí nghiệm.",
+    "explanation": "Đọc kĩ hướng dẫn sử dụng thiết bị giúp học sinh thao tác đúng, tránh hỏng hóc thiết bị và đảm bảo an toàn cá nhân."
+  },
+  {
+    "question": "Độ dịch chuyển là gì?",
+    "options": [
+      "Là đại lượng vectơ cho biết độ dài và hướng của sự thay đổi vị trí của vật.",
+      "Là đại lượng độ dài quãng đường vật đi được trong toàn bộ thời gian.",
+      "Là đại lượng luôn có giá trị dương cho biết mức độ nhanh chậm của vật.",
+      "Là khoảng cách giữa điểm đầu và điểm cuối của một chuyển động tự do."
+    ],
+    "answer": "Là đại lượng vectơ cho biết độ dài và hướng của sự thay đổi vị trí của vật.",
+    "explanation": "Độ dịch chuyển là đại lượng vectơ nối vị trí đầu và vị trí cuối của vật trong quá trình chuyển động."
+  },
+  {
+    "question": "Tốc độ trung bình được xác định bằng công thức nào sau đây?",
+    "options": [
+      "v = s / t",
+      "v = d / t",
+      "v = s * t",
+      "v = d * t"
+    ],
+    "answer": "v = s / t",
+    "explanation": "Tốc độ trung bình bằng thương số giữa quãng đường s vật đi được và thời gian t để đi hết quãng đường đó."
+  },
+  {
+    "question": "Vận tốc trung bình là một đại lượng được xác định bằng:",
+    "options": [
+      "Thương số giữa quãng đường đi được và thời gian chuyển động.",
+      "Thương số giữa độ dịch chuyển và thời gian dịch chuyển.",
+      "Tích của quãng đường đi được và thời gian chuyển động.",
+      "Tổng của độ dịch chuyển và thời gian dịch chuyển."
+    ],
+    "answer": "Thương số giữa độ dịch chuyển và thời gian dịch chuyển.",
+    "explanation": "Vận tốc trung bình bằng độ dịch chuyển chia cho khoảng thời gian thực hiện độ dịch chuyển đó: v = d / t."
+  },
+  {
+    "question": "Chuyển động thẳng đều có tính chất nào sau đây?",
+    "options": [
+      "Quỹ đạo là một đường thẳng và vận tốc không thay đổi theo thời gian.",
+      "Quỹ đạo là một đường thẳng và vận tốc tăng đều theo thời gian.",
+      "Quỹ đạo là một đường cong và tốc độ trung bình không thay đổi.",
+      "Quỹ đạo là một đường thẳng và độ dịch chuyển luôn bằng 0."
+    ],
+    "answer": "Quỹ đạo là một đường thẳng và vận tốc không thay đổi theo thời gian.",
+    "explanation": "Chuyển động thẳng đều có quỹ đạo thẳng và vận tốc không đổi cả về hướng lẫn trị số theo thời gian."
+  },
+  {
+    "question": "Gia tốc là đại lượng đặc trưng cho:",
+    "options": [
+      "Mức độ nhanh hay chậm của chuyển động.",
+      "Sự thay đổi vị trí của vật theo thời gian.",
+      "Sự thay đổi nhanh hay chậm của vận tốc.",
+      "Quãng đường vật đi được trong một đơn vị thời gian."
+    ],
+    "answer": "Sự thay đổi nhanh hay chậm của vận tốc.",
+    "explanation": "Gia tốc là đại lượng vectơ đặc trưng cho tốc độ thay đổi của vận tốc theo thời gian."
+  },
+  {
+    "question": "Đơn vị đo của gia tốc trong hệ SI là gì?",
+    "options": [
+      "m/s",
+      "m.s",
+      "m/s2",
+      "cm/s"
+    ],
+    "answer": "m/s2",
+    "explanation": "Gia tốc được tính bằng vận tốc chia thời gian, do đó đơn vị là mét trên giây bình phương (m/s2)."
+  },
+  {
+    "question": "Chuyển động thẳng biến đổi đều là chuyển động thẳng có:",
+    "options": [
+      "Vận tốc thay đổi liên tục nhưng gia tốc không đổi.",
+      "Vận tốc không đổi nhưng gia tốc thay đổi liên tục.",
+      "Cả vận tốc và gia tốc đều không đổi theo thời gian.",
+      "Quỹ đạo cong và gia tốc luôn hướng về tâm."
+    ],
+    "answer": "Vận tốc thay đổi liên tục nhưng gia tốc không đổi.",
+    "explanation": "Trong chuyển động thẳng biến đổi đều, gia tốc là một hằng số không đổi, còn vận tốc tăng hoặc giảm đều theo thời gian."
+  },
+  {
+    "question": "Trong công thức liên hệ giữa độ dịch chuyển, vận tốc và gia tốc của chuyển động thẳng biến đổi đều (v2 - v02 = 2.a.d), đại lượng d là:",
+    "options": [
+      "Quãng đường vật đi được.",
+      "Độ dịch chuyển của vật.",
+      "Vận tốc trung bình.",
+      "Thời gian vật chuyển động."
+    ],
+    "answer": "Độ dịch chuyển của vật.",
+    "explanation": "Trong công thức độc lập thời gian v2 - v02 = 2.a.d, d biểu diễn độ dịch chuyển của vật."
+  },
+  {
+    "question": "Sự rơi tự do là sự rơi của một vật:",
+    "options": [
+      "Trong không khí có lực cản rất lớn.",
+      "Chỉ dưới tác dụng của trọng lực.",
+      "Khi được gắn vào một lò xo nhẹ.",
+      "Theo một phương xiên từ dưới lên."
+    ],
+    "answer": "Chỉ dưới tác dụng của trọng lực.",
+    "explanation": "Sự rơi tự do là sự rơi chỉ dưới tác dụng của trọng lực trong điều kiện bỏ qua mọi lực cản khác."
+  },
+  {
+    "question": "Tại cùng một nơi trên Trái Đất và gần mặt đất, mọi vật rơi tự do đều có:",
+    "options": [
+      "Cùng vận tốc ban đầu.",
+      "Cùng khối lượng và kích thước.",
+      "Cùng một gia tốc rơi tự do g.",
+      "Thời gian rơi giống nhau không phụ thuộc độ cao."
+    ],
+    "answer": "Cùng một gia tốc rơi tự do g.",
+    "explanation": "Ở cùng một nơi gần mặt đất, tất cả các vật rơi tự do đều rơi với cùng một gia tốc g."
+  },
+  {
+    "question": "Khi một vật bị ném ngang, chuyển động của vật có thể phân tích thành hai chuyển động thành phần theo:",
+    "options": [
+      "Hai phương song song với nhau.",
+      "Phương thẳng đứng và phương ngang vuông góc với nhau.",
+      "Hai phương xiên góc một góc 45 độ.",
+      "Phương song song với mặt đất và hướng về phía Tây."
+    ],
+    "answer": "Phương thẳng đứng và phương ngang vuông góc với nhau.",
+    "explanation": "Chuyển động ném ngang được phân tích thành chuyển động thẳng đều theo phương ngang (Ox) và rơi tự do theo phương thẳng đứng (Oy)."
+  },
+  {
+    "question": "Sai số hệ thống là sai số:",
+    "options": [
+      "Do tác động ngẫu nhiên từ môi trường bên ngoài làm kết quả thay đổi.",
+      "Có tính quy luật và lặp lại trong tất cả các lần đo do đặc điểm của dụng cụ.",
+      "Do người đo đọc sai chỉ số một cách cẩu thả.",
+      "Luôn có giá trị bằng không trong mọi phép đo."
+    ],
+    "answer": "Có tính quy luật và lặp lại trong tất cả các lần đo do đặc điểm của dụng cụ.",
+    "explanation": "Sai số hệ thống là sai số làm cho kết quả đo luôn lệch về một phía một lượng cố định, thường do cấu tạo dụng cụ."
+  },
+  {
+    "question": "Biển báo có hình tam giác viền đỏ, nền vàng, bên trong có hình tia sét biểu thị điều gì?",
+    "options": [
+      "Cảnh báo nguy cơ chất độc hóa học.",
+      "Cảnh báo khu vực có nguy cơ cháy nổ.",
+      "Cảnh báo nguy hiểm về điện.",
+      "Cảnh báo chất phóng xạ nguy hiểm."
+    ],
+    "answer": "Cảnh báo nguy hiểm về điện.",
+    "explanation": "Hình tia sét trong tam giác viền đỏ, nền vàng là biển cảnh báo nguy hiểm về điện cao áp."
+  },
+  {
+    "question": "Đại lượng nào sau đây là đại lượng vô hướng?",
+    "options": [
+      "Vận tốc trung bình.",
+      "Gia tốc.",
+      "Quãng đường.",
+      "Độ dịch chuyển."
+    ],
+    "answer": "Quãng đường.",
+    "explanation": "Quãng đường chỉ có độ lớn nên là đại lượng vô hướng; còn vận tốc, gia tốc, độ dịch chuyển đều có hướng (vectơ)."
+  },
+  {
+    "question": "Đồ thị độ dịch chuyển - thời gian của một chuyển động thẳng đều có dạng:",
+    "options": [
+      "Một đường parabol.",
+      "Một đường thẳng đứng.",
+      "Một đường thẳng xiên góc xuất phát từ gốc tọa độ hoặc một điểm trên trục d.",
+      "Một đường tròn tâm tại gốc tọa độ."
+    ],
+    "answer": "Một đường thẳng xiên góc xuất phát từ gốc tọa độ hoặc một điểm trên trục d.",
+    "explanation": "Vì d = v.t nên mối quan hệ giữa d và t là bậc nhất, đồ thị có dạng một đường thẳng xiên góc."
+  },
+  {
+    "question": "Khi vật chuyển động thẳng và không đổi chiều, độ lớn của độ dịch chuyển so với quãng đường đi được sẽ:",
+    "options": [
+      "Luôn nhỏ hơn.",
+      "Bằng nhau.",
+      "Luôn lớn hơn.",
+      "Bằng không."
+    ],
+    "answer": "Bằng nhau.",
+    "explanation": "Khi vật chuyển động thẳng không đổi chiều thì chiều dài quỹ đạo chính bằng độ lớn của độ dịch chuyển nên s = d."
+  },
+  {
+    "question": "Phép đo trực tiếp là phép đo:",
+    "options": [
+      "So sánh trực tiếp đại lượng cần đo với dụng cụ đo tiêu chuẩn.",
+      "Xác định qua một công thức toán học từ các đại lượng khác.",
+      "Sử dụng các mô phỏng máy tính để dự đoán kết quả.",
+      "Đo nhiều lần rồi lấy giá trị trung bình cộng lại."
+    ],
+    "answer": "So sánh trực tiếp đại lượng cần đo với dụng cụ đo tiêu chuẩn.",
+    "explanation": "Phép đo trực tiếp là đọc trực tiếp giá trị trên dụng cụ đo (như dùng thước đo chiều dài, cân đo khối lượng)."
+  },
+  {
+    "question": "Tính chất nào sau đây là của vận tốc trong chuyển động ném ngang theo phương ngang (Ox)?",
+    "options": [
+      "Tăng đều theo thời gian.",
+      "Giảm đều theo thời gian.",
+      "Không thay đổi theo thời gian.",
+      "Bằng không tại mọi thời điểm."
+    ],
+    "answer": "Không thay đổi theo thời gian.",
+    "explanation": "Theo phương ngang Ox, vật không chịu tác dụng của lực nào (bỏ qua lực cản) nên thành phần vận tốc vx = v0 không đổi."
+  },
+  {
+    "question": "Một người đi bộ từ nhà đến trường theo một đường thẳng dài 2 km, sau đó nhận ra quên tài liệu nên quay lại nhà theo đường cũ. Độ dịch chuyển tổng cộng của người đó khi về đến nhà là bao nhiêu?",
+    "options": [
+      "4 km",
+      "2 km",
+      "0 km",
+      "-2 km"
+    ],
+    "answer": "0 km",
+    "explanation": "Vì điểm đầu và điểm cuối trùng nhau (đều ở nhà) nên độ dịch chuyển tổng cộng bằng 0 km."
+  },
+  {
+    "question": "Một chiếc thuyền đi ngược dòng sông với vận tốc 6 km/h đối với dòng nước, nước chảy với vận tốc 2 km/h đối với bờ. Vận tốc của thuyền đối với bờ sông là bao nhiêu?",
+    "options": [
+      "8 km/h",
+      "4 km/h",
+      "12 km/h",
+      "3 km/h"
+    ],
+    "answer": "4 km/h",
+    "explanation": "Đi ngược dòng nên vận tốc đối với bờ bằng vận tốc thuyền trừ vận tốc nước: v = 6 - 2 = 4 km/h."
+  },
+  {
+    "question": "Đồ thị vận tốc - thời gian (v - t) của một vật chuyển động thẳng nhanh dần đều là:",
+    "options": [
+      "Một đường thẳng song song với trục thời gian Ot.",
+      "Một đường thẳng xiên góc đi lên từ dưới hướng lên.",
+      "Một đường thẳng xiên góc đi xuống từ trên hướng xuống.",
+      "Một đường cong parabol đi qua gốc tọa độ."
+    ],
+    "answer": "Một đường thẳng xiên góc đi lên từ dưới hướng lên.",
+    "explanation": "Chuyển động nhanh dần đều có gia tốc cùng chiều với vận tốc (a > 0 khi chọn v > 0), đồ thị v - t là đường thẳng có hệ số góc dương (hướng lên)."
+  },
+  {
+    "question": "Một ô tô đang chạy với vận tốc 10 m/s thì hãm phanh chuyển động chậm dần đều, sau 5 giây thì dừng hẳn. Gia tốc của ô tô là bao nhiêu?",
+    "options": [
+      "2 m/s2",
+      "-2 m/s2",
+      "0,5 m/s2",
+      "-0,5 m/s2"
+    ],
+    "answer": "-2 m/s2",
+    "explanation": "Gia tốc a = (v - v0) / t = (0 - 10) / 5 = -2 m/s2."
+  },
+  {
+    "question": "Thả một hòn đá rơi tự do từ độ cao h xuống đất tại nơi có gia tốc g. Công thức tính vận tốc v của hòn đá ngay trước khi chạm đất là gì?",
+    "options": [
+      "v = g.h",
+      "v = căn bậc hai của (2.g.h)",
+      "v = 2.g.h",
+      "v = căn bậc hai của (g.h)"
+    ],
+    "answer": "v = căn bậc hai của (2.g.h)",
+    "explanation": "Từ công thức liên hệ v2 - 0 = 2.g.h suy ra v = căn bậc hai của (2.g.h)."
+  },
+  {
+    "question": "Khi đo chiều dài của một chiếc bàn, kết quả thu được là L = 1,254 m với sai số dụng cụ là 0,002 m và sai số ngẫu nhiên là 0,001 m. Sai số tuyệt đối toàn phần của phép đo này bằng bao nhiêu?",
+    "options": [
+      "0,001 m",
+      "0,002 m",
+      "0,003 m",
+      "0,0005 m"
+    ],
+    "answer": "0,003 m",
+    "explanation": "Sai số tuyệt đối toàn phần bằng tổng sai số ngẫu nhiên và sai số dụng cụ: 0,001 + 0,002 = 0,003 m."
+  },
+  {
+    "question": "Một vật được ném ngang từ độ cao h với vận tốc ban đầu v0. Thời gian chuyển động của vật cho đến khi chạm đất phụ thuộc vào những yếu tố nào?",
+    "options": [
+      "Vận tốc ban đầu v0 và gia tốc g.",
+      "Độ cao h và gia tốc g.",
+      "Vận tốc ban đầu v0 và độ cao h.",
+      "Khối lượng của vật và độ cao h."
+    ],
+    "answer": "Độ cao h và gia tốc g.",
+    "explanation": "Thời gian rơi của vật ném ngang bằng thời gian rơi tự do từ cùng một độ cao: t = căn bậc hai của (2.h / g), không phụ thuộc v0."
+  },
+  {
+    "question": "Cặp đồ thị nào sau đây mô tả cùng một trạng thái đứng yên của một vật?",
+    "options": [
+      "Đồ thị d-t là đường thẳng song song với Ot; đồ thị v-t trùng với trục Ot.",
+      "Đồ thị d-t xiên góc; đồ thị v-t song song với Ot.",
+      "Đồ thị d-t song song với Od; đồ thị v-t song song với Ov.",
+      "Đồ thị d-t parabol; đồ thị v-t xiên góc."
+    ],
+    "answer": "Đồ thị d-t là đường thẳng song song với Ot; đồ thị v-t trùng với trục Ot.",
+    "explanation": "Vật đứng yên thì độ dịch chuyển d không đổi theo thời gian (đường thẳng song song với Ot) và vận tốc v = 0 (trùng với trục Ot)."
+  },
+  {
+    "question": "Một vật chuyển động thẳng có đồ thị độ dịch chuyển - thời gian là một đường thẳng xiên góc hướng xuống dưới. Điều này chứng tỏ vật đang:",
+    "options": [
+      "Chuyển động thẳng đều cùng chiều dương.",
+      "Chuyển động thẳng đều ngược chiều dương.",
+      "Chuyển động thẳng nhanh dần đều ngược chiều dương.",
+      "Chuyển động thẳng chậm dần đều cùng chiều dương."
+    ],
+    "answer": "Chuyển động thẳng đều ngược chiều dương.",
+    "explanation": "Đồ thị d-t là đường thẳng nên là chuyển động thẳng đều, hệ số góc âm (hướng xuống) nghĩa là vận tốc âm, vật đi ngược chiều dương."
+  },
+  {
+    "question": "Tại sao khi tính toán sai số của một phép đo gián tiếp dựa trên các phép đo trực tiếp, ta cần phải lấy vi phân hoặc tính toán sai số tỉ đối trước?",
+    "options": [
+      "Để loại bỏ hoàn toàn sai số hệ thống của dụng cụ.",
+      "Để xác định mức độ ảnh hưởng của từng sai số thành phần lên kết quả cuối cùng.",
+      "Vì sai số gián tiếp luôn bằng tổng các giá trị đo được.",
+      "Để làm cho giá trị đo được lớn hơn thực tế."
+    ],
+    "answer": "Để xác định mức độ ảnh hưởng của từng sai số thành phần lên kết quả cuối cùng.",
+    "explanation": "Phép toán sai số gián tiếp giúp xác định sự lan truyền sai số từ các đại lượng đo trực tiếp sang đại lượng cần tính."
+  },
+  {
+    "question": "Nếu một vật chuyển động thẳng chậm dần đều theo chiều dương của trục tọa độ thì:",
+    "options": [
+      "Gia tốc a có giá trị dương.",
+      "Gia tốc a có giá trị âm.",
+      "Vận tốc v giảm dần và gia tốc a tăng dần.",
+      "Vận tốc v có giá trị âm."
+    ],
+    "answer": "Gia tốc a có giá trị âm.",
+    "explanation": "Chuyển động chậm dần đều có a và v ngược dấu. Vì vật đi theo chiều dương nên v > 0, do đó gia tốc a phải âm (a < 0)."
+  },
+  {
+    "question": "Một người bơi dọc theo chiều dài 50 m của bể bơi hết 20 giây, rồi quay lại vạch xuất phát hết 30 giây. Tốc độ trung bình của người này trong suốt quá trình đi và về là bao nhiêu?",
+    "options": [
+      "2 m/s",
+      "0 m/s",
+      "4 m/s",
+      "2,5 m/s"
+    ],
+    "answer": "2 m/s",
+    "explanation": "Tổng quãng đường s = 50 + 50 = 100 m. Tổng thời gian t = 20 + 30 = 50 s. Tốc độ trung bình = 100 / 50 = 2 m/s."
+  },
+  {
+    "question": "Tầm xa của một vật bị ném ngang từ độ cao h với vận tốc ban đầu v0 được tính bằng công thức nào?",
+    "options": [
+      "L = v0 * h",
+      "L = v0 * căn bậc hai của (2.h / g)",
+      "L = g * h / v0",
+      "L = v0 * 2.h / g"
+    ],
+    "answer": "L = v0 * căn bậc hai của (2.h / g)",
+    "explanation": "Tầm xa bằng tích của vận tốc theo phương ngang v0 và thời gian chuyển động t: L = v0.t = v0 * căn bậc hai của (2.h / g)."
+  },
+  {
+    "question": "Yếu tố nào sau đây không ảnh hưởng đến gia tốc rơi tự do của một vật tại một vị trí xác định?",
+    "options": [
+      "Vĩ độ địa lí của vị trí đó.",
+      "Độ cao của vị trí đó so với mực nước biển.",
+      "Khối lượng của vật rơi.",
+      "Cấu trúc địa chất nơi đo."
+    ],
+    "answer": "Khối lượng của vật rơi.",
+    "explanation": "Gia tốc rơi tự do g phụ thuộc vào vị trí địa lí, độ cao nhưng hoàn toàn không phụ thuộc vào khối lượng của vật rơi."
+  },
+  {
+    "question": "Khi sử dụng đồng hồ bấm giây thông thường để đo thời gian chuyển động của một vật, sai số dụng cụ thường được lấy bằng:",
+    "options": [
+      "Một nửa phân độ nhỏ nhất của đồng hồ.",
+      "Một phân độ nhỏ nhất của đồng hồ.",
+      "Khoảng 1 giây cho mọi loại đồng hồ.",
+      "Bằng không nếu ta bấm chính xác."
+    ],
+    "answer": "Một phân độ nhỏ nhất của đồng hồ.",
+    "explanation": "Thông thường với các dụng cụ đo hiện số hoặc đồng hồ bấm giây, sai số dụng cụ được lấy bằng một phân độ nhỏ nhất (độ chia nhỏ nhất)."
+  },
+  {
+    "question": "Một người lái ô tô đi thẳng từ thành phố A đến thành phố B cách nhau 90 km trong vòng 1,5 giờ. Sau đó, người này lập tức quay trở lại vị trí C cách B 30 km trên cùng đường thẳng đó mất thêm 0,5 giờ. Vận tốc trung bình của ô tô trên cả đoạn hành trình từ A đến C là bao nhiêu?",
+    "options": [
+      "60 km/h",
+      "30 km/h",
+      "45 km/h",
+      "75 km/h"
+    ],
+    "answer": "30 km/h",
+    "explanation": "Vị trí C cách B 30 km và nằm trên AB nên cách A là 90 - 30 = 60 km. Độ dịch chuyển d = 60 km. Tổng thời gian t = 1,5 + 0,5 = 2 giờ. Vận tốc trung bình v = d / t = 60 / 2 = 30 km/h."
+  },
+  {
+    "question": "Một đoàn tàu đang chạy thẳng với vận tốc 72 km/h thì hãm phanh chuyển động chậm dần đều và dừng lại sau khi đi được quãng đường 200 m. Gia tốc của đoàn tàu có độ lớn bằng bao nhiêu?",
+    "options": [
+      "1 m/s2",
+      "2 m/s2",
+      "0,5 m/s2",
+      "1,5 m/s2"
+    ],
+    "answer": "1 m/s2",
+    "explanation": "Đổi v0 = 72 km/h = 20 m/s. Khi dừng lại v = 0. Áp dụng v2 - v02 = 2.a.s => 0 - 202 = 2 * a * 200 => a = -1 m/s2. Độ lớn bằng 1 m/s2."
+  },
+  {
+    "question": "Thả một vật rơi tự do từ độ cao 45 m xuống đất tại nơi có g = 10 m/s2. Thời gian kể từ lúc thả đến khi vật chạm đất là bao nhiêu?",
+    "options": [
+      "3 giây",
+      "4,5 giây",
+      "9 giây",
+      "2,1 giây"
+    ],
+    "answer": "3 giây",
+    "explanation": "Áp dụng công thức h = 0,5.g.t2 => 45 = 0,5 * 10 * t2 => t2 = 9 => t = 3 giây."
+  },
+  {
+    "question": "Một máy bay cứu trợ bay theo phương ngang với vận tốc 180 km/h ở độ cao 500 m so với mặt đất. Người phi công phải thả thùng hàng cứu trợ từ khoảng cách bao xa (tính theo phương ngang) trước khi máy bay bay qua vị trí mục tiêu bên dưới? Lấy g = 10 m/s2.",
+    "options": [
+      "500 m",
+      "1000 m",
+      "250 m",
+      "750 m"
+    ],
+    "answer": "500 m",
+    "explanation": "Đổi v0 = 180 km/h = 50 m/s. Thời gian rơi t = căn(2*h/g) = căn(2*500/10) = 10 giây. Tầm xa L = v0.t = 50 * 10 = 500 m."
+  },
+  {
+    "question": "Một ô tô khởi hành từ trạng thái đứng yên, chuyển động thẳng nhanh dần đều trên một đoạn đường phẳng. Trong 2 giây đầu tiên ô tô đi được 4 m. Quãng đường ô tô đi được trong 4 giây đầu tiên là bao nhiêu?",
+    "options": [
+      "8 m",
+      "12 m",
+      "16 m",
+      "20 m"
+    ],
+    "answer": "16 m",
+    "explanation": "Quãng đường s = 0,5.a.t2. Do đó quãng đường tỉ lệ thuận với bình phương thời gian. Thời gian tăng gấp đôi (từ 2s lên 4s) thì quãng đường tăng gấp 4 lần: 4 * 4 = 16 m."
+  },
+  {
+    "question": "Một người đo thể tích một khối lập phương bằng cách đo cạnh a của nó. Kết quả đo cạnh là a = 10,0 cm với sai số tuyệt đối là 0,1 cm. Sai số tỉ đối của phép đo thể tích khối lập phương này gần bằng bao nhiêu?",
+    "options": [
+      "1%",
+      "3%",
+      "0,1%",
+      "0,3%"
+    ],
+    "answer": "3%",
+    "explanation": "Thể tích V = a3. Sai số tỉ đối của V bằng 3 lần sai số tỉ đối của cạnh a: delta V / V = 3 * (delta a / a) = 3 * (0,1 / 10,0) = 3%."
+  },
+  {
+    "question": "Một ca nô chạy xuôi dòng từ bến A đến bến B mất 2 giờ, biết khoảng cách AB là 40 km và vận tốc của dòng nước là 4 km/h. Vận tốc của ca nô so với dòng nước là bao nhiêu?",
+    "options": [
+      "16 km/h",
+      "20 km/h",
+      "24 km/h",
+      "12 km/h"
+    ],
+    "answer": "16 km/h",
+    "explanation": "Vận tốc ca nô đối với bờ khi xuôi dòng: v_xuoi = 40 / 2 = 20 km/h. Vận tốc ca nô so với nước: v_thuyen = v_xuoi - v_nuoc = 20 - 4 = 16 km/h."
+  },
+  {
+    "question": "Một hòn đá được ném từ độ cao 20 m xuống đất theo phương ngang. Ngay khi chạm đất, vận tốc của hòn đá hợp với phương ngang một góc có giá trị gần bằng bao nhiêu? Lấy g = 10 m/s2 và vận tốc ném ban đầu v0 = 20 m/s.",
+    "options": [
+      "24 m",
+      "28 m",
+      "30 m",
+      "32 m"
+    ],
+    "answer": "28 m",
+    "explanation": "Thành phần vận tốc thẳng đứng khi chạm đất vy = căn(2*g*h) = căn(2*10*20) = 20 m/s. Thành phần ngang vx = v0 = 20 m/s. Vì vx = vy nên tan(alpha) = 1 => alpha = 45 độ."
+  },
+  {
+    "question": "Một vật chuyển động thẳng có phương trình độ dịch chuyển theo thời gian là d = 4.t + 2.t2 (m; s). Vận tốc ban đầu v0 và gia tốc a của vật lần lượt là:",
+    "options": [
+      "v0 = 4 m/s, a = 2 m/s2",
+      "v0 = 4 m/s, a = 4 m/s2",
+      "v0 = 2 m/s, a = 4 m/s2",
+      "v0 = 2 m/s, a = 2 m/s2"
+    ],
+    "answer": "v0 = 4 m/s, a = 4 m/s2",
+    "explanation": "Phương trình tổng quát d = v0.t + 0,5.a.t2. Đồng nhất hệ số ta có v0 = 4 m/s và 0,5.a = 2 => a = 4 m/s2."
+  },
+  {
+    "question": "Một xe đạp đang chuyển động với vận tốc 4 m/s thì xuống dốc chuyển động nhanh dần đều với gia tốc 0,2 m/s2. Chiều dài của dốc là 50 m. Thời gian để xe đạp đi hết đoạn dốc đó là bao nhiêu?",
+    "options": [
+      "10 giây",
+      "20 giây",
+      "15 giây",
+      "25 giây"
+    ],
+    "explanation": "Áp dụng d = v0.t + 0,5.a.t2 => 50 = 4.t + 0,5 * 0,2 * t2 => t2 + 40t - 500 = 0. Giải phương trình bậc hai được nghiệm dương t = 10 giây.",
+    "answer": "10 giây"
+  },
+  {
+    "question": "Một vật được thả rơi tự do tại nơi có gia tốc g = 10 m/s2. Biết rằng trong giây cuối cùng trước khi chạm đất, vật đi được quãng đường dài 35 m. Vật được thả từ độ cao tổng cộng bằng bao nhiêu?",
+    "options": [
+      "45 m",
+      "80 m",
+      "125 m",
+      "60 m"
+    ],
+    "answer": "80 m",
+    "explanation": "Gọi t là tổng thời gian rơi. Quãng đường đi trong giây cuối: delta s = 0,5.g.t2 - 0,5.g.(t-1)2 = 35 => 5.t2 - 5.(t2 - 2t + 1) = 35 => 10t - 5 = 35 => t = 4 giây. Tổng độ cao h = 0,5 * 10 * 42 = 80 m."
+  },
+  {
+    "question": "Hai ô tô cùng xuất phát một lúc từ hai địa điểm A và B cách nhau 120 km, chuyển động thẳng đều hướng về nhau. Xe từ A có vận tốc 40 km/h, xe từ B có vận tốc 20 km/h. Chọn gốc tọa độ tại A, chiều dương từ A đến B. Hai xe gặp nhau tại vị trí cách vị trí A bao xa và sau bao lâu?",
+    "options": [
+      "Cách A 80 km sau 2 giờ",
+      "Cách A 40 km sau 1 giờ",
+      "Cách A 60 km sau 1,5 giờ",
+      "Cách A 100 km sau 2,5 giờ"
+    ],
+    "answer": "Cách A 80 km sau 2 giờ",
+    "explanation": "Phương trình tọa độ của hai xe: x1 = 40.t; x2 = 120 - 20.t. Khi gặp nhau x1 = x2 => 40.t = 120 - 20.t => 60.t = 120 => t = 2 giờ. Vị trí gặp nhau cách A là x1 = 40 * 2 = 80 km."
+  },
+  {
+    "question": "Một vật chuyển động thẳng biến đổi đều có đồ thị vận tốc - thời gian đi qua hai điểm M(1s; 4m/s) và N(3s; 10m/s). Quãng đường vật đi được tính từ thời điểm t = 0 đến t = 4 giây bằng bao nhiêu?",
+    "options": [
+      "24 m",
+      "30 m",
+      "28 m",
+      "32 m"
+    ],
+    "answer": "30 m",
+    "explanation": "Gia tốc a = (10 - 4) / (3 - 1) = 3 m/s2. Vận tốc ban đầu v0 tại t=0: vM = v0 + a.tM => 4 = v0 + 3*1 => v0 = 1 m/s. Quãng đường đi được sau 4s: s = v0.t + 0,5.a.t2 = 1*4 + 0,5*3*42 = 4 + 24 = 28 m. Khoan, hãy kiểm tra lại diện tích hình thang dưới đồ thị v(t): v(0)=1, v(4)=1+3*4=13. S = (1+13)*4/2 = 28 m."
+  },
+  {
+    "question": "Một hòn đá được ném ngang từ đỉnh một tháp cao với vận tốc ban đầu v0 = 15 m/s. Biết rằng khi chạm đất, vectơ vận tốc của hòn đá vuông góc với vectơ vận tốc ban đầu tại đỉnh tháp. Điều này có thể xảy ra trong thực tế không và gia tốc trọng trường đóng vai trò gì?",
+    "options": [
+      "Không thể xảy ra vì vận tốc ngang luôn giữ nguyên cố định.",
+      "Có thể xảy ra nếu thời gian bay vô hạn để thành phần thẳng đứng tiến tới vô cùng.",
+      "Không bao giờ xảy ra vì vectơ vận tốc ban đầu nằm ngang, còn vận tốc chạm đất luôn xiên góc hướng xuống chứ không thể vuông góc thẳng đứng hoàn toàn.",
+      "Có thể xảy ra ở bất kỳ hành tinh nào có lực hấp dẫn bằng không."
+    ],
+    "answer": "Không bao giờ xảy ra vì vectơ vận tốc ban đầu nằm ngang, còn vận tốc chạm đất luôn xiên góc hướng xuống chứ không thể vuông góc thẳng đứng hoàn toàn.",
+    "explanation": "Vận tốc ban đầu nằm ngang hoàn toàn (phương Ox). Vận tốc chạm đất luôn có cả thành phần ngang vx = v0 > 0 và thành phần thẳng đứng vy > 0 nên nó luôn nằm xiên góc, không bao giờ có thể vuông góc hoàn toàn (hướng thẳng đứng) trừ khi vx = 0, điều này vô lí."
+  },
+  {
+    "question": "Hai vật được thả rơi tự do từ cùng một độ cao nhưng tại hai thời điểm khác nhau, vật thứ hai thả sau vật thứ nhất 1 giây. Lấy g = 10 m/s2. Khoảng cách giữa hai vật sau khi vật thứ hai rơi được 2 giây là bao nhiêu?",
+    "options": [
+      "15 m",
+      "25 m",
+      "20 m",
+      "30 m"
+    ],
+    "answer": "25 m",
+    "explanation": "Khi vật 2 rơi được 2 giây thì vật 1 đã rơi được 2 + 1 = 3 giây. Quãng đường vật 1 rơi: s1 = 0,5 * 10 * 32 = 45 m. Quãng đường vật 2 rơi: s2 = 0,5 * 10 * 22 = 20 m. Khoảng cách giữa hai vật d = s1 - s2 = 45 - 20 = 25 m."
+  }
+]

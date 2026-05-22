@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Quân chủng nào sau đây thuộc Quân đội nhân dân Việt Nam?",
+    "options": [
+      "Quân chủng Lục quân",
+      "Quân chủng Hải quân",
+      "Quân chủng Công an",
+      "Quân chủng Biên phòng"
+    ],
+    "answer": "Quân chủng Hải quân",
+    "explanation": "Quân chủng Hải quân là một trong ba quân chủng chủ lực của Quân đội nhân dân Việt Nam."
+  },
+  {
+    "question": "Súng tiểu liên AK sử dụng loại đạn có cỡ nào?",
+    "options": [
+      "5.56 mm",
+      "7.62 mm",
+      "9 mm",
+      "12.7 mm"
+    ],
+    "answer": "7.62 mm",
+    "explanation": "Súng tiểu liên AK (phiên bản phổ biến) sử dụng đạn cỡ 7.62 x 39 mm."
+  },
+  {
+    "question": "Lựu đạn phi 1 là loại lựu đạn gì?",
+    "options": [
+      "Lựu đạn tấn công",
+      "Lựu đạn phòng ngự",
+      "Lựu đạn khói",
+      "Lựu đạn hơi cay"
+    ],
+    "answer": "Lựu đạn phòng ngự",
+    "explanation": "Lựu đạn phi 1 có bán kính sát thương lớn nên được dùng trong phòng ngự."
+  },
+  {
+    "question": "Hộp tiếp đạn súng AK chứa được bao nhiêu viên đạn?",
+    "options": [
+      "20 viên",
+      "30 viên",
+      "40 viên",
+      "50 viên"
+    ],
+    "answer": "30 viên",
+    "explanation": "Hộp tiếp đạn tiêu chuẩn của súng AK có sức chứa 30 viên."
+  },
+  {
+    "question": "Đâu là một trong những tư thế ném lựu đạn cơ bản?",
+    "options": [
+      "Đứng ném",
+      "Chạy ném",
+      "Nhảy ném",
+      "Lăn ném"
+    ],
+    "answer": "Đứng ném",
+    "explanation": "Ba tư thế ném lựu đạn cơ bản là: Đứng ném, Quỳ ném và Nằm ném."
+  },
+  {
+    "question": "Tầm bắn hiệu quả của súng AK là bao nhiêu mét?",
+    "options": [
+      "200m",
+      "400m",
+      "600m",
+      "800m"
+    ],
+    "answer": "400m",
+    "explanation": "Tầm bắn hiệu quả của súng tiểu liên AK đối với mục tiêu mặt đất thường là 400m."
+  },
+  {
+    "question": "Khi tháo súng AK, bộ phận nào được tháo đầu tiên?",
+    "options": [
+      "Nắp hộp khóa nòng",
+      "Hộp tiếp đạn",
+      "Bệ khóa nòng",
+      "Ống dẫn thoi"
+    ],
+    "answer": "Hộp tiếp đạn",
+    "explanation": "Theo quy tắc an toàn, bước đầu tiên khi tháo súng là phải tháo hộp tiếp đạn và kiểm tra buồng đạn."
+  },
+  {
+    "question": "Bộ phận nào có tác dụng đẩy bệ khóa nòng về phía trước?",
+    "options": [
+      "Lò xo đẩy về",
+      "Khóa nòng",
+      "Thước ngắm",
+      "Cò súng"
+    ],
+    "answer": "Lò xo đẩy về",
+    "explanation": "Bộ phận đẩy về chứa lò xo có chức năng đưa bệ khóa nòng về vị trí ban đầu sau khi bắn."
+  },
+  {
+    "question": "Súng tiểu liên AK hoạt động dựa trên nguyên lý nào?",
+    "options": [
+      "Trích khí thuốc",
+      "Phản lực",
+      "Lên đạn bằng tay",
+      "Điện từ"
+    ],
+    "answer": "Trích khí thuốc",
+    "explanation": "Súng AK sử dụng năng lượng khí thuốc được trích từ nòng súng để đẩy bệ khóa nòng."
+  },
+  {
+    "question": "Ai là người thiết kế súng AK?",
+    "options": [
+      "Mikhail Kalashnikov",
+      "John Browning",
+      "Eugene Stoner",
+      "Maxim"
+    ],
+    "answer": "Mikhail Kalashnikov",
+    "explanation": "Nhà thiết kế súng người Nga Mikhail Kalashnikov đã hoàn thiện mẫu AK-47 vào năm 1947."
+  },
+  {
+    "question": "Động tác đi khom thường được sử dụng khi nào?",
+    "options": [
+      "Khi hành quân dài",
+      "Khi gần địch, có vật che khuất",
+      "Khi duyệt binh",
+      "Khi chạy thi"
+    ],
+    "answer": "Khi gần địch, có vật che khuất",
+    "explanation": "Đi khom dùng để di chuyển bí mật nơi có địa hình che khuất tầm ngực."
+  },
+  {
+    "question": "Trong đội hình hàng ngang, người chỉ huy đứng ở đâu?",
+    "options": [
+      "Bên phải",
+      "Bên trái",
+      "Phía trước",
+      "Phía sau"
+    ],
+    "answer": "Phía trước",
+    "explanation": "Người chỉ huy thường đứng phía trước để quan sát và điều khiển đội hình."
+  },
+  {
+    "question": "Lựu đạn phi 1 có màu gì đặc trưng?",
+    "options": [
+      "Xanh lá",
+      "Xám đen",
+      "Vàng",
+      "Đỏ"
+    ],
+    "answer": "Xám đen",
+    "explanation": "Vỏ lựu đạn phi 1 thường có màu xám đen của gang đúc."
+  },
+  {
+    "question": "Súng AK có bao nhiêu bộ phận chính?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11",
+    "explanation": "Súng tiểu liên AK thông thường gồm 11 bộ phận chính khi tháo rời."
+  },
+  {
+    "question": "Tốc độ đầu nòng của đạn AK khoảng bao nhiêu?",
+    "options": [
+      "500 m/s",
+      "715 m/s",
+      "900 m/s",
+      "1200 m/s"
+    ],
+    "answer": "715 m/s",
+    "explanation": "Vận tốc đầu nòng của đạn súng AK phổ biến là khoảng 715 m/s."
+  },
+  {
+    "question": "Cấu tạo chính của ngòi nổ lựu đạn gồm những phần nào?",
+    "options": [
+      "Kim hỏa, hạt lửa, thuốc cháy chậm, kíp",
+      "Pin, dây điện, kíp",
+      "Lò xo, chốt, vỏ",
+      "Thuốc nổ, kíp"
+    ],
+    "answer": "Kim hỏa, hạt lửa, thuốc cháy chậm, kíp",
+    "explanation": "Ngòi nổ hoạt động dựa trên sự cháy của thuốc cháy chậm để kích nổ kíp."
+  },
+  {
+    "question": "Điểm chạm là gì?",
+    "options": [
+      "Điểm ngắm trên bia",
+      "Điểm đạn chạm vào mục tiêu",
+      "Điểm thước ngắm",
+      "Điểm đầu ruồi"
+    ],
+    "answer": "Điểm đạn chạm vào mục tiêu",
+    "explanation": "Điểm chạm là vị trí thực tế mà đầu đạn xuyên qua mục tiêu."
+  },
+  {
+    "question": "Tại sao phải giữ súng chắc khi bắn?",
+    "options": [
+      "Để súng không bị rơi",
+      "Để giảm độ rung, tăng độ chính xác",
+      "Để súng nhìn đẹp hơn",
+      "Vì quy định của nhà sản xuất"
+    ],
+    "answer": "Để giảm độ rung, tăng độ chính xác",
+    "explanation": "Sự ổn định của tay giữ súng giúp đường ngắm chính xác hơn."
+  },
+  {
+    "question": "Quân chủng nào đảm nhiệm bảo vệ bầu trời?",
+    "options": [
+      "Lục quân",
+      "Hải quân",
+      "Phòng không - Không quân",
+      "Biên phòng"
+    ],
+    "answer": "Phòng không - Không quân",
+    "explanation": "Đây là quân chủng chịu trách nhiệm chính về tác chiến phòng không và không quân."
+  },
+  {
+    "question": "Động tác trườn được sử dụng trong trường hợp nào?",
+    "options": [
+      "Di chuyển qua địa hình trống trải",
+      "Vượt qua chướng ngại vật thấp (dây thép gai)",
+      "Đi tuần tra",
+      "Đánh cận chiến"
+    ],
+    "answer": "Vượt qua chướng ngại vật thấp (dây thép gai)",
+    "explanation": "Trườn giúp thu nhỏ tối đa hình dáng cơ thể để tránh hỏa lực và chui qua các vật cản."
+  },
+  {
+    "question": "Vì sao khi tháo súng AK cần kiểm tra buồng đạn?",
+    "options": [
+      "Để lau chùi",
+      "Để đảm bảo không còn đạn, tránh tai nạn cướp cò",
+      "Để đếm số đạn còn lại",
+      "Để xem súng có bị rỉ không"
+    ],
+    "answer": "Để đảm bảo không còn đạn, tránh tai nạn cướp cò",
+    "explanation": "Đây là nguyên tắc an toàn quan trọng nhất trước khi bảo quản hoặc làm sạch súng."
+  },
+  {
+    "question": "Sự khác biệt giữa thước ngắm và điểm ngắm là gì?",
+    "options": [
+      "Thước ngắm là bộ phận trên súng, điểm ngắm là vị trí chọn trên mục tiêu",
+      "Thước ngắm là vị trí mục tiêu, điểm ngắm là bộ phận súng",
+      "Không có sự khác biệt",
+      "Thước ngắm dùng để bắn xa, điểm ngắm dùng để bắn gần"
+    ],
+    "answer": "Thước ngắm là bộ phận trên súng, điểm ngắm là vị trí chọn trên mục tiêu",
+    "explanation": "Người bắn điều chỉnh thước ngắm trên súng để nhắm trúng vào điểm ngắm đã chọn trên mục tiêu."
+  },
+  {
+    "question": "Tại sao lựu đạn phi 1 cần thời gian cháy chậm?",
+    "options": [
+      "Để người ném kịp nấp vào vị trí an toàn",
+      "Để lựu đạn bay xa hơn",
+      "Để tăng tiếng nổ",
+      "Để dễ kiểm soát chất lượng"
+    ],
+    "answer": "Để người ném kịp nấp vào vị trí an toàn",
+    "explanation": "Thời gian cháy chậm (3.2-4.2 giây) cho phép người ném tìm nơi ẩn nấp tránh mảnh văng."
+  },
+  {
+    "question": "Khi ngắm bắn, mắt người bắn cần tập trung vào đâu?",
+    "options": [
+      "Mục tiêu",
+      "Đầu ruồi",
+      "Khe ngắm",
+      "Đường ngắm chính xác (kết hợp khe ngắm, đầu ruồi và mục tiêu)"
+    ],
+    "answer": "Đường ngắm chính xác (kết hợp khe ngắm, đầu ruồi và mục tiêu)",
+    "explanation": "Đường ngắm cơ bản là kết hợp giữa khe ngắm và đầu ruồi, đường ngắm chính xác là đưa đường ngắm đó vào mục tiêu."
+  },
+  {
+    "question": "Tư thế nằm bắn có bệ tì giúp ích gì?",
+    "options": [
+      "Tăng tầm bắn",
+      "Giúp súng ổn định, giảm sự mệt mỏi cho tay",
+      "Dễ dàng chạy trốn",
+      "Đỡ tốn đạn"
+    ],
+    "answer": "Giúp súng ổn định, giảm sự mệt mỏi cho tay",
+    "explanation": "Bệ tì tạo điểm tựa cố định giúp người bắn ngắm chuẩn xác hơn và giữ súng lâu hơn."
+  },
+  {
+    "question": "Đặc điểm của súng AK là gì?",
+    "options": [
+      "Chỉ bắn được từng phát",
+      "Có thể bắn phát một và bắn liên thanh",
+      "Chỉ bắn được liên thanh",
+      "Súng bắn tỉa chuyên dụng"
+    ],
+    "answer": "Có thể bắn phát một và bắn liên thanh",
+    "explanation": "Súng AK có chế độ khóa an toàn, bắn phát một (trễ) và bắn liên thanh."
+  },
+  {
+    "question": "Tại sao phải thực hiện đúng điều lệnh đội ngũ?",
+    "options": [
+      "Để trông chuyên nghiệp",
+      "Tạo sự thống nhất, chính quy và khả năng phối hợp nhịp nhàng trong chiến đấu",
+      "Để kỷ luật học sinh",
+      "Không quan trọng"
+    ],
+    "answer": "Tạo sự thống nhất, chính quy và khả năng phối hợp nhịp nhàng trong chiến đấu",
+    "explanation": "Sự thống nhất trong hành động là nền tảng của sức mạnh đơn vị quân đội."
+  },
+  {
+    "question": "Khi ném lựu đạn phi 1, tư thế đứng ném cần chú ý điều gì?",
+    "options": [
+      "Đứng thẳng hoàn toàn",
+      "Phải có vật che đỡ hoặc nằm trong công sự",
+      "Ném xa hết mức có thể",
+      "Không cần chú ý gì"
+    ],
+    "answer": "Phải có vật che đỡ hoặc nằm trong công sự",
+    "explanation": "Vì lựu đạn phòng ngự có mảnh văng rộng, cần có vật che chắn để bảo vệ người ném."
+  },
+  {
+    "question": "Cấu tạo của viên đạn AK gồm những phần nào?",
+    "options": [
+      "Đầu đạn, vỏ đạn, thuốc phóng, hạt lửa",
+      "Thân đạn, kíp",
+      "Vỏ đạn, thuốc nổ",
+      "Chỉ có đầu đạn"
+    ],
+    "answer": "Đầu đạn, vỏ đạn, thuốc phóng, hạt lửa",
+    "explanation": "Đây là 4 thành phần cơ bản của một viên đạn súng bộ binh."
+  },
+  {
+    "question": "Tại sao súng AK được sử dụng rộng rãi trên thế giới?",
+    "options": [
+      "Vì nó đẹp",
+      "Vì nó bền, hoạt động tin cậy trong mọi môi trường và dễ sử dụng",
+      "Vì nó đắt tiền",
+      "Vì nó là súng mới nhất"
+    ],
+    "answer": "Vì nó bền, hoạt động tin cậy trong mọi môi trường và dễ sử dụng",
+    "explanation": "Súng AK nổi tiếng với khả năng hoạt động ổn định kể cả khi dính bùn đất."
+  },
+  {
+    "question": "Nếu đường ngắm cơ bản bị lệch, điểm chạm sẽ thay đổi thế nào?",
+    "options": [
+      "Không thay đổi",
+      "Điểm chạm sẽ lệch theo chiều ngược lại với đường ngắm",
+      "Điểm chạm sẽ lệch cùng chiều với đường ngắm",
+      "Đạn sẽ bay xa hơn"
+    ],
+    "answer": "Điểm chạm sẽ lệch cùng chiều với đường ngắm",
+    "explanation": "Sai lệch ở khe ngắm hoặc đầu ruồi sẽ khiến đạn đi lệch về phía đó so với điểm ngắm."
+  },
+  {
+    "question": "Khi di chuyển bằng động tác vọt tiến, người chiến sĩ cần lưu ý gì?",
+    "options": [
+      "Chạy chậm để giữ sức",
+      "Kết hợp chạy nhanh với chọn vị trí trú ẩn an toàn kế tiếp",
+      "Vừa chạy vừa bắn",
+      "Nhắm mắt chạy"
+    ],
+    "answer": "Kết hợp chạy nhanh với chọn vị trí trú ẩn an toàn kế tiếp",
+    "explanation": "Vọt tiến là động tác chạy nhanh để thay đổi vị trí, cần có đích đến an toàn."
+  },
+  {
+    "question": "Lựu đạn tấn công khác phòng ngự như thế nào?",
+    "options": [
+      "Sát thương bằng mảnh văng rất lớn",
+      "Sát thương chủ yếu bằng sóng xung kích, mảnh văng hạn chế",
+      "Không có khác biệt",
+      "Tấn công nổ to hơn"
+    ],
+    "answer": "Sát thương chủ yếu bằng sóng xung kích, mảnh văng hạn chế",
+    "explanation": "Lựu đạn tấn công an toàn hơn cho người ném khi di chuyển."
+  },
+  {
+    "question": "Bộ phận nào trên súng AK giúp khóa nòng đóng chặt buồng đạn?",
+    "options": [
+      "Vấu khóa",
+      "Bệ khóa nòng",
+      "Lò xo",
+      "Nòng súng"
+    ],
+    "answer": "Vấu khóa",
+    "explanation": "Vấu khóa của khóa nòng xoay và móc vào các rãnh trong hộp khóa nòng để giữ chặt."
+  },
+  {
+    "question": "Kỹ thuật ngắm bắn bao gồm mấy giai đoạn chính?",
+    "options": [
+      "1 giai đoạn",
+      "2 giai đoạn (ngắm cơ bản và ngắm chính xác)",
+      "3 giai đoạn",
+      "Không chia giai đoạn"
+    ],
+    "answer": "2 giai đoạn (ngắm cơ bản và ngắm chính xác)",
+    "explanation": "Giai đoạn 1 là tạo đường ngắm đúng, giai đoạn 2 là đưa đường ngắm vào mục tiêu."
+  },
+  {
+    "question": "Tại sao cần giữ súng không bị lệch khi bóp cò?",
+    "options": [
+      "Để súng không hỏng",
+      "Vì động tác bóp cò sai sẽ làm thay đổi đường ngắm trước khi đạn rời nòng",
+      "Để tiết kiệm đạn",
+      "Không cần chú ý"
+    ],
+    "answer": "Vì động tác bóp cò sai sẽ làm thay đổi đường ngắm trước khi đạn rời nòng",
+    "explanation": "Bóp cò êm, thẳng giúp giữ ổn định đường ngắm cho đến khi viên đạn bay ra."
+  },
+  {
+    "question": "Trong chiến đấu, sự phối hợp quân binh chủng có ý nghĩa gì?",
+    "options": [
+      "Phô trương sức mạnh",
+      "Phát huy thế mạnh của từng lực lượng để giành chiến thắng",
+      "Chỉ dùng cho khi duyệt binh",
+      "Làm phức tạp tình hình"
+    ],
+    "answer": "Phát huy thế mạnh của từng lực lượng để giành chiến thắng",
+    "explanation": "Sự hiệp đồng tác chiến giúp tận dụng ưu thế của Lục quân, Hải quân, Phòng không..."
+  },
+  {
+    "question": "Điểm khác biệt của 'trườn' và 'bò' là gì?",
+    "options": [
+      "Trườn áp sát bụng xuống đất, bò dùng đầu gối",
+      "Bò áp sát bụng, trườn dùng đầu gối",
+      "Hai động tác là một",
+      "Trườn dùng súng, bò không"
+    ],
+    "answer": "Trườn áp sát bụng xuống đất, bò dùng đầu gối",
+    "explanation": "Độ cao của cơ thể so với mặt đất là khác biệt chính."
+  },
+  {
+    "question": "Tại sao súng AK thường dùng thước ngắm 3?",
+    "options": [
+      "Vì thước ngắm 3 là thước ngắm chiến đấu cơ bản nhất",
+      "Vì súng chỉ bắn được cự ly 300m",
+      "Vì nó nằm giữa thước ngắm",
+      "Vì nó đẹp"
+    ],
+    "answer": "Vì thước ngắm 3 là thước ngắm chiến đấu cơ bản nhất",
+    "explanation": "Thước ngắm 3 tương ứng với tầm bắn thẳng đối với mục tiêu cao ngang tầm người."
+  },
+  {
+    "question": "Khi ngắm bắn, nếu gió thổi mạnh từ trái sang phải, người bắn phải làm gì?",
+    "options": [
+      "Ngắm lệch sang trái để bù trừ",
+      "Ngắm lệch sang phải",
+      "Giữ nguyên",
+      "Hạ thước ngắm"
+    ],
+    "answer": "Ngắm lệch sang trái để bù trừ",
+    "explanation": "Đạn sẽ bị gió đẩy sang phải, nên cần nhắm lệch sang trái để đạn trúng tâm."
+  },
+  {
+    "question": "Phân tích nguyên nhân tại sao súng AK lại có độ bền cao khi chiến đấu?",
+    "options": [
+      "Do làm bằng nhựa",
+      "Do cấu tạo đơn giản, khe hở giữa các bộ phận đủ lớn để bụi bẩn không làm kẹt cơ cấu",
+      "Do được mạ vàng",
+      "Do cấu tạo cực kỳ phức tạp"
+    ],
+    "answer": "Do cấu tạo đơn giản, khe hở giữa các bộ phận đủ lớn để bụi bẩn không làm kẹt cơ cấu",
+    "explanation": "Cấu tạo tối giản giúp súng hoạt động ổn định trong mọi điều kiện khắc nghiệt."
+  },
+  {
+    "question": "Tại sao ném lựu đạn cần phối hợp toàn thân?",
+    "options": [
+      "Để đẹp hơn",
+      "Lực từ chân và hông truyền qua tay giúp ném xa và mạnh hơn nhiều so với chỉ dùng lực tay",
+      "Để đỡ mỏi tay",
+      "Để làm theo quy định"
+    ],
+    "answer": "Lực từ chân và hông truyền qua tay giúp ném xa và mạnh hơn nhiều so với chỉ dùng lực tay",
+    "explanation": "Nguyên lý cơ sinh học cho thấy lực tạo ra từ khối lượng lớn (cơ thể) hiệu quả hơn."
+  },
+  {
+    "question": "Khi gặp tình huống súng bị kẹt đạn (đạn không vào buồng đạn), xử lý thế nào?",
+    "options": [
+      "Tiếp tục bóp cò",
+      "Kéo bệ khóa nòng về sau để loại bỏ vỏ đạn hoặc viên đạn bị kẹt",
+      "Tháo rời cả khẩu súng",
+      "Vứt súng đi"
+    ],
+    "answer": "Kéo bệ khóa nòng về sau để loại bỏ vỏ đạn hoặc viên đạn bị kẹt",
+    "explanation": "Động tác kéo bệ khóa nòng giúp hất bỏ viên đạn lỗi ra ngoài buồng đạn."
+  },
+  {
+    "question": "Tầm quan trọng của kỹ năng di chuyển trong chiến đấu là gì?",
+    "options": [
+      "Để thi chạy nhanh",
+      "Giảm thiểu khả năng bị địch phát hiện và tiêu diệt",
+      "Để tập thể dục",
+      "Để đẹp đội hình"
+    ],
+    "answer": "Giảm thiểu khả năng bị địch phát hiện và tiêu diệt",
+    "explanation": "Chiến đấu là bảo toàn lực lượng, các động tác di chuyển giúp chiến sĩ an toàn."
+  },
+  {
+    "question": "Trong chiến thuật, tại sao không được nhìn theo đường đạn?",
+    "options": [
+      "Vì nó đẹp",
+      "Vì làm vậy sẽ mất tập trung vào mục tiêu và làm lộ vị trí, cần tập trung vào đường ngắm",
+      "Vì sợ chói mắt",
+      "Vì đó là quy định"
+    ],
+    "answer": "Vì làm vậy sẽ mất tập trung vào mục tiêu và làm lộ vị trí, cần tập trung vào đường ngắm",
+    "explanation": "Xạ thủ chuyên nghiệp luôn tập trung vào điểm ngắm để duy trì sự ổn định."
+  },
+  {
+    "question": "Mục đích của việc kiểm tra súng trước khi tập luyện?",
+    "options": [
+      "Để làm màu",
+      "Đảm bảo súng hoạt động tốt, không có lỗi kỹ thuật có thể gây nguy hiểm cho người bắn",
+      "Để xem súng có mới không",
+      "Để đếm số linh kiện"
+    ],
+    "answer": "Đảm bảo súng hoạt động tốt, không có lỗi kỹ thuật có thể gây nguy hiểm cho người bắn",
+    "explanation": "Kiểm tra kỹ thuật giúp phát hiện hỏng hóc, đảm bảo an toàn tính mạng."
+  },
+  {
+    "question": "Khi ngắm mục tiêu di động, cần ngắm ở đâu?",
+    "options": [
+      "Ngắm ngay vào mục tiêu",
+      "Ngắm đón đầu phía trước mục tiêu theo hướng di chuyển",
+      "Ngắm phía sau mục tiêu",
+      "Không ngắm"
+    ],
+    "answer": "Ngắm đón đầu phía trước mục tiêu theo hướng di chuyển",
+    "explanation": "Để đạn chạm trúng mục tiêu đang di chuyển, phải ngắm vào điểm mà mục tiêu sẽ tới."
+  },
+  {
+    "question": "Đánh giá vai trò của kỹ thuật chiến đấu trong tổng thể quốc phòng?",
+    "options": [
+      "Không quan trọng",
+      "Là kỹ năng cơ bản tạo nên sức mạnh chiến đấu của mỗi người lính",
+      "Chỉ dùng cho diễn tập",
+      "Chỉ dành cho sỹ quan"
+    ],
+    "answer": "Là kỹ năng cơ bản tạo nên sức mạnh chiến đấu của mỗi người lính",
+    "explanation": "Quân đội dù hiện đại đến đâu vẫn cần những người lính làm chủ kỹ thuật cá nhân."
+  },
+  {
+    "question": "Nếu súng AK bị ngâm trong nước, sau khi lên bờ nên xử lý thế nào?",
+    "options": [
+      "Bắn ngay",
+      "Tháo rời, lau khô và tra dầu mỡ",
+      "Để khô tự nhiên",
+      "Không làm gì"
+    ],
+    "answer": "Tháo rời, lau khô và tra dầu mỡ",
+    "explanation": "Nước có thể gây rỉ sét hoặc nổ nòng nếu có dị vật, cần vệ sinh ngay."
+  },
+  {
+    "question": "Tại sao phải học cả đội ngũ, súng đạn và chiến thuật?",
+    "options": [
+      "Để đủ môn",
+      "Để có kiến thức toàn diện, tạo thành sức mạnh thống nhất trong chiến đấu",
+      "Để được đi du lịch",
+      "Vì đó là sở thích"
+    ],
+    "answer": "Để có kiến thức toàn diện, tạo thành sức mạnh thống nhất trong chiến đấu",
+    "explanation": "Các kiến thức bổ trợ cho nhau tạo nên khả năng tác chiến hoàn chỉnh."
+  }
+]

@@ -1,0 +1,1224 @@
+
+[
+  {
+    "question": "Which word refers to a family that consists of parents and children living together?",
+    "options": [
+      "nuclear family",
+      "extended family",
+      "single-parent family",
+      "blended family"
+    ],
+    "answer": "nuclear family",
+    "explanation": "Nuclear family nghĩa là gia đình hạt nhân, bao gồm bố mẹ và con cái sống cùng nhau."
+  },
+  {
+    "question": "What is the noun form of the adjective 'independent'?",
+    "options": [
+      "independence",
+      "independently",
+      "depend",
+      "dependence"
+    ],
+    "answer": "independence",
+    "explanation": "Danh từ của tính từ 'independent' là 'independence' (sự độc lập)."
+  },
+  {
+    "question": "Which word is a synonym for 'generation gap'?",
+    "options": [
+      "age difference",
+      "family conflict",
+      "social rule",
+      "cultural trend"
+    ],
+    "answer": "age difference",
+    "explanation": "'Generation gap' là khoảng cách thế hệ, gần nghĩa nhất với 'age difference' (sự khác biệt tuổi tác)."
+  },
+  {
+    "question": "What is the main cause of skin damage from the sun?",
+    "options": [
+      "UV rays",
+      "fresh air",
+      "vitamin C",
+      "pure water"
+    ],
+    "answer": "UV rays",
+    "explanation": "Tia cực tím (UV rays) là nguyên nhân chính gây tổn hại cho làn da từ ánh nắng mặt trời."
+  },
+  {
+    "question": "Which word means 'the average length of time that a person is expected to live'?",
+    "options": [
+      "life expectancy",
+      "lifestyle",
+      "lifespan",
+      "lifetime"
+    ],
+    "answer": "life expectancy",
+    "explanation": "'Life expectancy' nghĩa là tuổi thọ trung bình dự kiến của một người."
+  },
+  {
+    "question": "Identify the linking verb in the sentence: 'The soup smells delicious.'",
+    "options": [
+      "smells",
+      "soup",
+      "delicious",
+      "the"
+    ],
+    "answer": "smells",
+    "explanation": "Trong câu này, 'smells' đóng vai trò là một động từ nối (linking verb) đứng trước tính từ 'delicious'."
+  },
+  {
+    "question": "What does 'smart city' rely on to operate efficiently?",
+    "options": [
+      "modern technology",
+      "traditional farming",
+      "ancient history",
+      "manual labor"
+    ],
+    "answer": "modern technology",
+    "explanation": "Thành phố thông minh (smart city) dựa vào công nghệ hiện đại để vận hành hiệu quả."
+  },
+  {
+    "question": "Which word is the opposite of 'urban'?",
+    "options": [
+      "rural",
+      "suburban",
+      "metropolitan",
+      "city"
+    ],
+    "answer": "rural",
+    "explanation": "Trái nghĩa với 'urban' (thuộc thành thị) là 'rural' (thuộc nông thôn)."
+  },
+  {
+    "question": "What is the noun of the verb 'inhabit'?",
+    "options": [
+      "inhabitant",
+      "inhabitable",
+      "habit",
+      "inhabiting"
+    ],
+    "answer": "inhabitant",
+    "explanation": "Danh từ chỉ cư dân, người sinh sống ở một nơi là 'inhabitant'."
+  },
+  {
+    "question": "Which modal verb is used to express a strong advice or moral duty?",
+    "options": [
+      "should",
+      "might",
+      "can",
+      "may"
+    ],
+    "answer": "should",
+    "explanation": "'Should' dùng để đưa ra lời khuyên hoặc diễn tả một nghĩa vụ đạo đức nên làm."
+  },
+  {
+    "question": "What is ASEAN the abbreviation for?",
+    "options": [
+      "Association of Southeast Asian Nations",
+      "Association of Southern East Asian Nations",
+      "Agency of Southeast Asian Nations",
+      "Alliance of Southeast Asian Nations"
+    ],
+    "answer": "Association of Southeast Asian Nations",
+    "explanation": "ASEAN là viết tắt của Hiệp hội các quốc gia Đông Nam Á."
+  },
+  {
+    "question": "Which word refers to 'the traditional beliefs, values, and customs of a society'?",
+    "options": [
+      "heritage",
+      "future",
+      "industry",
+      "economy"
+    ],
+    "answer": "heritage",
+    "explanation": "Di sản (heritage) bao gồm các niềm tin, giá trị và phong tục truyền thống của một xã hội."
+  },
+  {
+    "question": "What is the adjective form of 'culture'?",
+    "options": [
+      "cultural",
+      "culturally",
+      "cultivate",
+      "cultured"
+    ],
+    "answer": "cultural",
+    "explanation": "Tính từ của danh từ 'culture' là 'cultural'."
+  },
+  {
+    "question": "Which preposition goes with the verb 'adapt' when meaning to adjust to something?",
+    "options": [
+      "to",
+      "with",
+      "for",
+      "at"
+    ],
+    "answer": "to",
+    "explanation": "Cấu trúc cố định là 'adapt to something' (thích nghi với cái gì)."
+  },
+  {
+    "question": "What does 'global warming' cause to happen to polar ice?",
+    "options": [
+      "melt",
+      "freeze",
+      "grow",
+      "harden"
+    ],
+    "answer": "melt",
+    "explanation": "Hiên tượng nóng lên toàn cầu khiến băng ở các cực bị tan chảy (melt)."
+  },
+  {
+    "question": "Which word means 'the gas that is produced when green plants use sunlight to make food'?",
+    "options": [
+      "oxygen",
+      "carbon dioxide",
+      "nitrogen",
+      "methane"
+    ],
+    "answer": "oxygen",
+    "explanation": "Khí do thực vật xanh tạo ra trong quá trình quang hợp là oxy (oxygen)."
+  },
+  {
+    "question": "What is the noun form of the verb 'pollute'?",
+    "options": [
+      "pollution",
+      "pollutant",
+      "polluted",
+      "polluting"
+    ],
+    "answer": "pollution",
+    "explanation": "Danh từ chỉ sự ô nhiễm là 'pollution', còn 'pollutant' là chất gây ô nhiễm."
+  },
+  {
+    "question": "Which verb form usually follows a preposition like 'in', 'on', 'at', 'of'?",
+    "options": [
+      "Gerund",
+      "Bare infinitive",
+      "To-infinitive",
+      "Past participle"
+    ],
+    "answer": "Gerund",
+    "explanation": "Sau các giới từ thông thường, ta sử dụng danh động từ (Gerund / V-ing)."
+  },
+  {
+    "question": "What does 'ecological' relate to?",
+    "options": [
+      "the environment and living things",
+      "the financial market",
+      "the building construction",
+      "the ancient history"
+    ],
+    "answer": "the environment and living things",
+    "explanation": "'Ecological' nghĩa là thuộc về sinh thái học, liên quan đến môi trường và các sinh vật sống."
+  },
+  {
+    "question": "Which word means 'a state of physical or mental exhaustion caused by stress'?",
+    "options": [
+      "burnout",
+      "energy",
+      "fitness",
+      "health"
+    ],
+    "answer": "burnout",
+    "explanation": "'Burnout' nghĩa là sự kiệt sức, quá tải về thể chất hoặc tinh thần do áp lực công việc, cuộc sống."
+  },
+  {
+    "question": "Complete the phrase: 'preserve a historic _________'",
+    "options": [
+      "site",
+      "sight",
+      "size",
+      "side"
+    ],
+    "answer": "site",
+    "explanation": "Cụm từ đúng là 'preserve a historic site' (bảo tồn một di tích lịch sử)."
+  },
+  {
+    "question": "What is the synonym of 'preserve'?",
+    "options": [
+      "protect",
+      "destroy",
+      "change",
+      "ignore"
+    ],
+    "answer": "protect",
+    "explanation": "'Preserve' đồng nghĩa với 'protect' hoặc 'save' (bảo tồn, bảo vệ)."
+  },
+  {
+    "question": "Which word refers to 'money given by a school or college to pay for a student's education'?",
+    "options": [
+      "scholarship",
+      "salary",
+      "fee",
+      "fine"
+    ],
+    "answer": "scholarship",
+    "explanation": "Học bổng (scholarship) là khoản tiền trường học cấp cho học sinh để hỗ trợ học tập."
+  },
+  {
+    "question": "What is the past participle form of the verb 'become'?",
+    "options": [
+      "become",
+      "became",
+      "becoming",
+      "becomes"
+    ],
+    "answer": "become",
+    "explanation": "Động từ bất quy tắc 'become' có dạng quá khứ phân từ (V3) giữ nguyên là 'become'."
+  },
+  {
+    "question": "Which suffix is used to form a noun meaning 'the state of being a member'?",
+    "options": [
+      "-ship",
+      "-ment",
+      "-ness",
+      "-ful"
+    ],
+    "answer": "-ship",
+    "explanation": "Hậu tố '-ship' ghép vào danh từ để tạo danh từ mới chỉ tư cách thành viên, vị thế (ví dụ: membership)."
+  },
+  {
+    "question": "What does 'well-being' mean?",
+    "options": [
+      "the state of being comfortable, healthy, or happy",
+      "the wealth of a country",
+      "the degree of school education",
+      "the speed of driving a car"
+    ],
+    "answer": "the state of being comfortable, healthy, or happy",
+    "explanation": "'Well-being' nghĩa là trạng thái hạnh phúc, khỏe mạnh và thoải mái về cả thể chất lẫn tinh thần."
+  },
+  {
+    "question": "Which word is a noun referring to 'a person who has finished high school or college'?",
+    "options": [
+      "graduate",
+      "student",
+      "teacher",
+      "pupil"
+    ],
+    "answer": "graduate",
+    "explanation": "Người đã tốt nghiệp một cấp học (trường học, đại học) gọi là 'graduate'."
+  },
+  {
+    "question": "Complete the collocation: 'gain _________ experience'",
+    "options": [
+      "practical",
+      "practice",
+      "practicing",
+      "practiced"
+    ],
+    "answer": "practical",
+    "explanation": "Cụm từ phổ biến là 'gain practical experience' (tích lũy kinh nghiệm thực tế)."
+  },
+  {
+    "question": "What is the purpose of 'vocational training'?",
+    "options": [
+      "To prepare students for a specific job",
+      "To teach advanced philosophy",
+      "To play professional sports",
+      "To study ancient languages"
+    ],
+    "answer": "To prepare students for a specific job",
+    "explanation": "Đào tạo nghề (vocational training) hướng đến việc chuẩn bị kỹ năng làm một công việc cụ thể cho người học."
+  },
+  {
+    "question": "Which word means 'the variety of plant and animal life in a particular habitat'?",
+    "options": [
+      "biodiversity",
+      "atmosphere",
+      "geography",
+      "climate"
+    ],
+    "answer": "biodiversity",
+    "explanation": "Đa dạng sinh học (biodiversity) là sự phong phú của các loài động thực vật trong một môi trường sống."
+  },
+  {
+    "question": "What is the noun of the adjective 'traditional'?",
+    "options": [
+      "tradition",
+      "traditionally",
+      "traditionalism",
+      "traditionalist"
+    ],
+    "answer": "tradition",
+    "explanation": "Danh từ của tính từ 'traditional' là 'tradition' (truyền thống)."
+  },
+  {
+    "question": "Which word describes a person who is very active in promoting political or social change?",
+    "options": [
+      "activist",
+      "artist",
+      "scientist",
+      "tourist"
+    ],
+    "answer": "activist",
+    "explanation": "Nhà hoạt động xã hội/chính trị là 'activist'."
+  },
+  {
+    "question": "What does 'greenhouse gas' do to the earth's atmosphere?",
+    "options": [
+      "traps heat",
+      "cools down",
+      "cleans air",
+      "creates water"
+    ],
+    "answer": "traps heat",
+    "explanation": "Khí nhà kính (greenhouse gas) giữ lại nhiệt lượng trong bầu khí quyển, làm Trái Đất nóng lên."
+  },
+  {
+    "question": "Which word refers to 'the physical or mental strength that allows you to do something for a long time'?",
+    "options": [
+      "stamina",
+      "weakness",
+      "speed",
+      "laziness"
+    ],
+    "answer": "stamina",
+    "explanation": "'Stamina' có nghĩa là sức chịu đựng, khả năng bền bỉ thể chất hoặc tinh thần."
+  },
+  {
+    "question": "What is the antonym of 'peer pressure'?",
+    "options": [
+      "individual choice",
+      "group bullying",
+      "friend influence",
+      "social rule"
+    ],
+    "answer": "individual choice",
+    "explanation": "Trái ngược với áp lực đồng lứa (peer pressure) là lựa chọn mang tính cá nhân (individual choice)."
+  },
+  {
+    "question": "Which word means 'an official document that shows you have completed a course of study'?",
+    "options": [
+      "certificate",
+      "letter",
+      "book",
+      "newspaper"
+    ],
+    "answer": "certificate",
+    "explanation": "Chứng chỉ, chứng nhận hoàn thành khóa học là 'certificate'."
+  },
+  {
+    "question": "Identify the word that means 'relating to the connection between countries around the world'.",
+    "options": [
+      "international",
+      "local",
+      "regional",
+      "domestic"
+    ],
+    "answer": "international",
+    "explanation": "Mang tính chất liên kết giữa các quốc gia trên thế giới là 'international' (quốc tế)."
+  },
+  {
+    "question": "What is the past simple form of the verb 'lead'?",
+    "options": [
+      "led",
+      "lead",
+      "leaded",
+      "leading"
+    ],
+    "answer": "led",
+    "explanation": "Quá khứ đơn (V2) của động từ bất quy tắc 'lead' là 'led'."
+  },
+  {
+    "question": "Which word means 'the act of cut down trees in a large area'?",
+    "options": [
+      "deforestation",
+      "reforestation",
+      "agriculture",
+      "gardening"
+    ],
+    "answer": "deforestation",
+    "explanation": "Hành động chặt phá rừng trên diện rộng gọi là nạn phá rừng (deforestation)."
+  },
+  {
+    "question": "What is the adjective of the noun 'health'?",
+    "options": [
+      "healthy",
+      "healthily",
+      "healthiness",
+      "healthful"
+    ],
+    "answer": "healthy",
+    "explanation": "Tính từ phổ biến của danh từ 'health' là 'healthy'."
+  },
+  {
+    "question": "What is the structural difference between Present Perfect and Present Perfect Continuous?",
+    "options": [
+      "Continuous emphasizes duration, while Simple emphasizes results.",
+      "Simple uses 'been', while Continuous does not.",
+      "Continuous is only for actions that finished long ago.",
+      "There is no difference in their structures or meanings."
+    ],
+    "answer": "Continuous emphasizes duration, while Simple emphasizes results.",
+    "explanation": "Thì Hiện tại hoàn thành tiếp diễn nhấn mạnh vào tính liên tục và khoảng thời gian của hành động, còn Hiện tại hoàn thành nhấn mạnh kết quả."
+  },
+  {
+    "question": "In the sentence 'I have lived here for ten years', the speaker implies that:",
+    "options": [
+      "They started living here ten years ago and still live here now.",
+      "They lived here in the past but moved away already.",
+      "They will move here in the next ten years.",
+      "They have never lived here before."
+    ],
+    "answer": "They started living here ten years ago and still live here now.",
+    "explanation": "Thì Hiện tại hoàn thành diễn tả hành động bắt đầu trong quá khứ, kéo dài đến hiện tại và có thể tiếp diễn tương lai."
+  },
+  {
+    "question": "When a person says 'I have been studying all morning', they want to focus on:",
+    "options": [
+      "The ongoing effort and duration of studying.",
+      "The exact grade they got on the test.",
+      "The place where they buy their textbooks.",
+      "The time they will stop studying tonight."
+    ],
+    "answer": "The ongoing effort and duration of studying.",
+    "explanation": "Hiện tại hoàn thành tiếp diễn tập trung làm nổi bật sự kéo dài liên tục và tiêu tốn thời gian của hành động."
+  },
+  {
+    "question": "Which sentence uses a linking verb correctly?",
+    "options": [
+      "The children look happy with their new toys.",
+      "The children look happily with their new toys.",
+      "The children are looking happy at the picture.",
+      "The children look happiness today."
+    ],
+    "answer": "The children look happy with their new toys.",
+    "explanation": "'Look' ở đây là linking verb (trông có vẻ), theo sau phải là một tính từ ('happy') chứ không dùng trạng từ."
+  },
+  {
+    "question": "What does a 'sustainable smart city' try to achieve?",
+    "options": [
+      "High economic growth without damaging the environment.",
+      "Building as many skyscrapers as possible everywhere.",
+      "Replacing all human workers with advanced robots.",
+      "Cutting off all internet connections to save power."
+    ],
+    "answer": "High economic growth without damaging the environment.",
+    "explanation": "Thành phố thông minh bền vững hướng tới phát triển kinh tế, nâng cao đời sống nhưng không làm phương hại môi trường."
+  },
+  {
+    "question": "The rule for using 'must' vs 'have to' is generally understood as:",
+    "options": [
+      "'Must' is for personal obligation, 'have to' is for external rules.",
+      "'Have to' is much stricter than 'must' in all cases.",
+      "'Must' can only be used for past events.",
+      "They can be used interchangeably without any distinct meaning."
+    ],
+    "answer": "'Must' is for personal obligation, 'have to' is for external rules.",
+    "explanation": "'Must' thường dùng cho nghĩa vụ mang tính chủ quan (người nói tự thấy cần), còn 'have to' dùng cho nghĩa vụ khách quan do nội quy, luật pháp quy định."
+  },
+  {
+    "question": "What does 'shouldn't' express in 'You shouldn't stay up late every night'?",
+    "options": [
+      "A strong negative advice based on health reasons.",
+      "A complete official prohibition by law.",
+      "A physical inability to do something.",
+      "A logical deduction about a past action."
+    ],
+    "answer": "A strong negative advice based on health reasons.",
+    "explanation": "'Shouldn't' được dùng để đưa ra lời khuyên không nên làm điều gì vì nó không tốt hoặc không đúng đắn."
+  },
+  {
+    "question": "How do ASEAN member states cooperate with each other?",
+    "options": [
+      "By promoting economic growth and regional stability.",
+      "By competing to see who has the biggest military.",
+      "By closing borders to prevent tourism and trade.",
+      "By changing all their national languages to English."
+    ],
+    "answer": "By promoting economic growth and regional stability.",
+    "explanation": "Các nước ASEAN hợp tác dựa trên tinh thần thúc đẩy kinh tế, phát triển văn hóa và giữ gìn hòa bình, ổn định khu vực."
+  },
+  {
+    "question": "What is the importance of tangible cultural heritage like ancient temples?",
+    "options": [
+      "They are physical proofs of a nation's history and architecture.",
+      "They can be easily destroyed to build new supermarkets.",
+      "They do not have any value for modern generations.",
+      "They are only useful for making money from foreign films."
+    ],
+    "answer": "They are physical proofs of a nation's history and architecture.",
+    "explanation": "Di sản văn hóa vật thể (như đền đài cổ) là minh chứng vật chất rõ ràng cho lịch sử, văn hóa và kiến trúc của một quốc gia."
+  },
+  {
+    "question": "A person who is 'digitally literate' is someone who:",
+    "options": [
+      "can use technology and internet effectively and safely.",
+      "only reads physical books and avoids smartphones.",
+      "writes long programs using advanced computer codes.",
+      "works as an engineer in a computer factory."
+    ],
+    "answer": "can use technology and internet effectively and safely.",
+    "explanation": "Người có 'năng lực số' (digitally literate) là người biết sử dụng công nghệ thông tin và internet một cách hiệu quả, an toàn."
+  },
+  {
+    "question": "What is a major advantage of pursuing higher education?",
+    "options": [
+      "It provides specialized knowledge and opens up better career options.",
+      "It guarantees that you will never have to work hard again.",
+      "It is completely free for everyone in all countries.",
+      "It focuses only on physical labor and outdoor sports."
+    ],
+    "answer": "It provides specialized knowledge and opens up better career options.",
+    "explanation": "Giáo dục bậc cao (đại học, cao học) giúp cung cấp kiến thức chuyên sâu và mở ra các cơ hội việc làm tốt hơn."
+  },
+  {
+    "question": "What is the function of a cleft sentence starting with 'It is/was... that...'?",
+    "options": [
+      "To emphasize a specific part of the sentence.",
+      "To turn a positive sentence into a question.",
+      "To change the main tense of the sentence to past perfect.",
+      "To express a strong doubt about a statement."
+    ],
+    "answer": "To emphasize a specific part of the sentence.",
+    "explanation": "Câu chẻ (Cleft sentence) với cấu trúc 'It is/was... that...' được dùng để nhấn mạnh một thành phần cụ thể (chủ ngữ, tân ngữ hoặc trạng ngữ)."
+  },
+  {
+    "question": "What is the difference between a gerund and a to-infinitive after certain verbs?",
+    "options": [
+      "Some verbs change meaning completely depending on which one follows.",
+      "Gerund is always wrong when used at the beginning of a clause.",
+      "To-infinitive can never be used after verbs like 'want' or 'hope'.",
+      "They always mean exactly the same thing in all contexts."
+    ],
+    "answer": "Some verbs change meaning completely depending on which one follows.",
+    "explanation": "Một số động từ (như remember, forget, stop, try) có thể đi kèm cả hai nhưng mang nghĩa khác nhau hoàn toàn."
+  },
+  {
+    "question": "When we talk about 'reducing carbon footprint', what actions are recommended?",
+    "options": [
+      "Using public transport, recycling, and saving electricity.",
+      "Cutting down more forests to build solar energy factories.",
+      "Burning more coal instead of using renewable energy.",
+      "Buying more single-use plastic bottles for daily storage."
+    ],
+    "answer": "Using public transport, recycling, and saving electricity.",
+    "explanation": "Các hành động như đi xe công cộng, tái chế và tiết kiệm điện giúp trực tiếp làm giảm lượng khí thải carbon phát ra."
+  },
+  {
+    "question": "What does 'independent living' require from a young adult?",
+    "options": [
+      "Practical life skills, financial management, and responsibility.",
+      "Total reliance on parents for daily decisions and money.",
+      "Moving to a foreign country without telling anyone.",
+      "Leaving school early to find an unpaid job."
+    ],
+    "answer": "Practical life skills, financial management, and responsibility.",
+    "explanation": "Sống độc lập đòi hỏi các bạn trẻ phải có kỹ năng sống thực tế, biết quản lý tài chính và tự chịu trách nhiệm."
+  },
+  {
+    "question": "Why is 'peer pressure' sometimes considered positive?",
+    "options": [
+      "It can motivate students to study harder or adopt healthy habits.",
+      "It forces individuals to do dangerous things against their will.",
+      "It eliminates the need for school rules and regulations.",
+      "It makes everyone look exactly the same in public places."
+    ],
+    "answer": "It can motivate students to study harder or adopt healthy habits.",
+    "explanation": "Áp lực đồng lứa có thể mang tính tích cực khi nó tạo động lực giúp bạn bè cùng tiến bộ trong học tập hoặc lối sống tốt."
+  },
+  {
+    "question": "What does the sentence 'The city is becoming more polluted' express?",
+    "options": [
+      "A gradual, ongoing change or trend in the present time.",
+      "An action that completely finished in the remote past.",
+      "A definite arrangement scheduled by the government.",
+      "A prediction about the distant future without evidence."
+    ],
+    "answer": "A gradual, ongoing change or trend in the present time.",
+    "explanation": "Cấu trúc 'become + tính từ dạng so sánh hơn' ở thì hiện tại tiếp diễn tả một xu hướng, sự thay đổi dần dần ở hiện tại."
+  },
+  {
+    "question": "What is the function of the present perfect tense in 'She has traveled to all ASEAN countries'?",
+    "options": [
+      "To describe a life experience up to the present moment.",
+      "To pinpoint the exact date when she visited those places.",
+      "To talk about an action that will happen next year.",
+      "To express a regret about not doing something in the past."
+    ],
+    "answer": "To describe a life experience up to the present moment.",
+    "explanation": "Thì Hiện tại hoàn thành dùng để nói về trải nghiệm cá nhân tính đến thời điểm hiện tại mà không cần mốc thời gian cụ thể."
+  },
+  {
+    "question": "If you are asked to 'maintain a healthy lifestyle', what should you do?",
+    "options": [
+      "Eat balanced food, exercise regularly, and get enough sleep.",
+      "Work continuously without taking any time to relax.",
+      "Only eat fast food and drink soda every single day.",
+      "Avoid going outdoors and sleep all day long."
+    ],
+    "answer": "Eat balanced food, exercise regularly, and get enough sleep.",
+    "explanation": "Duy trì lối sống lành mạnh bao gồm ăn uống cân bằng dưỡng chất, tập thể dục điều độ và ngủ đủ giấc."
+  },
+  {
+    "question": "What is the passive meaning of 'The government should protect historic buildings'?",
+    "options": [
+      "Historic buildings should be protected by the government.",
+      "Historic buildings should protect by the government.",
+      "Historic buildings ought to protect the government.",
+      "Historic buildings are being protected by the government."
+    ],
+    "answer": "Historic buildings should be protected by the government.",
+    "explanation": "Cấu trúc bị động với động từ khuyết thiếu: Modal verb + be + V3/ed."
+  },
+  {
+    "question": "In the phrase 'eco-friendly infrastructure', 'infrastructure' refers to:",
+    "options": [
+      "the basic systems and structures like roads, bridges, and power supplies.",
+      "the plants and animals living in the local community forest.",
+      "the modern software installed in electronic computing devices.",
+      "the traditional clothes worn during traditional festivals."
+    ],
+    "answer": "the basic systems and structures like roads, bridges, and power supplies.",
+    "explanation": "'Infrastructure' nghĩa là cơ sở hạ tầng (đường xá, cầu cống, hệ thống điện nước...)."
+  },
+  {
+    "question": "Why is 'heritage preservation' important for tourism?",
+    "options": [
+      "It attracts visitors who want to explore cultural and historical values.",
+      "It makes the tourist sites look brand new and modern.",
+      "It limits the number of people who can travel to a country.",
+      "It helps to lower the price of airline tickets significantly."
+    ],
+    "answer": "It attracts visitors who want to explore cultural and historical values.",
+    "explanation": "Bảo tồn di sản giúp giữ gìn nét độc đáo thu hút khách du lịch muốn khám phá giá trị lịch sử, văn hóa."
+  },
+  {
+    "question": "What is the grammatical error in 'I look forward to meet you soon'?",
+    "options": [
+      "'meet' should be changed to 'meeting' because 'to' is a preposition here.",
+      "'look' should be changed to 'looking' in all contexts.",
+      "'forward' should be placed before the verb 'look'.",
+      "There is no error in this sentence at all."
+    ],
+    "answer": "'meet' should be changed to 'meeting' because 'to' is a preposition here.",
+    "explanation": "Cấu trúc cố định 'look forward to + V-ing' (mong đợi làm gì), chữ 'to' ở đây là giới từ."
+  },
+  {
+    "question": "What does 'time-management skill' help students with?",
+    "options": [
+      "Allocating time effectively between studying and relaxing.",
+      "Changing the time zone on their electronic smartphones.",
+      "Buying more clocks to decorate their own study rooms.",
+      "Arriving late at school without being noticed by teachers."
+    ],
+    "answer": "Allocating time effectively between studying and relaxing.",
+    "explanation": "Kỹ năng quản lý thời gian giúp học sinh biết phân bổ thời gian hợp lý cho việc học tập và nghỉ ngơi."
+  },
+  {
+    "question": "Choose the correct meaning of 'long-term consequences'.",
+    "options": [
+      "Results that affect a situation over a long period of time.",
+      "Immediate outcomes that disappear within a few minutes.",
+      "Positive feedbacks that make everyone feel happy.",
+      "Secret plans made by the company managers."
+    ],
+    "answer": "Results that affect a situation over a long period of time.",
+    "explanation": "'Long-term consequences' là những hậu quả lâu dài, ảnh hưởng trong một khoảng thời gian dài về sau."
+  },
+  {
+    "question": "When using 'don't have to', the speaker means:",
+    "options": [
+      "There is no obligation; you can choose to do it or not.",
+      "It is strictly forbidden by the general school rules.",
+      "It is absolutely impossible to perform the action.",
+      "You must do it immediately without making questions."
+    ],
+    "answer": "There is no obligation; you can choose to do it or not.",
+    "explanation": "'Don't have to' chỉ sự không cần thiết (không bắt buộc phải làm, nhưng nếu muốn thì vẫn có thể làm)."
+  },
+  {
+    "question": "What is the function of the conjunction 'consequently'?",
+    "options": [
+      "To introduce the result of a previous action.",
+      "To show a contrast between two separate facts.",
+      "To list additional information in a paragraph.",
+      "To state a personal opinion about a current event."
+    ],
+    "answer": "To introduce the result of a previous action.",
+    "explanation": "'Consequently' (do đó, kết quả là) là từ nối dùng để đưa ra kết quả của hành động được nhắc đến trước đó."
+  },
+  {
+    "question": "If someone is 'open-minded', it means they are:",
+    "options": [
+      "willing to listen to and consider new ideas and opinions.",
+      "always forgetting their personal belongings at home.",
+      "only interested in their own traditional values.",
+      "very quiet and never talk about their true feelings."
+    ],
+    "answer": "willing to listen to and consider new ideas and opinions.",
+    "explanation": "'Open-minded' nghĩa là cởi mở, sẵn sàng lắng nghe và đón nhận các ý kiến, ý tưởng mới."
+  },
+  {
+    "question": "What does a 'vocational school' focus on teaching?",
+    "options": [
+      "Practical skills needed for specific trades and occupations.",
+      "Theoretical research in high-level physics and space science.",
+      "Ancient historical events and classical literatures.",
+      "Professional arts and performance skills for world stages."
+    ],
+    "answer": "Practical skills needed for specific trades and occupations.",
+    "explanation": "Trường nghề tập trung dạy các kỹ năng thực hành cần thiết cho các ngành nghề cụ thể."
+  },
+  {
+    "question": "Which of the following sentences contains a correct cleft sentence with an object focus?",
+    "options": [
+      "It was English that Mary studied last night.",
+      "It was Mary that studied English last night.",
+      "It was last night that Mary studied English.",
+      "It is English Mary studied last night."
+    ],
+    "answer": "It was English that Mary studied last night.",
+    "explanation": "Để nhấn mạnh tân ngữ 'English', cấu trúc câu chẻ chuẩn là 'It was + tân ngữ + that + S + V'."
+  },
+  {
+    "question": "Since I started university, I _________ a lot of new friends from different provinces.",
+    "options": [
+      "have made",
+      "am making",
+      "made",
+      "make"
+    ],
+    "answer": "have made",
+    "explanation": "Mệnh đề đi kèm với 'Since + quá khứ đơn' thì mệnh đề chính thường chia ở thì Hiện tại hoàn thành."
+  },
+  {
+    "question": "Look at those dark clouds! It _________ rain heavily in a few minutes.",
+    "options": [
+      "is going to",
+      "will",
+      "shall",
+      "is raining"
+    ],
+    "answer": "is going to",
+    "explanation": "Dùng 'be going to' để đưa ra một dự đoán về tương lai dựa trên bằng chứng hiện tại rõ ràng (mây đen)."
+  },
+  {
+    "question": "The young generation should respect the elderly _________ they have more life experience.",
+    "options": [
+      "because",
+      "although",
+      "however",
+      "so"
+    ],
+    "answer": "because",
+    "explanation": "Liên từ 'because' dùng để chỉ nguyên nhân hợp lý cho việc thế hệ trẻ nên tôn trọng người lớn tuổi."
+  },
+  {
+    "question": "Parents shouldn't _________ their children to follow their career choices blindly.",
+    "options": [
+      "force",
+      "make",
+      "let",
+      "allow"
+    ],
+    "answer": "force",
+    "explanation": "Cấu trúc 'force somebody to do something' (ép buộc ai làm gì). Các từ 'make' và 'let' đi với động từ nguyên thể không 'to'."
+  },
+  {
+    "question": "By _________ energy-saving light bulbs, you can help reduce electricity consumption in your home.",
+    "options": [
+      "installing",
+      "install",
+      "installation",
+      "installed"
+    ],
+    "answer": "installing",
+    "explanation": "Sau giới từ 'by' chỉ phương thức, ta dùng danh động từ 'installing' (bằng cách lắp đặt)."
+  },
+  {
+    "question": "The city looks completely different now because many skyscrapers _________ up over the last five years.",
+    "options": [
+      "have gone",
+      "went",
+      "are going",
+      "go"
+    ],
+    "answer": "have gone",
+    "explanation": "Cụm trạng ngữ 'over the last five years' là dấu hiệu nhận biết phổ biến của thì Hiện tại hoàn thành."
+  },
+  {
+    "question": "It was my mother _________ taught me how to manage my monthly pocket money efficiently.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "when"
+    ],
+    "answer": "who",
+    "explanation": "Trong câu chẻ nhấn mạnh chủ ngữ chỉ người (my mother), ta dùng 'who' hoặc 'that'."
+  },
+  {
+    "question": "Young people are encouraged to participate in ASEAN youth programs to _________ cultural exchanges.",
+    "options": [
+      "promote",
+      "prevent",
+      "ignore",
+      "reject"
+    ],
+    "answer": "promote",
+    "explanation": "'Promote cultural exchanges' nghĩa là thúc đẩy, tăng cường giao lưu văn hóa giữa giới trẻ."
+  },
+  {
+    "question": "He has been running for two hours, so he looks absolutely _________ now.",
+    "options": [
+      "exhausted",
+      "exhausting",
+      "exhaust",
+      "exhaustion"
+    ],
+    "answer": "exhausted",
+    "explanation": "Tính từ đuôi '-ed' dùng để diễn tả cảm giác, trạng thái của người (ở đây là kiệt sức)."
+  },
+  {
+    "question": "Many historical monuments have been badly damaged due to the high level of air _________.",
+    "options": [
+      "pollution",
+      "pollutant",
+      "pollute",
+      "polluted"
+    ],
+    "answer": "pollution",
+    "explanation": "Sau tính từ 'air', ta cần một danh từ để tạo thành cụm danh từ 'air pollution' (ô nhiễm không khí)."
+  },
+  {
+    "question": "If you keep eating too much fast food, you will run the risk of _________ weight uncontrollably.",
+    "options": [
+      "gaining",
+      "gained",
+      "gain",
+      "to gain"
+    ],
+    "answer": "gaining",
+    "explanation": "Cấu trúc 'run the risk of + V-ing' (có nguy cơ chịu hậu quả xấu nào đó, ở đây là tăng cân)."
+  },
+  {
+    "question": "Living in a smart city can be very convenient, _________ it may also raise concerns about data privacy.",
+    "options": [
+      "but",
+      "so",
+      "therefore",
+      "because"
+    ],
+    "answer": "but",
+    "explanation": "Liên từ 'but' dùng để nối hai mệnh đề mang ý nghĩa tương phản đối lập nhau."
+  },
+  {
+    "question": "The university requires all foreign students to pass an English proficiency test before _________ admitted.",
+    "options": [
+      "being",
+      "be",
+      "to be",
+      "been"
+    ],
+    "answer": "being",
+    "explanation": "Sau giới từ thời gian 'before', cấu trúc bị động sẽ ở dạng danh động từ: 'being + V3/ed'."
+  },
+  {
+    "question": "You _________ talk loudly in the library; it is a strict rule that everyone must follow.",
+    "options": [
+      "mustn't",
+      "needn't",
+      "don't have to",
+      "should"
+    ],
+    "answer": "mustn't",
+    "explanation": "'Mustn't' diễn tả sự cấm đoán, không được phép làm vì trái với quy định."
+  },
+  {
+    "question": "To become self-reliant, teenagers need to learn how to cook, clean, and _________ care of themselves.",
+    "options": [
+      "take",
+      "make",
+      "do",
+      "get"
+    ],
+    "answer": "take",
+    "explanation": "Cụm từ cố định 'take care of oneself' nghĩa là tự chăm sóc bản thân."
+  },
+  {
+    "question": "The historical site _________ by thousands of international tourists every year.",
+    "options": [
+      "is visited",
+      "visited",
+      "is visiting",
+      "has visited"
+    ],
+    "answer": "is visited",
+    "explanation": "Dựa vào 'every year' (hiện tại đơn) và trạng ngữ 'by...' chỉ tác nhân, câu phải chia ở thể bị động hiện tại đơn."
+  },
+  {
+    "question": "She avoids _________ to parties where she doesn't know anyone closely.",
+    "options": [
+      "going",
+      "to go",
+      "go",
+      "gone"
+    ],
+    "answer": "going",
+    "explanation": "Động từ 'avoid' bắt buộc theo sau bởi danh động từ (V-ing)."
+  },
+  {
+    "question": "The government is trying to find effective solutions to preserve both tangible and _________ heritage.",
+    "options": [
+      "intangible",
+      "historical",
+      "natural",
+      "modern"
+    ],
+    "answer": "intangible",
+    "explanation": "Cặp từ thường đi liền khi nói về di sản là 'tangible and intangible heritage' (di sản vật thể và phi vật thể)."
+  },
+  {
+    "question": "After _________ from high school, many students prefer taking a gap year to travel and work.",
+    "options": [
+      "graduating",
+      "graduate",
+      "graduated",
+      "graduation"
+    ],
+    "answer": "graduating",
+    "explanation": "Sau giới từ 'after', ta sử dụng danh động từ 'graduating' để chỉ hành động sau khi tốt nghiệp."
+  },
+  {
+    "question": "The local council decided to install sensor lights on the streets to _________ electricity.",
+    "options": [
+      "save",
+      "waste",
+      "spend",
+      "consume"
+    ],
+    "answer": "save",
+    "explanation": "Lắp đặt đèn cảm biến trên đường phố mục đích là để tiết kiệm (save) điện năng."
+  },
+  {
+    "question": "They have been working on the environmental cleanup project _________ last month.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "in"
+    ],
+    "answer": "since",
+    "explanation": "'Last month' là một mốc thời gian xác định trong quá khứ, nên đi với giới từ 'since' trong thì hiện tại hoàn thành."
+  },
+  {
+    "question": "It was in Paris _________ the international agreement on climate change was signed.",
+    "options": [
+      "that",
+      "where",
+      "which",
+      "when"
+    ],
+    "answer": "that",
+    "explanation": "Đây là cấu trúc câu chẻ nhấn mạnh trạng ngữ chỉ nơi chốn: 'It is/was + cụm trạng ngữ + that...'. Lưu ý không dùng 'where' trong khuôn mẫu câu chẻ chuẩn này."
+  },
+  {
+    "question": "He completely forgot _________ the door, so the house was broken into while he was away.",
+    "options": [
+      "to lock",
+      "locking",
+      "lock",
+      "locked"
+    ],
+    "answer": "to lock",
+    "explanation": "Cấu trúc 'forget to do something' nghĩa là quên phải làm một bổn phận, việc cần thiết (quên không khóa cửa)."
+  },
+  {
+    "question": "ASEAN aims to create a peaceful and stable region by _________ respect for justice and the rule of law.",
+    "options": [
+      "promoting",
+      "limiting",
+      "destroying",
+      "neglecting"
+    ],
+    "answer": "promoting",
+    "explanation": "'Promoting respect' có nghĩa là thúc đẩy sự tôn trọng đối với công lý và luật pháp."
+  },
+  {
+    "question": "The music at the traditional festival sounded _________ to all the visitors.",
+    "options": [
+      "wonderful",
+      "wonderfully",
+      "wonder",
+      "wondering"
+    ],
+    "answer": "wonderful",
+    "explanation": "'Sound' là một linking verb (nghe có vẻ), vì vậy bổ nghĩa cho nó phải là một tính từ ('wonderful')."
+  },
+  {
+    "question": "The air quality in major cities has _________ degraded due to the increasing volume of traffic emissions.",
+    "options": [
+      "significantly",
+      "significant",
+      "significance",
+      "signify"
+    ],
+    "answer": "significantly",
+    "explanation": "Cần một trạng từ 'significantly' (đáng kể) để bổ nghĩa cho động từ phân từ 'degraded'."
+  },
+  {
+    "question": "Teenagers often experience emotional changes, so parents should listen to them with extreme _________.",
+    "options": [
+      "patience",
+      "patient",
+      "patiently",
+      "impatient"
+    ],
+    "answer": "patience",
+    "explanation": "Sau giới từ 'with', ta cần một danh từ. 'With extreme patience' nghĩa là với sự kiên nhẫn tột cùng."
+  },
+  {
+    "question": "We are planning to visit the ancient citadel next week, but we haven't booked the tickets _________.",
+    "options": [
+      "yet",
+      "already",
+      "never",
+      "since"
+    ],
+    "answer": "yet",
+    "explanation": "'Yet' dùng ở cuối câu phủ định của thì Hiện tại hoàn thành để diễn tả việc chưa hoàn thành tính đến nay."
+  },
+  {
+    "question": "You shouldn't express your opinions too aggressively if you want to avoid _________ into unnecessary arguments.",
+    "options": [
+      "getting",
+      "to get",
+      "get",
+      "got"
+    ],
+    "answer": "getting",
+    "explanation": "Động từ 'avoid' đi kèm danh động từ V-ing. Cụm 'get into arguments' nghĩa là rơi vào các cuộc tranh cãi."
+  },
+  {
+    "question": "The ancient custom of singing folk songs on special occasions has been passed _________ through generations.",
+    "options": [
+      "down",
+      "away",
+      "off",
+      "up"
+    ],
+    "answer": "down",
+    "explanation": "Cụm động từ 'pass down' có nghĩa là lưu truyền, truyền lại cho thế hệ sau."
+  },
+  {
+    "question": "By the time the police arrived, the thieves _________ all the valuable antiques from the historic house.",
+    "options": [
+      "had stolen",
+      "stole",
+      "have stolen",
+      "were stealing"
+    ],
+    "answer": "had stolen",
+    "explanation": "Cấu trúc 'By the time + mệnh đề Quá khứ đơn', mệnh đề còn lại chia ở thì Quá khứ hoàn thành để tả hành động xảy ra trước."
+  },
+  {
+    "question": "Not only _________ historic sites, but it also creates job opportunities for the local community.",
+    "options": [
+      "does tourism preserve",
+      "tourism preserves",
+      "is tourism preserving",
+      "tourism preserved"
+    ],
+    "answer": "does tourism preserve",
+    "explanation": "Đảo ngữ với cấu trúc 'Not only' đứng đầu câu: Not only + trợ động từ + S + V."
+  },
+  {
+    "question": "It is fundamental that every citizen _________ the local waste management regulations strictly.",
+    "options": [
+      "follow",
+      "follows",
+      "followed",
+      "following"
+    ],
+    "answer": "follow",
+    "explanation": "Cấu trúc giả định với tính từ chỉ tầm quan trọng: 'It is fundamental that + S + V (nguyên thể không chia)'."
+  },
+  {
+    "question": "The restoration of the ancient temple, _________ cost reached millions of dollars, was successfully completed last month.",
+    "options": [
+      "whose",
+      "which",
+      "that",
+      "where"
+    ],
+    "answer": "whose",
+    "explanation": "Đại từ quan hệ 'whose' chỉ sự sở hữu cho danh từ chỉ vật đứng trước ('chi phí của việc trùng tu ngôi đền')."
+  },
+  {
+    "question": "He deeply regretted _________ his parents' advice about choosing a university major before it was too late.",
+    "options": [
+      "not taking",
+      "not take",
+      "to not take",
+      "no taking"
+    ],
+    "answer": "not taking",
+    "explanation": "Cấu trúc 'regret + V-ing' diễn tả sự hối hận vì đã làm/không làm gì trong quá khứ. Dạng phủ định là 'not + V-ing'."
+  },
+  {
+    "question": "The international community is striving toward fostering mutual _________ among different cultures.",
+    "options": [
+      "understanding",
+      "agreement",
+      "conflict",
+      "argument"
+    ],
+    "answer": "understanding",
+    "explanation": "Cụm từ cố định 'foster mutual understanding' có nghĩa là thúc đẩy, nuôi dưỡng sự thấu hiểu lẫn nhau."
+  },
+  {
+    "question": "So rapidly _________ the city infrastructure developing that old maps became completely useless within a year.",
+    "options": [
+      "was",
+      "is",
+      "has been",
+      "did"
+    ],
+    "answer": "was",
+    "explanation": "Đảo ngữ với cấu trúc 'So + trạng từ + trợ động từ + S + V...'. Hành động ở vế sau chia quá khứ đơn ('became') nên vế trước dùng 'was'."
+  },
+  {
+    "question": "The success of the national heritage project is heavily _________ on the active participation of youth activists.",
+    "options": [
+      "dependent",
+      "depend",
+      "dependence",
+      "independently"
+    ],
+    "answer": "dependent",
+    "explanation": "Cấu trúc 'be dependent on somebody/something' có nghĩa là phụ thuộc, dựa dẫm vào ai hoặc cái gì."
+  },
+  {
+    "question": "Having _________ all the rigorous entrance requirements, he was officially offered a full scholarship to the college.",
+    "options": [
+      "fulfilled",
+      "fulfill",
+      "fulfilling",
+      "been fulfilled"
+    ],
+    "answer": "fulfilled",
+    "explanation": "Rút gọn hai mệnh đề cùng chủ ngữ dạng chủ động sử dụng phân từ hoàn thành 'Having + V3' để nhấn mạnh hành động trước đó."
+  },
+  {
+    "question": "The local people welcomed the international volunteers with such _________ that everyone felt at home immediately.",
+    "options": [
+      "hospitality",
+      "hospitable",
+      "hospitably",
+      "hospital"
+    ],
+    "answer": "hospitality",
+    "explanation": "Sau cấu trúc 'with such + danh từ', ta cần một danh từ. 'Hospitality' nghĩa là lòng hiếu khách, sự mến khách."
+  },
+  {
+    "question": "We must take immediate measures to stop illegal dumping, _________ protecting our local water resources from severe pollution.",
+    "options": [
+      "thereby",
+      "whereas",
+      "nevertheless",
+      "on the contrary"
+    ],
+    "answer": "thereby",
+    "explanation": "Cấu trúc 'thereby + V-ing' dùng để chỉ hành động dẫn tới một kết quả kéo theo ngay sau đó (bằng cách đó, từ đó làm gì)."
+  }
+]

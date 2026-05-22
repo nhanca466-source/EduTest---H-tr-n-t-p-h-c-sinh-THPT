@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Phương pháp kí hiệu thường được dùng để biểu hiện các đối tượng địa lí có đặc điểm nào sau đây?",
+    "options": [
+      "Phân bố theo những điểm cụ thể",
+      "Phân bố theo những dải tuyến tính",
+      "Phân bố rộng khắp trên toàn lãnh thổ",
+      "Di chuyển theo các hướng bất kì"
+    ],
+    "answer": "Phân bố theo những điểm cụ thể",
+    "explanation": "Phương pháp kí hiệu dùng để biểu hiện các đối tượng địa lí phân bố theo những điểm cụ thể như các nhà máy, mỏ khoáng sản, trung tâm công nghiệp."
+  },
+  {
+    "question": "Để biểu hiện hướng di chuyển của các cơn bão hoặc các luồng di dân, phương pháp bản đồ nào sau đây là phù hợp nhất?",
+    "options": [
+      "Phương pháp đường chuyển động",
+      "Phương pháp kí hiệu đường tuyến",
+      "Phương pháp bản đồ - biểu đồ",
+      "Phương pháp chấm điểm"
+    ],
+    "answer": "Phương pháp đường chuyển động",
+    "explanation": "Phương pháp đường chuyển động dùng để biểu hiện sự di chuyển của các hiện tượng địa lí tự nhiên và kinh tế - xã hội như hướng gió, dòng biển, các luồng di dân."
+  },
+  {
+    "question": "Trong phương pháp chấm điểm, mỗi chấm điểm trên bản đồ đại diện cho điều gì?",
+    "options": [
+      "Một giá trị hoặc số lượng đối tượng nhất định",
+      "Một ranh giới hành chính của vùng lãnh thổ",
+      "Một hướng di chuyển của đối tượng địa lí",
+      "Một cấu trúc bên trong của đối tượng"
+    ],
+    "answer": "Một giá trị hoặc số lượng đối tượng nhất định",
+    "explanation": "Phương pháp chấm điểm biểu hiện các đối tượng phân bố phân tán bằng các điểm chấm, mỗi điểm chấm có một giá trị số lượng nhất định."
+  },
+  {
+    "question": "Hệ thống định vị toàn cầu GPS ban đầu được phát triển và sử dụng chủ yếu cho mục đích nào?",
+    "options": [
+      "Quân sự",
+      "Nông nghiệp",
+      "Du lịch",
+      "Giáo dục"
+    ],
+    "answer": "Quân sự",
+    "explanation": "Hệ thống định vị toàn cầu GPS ban đầu do Bộ Quốc phòng Hoa Kỳ thiết kế và xây dựng nhằm phục vụ cho các mục đích quân sự, sau đó mới mở rộng cho mục đích dân sự."
+  },
+  {
+    "question": "Bản đồ số là loại bản đồ được thành lập và lưu trữ dưới dạng nào sau đây?",
+    "options": [
+      "Dữ liệu máy tính",
+      "Giấy in truyền thống",
+      "Tranh vẽ trên tường",
+      "Mô hình thạch cao"
+    ],
+    "answer": "Dữ liệu máy tính",
+    "explanation": "Bản đồ số là tập hợp các dữ liệu không gian được lưu trữ và xử lý bằng máy tính, có thể hiển thị linh hoạt trên các thiết bị điện tử."
+  },
+  {
+    "question": "Vỏ Trái Đất được cấu tạo chủ yếu bởi loại màng cứng nào sau đây?",
+    "options": [
+      "Các lớp đá cốt liệu khác nhau",
+      "Lớp nước biển dày đặc",
+      "Lớp hợp chất sắt và niken lỏng",
+      "Lớp khí quyển đậm đặc"
+    ],
+    "answer": "Các lớp đá cốt liệu khác nhau",
+    "explanation": "Vỏ Trái Đất là lớp vỏ cứng ngoài cùng của Trái Đất, thành phần cấu tạo chủ yếu là các loại đá như đá trầm tích, đá granite và đá basalt."
+  },
+  {
+    "question": "Thạch quyển bao gồm bộ phận nào sau đây của cấu trúc Trái Đất?",
+    "options": [
+      "Toàn bộ vỏ Trái Đất và phần trên cùng của manti",
+      "Chỉ bao gồm lớp vỏ đại dương",
+      "Toàn bộ lớp manti và nhân Trái Đất",
+      "Lớp vỏ lục địa và tầng khí quyển đáy"
+    ],
+    "answer": "Toàn bộ vỏ Trái Đất và phần trên cùng của manti",
+    "explanation": "Thạch quyển là phần cứng ngoài cùng của Trái Đất, bao gồm vỏ Trái Đất và phần trên cùng của lớp manti cứng, có độ dày khoảng 100 km."
+  },
+  {
+    "question": "Vận động kiến tạo theo phương thẳng đứng có đặc điểm nào sau đây?",
+    "options": [
+      "Xảy ra chậm chạp trên một diện tích rộng lớn",
+      "Làm cho các lớp đá bị uốn nếp mạnh mẽ",
+      "Tạo ra các đứt gãy và thung lũng sụt lún",
+      "Chỉ xảy ra ở các vùng biển sâu ngoài đại dương"
+    ],
+    "answer": "Xảy ra chậm chạp trên một diện tích rộng lớn",
+    "explanation": "Vận động theo phương thẳng đứng là vận động nâng lên và hạ xuống diễn ra rất chậm chạp trên một diện tích rộng lớn của vỏ Trái Đất."
+  },
+  {
+    "question": "Hiện tượng uốn nếp thường xảy ra phổ biến nhất ở loại đá nào sau đây?",
+    "options": [
+      "Đá trầm tích có tính dẻo mềm",
+      "Đá biến chất có tính giòn",
+      "Đá magma xâm nhập rất cứng",
+      "Đá basalt phun trào nguội lạnh"
+    ],
+    "answer": "Đá trầm tích có tính dẻo mềm",
+    "explanation": "Hiện tượng uốn nếp xảy ra khi các lớp đá có độ dẻo cao (đặc biệt là đá trầm tích) chịu tác động của lực nén ép theo phương nằm ngang."
+  },
+  {
+    "question": "Nội lực là lực được sinh ra từ nguồn nào sau đây?",
+    "options": [
+      "Bên trong Trái Đất",
+      "Bức xạ mặt trời",
+      "Sức hút của Mặt Trăng",
+      "Sự di chuyển của dòng nước"
+    ],
+    "answer": "Bên trong Trái Đất",
+    "explanation": "Theo định nghĩa, nội lực là lực sinh ra ở bên trong Trái Đất, nguồn năng lượng chủ yếu từ sự phân rã chất phóng xạ, phản ứng hóa học."
+  },
+  {
+    "question": "Ngoại lực là lực được sinh ra từ nguồn nào sau đây?",
+    "options": [
+      "Bên trên bề mặt Trái Đất",
+      "Sâu trong lòng manti",
+      "Sự phân rã của các hạt nhân",
+      "Lực đồng tâm tích tụ tại lõi"
+    ],
+    "answer": "Bên trên bề mặt Trái Đất",
+    "explanation": "Ngoại lực là lực có nguồn gốc ở bên ngoài, trên bề mặt Trái Đất, chủ yếu do năng lượng của bức xạ mặt trời tác động thông qua khí hậu, nước, sinh vật."
+  },
+  {
+    "question": "Quá trình phong hóa là quá trình phá hủy và làm biến đổi tính chất của loại đối tượng nào?",
+    "options": [
+      "Đá và khoáng vật",
+      "Các tầng mây trên cao",
+      "Dòng chảy sông ngòi",
+      "Khối khí đại dương"
+    ],
+    "answer": "Đá và khoáng vật",
+    "explanation": "Phong hóa là quá trình phá hủy và làm biến đổi đá và khoáng vật dưới tác động của các nhân tố ngoại lực."
+  },
+  {
+    "question": "Quá trình nào sau đây làm cho các sản phẩm đã bị phá hủy dịch chuyển từ nơi này sang nơi khác?",
+    "options": [
+      "Quá trình bóc mòn",
+      "Quá trình phong hóa",
+      "Quá trình vận chuyển",
+      "Quá trình tích tụ"
+    ],
+    "answer": "Quá trình vận chuyển",
+    "explanation": "Vận chuyển là quá trình di chuyển vật liệu từ nơi này đến nơi khác dưới tác động của các nhân tố ngoại lực."
+  },
+  {
+    "question": "Nguồn năng lượng chính cung cấp cho các hoạt động của khí quyển trên Trái Đất là từ đâu?",
+    "options": [
+      "Bức xạ mặt trời",
+      "Nhiệt từ tâm Trái Đất",
+      "Năng lượng thủy triều",
+      "Sự phân rã phóng xạ"
+    ],
+    "answer": "Bức xạ mặt trời",
+    "explanation": "Bức xạ mặt trời là nguồn cung cấp ánh sáng và nhiệt chính cho bề mặt Trái Đất, quyết định mọi hoạt động khí hậu trong khí quyển."
+  },
+  {
+    "question": "Ở tầng đối lưu, càng lên cao thì nhiệt độ không khí thay đổi như thế nào?",
+    "options": [
+      "Càng giảm xuống",
+      "Càng tăng lên",
+      "Không thay đổi",
+      "Tăng giảm đột ngột"
+    ],
+    "answer": "Càng giảm xuống",
+    "explanation": "Trong tầng đối lưu, nguồn nhiệt chính cho không khí là nhiệt của bề mặt Trái Đất hấp thụ rồi tỏa ra, nên càng lên cao nhiệt độ càng giảm (trung bình lên cao 100m giảm 0.6 độ C)."
+  },
+  {
+    "question": "Khí áp là áp suất của bộ phận nào tác dụng lên bề mặt Trái Đất?",
+    "options": [
+      "Khối lượng không khí",
+      "Lớp nước đại dương",
+      "Các mảng kiến tạo",
+      "Bức xạ mặt trời"
+    ],
+    "answer": "Khối lượng không khí",
+    "explanation": "Khí áp là sức nén của không khí xuống bề mặt Trái Đất do không khí cũng có trọng lượng."
+  },
+  {
+    "question": "Trên Trái Đất, các đai áp cao và áp thấp phân bố như thế nào từ Xích đạo về cực?",
+    "options": [
+      "Xen kẽ và đối xứng nhau qua đai áp thấp Xích đạo",
+      "Tăng dần đều đặn liên tục",
+      "Giảm dần đều đặn liên tục",
+      "Phân bố ngẫu nhiên không có quy luật"
+    ],
+    "answer": "Xen kẽ và đối xứng nhau qua đai áp thấp Xích đạo",
+    "explanation": "Các đai khí áp cao và thấp phân bố xen kẽ và đối xứng nhau qua đai áp thấp xích đạo từ vùng vĩ độ thấp đến vùng vĩ độ cao."
+  },
+  {
+    "question": "Phương pháp khoanh vùng trên bản đồ dùng để biểu hiện các đối tượng có đặc điểm nào?",
+    "options": [
+      "Phân bố tập trung thành những vùng không gian nhất định",
+      "Di chuyển liên tục với tốc độ cao",
+      "Chỉ xuất hiện ở các khu vực đô thị lớn",
+      "Phân bố rải rác từng điểm nhỏ đơn lẻ"
+    ],
+    "answer": "Phân bố tập trung thành những vùng không gian nhất định",
+    "explanation": "Phương pháp khoanh vùng (vùng phân bố) dùng để thể hiện những đối tượng địa lí phân bố tập trung trên một diện tích nhất định như vùng phân bố dân tộc, vùng trồng lúa."
+  },
+  {
+    "question": "Hiện tượng ngoại sinh nào sau đây tạo nên các dạng địa hình bồi tụ như bãi bồi ven sông?",
+    "options": [
+      "Quá trình tích tụ",
+      "Quá trình bóc mòn",
+      "Quá trình phong hóa lí học",
+      "Quá trình phong hóa hóa học"
+    ],
+    "answer": "Quá trình tích tụ",
+    "explanation": "Tích tụ (hoặc bồi tụ) là quá trình tích lũy các vật liệu trầm tích tạo nên các dạng địa hình mới như bãi bồi, đồng bằng tam giác châu."
+  },
+  {
+    "question": "Bộ phận nào sau đây trực tiếp nhận được lượng nhiệt bức xạ mặt trời lớn nhất trên Trái Đất?",
+    "options": [
+      "Bề mặt Trái Đất",
+      "Tầng bình lưu",
+      "Tầng đối lưu trên cao",
+      "Các đám mây tích điện"
+    ],
+    "answer": "Bề mặt Trái Đất",
+    "explanation": "Bề mặt Trái Đất (bao gồm đất và nước) là nơi hấp thụ phần lớn bức xạ mặt trời trực tiếp từ vũ trụ truyền xuống."
+  },
+  {
+    "question": "Tại sao trên bản đồ, phương pháp kí hiệu không chỉ thể hiện được vị trí mà còn thể hiện được chất lượng của đối tượng?",
+    "options": [
+      "Thông qua việc thay đổi hình dạng và màu sắc kí hiệu",
+      "Thông qua kích thước lớn nhỏ của kí hiệu",
+      "Thông qua số lượng điểm chấm dày hay thưa",
+      "Thông qua độ dài của các mũi tên chỉ hướng"
+    ],
+    "answer": "Thông qua việc thay đổi hình dạng và màu sắc kí hiệu",
+    "explanation": "Sự thay đổi hình dạng và màu sắc của kí hiệu phản ánh cấu trúc, tính chất hoặc chất lượng của đối tượng (ví dụ: kí hiệu màu đỏ chỉ nhà máy nhiệt điện, màu xanh chỉ nhà máy thủy điện)."
+  },
+  {
+    "question": "Khi sử dụng bản đồ trong học tập, bước đầu tiên và quan trọng nhất người học cần làm là gì?",
+    "options": [
+      "Đọc bảng chú giải để hiểu ý nghĩa các kí hiệu",
+      "Tính toán khoảng cách thực tế dựa vào tỉ lệ",
+      "Xác định tọa độ của tất cả các điểm trên bản đồ",
+      "Tìm các mối liên hệ địa lí giữa các vùng"
+    ],
+    "answer": "Đọc bảng chú giải để hiểu ý nghĩa các kí hiệu",
+    "explanation": "Trước khi tìm hiểu nội dung bản đồ, việc đầu tiên cần làm là đọc bảng chú giải để biết các kí hiệu trên bản đồ biểu thị cho đối tượng nào."
+  },
+  {
+    "question": "Sự khác biệt cơ bản giữa bản đồ số và bản đồ giấy truyền thống là gì?",
+    "options": [
+      "Bản đồ số có thể cập nhật, chỉnh sửa dữ liệu nhanh chóng",
+      "Bản đồ giấy luôn có độ chính xác cao hơn bản đồ số",
+      "Bản đồ số không cần đến hệ thống lưới kinh vĩ tuyến",
+      "Bản đồ giấy có thể phóng to thu nhỏ tùy ý không giới hạn"
+    ],
+    "answer": "Bản đồ số có thể cập nhật, chỉnh sửa dữ liệu nhanh chóng",
+    "explanation": "Bản đồ số chạy trên nền tảng công nghệ nên dữ liệu có thể dễ dàng cập nhật, bổ sung thông tin theo thời gian thực, điều mà bản đồ giấy không làm được nếu không in lại."
+  },
+  {
+    "question": "Nguyên nhân chính tạo nên sự phân chia thành các mảng kiến tạo trên vỏ Trái Đất là do bộ phận nào?",
+    "options": [
+      "Các đứt gãy sâu làm vỏ Trái Đất bị nứt vỡ thành các khối",
+      "Sự xói mòn mạnh mẽ của dòng nước đại dương",
+      "Tác động nén ép liên tục của bầu khí quyển",
+      "Sự thay đổi lực ly tâm khi Trái Đất tự quay"
+    ],
+    "answer": "Các đứt gãy sâu làm vỏ Trái Đất bị nứt vỡ thành các khối",
+    "explanation": "Thạch quyển bị nứt vỡ bởi các đứt gãy sâu và tạo thành các mảng kiến tạo lớn nhỏ tách rời nhau chứ không phải là một khối liền mạch."
+  },
+  {
+    "question": "Khi hai mảng kiến tạo lục địa chuyển động xô vào nhau, hiện tượng địa chất nào sau đây sẽ xảy ra?",
+    "options": [
+      "Các lớp đá bị nén ép, uốn nếp tạo thành núi cao",
+      "Vỏ Trái Đất tách giãn tạo ra các thung lũng sâu dưới đáy biển",
+      "Một mảng kiến tạo sẽ biến mất hoàn toàn vào lõi Trái Đất",
+      "Tạo ra một khoảng trống lớn không có đá khoáng vật"
+    ],
+    "answer": "Các lớp đá bị nén ép, uốn nếp tạo thành núi cao",
+    "explanation": "Khi hai mảng lục địa xô vào nhau, do có độ cứng tương đương nên chúng nén ép các lớp đá ở rìa mảng xô lên cao tạo thành các dãy núi uốn nếp đồ sộ (như dãy Himalaya)."
+  },
+  {
+    "question": "Tại sao quá trình phong hóa lí học lại diễn ra mạnh mẽ nhất ở các vùng hoang mạc và bán hoang mạc?",
+    "options": [
+      "Do có sự chênh lệch nhiệt độ giữa ngày và đêm rất lớn",
+      "Do lượng mưa lớn quanh năm bào mòn bề mặt đá",
+      "Do sinh vật phát triển quá mạnh làm nứt vỡ đá",
+      "Do nước đóng băng liên tục trong các khe đá"
+    ],
+    "answer": "Do có sự chênh lệch nhiệt độ giữa ngày và đêm rất lớn",
+    "explanation": "Ở hoang mạc, ban ngày nhiệt độ rất cao làm đá nở ra, ban đêm nhiệt độ giảm mạnh làm đá co lại. Sự co giãn đột ngột và liên tục làm đá bị nứt vỡ vụn."
+  },
+  {
+    "question": "Quá trình phong hóa hóa học có đặc điểm nào sau đây khác biệt với phong hóa lí học?",
+    "options": [
+      "Làm thay đổi cả hình dạng và thành phần hóa học của đá",
+      "Chỉ làm vỡ đá thành các khối nhỏ chứ không đổi tính chất",
+      "Chỉ xảy ra ở những nơi có khí hậu cực kỳ khô hạn",
+      "Không cần đến sự tham gia của nước hay axit tự nhiên"
+    ],
+    "answer": "Làm thay đổi cả hình dạng và thành phần hóa học của đá",
+    "explanation": "Phong hóa hóa học là quá trình phá hủy đá chủ yếu làm biến đổi thành phần tính chất hóa học của đá và khoáng vật do tác động của nước, oxy, axit hòa tan."
+  },
+  {
+    "question": "Dạng địa hình các-xtơ (hang động đá vôi) là kết quả chủ yếu của quá trình phong hóa nào?",
+    "options": [
+      "Phong hóa hóa học do nước hòa tan đá vôi",
+      "Phong hóa lí học do nhiệt độ thay đổi",
+      "Phong hóa sinh học do rễ cây len lỏi",
+      "Quá trình bóc mòn do gió thổi mài mòn"
+    ],
+    "answer": "Phong hóa hóa học do nước hòa tan đá vôi",
+    "explanation": "Địa hình các-xtơ được hình thành do nước chứa khí carbon dioxide hòa tan đá vôi (calcium carbonate), đây là một phản ứng hóa học điển hình của phong hóa hóa học."
+  },
+  {
+    "question": "Tại sao nhiệt độ trung bình năm cao nhất trên Trái Đất không nằm ở vùng Xích đạo mà lại nằm ở vùng chí tuyến?",
+    "options": [
+      "Vùng chí tuyến có ít mây, diện tích lục địa lớn và chịu áp cao",
+      "Vùng Xích đạo có góc chiếu của tia sáng mặt trời nhỏ hơn",
+      "Vùng chí tuyến nhận được lượng mưa lớn làm tăng nhiệt",
+      "Vùng Xích đạo có diện tích rừng rậm hấp thụ hết nhiệt"
+    ],
+    "answer": "Vùng chí tuyến có ít mây, diện tích lục địa lớn và chịu áp cao",
+    "explanation": "Mặc dù Xích đạo có góc chiếu mặt trời lớn nhất nhưng có lượng mưa và lượng mây lớn, diện tích đại dương nhiều giúp điều hòa nhiệt độ. Vùng chí tuyến có áp cao ngự trị, trời trong sáng, ít mây, diện tích hoang mạc lớn nên hấp thụ nhiệt mạnh."
+  },
+  {
+    "question": "Biên độ nhiệt độ năm ở các vùng vĩ độ cao thường lớn hơn các vùng vĩ độ thấp là do nguyên nhân nào?",
+    "options": [
+      "Sự chênh lệch góc chiếu mặt trời và thời gian chiếu sáng giữa các mùa lớn",
+      "Vùng vĩ độ cao có nhiều đại dương bao quanh hơn",
+      "Vùng vĩ độ cao nhận được lượng bức xạ mặt trời ổn định quanh năm",
+      "Hệ thống dòng biển nóng hoạt động liên tục vào mùa đông"
+    ],
+    "answer": "Sự chênh lệch góc chiếu mặt trời và thời gian chiếu sáng giữa các mùa lớn",
+    "explanation": "Ở vĩ độ cao, mùa hè góc chiếu lớn và ngày dài, mùa đông góc chiếu rất nhỏ và ngày cực ngắn (thậm chí có đêm địa cực). Sự chênh lệch này làm cho nhiệt độ giữa hai mùa chênh nhau rất nhiều, dẫn đến biên độ nhiệt năm lớn."
+  },
+  {
+    "question": "Nguyên nhân chính làm cho khí áp giảm khi độ cao địa hình tăng lên là gì?",
+    "options": [
+      "Càng lên cao không khí càng loãng, sức nén giảm xuống",
+      "Càng lên cao nhiệt độ càng tăng làm không khí co lại",
+      "Càng lên cao lượng hơi nước tăng lên làm không khí nhẹ đi",
+      "Do lực hút của Trái Đất ở trên cao mạnh hơn ở đồng bằng"
+    ],
+    "answer": "Càng lên cao không khí càng loãng, sức nén giảm xuống",
+    "explanation": "Càng lên cao, mật độ các hạt không khí càng thưa thớt (loãng), trọng lượng của cột không khí phía trên giảm đi dẫn đến sức nén (khí áp) giảm xuống."
+  },
+  {
+    "question": "Yếu tố nào sau đây là nguyên nhân chính tạo ra gió biển và gió đất ở các vùng ven bờ đại dương?",
+    "options": [
+      "Sự nóng lên và nguội đi không đều giữa đất liền và biển",
+      "Tác động dòng biển nóng chạy qua bờ biển",
+      "Lực ly tâm sinh ra từ chuyển động tự quay của Trái Đất",
+      "Sự thay đổi đột ngột của độ cao địa hình ven biển"
+    ],
+    "answer": "Sự nóng lên và nguội đi không đều giữa đất liền và biển",
+    "explanation": "Đất và nước có nhiệt dung khác nhau. Ban ngày đất liền nóng nhanh hơn biển tạo áp thấp, gió thổi từ biển vào đất liền (gió biển). Ban đêm đất liền nguội nhanh hơn biển tạo áp cao, gió thổi từ đất ra biển (gió đất)."
+  },
+  {
+    "question": "Khi không khí chứa nhiều hơi nước (độ ẩm cao) thì khí áp sẽ thay đổi như thế nào?",
+    "options": [
+      "Khí áp giảm xuống do hơi nước nhẹ hơn không khí khô",
+      "Khí áp tăng lên do nước làm tăng trọng lượng không khí",
+      "Khí áp giữ nguyên không bị ảnh hưởng bởi độ ẩm",
+      "Khí áp biến động liên tục không theo quy luật nào cả"
+    ],
+    "answer": "Khí áp giảm xuống do hơi nước nhẹ hơn không khí khô",
+    "explanation": "Trọng lượng phân tử của hơi nước nhỏ hơn trọng lượng phân tử trung bình của không khí khô (gồm chủ yếu là Nitơ và Oxy). Do đó, không khí càng nhiều hơi nước thì càng nhẹ, khí áp càng giảm."
+  },
+  {
+    "question": "Tác động nào sau đây của nội lực trực tiếp làm thay đổi diện mạo địa hình một cách nhanh chóng và dữ dội nhất?",
+    "options": [
+      "Hiện tượng động đất và phun trào núi lửa",
+      "Vận động nâng lên hạ xuống của vỏ lục địa",
+      "Quá trình uốn nếp các tầng đá trầm tích",
+      "Sự di chuyển chậm chạp của các mảng đại dương"
+    ],
+    "answer": "Hiện tượng động đất và phun trào núi lửa",
+    "explanation": "Động đất và núi lửa là những biểu hiện đột ngột nguy hiểm của nội lực, có khả năng làm biến dạng bề mặt địa hình chỉ trong vài phút hoặc vài giờ."
+  },
+  {
+    "question": "Sự hình thành các cồn cát, đụn cát ở các hoang mạc nhiệt đới là kết quả của hoạt động ngoại lực nào?",
+    "options": [
+      "Quá trình bồi tụ do gió",
+      "Quá trình bóc mòn do gió",
+      "Quá trình phong hóa sinh học",
+      "Quá trình xâm thực của dòng chảy"
+    ],
+    "answer": "Quá trình bồi tụ do gió",
+    "explanation": "Gió thổi mang theo các hạt cát thổi dọc bề mặt đất, khi gặp vật cản hoặc khi tốc độ gió giảm, cát sẽ bị tích tụ lại tạo thành các đụn cát, cồn cát."
+  },
+  {
+    "question": "Ứng dụng nào sau đây của GPS được sử dụng rộng rãi nhất trong việc quản lý giao thông đô thị hiện đại?",
+    "options": [
+      "Theo dõi vị trí và điều hướng xe cộ theo thời gian thực",
+      "Dự báo chính xác lượng mưa trong ngày tại đô thị",
+      "Tính toán mật độ dân số của các khu phố cổ",
+      "Đo vẽ bản đồ địa chất ngầm dưới lòng đất"
+    ],
+    "answer": "Theo dõi vị trí và điều hướng xe cộ theo thời gian thực",
+    "explanation": "GPS cung cấp tọa độ vị trí chính xác của phương tiện di chuyển, giúp các ứng dụng bản đồ thông minh điều hướng đường đi và quản lý lộ trình xe cộ trực tuyến."
+  },
+  {
+    "question": "Một người đi du lịch muốn sử dụng điện thoại thông minh để tìm đường đi ngắn nhất tại một thành phố xa lạ. Người này cần kết hợp các công nghệ nào?",
+    "options": [
+      "Sử dụng thiết bị có kết nối định vị GPS và phần mềm bản đồ số",
+      "Sử dụng la bàn cơ học và sơ đồ vẽ tay trên giấy",
+      "Sử dụng ảnh vệ tinh tĩnh chụp từ nhiều năm trước",
+      "Sử dụng hệ thống thông tin địa lí chuyên sâu của quốc gia"
+    ],
+    "answer": "Sử dụng thiết bị có kết nối định vị GPS và phần mềm bản đồ số",
+    "explanation": "GPS xác định vị trí hiện tại của người dùng, còn bản đồ số cung cấp mạng lưới giao thông đường sá xung quanh và thuật toán tìm đường đi tối ưu."
+  },
+  {
+    "question": "Đặc điểm nào sau đây của địa hình vùng núi đá vôi miền Bắc Việt Nam chứng minh cho tác động mạnh mẽ của phong hóa hóa học?",
+    "options": [
+      "Sự xuất hiện phổ biến của các hang động, thung lũng các-xtơ sâu",
+      "Các đỉnh núi cao đều bị san phẳng tạo thành cao nguyên rộng",
+      "Lớp đất bồi tụ phù sa dày đặc bao phủ toàn bộ bề mặt núi",
+      "Các mạch đá bị nứt vỡ cơ học thành từng khối vuông vức"
+    ],
+    "answer": "Sự xuất hiện phổ biến của các hang động, thung lũng các-xtơ sâu",
+    "explanation": "Khí hậu Việt Nam nóng ẩm, mưa nhiều khiến nước mưa hòa tan mạnh mẽ đá vôi, tạo ra các hệ thống hang động thạch nhũ (như Phong Nha, vịnh Hạ Long) mang đặc trưng của phong hóa hóa học."
+  },
+  {
+    "question": "Hiện tượng sạt lở đất đá xảy ra ở các sườn núi dốc vào mùa mưa lớn là hệ quả kết hợp của các yếu tố nào?",
+    "options": [
+      "Trọng lực, nước làm giảm lực ma sát và làm đá mềm nhão",
+      "Sự tăng lên đột ngột của nhiệt độ không khí trên đỉnh núi",
+      "Sự co giãn cơ học của đá do bức xạ mặt trời ban đêm",
+      "Lực nén ép kiến tạo từ sâu trong lòng đất đẩy đá ra ngoài"
+    ],
+    "answer": "Trọng lực, nước làm giảm lực ma sát và làm đá mềm nhão",
+    "explanation": "Mưa lớn thấm sâu vào các lớp đất đá trên sườn dốc, làm tăng trọng lượng khối đất đá đồng thời làm giảm lực ma sát giữa các lớp, dưới tác dụng của trọng lực gây ra sạt lở đất."
+  },
+  {
+    "question": "Tại sao các khu vực nằm sâu trong lòng lục địa thường có biên độ nhiệt độ ngày đêm lớn hơn các khu vực ven biển?",
+    "options": [
+      "Do lục địa hấp thụ và tỏa nhiệt nhanh hơn mặt nước biển",
+      "Do trong lòng lục địa luôn có gió thổi mạnh hơn ven biển",
+      "Do ven biển nhận được lượng bức xạ mặt trời lớn hơn lục địa",
+      "Do lục địa có cao độ địa hình trung bình thấp hơn mặt biển"
+    ],
+    "answer": "Do lục địa hấp thụ và tỏa nhiệt nhanh hơn mặt nước biển",
+    "explanation": "Đất liền tăng nhiệt nhanh vào ban ngày và giảm nhiệt nhanh vào ban đêm. Trong khi nước biển thay đổi nhiệt độ chậm hơn nhờ tính chất điều hòa của nước, giữ cho ven biển có nhiệt độ ổn định hơn."
+  },
+  {
+    "question": "Vì sao các khu vực nằm dưới đai áp cao chí tuyến thường có khí hậu rất khô hạn và hình thành các hoang mạc lớn?",
+    "options": [
+      "Do dòng không khí chỉ chuyển động giáng xuống, không tạo được mây gây mưa",
+      "Do góc chiếu mặt trời ở đây luôn nhỏ hơn vùng Xích đạo rất nhiều",
+      "Do có các luồng gió ẩm từ đại dương thổi vào liên tục quanh năm",
+      "Do lượng hơi nước trong không khí ở vùng này bị đóng băng hết"
+    ],
+    "answer": "Do dòng không khí chỉ chuyển động giáng xuống, không tạo được mây gây mưa",
+    "explanation": "Tại các đai áp cao, không khí bị nén và chuyển động đi xuống (giáng xuống), nhiệt độ tăng lên nên độ ẩm tương đối giảm, không khí không thể bốc lên cao để ngưng tụ thành mây tạo mưa."
+  },
+  {
+    "question": "Một người leo núi đo được nhiệt độ ở chân núi là 30 độ C. Khi lên đến đỉnh núi, người đó đo được nhiệt độ là 18 độ C. Dựa vào quy luật nhiệt độ theo độ cao ở tầng đối lưu, hãy cho biết đỉnh núi này cao khoảng bao nhiêu mét so với chân núi?",
+    "options": [
+      "2000 mét",
+      "1200 mét",
+      "3000 mét",
+      "1500 mét"
+    ],
+    "answer": "2000 mét",
+    "explanation": "Chênh lệch nhiệt độ giữa chân núi và đỉnh núi là: 30 - 18 = 12 độ C. Quy luật trong tầng đối lưu: cứ lên cao 100m nhiệt độ giảm 0.6 độ C. Vậy độ cao của đỉnh núi là: (12 chia cho 0.6) nhân với 100 = 2000 mét."
+  },
+  {
+    "question": "Tại sao khi đi từ bờ biển phía đông sang bờ biển phía tây của một lục địa ở vùng ôn đới, ta lại thấy tính chất khí hậu thay đổi từ ẩm ướt sang khô hạn hơn?",
+    "options": [
+      "Do ảnh hưởng của các dòng biển và hướng gió tây ôn đới",
+      "Do góc chiếu mặt trời thay đổi mạnh từ đông sang tây lục địa",
+      "Do phía tây luôn có độ cao địa hình vượt trội hơn phía đông",
+      "Do áp cao chí tuyến dịch chuyển liên tục theo chiều kinh tuyến"
+    ],
+    "answer": "Do ảnh hưởng của các dòng biển và hướng gió tây ôn đới",
+    "explanation": "Ở vùng ôn đới, gió tây ôn đới thổi từ tây sang đông mang theo hơi ẩm từ đại dương vào bờ tây khiến bờ tây mưa nhiều, ẩm ướt, khi vào sâu lục địa và sang bờ đông hơi ẩm giảm mạnh, kết hợp dòng biển lạnh ven bờ làm khí hậu khô hạn hơn."
+  },
+  {
+    "question": "Vào mùa đông, miền Bắc Việt Nam chịu ảnh hưởng mạnh của gió mùa Đông Bắc thổi từ cao áp Xi-bia về. Loại gió này có tính chất ban đầu là gì?",
+    "options": [
+      "Lạnh và khô",
+      "Nóng và ẩm",
+      "Lạnh và ẩm",
+      "Nóng và khô"
+    ],
+    "answer": "Lạnh và khô",
+    "explanation": "Gió mùa Đông Bắc xuất phát từ vùng nội địa cao áp Xi-bia (vùng vĩ độ cao, nằm sâu trong lục địa Á - Âu) nên có tính chất đặc trưng ban đầu là rất lạnh và khô ráp."
+  },
+  {
+    "question": "Sự hình thành dãy núi Andes ở bờ tây lục địa Nam Mỹ liên quan trực tiếp đến hiện tượng kiến tạo nào sau đây?",
+    "options": [
+      "Sự xô vào nhau giữa một mảng đại dương và một mảng lục địa",
+      "Sự tách giãn của hai mảng lục địa hoàn toàn độc lập với nhau",
+      "Sự sụt lún cơ học của một mảng kiến tạo cũ dưới tác động ngoại lực",
+      "Vận động kiến tạo theo phương thẳng đứng hạ thấp lục địa"
+    ],
+    "answer": "Sự xô vào nhau giữa một mảng đại dương và một mảng lục địa",
+    "explanation": "Dãy Andes hình thành do sự va chạm (xô vào nhau) giữa mảng đại dương Nazca và mảng lục địa Nam Mỹ. Mảng đại dương mỏng và nặng hơn bị nén chìm xuống dưới, đẩy mảng lục địa uốn nếp nhô cao tạo thành núi."
+  },
+  {
+    "question": "Hiện tượng rễ cây phát triển làm nứt vỡ các khối đá lớn được xếp vào loại phong hóa nào sau đây?",
+    "options": [
+      "Phong hóa sinh học",
+      "Phong hóa hóa học",
+      "Phong hóa lí học thuần túy",
+      "Quá trình bóc mòn sinh vật"
+    ],
+    "answer": "Phong hóa sinh học",
+    "explanation": "Phong hóa sinh học là sự phá hủy đá và khoáng vật dưới tác động của sinh vật (vi khuẩn, nấm, rễ cây, động vật đào hang), làm đá biến đổi cả về mặt cơ học và hóa học."
+  },
+  {
+    "question": "Khi xây dựng một hệ thống đê điều ngăn lũ, các kỹ sư cần sử dụng loại bản đồ nào sau đây để xác định các vùng có nguy cơ ngập lụt cao nhất?",
+    "options": [
+      "Bản đồ địa hình có đường đồng mức chi tiết",
+      "Bản đồ phân bố các nhóm đất trồng trọt",
+      "Bản đồ khí hậu thể hiện lượng mưa trung bình năm",
+      "Bản đồ mật độ dân số nông thôn của khu vực"
+    ],
+    "answer": "Bản đồ địa hình có đường đồng mức chi tiết",
+    "explanation": "Bản đồ địa hình với hệ thống đường đồng mức hiển thị độ cao chính xác của bề mặt đất, giúp tính toán hướng chảy của nước và khoanh vùng các khu vực trũng thấp có nguy cơ ngập úng cao."
+  },
+  {
+    "question": "Nếu một quốc gia nằm hoàn toàn trong vùng nội chí tuyến bán cầu Bắc, đặc điểm góc chiếu mặt trời tại quốc gia đó sẽ như thế nào trong năm?",
+    "options": [
+      "Có hai lần mặt trời đi qua thiên đỉnh trong năm",
+      "Góc chiếu mặt trời luôn nhỏ hơn 45 độ quanh năm",
+      "Mặt trời không bao giờ lên cao quá đường chân trời",
+      "Chỉ có đúng một lần mặt trời đi qua thiên đỉnh vào ngày đông chí"
+    ],
+    "answer": "Có hai lần mặt trời đi qua thiên đỉnh trong năm",
+    "explanation": "Mọi địa điểm nằm trong vùng nội chí tuyến (giữa chí tuyến Bắc và chí tuyến Nam) đều có hiện tượng mặt trời đi qua thiên đỉnh (góc chiếu bằng 90 độ) hai lần trong một năm."
+  },
+  {
+    "question": "Địa hình đồng bằng châu thổ sông Hồng ở Việt Nam được hình thành chủ yếu do tác động của hoạt động ngoại lực nào sau đây?",
+    "options": [
+      "Quá trình bồi tụ phù sa của dòng chảy sông ngòi",
+      "Quá trình mài mòn bờ biển của sóng và thủy triều",
+      "Vận động nâng lên của nội lực kiến tạo trong kỷ đệ tứ",
+      "Quá trình phong hóa hóa học của nước mưa trên đất mềm"
+    ],
+    "answer": "Quá trình bồi tụ phù sa của dòng chảy sông ngòi",
+    "explanation": "Đồng bằng châu thổ sông Hồng là đồng bằng bồi tụ được hình thành do quá trình lắng đọng vật liệu phù sa sông của hệ thống sông Hồng và sông Thái Bình qua hàng triệu năm."
+  },
+  {
+    "question": "Tại sao các thung lũng sông ở vùng thượng lưu thường có hình chữ V hẹp và sâu, trong khi ở hạ lưu sông lại mở rộng và nông hơn?",
+    "options": [
+      "Thượng lưu có độ dốc lớn nên xâm thực dọc mạnh, hạ lưu dốc nhỏ nên bồi tụ và xâm thực ngang mạnh",
+      "Thượng lưu có lượng mưa lớn hơn hạ lưu gấp nhiều lần làm lở bờ sông",
+      "Hạ lưu sông chịu tác động mạnh của nội lực làm sụt lún lòng sông",
+      "Thượng lưu sông chỉ diễn ra phong hóa hóa học tạo các khe nứt đứng"
+    ],
+    "answer": "Thượng lưu có độ dốc lớn nên xâm thực dọc mạnh, hạ lưu dốc nhỏ nên bồi tụ và xâm thực ngang mạnh",
+    "explanation": "Ở thượng lưu, độ dốc lớn làm tốc độ dòng chảy rất nhanh, lực nước tập trung cắt sâu xuống lòng sông (xâm thực dọc) tạo thung lũng chữ V. Về hạ lưu, địa hình bằng phẳng, sông chảy chậm, dòng nước chủ yếu mở rộng bờ sang hai bên (xâm thực ngang) và bồi tụ phù sa."
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "question": "Súng tiểu liên AK cỡ 7,62 mm do nước nào sản xuất đầu tiên?",
+    "options": [
+      "Liên Xô (cũ).",
+      "Mỹ.",
+      "Đức.",
+      "Trung Quốc."
+    ],
+    "answer": "Liên Xô (cũ).",
+    "explanation": "Súng tiểu liên AK do Mikhail Kalashnikov của Liên Xô thiết kế và sản xuất đầu tiên vào năm 1947."
+  },
+  {
+    "question": "Hộp tiếp đạn của súng tiểu liên AK tiêu chuẩn chứa được bao nhiêu viên đạn?",
+    "options": [
+      "20 viên.",
+      "30 viên.",
+      "40 viên.",
+      "50 viên."
+    ],
+    "answer": "30 viên.",
+    "explanation": "Hộp tiếp đạn tiêu chuẩn đi kèm theo súng tiểu liên AK có sức chứa tối đa là 30 viên đạn."
+  },
+  {
+    "question": "Tầm bắn hiệu quả (tầm bắn chí mạng) ghi trong tính năng của súng tiểu liên AK là bao nhiêu mét?",
+    "options": [
+      "400 mét.",
+      "800 mét.",
+      "1000 mét.",
+      "1500 mét."
+    ],
+    "answer": "400 mét.",
+    "explanation": "Mặc dù tầm bắn xa nhất của đạn AK lên tới 3000m, nhưng tầm bắn hiệu quả nhất để tiêu diệt mục tiêu sinh lực là 400m."
+  },
+  {
+    "question": "Trọng lượng của súng tiểu liên AK khi chưa có đạn là bao nhiêu kilôgam (kg)?",
+    "options": [
+      "3,1 kg.",
+      "3,8 kg.",
+      "4,3 kg.",
+      "4,5 kg."
+    ],
+    "answer": "3,8 kg.",
+    "explanation": "Súng tiểu liên AK cải tiến (AKM) nặng khoảng 3,1 kg, còn súng AK tiêu chuẩn nguyên bản nặng 3,8 kg khi chưa lắp hộp tiếp đạn."
+  },
+  {
+    "question": "Khi bắn súng tiểu liên AK ở chế độ liên thanh, tốc độ bắn lý thuyết của súng là bao nhiêu phát trong một phút?",
+    "options": [
+      "Khoảng 100 phát/phút.",
+      "Khoảng 400 phát/phút.",
+      "Khoảng 600 phát/phút.",
+      "Khoảng 900 phát/phút."
+    ],
+    "answer": "Khoảng 600 phát/phút.",
+    "explanation": "Tốc độ bắn lý thuyết của cơ cấu cò súng AK ở chế độ tự động (liên thanh) là 600 phát/phút."
+  },
+  {
+    "question": "Lựu đạn phi công kích nổ bằng phương pháp nào sau đây?",
+    "options": [
+      "Kích nổ bằng va chạm (chạm nổ).",
+      "Kích nổ bằng thời gian (giữ chậm).",
+      "Kích nổ bằng điều khiển từ xa.",
+      "Kích nổ bằng cảm biến áp suất."
+    ],
+    "answer": "Kích nổ bằng thời gian (giữ chậm).",
+    "explanation": "Các loại lựu đạn thường dùng trong huấn luyện của Việt Nam như lựu đạn LĐ-01 hay lựu đạn chày đều dùng bộ phận giữ chậm bằng thời gian (từ 3,2 đến 4,2 giây)."
+  },
+  {
+    "question": "Bán kính sát thương bằng mảnh vụn của lựu đạn LĐ-01 Việt Nam là bao nhiêu mét?",
+    "options": [
+      "2 mét.",
+      "5 mét.",
+      "6 mét.",
+      "10 mét."
+    ],
+    "answer": "6 mét.",
+    "explanation": "Theo thông số kỹ thuật của sgk, lựu đạn LĐ-01 có bán kính sát thương hiệu quả bằng các mảnh gang vụn là 6 mét."
+  },
+  {
+    "question": "Hiện tượng tự nhiên nào sau đây được phân loại vào nhóm 'Thiên tai'?",
+    "options": [
+      "Bão, áp thấp nhiệt đới, lũ lụt, sạt lở đất.",
+      "Kẹt xe giờ cao điểm tại các đô thị lớn.",
+      "Sự cố cháy nổ tại các khu công nghiệp.",
+      "Sự cố rò rỉ mạng internet trên diện rộng."
+    ],
+    "answer": "Bão, áp thấp nhiệt đới, lũ lụt, sạt lở đất.",
+    "explanation": "Thiên tai là hiện tượng tự nhiên bất thường có thể gây thiệt hại về người, tài sản, môi trường như bão, lũ, hạn hán..."
+  },
+  {
+    "question": "Loại bom nào sử dụng hiệu ứng nhiệt lượng cực cao từ phản ứng hóa học để hủy diệt mục tiêu và sinh lực?",
+    "options": [
+      "Bom từ trường.",
+      "Bom napan (bom cháy).",
+      "Bom xuyên tự dẫn.",
+      "Bom chùm."
+    ],
+    "answer": "Bom napan (bom cháy).",
+    "explanation": "Bom napan chứa chất cháy dạng keo, khi nổ tạo ra ngọn lửa có nhiệt độ từ 800 đến 1000 độ C để thiêu rụi mục tiêu."
+  },
+  {
+    "question": "Biện pháp nào sau đây là cách phòng tránh bom, đạn địch hiệu quả nhất khi ở trường học hoặc khu dân cư?",
+    "options": [
+      "Kịp thời di tản xuống hệ thống hầm bám trụ, công sự kiên cố.",
+      "Trèo lên sân thượng tầng cao để quan sát hướng bom rơi.",
+      "Chạy ra bãi đất trống phẳng lặng để dễ né tránh.",
+      "Núp phía dưới các biển quảng cáo lớn trên đường phố."
+    ],
+    "answer": "Kịp thời di tản xuống hệ thống hầm bám trụ, công sự kiên cố.",
+    "explanation": "Hầm trú ẩn ẩn sâu dưới lòng đất hoặc các công sự kiên cố giúp giảm thiểu tối đa tác động của mảnh bom và sóng xung kích."
+  },
+  {
+    "question": "Trong kỹ thuật cấp cứu ban đầu, vết thương chảy máu động mạch nguy hiểm nhất vì lý do gì?",
+    "options": [
+      "Máu chảy ra ngoài rất chậm và dễ bị đông.",
+      "Máu phun thành tia, mất lượng máu lớn trong thời gian ngắn gây tử vong.",
+      "Máu chỉ chảy ngấm qua thành mạch không nhìn thấy.",
+      "Vết thương động mạch không bao giờ gây đau đớn."
+    ],
+    "answer": "Máu phun thành tia, mất lượng máu lớn trong thời gian ngắn gây tử vong.",
+    "explanation": "Động mạch chịu áp lực co bóp lớn từ tim, khi bị tổn thương máu sẽ phun mạnh thành tia, nếu không băng bó kịp thời nạn nhân sẽ chết vì mất máu cấp."
+  },
+  {
+    "question": "Biện pháp cầm máu tạm thời nào ứng dụng cho vết thương ở chi bằng cách dùng dây cao su siết chặt phía trên vết thương?",
+    "options": [
+      "Băng ép.",
+      "Băng nút.",
+      "Garo.",
+      "Ấn động mạch."
+    ],
+    "answer": "Garo.",
+    "explanation": "Băng garo là biện pháp dùng dây cao su hoặc dây vải siết chặt phía trên vết thương để làm ngừng hẳn dòng máu đi nuôi chi (chỉ dùng khi đứt động mạch)."
+  },
+  {
+    "question": "Khi cố định xương đùi bị gãy, thanh nẹp cứu thương phải dài từ đâu đến đâu?",
+    "options": [
+      "Từ ngón chân đến đầu gối.",
+      "Từ cổ chân đến nách.",
+      "Từ gót chân đến thắt lưng.",
+      "Từ đầu gối đến khớp háng."
+    ],
+    "answer": "Từ cổ chân đến nách.",
+    "explanation": "Xương đùi là xương lớn, khi gãy cần dùng nẹp dài từ gót chân hoặc cổ chân lên đến tận nách để cố định bất động hoàn toàn 3 khớp liên quan."
+  },
+  {
+    "question": "Trường học quân sự nào sau đây thuộc hệ thống tuyển sinh quân sự của Bộ Quốc phòng Việt Nam?",
+    "options": [
+      "Học viện Quân y.",
+      "Đại học Bách khoa.",
+      "Học viện Cảnh sát nhân dân.",
+      "Đại học Sư phạm."
+    ],
+    "answer": "Học viện Quân y.",
+    "explanation": "Học viện Quân y là cơ sở đào tạo bác sĩ quân y trực thuộc Bộ Quốc phòng, nằm trong hệ thống các trường tuyển sinh quân sự."
+  },
+  {
+    "question": "Học sinh muốn đăng ký thi tuyển vào các trường Công an nhân dân phải trải qua bước bắt buộc nào sau đây trước khi làm hồ sơ?",
+    "options": [
+      "Sơ tuyển về lý lịch chính trị, sức khỏe và độ tuổi tại Công an quận/huyện.",
+      "Thi thử bài thi thực hành võ thuật tại địa phương.",
+      "Phải có chứng chỉ tiếng Anh quốc tế đạt mức tối đa.",
+      "Phải hoàn thành khóa học nghĩa vụ công an kéo dài 2 năm."
+    ],
+    "answer": "Sơ tuyển về lý lịch chính trị, sức khỏe và độ tuổi tại Công an quận/huyện.",
+    "explanation": "Các trường khối lực lượng vũ trang (Quân đội, Công an) yêu cầu bắt buộc phải qua vòng sơ tuyển tại địa phương để xác minh tiêu chuẩn chính trị và thể lực."
+  },
+  {
+    "question": "Khi bắn súng tiểu liên AK, đường ngắm cơ bản được xác định như thế nào?",
+    "options": [
+      "Là đường thẳng từ mắt người bắn qua tâm đầu ngắm đến điểm định bắn.",
+      "Là đường thẳng từ mắt người bắn qua chính giữa mép trên khe ngắm đến chính giữa mép trên đầu ngắm.",
+      "Là đường thẳng nối từ báng súng đến mục tiêu bắn.",
+      "Là đường cong của quỹ đạo viên đạn chuyển động trong không khí."
+    ],
+    "answer": "Là đường thẳng từ mắt người bắn qua chính giữa mép trên khe ngắm đến chính giữa mép trên đầu ngắm.",
+    "explanation": "Định nghĩa đường ngắm cơ bản trong sgk: mắt người bắn - chính giữa mép trên khe ngắm - chính giữa mép trên đầu ngắm."
+  },
+  {
+    "question": "Súng tiểu liên AK có bao nhiêu bộ phận chính khi tháo lắp thông thường?",
+    "options": [
+      "5 bộ phận.",
+      "7 bộ phận.",
+      "10 bộ phận.",
+      "12 bộ phận."
+    ],
+    "answer": "10 bộ phận.",
+    "explanation": "Quy trình tháo lắp súng tiểu liên AK thông thường bao gồm 10 bộ phận chính: Hộp tiếp đạn, thông nòng, nắp hộp khóa nòng, bộ phận đẩy về..."
+  },
+  {
+    "question": "Đâu là tên một loại dịch bệnh nguy hiểm ở người lây lan qua đường hô hấp từng gây đại dịch toàn cầu?",
+    "options": [
+      "Dịch bệnh COVID-19.",
+      "Bệnh sốt xuất huyết Dengue.",
+      "Bệnh sốt rét.",
+      "Bệnh giun chỉ."
+    ],
+    "answer": "Dịch bệnh COVID-19.",
+    "explanation": "COVID-19 do virus SARS-CoV-2 gây ra, lây lan mạnh mẽ qua giọt bắn và đường hô hấp, tạo nên đại dịch toàn cầu."
+  },
+  {
+    "question": "Bộ phận nào của súng tiểu liên AK có tác dụng làm buồng đốt chứa áp suất khí thuốc độc lập thúc đẩy đầu đạn bay đi?",
+    "options": [
+      "Buồng đạn.",
+      "Nòng súng.",
+      "Hộp khóa nòng.",
+      "Báng súng."
+    ],
+    "answer": "Buồng đạn.",
+    "explanation": "Buồng đạn nằm ở phần đuôi nòng súng, là nơi chứa viên đạn khi đã lên nòng và diễn ra quá trình đốt cháy thuốc phóng."
+  },
+  {
+    "question": "Tư thế nằm bắn súng tiểu liên AK không tì thân súng vào vật cố định thì bộ phận nào của cơ thể người bắn đóng vai trò làm bệ đỡ chính?",
+    "options": [
+      "Hai khuỷu tay và thân người nằm áp sát mặt đất.",
+      "Chỉ dùng bàn tay trái đỡ lấy súng.",
+      "Dùng bờ vai phải tì báng súng vào.",
+      "Dùng hai đầu gối quỳ xuống đỡ."
+    ],
+    "answer": "Hai khuỷu tay và thân người nằm áp sát mặt đất.",
+    "explanation": "Khi nằm bắn không tì, hai khuỷu tay chống vững chãi xuống đất kết hợp với tư thế nằm sấp tạo thành thế kiềng ba chân vững chắc đỡ súng."
+  },
+  {
+    "question": "Nếu đường ngắm chuẩn bị sai lệch: Điểm ngắm thực tế bị lệch sang bên trái mục tiêu, thì kết quả phát bắn sẽ như thế nào?",
+    "options": [
+      "Đạn sẽ bay lệch sang bên trái mục tiêu.",
+      "Đạn sẽ bay lệch sang bên phải mục tiêu.",
+      "Đạn vẫn trúng chính giữa mục tiêu do súng tự điều chỉnh.",
+      "Đạn sẽ bay vọt lên cao hơn mục tiêu."
+    ],
+    "answer": "Đạn sẽ bay lệch sang bên trái mục tiêu.",
+    "explanation": "Điểm ngắm bị lệch về hướng nào thì quỹ đạo của đầu đạn khi rời nòng súng cũng sẽ bị hướng về phía bên đó."
+  },
+  {
+    "question": "Tại sao trong quy trình tháo lắp súng tiểu liên AK, bước đầu tiên bắt buộc luôn là 'Tháo hộp tiếp đạn và kiểm tra xem có đạn trong buồng đạn hay không'?",
+    "options": [
+      "Để bảo đảm an toàn tuyệt đối, tránh hiện tượng cướp cò gây tai nạn súng đạn.",
+      "Để súng giảm bớt trọng lượng giúp các bước tháo sau nhẹ nhàng hơn.",
+      "Để người tháo dễ dàng nhìn thấy bộ phận báng súng phía sau.",
+      "Vì hộp tiếp đạn là bộ phận đắt tiền nhất của khẩu súng."
+    ],
+    "answer": "Để bảo đảm an toàn tuyệt đối, tránh hiện tượng cướp cò gây tai nạn súng đạn.",
+    "explanation": "Kiểm tra buồng đạn và khám súng là nguyên tắc an toàn cốt lõi trong quân đội để chắc chắn không còn viên đạn nào nằm sót lại bên trong buồng nổ."
+  },
+  {
+    "question": "Điểm khác biệt lớn nhất về tư thế đứng ném lựu đạn so với tư thế nằm ném lựu đạn là gì?",
+    "options": [
+      "Tư thế đứng ném thường áp dụng khi có vật che khuất che đỡ cao ngang ngực hoặc trong hầm hào; nằm ném áp dụng khi địa hình trống trải, sát địch.",
+      "Đứng ném giúp lựu đạn bay xa gấp 10 lần nằm ném.",
+      "Nằm ném không cần giật chốt an toàn trước khi ném.",
+      "Đứng ném chỉ dùng cho lựu đạn chày, nằm ném chỉ dùng cho lựu đạn cầu."
+    ],
+    "answer": "Tư thế đứng ném thường áp dụng khi có vật che khuất che đỡ cao ngang ngực hoặc trong hầm hào; nằm ném áp dụng khi địa hình trống trải, sát địch.",
+    "explanation": "Lựa chọn tư thế ném lựu đạn phụ thuộc vào tình hình địch và địa hình thực địa để bảo đảm vừa tiêu diệt được địch vừa bảo vệ an toàn cho bản thân."
+  },
+  {
+    "question": "Khi nghe khẩu lệnh 'Chuẩn bị lựu đạn' trong tư thế đứng ném, người ném phải thực hiện động tác nào dưới đây?",
+    "options": [
+      "Súng chuyển sang tay trái giữ, tay phải lấy lựu đạn ra kiểm tra và chuẩn bị chốt an toàn.",
+      "Lập tức rút chốt an toàn và ném ngay lập tức không cần ngắm.",
+      "Nằm bẹp xuống đất để tránh mảnh vỡ từ trước.",
+      "Cất súng đi và dùng cả hai tay cầm lấy quả lựu đạn."
+    ],
+    "answer": "Súng chuyển sang tay trái giữ, tay phải lấy lựu đạn ra kiểm tra và chuẩn bị chốt an toàn.",
+    "explanation": "Khẩu lệnh chuẩn bị yêu cầu người chiến sĩ làm công tác chuẩn bị vũ khí, chuyển súng sang tay phụ (tay trái) để giải phóng tay thuận (tay phải) thao tác với lựu đạn."
+  },
+  {
+    "question": "Tại sao việc xả lũ của các hồ thủy điện lớn cần phải thông báo trước cho người dân vùng hạ du một khoảng thời gian quy định?",
+    "options": [
+      "Để người dân kịp thời sơ tán tài sản, vật nuôi và con người lên cao, chủ động phòng tránh ngập lụt đột ngột.",
+      "Để người dân tranh thủ ra sông đón bắt thủy sản khi nước lớn về.",
+      "Để các nhà máy dưới hạ du tắt toàn bộ hệ thống lưới điện quốc gia.",
+      "Để người dân chuẩn bị các phương tiện chứa nước ngọt tích trữ."
+    ],
+    "answer": "Để người dân kịp thời sơ tán tài sản, vật nuôi và con người lên cao, chủ động phòng tránh ngập lụt đột ngột.",
+    "explanation": "Xả lũ đột ngột tạo ra dòng chảy xiết và dâng nước nhanh ở hạ lưu. Thông báo sớm giúp giảm thiểu tối đa thiệt hại về tính mạng và tài sản cho nhân dân vùng ảnh hưởng."
+  },
+  {
+    "question": "Bom từ trường hoạt động dựa trên nguyên lý kích nổ nào sau đây?",
+    "options": [
+      "Cảm ứng sự thay đổi của từ trường trái đất khi có khối kim loại lớn (như xe ô tô, xe tăng) đi qua.",
+      "Hệ thống định vị vệ tinh GPS truyền tín hiệu từ máy bay xuống.",
+      "Khi có người chạm trực tiếp vào phần vỏ bom bằng nhựa.",
+      "Khi nhiệt độ không khí xung quanh đạt mức trên 40 độ C."
+    ],
+    "answer": "Cảm ứng sự thay đổi của từ trường trái đất khi có khối kim loại lớn (như xe ô tô, xe tăng) đi qua.",
+    "explanation": "Bom từ trường chứa đầu cảm biến nhạy cảm với kim loại sắt thép. Khi phương tiện cơ giới đi vào vùng bẫy làm biến thiên từ trường, bom sẽ tự động kích nổ."
+  },
+  {
+    "question": "Khi phát hiện một vật thể lạ hình trụ nghi là bom hoặc đạn còn sót lại sau chiến tranh lộ ra do mưa xói mòn đất, hành động nào đúng quy tắc?",
+    "options": [
+      "Giữ nguyên hiện trường, cảnh báo mọi người xung quanh không lại gần và báo ngay cho Ban chỉ huy quân sự hoặc Công an địa phương.",
+      "Dùng gậy gỗ đập mạnh xem vật thể đó làm bằng chất liệu gì.",
+      "Tự ý khiêng vật thể đó về nhà bán cho các cơ sở thu mua phế liệu.",
+      "Rủ bạn bè dùng củi khô đốt xung quanh để xem bom có nổ hay không."
+    ],
+    "answer": "Giữ nguyên hiện trường, cảnh báo mọi người xung quanh không lại gần và báo ngay cho Ban chỉ huy quân sự hoặc Công an địa phương.",
+    "explanation": "Vật liệu nổ còn sót lại qua nhiều năm rất mất ổn định, có thể nổ bất cứ lúc nào do ma sát hoặc va đập. Chỉ lực lượng công binh mới có chuyên môn xử lý."
+  },
+  {
+    "question": "Tại sao khi băng bó vết thương hở, chúng ta tuyệt đối không được tự ý bôi các loại thuốc mỡ, lá cây lạ trực tiếp lên bề mặt vết thương?",
+    "options": [
+      "Vì dễ gây ra tình trạng nhiễm trùng, hoại tử mô nhiễm khuẩn nặng nguy hiểm tính mạng.",
+      "Vì thuốc mỡ làm cho băng gạc dính chặt không thể gỡ ra được.",
+      "Vì lá cây sẽ làm cho vết thương bị đổi màu gây mất thẩm mỹ.",
+      "Vì bôi thuốc mỡ làm giảm cảm giác đau đớn quá nhanh."
+    ],
+    "answer": "Vì dễ gây ra tình trạng nhiễm trùng, hoại tử mô nhiễm khuẩn nặng nguy hiểm tính mạng.",
+    "explanation": "Vết thương hở cần giữ vô khuẩn. Các loại lá cây, thuốc tự chế chứa nhiều vi khuẩn, nấm mốc có thể đưa mầm bệnh sâu vào máu gây nhiễm trùng máu."
+  },
+  {
+    "question": "Khi tiến hành cố định xương cẳng tay bị gãy bằng hai thanh nẹp, vị trí đặt hai thanh nẹp phải như thế nào?",
+    "options": [
+      "Một nẹp ở mặt trong (lòng tay) và một nẹp ở mặt ngoài (mu bàn tay) cẳng tay.",
+      "Đặt cả hai nẹp chồng lên nhau ở phía trên mu bàn tay.",
+      "Buộc hai nẹp vòng quanh bắp tay phía trên khuỷu tay.",
+      "Đặt một nẹp ở lòng bàn tay và một nẹp ở dưới lòng bàn chân."
+    ],
+    "answer": "Một nẹp ở mặt trong (lòng tay) và một nẹp ở mặt ngoài (mu bàn tay) cẳng tay.",
+    "explanation": "Để cố định xương cẳng tay (xương quay và xương trụ), cần đặt hai nẹp song song ở mặt trong và mặt ngoài để ép chặt, giữ bất động khúc xương bị gãy."
+  },
+  {
+    "question": "Sự khác biệt về mục đích giữa phương thức 'Xét tuyển thẳng' và 'Xét tuyển dựa vào điểm thi tốt nghiệp THPT' của các trường quân đội là gì?",
+    "options": [
+      "Xét tuyển thẳng dành cho học sinh đạt giải cao tại các kỳ thi học sinh giỏi quốc gia/quốc tế; xét điểm thi dành cho đại trà thí sinh tham gia kỳ thi chung.",
+      "Xét tuyển thẳng không cần kiểm tra sức khỏe sơ tuyển; xét điểm thi thì bắt buộc.",
+      "Xét tuyển thẳng chỉ dành cho thí sinh nam; xét điểm thi chỉ dành cho thí sinh nữ.",
+      "Xét tuyển thẳng học sinh phải tự đóng học phí; xét điểm thi được miễn phí."
+    ],
+    "answer": "Xét tuyển thẳng dành cho học sinh đạt giải cao tại các kỳ thi học sinh giỏi quốc gia/quốc tế; xét điểm thi dành cho đại trà thí sinh tham gia kỳ thi chung.",
+    "explanation": "Xét tuyển thẳng là chính sách thu hút nhân tài diện đặc biệt (đạt giải quốc gia, quốc tế) theo quy chế của Bộ Giáo dục và Bộ Quốc phòng, không phụ thuộc vào điểm số bài thi tốt nghiệp."
+  },
+  {
+    "question": "Trong bài học kỹ thuật bắn súng AK, tại sao người bắn cần phải thực hiện động tác 'Thở đều đặn, nín thở vài giây trước khi bóp cò'?",
+    "options": [
+      "Để giảm thiểu sự chuyển động phập phồng của lồng ngực làm rung chuyển súng, giúp đường ngắm ổn định chính xác.",
+      "Để tiết kiệm lượng oxy trong phổi trong suốt quá trình bắn.",
+      "Để tiếng nổ của súng không làm tổn thương màng nhĩ người bắn.",
+      "Để mắt có thể nhìn thấy mục tiêu rõ ràng hơn trong đêm."
+    ],
+    "answer": "Để giảm thiểu sự chuyển động phập phồng của lồng ngực làm rung chuyển súng, giúp đường ngắm ổn định chính xác.",
+    "explanation": "Nhịp thở làm chuyển động lồng ngực, từ đó làm dịch chuyển báng súng trên vai và đầu ngắm. Nín thở tạm thời ở cuối thì thở ra giúp ổn định súng hoàn toàn trong khoảnh khắc đạn rời nòng."
+  },
+  {
+    "question": "Khi bóp cò súng tiểu liên AK, người bắn phải thực hiện lực bóp cò như thế nào là đúng kỹ thuật?",
+    "options": [
+      "Bóp cò từ từ, êm đều, kéo thẳng trục về sau cho đến khi súng nổ bất ngờ.",
+      "Giật mạnh cò thật nhanh và đột ngột ngay khi thấy đầu ngắm chạm mục tiêu.",
+      "Dùng lực của toàn bộ bàn tay bóp chặt lấy cả tay cầm và cò súng.",
+      "Bóp cò nửa chừng rồi buông ra, sau đó bóp mạnh lại lần hai."
+    ],
+    "answer": "Bóp cò từ từ, êm đều, kéo thẳng trục về sau cho đến khi súng nổ bất ngờ.",
+    "explanation": "Giật cò đột ngột làm súng bị chúi nòng hoặc lệch hướng ngắm (lỗi giật cục). Bóp cò từ từ, êm đều giúp giữ nguyên đường ngắm chuẩn cho đến khi búa đập vào kim hỏa."
+  },
+  {
+    "question": "Vì sao khi ném lựu đạn thật, người ném bắt buộc phải buông hoàn toàn mỏ vịt (thìa lửa) ra khỏi thân lựu đạn sau khi giật chốt?",
+    "options": [
+      "Để kim hỏa được giải phóng, đập vào hạt lửa kích hoạt bộ phận giữ chậm đốt cháy.",
+      "Để lựu đạn giảm bớt lực cản của không khí khi bay.",
+      "Để người ném không bị đứt tay do cạnh sắc của mỏ vịt.",
+      "Để quả lựu đạn tự động định hướng mục tiêu trên không."
+    ],
+    "answer": "Để kim hỏa được giải phóng, đập vào hạt lửa kích hoạt bộ phận giữ chậm đốt cháy.",
+    "explanation": "Mỏ vịt có vai trò giữ đè kim hỏa. Khi chốt an toàn đã rút và mỏ vịt bung ra, lò xo kim hỏa bung mạnh, đập vào hạt lửa phát lửa đốt cháy thuốc giữ chậm."
+  },
+  {
+    "question": "Khi có thông báo dịch bệnh truyền nhiễm nguy hiểm nhóm A bùng phát tại địa phương, biện pháp cách ly y tế có vai trò gì?",
+    "options": [
+      "Khoanh vùng, ngăn chặn nguồn lây lan mầm bệnh từ người mắc bệnh sang người lành trong cộng đồng.",
+      "Để bắt buộc tất cả người dân phải đóng tiền phạt vi phạm vệ sinh.",
+      "Để bệnh nhân tự chữa khỏi bệnh mà không cần dùng đến thuốc tây.",
+      "Để các cơ sở y tế tập trung bán thuốc khử trùng tăng doanh thu."
+    ],
+    "answer": "Khoanh vùng, ngăn chặn nguồn lây lan mầm bệnh từ người mắc bệnh sang người lành trong cộng đồng.",
+    "explanation": "Dịch bệnh nhóm A lây lan rất nhanh và tỷ lệ tử vong cao. Cách ly y tế triệt tiêu chuỗi tiếp xúc, cắt đứt con đường truyền nhiễm của virus/vi khuẩn."
+  },
+  {
+    "question": "Tại sao trong chiến tranh phá hoại bằng không quân, địch thường sử dụng 'Bom xuyên' chống lại các mục tiêu công trình kiên cố?",
+    "options": [
+      "Vì loại bom này có vỏ dày bằng thép cường độ cao, động năng lớn để đâm sâu vào bê tông, hầm ngầm rồi mới kích nổ phá hủy kết cấu từ bên trong.",
+      "Vì bom xuyên có giá thành sản xuất rẻ hơn tất cả các loại bom thông thường khác.",
+      "Vì bom xuyên khi nổ không phát ra bất kỳ tiếng động hay khói bụi nào.",
+      "Vì bom xuyên chỉ đi tìm tiêu diệt các loại xe tăng di động ngoài mặt đường."
+    ],
+    "answer": "Vì loại bom này có vỏ dày bằng thép cường độ cao, động năng lớn để đâm sâu vào bê tông, hầm ngầm rồi mới kích nổ phá hủy kết cấu từ bên trong.",
+    "explanation": "Bom xuyên tận dụng vận tốc rơi tự do lớn và đầu vỏ kiên cố để xuyên qua nhiều lớp đất đá, bê tông cốt thép nhằm triệt hạ hệ thống hầm ngầm chỉ huy sâu dưới lòng đất."
+  },
+  {
+    "question": "Trường hợp nào sau đây không được phép sử dụng biện pháp băng garo để cầm máu?",
+    "options": [
+      "Vết thương chảy máu mao mạch thông thường hoặc chảy máu rỉ rả ở vết trầy xước.",
+      "Vết thương đứt lìa hẳn một cánh tay do tai nạn.",
+      "Vết thương động mạch ở đùi máu phun thành tia mạnh.",
+      "Vết thương dập nát hoàn toàn vùng cẳng chân không thể băng ép."
+    ],
+    "answer": "Vết thương chảy máu mao mạch thông thường hoặc chảy máu rỉ rả ở vết trầy xước.",
+    "explanation": "Garo làm ngắt dòng máu hoàn toàn dẫn đến nguy cơ hoại tử chi nếu để lâu. Chỉ dùng garo khi các biện pháp cầm máu khác thất bại trước vết thương đứt động mạch lớn."
+  },
+  {
+    "question": "Tại sao khi sơ cứu người bị ngất (bất tỉnh nhân sự nhưng còn thở), chúng ta cần đặt nạn nhân nằm ngửa đầu hơi thấp và nới lỏng quần áo?",
+    "options": [
+      "Để máu dễ dàng lưu thông tuần hoàn lên não và tạo không gian cho lồng ngực co giãn hô hấp dễ dàng.",
+      "Để người xung quanh dễ dàng quan sát trang phục của nạn nhân.",
+      "Để tránh việc nạn nhân thức dậy bất ngờ bỏ chạy.",
+      "Để hạ thấp thân nhiệt của nạn nhân xuống mức đóng băng tạm thời."
+    ],
+    "answer": "Để máu dễ dàng lưu thông tuần hoàn lên não và tạo không gian cho lồng ngực co giãn hô hấp dễ dàng.",
+    "explanation": "Ngất thường do thiếu máu não tạm thời. Nằm đầu thấp giúp máu từ tim về não tốt hơn, nới lỏng cổ áo, thắt lưng giải phóng hệ hô hấp bị chèn ép."
+  },
+  {
+    "question": "Khi cõng nạn nhân chiến thương bằng phương pháp một người cõng, điều kiện bắt buộc đối với tình trạng của nạn nhân là gì?",
+    "options": [
+      "Nạn nhân phải còn tỉnh táo hoặc ít nhất tỉnh táo để có thể tự dùng hai tay ôm cổ người cõng.",
+      "Nạn nhân phải gãy cả hai chân hoàn toàn không cử động được.",
+      "Nạn nhân đã ngừng tim ngừng thở hoàn toàn.",
+      "Nạn nhân có trọng lượng cơ thể lớn gấp đôi người cõng."
+    ],
+    "answer": "Nạn nhân phải còn tỉnh táo hoặc ít nhất tỉnh táo để có thể tự dùng hai tay ôm cổ người cõng.",
+    "explanation": "Phương pháp cõng yêu cầu người bị nạn có sự hợp tác cơ năng (ôm cổ, bám vai). Nếu nạn nhân hôn mê sâu, cơ thể bị nhẽo, người cõng sẽ không thể giữ thăng bằng di chuyển an toàn."
+  },
+  {
+    "question": "Tiêu chuẩn về chiều cao, cân nặng tối thiểu đối với nam thanh niên đăng ký thi tuyển vào các học viện sĩ quan chỉ huy chiến đấu trong quân đội thường nghiêm ngặt hơn các ngành kỹ thuật vì lý do gì?",
+    "options": [
+      "Do đặc thù công tác chỉ huy chiến đấu đòi hỏi thể lực dồi dào, khả năng chịu đựng gian khổ, hành quân mang vác nặng trong điều kiện khắc nghiệt.",
+      "Do các trường chỉ huy không có đủ đồng phục kích thước nhỏ cho học viên.",
+      "Do người cao lớn thì học tập lý thuyết quân sự nhanh hơn người thấp bé.",
+      "Do bộ đội chỉ huy chiến đấu không cần sử dụng đến máy tính hay công nghệ số."
+    ],
+    "answer": "Do đặc thù công tác chỉ huy chiến đấu đòi hỏi thể lực dồi dào, khả năng chịu đựng gian khổ, hành quân mang vác nặng trong điều kiện khắc nghiệt.",
+    "explanation": "Sĩ quan chỉ huy trực tiếp tác chiến ngoài thao trường, môi trường vô cùng khắc nghiệt đòi hỏi tố chất thể lực hoàn hảo để dẫn dắt đơn vị vượt qua mọi thử thách."
+  },
+  {
+    "question": "Nếu một thí sinh bị cận thị nặng (trên 3 điốp) thì sẽ không đủ điều kiện sức khỏe vào nhóm trường nào sau đây thuộc lực lượng vũ trang?",
+    "options": [
+      "Các trường Học viện, Đại học thuộc khối ngành Công an nhân dân và các ngành Chỉ huy tham mưu Quân đội.",
+      "Các trường Đại học dân sự đào tạo kỹ sư liên kết.",
+      "Các ngành nghiên cứu lý luận văn hóa nghệ thuật quân đội.",
+      "Khối các trường trung cấp nghề ngoài quân đội."
+    ],
+    "answer": "Các trường Học viện, Đại học thuộc khối ngành Công an nhân dân và các ngành Chỉ huy tham mưu Quân đội.",
+    "explanation": "Khối ngành chỉ huy tác chiến quân đội và toàn bộ các trường công an yêu cầu thị lực rất cao (mắt không kính đạt chuẩn quy định), cận thị nặng sẽ bị loại từ vòng sơ tuyển thể lực."
+  },
+  {
+    "question": "Trong bài tập bắn súng tiểu liên AK mục tiêu bia số 4 cố định ban ngày, bạn An đạt kết quả bắn 3 phát đạn có cụm lỗ đạn chụm lại rất đẹp nhưng đều nằm lệch hẳn về góc dưới bên phải của bia (vùng điểm 5, điểm 6). Em hãy phân tích nguyên nhân lỗi kỹ thuật của An.",
+    "options": [
+      "An giữ đường ngắm cơ bản tốt ổn định nhưng chọn sai điểm ngắm trên bia hoặc thước ngắm bị lệch, hoặc lúc bóp cò An có xu hướng ghì báng súng chúi xuống phải.",
+      "Súng của An bị hỏng hoàn toàn nòng súng nên đạn không thể bay thẳng.",
+      "Do gió tự nhiên thổi quá mạnh ngược chiều bay của viên đạn.",
+      "An đã quên không lắp hộp tiếp đạn vào súng khi thực hiện bắn."
+    ],
+    "answer": "An giữ đường ngắm cơ bản tốt ổn định nhưng chọn sai điểm ngắm trên bia hoặc thước ngắm bị lệch, hoặc lúc bóp cò An có xu hướng ghì báng súng chúi xuống phải.",
+    "explanation": "Lỗ đạn chụm chứng tỏ động tác giữ súng và bóp cò của An rất đều (không bị run). Việc cụm đạn lệch góc chứng tỏ đường ngắm cơ bản của An bị hướng sai lệch cố định ngay từ đầu so với tâm bia chuẩn."
+  },
+  {
+    "question": "Một người chiến sĩ chuẩn bị ném lựu đạn LĐ-01 vào công sự địch. Sau khi rút chốt an toàn, anh phát hiện thấy mục tiêu bất ngờ thay đổi di chuyển ra xa ngoài tầm ném hiệu quả. Người chiến sĩ có nên tra lại chốt an toàn để cất lựu đạn đi hay không? Tại sao?",
+    "options": [
+      "Được phép tra lại chốt an toàn cẩn thận nếu mỏ vịt chưa bị bung ra khỏi thân lựu đạn, giữ chặt mỏ vịt cố định và cài lại chốt bẻ cong đuôi chốt.",
+      "Không được tra lại, bắt buộc phải ném ngay ra bãi trống vì lựu đạn đã rút chốt là tự động nổ sau 4 giây bất kể mỏ vịt có bung hay không.",
+      "Ném ngay lựu đạn xuống chân rồi chạy đi chỗ khác trốn.",
+      "Phải ngâm ngay quả lựu đạn vào xô nước lạnh để thuốc súng bị ướt không nổ."
+    ],
+    "answer": "Được phép tra lại chốt an toàn cẩn thận nếu mỏ vịt chưa bị bung ra khỏi thân lựu đạn, giữ chặt mỏ vịt cố định và cài lại chốt bẻ cong đuôi chốt.",
+    "explanation": "Lựu đạn giữ chậm chỉ kích hoạt khi mỏ vịt bung ra giải phóng kim hỏa. Nếu tay người ném vẫn nắm chặt ép mỏ vịt vào thân súng, bẫy cơ học chưa kích hoạt, việc cài lại chốt bảo hiểm đúng kỹ thuật vẫn bảo đảm an toàn."
+  },
+  {
+    "question": "Gia đình bạn Nam ở vùng ven biển miền Trung nhận được tin báo bão khẩn cấp cấp độ 12 sắp đổ bộ trực tiếp vào ban đêm kèm theo triều cường dâng cao. Nhà Nam là nhà cấp 4 lợp mái tôn cũ. Hành động ứng phó nào của gia đình Nam là thông minh và an toàn nhất?",
+    "options": [
+      "Chèn chống mái nhà bằng bao cát, ngắt nguồn điện, chủ động di chuyển toàn bộ gia đình sang khu nhà kiên cố cao tầng hoặc trung tâm tránh bão của xã trước khi bão đổ bộ.",
+      "Cả nhà ở lại bên trong, leo lên gác mái tôn ngồi ôm nhau để canh giữ của cải tài sản.",
+      "Mở toang tất cả các cửa chính và cửa sổ để gió bão thổi xuyên qua nhà cho đỡ sập.",
+      "Thuê thuyền bè ra khơi ngoài đại dương để tránh bão vì ngoài biển không có cây đổ."
+    ],
+    "answer": "Chèn chống mái nhà bằng bao cát, ngắt nguồn điện, chủ động di chuyển toàn bộ gia đình sang khu nhà kiên cố cao tầng hoặc trung tâm tránh bão của xã trước khi bão đổ bộ.",
+    "explanation": "Bão cấp 12 có sức tàn phá cực lớn dễ bốc dỡ mái tôn nhà cấp 4 gây sập đổ đổ nát. Triều dâng gây ngập úng nguy hiểm. Di tản đến nơi kiên cố trước khi bão đổ bộ là nguyên tắc vàng bảo toàn tính mạng."
+  },
+  {
+    "question": "Trong lúc dọn dẹp phế liệu sau vườn nhà, anh Tuấn phát hiện một quả đạn cối rỉ sét chôn sâu dưới đất. Anh Tuấn gọi điện cho một người thợ cưa đến định cưa đôi quả đạn lấy phần vỏ đồng đi bán, phần thuốc súng đem đốt. Nếu là người chứng kiến, em sẽ dùng kiến thức nào để ngăn cản hành vi nguy hiểm này?",
+    "options": [
+      "Giải thích rằng thuốc nổ và ngòi nổ bên trong đạn cối lâu năm cực kỳ nhạy nổ do biến đổi hóa học, việc cưa ma sát tạo nhiệt sẽ làm kích nổ khối đạn ngay lập tức gây chết người tại chỗ.",
+      "Bảo anh Tuấn không nên cưa vì vỏ đạn cối làm bằng sắt chứ không phải bằng đồng nên không có giá trị kinh tế.",
+      "Khuyên anh Tuấn nên mang quả đạn thả xuống giếng nước sâu để đạn tự phân hủy sinh học.",
+      "Kêu gọi mọi người xung quanh đến đứng xem xem cưa bom đạn có phát ra tia lửa hay không."
+    ],
+    "answer": "Giải thích rằng thuốc nổ và ngòi nổ bên trong đạn cối lâu năm cực kỳ nhạy nổ do biến đổi hóa học, việc cưa ma sát tạo nhiệt sẽ làm kích nổ khối đạn ngay lập tức gây chết người tại chỗ.",
+    "explanation": "Cưa bom đạn phế liệu là nguyên nhân hàng đầu gây ra các vụ tai nạn nổ thảm khốc thời bình. Nhiệt lượng và lực ma sát cơ học khi cưa tác động vào kíp nổ hoặc thuốc phóng biến chất gây nổ áp suất cực lớn."
+  },
+  {
+    "question": "Tại một công trường xây dựng, một công nhân bị thanh sắt từ trên cao rơi trúng cẳng chân làm gãy xương. Khi tiếp cận hiện trường, chân nạn nhân bị biến dạng biến đổi trục, có một đầu xương gãy đâm rách da chồi ra ngoài và máu đỏ tươi đang phun mạnh thành tia. Quy trình sơ cứu đúng thứ tự ưu tiên là gì?",
+    "options": [
+      "Gọi cấp cứu 115 -> Tiến hành ấn động mạch đùi và đặt băng garo cầm máu ngay lập tức -> Rửa và băng vô khuẩn vết thương hở -> Dùng nẹp cố định bất động xương gãy -> Chuyển thương.",
+      "Cố định xương gãy bằng nẹp trước -> Băng bó vết thương sau -> Cầm máu cuối cùng khi về đến bệnh viện.",
+      "Dùng tay đẩy mạnh đầu xương chồi vào lại bên trong thịt -> Băng chặt -> Cõng chạy ngay đi tìm bác sĩ.",
+      "Cho nạn nhân uống thuốc giảm đau -> Đứng dậy tập đi thử xem chân còn cử động cơ học được không."
+    ],
+    "answer": "Gọi cấp cứu 115 -> Tiến hành ấn động mạch đùi và đặt băng garo cầm máu ngay lập tức -> Rửa và băng vô khuẩn vết thương hở -> Dùng nẹp cố định bất động xương gãy -> Chuyển thương.",
+    "explanation": "Máu phun thành tia chỉ ra tổn thương động mạch lớn gây chết người trong vài phút, do đó cầm máu là ưu tiên số một (tối thượng). Tiếp theo bảo vệ vết thương tránh nhiễm trùng và cuối cùng là cố định xương để tránh đầu gãy xê dịch làm đứt thêm mạch máu thần kinh."
+  },
+  {
+    "question": "Tại sao trong cấu tạo súng tiểu liên AK, rãnh khương tuyến (đường xoắn nội nòng) trong lòng nòng súng lại có ý nghĩa quyết định đến độ chính xác và tầm bắn xa của đầu đạn?",
+    "options": [
+      "Vì rãnh khương tuyến làm cho đầu đạn xoay tròn quanh trục của nó với tốc độ cực cao khi bay, tạo ra mô-men động lượng chống lại lực cản không khí, giữ cho đầu đạn bay thẳng ổn định quỹ đạo.",
+      "Vì rãnh khương tuyến giúp làm mát nòng súng nhanh hơn khi bắn liên thanh kéo dài.",
+      "Vì rãnh khương tuyến làm giảm tiếng nổ phát ra từ buồng đốt khí thuốc phóng.",
+      "Vì rãnh khương tuyến giúp bôi trơn dầu mỡ vào đầu đạn trước khi rời súng."
+    ],
+    "answer": "Vì rãnh khương tuyến làm cho đầu đạn xoay tròn quanh trục của nó với tốc độ cực cao khi bay, tạo ra mô-men động lượng chống lại lực cản không khí, giữ cho đầu đạn bay thẳng ổn định quỹ đạo.",
+    "explanation": "Nguyên lý con quay vật lý: Một vật thể xoay tròn tốc độ cao quanh trục sẽ giữ được hướng trục cố định trong không gian. Nếu nòng súng trơn nhẵn không có khương tuyến, đầu đạn sẽ bị nhào lộn, bay lệch hướng ngay khi gặp gió."
+  },
+  {
+    "question": "Trong chiến tranh hiện đại, khi địch sử dụng 'Bom thông minh' (bom tìm mục tiêu tự dẫn bằng tia laser hoặc định vị vệ tinh), tại sao các biện pháp nghi binh, làm mù bằng màn khói, hoặc tạo nguồn nhiệt giả, phản xạ radar nhân tạo lại trở thành nghệ thuật phòng tránh hiệu quả?",
+    "options": [
+      "Vì khói và nguồn nhiệt giả làm nhiễu loạn, đánh lừa hệ thống cảm biến quang học hoặc đầu dò hồng ngoại của bom, khiến bom mất phương hướng và đánh lệch khỏi mục tiêu thực tế.",
+      "Vì màn khói làm cho quả bom bị ngạt oxy dẫn đến ngòi nổ bị tắt ngấm không nổ.",
+      "Vì bom thông minh rất sợ môi trường không khí có màu sắc lạ nên sẽ tự quay đầu bay ngược lại.",
+      "Vì nguồn nhiệt giả có thể hút năng lượng của bom làm quả bom tự tan chảy trên không trung."
+    ],
+    "answer": "Vì khói và nguồn nhiệt giả làm nhiễu loạn, đánh lừa hệ thống cảm biến quang học hoặc đầu dò hồng ngoại của bom, khiến bom mất phương hướng và đánh lệch khỏi mục tiêu thực tế.",
+    "explanation": "Bom dẫn đường thông minh phụ thuộc vào việc khóa mục tiêu bằng tín hiệu (laser, hồng ngoại, sóng radar). Các biện pháp nghi binh làm đứt gãy chuỗi tín hiệu này, biến bom thông minh trở thành bom ngu rơi tự do sai lệch tọa độ."
+  },
+  {
+    "question": "Bạn Minh là một học sinh có năng khiếu thể thao và ước mơ trở thành sĩ quan Đặc công hoặc Trinh sát quân đội. Tuy nhiên, Minh có một vết xăm hình nghệ thuật kích thước lớn ở bắp tay bên phải do một lần nông nổi trước đây. Việc này ảnh hưởng như thế nào đến ước mơ thi vào trường quân đội của Minh?",
+    "options": [
+      "Minh sẽ không vượt qua vòng sơ tuyển chính trị và tác phong diện mạo, vì quy định tuyển sinh quân sự nghiêm cấm công dân có hình xăm, chữ xăm phản cảm, kỳ dị hoặc hình xăm lộ trên cơ thể.",
+      "Không ảnh hưởng gì vì quân đội chỉ kiểm tra điểm số văn hóa môn Toán, Lý, Hóa.",
+      "Minh vẫn được nhận bình thường và được ưu tiên xếp vào nhóm ngành thiết kế đồ họa quân sự.",
+      "Chỉ cần Minh hứa vào trường sẽ lấy băng gạc che vết xăm lại là được chấp thuận."
+    ],
+    "answer": "Minh sẽ không vượt qua vòng sơ tuyển chính trị và tác phong diện mạo, vì quy định tuyển sinh quân sự nghiêm cấm công dân có hình xăm, chữ xăm phản cảm, kỳ dị hoặc hình xăm lộ trên cơ thể.",
+    "explanation": "Thông tư quy định về tiêu chuẩn tuyển sinh quân sự nêu rõ thí sinh trên cơ thể có hình xăm, chữ xăm kích thước lớn, lộ rõ ở vùng tay, chân, cổ... không bảo đảm tác phong trang nghiêm của quân nhân cách mạng nên không được xét tuyển."
+  },
+  {
+    "question": "Tại hiện trường một vụ tai nạn sập nhà, em phát hiện một nạn nhân đang bị một khối bê tông đè chặt lên ngang thắt lưng, tỉnh táo nhưng kêu đau dữ dội. Một nhóm người xung quanh định cùng nhau ghé vai nhấc bổng khối bê tông lên và kéo mạnh chân nạn nhân ra ngay lập tức. Dựa trên kiến thức y học quốc phòng, em sẽ can thiệp như thế nào?",
+    "options": [
+      "Yêu cầu mọi người dừng lại không kéo giật chân nạn nhân; giữ nguyên hiện trường, động viên nạn nhân và chờ lực lượng cứu hộ chuyên nghiệp 114 có thiết bị nâng đỡ chống sập cố định, vì việc giải phóng chèn ép đột ngột có thể gây ra 'hội chứng đè ép cấp tính' dẫn đến suy thận, sốc độc tố tử vong ngay lập tức.",
+      "Cổ vũ mọi người kéo thật mạnh, càng nhanh càng tốt để giải phóng nạn nhân.",
+      "Bảo mọi người lấy búa tạ đập vỡ khối bê tông ngay trên người nạn nhân để tán nhỏ ra.",
+      "Khuyên mọi người bỏ đi nơi khác vì người bị bê tông đè chắc chắn không thể cứu sống."
+    ],
+    "answer": "Yêu cầu mọi người dừng lại không kéo giật chân nạn nhân; giữ nguyên hiện trường, động viên nạn nhân và chờ lực lượng cứu hộ chuyên nghiệp 114 có thiết bị nâng đỡ chống sập cố định, vì việc giải phóng chèn ép đột ngột có thể gây ra 'hội chứng đè ép cấp tính' dẫn đến suy thận, sốc độc tố tử vong ngay lập tức.",
+    "explanation": "Khi cơ cơ thể bị chèn ép lâu ngày, các mô cơ bị hủy hoại giải phóng ra lượng lớn độc tố (myoglobin, kali). Nếu nhấc vật đè ra đột ngột không có sự can thiệp thuốc y tế chặn trước, dòng độc tố này ùa về tim, thận gây suy tạng và ngừng tim cấp."
+  },
+  {
+    "question": "Trong bài thực hành ném lựu đạn bài 1 trúng đích, bạn Long thực hiện tư thế đứng ném rất đúng kỹ thuật, lực ném rất mạnh nhưng hướng bay của lựu đạn luôn bị bay bổng vọt lên quá cao trên không trung rồi rơi xuống ngắn hơn cự ly đích ngắm. Sai lầm về thời cơ buông lựu đạn của Long là gì?",
+    "options": [
+      "Long đã buông lựu đạn ra khỏi tay quá sớm trước khi cánh tay đạt đến góc giải phóng tối ưu (chưa vung hết cánh tay về phía trước).",
+      "Long đã giữ lựu đạn quá muộn khiến tay kéo quả lựu đạn chúi xuống mặt đất.",
+      "Long đã chọn góc ném quá thấp sát mặt đất (góc 10 độ).",
+      "Do Long dùng lực bóp chốt an toàn quá chặt làm kẹt cơ học quả lựu đạn."
+    ],
+    "answer": "Long đã buông lựu đạn ra khỏi tay quá sớm trước khi cánh tay đạt đến góc giải phóng tối ưu (chưa vung hết cánh tay về phía trước).",
+    "explanation": "Trong vật lý ném vật, góc ném tối ưu để đạt tầm xa là khoảng 40-45 độ. Nếu buông lựu đạn quá sớm khi tay đang vung hướng lên trên, quỹ đạo sẽ bị biến thành đường parabol đứng (bay cao nhưng không bay xa), lựu đạn mất động năng tiến về trước."
+  }
+]
+
+

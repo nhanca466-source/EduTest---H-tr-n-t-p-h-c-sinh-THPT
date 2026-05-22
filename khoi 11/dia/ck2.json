@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Đông Nam Á là cầu nối giữa hai đại dương nào sau đây?",
+    "options": [
+      "Ấn Độ Dương và Đại Tây Dương",
+      "Thái Bình Dương và Đại Tây Dương",
+      "Ấn Độ Dương và Thái Bình Dương",
+      "Bắc Băng Dương và Đại Tây Dương"
+    ],
+    "answer": "Ấn Độ Dương và Thái Bình Dương",
+    "explanation": "Đông Nam Á nằm ở ngã tư đường giao thông quốc tế, là cầu nối giữa lục địa Á - Âu với lục địa Ô-xtrây-li-a và giữa Ấn Độ Dương với Thái Bình Dương."
+  },
+  {
+    "question": "Hầu hết các quốc gia Đông Nam Á biển đảo có đặc điểm địa hình nổi bật nào?",
+    "options": [
+      "Nhiều đồng bằng phù sa rộng lớn",
+      "Nhiều đồi núi và núi lửa, thường xuyên bị động đất",
+      "Bị chia cắt bởi các dãy núi lớn chạy hướng bắc nam",
+      "Bề mặt chủ yếu là các cao nguyên cổ rộng lớn"
+    ],
+    "answer": "Nhiều đồi núi và núi lửa, thường xuyên bị động đất",
+    "explanation": "Đông Nam Á biển đảo nằm trong khu vực không ổn định của vỏ Trái Đất (vành đai sinh khoáng, vành đai núi lửa Thái Bình Dương) nên có nhiều đồi núi, núi lửa và thường xảy ra động đất."
+  },
+  {
+    "question": "Quốc gia nào sau đây thuộc khu vực Đông Nam Á lục địa?",
+    "options": [
+      "In-đô-nê-xi-a",
+      "Phi-líp-pin",
+      "Mi-an-ma",
+      "Xin-ga-po"
+    ],
+    "answer": "Mi-an-ma",
+    "explanation": "Mi-an-ma nằm trên bán đảo Trung Ấn, thuộc bộ phận Đông Nam Á lục địa. Các nước còn lại thuộc Đông Nam Á biển đảo."
+  },
+  {
+    "question": "Loại cây lương thực truyền thống và chủ yếu của khu vực Đông Nam Á là cây nào?",
+    "options": [
+      "Lúa mì",
+      "Lúa gạo",
+      "Ngô",
+      "Mạch"
+    ],
+    "answer": "Lúa gạo",
+    "explanation": "Nhờ có khí hậu nhiệt đới ẩm gió mùa và nguồn nước dồi dào, lúa gạo là cây lương thực truyền thống và quan trọng nhất ở Đông Nam Á."
+  },
+  {
+    "question": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập vào năm nào?",
+    "options": [
+      "Năm 1967",
+      "Năm 1975",
+      "Năm 1995",
+      "Năm 2000"
+    ],
+    "answer": "Năm 1967",
+    "explanation": "ASEAN được thành lập ngày 8 tháng 8 năm 1967 tại Băng-cốc, Thái Lan."
+  },
+  {
+    "question": "Quốc gia nào trong khu vực Đông Nam Á chưa gia nhập chính thức vào tổ chức ASEAN tính đến nay?",
+    "options": [
+      "Bru-nây",
+      "Lào",
+      "Đông Ti-mo",
+      "Mi-an-ma"
+    ],
+    "answer": "Đông Ti-mo",
+    "explanation": "Đông Ti-mo hiện tại đang giữ vai trò là quan sát viên và đang trong lộ trình chuẩn bị các thủ tục để trở thành thành viên chính thức."
+  },
+  {
+    "question": "Khoáng sản có trữ lượng lớn nhất và giá trị xuất khẩu cao của khu vực Tây Nam Á là gì?",
+    "options": [
+      "Than đá",
+      "Dầu mỏ",
+      "Sắt",
+      "Đồng"
+    ],
+    "answer": "Dầu mỏ",
+    "explanation": "Tây Nam Á được mệnh danh là bồn dầu của thế giới, chiếm hơn một nửa trữ lượng dầu mỏ đã được xác minh toàn cầu."
+  },
+  {
+    "question": "Phần lớn lãnh thổ của khu vực Tây Nam Á có kiểu khí hậu nào sau đây?",
+    "options": [
+      "Nhiệt đới ẩm gió mùa",
+      "Cận nhiệt địa trung hải ẩm",
+      "Nhiệt đới khô và cận nhiệt lục địa khô",
+      "Ôn đới lục địa nửa khô hạn"
+    ],
+    "answer": "Nhiệt đới khô và cận nhiệt lục địa khô",
+    "explanation": "Do nằm trong vùng áp cao cận chí tuyến và có các dãy núi bao bọc ngăn gió biển, phần lớn Tây Nam Á có khí hậu khô hạn, hoang mạc và bán hoang mạc phát triển."
+  },
+  {
+    "question": "Phần phía tây kinh tuyến 100 độ Tây của Hoa Kỳ có địa hình chủ yếu là gì?",
+    "options": [
+      "Các đồng bằng ven biển rộng lớn",
+      "Hệ thống núi trẻ Cooc-đi-e đồ sộ",
+      "Đồng bằng Trung tâm rộng lớn",
+      "Hệ thống núi già A-pa-lat"
+    ],
+    "answer": "Hệ thống núi trẻ Cooc-đi-e đồ sộ",
+    "explanation": "Vùng phía Tây Hoa Kỳ bị chiếm giữ bởi hệ thống núi trẻ Cooc-đi-e với các dãy núi cao chạy song song xen kẽ các bồn địa và cao nguyên."
+  },
+  {
+    "question": "Nền kinh tế Hoa Kỳ có đặc điểm nổi bật nào sau đây?",
+    "options": [
+      "Là nền kinh tế đứng đầu thế giới về quy mô GDP",
+      "Có tỉ trọng ngành nông nghiệp lớn hơn dịch vụ",
+      "Phụ thuộc hoàn toàn vào nguồn lương thực nhập khẩu",
+      "Chỉ tập trung phát triển các ngành công nghiệp truyền thống"
+    ],
+    "answer": "Là nền kinh tế đứng đầu thế giới về quy mô GDP",
+    "explanation": "Từ nhiều thập kỷ qua, Hoa Kỳ duy trì vị thế là nền kinh tế có quy mô GDP lớn nhất thế giới với cơ cấu kinh tế hiện đại."
+  },
+  {
+    "question": "Trung Quốc là quốc gia thuộc khu vực nào của châu Á?",
+    "options": [
+      "Đông Á",
+      "Nam Á",
+      "Tây Á",
+      "Trung Á"
+    ],
+    "answer": "Đông Á",
+    "explanation": "Trung Quốc nằm ở phía đông của châu Á, có diện tích lãnh thổ lớn nhất khu vực Đông Á."
+  },
+  {
+    "question": "Địa hình miền Đông Trung Quốc có đặc điểm nào sau đây?",
+    "options": [
+      "Gồm nhiều sơn nguyên và bồn địa lớn",
+      "Chủ yếu là các đồng bằng châu thổ rộng lớn",
+      "Có nhiều dãy núi cao đồ sộ bậc nhất thế giới",
+      "Hoang mạc và bán hoang mạc chiếm diện tích lớn"
+    ],
+    "answer": "Chủ yếu là các đồng bằng châu thổ rộng lớn",
+    "explanation": "Miền Đông Trung Quốc là vùng đất thấp, có nhiều đồng bằng rộng lớn, đất đai màu mỡ do phù sa sông bồi đắp như đồng bằng Hoa Bắc, Hoa Trung."
+  },
+  {
+    "question": "Quần đảo Nhật Bản nằm ở phía nào của Thái Bình Dương?",
+    "options": [
+      "Phía Đông",
+      "Phía Tây",
+      "Phía Nam",
+      "Phía Bắc"
+    ],
+    "answer": "Phía Tây",
+    "explanation": "Nhật Bản là một quốc gia quần đảo nằm ở phía tây của Thái Bình Dương, ngoài khơi bờ biển phía đông của lục địa Á - Âu."
+  },
+  {
+    "question": "Đảo nào có diện tích lớn nhất trong bốn đảo chính của Nhật Bản?",
+    "options": [
+      "Hô-cai-đô",
+      "Hôn-shu",
+      "Xi-cô-cư",
+      "Cửu Long"
+    ],
+    "answer": "Hôn-shu",
+    "explanation": "Đảo Hôn-shu là đảo lớn nhất, tập trung dân cư đông đúc nhất và là trung tâm kinh tế - chính trị của Nhật Bản."
+  },
+  {
+    "question": "Liên bang Nga có diện tích lãnh thổ đứng thứ mấy trên thế giới?",
+    "options": [
+      "Thứ nhất",
+      "Thứ hai",
+      "Thứ ba",
+      "Thứ tư"
+    ],
+    "answer": "Thứ nhất",
+    "explanation": "Với diện tích hơn 17 triệu km vuông, Liên bang Nga là quốc gia có diện tích lớn nhất thế giới, trải dài trên cả hai châu lục là châu Á và châu Âu."
+  },
+  {
+    "question": "Ranh giới tự nhiên phân chia phần phía Tây và phần phía Đông của Liên bang Nga là con sông nào?",
+    "options": [
+      "Sông Ô-bi",
+      "Sông Vôn-ga",
+      "Sông Ê-nít-xây",
+      "Sông Lê-na"
+    ],
+    "answer": "Sông Ê-nít-xây",
+    "explanation": "Sông Ê-nít-xây chảy từ nam lên bắc, là ranh giới tự nhiên chia lãnh thổ Nga thành hai phần: phía Tây chủ yếu là đồng bằng, phía Đông chủ yếu là núi và cao nguyên."
+  },
+  {
+    "question": "Quốc gia Ô-xtrây-li-a nằm hoàn toàn ở bán cầu nào?",
+    "options": [
+      "Bán cầu Bắc",
+      "Bán cầu Nam",
+      "Bán cầu Tây",
+      "Không thuộc bán cầu nào"
+    ],
+    "answer": "Bán cầu Nam",
+    "explanation": "Ô-xtrây-li-a nằm ở phía nam xích đạo, thuộc bán cầu Nam và được bao quanh bởi các đại dương lớn."
+  },
+  {
+    "question": "Loài động vật nào sau đây là biểu tượng độc đáo và đặc hữu của quốc gia Ô-xtrây-li-a?",
+    "options": [
+      "Gấu Trúc",
+      "Kang-gu-ru",
+      "Chim Cánh Cụt",
+      "Voi châu Phi"
+    ],
+    "answer": "Kang-gu-ru",
+    "explanation": "Kang-gu-ru (chuột túi) là loài thú có túi đặc hữu và là biểu tượng quốc gia xuất hiện trên quốc huy của Ô-xtrây-li-a."
+  },
+  {
+    "question": "Ngành kinh tế nào chiếm tỉ trọng cao nhất trong cơ cấu kinh tế của đa số các nước phát triển?",
+    "options": [
+      "Nông nghiệp",
+      "Công nghiệp",
+      "Dịch vụ",
+      "Lâm nghiệp"
+    ],
+    "answer": "Dịch vụ",
+    "explanation": "Các nước có nền kinh tế phát triển đều có cơ cấu kinh tế hiện đại với ngành dịch vụ chiếm tỷ trọng rất cao trong GDP (thường trên 70%)."
+  },
+  {
+    "question": "Sông Mê Công chảy qua quốc gia nào sau đây trước khi đổ vào biển Đông tại Việt Nam?",
+    "options": [
+      "Cam-pu-chia",
+      "Phi-líp-pin",
+      "In-đô-nê-xi-a",
+      "Ma-lay-xi-a"
+    ],
+    "answer": "Cam-pu-chia",
+    "explanation": "Sông Mê Công chảy qua Trung Quốc, Mi-an-ma, Lào, Thái Lan, Cam-pu-chia rồi mới vào Việt Nam và đổ ra biển Đông."
+  },
+  {
+    "question": "Khí hậu Đông Nam Á lục địa khác với Đông Nam Á biển đảo chủ yếu ở đặc điểm nào sau đây?",
+    "options": [
+      "Có mùa đông lạnh giá kéo dài",
+      "Có một mùa khô phân hóa rõ rệt",
+      "Mưa đều quanh năm không có mùa khô",
+      "Lượng mưa trung bình năm cực kỳ thấp"
+    ],
+    "answer": "Có một mùa khô phân hóa rõ rệt",
+    "explanation": "Đông Nam Á lục địa có khí hậu nhiệt đới gió mùa, chịu ảnh hưởng mạnh của gió mùa nên có sự phân hóa mùa mưa và mùa khô rõ rệt. Trong khi đó, Đông Nam Á biển đảo mang tính chất hải lưu xích đạo, mưa nhiều quanh năm."
+  },
+  {
+    "question": "Tại sao các nước Đông Nam Á có điều kiện thuận lợi để phát triển ngành nuôi trồng và đánh bắt hải sản?",
+    "options": [
+      "Có mạng lưới sông ngòi dày đặc ở đất liền",
+      "Có vùng biển rộng lớn, ấm và nhiều ngư trường",
+      "Có nhiều loài thú quý hiếm trong rừng sâu",
+      "Có trình độ kỹ thuật đánh bắt đứng đầu thế giới"
+    ],
+    "answer": "Có vùng biển rộng lớn, ấm và nhiều ngư trường",
+    "explanation": "Hầu hết các nước Đông Nam Á (trừ Lào) đều giáp biển, vùng biển ấm, nông, giàu nguồn lợi thủy hải sản, có nhiều bãi tôm bãi cá tạo điều kiện phát triển thủy sản biển."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng về đặc điểm dân cư của khu vực Đông Nam Á?",
+    "options": [
+      "Quy mô dân số nhỏ, mật độ dân số thấp",
+      "Cơ cấu dân số già, thiếu hụt nguồn lao động",
+      "Dân số đông, cơ cấu dân số trẻ, lao động dồi dào",
+      "Phân bố dân cư đồng đều giữa miền núi và đồng bằng"
+    ],
+    "answer": "Dân số đông, cơ cấu dân số trẻ, lao động dồi dào",
+    "explanation": "Đông Nam Á là khu vực đông dân, tốc độ tăng trưởng ổn định. Phần lớn các nước có cơ cấu dân số trẻ nên nguồn lao động dự trữ rất lớn."
+  },
+  {
+    "question": "Mục đích chủ yếu của việc thành lập Cộng đồng Kinh tế ASEAN (AEC) là gì?",
+    "options": [
+      "Thành lập một liên minh quân sự chung",
+      "Tạo ra một thị trường và căn cứ sản xuất đơn nhất, tự do lưu chuyển",
+      "Sáp nhập tất cả các quốc gia thành một thể chế chính trị",
+      "Hạn chế giao thương với các quốc gia ngoài khu vực"
+    ],
+    "answer": "Tạo ra một thị trường và căn cứ sản xuất đơn nhất, tự do lưu chuyển",
+    "explanation": "AEC hướng tới việc xây dựng ASEAN thành một thị trường chung và không gian sản xuất đồng nhất, nơi hàng hóa, dịch vụ, đầu tư và lao động lành nghề được tự do di chuyển."
+  },
+  {
+    "question": "Nguyên nhân chính khiến khu vực Tây Nam Á thường xuyên xảy ra các cuộc xung đột xung quanh vấn đề tài nguyên nước là do đâu?",
+    "options": [
+      "Mạng lưới sông ngòi quá dày đặc gây ngập lụt",
+      "Khí hậu khô hạn, nguồn nước ngọt khan hiếm nhưng các sông lớn lại chảy qua nhiều quốc gia",
+      "Công nghệ lọc nước biển của khu vực kém phát triển",
+      "Nhu cầu sử dụng nước cho công nghiệp khai khoáng quá lớn"
+    ],
+    "answer": "Khí hậu khô hạn, nguồn nước ngọt khan hiếm nhưng các sông lớn lại chảy qua nhiều quốc gia",
+    "explanation": "Tây Nam Á có khí hậu hoang mạc khô cằn, thiếu nước ngọt nghiêm trọng. Các con sông lớn như Ti-grơ và Ơ-phrát chảy qua nhiều nước (Thổ Nhĩ Kỳ, Xi-ri, I-rắc) dẫn đến tranh chấp quyền khai thác nguồn nước giữa các quốc gia thượng nguồn và hạ nguồn."
+  },
+  {
+    "question": "Điều kiện tự nhiên nào làm cho vùng trung tâm Hoa Kỳ trở thành vùng sản xuất nông nghiệp hàng đầu thế giới?",
+    "options": [
+      "Địa hình núi cao hiểm trở, nhiều đồng cỏ",
+      "Đồng bằng rộng lớn, đất phù sa và đất đen màu mỡ, nguồn nước dồi dào",
+      "Khí hậu hoang mạc khô hạn giúp hạn chế sâu bệnh",
+      "Hệ thống khoáng sản kim loại màu phong phú"
+    ],
+    "answer": "Đồng bằng rộng lớn, đất phù sa và đất đen màu mỡ, nguồn nước dồi dào",
+    "explanation": "Đồng bằng Trung tâm Hoa Kỳ có diện tích cực kỳ rộng lớn, đất màu mỡ, được cung cấp nước từ hệ thống sông Mi-xi-xi-pi, khí hậu ôn đới thích hợp cho các vành đai nông nghiệp quy mô lớn."
+  },
+  {
+    "question": "Sự khác biệt cơ bản về địa hình giữa miền Tây và miền Đông Trung Quốc là gì?",
+    "options": [
+      "Miền Tây là đồng bằng thấp, miền Đông là núi cao",
+      "Miền Tây chủ yếu là hoang mạc, miền Đông toàn bộ là rừng rậm",
+      "Miền Tây gồm núi cao, sơn nguyên, bồn địa; miền Đông chủ yếu là đồng bằng châu thổ",
+      "Miền Tây giáp biển thuận lợi giao thương, miền Đông bị cô lập bởi núi cao"
+    ],
+    "answer": "Miền Tây gồm núi cao, sơn nguyên, bồn địa; miền Đông chủ yếu là đồng bằng châu thổ",
+    "explanation": "Địa hình Trung Quốc phân hóa rõ rệt từ tây sang đông. Miền Tây là vùng núi trẻ cao, sơn nguyên đồ sộ (Tây Tạng) và các bồn địa lớn. Miền Đông thấp dần, chủ yếu là các đồng bằng lớn hạ lưu sông."
+  },
+  {
+    "question": "Tại sao ngành đánh bắt hải sản lại là ngành kinh tế truyền thống và cực kỳ quan trọng của người dân Nhật Bản?",
+    "options": [
+      "Do diện tích đất canh tác nông nghiệp quá ít và Nhật Bản nằm ở nơi giao nhau của hai dòng hải lưu lớn",
+      "Do người dân Nhật Bản không thích ăn thịt gia súc",
+      "Do vùng biển Nhật Bản không có các thiên tai như bão hay sóng thần",
+      "Do phương tiện đánh bắt thô sơ, chi phí thấp"
+    ],
+    "answer": "Do diện tích đất canh tác nông nghiệp quá ít và Nhật Bản nằm ở nơi giao nhau của hai dòng hải lưu lớn",
+    "explanation": "Nhật Bản có ít đất nông nghiệp nên thực phẩm biển đóng vai trò thiết yếu. Đồng thời, vùng biển Nhật Bản là nơi giao nhau giữa dòng biển nóng Kuroshio và dòng biển lạnh Oyashio tạo nên các ngư trường lớn, giàu tôm cá."
+  },
+  {
+    "question": "Sự phân hóa khí hậu của Liên bang Nga từ bắc xuống nam thể hiện rõ rệt qua việc thay đổi các đới khí hậu nào?",
+    "options": [
+      "Từ đới khí hậu nhiệt đới sang ôn đới",
+      "Từ đới khí hậu cực, cận cực sang ôn đới và cận nhiệt",
+      "Từ đới khí hậu xích đạo sang nhiệt đới",
+      "Từ đới khí hậu ôn đới sang cận chí tuyến khô"
+    ],
+    "answer": "Từ đới khí hậu cực, cận cực sang ôn đới và cận nhiệt",
+    "explanation": "Do lãnh thổ nằm ở vĩ độ cao kéo dài xuống phía nam, khí hậu Nga thay đổi từ cực, cận cực ở ven Bắc Băng Dương sang ôn đới (chiếm phần lớn diện tích) và một dải nhỏ cận nhiệt ở phía nam."
+  },
+  {
+    "question": "Tại sao vùng nội địa và phía tây của Ô-xtrây-li-a có dân cư thưa thớt, hầu như không có người ở?",
+    "options": [
+      "Do chính phủ cấm người dân đến sinh sống",
+      "Do khu vực này có địa hình núi cao hiểm trở nhất thế giới",
+      "Do khí hậu cực kỳ khô hạn, hình thành các hoang mạc và bán hoang mạc rộng lớn",
+      "Do vùng này thường xuyên bị ngập lụt quanh năm"
+    ],
+    "answer": "Do khí hậu cực kỳ khô hạn, hình thành các hoang mạc và bán hoang mạc rộng lớn",
+    "explanation": "Đường chí tuyến Nam đi qua giữa lục địa Ô-xtrây-li-a kết hợp với áp cao cận chí tuyến khiến vùng nội địa và bờ tây có lượng mưa rất ít, khô hạn khắc nghiệt, hình thành hoang mạc nên dân cư không thể sinh sống tập trung."
+  },
+  {
+    "question": "Xu hướng chuyển dịch cơ cấu ngành công nghiệp của Hoa Kỳ hiện nay là gì?",
+    "options": [
+      "Tăng tỉ trọng ngành dệt may và giảm ngành chế tạo máy",
+      "Giảm tỉ trọng các ngành truyền thống, tăng tỉ trọng các ngành công nghiệp công nghệ cao",
+      "Tập trung hoàn toàn vào ngành công nghiệp khai khoáng thô",
+      "Ngừng phát triển công nghiệp để chuyển sang làm nông nghiệp"
+    ],
+    "answer": "Giảm tỉ trọng các ngành truyền thống, tăng tỉ trọng các ngành công nghiệp công nghệ cao",
+    "explanation": "Hoa Kỳ đang chuyển dịch mạnh mẽ từ các ngành công nghiệp truyền thống (luyện kim, dệt, chế tạo ô tô) sang các ngành có hàm lượng tri thức lớn như điện tử - tin học, hàng không vũ trụ, năng lượng sạch."
+  },
+  {
+    "question": "Chính sách dân số \"mỗi gia đình chỉ có một con\" được thực hiện trong thời gian dài trước đây đã để lại hậu quả gì lớn nhất cho xã hội Trung Quốc hiện nay?",
+    "options": [
+      "Quy mô dân số giảm xuống mức quá thấp",
+      "Tốc độ đô thị hóa bị ngưng trệ hoàn toàn",
+      "Già hóa dân số nhanh chóng và mất cân bằng tỉ lệ giới tính khi sinh",
+      "Lao động thất nghiệp tăng cao ở thành thị"
+    ],
+    "answer": "Già hóa dân số nhanh chóng và mất cân bằng tỉ lệ giới tính khi sinh",
+    "explanation": "Chính sách một con nghiêm ngặt trong quá khứ giúp Trung Quốc kiểm soát được tốc độ tăng dân số nhưng lại đẩy nước này vào tình trạng thiếu hụt lao động trẻ tương lai, già hóa dân số nhanh và chênh lệch lớn giữa số lượng nam và nữ."
+  },
+  {
+    "question": "Nền nông nghiệp Nhật Bản có đặc điểm nổi bật nào sau đây?",
+    "options": [
+      "Phát triển theo hướng quảng canh, diện tích trang trại cực lớn",
+      "Năng suất thấp do không áp dụng máy móc",
+      "Phát triển theo hướng thâm canh, ứng dụng công nghệ cao để đạt năng suất cực đại trên diện tích nhỏ",
+      "Chủ yếu là xuất khẩu nông sản thô ra thế giới"
+    ],
+    "answer": "Phát triển theo hướng thâm canh, ứng dụng công nghệ cao để đạt năng suất cực đại trên diện tích nhỏ",
+    "explanation": "Do diện tích đất nông nghiệp nhỏ hẹp (dưới 15% diện tích lãnh thổ), Nhật Bản buộc phải phát triển nông nghiệp thâm canh, ứng dụng công nghệ sinh học và tự động hóa để tăng năng suất và chất lượng cây trồng."
+  },
+  {
+    "question": "Việc phát triển kinh tế của phần lãnh thổ phía Đông Liên bang Nga gặp khó khăn lớn nhất về mặt tự nhiên là gì?",
+    "options": [
+      "Địa hình quá bằng phẳng dễ bị lũ lụt",
+      "Khí hậu ôn đới hải dương mưa quá nhiều",
+      "Địa hình núi cao, khí hậu vùng Xi-bia cực kỳ lạnh giá, băng giá vĩnh cửu",
+      "Hoàn toàn không có tài nguyên khoáng sản"
+    ],
+    "answer": "Địa hình núi cao, khí hậu vùng Xi-bia cực kỳ lạnh giá, băng giá vĩnh cửu",
+    "explanation": "Phía Đông nước Nga (vùng Xi-bia và Viễn Đông) có địa hình đồi núi phức tạp và khí hậu cận cực lạnh giá khắc nghiệt. Đất bị đóng băng vĩnh cửu gây trở ngại khổng lồ cho giao thông, xây dựng và khai thác tài nguyên."
+  },
+  {
+    "question": "Mối quan hệ kinh tế giữa Việt Nam và các nước ASEAN mang lại lợi ích chủ yếu nào sau đây?",
+    "options": [
+      "Việt Nam có thể đóng cửa nền kinh tế tự cung tự cấp",
+      "Mở rộng thị trường xuất nhập khẩu, thu hút vốn đầu tư và học hỏi kinh nghiệm quản lý",
+      "Giúp Việt Nam độc quyền kiểm soát kinh tế biển Đông",
+      "Được nhận viện trợ tài chính miễn phí hoàn toàn từ các nước bạn"
+    ],
+    "answer": "Mở rộng thị trường xuất nhập khẩu, thu hút vốn đầu tư và học hỏi kinh nghiệm quản lý",
+    "explanation": "Tham gia ASEAN giúp Việt Nam hội nhập kinh tế sâu rộng, hàng hóa tiếp cận thị trường các nước thành viên với thuế suất ưu đãi, tạo môi trường hấp dẫn thu hút dòng vốn đầu tư trực tiếp nước ngoài (FDI)."
+  },
+  {
+    "question": "Tại sao các nước Đông Nam Á biển đảo có tốc độ tăng trưởng ngành dịch vụ, đặc biệt là du lịch và giao thông hàng hải rất nhanh?",
+    "options": [
+      "Do có vị trí nằm trên các tuyến đường biển quốc tế huyết mạch và sở hữu nhiều đảo, bãi biển đẹp",
+      "Do không phát triển nông nghiệp nên tập trung cho dịch vụ",
+      "Do giá cả dịch vụ đắt đỏ nhất thế giới",
+      "Do khí hậu quanh năm lạnh giá thích hợp du lịch mùa đông"
+    ],
+    "answer": "Do có vị trí nằm trên các tuyến đường biển quốc tế huyết mạch và sở hữu nhiều đảo, bãi biển đẹp",
+    "explanation": "Vị trí nằm trên tuyến hàng hải bận rộn kết nối Ấn Độ Dương - Thái Bình Dương (như eo biển Man-lac-ca) thúc đẩy vận tải biển. Đồng thời cảnh quan biển đảo nhiệt đới, rạn san hô, bãi biển cát trắng là tài nguyên vô giá thu hút khách du lịch quốc tế."
+  },
+  {
+    "question": "Phân tích mối quan hệ giữa vị trí địa lí và đặc điểm khí hậu của khu vực Tây Nam Á?",
+    "options": [
+      "Vị trí nằm ở vĩ độ cao nên khí hậu quanh năm băng giá",
+      "Vị trí nằm ở vùng cận xích đạo nên mưa lớn quanh năm",
+      "Nằm trong vùng nội chí tuyến và cận chí tuyến, lại tiếp giáp các khối lục địa lớn nên khí hậu mang tính chất khô hạn sâu sắc",
+      "Vị trí nằm gần cực Bắc nên có mùa đông kéo dài 9 tháng"
+    ],
+    "answer": "Nằm trong vùng nội chí tuyến và cận chí tuyến, lại tiếp giáp các khối lục địa lớn nên khí hậu mang tính chất khô hạn sâu sắc",
+    "explanation": "Tây Nam Á nằm chủ yếu trong khoảng vĩ độ từ 12 độ Bắc đến 42 độ Bắc (vùng chí tuyến), quanh năm chịu kiểm soát của khối khí áp cao chí tuyến khô và gió mậu dịch thổi từ lục địa Á - Âu sang nên lượng mưa rất ít, khí hậu khô nóng."
+  },
+  {
+    "question": "Sự phân bố dân cư của Hoa Kỳ có sự thay đổi rõ rệt như thế nào trong những thập kỷ gần đây?",
+    "options": [
+      "Dân cư dịch chuyển từ các bang vùng phía Nam lên vùng Đông Bắc",
+      "Dân cư tập trung toàn bộ vào các vùng nông thôn hẻo lánh",
+      "Dân cư dịch chuyển từ vùng công nghiệp truyền thống Đông Bắc sang các bang phía Nam và phía Tây (Vành đai Mặt Trời)",
+      "Người dân rời bỏ đất nước sang các nước châu Âu sinh sống"
+    ],
+    "answer": "Dân cư dịch chuyển từ vùng công nghiệp truyền thống Đông Bắc sang các bang phía Nam và phía Tây (Vành đai Mặt Trời)",
+    "explanation": "Do sự xuất hiện của các ngành công nghệ cao và điều kiện sống dễ chịu hơn ở phía Nam và phía Tây, một làn sóng di dân lớn nội địa đã diễn ra, dịch chuyển lao động từ vùng công nghiệp cũ (Đông Bắc) sang vùng kinh tế mới."
+  },
+  {
+    "question": "Sự phát triển mạnh mẽ của các ngành công nghiệp hiện đại tại miền Đông Trung Quốc dựa trên những lợi thế cốt lõi nào?",
+    "options": [
+      "Nguồn khoáng sản phong phú, đồng bằng rộng lớn, dân cư đông đúc, lao động có tay nghề và hạ tầng phát triển",
+      "Khí hậu hoang mạc khô cằn và đất đai cằn cỗi",
+      "Sự cô lập hoàn toàn về mặt kinh tế với các nước bên ngoài",
+      "Diện tích rừng rậm nguyên sinh còn nguyên vẹn"
+    ],
+    "answer": "Nguồn khoáng sản phong phú, đồng bằng rộng lớn, dân cư đông đúc, lao động có tay nghề và hạ tầng phát triển",
+    "explanation": "Miền Đông Trung Quốc hội tụ đầy đủ các yếu tố thuận lợi: địa hình bằng phẳng dễ xây nhà máy, nguồn nước dồi dào, tập trung phần lớn các đô thị lớn, nguồn lao động dồi dào thị trường tiêu thụ rộng lớn và có hệ thống cảng biển xuất khẩu thuận lợi."
+  },
+  {
+    "question": "Tại sao giao thông vận tải đường biển đóng vai trò đặc biệt quan trọng, là huyết mạch trong nền kinh tế Nhật Bản?",
+    "options": [
+      "Vì Nhật Bản là quốc gia quần đảo, giao thương quốc tế phụ thuộc gần như hoàn toàn vào việc xuất nhập khẩu qua cảng biển",
+      "Vì Nhật Bản không có khả năng chế tạo máy bay",
+      "Vì đường biển là phương thức vận chuyển an toàn tuyệt đối trước động đất",
+      "Vì chi phí xây dựng cảng biển rẻ hơn xây đường bộ"
+    ],
+    "answer": "Vì Nhật Bản là quốc gia quần đảo, giao thương quốc tế phụ thúc gần như hoàn toàn vào việc xuất nhập khẩu qua cảng biển",
+    "explanation": "Là một quốc gia bốn bề là biển, lại nghèo tài nguyên phải nhập khẩu nguyên liệu và xuất khẩu thành phẩm, mọi hoạt động kinh tế đối ngoại của Nhật Bản bắt buộc phải đi qua đường biển quốc tế."
+  },
+  {
+    "question": "Nhận định nào sau đây phân tích đúng về vai trò của rừng taiga đối với môi trường và kinh tế của Liên bang Nga?",
+    "options": [
+      "Chỉ có giá trị giữ đất, không thể khai thác gỗ",
+      "Là nguồn cung cấp lâm sản khổng lồ cho công nghiệp gỗ và đóng vai trò là lá phổi xanh điều hòa khí hậu toàn cầu",
+      "Là nguyên nhân gây cản trở hoàn toàn sự phát triển kinh tế",
+      "Chiếm diện tích rất nhỏ không đáng kể trong cơ cấu sử dụng đất"
+    ],
+    "answer": "Là nguồn cung cấp lâm sản khổng lồ cho công nghiệp gỗ và đóng vai trò là lá phổi xanh điều hòa khí hậu toàn cầu",
+    "explanation": "Nga sở hữu diện tích rừng lớn nhất thế giới, chủ yếu là rừng lá kim (taiga) ở vùng Xi-bia. Khu rừng này không chỉ cung cấp nguồn gỗ dồi dào cho kinh tế mà còn có giá trị sinh thái vô cùng lớn trong việc hấp thụ carbon cho Trái Đất."
+  },
+  {
+    "question": "Tại sao nói ngoại thương là động lực thúc đẩy sự phát triển kinh tế của quốc gia Ô-xtrây-li-a?",
+    "options": [
+      "Vì Ô-xtrây-li-a không có thị trường tiêu thụ trong nước",
+      "Vì nước này chuyên nhập khẩu mọi loại hàng hóa và không sản xuất gì",
+      "Vì Ô-xtrây-li-a sở hữu khối lượng lớn khoáng sản, nông sản chất lượng cao để xuất khẩu sang các thị trường lớn trên thế giới",
+      "Vì tất cả các công ty ngoại thương đều thuộc sở hữu của nhà nước nước ngoài"
+    ],
+    "answer": "Vì Ô-xtrây-li-a sở hữu khối lượng lớn khoáng sản, nông sản chất lượng cao để xuất khẩu sang các thị trường lớn trên thế giới",
+    "explanation": "Kinh tế Ô-xtrây-li-a có tính mở cao. Nhờ tài nguyên giàu có, họ xuất khẩu khối lượng khổng lồ than đá, quặng sắt, vàng, thịt bò và len sợi sang châu Á và thế giới, mang về nguồn ngoại tệ lớn giúp tái đầu tư đất nước."
+  },
+  {
+    "question": "Việc đánh bắt hải sản xa bờ ở một số nước Đông Nam Á hiện nay cần phải chú ý vấn đề cốt lõi nào để phát triển bền vững?",
+    "options": [
+      "Tăng cường sử dụng các chất nổ để đạt sản lượng tối đa",
+      "Khai thác triệt để cả các loài thủy sản đang trong mùa sinh sản",
+      "Kết hợp giữa đánh bắt hiện đại với bảo vệ nguồn lợi thủy sản và chủ quyền biển đảo",
+      "Ngừng hoàn toàn việc đánh bắt để chuyển sang nuôi trồng"
+    ],
+    "answer": "Kết hợp giữa đánh bắt hiện đại với bảo vệ nguồn lợi thủy sản và chủ quyền biển đảo",
+    "explanation": "Phát triển bền vững ngành thủy sản đòi hỏi các nước phải hiện đại hóa đội tàu đánh bắt xa bờ để giảm áp lực cho vùng ven bờ, đồng thời tuân thủ các quy định quốc tế về bảo vệ môi trường biển và khẳng định chủ quyền quốc gia."
+  },
+  {
+    "question": "Điểm tương đồng về mặt xã hội giữa các quốc gia thuộc khu vực Đông Nam Á là gì?",
+    "options": [
+      "Tất cả người dân đều theo một tôn giáo duy nhất là Phật giáo",
+      "Có nền văn hóa đa dạng, giàu bản sắc nhưng có nhiều nét tương đồng trong lịch sử và phong tục tập quán",
+      "Đều có trình độ học vấn và thu nhập bình quân đầu người bằng nhau",
+      "Không có sự khác biệt nào giữa các dân tộc"
+    ],
+    "answer": "Có nền văn hóa đa dạng, giàu bản sắc nhưng có nhiều nét tương đồng trong lịch sử và phong tục tập quán",
+    "explanation": "Cư dân Đông Nam Á có những nét tương đồng trong sinh hoạt (như nền văn minh lúa nước), phong tục gia đình, cộng đồng. Lịch sử các nước đều trải qua giai đoạn đấu tranh giải phóng dân tộc, tạo nên sự thấu hiểu và dễ hợp tác."
+  },
+  {
+    "question": "Sự phát triển công nghiệp của Tây Nam Á tập trung chủ yếu vào ngành nào và phân bố ở đâu?",
+    "options": [
+      "Công nghiệp đóng tàu ở vùng núi cao",
+      "Công nghiệp khai thác, lọc dầu mỏ và khí tự nhiên phát triển mạnh ở vùng ven vịnh Ba Tư",
+      "Công nghiệp sản xuất ô tô điện ở các hoang mạc sâu",
+      "Công nghiệp dệt may truyền thống ở vùng cực Bắc"
+    ],
+    "answer": "Công nghiệp khai thác, lọc dầu mỏ và khí tự nhiên phát triển mạnh ở vùng ven vịnh Ba Tư",
+    "explanation": "Tài nguyên dầu mỏ tập trung nhiều nhất xung quanh vịnh Ba Tư. Các quốc gia tại đây (A-rập Xê-út, Cô-oét, UAE...) đã xây dựng các tổ hợp khai thác và nhà máy lọc hóa dầu khổng lồ dọc ven biển để tiện xuất khẩu."
+  },
+  {
+    "question": "Cho bảng số liệu về GDP của Hoa Kỳ qua các năm. Để thể hiện sự thay đổi quy mô GDP của Hoa Kỳ, biểu đồ nào sau đây là thích hợp nhất?",
+    "options": [
+      "Biểu đồ tròn",
+      "Biểu đồ cột",
+      "Biểu đồ miền",
+      "Biểu đồ kết hợp"
+    ],
+    "answer": "Biểu đồ cột",
+    "explanation": "Khi đề bài yêu cầu thể hiện quy mô, trị số của một đại lượng qua các năm (chuỗi thời gian), biểu đồ cột (cột đơn hoặc cột ghép) là lựa chọn tối ưu và trực quan nhất."
+  },
+  {
+    "question": "Nếu một doanh nghiệp Việt Nam muốn xuất khẩu trái cây tươi sang thị trường Trung Quốc một cách bền vững, giải pháp chiến lược nào cần được ưu tiên hàng đầu?",
+    "options": [
+      "Chỉ tập trung bán hàng tiểu ngạch qua đường mòn lối mở",
+      "Nâng cao chất lượng sản phẩm theo tiêu chuẩn an toàn thực phẩm, đẩy mạnh xuất khẩu chính ngạch và xây dựng thương hiệu rõ ràng",
+      "Hạ giá thành sản phẩm xuống mức thấp nhất bất chấp chất lượng",
+      "Chờ thương lái Trung Quốc tự tìm đến tận vườn thu mua"
+    ],
+    "answer": "Nâng cao chất lượng sản phẩm theo tiêu chuẩn an toàn thực phẩm, đẩy mạnh xuất khẩu chính ngạch và xây dựng thương hiệu rõ ràng",
+    "explanation": "Trung Quốc ngày nay đã thắt chặt các tiêu chuẩn kiểm dịch thực vật và chất lượng an toàn sinh học đối với nông sản nhập khẩu. Muốn giữ vững thị trường này, nông sản Việt Nam phải chuyển dịch từ tiểu ngạch sang chính ngạch, đảm bảo truy xuất nguồn gốc."
+  },
+  {
+    "question": "Vấn đề nào sau đây đang là thách thức lớn nhất mang tính toàn cầu đối với việc khai thác tài nguyên dầu mỏ ở khu vực Tây Nam Á?",
+    "options": [
+      "Sự cạn kiệt tài nguyên trong tương lai gần và xu hướng chuyển dịch sang năng lượng xanh của thế giới để chống biến đổi khí hậu",
+      "Giá dầu mỏ trên thị trường thế giới luôn giữ mức thấp ổn định",
+      "Thiếu hụt hoàn toàn tàu chở dầu trên thế giới",
+      "Các nước phương Tây ngừng sử dụng năng lượng"
+    ],
+    "answer": "Sự cạn kiệt tài nguyên trong tương lai gần và xu hướng chuyển dịch sang năng lượng xanh của thế giới để chống biến đổi khí hậu",
+    "explanation": "Dầu mỏ là tài nguyên không tái tạo và sẽ cạn kiệt. Thêm vào đó, trước áp lực của biến đổi khí hậu, thế giới đang giảm dần sự phụ thuộc vào nhiên liệu hóa thạch để chuyển sang năng lượng tái tạo (gió, mặt trời), điều này đe dọa trực tiếp đến nguồn thu cốt lõi của Tây Nam Á."
+  },
+  {
+    "question": "Một quốc gia Đông Nam Á đang có cơ cấu dân số già hóa nhanh chóng cần thực hiện giải pháp vĩ mô nào để đảm bảo lực lượng lao động cho tương lai?",
+    "options": [
+      "Khuyến khích người dân di cư ra nước ngoài sinh sống",
+      "Ban hành các chính sách khuyến khích sinh sản, kéo dài độ tuổi lao động hợp lý và ứng dụng tự động hóa vào sản xuất",
+      "Giảm lương của những người lao động trẻ tuổi",
+      "Đóng cửa toàn bộ các nhà máy công nghiệp"
+    ],
+    "answer": "Ban hành các chính sách khuyến khích sinh sản, kéo dài độ tuổi lao động hợp lý và ứng dụng tự động hóa vào sản xuất",
+    "explanation": "Để đối phó với xu hướng già hóa dân số (như trường hợp của Xin-ga-po, Thái Lan), các nước cần kích thích tỷ lệ sinh, điều chỉnh tuổi nghỉ hưu phù hợp với tuổi thọ tăng và dùng robot, AI để bù đắp lượng lao động thiếu hụt."
+  },
+  {
+    "question": "Tại sao việc giải quyết tranh chấp chủ quyền ở biển Đông giữa một số quốc gia Đông Nam Á và các nước liên quan cần phải tuân thủ Công ước Liên hợp quốc về Luật Biển (UNCLOS)?",
+    "options": [
+      "Để các nước lớn có quyền phân chia lại biển Đông theo ý muốn",
+      "Vì đây là cơ sở pháp lý quốc tế duy nhất mang tính toàn cầu để phân định các vùng biển, giải quyết xung đột bằng biện pháp hòa bình, đảm bảo an ninh và tự do hàng hải",
+      "Để cấm tất cả các tàu thuyền nước ngoài đi qua biển Đông",
+      "Để các nước tự do xây dựng đảo nhân tạo mà không bị phạt"
+    ],
+    "answer": "Vì đây là cơ sở pháp lý quốc tế duy nhất mang tính toàn cầu để phân định các vùng biển, giải quyết xung đột bằng biện pháp hòa bình, đảm bảo an ninh và tự do hàng hải",
+    "explanation": "UNCLOS là hiến pháp của đại dương. Thượng tôn pháp luật quốc tế và UNCLOS giúp các bên thiết lập một quy tắc ứng xử chung, tránh xung đột vũ trang, bảo vệ quyền lợi hợp pháp của các quốc gia ven biển và duy trì hòa bình cho tuyến hàng hải huyết mạch toàn cầu."
+  }
+]

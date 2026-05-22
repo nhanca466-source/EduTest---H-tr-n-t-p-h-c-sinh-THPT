@@ -1,0 +1,554 @@
+[
+  {
+    "question": "Lãnh thổ quốc gia của nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm những bộ phận nào?",
+    "options": [
+      "Vùng đất, vùng nước, vùng trời và vùng lòng đất.",
+      "Vùng đất, vùng biển, vùng trời và thềm lục địa.",
+      "Vùng nội thủy, vùng lãnh hải, vùng tiếp giáp lãnh hải.",
+      "Vùng đất liền, các hải đảo và toàn bộ Biển Đông."
+    ],
+    "answer": "Vùng đất, vùng nước, vùng trời và vùng lòng đất.",
+    "explanation": "Theo quy định của pháp luật Việt Nam và quốc tế, lãnh thổ một quốc gia hoàn chỉnh bao gồm bốn bộ phận cốt lõi: vùng đất, vùng nước, vùng trời và vùng lòng đất."
+  },
+  {
+    "question": "Biên giới quốc gia trên biển của Việt Nam được xác định là ranh giới phía ngoài của bộ phận nào?",
+    "options": [
+      "Lãnh hải.",
+      "Nội thủy.",
+      "Vùng tiếp giáp lãnh hải.",
+      "Vùng đặc quyền kinh tế."
+    ],
+    "answer": "Lãnh hải.",
+    "explanation": "Theo Luật Biển Việt Nam, biên giới quốc gia trên biển là ranh giới phía ngoài của lãnh hải rộng 12 hải lý tính từ đường cơ sở."
+  },
+  {
+    "question": "Đường cơ sở dùng để tính chiều rộng lãnh hải của Việt Nam là loại đường cơ sở nào?",
+    "options": [
+      "Đường cơ sở thẳng.",
+      "Đường cơ sở thông thường.",
+      "Đường bờ biển khi thủy triều cao nhất.",
+      "Đường ranh giới các tỉnh ven biển."
+    ],
+    "answer": "Đường cơ sở thẳng.",
+    "explanation": "Việt Nam áp dụng hệ thống đường cơ sở thẳng, nối liền các hòn đảo ven bờ và các mũi đất ngoài khơi do bờ biển nước ta có xu hướng khúc khuỷu và có nhiều đảo ven bờ."
+  },
+  {
+    "question": "Độ tuổi đăng ký nghĩa vụ quân sự lần đầu đối với công dân nam là bao nhiêu tuổi?",
+    "options": [
+      "Đủ 17 tuổi.",
+      "Đủ 18 tuổi.",
+      "Đủ 19 tuổi.",
+      "Đủ 20 tuổi."
+    ],
+    "answer": "Đủ 17 tuổi.",
+    "explanation": "Theo Luật Nghĩa vụ quân sự hiện hành, công dân nam bước vào độ tuổi đủ 17 tuổi trong năm phải thực hiện đăng ký nghĩa vụ quân sự lần đầu tại địa phương."
+  },
+  {
+    "question": "Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ Quân đội nhân dân Việt Nam là bao nhiêu tháng?",
+    "options": [
+      "24 tháng.",
+      "18 tháng.",
+      "12 tháng.",
+      "36 tháng."
+    ],
+    "answer": "24 tháng.",
+    "explanation": "Luật Nghĩa vụ quân sự quy định thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là 24 tháng (trừ một số trường hợp đặc biệt được kéo dài không quá 6 tháng)."
+  },
+  {
+    "question": "Lực lượng nào đóng vai trò nòng cốt trong nhiệm vụ bảo vệ biên giới quốc gia trên đất liền và trên biển?",
+    "options": [
+      "Bộ đội Biên phòng.",
+      "Dân quân tự vệ.",
+      "Cảnh sát phòng cháy chữa cháy.",
+      "Lực lượng Kiểm lâm."
+    ],
+    "answer": "Bộ đội Biên phòng.",
+    "explanation": "Bộ đội Biên phòng là lực lượng chuyên trách, làm nòng cốt quản lý, bảo vệ chủ quyền, toàn vẹn lãnh thổ, an ninh, trật tự biên giới quốc gia."
+  },
+  {
+    "question": "Hành vi nào dưới đây vi phạm quy định về bảo đảm trật tự an toàn giao thông đường bộ?",
+    "options": [
+      "Điều khiển xe máy khi đã uống rượu bia có nồng độ cồn vượt mức quy định.",
+      "Đi bộ trên vỉa hè dành riêng cho người đi bộ.",
+      "Dừng xe sát lề đường bên phải theo hướng đi và bật đèn báo hiệu.",
+      "Đội mũ bảo hiểm đúng quy cách khi ngồi trên xe mô tô."
+    ],
+    "answer": "Điều khiển xe máy khi đã uống rượu bia có nồng độ cồn vượt mức quy định.",
+    "explanation": "Sử dụng rượu bia trước và trong khi lái xe làm suy giảm hệ thần kinh, vi phạm nghiêm trọng Luật Giao thông đường bộ."
+  },
+  {
+    "question": "Hành vi xả nước thải công nghiệp chưa qua xử lý trực tiếp ra sông, hồ thuộc loại vi phạm pháp luật nào?",
+    "options": [
+      "Vi phạm pháp luật về bảo vệ môi trường.",
+      "Vi phạm pháp luật về quản lý đô thị.",
+      "Vi phạm quy định bảo hộ lao động.",
+      "Vi phạm an toàn vệ sinh thực phẩm."
+    ],
+    "answer": "Vi phạm pháp luật về bảo vệ môi trường.",
+    "explanation": "Xả chất thải độc hại chưa xử lý gây ô nhiễm nguồn nước, hủy hoại hệ sinh thái, đây là hành vi bị nghiêm cấm trong Luật Bảo vệ môi trường."
+  },
+  {
+    "question": "Theo Luật Công an nhân dân, chức năng chính của Công an nhân dân là gì?",
+    "options": [
+      "Tham mưu cho Đảng và Nhà nước về bảo vệ an ninh quốc gia, bảo đảm trật tự an toàn xã hội.",
+      "Tập trung huấn luyện quân sự để sẵn sàng tác chiến hiệp đồng quân binh chủng.",
+      "Tổ chức khai thác tài nguyên và xây dựng các công trình kinh tế lớn.",
+      "Quản lý hoạt động xuất nhập khẩu hàng hóa tại các cửa khẩu quốc tế."
+    ],
+    "answer": "Tham mưu cho Đảng và Nhà nước về bảo vệ an ninh quốc gia, bảo đảm trật tự an toàn xã hội.",
+    "explanation": "Công an nhân dân có chức năng bảo vệ an ninh quốc gia, bảo đảm trật tự an toàn xã hội, đấu tranh phòng chống tội phạm."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền quyết định việc công bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương?",
+    "options": [
+      "Ủy ban Thường vụ Quốc hội.",
+      "Bộ Quốc phòng.",
+      "Bộ Công an.",
+      "Ủy ban nhân dân cấp tỉnh."
+    ],
+    "answer": "Ủy ban Thường vụ Quốc hội.",
+    "explanation": "Theo Hiến pháp và pháp luật Việt Nam, Ủy ban Thường vụ Quốc hội có thẩm quyền ra nghị quyết công bố hoặc bãi bỏ tình trạng khẩn cấp."
+  },
+  {
+    "question": "Vùng nước nằm ở phía trong của đường cơ sở và tiếp giáp với bờ biển được gọi là gì?",
+    "options": [
+      "Nội thủy.",
+      "Lãnh hải.",
+      "Vùng tiếp giáp lãnh hải.",
+      "Vùng đặc quyền kinh tế."
+    ],
+    "answer": "Nội thủy.",
+    "explanation": "Nội thủy bao gồm các vùng nước cảng biển, vũng tàu, cửa sông và vùng nước nằm giữa bờ biển và đường cơ sở thẳng, có quy chế pháp lý như đất liền."
+  },
+  {
+    "question": "Tội phạm sử dụng công nghệ cao là loại tội phạm thực hiện hành vi vi phạm pháp luật bằng việc sử dụng công cụ nào?",
+    "options": [
+      "Máy tính, mạng internet và các thiết bị số thông minh.",
+      "Vũ khí quân dụng và chất nổ mạnh.",
+      "Các loại hóa chất độc hại tự chế.",
+      "Các phương tiện giao thông vận tải vượt tải trọng."
+    ],
+    "answer": "Máy tính, mạng internet và các thiết bị số thông minh.",
+    "explanation": "Tội phạm công nghệ cao lợi dụng tri thức, công nghệ, không gian mạng để thực hiện các hành vi gian lận, phá hoại hoặc lừa đảo tài sản."
+  },
+  {
+    "question": "Hành vi tàng trữ, vận chuyển trái phép chất ma túy bị xử lý theo quy định của bộ luật nào?",
+    "options": [
+      "Bộ luật Hình sự.",
+      "Bộ luật Dân sự.",
+      "Luật Thương mại.",
+      "Luật Đất đai."
+    ],
+    "answer": "Bộ luật Hình sự.",
+    "explanation": "Các hành vi liên quan đến ma túy (sản xuất, tàng trữ, vận chuyển, mua bán) có tính chất nguy hiểm cao cho xã hội và bị xử lý nghiêm theo Bộ luật Hình sự."
+  },
+  {
+    "question": "Việc tham gia nghĩa vụ quân sự giúp học sinh, thanh niên rèn luyện phẩm chất đạo đức nào rõ rệt nhất?",
+    "options": [
+      "Tính kỷ luật tự giác và tinh thần trách nhiệm tập thể.",
+      "Kỹ năng kinh doanh buôn bán trên thị trường.",
+      "Kỹ năng sử dụng các ứng dụng văn phòng mạng xã hội.",
+      "Khả năng nghiên cứu khoa học chuyên sâu."
+    ],
+    "answer": "Tính kỷ luật tự giác và tinh thần trách nhiệm tập thể.",
+    "explanation": "Môi trường quân đội với chế độ sinh hoạt nghiêm ngặt rèn luyện cho thanh niên lối sống kỷ luật, tinh thần đồng đội và trách nhiệm trước tập thể."
+  },
+  {
+    "question": "Vùng biển quốc tế tiếp giáp với lãnh hải của quốc gia ven biển, có chiều rộng không quá 12 hải lý tính từ ranh giới phía ngoài lãnh hải là vùng nào?",
+    "options": [
+      "Vùng tiếp giáp lãnh hải.",
+      "Vùng đặc quyền kinh tế.",
+      "Thềm lục địa.",
+      "Nội thủy."
+    ],
+    "answer": "Vùng tiếp giáp lãnh hải.",
+    "explanation": "Vùng tiếp giáp lãnh hải nằm ngoài lãnh hải, rộng 12 hải lý, là nơi quốc gia thực hiện quyền kiểm soát cần thiết để ngăn ngừa vi phạm luật hải quan, thuế, y tế."
+  },
+  {
+    "question": "Luật Nghĩa vụ quân sự quy định đối tượng nào sau đây được miễn gọi nhập ngũ trong thời bình?",
+    "options": [
+      "Con của liệt sĩ, con của thương binh hạng một.",
+      "Công dân là người dân tộc thiểu số.",
+      "Học sinh đang theo học tại các trường trung học phổ thông.",
+      "Công dân có hộ khẩu thường trú tại vùng kinh tế khó khăn."
+    ],
+    "answer": "Con của liệt sĩ, con của thương binh hạng một.",
+    "explanation": "Luật quy định chính sách ưu đãi đối với gia đình có công với cách mạng, miễn gọi nhập ngũ đối với con liệt sĩ hoặc con thương binh hạng một."
+  },
+  {
+    "question": "Ai là người chịu trách nhiệm tối cao trong việc lãnh đạo Quân đội nhân dân và Công an nhân dân Việt Nam?",
+    "options": [
+      "Đảng Cộng sản Việt Nam.",
+      "Bộ trưởng Bộ Quốc phòng.",
+      "Bộ trưởng Bộ Công an.",
+      "Chủ tịch Ủy ban nhân dân các cấp."
+    ],
+    "answer": "Đảng Cộng sản Việt Nam.",
+    "explanation": "Đảng Cộng sản Việt Nam lãnh đạo tuyệt đối, trực tiếp về mọi mặt đối với lực lượng vũ trang nhân dân Việt Nam."
+  },
+  {
+    "question": "Một trong những nghĩa vụ của người điều khiển xe đạp khi tham gia giao thông là gì?",
+    "options": [
+      "Không được đi xe dàn hàng ngang, không sử dụng điện thoại khi lái xe.",
+      "Phải có giấy phép lái xe hạng A1 do cơ quan chức năng cấp.",
+      "Chỉ được đi xe đạp vào ban đêm, không được đi ban ngày.",
+      "Phải mua bảo hiểm trách nhiệm dân sự bắt buộc cho xe đạp."
+    ],
+    "answer": "Không được đi xe dàn hàng ngang, không sử dụng điện thoại khi lái xe.",
+    "explanation": "Luật Giao thông đường bộ quy định người đi xe đạp không được dàn hàng ngang, buông cả hai tay hoặc sử dụng thiết bị điện thoại di động."
+  },
+  {
+    "question": "Quy chế pháp lý của vùng đặc quyền kinh tế quy định quốc gia ven biển có quyền gì?",
+    "options": [
+      "Quyền chủ quyền về thăm dò, khai thác, bảo tồn và quản lý các tài nguyên thiên nhiên.",
+      "Quyền lực tối cao tuyệt đối như trên đất liền lãnh thổ.",
+      "Quyền ngăn cấm tất cả tàu thuyền nước ngoài đi qua không gây hại.",
+      "Quyền tự ý xây dựng căn cứ quân sự mà không báo trước."
+    ],
+    "answer": "Quyền chủ quyền về thăm dò, khai thác, bảo tồn và quản lý các tài nguyên thiên nhiên.",
+    "explanation": "Ở vùng đặc quyền kinh tế, quốc gia ven biển có quyền chủ quyền đối với tài nguyên thiên nhiên dưới đáy biển và vùng nước cột nước, còn các nước khác vẫn có quyền tự do hàng hải, hàng không."
+  },
+  {
+    "question": "Khi phát hiện hành vi săn bắt động vật hoang dã quý hiếm trong rừng quốc gia, công dân cần báo ngay cho cơ quan nào?",
+    "options": [
+      "Cơ quan kiểm lâm hoặc công an nơi gần nhất.",
+      "Sở Giáo dục và Đào tạo địa phương.",
+      "Trung tâm y tế dự phòng quận huyện.",
+      "Cơ quan quản lý thị trường."
+    ],
+    "answer": "Cơ quan kiểm lâm hoặc công an nơi gần nhất.",
+    "explanation": "Kiểm lâm và công an là lực lượng có chức năng quản lý, xử lý các vi phạm pháp luật bảo vệ rừng và động vật hoang dã."
+  },
+  {
+    "question": "Tại sao nói biên giới quốc gia của một nước là thiêng liêng và bất khả xâm phạm?",
+    "options": [
+      "Vì nó phân định ranh giới chủ quyền tối cao của một quốc gia độc lập, được luật pháp quốc tế bảo vệ.",
+      "Vì biên giới quốc gia luôn được xây dựng bằng những bức tường kiên cố nhất.",
+      "Vì biên giới là nơi tập trung toàn bộ nền kinh tế giàu có nhất của một đất nước.",
+      "Vì không có bất kỳ quốc gia nào trên thế giới muốn thiết lập mối quan hệ qua biên giới."
+    ],
+    "answer": "Vì nó phân định ranh giới chủ quyền tối cao của một quốc gia độc lập, được luật pháp quốc tế bảo vệ.",
+    "explanation": "Biên giới xác định phạm vi không gian chủ quyền của một quốc gia độc lập. Xâm phạm biên giới là xâm phạm quyền tự quyết và toàn vẹn lãnh thổ của dân tộc đó."
+  },
+  {
+    "question": "Sự khác biệt cơ bản về chủ quyền giữa vùng 'Lãnh hải' và vùng 'Đặc quyền kinh tế' là gì?",
+    "options": [
+      "Lãnh hải thuộc chủ quyền hoàn chỉnh, đầy đủ như đất liền; Đặc quyền kinh tế quốc gia chỉ có quyền chủ quyền về kinh tế, tài nguyên.",
+      "Lãnh hải rộng 200 hải lý; Đặc quyền kinh tế rộng 12 hải lý.",
+      "Nước ngoài được tự do đặt căn cứ quân sự ở Lãnh hải; còn Đặc quyền kinh tế thì không.",
+      "Lãnh hải do Bộ Công an quản lý; Đặc quyền kinh tế do Bộ Quốc phòng quản lý."
+    ],
+    "answer": "Lãnh hải thuộc chủ quyền hoàn chỉnh, đầy đủ như đất liền; Đặc quyền kinh tế quốc gia chỉ có quyền chủ quyền về kinh tế, tài nguyên.",
+    "explanation": "Lãnh hải được coi là phần lãnh thổ biển, quốc gia thực thi chủ quyền tối cao (có quyền kiểm soát tàu thuyền đi qua không gây hại). Vùng đặc quyền kinh tế là vùng biển quốc tế mà quốc gia chỉ ưu tiên khai thác tài nguyên."
+  },
+  {
+    "question": "Tại sao việc đăng ký nghĩa vụ quân sự ở tuổi 17 đối với nam công dân là việc làm cần thiết?",
+    "options": [
+      "Để cơ quan nhà nước nắm chắc số lượng, chất lượng nguồn công dân sẵn sàng nhập ngũ, phục vụ cho kế hoạch quốc phòng.",
+      "Để bắt buộc thanh niên phải đi lao động công ích ngay tại địa phương.",
+      "Để cấp thẻ căn cước công dân mới cho người đủ tuổi trưởng thành.",
+      "Để thanh niên được miễn hoàn toàn học phí học tập tại các trường phổ thông."
+    ],
+    "answer": "Để cơ quan nhà nước nắm chắc số lượng, chất lượng nguồn công dân sẵn sàng nhập ngũ, phục vụ cho kế hoạch quốc phòng.",
+    "explanation": "Đăng ký tuổi 17 giúp Ban chỉ huy quân sự cấp huyện quản lý được thực lực nguồn nhân lực dự bị, chuẩn bị cho công tác tuyển quân khi đủ 18 tuổi đúng quy trình."
+  },
+  {
+    "question": "Sự phối hợp giữa Quân đội nhân dân và Công an nhân dân trong bảo vệ an ninh quốc gia dựa trên nguyên tắc nào?",
+    "options": [
+      "Đặt dưới sự lãnh đạo tuyệt đối của Đảng, hiệp đồng chặt chẽ, không chồng chéo chức năng nhiệm vụ.",
+      "Quân đội nhân dân có quyền chỉ huy hoàn toàn lực lượng Công an nhân dân trong mọi tình huống.",
+      "Mỗi bên tự thực hiện nhiệm vụ của mình mà không cần chia sẻ thông tin tình báo.",
+      "Chỉ phối hợp khi có chiến tranh xảy ra, thời bình hoạt động độc lập tuyệt đối."
+    ],
+    "answer": "Đặt dưới sự lãnh đạo tuyệt đối của Đảng, hiệp đồng chặt chẽ, không chồng chéo chức năng nhiệm vụ.",
+    "explanation": "Hai lực lượng là hai cánh tay đắc lực của Đảng. Khi phối hợp bảo vệ an ninh, trật tự phải tuân thủ kỷ luật Đảng, pháp luật Nhà nước và hỗ trợ lẫn nhau theo chức năng chuyên biệt."
+  },
+  {
+    "question": "Tại sao người tham gia giao thông bằng xe máy bắt buộc phải đội mũ bảo hiểm đạt chuẩn và cài quai đúng quy cách?",
+    "options": [
+      "Để bảo vệ vùng đầu khỏi chấn thương sọ não khi xảy ra va chạm, tai nạn giao thông.",
+      "Để tránh việc bị camera giao thông chụp ảnh nhận diện khuôn mặt.",
+      "Để che bớt gió lạnh và bụi bẩn làm hỏng mái tóc khi di chuyển.",
+      "Để chứng minh xe máy của mình là xe chính chủ."
+    ],
+    "answer": "Để bảo vệ vùng đầu khỏi chấn thương sọ não khi xảy ra va chạm, tai nạn giao thông.",
+    "explanation": "Mũ bảo hiểm đạt chuẩn hấp thụ lực tác động khi ngã xe, giảm thiểu nguy cơ tử vong do chấn thương sọ não - nguyên nhân hàng đầu trong các tai nạn xe máy."
+  },
+  {
+    "question": "Hành vi mua bán, sang tay các tài khoản trò chơi điện tử trực tuyến có chứa thông tin cá nhân của người khác vi phạm luật nào?",
+    "options": [
+      "Luật An toàn thông tin mạng và Luật An ninh mạng.",
+      "Luật Nghĩa vụ quân sự.",
+      "Luật Bảo vệ môi trường.",
+      "Luật Giao thông đường thủy nội địa."
+    ],
+    "answer": "Luật An toàn thông tin mạng và Luật An ninh mạng.",
+    "explanation": "Dữ liệu cá nhân bao gồm thông tin tài khoản được pháp luật bảo vệ. Hành vi mua bán, chiếm đoạt trái phép thông tin cá nhân của người khác trên không gian mạng là phạm pháp."
+  },
+  {
+    "question": "Tại sao tội phạm về ma túy được coi là loại tội phạm nguy hiểm, là nguồn gốc phát sinh của nhiều loại tội phạm khác?",
+    "options": [
+      "Vì cơn nghiện làm mất kiểm soát hành vi, dẫn đến việc người nghiện sẵn sàng trộm cắp, cướp của, giết người để có tiền mua ma túy.",
+      "Vì ma túy có giá trị trao đổi kinh tế lớn nhất trong tất cả các mặt hàng thương mại.",
+      "Vì người dùng ma túy thường có sức khỏe phi thường hơn người bình thường.",
+      "Vì ma túy làm cho người sử dụng thông minh đột xuất trong thời gian ngắn."
+    ],
+    "answer": "Vì cơn nghiện làm mất kiểm soát hành vi, dẫn đến việc người nghiện sẵn sàng trộm cắp, cướp của, giết người để có tiền mua ma túy.",
+    "explanation": "Ma túy hủy hoại nhân cách và thể xác. Sự lệ thuộc vào chất gây nghiện thúc đẩy người nghiện thực hiện hành vi phạm tội hình sự tàn nhẫn để thỏa mãn nhu cầu sinh lý của cơn nghiện."
+  },
+  {
+    "question": "Việc một doanh nghiệp xả khói bụi vượt quá tiêu chuẩn cho phép ra bầu không khí sẽ chịu hình thức xử lý chính nào của pháp luật thời bình?",
+    "options": [
+      "Xử phạt vi phạm hành chính (phạt tiền), đình chỉ hoạt động có thời hạn và buộc khắc phục hậu quả môi trường.",
+      "Tịch thu vĩnh viễn toàn bộ nhà xưởng và tài sản cá nhân của tất cả công nhân.",
+      "Cấm doanh nghiệp không được kinh doanh bất kỳ mặt hàng nào khác trên thị trường.",
+      "Phạt tù chung thân đối với người đứng đầu doanh nghiệp ngay lập tức không cần xét xử."
+    ],
+    "answer": "Xử phạt vi phạm hành chính (phạt tiền), đình chỉ hoạt động có thời hạn và buộc khắc phục hậu quả môi trường.",
+    "explanation": "Tùy mức độ ô nhiễm, cơ quan chức năng sẽ áp dụng hình thức phạt tiền hành chính rất nặng, đình chỉ sản xuất để cải tạo hệ thống lọc khí và yêu cầu bồi thường thiệt hại môi trường."
+  },
+  {
+    "question": "Mục đích chính của việc quy định đường biên giới trên đất liền được đánh dấu bằng hệ thống các cột mốc quốc gia là gì?",
+    "options": [
+      "Để tạo điều kiện trực quan giúp lực lượng chức năng và người dân nhận biết, quản lý thực địa rõ ràng ranh giới chủ quyền.",
+      "Để làm rào cản ngăn chặn triệt để các loài chim và động vật hoang dã di cư.",
+      "Để làm đẹp cảnh quan thiên nhiên vùng rừng núi biên cương.",
+      "Để các nước láng giềng không thể nhìn thấy các hoạt động kinh tế phía bên kia."
+    ],
+    "answer": "Để tạo điều kiện trực quan giúp lực lượng chức năng và người dân nhận biết, quản lý thực địa rõ ràng ranh giới chủ quyền.",
+    "explanation": "Cột mốc biên giới là biểu tượng pháp lý thực địa vững chắc, khẳng định sự đồng thuận về ranh giới lãnh thổ giữa hai quốc gia, giúp ngăn ngừa xung đột, xâm canh xâm cư."
+  },
+  {
+    "question": "Tại sao Luật Biển Việt Nam quy định tàu thuyền nước ngoài khi đi qua lãnh hải Việt Nam phải thực hiện quyền 'đi qua không gây hại'?",
+    "options": [
+      "Để bảo đảm không làm phương hại đến hòa bình, an ninh, trật tự và môi trường sinh thái của quốc gia ven biển.",
+      "Để bắt buộc các tàu thuyền nước ngoài phải nộp thuế du lịch cho Việt Nam.",
+      "Để các tàu thuyền nước ngoài không thể đánh bắt hết hải sản ngoài khơi đại dương.",
+      "Vì tàu thuyền nước ngoài thường có kích thước quá lớn làm chật hẹp lối đi."
+    ],
+    "answer": "Để bảo đảm không làm phương hại đến hòa bình, an ninh, trật tự và môi trường sinh thái của quốc gia ven biển.",
+    "explanation": "Đi qua không gây hại là một nguyên tắc luật biển quốc tế. Tàu nước ngoài được đi qua lãnh hải nhưng không được tập trận, do thám, tuyên truyền thù địch hay xả thải gây ô nhiễm."
+  },
+  {
+    "question": "Trách nhiệm của học sinh trung học phổ thông trong việc bảo vệ chủ quyền lãnh thổ quốc gia là gì?",
+    "options": [
+      "Học tập tốt, nâng cao nhận thức, sẵn sàng tham gia nghĩa vụ quân sự và đấu tranh chống luận điệu xuyên tạc.",
+      "Tự ý lập nhóm trang bị vũ khí ra biên giới tuần tra thay chiến sĩ.",
+      "Không cần quan tâm vì việc bảo vệ biên giới là của quân đội và công an.",
+      "Tìm cách di cư sang nước khác sinh sống để tránh chiến tranh."
+    ],
+    "answer": "Học tập tốt, nâng cao nhận thức, sẵn sàng tham gia nghĩa vụ quân sự và đấu tranh chống luận điệu xuyên tạc.",
+    "explanation": "Học sinh bảo vệ Tổ quốc bằng cách tích lũy tri thức, hiểu đúng lịch sử địa lý nước nhà, nâng cao tinh thần cảnh giác cách mạng và tuân thủ pháp luật."
+  },
+  {
+    "question": "Nội dung nào dưới đây thuộc nghĩa vụ của sĩ quan Công an nhân dân Việt Nam?",
+    "options": [
+      "Tuyệt đối trung thành với Tổ quốc, nhân dân, kính trọng, lễ phép và hết lòng phục vụ nhân dân.",
+      "Được quyền giữ lại tài sản thu giữ từ tội phạm để làm phần thưởng cá nhân.",
+      "Tự ý nghỉ việc đi du lịch nước ngoài mà không cần xin phép cấp trên.",
+      "Chỉ thực hiện nhiệm vụ khi có tiền thù lao bồi dưỡng thêm từ người dân."
+    ],
+    "answer": "Tuyệt đối trung thành với Tổ quốc, nhân dân, kính trọng, lễ phép và hết lòng phục vụ nhân dân.",
+    "explanation": "Sĩ quan công an hoạt động vì lợi ích nhân dân, điều lệnh quy định phải có thái độ kính trọng, lễ phép, tận tụy phục vụ nhân dân, bảo vệ công lý."
+  },
+  {
+    "question": "Khi thấy một đám đông thanh thiếu niên tụ tập nẹt bô, lạng lách, chuẩn bị đua xe trái phép trên đường phố, em nên xử lý như thế nào?",
+    "options": [
+      "Tránh xa khu vực đó và gọi điện báo ngay cho lực lượng Cảnh sát 113 hoặc công an xã, phường gần nhất.",
+      "Đứng lại xem, quay video đăng lên mạng xã hội để câu tương tác cổ vũ.",
+      "Lấy xe máy của mình lao vào tham gia đua cùng cho tăng phần kịch tính.",
+      "Lao ra giữa đường để ngăn cản đám đông đua xe bằng bạo lực."
+    ],
+    "answer": "Tránh xa khu vực đó và gọi điện báo ngay cho lực lượng Cảnh sát 113 hoặc công an xã, phường gần nhất.",
+    "explanation": "Báo cơ quan công an (113) giúp ngăn chặn kịp thời hành vi nguy hiểm, bảo đảm an toàn tính mạng cho chính mình và người đi đường."
+  },
+  {
+    "question": "Tại sao việc vứt pin điện tử cũ bừa bãi ra bãi rác sinh hoạt thông thường lại vi phạm hành vi bảo vệ môi trường?",
+    "options": [
+      "Vì pin chứa các kim loại nặng độc hại (chì, thủy ngân) sẽ ngấm vào đất, nguồn nước ngầm gây ngộ độc mãn tính.",
+      "Vì pin cũ chiếm nhiều diện tích chôn lấp rác hơn các loại túi nilon.",
+      "Vì pin cũ phát ra sóng điện từ làm hỏng các thiết bị xúc rác.",
+      "Vì vứt pin cũ sẽ làm cho bãi rác bốc mùi hôi thối khó chịu hơn."
+    ],
+    "answer": "Vì pin chứa các kim loại nặng độc hại (chì, thủy ngân) sẽ ngấm vào đất, nguồn nước ngầm gây ngộ độc mãn tính.",
+    "explanation": "Pin điện tử là chất thải nguy hại, cần quy trình thu gom và xử lý hóa học riêng biệt để tránh rò rỉ kim loại nặng gây ung thư, quái thai cho con người qua chuỗi thức ăn."
+  },
+  {
+    "question": "Dấu hiệu nào dưới đây giúp người dùng internet nhận biết một trang web có thể là trang web giả mạo lừa đảo?",
+    "options": [
+      "Tên miền có ký tự lạ, sai chính tả so với thương hiệu gốc, không sử dụng giao thức bảo mật 'https'.",
+      "Trang web có tốc độ tải dữ liệu quá nhanh và mượt mà.",
+      "Trang web hiển thị đầy đủ thông tin giấy phép hoạt động của Bộ Công thương.",
+      "Trang web có giao diện màu sắc trùng khớp với logo của ngân hàng."
+    ],
+    "answer": "Tên miền có ký tự lạ, sai chính tả so với thương hiệu gốc, không sử dụng giao thức bảo mật 'https'.",
+    "explanation": "Kẻ lừa đảo thường mua tên miền gần giống (ví dụ: vcb-digibank thay vì vcb). Việc thiếu chứng chỉ bảo mật chữ khóa 'https' (chỉ có http) cảnh báo dữ liệu nhập vào không được mã hóa."
+  },
+  {
+    "question": "Nhà nước Việt Nam thực hiện chính sách gì đối với những người vô ý nghiện ma túy nhưng tự nguyện đi cai nghiện?",
+    "options": [
+      "Khuyến khích, hỗ trợ điều trị, cắt cơn và tạo điều kiện học nghề để tái hòa nhập cộng đồng.",
+      "Bắt buộc cách ly vĩnh viễn khỏi đời sống xã hội, cấm không cho gặp người thân.",
+      "Xử phạt tù giam như đối với tội phạm buôn bán ma túy chuyên nghiệp.",
+      "Công khai toàn bộ danh tính thông tin cá nhân lên các phương tiện truyền thông để răn đe."
+    ],
+    "answer": "Khuyến khích, hỗ trợ điều trị, cắt cơn và tạo điều kiện học nghề để tái hòa nhập cộng đồng.",
+    "explanation": "Nhà nước xem người nghiện vừa là người vi phạm nhưng cũng là nạn nhân của tệ nạn. Chính sách nhân đạo ưu tiên cai nghiện, chữa bệnh và hướng nghiệp giúp họ làm lại cuộc đời."
+  },
+  {
+    "question": "Sự giống nhau về bản chất giữa nghĩa vụ tham gia Quân đội nhân dân và tham gia Công an nhân dân là gì?",
+    "options": [
+      "Đều là nghĩa vụ vẻ vang bảo vệ Tổ quốc, đặt dưới sự quản lý của nhà nước pháp quyền xã hội chủ nghĩa.",
+      "Đều bắt buộc công dân phải phục vụ trọn đời trong lực lượng vũ trang.",
+      "Đều được trả mức lương kinh tế cao như các doanh nghiệp nước ngoài.",
+      "Đều chỉ tuyển chọn những công dân đã tốt nghiệp đại học ngành luật."
+    ],
+    "answer": "Đều là nghĩa vụ vẻ vang bảo vệ Tổ quốc, đặt dưới sự quản lý của nhà nước pháp quyền xã hội chủ nghĩa.",
+    "explanation": "Cả hai lực lượng cấu thành sức mạnh vũ trang quốc gia. Tham gia nghĩa vụ quân sự hay công an đều là cống hiến sức trẻ thực hiện nhiệm vụ chiến lược bảo vệ chế độ và nhân dân."
+  },
+  {
+    "question": "Một người đi bộ muốn sang đường tại nơi không có vạch kẻ đường dành cho người đi bộ thì phải tuân theo quy tắc nào?",
+    "options": [
+      "Phải quan sát an toàn, nhường đường cho phương tiện cơ giới và sang đường khi bảo đảm an toàn.",
+      "Cứ nhắm mắt chạy thật nhanh sang bên kia đường mà không cần nhìn xe.",
+      "Giơ tay ra hiệu bắt buộc tất cả các dòng xe ô tô phải dừng lại nhường đường cho mình.",
+      "Chỉ được phép sang đường vào lúc nửa đêm khi đường hoàn toàn vắng xe."
+    ],
+    "answer": "Phải quan sát an toàn, nhường đường cho phương tiện cơ giới và sang đường khi bảo đảm an toàn.",
+    "explanation": "Tại nơi không có vạch chỉ dẫn, người đi bộ không được ưu tiên cắt ngang dòng xe, phải tự chủ động chọn thời điểm an toàn, không gây trở ngại cho xe đang chạy chạy tốc độ cao."
+  },
+  {
+    "question": "Tại sao việc bảo vệ rừng ngập mặn ven biển lại có ý nghĩa chiến lược đối với cả quốc phòng và môi trường?",
+    "options": [
+      "Vừa làm lá chắn xanh ngăn sạt lở, bão biển bảo vệ đê điều, vừa tạo địa hình che giấu phòng thủ phòng thủ bờ biển.",
+      "Vì rừng ngập mặn cung cấp khối lượng gỗ xây dựng lớn nhất cho quân đội.",
+      "Để ngăn chặn hoàn toàn việc tàu thuyền nước ngoài neo đậu trái phép.",
+      "Để làm giảm nhiệt độ của nước biển ngoài đại dương xuống thấp."
+    ],
+    "answer": "Vừa làm lá chắn xanh ngăn sạt lở, bão biển bảo vệ đê điều, vừa tạo địa hình che giấu phòng thủ phòng thủ bờ biển.",
+    "explanation": "Rừng ngập mặn (như đước, vẹt) bám rễ sâu làm chậm dòng chảy của sóng lớn, chống xói lở đất. Trong tác chiến, đây là khu vực hiểm trở, ngụy trang che mắt địch cực tốt."
+  },
+  {
+    "question": "Khi nhận được lời mời tham gia một nhóm kín trên mạng xã hội chuyên chia sẻ các bài viết bôi nhọ lãnh tụ lịch sử, học sinh cần làm gì?",
+    "options": [
+      "Từ chối tham gia, báo cáo xấu (report) tài khoản nhóm và nhắc nhở các bạn xung quanh cảnh giác.",
+      "Ấn tham gia để xem cho biết thông tin bên trong viết gì.",
+      "Chia sẻ link nhóm về trang cá nhân của mình để xin ý kiến cộng đồng mạng.",
+      "Im lặng không làm gì vì không liên quan đến kết quả học tập ở trường."
+    ],
+    "answer": "Từ chối tham gia, báo cáo xấu (report) tài khoản nhóm và nhắc nhở các bạn xung quanh cảnh giác.",
+    "explanation": "Xuyên tạc lịch sử, xúc phạm danh nhân là hành vi bị cấm theo Luật An ninh mạng. Học sinh cần thể hiện bản lĩnh chính trị bằng cách tẩy chay và cảnh báo bạn bè tránh bị lôi kéo."
+  },
+  {
+    "question": "Trong một buổi thảo luận về chủ quyền Biển Đông, bạn X cho rằng: 'Việt Nam chỉ có quyền khai thác cá ở vùng Lãnh hải, còn vùng Đặc quyền kinh tế thì bất kỳ nước nào cũng được vào đánh bắt tự do'. Em hãy nhận xét ý kiến của bạn X.",
+    "options": [
+      "Ý kiến của bạn X sai. Ở vùng Đặc quyền kinh tế, Việt Nam có quyền chủ quyền hoàn toàn về thăm dò và khai thác mọi tài nguyên, nước ngoài muốn đánh bắt cá phải được sự cho phép của Việt Nam.",
+      "Ý kiến của bạn X hoàn toàn đúng với quy định của Luật Biển quốc tế năm 1982.",
+      "Bạn X đúng một nửa, nước ngoài được đánh bắt cá tự do nhưng phải nộp lại một phần ba số cá cho Việt Nam.",
+      "Ý kiến của bạn sai vì Việt Nam có quyền sở hữu tuyệt đối toàn bộ cấu trúc Biển Đông không chia sẻ vùng nào."
+    ],
+    "answer": "Ý kiến của bạn X sai. Ở vùng Đặc quyền kinh tế, Việt Nam có quyền chủ quyền hoàn toàn về thăm dò và khai thác mọi tài nguyên, nước ngoài muốn đánh bắt cá phải được sự cho phép của Việt Nam.",
+    "explanation": "Vùng đặc quyền kinh tế (rộng 200 hải lý) trao cho quốc gia ven biển đặc quyền kinh tế tối cao đối với tài nguyên sinh vật (cá, hải sản) và phi sinh vật (dầu khí). Tàu nước ngoài chỉ có quyền đi qua chứ không được tự ý khai thác."
+  },
+  {
+    "question": "Anh Bình (22 tuổi) đang là sinh viên năm thứ 3 của một trường Đại học chính quy thì nhận được giấy lệnh gọi đăng ký kiểm tra sức khỏe nghĩa vụ quân sự. Bình cho rằng mình đang đi học đại học thì đương nhiên không phải đi nghĩa vụ nữa nên không đi khám. Bình hiểu đúng hay sai?",
+    "options": [
+      "Bình hiểu sai. Việc đang học đại học chỉ là căn cứ để tạm hoãn gọi nhập ngũ trong thời gian học, công dân vẫn phải đi khám sức khỏe nghĩa vụ quân sự khi có lệnh.",
+      "Bình hiểu đúng vì sinh viên đại học được miễn hoàn toàn nghĩa vụ quân sự theo luật mới.",
+      "Bình đúng vì lệnh khám sức khỏe chỉ dành cho những người không đi học phổ thông hoặc đại học.",
+      "Bình sai vì học sinh sinh viên phải nghỉ học ngay lập tức để đi bộ đội khi bước sang tuổi 20."
+    ],
+    "answer": "Bình hiểu sai. Việc đang học đại học chỉ là căn cứ để tạm hoãn gọi nhập ngũ trong thời gian học, công dân vẫn phải đi khám sức khỏe nghĩa vụ quân sự khi có lệnh.",
+    "explanation": "Tạm hoãn gọi nhập ngũ để bảo đảm quyền học tập khác với việc miễn nghĩa vụ. Sinh viên vẫn nằm trong độ tuổi quản lý (kéo dài đến hết 27 tuổi) và phải chấp hành lệnh kiểm tra sức khỏe định kỳ của Hội đồng nghĩa vụ."
+  },
+  {
+    "question": "Bạn H (16 tuổi) điều khiển xe máy điện đến trường, do vội học nên H đã vượt đèn đỏ tại một ngã tư và va chạm vào một bà cụ đi bộ khiến bà cụ bị ngã trầy xước nhẹ. Cơ quan công an xử lý trường hợp này như thế nào?",
+    "options": [
+      "Xử phạt vi phạm hành chính đối với H về hành vi vượt đèn đỏ, yêu cầu H (hoặc cha mẹ) bồi thường thiệt hại dân sự cho bà cụ.",
+      "Tịch thu vĩnh viễn chiếc xe máy điện của H và buộc H phải nghỉ học một năm.",
+      "Không xử lý vì H chưa đủ 18 tuổi và bà cụ chỉ bị thương nhẹ không đáng kể.",
+      "Phạt tù giam H từ 1 đến 3 năm về tội cố ý gây tai nạn giao thông nghiêm trọng."
+    ],
+    "answer": "Xử phạt vi phạm hành chính đối với H về hành vi vượt đèn đỏ, yêu cầu H (hoặc cha mẹ) bồi thường thiệt hại dân sự cho bà cụ.",
+    "explanation": "Từ đủ 14 đến dưới 16 tuổi phải chịu trách nhiệm hành chính về lỗi cố ý. Vượt đèn đỏ là lỗi cố ý gây nguy hiểm. H phải chịu phạt hành chính và có trách nhiệm bồi thường chi phí thuốc men cho người bị hại."
+  },
+  {
+    "question": "Một nhà máy chế biến thực phẩm đóng trên địa bàn tỉnh Y thường xuyên lợi dụng những đêm trời mưa lớn để lén lút xả toàn bộ nước thải thối nồng, chưa qua hệ thống lọc xuống dòng sông cạnh nhà máy. Người dân xung quanh cần thu thập chứng cứ và phản ánh thế nào để đúng pháp luật?",
+    "options": [
+      "Quay phim, chụp ảnh làm bằng chứng, làm đơn kiến nghị gửi Phòng Tài nguyên và Môi trường hoặc cơ quan Cảnh sát phòng chống tội phạm về môi trường địa phương.",
+      "Tập hợp đông người mang gậy gộc đến đập phá hệ thống đường ống và nhà xưởng của nhà máy.",
+      "Im lặng chịu đựng và mua máy lọc nước về tự bảo vệ gia đình vì nhà máy có nhiều tiền.",
+      "Đăng tin lên mạng xã hội kêu gọi mọi người tẩy chay tất cả các mặt hàng của tỉnh Y."
+    ],
+    "answer": "Quay phim, chụp ảnh làm bằng chứng, làm đơn kiến nghị gửi Phòng Tài nguyên và Môi trường hoặc cơ quan Cảnh sát phòng chống tội phạm về môi trường địa phương.",
+    "explanation": "Công dân có quyền và nghĩa vụ tố giác hành vi hủy hoại môi trường. Việc thu thập chứng cứ hình ảnh giúp cơ quan chức năng có căn cứ xử lý pháp lý nhanh chóng, tránh hành vi tự phát dùng bạo lực vi phạm pháp luật."
+  },
+  {
+    "question": "Trang (học sinh lớp 11) nhận được lời mời kết bạn từ một tài khoản facebook lạ. Người này tự xưng là giám đốc công ty giải trí, khen Trang có ngoại hình đẹp và hứa hẹn giới thiệu việc làm mẫu ảnh thu nhập 10 triệu/tháng, yêu cầu Trang gửi ảnh chụp chân dung và số tài khoản ngân hàng để đặt cọc. Trang nên xử lý tình huống này ra sao?",
+    "options": [
+      "Cảnh giác, từ chối gửi thông tin cá nhân, chặn tài khoản lạ và chia sẻ câu chuyện với bố mẹ hoặc thầy cô để nhận tư vấn.",
+      "Vui mừng gửi ngay ảnh chụp chân dung và số thẻ ngân hàng của bố mẹ để nhận tiền cọc.",
+      "Gửi ảnh cá nhân nhưng yêu cầu người đó phải chuyển trước 50% số tiền lương của tháng đầu.",
+      "Rủ bạn thân cùng nghỉ học để đến văn phòng công ty gặp vị giám đốc trực tiếp mà không báo cho gia đình."
+    ],
+    "answer": "Cảnh giác, từ chối vũ thông tin cá nhân, chặn tài khoản lạ và chia sẻ câu chuyện với bố mẹ hoặc thầy cô để nhận tư vấn.",
+    "explanation": "Đây là phương thức tiếp cận điển hình của tội phạm lừa đảo công nghệ cao hoặc tội phạm buôn bán người. Việc thu thập hình ảnh cá nhân và thông tin tài khoản dùng để tống tiền hoặc làm giả hồ sơ phạm pháp."
+  },
+  {
+    "question": "Tại sao việc xác định ranh giới lòng đất của quốc gia trên thực tế lại phụ thuộc hoàn toàn vào đường biên giới quốc gia trên đất liền và trên biển?",
+    "options": [
+      "Vì biên giới lòng đất được tính bằng mặt thẳng đứng đi qua đường biên giới trên đất liền và trên biển xuống sâu vào tâm Trái Đất.",
+      "Vì lòng đất chứa nhiều khoáng sản nên các nước tự thỏa thuận thay đổi đường ranh giới liên tục.",
+      "Vì công nghệ hiện đại chưa thể đo đạc chính xác độ sâu của cấu trúc lòng đất.",
+      "Vì biên giới lòng đất chỉ có giá trị pháp lý khi quốc gia tiến hành đào hầm khai thác mỏ."
+    ],
+    "answer": "Vì biên giới lòng đất được tính bằng mặt thẳng đứng đi qua đường biên giới trên đất liền và trên biển xuống sâu vào tâm Trái Đất.",
+    "explanation": "Lòng đất là bộ phần nằm dưới vùng đất và vùng nước của quốc gia. Luật pháp quốc tế quy định đường ranh giới bề mặt kéo thẳng đứng vuông góc xuống phía dưới chính là giới hạn không gian lòng đất thuộc chủ quyền quốc gia."
+  },
+  {
+    "question": "Anh Nam là sĩ quan Quân đội, vợ anh là chị Hoa là sĩ quan Công an nhân dân. Trong một bữa cơm gia đình, anh Nam nói: 'Nhiệm vụ bảo vệ Tổ quốc chống giặc ngoại xâm là của Quân đội, còn Công an chỉ lo bắt tội phạm trộm cắp trong nước thôi'. Nhận xét về câu nói của anh Nam.",
+    "options": [
+      "Anh Nam nói chưa đầy đủ. Công an nhân dân cũng có chức năng bảo vệ an ninh quốc gia, phối hợp cùng quân đội đấu tranh chống giặc ngoại xâm, bảo vệ độc lập chủ quyền đất nước.",
+      "Anh Nam nói hoàn toàn chính xác theo đúng sự phân chia nhiệm vụ của Hiến pháp.",
+      "Anh Nam nói sai vì Quân đội mới là lực lượng đi bắt tội phạm trộm cắp, còn Công an lo phòng thủ biên giới.",
+      "Anh Nam đúng vì hai lực lượng này không bao giờ có chung mục tiêu chiến lược."
+    ],
+    "answer": "Anh Nam nói chưa đầy đủ. Công an nhân dân cũng có chức năng bảo vệ an ninh quốc gia, phối hợp cùng quân đội đấu tranh chống giặc ngoại xâm, bảo vệ độc lập chủ quyền đất nước.",
+    "explanation": "Bảo vệ Tổ quốc là nhiệm vụ chung của toàn dân, trong đó lực lượng vũ trang làm nòng cốt. Lực lượng An ninh của Công an chuyên trách phòng chống gián điệp, bạo loạn, các thế lực thù địch bên ngoài cấu kết phá hoại nội bộ, phối hợp chặt chẽ với Quân đội."
+  },
+  {
+    "question": "Tại một đoạn đường đèo có biển báo hiệu 'Đoạn đường thường xảy ra sạt lở đất vào mùa mưa', khi trời đang mưa giông lớn, lái xe ô tô cần điều khiển phương tiện như thế nào để bảo đảm trật tự an toàn giao thông?",
+    "options": [
+      "Giảm tốc độ, chú ý quan sát sườn núi, không dừng đỗ xe dưới vách đá dựng đứng, bật đèn cảnh báo và di chuyển cẩn trọng.",
+      "Tăng ga thật nhanh để vượt qua đoạn đường đèo nguy hiểm này càng sớm càng tốt.",
+      "Tắt hết đèn xe để tiết kiệm điện năng hệ thống và đi sát vào mép vực sâu.",
+      "Dừng xe ngay giữa lòng đường đèo, xuống xe đi tìm nơi trú mưa dưới hốc đá."
+    ],
+    "answer": "Giảm tốc độ, chú ý quan sát sườn núi, không dừng đỗ xe dưới vách đá dựng đứng, bật đèn cảnh báo và di chuyển cẩn trọng.",
+    "explanation": "Mưa lớn làm đất đá mất liên kết, dễ sạt lở bất ngờ. Đi chậm giúp tài xế kịp phản ứng khi thấy vật cản rơi xuống. Không dừng đỗ dưới vách đá hạn chế nguy cơ xe bị đất đá đè bẹp."
+  },
+  {
+    "question": "Một học sinh lớp 11 vô tình nhặt được một chiếc túi nilon bên trong có chứa các viên nén màu hồng (nghi là ma túy tổng hợp) rơi ở cổng trường. Hành động nào thể hiện trách nhiệm công dân cao nhất?",
+    "options": [
+      "Giữ nguyên hiện trạng, không chạm tay trực tiếp và báo ngay cho ban giám hiệu nhà trường hoặc bảo vệ, công an xã phường gần nhất.",
+      "Nhặt lên mang vào lớp chia cho các bạn cùng xem và dùng thử xem có ngọt không.",
+      "Vứt chiếc túi sang một góc khuất khác để người khác không nhìn thấy.",
+      "Mang chiếc túi về nhà cất giấu kỹ dưới gầm giường làm tài sản riêng."
+    ],
+    "answer": "Giữ nguyên hiện trạng, không chạm tay trực tiếp và báo ngay cho ban giám hiệu nhà trường hoặc bảo vệ, công an xã phường gần nhất.",
+    "explanation": "Ma túy tổng hợp cực độc và là chất cấm. Không chạm tay tránh việc lưu lại dấu vân tay gây hiểu lầm pháp lý. Báo ngay cơ quan chức năng để thu hồi hủy bỏ an toàn, ngăn chặn nguy cơ học sinh khác nhặt được dùng thử."
+  },
+  {
+    "question": "Hiện nay, trên mạng xã hội xuất hiện một số trò chơi trực tuyến có tính chất đặt cược tiền thật qua thẻ cào điện thoại, được quảng cáo là 'chơi game giải trí trúng thưởng lớn'. Học sinh tham gia trò chơi này sẽ đối mặt với hậu quả pháp lý và xã hội gì nghiêm trọng nhất?",
+    "options": [
+      "Vi phạm pháp luật về hành vi đánh bạc trực tuyến, nguy cơ sa sút học tập, nợ nần dẫn đến hành vi trộm cắp phạm pháp.",
+      "Làm tăng tốc độ đường truyền mạng internet của gia đình.",
+      "Được nhà nước vinh danh là những người am hiểu công nghệ số.",
+      "Giúp cải thiện kỹ năng giải toán đại số nhanh hơn cho học sinh."
+    ],
+    "answer": "Vi phạm pháp luật về hành vi đánh bạc trực tuyến, nguy cơ sa sút học tập, nợ nần dẫn đến hành vi trộm cắp phạm pháp.",
+    "explanation": "Đánh bạc trá hình dưới hình thức game online bị luật pháp nghiêm cấm. Thuật toán game được lập trình để người chơi luôn thua lỗ lớn, dẫn đến kiệt quệ tài chính, thúc đẩy hành vi phạm tội trộm cắp, cướp giật để có tiền gỡ gạc."
+  }
+]
+
+

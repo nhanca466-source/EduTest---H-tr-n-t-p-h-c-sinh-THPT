@@ -1,0 +1,563 @@
+[
+  {
+    "question": "Quyền bình đẳng giữa các dân tộc có nghĩa là gì?",
+    "options": [
+      "Dân tộc đa số có quyền lãnh đạo dân tộc thiểu số",
+      "Các dân tộc không phân biệt đa số hay thiểu số, trình độ phát triển, đều có quyền lợi và nghĩa vụ ngang nhau",
+      "Dân tộc thiểu số được hưởng quyền lợi nhiều hơn dân tộc đa số",
+      "Chỉ những dân tộc có số dân đông mới được tham gia quản lý nhà nước"
+    ],
+    "answer": "Các dân tộc không phân biệt đa số hay thiểu số, trình độ phát triển, đều có quyền lợi và nghĩa vụ ngang nhau",
+    "explanation": "Hiến pháp nước CHXHCN Việt Nam khẳng định các dân tộc cùng sinh sống trên đất nước Việt Nam đều bình đẳng về quyền lợi và nghĩa vụ."
+  },
+  {
+    "question": "An ninh quốc gia bao gồm những yếu tố nào?",
+    "options": [
+      "Chỉ bao gồm an ninh về chính trị",
+      "Chỉ bao gồm sự toàn vẹn lãnh thổ",
+      "Sự ổn định, phát triển bền vững của chế độ xã hội chủ nghĩa và Nhà nước",
+      "Chỉ bao gồm sự an toàn của lực lượng vũ trang"
+    ],
+    "answer": "Sự ổn định, phát triển bền vững của chế độ xã hội chủ nghĩa và Nhà nước",
+    "explanation": "An ninh quốc gia là sự ổn định, phát triển bền vững của chế độ xã hội chủ nghĩa và Nhà nước, sự bất khả xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ."
+  },
+  {
+    "question": "Chủ thể nào có trách nhiệm chính trong việc bảo vệ an ninh quốc gia?",
+    "options": [
+      "Chỉ riêng lực lượng Công an nhân dân",
+      "Chỉ riêng lực lượng Quân đội nhân dân",
+      "Nhà nước và toàn thể nhân dân",
+      "Các tổ chức nước ngoài tại Việt Nam"
+    ],
+    "answer": "Nhà nước và toàn thể nhân dân",
+    "explanation": "Bảo vệ an ninh quốc gia là sự nghiệp của toàn dân, trong đó Nhà nước giữ vai trò chủ đạo."
+  },
+  {
+    "question": "Hành vi nào dưới đây bị nghiêm cấm theo luật an ninh quốc gia?",
+    "options": [
+      "Tham gia các hoạt động thiện nguyện",
+      "Tuyên truyền chống phá Nhà nước, gây chia rẽ khối đại đoàn kết dân tộc",
+      "Học tập và lao động sản xuất",
+      "Đóng góp ý kiến xây dựng pháp luật"
+    ],
+    "answer": "Tuyên truyền chống phá Nhà nước, gây chia rẽ khối đại đoàn kết dân tộc",
+    "explanation": "Các hành vi xâm phạm lợi ích quốc gia, chống phá Nhà nước đều bị pháp luật nghiêm cấm."
+  },
+  {
+    "question": "Trật tự an toàn xã hội là gì?",
+    "options": [
+      "Sự tuân thủ các quy tắc trong gia đình",
+      "Trạng thái xã hội có kỷ cương, mọi người chấp hành pháp luật, nếp sống văn minh",
+      "Chỉ là việc cảnh sát đi tuần tra trên phố",
+      "Là việc cấm đoán các hoạt động văn hóa"
+    ],
+    "answer": "Trạng thái xã hội có kỷ cương, mọi người chấp hành pháp luật, nếp sống văn minh",
+    "explanation": "Trật tự an toàn xã hội là sự trật tự, ổn định trong các quan hệ xã hội, được bảo đảm bằng các quy định pháp luật."
+  },
+  {
+    "question": "Đội hình cơ bản trong hàng ngũ đơn vị dân quân tự vệ gồm những gì?",
+    "options": [
+      "Đội hình đứng, đội hình đi, đội hình chạy",
+      "Đội hình hàng ngang, đội hình hàng dọc",
+      "Đội hình khối, đội hình chữ V",
+      "Chỉ có đội hình hàng dọc"
+    ],
+    "answer": "Đội hình hàng ngang, đội hình hàng dọc",
+    "explanation": "Các đội hình cơ bản trong hàng ngũ tiểu đội, trung đội bao gồm hàng ngang và hàng dọc để di chuyển và tập hợp."
+  },
+  {
+    "question": "Khi nghe lệnh tập hợp hàng dọc, người chỉ huy đứng ở đâu?",
+    "options": [
+      "Đứng sau đội hình",
+      "Đứng phía trước, chính diện với đội hình",
+      "Đứng bên trái đội hình",
+      "Không quy định"
+    ],
+    "answer": "Đứng phía trước, chính diện với đội hình",
+    "explanation": "Người chỉ huy luôn đứng vị trí tiền tiêu để quan sát và điều khiển đội hình."
+  },
+  {
+    "question": "Mục đích của việc tập luyện đội ngũ là gì?",
+    "options": [
+      "Để đi thi văn nghệ",
+      "Rèn luyện tính kỷ luật, thống nhất và tinh thần tập thể",
+      "Để giảm cân",
+      "Để đối phó với cấp trên"
+    ],
+    "answer": "Rèn luyện tính kỷ luật, thống nhất và tinh thần tập thể",
+    "explanation": "Đội ngũ giúp rèn luyện tác phong quân sự, tính kỷ luật và sự phối hợp nhịp nhàng giữa các cá nhân."
+  },
+  {
+    "question": "Đâu là biểu hiện của quyền bình đẳng tôn giáo?",
+    "options": [
+      "Đạo này cao hơn đạo kia",
+      "Mọi người có quyền theo hoặc không theo một tôn giáo nào",
+      "Chỉ được tin vào các tôn giáo truyền thống",
+      "Nhà nước ưu tiên một tôn giáo nhất định"
+    ],
+    "answer": "Mọi người có quyền theo hoặc không theo một tôn giáo nào",
+    "explanation": "Pháp luật Việt Nam tôn trọng quyền tự do tín ngưỡng, tôn giáo của mọi công dân."
+  },
+  {
+    "question": "Việc giữ gìn trật tự an toàn xã hội có ý nghĩa gì?",
+    "options": [
+      "Để người dân sợ hãi",
+      "Tạo môi trường sống an toàn, ổn định cho sự phát triển của đất nước",
+      "Để tăng doanh thu cho ngành cảnh sát",
+      "Để hạn chế quyền tự do đi lại của nhân dân"
+    ],
+    "answer": "Tạo môi trường sống an toàn, ổn định cho sự phát triển của đất nước",
+    "explanation": "Trật tự an toàn xã hội là tiền đề để phát triển kinh tế, văn hóa và nâng cao chất lượng cuộc sống."
+  },
+  {
+    "question": "Trong đội hình hàng dọc, khoảng cách giữa các cá nhân thường là bao nhiêu?",
+    "options": [
+      "50 cm",
+      "70 cm",
+      "100 cm (bằng một cánh tay)",
+      "Không cần khoảng cách"
+    ],
+    "answer": "100 cm (bằng một cánh tay)",
+    "explanation": "Khoảng cách tiêu chuẩn để đảm bảo đội hình không quá khít gây cản trở cử động."
+  },
+  {
+    "question": "Ai có quyền thực hiện việc bắt người theo quy định của pháp luật?",
+    "options": [
+      "Mọi công dân đều có quyền bắt",
+      "Chỉ cơ quan, người có thẩm quyền theo quy định của pháp luật",
+      "Chỉ người có võ thuật cao",
+      "Các nhóm thanh niên tình nguyện"
+    ],
+    "answer": "Chỉ cơ quan, người có thẩm quyền theo quy định của pháp luật",
+    "explanation": "Để bảo đảm quyền con người, chỉ những cơ quan chức năng được chỉ định mới có thẩm quyền bắt giữ người."
+  },
+  {
+    "question": "Một trong những nhiệm vụ của học sinh trong việc bảo vệ an ninh quốc gia là gì?",
+    "options": [
+      "Sử dụng mạng xã hội để bình luận tiêu cực",
+      "Phát hiện và báo cáo các hành vi vi phạm pháp luật cho cơ quan chức năng",
+      "Trốn tránh nghĩa vụ quân sự",
+      "Tiếp tay cho tội phạm"
+    ],
+    "answer": "Phát hiện và báo cáo các hành vi vi phạm pháp luật cho cơ quan chức năng",
+    "explanation": "Học sinh cần có ý thức cảnh giác và trách nhiệm công dân trong việc xây dựng xã hội an toàn."
+  },
+  {
+    "question": "Động tác 'quay tại chỗ' bao gồm những động tác nào?",
+    "options": [
+      "Quay phải, quay trái, quay đằng sau",
+      "Quay vòng tròn",
+      "Chỉ quay phải",
+      "Không có động tác này"
+    ],
+    "answer": "Quay phải, quay trái, quay đằng sau",
+    "explanation": "Đây là các động tác cơ bản để thay đổi hướng trong đội ngũ."
+  },
+  {
+    "question": "Trong trường hợp nào được phép hạn chế quyền tự do tôn giáo?",
+    "options": [
+      "Khi hoạt động tôn giáo đó trái pháp luật, xâm phạm an ninh quốc gia",
+      "Khi tôn giáo đó quá đông người",
+      "Không bao giờ được hạn chế",
+      "Khi tôn giáo đó mới du nhập vào Việt Nam"
+    ],
+    "answer": "Khi hoạt động tôn giáo đó trái pháp luật, xâm phạm an ninh quốc gia",
+    "explanation": "Quyền tự do tôn giáo được tôn trọng nhưng phải trong khuôn khổ pháp luật, không được lợi dụng để phá hoại đoàn kết dân tộc."
+  },
+  {
+    "question": "Thế nào là 'ngụy biện' trong tranh luận về vấn đề dân tộc?",
+    "options": [
+      "Sử dụng lập luận logic để giải thích",
+      "Sử dụng các lý lẽ sai sự thật để kích động sự thù hằn giữa các dân tộc",
+      "Lắng nghe ý kiến của đối phương",
+      "Bình tĩnh phân tích tình hình"
+    ],
+    "answer": "Sử dụng các lý lẽ sai sự thật để kích động sự thù hằn giữa các dân tộc",
+    "explanation": "Ngụy biện trong bối cảnh này thường nhằm mục đích phá hoại sự đoàn kết, gây chia rẽ."
+  },
+  {
+    "question": "Ý nghĩa của việc thực hiện 'nếp sống văn minh' là gì?",
+    "options": [
+      "Chỉ để cho đẹp mắt",
+      "Giảm thiểu các mâu thuẫn xã hội, đảm bảo trật tự công cộng",
+      "Tốn kém thời gian",
+      "Để lấy lòng chính quyền"
+    ],
+    "answer": "Giảm thiểu các mâu thuẫn xã hội, đảm bảo trật tự công cộng",
+    "explanation": "Nếp sống văn minh giúp mọi người hành xử chuẩn mực, góp phần ổn định an ninh tại địa phương."
+  },
+  {
+    "question": "Khi đi đều, bước chân đầu tiên nên bắt đầu từ chân nào?",
+    "options": [
+      "Chân phải",
+      "Chân trái",
+      "Cả hai chân cùng lúc",
+      "Không quy định"
+    ],
+    "answer": "Chân trái",
+    "explanation": "Theo điều lệnh đội ngũ, khi có lệnh đi đều, bước chân đầu tiên luôn là chân trái."
+  },
+  {
+    "question": "Luật an ninh quốc gia Việt Nam có hiệu lực từ khi nào?",
+    "options": [
+      "Năm 1990",
+      "Năm 2004",
+      "Năm 2015",
+      "Năm 2020"
+    ],
+    "answer": "Năm 2004",
+    "explanation": "Luật An ninh quốc gia số 32/2004/QH11 được Quốc hội thông qua ngày 03/12/2004."
+  },
+  {
+    "question": "Trách nhiệm của học sinh đối với các vấn đề tôn giáo là gì?",
+    "options": [
+      "Tôn trọng đức tin của người khác, sống hòa hợp, không gây mâu thuẫn",
+      "Ép buộc người khác theo đạo của mình",
+      "Chế giễu các nghi lễ tôn giáo khác",
+      "Không cần quan tâm đến tôn giáo"
+    ],
+    "answer": "Tôn trọng đức tin của người khác, sống hòa hợp, không gây mâu thuẫn",
+    "explanation": "Tôn trọng sự đa dạng tôn giáo là một phần của việc xây dựng khối đại đoàn kết."
+  },
+  {
+    "question": "Vì sao phải bảo vệ an ninh quốc gia trong thời kỳ hội nhập?",
+    "options": [
+      "Để đóng cửa đất nước",
+      "Vì các mối đe dọa an ninh ngày càng tinh vi, khó lường thông qua không gian mạng và kinh tế",
+      "Để kiểm soát tất cả mọi người",
+      "Vì sợ người nước ngoài"
+    ],
+    "answer": "Vì các mối đe dọa an ninh ngày càng tinh vi, khó lường thông qua không gian mạng và kinh tế",
+    "explanation": "Hội nhập mang lại cơ hội nhưng cũng tiềm ẩn nhiều nguy cơ về an ninh mạng, gián điệp, và ảnh hưởng văn hóa."
+  },
+  {
+    "question": "Tại sao trong đội hình hàng dọc, người đứng trước cần giữ khoảng cách chuẩn với người đứng sau?",
+    "options": [
+      "Để đẹp đội hình",
+      "Để tránh va chạm khi di chuyển và đảm bảo tính thống nhất của đội hình",
+      "Để người chỉ huy dễ nhìn",
+      "Vì là quy định bắt buộc của ngành y tế"
+    ],
+    "answer": "Để tránh va chạm khi di chuyển và đảm bảo tính thống nhất của đội hình",
+    "explanation": "Khoảng cách giúp đội hình di chuyển nhịp nhàng, tránh giẫm chân nhau."
+  },
+  {
+    "question": "Hành vi lợi dụng quyền tự do dân chủ để xâm phạm lợi ích Nhà nước được hiểu là gì?",
+    "options": [
+      "Việc thực hiện đúng quyền công dân",
+      "Việc sử dụng các quyền hợp pháp làm bình phong để thực hiện các hoạt động phá hoại, gây rối",
+      "Việc đóng góp ý kiến xây dựng chính sách",
+      "Việc khiếu nại về hành vi sai trái của cán bộ"
+    ],
+    "answer": "Việc sử dụng các quyền hợp pháp làm bình phong để thực hiện các hoạt động phá hoại, gây rối",
+    "explanation": "Đây là hành vi vi phạm pháp luật cần bị ngăn chặn."
+  },
+  {
+    "question": "Tại sao các dân tộc ở Việt Nam lại có quyền bình đẳng dù dân số khác nhau?",
+    "options": [
+      "Vì họ cùng là người Việt Nam",
+      "Vì đó là bản chất dân chủ của Nhà nước pháp quyền xã hội chủ nghĩa",
+      "Vì quốc tế ép buộc",
+      "Vì dân tộc thiểu số nghèo hơn"
+    ],
+    "answer": "Vì đó là bản chất dân chủ của Nhà nước pháp quyền xã hội chủ nghĩa",
+    "explanation": "Sự đoàn kết và bình đẳng là nền tảng sức mạnh của quốc gia."
+  },
+  {
+    "question": "Vai trò của học sinh trong việc đảm bảo trật tự tại trường học là gì?",
+    "options": [
+      "Để thầy cô tự lo",
+      "Tuân thủ nội quy, phê phán các hành vi bạo lực học đường",
+      "Chỉ cần tập trung học tập",
+      "Chỉ tham gia khi có phong trào"
+    ],
+    "answer": "Tuân thủ nội quy, phê phán các hành vi bạo lực học đường",
+    "explanation": "Trật tự trường học là nền tảng của an ninh xã hội ở quy mô nhỏ."
+  },
+  {
+    "question": "Sự khác biệt giữa 'An ninh quốc gia' và 'Trật tự an toàn xã hội' nằm ở đâu?",
+    "options": [
+      "Không có sự khác biệt",
+      "An ninh quốc gia bảo vệ chế độ và chủ quyền, trật tự xã hội đảm bảo sự ổn định trong sinh hoạt hàng ngày",
+      "An ninh quốc gia quan trọng hơn",
+      "Trật tự xã hội quan trọng hơn"
+    ],
+    "answer": "An ninh quốc gia bảo vệ chế độ và chủ quyền, trật tự xã hội đảm bảo sự ổn định trong sinh hoạt hàng ngày",
+    "explanation": "Hai khái niệm này bổ trợ cho nhau nhưng có phạm vi và đối tượng bảo vệ khác nhau."
+  },
+  {
+    "question": "Điều lệnh đội ngũ có vai trò gì trong quản lý đơn vị dân quân?",
+    "options": [
+      "Làm cho bộ đội mệt mỏi",
+      "Rèn luyện sự chỉ huy tập trung và phản ứng nhanh chóng khi có lệnh",
+      "Chỉ dùng để thi đua",
+      "Để phân biệt dân quân và bộ đội"
+    ],
+    "answer": "Rèn luyện sự chỉ huy tập trung và phản ứng nhanh chóng khi có lệnh",
+    "explanation": "Tính kỷ luật trong đội ngũ là cốt lõi của sức mạnh tập thể."
+  },
+  {
+    "question": "Vì sao chính sách dân tộc của Việt Nam luôn ưu tiên vùng sâu vùng xa?",
+    "options": [
+      "Để lấy lòng dân",
+      "Để thu hẹp khoảng cách phát triển, đảm bảo mọi người đều được thụ hưởng thành quả của đất nước",
+      "Vì vùng đó giàu tài nguyên",
+      "Để người dân ở đó không xuống thành phố"
+    ],
+    "answer": "Để thu hẹp khoảng cách phát triển, đảm bảo mọi người đều được thụ hưởng thành quả của đất nước",
+    "explanation": "Đầu tư phát triển vùng khó khăn là cách thực hiện công bằng xã hội thực chất."
+  },
+  {
+    "question": "Hành động lan truyền tin giả trên mạng xã hội gây hoang mang dư luận vi phạm điều gì?",
+    "options": [
+      "Vi phạm quyền tự do ngôn luận",
+      "Vi phạm quy định về an ninh mạng và trật tự an toàn xã hội",
+      "Không vi phạm gì cả",
+      "Vi phạm quyền riêng tư"
+    ],
+    "answer": "Vi phạm quy định về an ninh mạng và trật tự an toàn xã hội",
+    "explanation": "Tin giả làm nhiễu loạn thông tin, đe dọa sự ổn định xã hội."
+  },
+  {
+    "question": "Động tác nghiêm nghỉ có ý nghĩa gì trong nghi thức quân đội?",
+    "options": [
+      "Để nghỉ ngơi thật sự",
+      "Thể hiện sự nghiêm túc, sẵn sàng nhận nhiệm vụ và tôn trọng chỉ huy",
+      "Để chờ lệnh của cấp trên",
+      "Không có ý nghĩa gì"
+    ],
+    "answer": "Thể hiện sự nghiêm túc, sẵn sàng nhận nhiệm vụ và tôn trọng chỉ huy",
+    "explanation": "Tư thế cơ thể phản ánh tác phong và kỷ luật của quân nhân."
+  },
+  {
+    "question": "Nếu phát hiện người lạ có biểu hiện nghi vấn phá hoại tại địa phương, học sinh nên làm gì?",
+    "options": [
+      "Tự mình theo dõi để bắt giữ",
+      "Báo cáo ngay cho người lớn hoặc cơ quan công an gần nhất",
+      "Quay phim đăng mạng xã hội",
+      "Lờ đi vì sợ rắc rối"
+    ],
+    "answer": "Báo cáo ngay cho người lớn hoặc cơ quan công an gần nhất",
+    "explanation": "Đây là hành động trách nhiệm và an toàn nhất cho cá nhân."
+  },
+  {
+    "question": "Tại sao khối đại đoàn kết dân tộc lại là mục tiêu hàng đầu của an ninh quốc gia?",
+    "options": [
+      "Vì nếu dân tộc chia rẽ, kẻ thù dễ bề lợi dụng chống phá",
+      "Vì để dễ quản lý dân số",
+      "Vì đó là quy định quốc tế",
+      "Để dễ tổ chức các sự kiện văn hóa"
+    ],
+    "answer": "Vì nếu dân tộc chia rẽ, kẻ thù dễ bề lợi dụng chống phá",
+    "explanation": "Sức mạnh của Việt Nam nằm ở sự đoàn kết toàn dân."
+  },
+  {
+    "question": "Khi di chuyển theo hàng dọc, nếu người chỉ huy hô 'Đứng lại, đứng!', đội hình phải làm gì?",
+    "options": [
+      "Dừng lại ngay lập tức và đứng vào tư thế nghiêm",
+      "Tiếp tục đi thêm 2 bước rồi dừng",
+      "Dừng lại nhưng không cần nghiêm",
+      "Tản ra"
+    ],
+    "answer": "Tiếp tục đi thêm 2 bước rồi dừng",
+    "explanation": "Đây là quy định của điều lệnh đội ngũ để đảm bảo tính thống nhất trong khi dừng."
+  },
+  {
+    "question": "Ý nghĩa của việc thực hiện 'Tự do tín ngưỡng, tôn giáo' theo luật pháp là gì?",
+    "options": [
+      "Mỗi người được tự do chọn đạo và sinh hoạt tôn giáo theo pháp luật",
+      "Nhà nước quản lý hoàn toàn các hoạt động tôn giáo",
+      "Tôn giáo được tách rời hoàn toàn khỏi xã hội",
+      "Người dân phải đóng thuế cho tôn giáo"
+    ],
+    "answer": "Mỗi người được tự do chọn đạo và sinh hoạt tôn giáo theo pháp luật",
+    "explanation": "Quyền này đi kèm với trách nhiệm không lợi dụng tôn giáo vào mục đích khác."
+  },
+  {
+    "question": "Làm thế nào để phân biệt sự phê bình đóng góp và hành vi chống phá Nhà nước?",
+    "options": [
+      "Phê bình đóng góp dựa trên thiện chí và sự thật, hành vi chống phá dựa trên vu khống và kích động",
+      "Không thể phân biệt được",
+      "Cả hai đều là một",
+      "Dựa vào thái độ của người nói"
+    ],
+    "answer": "Phê bình đóng góp dựa trên thiện chí và sự thật, hành vi chống phá dựa trên vu khống và kích động",
+    "explanation": "Mục đích là tiêu chí quan trọng nhất để phân biệt."
+  },
+  {
+    "question": "Giả định: Một nhóm người biểu tình trái phép tại quảng trường trung tâm. Bạn đang là một công dân có trách nhiệm, bạn nên làm gì?",
+    "options": [
+      "Tham gia cùng để xem có chuyện gì",
+      "Rời khỏi khu vực đó và thông báo cho cơ quan chức năng nếu thấy nguy hiểm",
+      "Cổ vũ cho những người biểu tình",
+      "Đứng lại quay phim và chia sẻ trực tiếp"
+    ],
+    "answer": "Rời khỏi khu vực đó và thông báo cho cơ quan chức năng nếu thấy nguy hiểm",
+    "explanation": "Đảm bảo an toàn cho bản thân và không vô tình tiếp tay cho hoạt động trái pháp luật."
+  },
+  {
+    "question": "Phân tích tác động của việc thiếu đoàn kết dân tộc đối với an ninh quốc gia?",
+    "options": [
+      "Không ảnh hưởng gì đáng kể",
+      "Làm suy yếu khối đại đoàn kết, tạo kẽ hở cho các thế lực thù địch can thiệp và lật đổ",
+      "Chỉ làm giảm tăng trưởng kinh tế",
+      "Làm thay đổi văn hóa dân tộc"
+    ],
+    "answer": "Làm suy yếu khối đại đoàn kết, tạo kẽ hở cho các thế lực thù địch can thiệp và lật đổ",
+    "explanation": "Sức mạnh quốc gia Việt Nam dựa trên sự đồng lòng, chia rẽ chính là thất bại lớn nhất."
+  },
+  {
+    "question": "Tại sao việc đào tạo đội ngũ cho học sinh lại giúp ích cho sự nghiệp quốc phòng?",
+    "options": [
+      "Để học sinh có thể đi quân sự ngay",
+      "Hình thành tư duy quân sự, tác phong kỷ luật và ý thức tự giác bảo vệ Tổ quốc ngay khi còn ngồi trên ghế nhà trường",
+      "Để làm đẹp hồ sơ học tập",
+      "Vì đó là yêu cầu của Bộ Giáo dục"
+    ],
+    "answer": "Hình thành tư duy quân sự, tác phong kỷ luật và ý thức tự giác bảo vệ Tổ quốc ngay khi còn ngồi trên ghế nhà trường",
+    "explanation": "Giáo dục quốc phòng là giáo dục lòng yêu nước và ý thức trách nhiệm."
+  },
+  {
+    "question": "Hành động gửi email nặc danh chứa nội dung xuyên tạc lãnh đạo đất nước sẽ dẫn đến hậu quả gì?",
+    "options": [
+      "Không gây hậu quả gì",
+      "Bị điều tra và xử lý nghiêm theo Luật An ninh mạng",
+      "Được khen thưởng",
+      "Chỉ bị khóa tài khoản"
+    ],
+    "answer": "Bị điều tra và xử lý nghiêm theo Luật An ninh mạng",
+    "explanation": "Không gian mạng không phải là 'vùng ngoài vòng pháp luật'."
+  },
+  {
+    "question": "Bạn nhận thấy một người bạn cùng lớp có dấu hiệu bị kẻ xấu lôi kéo vào hoạt động cực đoan. Bạn sẽ làm gì?",
+    "options": [
+      "Tự ý dạy bảo bạn",
+      "Khuyên bạn bình tĩnh, lắng nghe và báo cáo giáo viên chủ nhiệm",
+      "Lờ đi không liên quan",
+      "Đồng tình để bạn không giận"
+    ],
+    "answer": "Khuyên bạn bình tĩnh, lắng nghe và báo cáo giáo viên chủ nhiệm",
+    "explanation": "Việc hỗ trợ kịp thời từ người lớn và nhà trường là giải pháp tối ưu."
+  },
+  {
+    "question": "Vai trò của luật pháp trong việc bảo vệ bình đẳng tôn giáo là gì?",
+    "options": [
+      "Chỉ quản lý các hoạt động tôn giáo lớn",
+      "Tạo cơ sở pháp lý để mọi người được thực hành đức tin và ngăn chặn hành vi xâm phạm quyền tự do tín ngưỡng",
+      "Để cấm các hoạt động tôn giáo",
+      "Để thu thuế"
+    ],
+    "answer": "Tạo cơ sở pháp lý để mọi người được thực hành đức tin và ngăn chặn hành vi xâm phạm quyền tự do tín ngưỡng",
+    "explanation": "Pháp luật bảo vệ quyền lợi chính đáng của mọi công dân, bao gồm người có tôn giáo."
+  },
+  {
+    "question": "Tại sao trật tự an toàn xã hội lại là nền tảng để xây dựng quốc phòng vững mạnh?",
+    "options": [
+      "Vì xã hội ổn định mới tập trung nguồn lực phát triển kinh tế và quốc phòng",
+      "Vì quân đội không cần trật tự xã hội",
+      "Vì đó là quy định",
+      "Vì quốc phòng chỉ dành cho lúc chiến tranh"
+    ],
+    "answer": "Vì xã hội ổn định mới tập trung nguồn lực phát triển kinh tế và quốc phòng",
+    "explanation": "An ninh bên trong vững chắc là bệ đỡ cho quốc phòng bên ngoài."
+  },
+  {
+    "question": "Cách ứng xử nào là đúng nhất khi đứng trước một di tích văn hóa quốc gia?",
+    "options": [
+      "Viết tên lên tường để làm kỷ niệm",
+      "Giữ gìn vệ sinh, tôn trọng giá trị lịch sử và bảo vệ di tích",
+      "Chỉ cần nhìn qua cho biết",
+      "Vô tư chơi đùa và hái hoa"
+    ],
+    "answer": "Giữ gìn vệ sinh, tôn trọng giá trị lịch sử và bảo vệ di tích",
+    "explanation": "Bảo vệ di sản là bảo vệ lịch sử và an ninh văn hóa của dân tộc."
+  },
+  {
+    "question": "Một người tự xưng là cán bộ công an yêu cầu bạn cung cấp thông tin cá nhân qua điện thoại để 'xác minh điều tra'. Bạn sẽ làm gì?",
+    "options": [
+      "Cung cấp ngay vì sợ",
+      "Từ chối và đến trực tiếp cơ quan công an để hỏi rõ hoặc gọi hotline chính thức",
+      "Gửi thông tin nhưng dùng tên giả",
+      "Hỏi số tài khoản của họ"
+    ],
+    "answer": "Từ chối và đến trực tiếp cơ quan công an để hỏi rõ hoặc gọi hotline chính thức",
+    "explanation": "Cảnh giác với tội phạm công nghệ cao giả danh cơ quan công quyền."
+  },
+  {
+    "question": "Tại sao trong tranh luận, chúng ta nên dùng luận điểm thay vì công kích cá nhân?",
+    "options": [
+      "Để chiến thắng nhanh hơn",
+      "Vì công kích cá nhân chỉ gây mâu thuẫn, trong khi dùng luận điểm giúp tìm ra sự thật và giải quyết vấn đề",
+      "Vì sợ đối phương trả thù",
+      "Vì luật pháp cấm nói xấu"
+    ],
+    "answer": "Vì công kích cá nhân chỉ gây mâu thuẫn, trong khi dùng luận điểm giúp tìm ra sự thật và giải quyết vấn đề",
+    "explanation": "Tranh luận văn minh là biểu hiện của công dân hiểu biết."
+  },
+  {
+    "question": "Đánh giá về tầm quan trọng của việc học GDQP&AN đối với học sinh lớp 12 chuẩn bị vào đại học?",
+    "options": [
+      "Chỉ là môn phụ không quan trọng",
+      "Giúp hoàn thiện nhân cách, ý thức công dân và sẵn sàng cho các nhiệm vụ bảo vệ đất nước sau này",
+      "Để được cộng điểm thi đại học",
+      "Để giảm giờ học các môn khác"
+    ],
+    "answer": "Giúp hoàn thiện nhân cách, ý thức công dân và sẵn sàng cho các nhiệm vụ bảo vệ đất nước sau này",
+    "explanation": "Môn học này không chỉ là kỹ năng quân sự mà là giáo dục tinh thần yêu nước."
+  },
+  {
+    "question": "Làm thế nào để ứng dụng tư duy phản biện trong việc tiếp nhận thông tin về an ninh trên mạng?",
+    "options": [
+      "Tin vào mọi thông tin có nhiều lượt chia sẻ",
+      "Kiểm chứng nguồn tin, phân tích tính logic và mục đích của thông tin trước khi tin hoặc chia sẻ",
+      "Chỉ tin thông tin từ bạn bè",
+      "Không cần đọc tin an ninh"
+    ],
+    "answer": "Kiểm chứng nguồn tin, phân tích tính logic và mục đích của thông tin trước khi tin hoặc chia sẻ",
+    "explanation": "Tư duy phản biện là 'lá chắn' hiệu quả nhất trong kỷ nguyên số."
+  },
+  {
+    "question": "Tại sao chúng ta phải bảo vệ chủ quyền biên giới quốc gia?",
+    "options": [
+      "Vì lãnh thổ là thiêng liêng, là nền tảng tồn tại của quốc gia",
+      "Để ngăn người nước ngoài vào du lịch",
+      "Để tăng diện tích lãnh thổ",
+      "Vì đó là yêu cầu của láng giềng"
+    ],
+    "answer": "Vì lãnh thổ là thiêng liêng, là nền tàn tồn tại của quốc gia",
+    "explanation": "Mất chủ quyền lãnh thổ đồng nghĩa với mất an ninh quốc gia."
+  },
+  {
+    "question": "Hậu quả nghiêm trọng nhất của việc thanh niên thờ ơ với nhiệm vụ quốc phòng an ninh là gì?",
+    "options": [
+      "Quốc gia thiếu nhân lực trong thời điểm cần thiết, tiềm ẩn nguy cơ mất an ninh từ chính sự thờ ơ đó",
+      "Chỉ làm cho nước nghèo đi",
+      "Không ảnh hưởng gì",
+      "Làm tăng tỉ lệ thất nghiệp"
+    ],
+    "answer": "Quốc gia thiếu nhân lực trong thời điểm cần thiết, tiềm ẩn nguy cơ mất an ninh từ chính sự thờ ơ đó",
+    "explanation": "Sức mạnh quốc phòng nằm ở sự chuẩn bị của toàn dân, trong đó thanh niên là lực lượng nòng cốt."
+  },
+  {
+    "question": "Hãy nêu một hành động cụ thể để góp phần giữ gìn trật tự xã hội tại nơi ở?",
+    "options": [
+      "Bật nhạc lớn vào ban đêm",
+      "Chấp hành tốt quy định giao thông, môi trường và hòa nhã với hàng xóm",
+      "Lấn chiếm vỉa hè để kinh doanh",
+      "Đổ rác không đúng nơi quy định"
+    ],
+    "answer": "Chấp hành tốt quy định giao thông, môi trường và hòa nhã với hàng xóm",
+    "explanation": "Mỗi hành động nhỏ của cá nhân tạo nên sự an toàn chung cho cộng đồng."
+  },
+  {
+    "question": "Mục tiêu của chính sách giáo dục quốc phòng trong nhà trường là gì?",
+    "options": [
+      "Xây dựng quân đội chuyên nghiệp",
+      "Giáo dục lòng yêu nước, ý thức trách nhiệm và rèn luyện kỹ năng cần thiết cho công dân",
+      "Để học sinh giỏi võ",
+      "Để nhà trường có thêm hoạt động"
+    ],
+    "answer": "Giáo dục lòng yêu nước, ý thức trách nhiệm và rèn luyện kỹ năng cần thiết cho công dân",
+    "explanation": "Giáo dục quốc phòng là giáo dục lòng yêu nước và ý thức trách nhiệm của công dân đối với Tổ quốc."
+  }
+]

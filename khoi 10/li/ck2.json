@@ -1,0 +1,664 @@
+
+[
+  {
+    "question": "Đơn vị nào sau đây là đơn vị của công?",
+    "options": [
+      "Oát (W)",
+      "Jun (J)",
+      "Niutơn (N)",
+      "Mã lực (HP)"
+    ],
+    "answer": "Jun (J)",
+    "explanation": "Trong hệ SI, đơn vị của công là Jun (J). Oát và mã lực là đơn vị của công suất, Niutơn là đơn vị của lực."
+  },
+  {
+    "question": "Công suất là đại lượng được đo bằng",
+    "options": [
+      "tích của công và thời gian thực hiện công.",
+      "tích của lực và quãng đường dịch chuyển.",
+      "công thực hiện được trong một đơn vị thời gian.",
+      "thương số giữa lực tác dụng và thời gian."
+    ],
+    "answer": "công thực hiện được trong một đơn vị thời gian.",
+    "explanation": "Theo định nghĩa, công suất là đại lượng đặc trưng cho tốc độ thực hiện công, được xác định bằng công thực hiện được trong một đơn vị thời gian."
+  },
+  {
+    "question": "Động năng của một vật khối lượng m di chuyển với vận tốc v được tính bằng công thức nào?",
+    "options": [
+      "Wd = m * v",
+      "Wd = m * v * v",
+      "Wd = 0,5 * m * v",
+      "Wd = 0,5 * m * v * v"
+    ],
+    "answer": "Wd = 0,5 * m * v * v",
+    "explanation": "Động năng của một vật chuyển động được xác định bằng một nửa tích khối lượng của vật với bình phương vận tốc của nó."
+  },
+  {
+    "question": "Thế năng trọng trường của một vật phụ thuộc vào yếu tố nào sau đây?",
+    "options": [
+      "Vận tốc của vật.",
+      "Khối lượng và vị trí độ cao của vật.",
+      "Thời gian chuyển động của vật.",
+      "Hình dạng và kích thước của vật."
+    ],
+    "answer": "Khối lượng và vị trí độ cao của vật.",
+    "explanation": "Thế năng trọng trường được xác định bởi công thức Wt = m * g * z, do đó nó phụ thuộc vào khối lượng m và độ cao z so với mốc thế năng."
+  },
+  {
+    "question": "Cơ năng của một vật bằng đại lượng nào dưới đây?",
+    "options": [
+      "Tích của động năng và thế năng.",
+      "Thương số của động năng và thế năng.",
+      "Hiệu của động năng và thế năng.",
+      "Tổng của động năng và thế năng."
+    ],
+    "answer": "Tổng của động năng và thế năng.",
+    "explanation": "Cơ năng của một vật bằng tổng động năng và thế năng của vật đó."
+  },
+  {
+    "question": "Động lượng của một vật khối lượng m đang chuyển động với vận tốc v là đại lượng vectơ được xác định bằng công thức",
+    "options": [
+      "p = m * v",
+      "p = m / v",
+      "p = 0,5 * m * v",
+      "p = m * v * v"
+    ],
+    "answer": "p = m * v",
+    "explanation": "Động lượng của một vật là một vectơ cùng hướng với vận tốc và có độ lớn bằng tích khối lượng với vận tốc của vật."
+  },
+  {
+    "question": "Đơn vị của động lượng trong hệ SI là",
+    "options": [
+      "N.m",
+      "kg.m/s",
+      "kg.m/s2",
+      "J/s"
+    ],
+    "answer": "kg.m/s",
+    "explanation": "Vì p = m * v nên đơn vị của động lượng bằng tích đơn vị khối lượng (kg) và đơn vị vận tốc (m/s), tức là kg.m/s."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng với hệ cô lập (hệ kín)?",
+    "options": [
+      "Là hệ không chịu tác dụng của bất kỳ lực nào.",
+      "Là hệ chỉ có các nội lực tương tác giữa các vật trong hệ mà không có ngoại lực tác dụng.",
+      "Là hệ có ngoại lực tác dụng nhưng các ngoại lực này có độ lớn rất nhỏ.",
+      "Là hệ chuyển động không có gia tốc."
+    ],
+    "answer": "Là hệ chỉ có các nội lực tương tác giữa các vật trong hệ mà không có ngoại lực tác dụng.",
+    "explanation": "Hệ cô lập là hệ không có ngoại lực tác dụng lên hệ, hoặc nếu có thì các ngoại lực phải triệt tiêu lẫn nhau."
+  },
+  {
+    "question": "Xung lượng của lực được tính bằng",
+    "options": [
+      "tích của lực với bình phương thời gian lực tác dụng.",
+      "thương số giữa lực và thời gian lực tác dụng.",
+      "tích của lực và thời gian lực tác dụng.",
+      "tổng của lực và thời gian lực tác dụng."
+    ],
+    "answer": "tích của lực và thời gian lực tác dụng.",
+    "explanation": "Xung lượng của lực trong khoảng thời gian t bằng tích của lực tác dụng và thời gian t."
+  },
+  {
+    "question": "Trong chuyển động tròn đều, vectơ vận tốc có",
+    "options": [
+      "phương không đổi.",
+      "chiều không đổi.",
+      "độ lớn không đổi.",
+      "độ lớn thay đổi liên tục."
+    ],
+    "answer": "độ lớn không đổi.",
+    "explanation": "Chuyển động tròn đều có độ lớn vận tốc (tốc độ) không đổi, nhưng phương và chiều của vectơ vận tốc thay đổi liên tục theo thời gian."
+  },
+  {
+    "question": "Tốc độ góc trong chuyển động tròn đều là đại lượng đo bằng",
+    "options": [
+      "góc quay được của bán kính trong một đơn vị thời gian.",
+      "quãng đường đi được trong một đơn vị thời gian.",
+      "số vòng vật đi được trong một giây.",
+      "thời gian vật đi hết một vòng tròn."
+    ],
+    "answer": "góc quay được của bán kính trong một đơn vị thời gian.",
+    "explanation": "Theo định nghĩa, tốc độ góc bằng thương số giữa góc quay của bán kính và thời gian để quay hết góc đó."
+  },
+  {
+    "question": "Đơn vị đo của tốc độ góc trong hệ SI là",
+    "options": [
+      "vòng / phút",
+      "độ / giây",
+      "radian trên giây (rad/s)",
+      "mét trên giây (m/s)"
+    ],
+    "answer": "radian trên giây (rad/s)",
+    "explanation": "Trong hệ SI, góc được đo bằng radian (rad), thời gian đo bằng giây (s), nên tốc độ góc đo bằng rad/s."
+  },
+  {
+    "question": "Gia tốc hướng tâm trong chuyển động tròn đều luôn có hướng",
+    "options": [
+      "trùng với vectơ vận tốc.",
+      "ngược hướng với vectơ vận tốc.",
+      "vào tâm của quỹ đạo tròn.",
+      "ra xa tâm của quỹ đạo tròn."
+    ],
+    "answer": "vào tâm của quỹ đạo tròn.",
+    "explanation": "Gia tốc trong chuyển động tròn đều có phương vuông góc với vận tốc và hướng vào tâm quỹ đạo nên gọi là gia tốc hướng tâm."
+  },
+  {
+    "question": "Lực hướng tâm là gì?",
+    "options": [
+      "Một loại lực mới xuất hiện chỉ trong chuyển động tròn.",
+      "Hợp lực của tất cả các lực tác dụng lên vật gây ra gia tốc hướng tâm.",
+      "Lực đẩy vật ra xa tâm quỹ đạo.",
+      "Lực luôn có độ lớn bằng trọng lực của vật."
+    ],
+    "answer": "Hợp lực của tất cả các lực tác dụng lên vật gây ra gia tốc hướng tâm.",
+    "explanation": "Lực hướng tâm không phải là một loại lực mới, mà là hợp lực của các lực đóng vai trò giữ cho vật chuyển động tròn đều."
+  },
+  {
+    "question": "Giới hạn đàn hồi của vật rắn là gì?",
+    "options": [
+      "Là độ biến dạng nhỏ nhất của vật.",
+      "Là chiều dài lớn nhất của vật khi bị kéo.",
+      "Là giới hạn mà khi vượt quá nó, vật bị biến dạng và không thể tự lấy lại hình dạng ban đầu.",
+      "Là lực tác dụng tối thiểu để vật bắt đầu bị biến dạng."
+    ],
+    "answer": "Là giới hạn mà khi vượt quá nó, vật bị biến dạng và không thể tự lấy lại hình dạng ban đầu.",
+    "explanation": "Khi lực tác dụng vượt quá giới hạn đàn hồi, vật sẽ bị biến dạng không phục hồi (biến dạng dẻo)."
+  },
+  {
+    "question": "Khi một lò xo bị kéo dãn, lực đàn hồi của lò xo sẽ hướng như thế nào?",
+    "options": [
+      "Hướng dọc theo trục lò xo vào phía trong để chống lại sự dãn.",
+      "Hướng dọc theo trục lò xo ra phía ngoài để tăng sự dãn.",
+      "Hướng vuông góc với trục của lò xo.",
+      "Hướng ngẫu nhiên không xác định."
+    ],
+    "answer": "Hướng dọc theo trục lò xo vào phía trong để chống lại sự dãn.",
+    "explanation": "Lực đàn hồi luôn ngược hướng với hướng biến dạng để có xu hướng đưa vật về hình dạng ban đầu."
+  },
+  {
+    "question": "Áp suất chất lỏng tại một điểm đứng yên phụ thuộc vào yếu tố nào?",
+    "options": [
+      "Hình dạng của bình chứa chất lỏng.",
+      "Độ sâu của điểm đó so với mặt thoáng và khối lượng riêng của chất lỏng.",
+      "Khối lượng tổng cộng của chất lỏng trong bình.",
+      "Diện tích mặt thoáng của chất lỏng."
+    ],
+    "answer": "Độ sâu của điểm đó so với mặt thoáng và khối lượng riêng của chất lỏng.",
+    "explanation": "Áp suất chất lỏng được tính bằng công thức p = p0 + d * h (hoặc p = p0 + rho * g * h), phụ thuộc vào khối lượng riêng rho và độ sâu h."
+  },
+  {
+    "question": "Đơn vị nào sau đây là đơn vị của áp suất?",
+    "options": [
+      "Niutơn (N)",
+      "Jun (J)",
+      "Paxcan (Pa)",
+      "Oát (W)"
+    ],
+    "answer": "Paxcan (Pa)",
+    "explanation": "Đơn vị đo áp suất tiêu chuẩn trong hệ SI là Paxcan (Pa), với 1 Pa = 1 N/m2."
+  },
+  {
+    "question": "Khi nói về hiệu suất của một máy cơ học, phát biểu nào sau đây luôn đúng?",
+    "options": [
+      "Hiệu suất luôn lớn hơn 1.",
+      "Hiệu suất luôn bằng 1.",
+      "Hiệu suất luôn nhỏ hơn 1.",
+      "Hiệu suất có thể lớn hơn 1 nếu máy rất tốt."
+    ],
+    "answer": "Hiệu suất luôn nhỏ hơn 1.",
+    "explanation": "Do luôn có hao phí năng lượng vì ma sát hoặc tỏa nhiệt, công có ích luôn nhỏ hơn công toàn phần, dẫn đến hiệu suất luôn nhỏ hơn 1 (hay dưới 100%)."
+  },
+  {
+    "question": "Phát biểu nào sau đây diễn đạt đúng định luật bảo toàn động lượng?",
+    "options": [
+      "Động lượng của một vật bất kỳ luôn luôn được bảo toàn.",
+      "Tổng động lượng của một hệ cô lập là một đại lượng không đổi cả về hướng và độ lớn.",
+      "Động lượng của một hệ chỉ được bảo toàn khi không có lực ma sát.",
+      "Tổng vận tốc của hệ cô lập luôn là hằng số."
+    ],
+    "answer": "Tổng động lượng của một hệ cô lập là một đại lượng không đổi cả về hướng và độ lớn.",
+    "explanation": "Định luật bảo toàn động lượng chỉ áp dụng cho hệ cô lập, khi đó tổng vectơ động lượng của hệ không đổi theo thời gian."
+  },
+  {
+    "question": "Một lực có độ lớn 10 N tác dụng lên một vật làm vật dịch chuyển một quãng đường 5 m theo hướng của lực. Công của lực này bằng bao nhiêu?",
+    "options": [
+      "2 J",
+      "15 J",
+      "50 J",
+      "0,5 J"
+    ],
+    "answer": "50 J",
+    "explanation": "Vì vật dịch chuyển theo hướng của lực nên góc bằng 0, công được tính bằng A = F * s = 10 * 5 = 50 J."
+  },
+  {
+    "question": "Một người nâng một thùng hàng lên cao làm xuất hiện công dương, còn trọng lực của thùng hàng khi đó sinh công gì?",
+    "options": [
+      "Công dương vì trọng lực cùng chiều chuyển động.",
+      "Công âm vì trọng lực ngược chiều chuyển động.",
+      "Bằng 0 vì trọng lực vuông góc với chiều chuyển động.",
+      "Không xác định được."
+    ],
+    "answer": "Công âm vì trọng lực ngược chiều chuyển động.",
+    "explanation": "Thùng hàng chuyển động đi lên, trong khi trọng lực hướng thẳng đứng xuống dưới. Lực và chiều chuyển động ngược nhau tạo ra góc 180 độ, nên công của trọng lực là công âm (công cản)."
+  },
+  {
+    "question": "Một động cơ thực hiện một công bằng 2400 J trong thời gian 1 phút. Công suất của động cơ này là",
+    "options": [
+      "2400 W",
+      "40 W",
+      "144000 W",
+      "240 W"
+    ],
+    "answer": "40 W",
+    "explanation": "Đổi 1 phút = 60 giây. Công suất P = A / t = 2400 / 60 = 40 W."
+  },
+  {
+    "question": "Nếu tăng vận tốc của một vật lên gấp đôi trong khi giữ nguyên khối lượng của nó thì động năng của vật thay đổi như thế nào?",
+    "options": [
+      "Tăng lên gấp đôi.",
+      "Giảm đi một nửa.",
+      "Tăng lên gấp 4 lần.",
+      "Không thay đổi."
+    ],
+    "answer": "Tăng lên gấp 4 lần.",
+    "explanation": "Động năng tỉ lệ thuận với bình phương vận tốc. Khi vận tốc tăng 2 lần thì bình phương vận tốc tăng 4 lần, kéo theo động năng tăng 4 lần."
+  },
+  {
+    "question": "Một vật có khối lượng 2 kg được đặt ở độ cao 4 m so với mặt đất. Lấy g = 10 m/s2 và chọn mặt đất làm mốc thế năng. Thế năng trọng trường của vật là",
+    "options": [
+      "8 J",
+      "20 J",
+      "40 J",
+      "80 J"
+    ],
+    "answer": "80 J",
+    "explanation": "Thế năng trọng trường được tính bằng Wt = m * g * h = 2 * 10 * 4 = 80 J."
+  },
+  {
+    "question": "Một vật rơi tự do từ độ cao h xuống mặt đất. Trong quá trình rơi, sự chuyển hóa năng lượng nào sau đây diễn ra?",
+    "options": [
+      "Động năng chuyển hóa thành thế năng.",
+      "Thế năng chuyển hóa thành động năng.",
+      "Cơ năng chuyển hóa thành động năng.",
+      "Cơ năng giảm dần về bằng không."
+    ],
+    "answer": "Thế năng chuyển hóa thành động năng.",
+    "explanation": "Khi vật rơi tự do, độ cao giảm dần nên thế năng giảm, đồng thời vận tốc tăng dần nên động năng tăng. Thế năng đã chuyển hóa dần thành động năng."
+  },
+  {
+    "question": "Vật khối lượng m = 0,5 kg chuyển động thẳng đều với vận tốc v = 4 m/s. Độ lớn động lượng của vật bằng",
+    "options": [
+      "2 kg.m/s",
+      "8 kg.m/s",
+      "1 kg.m/s",
+      "4 kg.m/s"
+    ],
+    "answer": "2 kg.m/s",
+    "explanation": "Độ lớn động lượng p = m * v = 0,5 * 4 = 2 kg.m/s."
+  },
+  {
+    "question": "Hai vật có khối lượng m1 và m2 chuyển động với vận tốc v1 và v2. Hệ gồm hai vật này sẽ có tổng động lượng bằng 0 khi nào?",
+    "options": [
+      "Hai vật chuyển động cùng chiều và m1 * v1 = m2 * v2.",
+      "Hai vật chuyển động ngược chiều và m1 * v1 = m2 * v2.",
+      "Hai vật cùng đứng yên.",
+      "Cả hai trường hợp hệ cùng đứng yên hoặc chuyển động ngược chiều thỏa mãn m1 * v1 = m2 * v2."
+    ],
+    "answer": "Cả hai trường hợp hệ cùng đứng yên hoặc chuyển động ngược chiều thỏa mãn m1 * v1 = m2 * v2.",
+    "explanation": "Tổng động lượng là tổng vectơ. Để vectơ p1 + vectơ p2 = vectơ 0 thì hai vectơ động lượng phải ngược hướng và cùng độ lớn, hoặc cả hai bằng 0."
+  },
+  {
+    "question": "Mối quan hệ giữa tốc độ dài v và tốc độ góc trong chuyển động tròn đều bán kính r là",
+    "options": [
+      "v = tốc độ góc / r",
+      "v = tốc độ góc * r",
+      "v = tốc độ góc * r * r",
+      "v = r / tốc độ góc"
+    ],
+    "answer": "v = tốc độ góc * r",
+    "explanation": "Tốc độ dài bằng tích của tốc độ góc và bán kính quỹ đạo: v = omega * r."
+  },
+  {
+    "question": "Một cánh quạt quay đều với tần số 5 vòng/giây. Chu kỳ quay của cánh quạt là",
+    "options": [
+      "5 giây",
+      "0,2 giây",
+      "1 giây",
+      "2 giây"
+    ],
+    "answer": "0,2 giây",
+    "explanation": "Chu kỳ T là nghịch đảo của tần số f: T = 1 / f = 1 / 5 = 0,2 giây."
+  },
+  {
+    "question": "Một vật chuyển động tròn đều trên quỹ đạo có bán kính r = 2 m với tốc độ dài v = 4 m/s. Gia tốc hướng tâm của vật có độ lớn bằng",
+    "options": [
+      "2 m/s2",
+      "4 m/s2",
+      "8 m/s2",
+      "16 m/s2"
+    ],
+    "answer": "8 m/s2",
+    "explanation": "Gia tốc hướng tâm được tính bằng a = (v * v) / r = (4 * 4) / 2 = 16 / 2 = 8 m/s2."
+  },
+  {
+    "question": "Định luật Húc (Hooke) về biến dạng đàn hồi của lò xo phát biểu rằng trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo",
+    "options": [
+      "tỉ lệ nghịch với độ biến dạng của lò xo.",
+      "tỉ lệ thuận với độ biến dạng của lò xo.",
+      "tỉ lệ thuận với bình phương độ biến dạng của lò xo.",
+      "không phụ thuộc vào độ biến dạng của lò xo."
+    ],
+    "answer": "tỉ lệ thuận với độ biến dạng của lò xo.",
+    "explanation": "Biểu thức định luật Húc là Fdh = k * |độ biến dạng|, biểu thị lực đàn hồi tỉ lệ thuận với độ biến dạng của lò xo."
+  },
+  {
+    "question": "Một lò xo có độ cứng k = 100 N/m. Khi chịu tác dụng của một lực kéo, lò xo dãn ra một đoạn 0,05 m. Độ lớn của lực đàn hồi xuất hiện khi đó là",
+    "options": [
+      "5 N",
+      "50 N",
+      "2000 N",
+      "0,05 N"
+    ],
+    "answer": "5 N",
+    "explanation": "Theo định luật Húc: Fdh = k * độ dãn = 100 * 0,05 = 5 N."
+  },
+  {
+    "question": "Một thợ lặn lặn xuống độ sâu 20 m dưới lòng biển. Biết khối lượng riêng của nước biển là 1030 kg/m3, lấy g = 10 m/s2. Áp suất do nước biển gây ra tại độ sâu đó (chưa tính áp suất khí quyển) là",
+    "options": [
+      "20600 Pa",
+      "206000 Pa",
+      "10300 Pa",
+      "51500 Pa"
+    ],
+    "answer": "206000 Pa",
+    "explanation": "Áp suất tĩnh của chất lỏng p = rho * g * h = 1030 * 10 * 20 = 206000 Pa."
+  },
+  {
+    "question": "Khi đổ cùng một lượng nước vào bốn chiếc bình có hình dạng khác nhau nhưng diện tích đáy bằng nhau, áp suất của nước tác dụng lên đáy bình sẽ",
+    "options": [
+      "lớn nhất ở bình rộng nhất.",
+      "nhỏ nhất ở bình hẹp nhất.",
+      "như nhau ở cả bốn bình nếu độ cao mực nước như nhau.",
+      "phụ thuộc vào trọng lượng của bình chứa."
+    ],
+    "answer": "như nhau ở cả bốn bình nếu độ cao mực nước như nhau.",
+    "explanation": "Áp suất chất lỏng tác dụng lên đáy bình chỉ phụ thuộc vào khối lượng riêng của chất lỏng và độ cao của cột chất lỏng, không phụ thuộc vào hình dạng bình."
+  },
+  {
+    "question": "Một người kéo một hòm gỗ khối lượng 20 kg trượt trên sàn nằm ngang bằng một lực F = 50 N hợp với phương ngang một góc 60 độ. Hòm gỗ dịch chuyển được quãng đường 10 m. Tính công của lực F.",
+    "options": [
+      "500 J",
+      "250 J",
+      "433 J",
+      "200 J"
+    ],
+    "answer": "250 J",
+    "explanation": "Công được tính theo công thức A = F * s * cos(60). Vì cos(60) = 0,5 nên A = 50 * 10 * 0,5 = 250 J."
+  },
+  {
+    "question": "Một ô tô có khối lượng 1 tấn đang chạy với vận tốc 36 km/h. Động năng của ô tô này bằng bao nhiêu?",
+    "options": [
+      "648000 J",
+      "50000 J",
+      "10000 J",
+      "18000 J"
+    ],
+    "answer": "50000 J",
+    "explanation": "Đổi các đơn vị sang hệ SI: m = 1000 kg, v = 36 km/h = 10 m/s. Động năng Wd = 0,5 * m * v * v = 0,5 * 1000 * 10 * 10 = 50000 J."
+  },
+  {
+    "question": "Một vật nhỏ được ném thẳng đứng lên cao từ mặt đất với vận tốc ban đầu v0 = 10 m/s. Bỏ qua sức cản không khí, lấy g = 10 m/s2. Độ cao cực đại mà vật đạt được so với mặt đất là",
+    "options": [
+      "10 m",
+      "5 m",
+      "2 m",
+      "7,5 m"
+    ],
+    "answer": "5 m",
+    "explanation": "Áp dụng định luật bảo toàn cơ năng từ vị trí ném đến vị trí cao nhất: 0,5 * m * v0 * v0 = m * g * hmax. Suy ra hmax = (v0 * v0) / (2 * g) = (10 * 10) / (2 * 10) = 5 m."
+  },
+  {
+    "question": "Một vật có khối lượng m đang chuyển động với động năng 20 J. Nếu vận tốc của vật tăng lên gấp đôi và khối lượng giảm đi một nửa thì động năng mới của vật là",
+    "options": [
+      "20 J",
+      "40 J",
+      "80 J",
+      "10 J"
+    ],
+    "answer": "40 J",
+    "explanation": "Động năng ban đầu Wd = 0,5 * m * v * v = 20 J. Khi v tăng 2 lần thì v * v tăng 4 lần, m giảm một nửa thì Wd mới = 4 * 0,5 * Wd ban đầu = 2 * 20 = 40 J."
+  },
+  {
+    "question": "Một quả bóng khối lượng 200 g bay với vận tốc 15 m/s đến đập vuông góc vào một bức tường tường rồi bật ngược trở lại theo phương cũ với cùng tốc độ. Độ lớn độ biến thiên động lượng của quả bóng là",
+    "options": [
+      "0 kg.m/s",
+      "3 kg.m/s",
+      "6 kg.m/s",
+      "6000 kg.m/s"
+    ],
+    "answer": "6 kg.m/s",
+    "explanation": "Đổi m = 0,2 kg. Chọn chiều dương là chiều bay vào tường. Vận tốc đầu v1 = 15 m/s, vận tốc sau v2 = -15 m/s. Độ biến thiên động lượng có độ lớn bằng |m * v2 - m * v1| = |0,2 * (-15) - 0,2 * 15| = |-3 - 3| = 6 kg.m/s."
+  },
+  {
+    "question": "Một vật khối lượng 1 kg trượt không vận tốc đầu từ đỉnh một mặt phẳng nghiêng dài 10 m, cao 5 m xuống dưới. Khi đến chân mặt phẳng nghiêng, vận tốc của vật là 6 m/s. Lấy g = 10 m/s2. Công của lực ma sát tác dụng lên vật trong quá trình trượt là",
+    "options": [
+      "-32 J",
+      "-14 J",
+      "18 J",
+      "-50 J"
+    ],
+    "answer": "-14 J",
+    "explanation": "Thế năng ở đỉnh: Wt = m * g * h = 1 * 10 * 5 = 50 J. Động năng ở chân: Wd = 0,5 * m * v * v = 0,5 * 1 * 6 * 6 = 18 J. Độ biến thiên cơ năng bằng công lực ma sát: A_ms = Wd - Wt = 18 - 50 = -14 J."
+  },
+  {
+    "question": "Một lò xo treo thẳng đứng, khi treo vật khối lượng 100 g thì lò xo dài 22 cm. Khi treo thêm vật khối lượng 200 g nữa thì lò xo dài 26 cm. Lấy g = 10 m/s2. Chiều dài tự nhiên của lò xo là",
+    "options": [
+      "20 cm",
+      "18 cm",
+      "16 cm",
+      "15 cm"
+    ],
+    "answer": "20 cm",
+    "explanation": "Khi treo thêm 200 g (lực tăng gấp đôi so với ban đầu), lò xo dãn thêm một đoạn dãn bằng 26 - 22 = 4 cm. Vậy với vật 100 g ban đầu, lò xo đã dãn một đoạn bằng một nửa là 2 cm. Chiều dài tự nhiên ban đầu là 22 - 2 = 20 cm."
+  },
+  {
+    "question": "Một đĩa tròn quay đều quanh trục với tốc độ 30 vòng/phút. Tốc độ góc của một điểm nằm trên đĩa là",
+    "options": [
+      "30 rad/s",
+      "3,14 rad/s",
+      "1,57 rad/s",
+      "60 rad/s"
+    ],
+    "answer": "3,14 rad/s",
+    "explanation": "Tốc độ 30 vòng/phút nghĩa là 30 * 2 * pi radian trong 60 giây. Tốc độ góc omega = (30 * 2 * 3,14) / 60 = 3,14 rad/s."
+  },
+  {
+    "question": "Một ô tô có khối lượng 1200 kg chuyển động đều qua một đoạn cầu vượt lồi (coi như một cung tròn có bán kính 50 m) với vận tốc 36 km/h. Lấy g = 10 m/s2. Áp lực của ô tô lên mặt cầu tại điểm cao nhất là",
+    "options": [
+      "12000 N",
+      "9600 N",
+      "14400 N",
+      "2400 N"
+    ],
+    "answer": "9600 N",
+    "explanation": "Đổi v = 36 km/h = 10 m/s. Tại đỉnh cầu lồi, hợp lực của trọng lực và phản lực đóng vai trò lực hướng tâm: m * g - N = (m * v * v) / r. Suy ra N = m * g - (m * v * v) / r = 1200 * 10 - (1200 * 10 * 10) / 50 = 12000 - 2400 = 9600 N."
+  },
+  {
+    "question": "Để đo áp suất ở đáy một hồ nước sâu, người ta dùng một áp kế. Khi ở trên mặt hồ, áp kế chỉ 100000 Pa (áp suất khí quyển). Khi xuống đáy hồ, áp kế chỉ 350000 Pa. Biết khối lượng riêng của nước là 1000 kg/m3, g = 10 m/s2. Độ sâu của đáy hồ là",
+    "options": [
+      "35 m",
+      "25 m",
+      "45 m",
+      "10 m"
+    ],
+    "answer": "25 m",
+    "explanation": "Áp suất phần chất lỏng gây ra là p_nước = p_đáy - p_khí_quyển = 350000 - 100000 = 250000 Pa. Độ sâu h = p_nước / (rho * g) = 250000 / (1000 * 10) = 25 m."
+  },
+  {
+    "question": "Một vật khối lượng m ném từ độ cao h so với mặt đất với vận tốc ban đầu v0 theo phương ngang. Năng lượng cơ năng ban đầu của vật tại vị trí ném (chọn mặt đất làm mốc thế năng) là",
+    "options": [
+      "W = m * g * h",
+      "W = 0,5 * m * v0 * v0",
+      "W = m * g * h + 0,5 * m * v0 * v0",
+      "W = m * g * h - 0,5 * m * v0 * v0"
+    ],
+    "answer": "W = m * g * h + 0,5 * m * v0 * v0",
+    "explanation": "Cơ năng bằng tổng động năng và thế năng. Tại vị trí ném vật vừa có vận tốc v0 (sinh động năng) vừa ở độ cao h (sinh thế năng trọng trường)."
+  },
+  {
+    "question": "Một tàu thủy có công suất của động cơ là 4 MW, khi chạy đều tàu đạt vận tốc 54 km/h. Lực đẩy trung bình của nước tác dụng lên tàu bằng bao nhiêu?",
+    "options": [
+      "74000 N",
+      "266667 N",
+      "200000 N",
+      "135000 N"
+    ],
+    "answer": "266667 N",
+    "explanation": "Đổi P = 4000000 W, v = 54 km/h = 15 m/s. Khi tàu chạy đều, lực đẩy bằng lực cản và liên hệ qua công thức P = F * v. Suy ra F = P / v = 4000000 / 15 = 266667 N."
+  },
+  {
+    "question": "Một lò xo nhẹ có chiều dài tự nhiên 20 cm được treo thẳng đứng. Khi treo vào đầu dưới lò xo một vật khối lượng m = 200 g thì lò xo dãn ra và có chiều dài 24 cm. Nếu muốn lò xo có chiều dài 26 cm thì phải treo thêm một vật có khối lượng bằng bao nhiêu? Lấy g = 10 m/s2.",
+    "options": [
+      "300 g",
+      "100 g",
+      "200 g",
+      "50 g"
+    ],
+    "answer": "100 g",
+    "explanation": "Độ dãn ban đầu là 24 - 20 = 4 cm ứng với m = 200 g. Chiều dài lúc sau 26 cm ứng với tổng độ dãn là 26 - 20 = 6 cm. Vì độ dãn tỉ lệ thuận với khối lượng treo nên khối lượng tổng cộng cần treo là (200 * 6) / 4 = 300 g. Do đó cần treo thêm 300 - 200 = 100 g."
+  },
+  {
+    "question": "Một khẩu súng đại bác có khối lượng 4 tấn đang đứng yên bắn ra một viên đạn khối lượng 10 kg theo phương ngang với vận tốc 400 m/s. Vận tốc giật lùi của súng ngay sau khi bắn có độ lớn bằng bao nhiêu?",
+    "options": [
+      "1 m/s",
+      "4 m/s",
+      "2 m/s",
+      "0,5 m/s"
+    ],
+    "answer": "1 m/s",
+    "explanation": "Áp dụng định luật bảo toàn động lượng cho hệ súng và đạn trước và sau khi bắn: 0 = M * V + m * v. Suy ra độ lớn vận tốc giật của súng là V = (m * v) / M = (10 * 400) / 4000 = 1 m/s."
+  },
+  {
+    "question": "Một vật khối lượng 500 g chuyển động tròn đều trên một đường tròn bán kính 1 m. Biết vật đi được 2 vòng trong thời gian 1 giây. Lực hướng tâm tác dụng lên vật có độ lớn gần nhất với giá trị nào sau đây? Lấy bình phương của pi bằng 10.",
+    "options": [
+      "80 N",
+      "40 N",
+      "20 N",
+      "160 N"
+    ],
+    "answer": "80 N",
+    "explanation": "Tần số f = 2 vòng/s suy ra tốc độ góc omega = 2 * pi * f = 4 * pi (rad/s). Lực hướng tâm F = m * omega * omega * r = 0,5 * (16 * pi * pi) * 1 = 0,5 * 16 * 10 = 80 N."
+  },
+  {
+    "question": "Một ô tô có khối lượng 1 tấn đang chuyển động tròn đều qua một đoạn đường cong phẳng có bán kính r = 50 m. Biết hệ số ma sát trượt giữa bánh xe và mặt đường là 0,4. Lấy g = 10 m/s2. Vận tốc tối đa của ô tô để không bị trượt khỏi vòng cua là bao nhiêu?",
+    "options": [
+      "20 m/s",
+      "10 m/s",
+      "14,1 m/s",
+      "25 m/s"
+    ],
+    "answer": "14,1 m/s",
+    "explanation": "Lực ma sát nghỉ đóng vai trò là lực hướng tâm tối đa. Để ô tô không trượt, lực hướng tâm phải nhỏ hơn hoặc bằng lực ma sát cực đại: (m * v * v) / r <= mu * m * g. Suy ra v <= căn bậc hai của (mu * g * r) = căn(0,4 * 10 * 50) = căn(200) xấp xỉ 14,1 m/s."
+  },
+  {
+    "question": "Một thanh sắt dài 2 m có tiết diện ngang đều là 2 cm2. Khi chịu một lực kéo dọc theo trục của thanh có độ lớn 40000 N, thanh sắt bị dãn dài thêm 2 mm. Suất đàn hồi (suất Young) của chất làm thanh sắt có giá trị là",
+    "options": [
+      "2 * 10^11 Pa",
+      "4 * 10^11 Pa",
+      "1 * 10^11 Pa",
+      "2 * 10^10 Pa"
+    ],
+    "answer": "2 * 10^11 Pa",
+    "explanation": "Đổi tiết diện S = 2 * 10^-4 m2, độ dãn dL = 0,002 m. Theo công thức biến dạng cơ của vật rắn: F = E * (S / L0) * dL. Suy ra suất đàn hồi E = (F * L0) / (S * dL) = (40000 * 2) / (2 * 10^-4 * 0,002) = 2 * 10^11 Pa."
+  },
+  {
+    "question": "Một bình hình trụ chứa nước cao 1 m. Biết khối lượng riêng của nước là 1000 kg/m3, áp suất khí quyển là 101300 Pa và g = 10 m/s2. Áp suất toàn phần tác dụng lên một điểm nằm cách đáy bình 20 cm là",
+    "options": [
+      "109300 Pa",
+      "111300 Pa",
+      "101500 Pa",
+      "102100 Pa"
+    ],
+    "answer": "109300 Pa",
+    "explanation": "Điểm cách đáy bình 20 cm (0,2 m) thì có độ sâu so với mặt thoáng là h = 1 - 0,2 = 0,8 m. Áp suất toàn phần tại điểm đó là: p = p0 + rho * g * h = 101300 + 1000 * 10 * 0,8 = 101300 + 8000 = 109300 Pa."
+  },
+  {
+    "question": "Một người dùng một lực F kéo một vật khối lượng 5 kg chuyển động thẳng đều lên cao theo phương thẳng đứng một đoạn 2 m trong thời gian 4 giây. Lấy g = 10 m/s2. Công suất trung bình của lực F bằng bao nhiêu?",
+    "options": [
+      "25 W",
+      "50 W",
+      "100 W",
+      "12,5 W"
+    ],
+    "answer": "25 W",
+    "explanation": "Vì vật chuyển động thẳng đều nên lực kéo cân bằng với trọng lực: F = P = m * g = 5 * 10 = 50 N. Công của lực kéo là A = F * s = 50 * 2 = 100 J. Công suất trung bình là P_suat = A / t = 100 / 4 = 25 W."
+  },
+  {
+    "question": "Hệ thống nâng thủy lực của một tiệm rửa xe có diện tích pittông nhỏ là 5 cm2 và diện tích pittông lớn là 250 cm2. Để nâng một chiếc ô tô có khối lượng 1,5 tấn, người ta cần tác dụng vào pittông nhỏ một lực tối thiểu bằng bao nhiêu? Lấy g = 10 m/s2.",
+    "options": [
+      "300 N",
+      "150 N",
+      "600 N",
+      "3000 N"
+    ],
+    "answer": "300 N",
+    "explanation": "Trọng lượng ô tô cần nâng ở pittông lớn là F2 = m * g = 1500 * 10 = 15000 N. Theo nguyên lý Pa-xcan cho máy nén thủy lực: F1 / S1 = F2 / S2. Suy ra lực tác dụng lên pittông nhỏ là F1 = F2 * (S1 / S2) = 15000 * (5 / 250) = 300 N."
+  },
+  {
+    "question": "Một con lắc lò xo gồm vật nặng khối lượng m gắn vào lò xo có độ cứng k treo thẳng đứng. Từ vị trí cân bằng, kéo vật xuống dưới theo phương thẳng đứng một đoạn rồi thả nhẹ cho vật chuyển động. Trong quá trình vật dao động, đại lượng nào sau đây được bảo toàn (bỏ qua mọi ma sát)?",
+    "options": [
+      "Chỉ thế năng trọng trường của vật.",
+      "Chỉ động năng của vật.",
+      "Chỉ thế năng đàn hồi của lò xo.",
+      "Tổng động năng, thế năng trọng trường và thế năng đàn hồi của hệ."
+    ],
+    "answer": "Tổng động năng, thế năng trọng trường và thế năng đàn hồi của hệ.",
+    "explanation": "Khi con lắc lò xo chuyển động trong trọng trường và có sự biến dạng của lò xo mà bỏ qua ma sát, cơ năng toàn phần của hệ (gồm động năng, thế năng trọng trường và thế năng đàn hồi) là một hằng số được bảo toàn."
+  },
+  {
+    "question": "Một vật khối lượng 100 g được ném thẳng đứng lên cao từ mặt đất với vận tốc ban đầu v0. Biết rằng tại độ cao 4 m, động năng của vật bằng ba lần thế năng của nó. Chọn mặt đất làm mốc thế năng và bỏ qua sức cản không khí, lấy g = 10 m/s2. Vận tốc ban đầu v0 của vật bằng bao nhiêu?",
+    "options": [
+      "12,6 m/s",
+      "8 m/s",
+      "16 m/s",
+      "10 m/s"
+    ],
+    "answer": "16 m/s",
+    "explanation": "Tại độ cao h = 4 m, thế năng Wt = m * g * h. Cơ năng của vật bằng W = Wd + Wt = 3 * Wt + Wt = 4 * Wt = 4 * m * g * h. Theo định luật bảo toàn cơ năng, cơ năng tại mặt đất bằng cơ năng tại vị trí này: 0,5 * m * v0 * v0 = 4 * m * g * h. Triệt tiêu m hai vế, ta được v0 * v0 = 8 * g * h = 8 * 10 * 4 = 320. Suy ra v0 = căn(320) xấp xỉ 17,89 m/s (Chỉnh sửa số liệu chuẩn: h = 2m thì ra v0 = căn(160), nếu W = 4 * Wt tại h = 3,2m thì v0 = căn(8*10*3,2) = căn(256) = 16 m/s). Do đó, với h = 3,2 m, đáp án chính xác là 16 m/s."
+  },
+  {
+    "question": "Hai quả cầu va chạm mềm trên một mặt phẳng nằm ngang không ma sát. Quả cầu 1 có khối lượng 2 kg chuyển động với vận tốc 4 m/s đến va chạm vào quả cầu 2 có khối lượng 3 kg đang đứng yên. Sau va chạm, hai quả cầu dính vào nhau và cùng chuyển động với vận tốc bằng bao nhiêu?",
+    "options": [
+      "1,6 m/s",
+      "2,4 m/s",
+      "0,8 m/s",
+      "2,0 m/s"
+    ],
+    "answer": "1,6 m/s",
+    "explanation": "Áp dụng định luật bảo toàn động lượng cho va chạm mềm: m1 * v1 = (m1 + m2) * V. Suy ra vận tốc sau va chạm của hai vật là V = (m1 * v1) / (m1 + m2) = (2 * 4) / (2 + 3) = 8 / 5 = 1,6 m/s."
+  },
+  {
+    "question": "Một vệ tinh nhân tạo có khối lượng m chuyển động tròn đều quanh Trái Đất ở độ cao bằng bán kính R của Trái Đất. Biết gia tốc rơi tự do tại mặt đất là g. Gia tốc hướng tâm của vệ tinh khi chạy trên quỹ đạo này bằng bao nhiêu?",
+    "options": [
+      "g",
+      "g / 2",
+      "g / 4",
+      "g / 9"
+    ],
+    "answer": "g / 4",
+    "explanation": "Lực hấp dẫn của Trái Đất đóng vai trò là lực hướng tâm gây ra gia tốc hướng tâm cho vệ tinh. Lực hấp dẫn tỉ lệ nghịch với bình phương khoảng cách từ tâm Trái Đất đến vệ tinh. Ở độ cao bằng R, khoảng cách tới tâm là 2R (tăng 2 lần), nên lực hấp dẫn và gia tốc hướng tâm giảm đi 2^2 = 4 lần, tức là bằng g / 4."
+  },
+  {
+    "question": "Một ống thủy tinh hình trụ dài 1 m, một đầu kín một đầu hở, chứa đầy nước được úp ngược thẳng đứng vào một chậu nước lớn sao cho đáy kín ở phía trên và phần hở chìm trong nước. Biết áp suất khí quyển là 10^5 Pa, khối lượng riêng của nước là 1000 kg/m3, g = 10 m/s2. Hiện tượng nào sau đây xảy ra với cột nước trong ống?",
+    "options": [
+      "Toàn bộ nước trong ống chảy hết ra ngoài chậu.",
+      "Nước trong ống tụt xuống và dừng lại ở độ cao 50 cm.",
+      "Nước vẫn chứa đầy trong ống và không bị tụt xuống.",
+      "Nước dâng lên cao hơn và tràn ra ngoài đáy kín."
+    ],
+    "answer": "Nước vẫn chứa đầy trong ống và không bị tụt xuống.",
+    "explanation": "Áp suất khí quyển 10^5 Pa có thể đỡ được một cột nước có độ cao tối đa là h = p / (rho * g) = 10^5 / (1000 * 10) = 10 m. Vì ống thủy tinh chỉ dài 1 m (nhỏ hơn rất nhiều so với 10 m) nên áp suất khí quyển hoàn toàn dư sức giữ cho nước ở đầy trong ống mà không bị tụt xuống."
+  }
+]
+

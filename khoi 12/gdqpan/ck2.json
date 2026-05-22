@@ -1,0 +1,555 @@
+[
+  {
+    "question": "Theo Luật An ninh mạng, hành vi nào sau đây bị nghiêm cấm trên không gian mạng?",
+    "options": [
+      "Đăng tải thông tin quảng cáo sản phẩm chính hãng.",
+      "Tổ chức, hoạt động, câu kết, xúi giục, mua chuộc, lừa gạt, bóc lột, đào tạo, huấn luyện người chống Nhà nước.",
+      "Chia sẻ các bài viết hướng dẫn học tập, nghiên cứu khoa học.",
+      "Truy cập vào các trang thông tin điện tử chính thống của Chính phủ."
+    ],
+    "answer": "Tổ chức, hoạt động, câu kết, xúi giục, mua chuộc, lừa gạt, bóc lột, đào tạo, huấn luyện người chống Nhà nước.",
+    "explanation": "Đây là hành vi vi phạm pháp luật nghiêm trọng, xâm phạm đến an ninh quốc gia và bị nghiêm cấm tuyệt đối theo Điều 8 Luật An ninh mạng."
+  },
+  {
+    "question": "Luật An ninh mạng Việt Nam hiện hành được Quốc hội ban hành vào năm nào?",
+    "options": [
+      "Năm 2015",
+      "Năm 2018",
+      "Năm 2020",
+      "Năm 2022"
+    ],
+    "answer": "Năm 2018",
+    "explanation": "Luật An ninh mạng số 24/2018/QH14 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV thông qua ngày 12 tháng 6 năm 2018."
+  },
+  {
+    "question": "Biên giới quốc gia của nước Cộng hòa xã hội chủ nghĩa Việt Nam là gì?",
+    "options": [
+      "Là đường ranh giới trên đất liền giữa Việt Nam và các nước láng giềng.",
+      "Là giới hạn ngoài của lãnh hải trên biển của Việt Nam.",
+      "Là ranh giới phân chia vùng trời giữa Việt Nam và các nước khác.",
+      "Là đường và mặt thẳng đứng theo đường đó để xác định giới hạn lãnh thổ đất liền, các đảo, các quần đảo, vùng biển, lòng đất, vùng trời của Tổ quốc."
+    ],
+    "answer": "Là đường và mặt thẳng đứng theo đường đó để xác định giới hạn lãnh thổ đất liền, các đảo, các quần đảo, vùng biển, lòng đất, vùng trời của Tổ quốc.",
+    "explanation": "Theo Luật Biên giới quốc gia, biên giới quốc gia là đường và mặt thẳng đứng theo đường đó để xác định giới hạn lãnh thổ của một quốc gia."
+  },
+  {
+    "question": "Vùng biển thuộc chủ quyền quốc gia trên biển của Việt Nam bao gồm những bộ phận nào?",
+    "options": [
+      "Nội thủy và lãnh hải",
+      "Vùng tiếp giáp lãnh hải và vùng đặc quyền kinh tế",
+      "Thềm lục địa và biển quốc tế",
+      "Nội thủy và vùng đặc quyền kinh tế"
+    ],
+    "answer": "Nội thủy và lãnh hải",
+    "explanation": "Nội thủy và lãnh hải là hai vùng biển nằm trong chủ quyền hoàn toàn và đầy đủ của quốc gia ven biển giống như lãnh thổ đất liền."
+  },
+  {
+    "question": "Chiều rộng của lãnh hải Việt Nam được quy định là bao nhiêu hải lý tính từ đường cơ sở?",
+    "options": [
+      "12 hải lý",
+      "24 hải lý",
+      "200 hải lý",
+      "350 hải lý"
+    ],
+    "answer": "12 hải lý",
+    "explanation": "Theo Luật Biển Việt Nam, lãnh hải là vùng biển có chiều rộng 12 hải lý tính từ đường cơ sở ra phía biển."
+  },
+  {
+    "question": "Lực lượng dân quân tự vệ là lực lượng vũ trang thuộc thành phần nào?",
+    "options": [
+      "Lực lượng vũ trang thường trực.",
+      "Lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác.",
+      "Lực lượng quân đội chính quy.",
+      "Lực lượng công an nhân dân xã, phường."
+    ],
+    "answer": "Lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác.",
+    "explanation": "Dân quân tự vệ là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác, là một thành phần của lực lượng vũ trang nhân dân."
+  },
+  {
+    "question": "Tên gọi 'Tự vệ' trong cụm từ 'Dân quân tự vệ' được dùng để chỉ lực lượng tổ chức ở đâu?",
+    "options": [
+      "Ở xã, phường, thị trấn.",
+      "Trong cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị sự nghiệp, tổ chức kinh tế.",
+      "Trong các trường trung học phổ thông.",
+      "Tại các vùng biên giới, hải đảo xa xôi."
+    ],
+    "answer": "Trong cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị sự nghiệp, tổ chức kinh tế.",
+    "explanation": "Lực lượng tổ chức ở xã, phường, thị trấn gọi là 'Dân quân'; còn tổ chức ở cơ quan, đơn vị, doanh nghiệp gọi là 'Tự vệ'."
+  },
+  {
+    "question": "Độ tuổi nghĩa vụ tham gia Dân quân tự vệ trong điều kiện bình thường đối với nam là từ đủ bao nhiêu tuổi đến hết bao nhiêu tuổi?",
+    "options": [
+      "Từ đủ 18 tuổi đến hết 40 tuổi.",
+      "Từ đủ 18 tuổi đến hết 45 tuổi.",
+      "Từ đủ 18 tuổi đến hết 50 tuổi.",
+      "Từ đủ 20 tuổi đến hết 55 tuổi."
+    ],
+    "answer": "Từ đủ 18 tuổi đến hết 45 tuổi.",
+    "explanation": "Theo Luật Dân quân tự vệ, công dân nam từ đủ 18 tuổi đến hết 45 tuổi có nghĩa vụ tham gia Dân quân tự vệ (đối với nữ là đến hết 40 tuổi)."
+  },
+  {
+    "question": "Lực lượng dự bị động viên gồm những thành phần nào?",
+    "options": [
+      "Quân nhân chuyên nghiệp và hạ sĩ quan.",
+      "Quân nhân dự bị và phương tiện kỹ thuật dự bị.",
+      "Sĩ quan dự bị và hạ sĩ quan dự bị.",
+      "Toàn bộ công dân trong độ tuổi lao động."
+    ],
+    "answer": "Quân nhân dự bị và phương tiện kỹ thuật dự bị.",
+    "explanation": "Theo Luật Lực lượng dự bị động viên, lực lượng này bao gồm quân nhân dự bị và phương tiện kỹ thuật dự bị đã được đăng ký, quản lý."
+  },
+  {
+    "question": "Quân nhân dự bị bao gồm những đối tượng nào?",
+    "options": [
+      "Công dân đang phục vụ tại ngũ trong Quân đội nhân dân.",
+      "Sĩ quan dự bị, quân nhân chuyên nghiệp dự bị và hạ sĩ quan, binh sĩ dự bị.",
+      "Học sinh, sinh viên đang học tập tại các trường đại học, cao đẳng.",
+      "Những người đã hết tuổi lao động nhưng có nguyện vọng vào quân đội."
+    ],
+    "answer": "Sĩ quan dự bị, quân nhân chuyên nghiệp dự bị và hạ sĩ quan, binh sĩ dự bị.",
+    "explanation": "Quân nhân dự bị là những sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ đã xuất ngũ hoặc được đăng ký vào ngạch dự bị."
+  },
+  {
+    "question": "Các trường quân đội tuyển sinh đại học quân sự chủ yếu theo hình thức nào?",
+    "options": [
+      "Xét tuyển học bạ kết hợp phỏng vấn trực tiếp.",
+      "Thi tuyển riêng do Bộ Quốc phòng tổ chức.",
+      "Xét tuyển dựa trên kết quả Kỳ thi tốt nghiệp trung học phổ thông.",
+      "Tuyển thẳng toàn bộ thí sinh đăng ký."
+    ],
+    "answer": "Xét tuyển dựa trên kết quả Kỳ thi tốt nghiệp trung học phổ thông.",
+    "explanation": "Hiện nay, các trường Quân đội tuyển sinh hệ đại học, cao đẳng quân sự chủ yếu bằng phương thức xét tuyển từ kết quả kỳ thi tốt nghiệp THPT quốc gia."
+  },
+  {
+    "question": "Thí sinh muốn đăng ký xét tuyển vào các trường Quân đội bắt buộc phải qua bước nào sau đây?",
+    "options": [
+      "Nộp học bạ trực tiếp tại trường Đại học muốn học.",
+      "Sơ tuyển tại Ban Chỉ huy quân sự cấp huyện nơi cư trú.",
+      "Tham gia khóa học quân sự ngắn hạn trước khi nộp hồ sơ.",
+      "Ký cam kết không ra nước ngoài sau khi tốt nghiệp."
+    ],
+    "answer": "Sơ tuyển tại Ban Chỉ huy quân sự cấp huyện nơi cư trú.",
+    "explanation": "Tất cả thí sinh dự tuyển vào các trường quân đội đều phải qua vòng sơ tuyển tại địa phương để kiểm tra về lý lịch, sức khỏe và độ tuổi."
+  },
+  {
+    "question": "Hành vi nào dưới đây được phân loại là tội phạm công nghệ cao?",
+    "options": [
+      "Cố ý gây thương tích ngoài đường phố.",
+      "Trộm cắp tài sản tại cửa hàng tiện lợi.",
+      "Chèn mã độc vào hệ thống máy tính của ngân hàng để đánh cắp dữ liệu.",
+      "Xả chất thải công nghiệp chưa qua xử lý ra môi trường."
+    ],
+    "answer": "Chèn mã độc vào hệ thống máy tính của ngân hàng để đánh cắp dữ liệu.",
+    "explanation": "Hành vi sử dụng mạng máy tính, mạng viễn thông, phương tiện điện tử để xâm phạm an toàn thông tin là tội phạm công nghệ cao."
+  },
+  {
+    "question": "Vùng lòng đất của quốc gia được xác định như thế nào?",
+    "options": [
+      "Là toàn bộ phần đất bên dưới bề mặt đất liền.",
+      "Là toàn bộ phần đất bên dưới lòng đáy biển thuộc chủ quyền quốc gia.",
+      "Là phần nằm dưới đất liền và lòng biển thuộc chủ quyền quốc gia, kéo dài đến tận tâm Trái Đất.",
+      "Do quốc gia tự thỏa thuận giới hạn độ sâu với các nước láng giềng."
+    ],
+    "answer": "Phần nằm dưới đất liền và lòng biển thuộc chủ quyền quốc gia, kéo dài đến tận tâm Trái Đất.",
+    "explanation": "Vùng lòng đất là phần nằm dưới đất liền, nội thủy và lãnh hải thuộc chủ quyền quốc gia, theo nguyên tắc kéo dài hình nón đến tận tâm Trái Đất."
+  },
+  {
+    "question": "Mốc quốc giới trên đất liền dùng để làm gì?",
+    "options": [
+      "Để đánh dấu ranh giới các tỉnh trong một nước.",
+      "Để đánh dấu đường biên giới quốc gia trên thực địa.",
+      "Để làm trạm thu phí giao thông quốc tế.",
+      "Để chia ranh giới các khu bảo tồn thiên nhiên quốc gia."
+    ],
+    "answer": "Để đánh dấu đường biên giới quốc gia trên thực địa.",
+    "explanation": "Mốc quốc giới là vật thể nhân tạo được dựng lên trên thực địa để đánh dấu đường biên giới quốc gia trên đất liền."
+  },
+  {
+    "question": "Hành động nào sau đây thể hiện trách nhiệm của học sinh trong bảo vệ an ninh mạng?",
+    "options": [
+      "Lan truyền các tin đồn giật gân chưa được kiểm chứng để câu tương tác.",
+      "Tự ý hack tài khoản mạng xã hội của bạn học khi có mâu thuẫn.",
+      "Bảo mật thông tin cá nhân và tuyệt đối không chia sẻ các thông tin xấu độc.",
+      "Tải và phát tán các phần mềm bẻ khóa, phần mềm độc hại."
+    ],
+    "answer": "Bảo mật thông tin cá nhân và tuyệt đối không chia sẻ các thông tin xấu độc.",
+    "explanation": "Học sinh cần có ý thức bảo mật dữ liệu cá nhân, không lan truyền thông tin sai lệch, độc hại trên không gian mạng."
+  },
+  {
+    "question": "Ai là người có thẩm quyền quyết định việc điều động lực lượng Dân quân tự vệ trong phạm vi toàn quốc?",
+    "options": [
+      "Bộ trưởng Bộ Quốc phòng.",
+      "Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+      "Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện.",
+      "Chủ tịch Ủy ban nhân dân cấp xã."
+    ],
+    "answer": "Bộ trưởng Bộ Quốc phòng.",
+    "explanation": "Theo pháp luật về DQTV, Bộ trưởng Bộ Quốc phòng có thẩm quyền cao nhất trong việc điều động lực lượng này trên phạm vi cả nước."
+  },
+  {
+    "question": "Ngày truyền thống của lực lượng Dân quân tự vệ Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 22 tháng 12",
+      "Ngày 28 tháng 3",
+      "Ngày 19 tháng 8",
+      "Ngày 2 tháng 9"
+    ],
+    "answer": "Ngày 28 tháng 3",
+    "explanation": "Ngày 28/3/1935, Đại hội Đảng toàn quốc lần thứ nhất đã ra 'Nghị quyết về đội tự vệ', đây được lấy làm ngày truyền thống của lực lượng Dân quân tự vệ."
+  },
+  {
+    "question": "Mục đích chính của việc huấn luyện quân sự đối với lực lượng dự bị động viên là gì?",
+    "options": [
+      "Để thay thế hoàn toàn lực lượng quân đội chính quy.",
+      "Để duy trì kỷ luật lao động tại các nhà máy, xí nghiệp.",
+      "Để nâng cao trình độ kỹ thuật, chiến thuật, sẵn sàng bổ sung cho lực lượng thường trực khi có lệnh động viên.",
+      "Để giải quyết việc làm cho các quân nhân đã xuất ngũ."
+    ],
+    "answer": "Để nâng cao trình độ kỹ thuật, chiến thuật, sẵn sàng bổ sung cho lực lượng thường trực khi có lệnh động viên.",
+    "explanation": "Huấn luyện dự bị động viên nhằm ôn luyện, nâng cao khả năng sẵn sàng chiến đấu để khi cần thiết sẽ bổ sung ngay cho lực lượng chính quy."
+  },
+  {
+    "question": "Học sinh tốt nghiệp THPT chuẩn bị thi vào trường Quân đội cần đáp ứng tiêu chuẩn gì về độ tuổi (đối với thanh niên ngoài Quân đội)?",
+    "options": [
+      "Từ 17 đến 21 tuổi.",
+      "Từ 18 đến 25 tuổi.",
+      "Từ 17 đến 23 tuổi.",
+      "Từ 18 đến 22 tuổi."
+    ],
+    "answer": "Từ 17 đến 21 tuổi.",
+    "explanation": "Theo quy định tuyển sinh của Bộ Quốc phòng, thanh niên ngoài Quân đội dự tuyển sinh quân sự phải nằm trong độ tuổi từ 17 đến 21 tuổi."
+  },
+  {
+    "question": "Khi lướt mạng xã hội, bạn N thấy một bài viết có nội dung xuyên tạc lịch sử, bôi nhọ hình ảnh lãnh tụ. N nên xử lý thế nào để đúng quy định của Luật An ninh mạng?",
+    "options": [
+      "Bấm chia sẻ (share) về trang cá nhân để cảnh báo mọi người cùng biết.",
+      "Không tương tác, không chia sẻ và sử dụng tính năng báo cáo (report) xấu độc hoặc thông báo cho cơ quan chức năng.",
+      "Vào phần bình luận tranh cãi gay gắt, chửi bới người đăng bài.",
+      "Ngó lơ coi như không thấy và tiếp tục lướt xem nội dung khác."
+    ],
+    "answer": "Không tương tác, không chia sẻ và sử dụng tính năng báo cáo (report) xấu độc hoặc thông báo cho cơ quan chức năng.",
+    "explanation": "Không chia sẻ thông tin xấu độc tránh làm lan rộng tin giả; sử dụng tính năng báo cáo giúp ngăn chặn thông tin vi phạm an ninh mạng."
+  },
+  {
+    "question": "Vì sao không gian mạng lại được coi là một 'lãnh thổ mở rộng' cần được bảo vệ nghiêm ngặt như lãnh thổ đất liền, vùng biển, vùng trời?",
+    "options": [
+      "Vì trên không gian mạng có diện tích đất đai giống thực tế.",
+      "Vì không gian mạng liên quan trực tiếp đến an ninh quốc gia, chủ quyền số và sự ổn định chính trị, kinh tế, xã hội.",
+      "Vì không gian mạng do quân đội quản lý hoàn toàn.",
+      "Vì không gian mạng không có sự kết nối với thế giới bên ngoài."
+    ],
+    "answer": "Vì không gian mạng liên quan trực tiếp đến an ninh quốc gia, chủ quyền số và sự ổn định chính trị, kinh tế, xã hội.",
+    "explanation": "Không gian mạng là môi trường chiến lược mới; sự cố an toàn thông tin hoặc tấn công mạng có thể làm tê liệt hạ tầng quốc gia, đe dọa chủ quyền số."
+  },
+  {
+    "question": "Sự khác biệt cơ bản giữa vùng Lãnh hải và vùng Đặc quyền kinh tế của một quốc gia ven biển theo Luật Biển năm 1982 là gì?",
+    "options": [
+      "Lãnh hải thuộc chủ quyền hoàn toàn của quốc gia; còn vùng đặc quyền kinh tế quốc gia chỉ có quyền chủ quyền và quyền tài phán.",
+      "Vùng đặc quyền kinh tế rộng 12 hải lý, lãnh hải rộng 200 hải lý.",
+      "Tàu thuyền nước ngoài không được đi qua lãnh hải, nhưng được đi qua vùng đặc quyền kinh tế tự do.",
+      "Quốc gia có toàn quyền khai thác khoáng sản ở lãnh hải, nhưng không được khai thác ở vùng đặc quyền kinh tế."
+    ],
+    "answer": "Lãnh hải thuộc chủ quyền hoàn toàn của quốc gia; còn vùng đặc quyền kinh tế quốc gia chỉ có quyền chủ quyền và quyền tài phán.",
+    "explanation": "Lãnh hải là bộ phận lãnh thổ trên biển thuộc chủ quyền tối cao của quốc gia. Vùng đặc quyền kinh tế nằm ngoài lãnh hải, quốc gia chỉ có quyền kiểm soát kinh tế và tài phán khoa học, môi trường."
+  },
+  {
+    "question": "Tại sao việc xác định đường cơ sở trên biển lại có ý nghĩa đặc biệt quan trọng trong luật pháp quốc tế và quốc gia?",
+    "options": [
+      "Để xác định ranh giới đánh cá của ngư dân trong tỉnh.",
+      "Để làm căn cứ tính chiều rộng của các vùng biển thuộc chủ quyền và quyền chủ quyền của quốc gia (lãnh hải, tiếp giáp lãnh hải, đặc quyền kinh tế).",
+      "Để các hãng tàu nước ngoài biết nơi đóng thuế.",
+      "Để xây dựng các căn cứ quân sự nổi trên biển."
+    ],
+    "answer": "Để làm căn cứ tính chiều rộng của các vùng biển thuộc chủ quyền và quyền chủ quyền của quốc gia (lãnh hải, tiếp giáp lãnh hải, đặc quyền kinh tế).",
+    "explanation": "Đường cơ sở là vạch xuất phát để từ đó đo chiều rộng lãnh hải và các vùng biển khác. Không có đường cơ sở thì không thể phân định chính xác ranh giới biển."
+  },
+  {
+    "question": "Điểm khác nhau cốt lõi về phương thức hoạt động giữa lực lượng Dân quân và lực lượng Tự vệ là gì?",
+    "options": [
+      "Dân quân được trang bị vũ khí hiện đại hơn lực lượng Tự vệ.",
+      "Dân quân tổ chức và hoạt động ở địa bàn nông thôn, đô thị (xã, phường); Tự vệ tổ chức ở các cơ quan, đơn vị, xí nghiệp.",
+      "Dân quân do Bộ Công an quản lý, Tự vệ do Bộ Quốc phòng quản lý.",
+      "Dân quân hoạt động vào ban đêm, Tự vệ hoạt động vào ban ngày."
+    ],
+    "answer": "Dân quân tổ chức và hoạt động ở địa bàn nông thôn, đô thị (xã, phường); Tự vệ tổ chức ở các cơ quan, đơn vị, xí nghiệp.",
+    "explanation": "Tiêu chí phân biệt rõ ràng nhất dựa trên nơi tổ chức: Dân quân gắn liền với địa bàn dân cư hành chính, Tự vệ gắn liền với đơn vị lao động, công tác."
+  },
+  {
+    "question": "Tại sao Đảng và Nhà nước ta luôn nhấn mạnh việc xây dựng lực lượng Dân quân tự vệ phải theo hướng 'Vững mạnh, rộng khắp'?",
+    "options": [
+      "Để biến tất cả người dân thành binh lính chuyên nghiệp.",
+      "Để bảo đảm ở đâu có dân, có tổ chức sản xuất thì ở đó có lực lượng vũ trang tại chỗ, sẵn sàng ứng phó với mọi tình huống.",
+      "Để giảm bớt ngân sách chi tiêu cho Quân đội nhân dân chính quy.",
+      "Để phục vụ cho các hoạt động diễu binh, duyệt binh ngày lễ lớn."
+    ],
+    "answer": "Để bảo đảm ở đâu có dân, có tổ chức sản xuất thì ở đó có lực lượng vũ trang tại chỗ, sẵn sàng ứng phó với mọi tình huống.",
+    "explanation": "'Vững mạnh' là nói về chất lượng chính trị và chiến đấu; 'Rộng khắp' đảm bảo độ bao phủ địa bàn, phát huy thế trận chiến tranh nhân dân tại chỗ."
+  },
+  {
+    "question": "Việc quản lý, huấn luyện lực lượng dự bị động viên có ý nghĩa chiến lược như thế nào trong nền quốc phòng toàn dân?",
+    "options": [
+      "Giúp các cựu quân nhân không quên kỷ luật quân đội.",
+      "Giúp tiết kiệm chi phí nuôi dưỡng quân đội thường trực trong thời bình, nhưng khi có chiến tranh vẫn nhanh chóng có lực lượng cơ động lớn.",
+      "Để tăng số lượng lao động công ích cho các vùng kinh tế mới.",
+      "Để thay thế cho toàn bộ lực lượng công an xã."
+    ],
+    "answer": "Giúp tiết kiệm chi phí nuôi dưỡng quân đội thường trực trong thời bình, nhưng khi có chiến tranh vẫn nhanh chóng có lực lượng cơ động lớn.",
+    "explanation": "Đây là nghệ thuật 'ngụ binh ư nông' thời hiện đại: thời bình giữ quy mô thường trực vừa phải để phát triển kinh tế, thời chiến lập tức mở rộng lực lượng dồi dào."
+  },
+  {
+    "question": "Khi một phương tiện kỹ thuật của nền kinh tế quốc dân được đưa vào danh sách 'phương tiện kỹ thuật dự bị' của lực lượng dự bị động viên, chủ sở hữu có quyền và nghĩa vụ gì?",
+    "options": [
+      "Phải giao nộp vĩnh viễn phương tiện đó cho quân đội quản lý.",
+      "Có nghĩa vụ bảo dưỡng, đăng ký và sẵn sàng giao nộp phương tiện khi có lệnh điều động; được hỗ trợ kinh phí theo quy định.",
+      "Được miễn toàn bộ các loại thuế đường bộ và bảo hiểm.",
+      "Không được phép sử dụng phương tiện đó vào mục đích kinh doanh cá nhân nữa."
+    ],
+    "answer": "Có nghĩa vụ bảo dưỡng, đăng ký và sẵn sàng giao nộp phương tiện khi có lệnh điều động; được hỗ trợ kinh phí theo quy định.",
+    "explanation": "Chủ sở hữu vẫn giữ quyền sở hữu, sử dụng thời bình nhưng phải có trách nhiệm phối hợp kiểm tra và bàn giao phương tiện khi có lệnh động viên."
+  },
+  {
+    "question": "Hệ thống các học viện, trường sĩ quan Quân đội mang lại lợi ích đặc biệt nào cho học viên sĩ quan chủ trì hệ đại học quân sự?",
+    "options": [
+      "Được tự do lựa chọn đơn vị công tác sau khi ra trường.",
+      "Được miễn học phí, bảo đảm ăn ở, trang phục và được phân công công tác (bố trí việc làm) sau khi tốt nghiệp.",
+      "Được cấp giấy phép kinh doanh các mặt hàng quốc phòng.",
+      "Được miễn hoàn toàn nghĩa vụ lao động công ích suốt đời."
+    ],
+    "answer": "Được miễn học phí, bảo đảm ăn ở, trang phục và được phân công công tác (bố trí việc làm) sau khi tốt nghiệp.",
+    "explanation": "Đây là chính sách ưu đãi đặc biệt của Nhà nước dành cho khối trường quân đội nhằm thu hút nhân tài và đảm bảo tính ổn định cho lực lượng vũ trang."
+  },
+  {
+    "question": "Nội dung nào sau đây phản ánh đúng tính chất của việc thực hiện nghĩa vụ tham gia Dân quân tự vệ?",
+    "options": [
+      "Là việc làm tự nguyện hoàn toàn, ai thích thì tham gia.",
+      "Là nghĩa vụ pháp lý của công dân được quy định trong Hiến pháp và Luật Dân quân tự vệ.",
+      "Chỉ bắt buộc đối với những người không có công ăn việc làm ổn định.",
+      "Là hình thức xử phạt hành chính đối với những người vi phạm giao thông."
+    ],
+    "answer": "Là nghĩa vụ pháp lý của công dân được quy định trong Hiến pháp và Luật Dân quân tự vệ.",
+    "explanation": "Tham gia bảo vệ Tổ quốc, trong đó có tham gia lực lượng vũ trang tại chỗ (DQTV), là nghĩa vụ thiêng liêng và mang tính bắt buộc pháp lý của công dân đúng độ tuổi."
+  },
+  {
+    "question": "Nhận định nào sau đây là ĐÚNG khi nói về mối quan hệ giữa biên giới trên đất liền và biên giới trên biển?",
+    "options": [
+      "Biên giới trên đất liền và trên biển hoàn toàn không có điểm nối tiếp nối.",
+      "Điểm khởi đầu của biên giới trên biển chính là điểm kết thúc của biên giới trên đất liền tại bờ biển.",
+      "Biên giới trên biển luôn song song tuyệt đối với biên giới trên đất liền.",
+      "Biên giới trên biển được phân định trước, sau đó mới phân định biên giới trên đất liền."
+    ],
+    "answer": "Điểm khởi đầu của biên giới trên biển chính là điểm kết thúc của biên giới trên đất liền tại bờ biển.",
+    "explanation": "Đường biên giới quốc gia là một vòng khép kín quanh lãnh thổ. Biên giới trên biển nối tiếp biên giới đất liền ngay tại giao điểm của đường biên giới đất liền với bờ biển."
+  },
+  {
+    "question": "Một người sử dụng phần mềm gián điệp sao chép tài liệu mật của nhà nước trên máy tính cá nhân rồi gửi ra nước ngoài. Hành vi này cấu thành tội gì theo quy định?",
+    "options": [
+      "Tội vô ý làm lộ bí mật nhà nước.",
+      "Tội vi phạm quy định về sử dụng internet.",
+      "Tội gián điệp hoặc tội cố ý làm lộ bí mật nhà nước; xâm phạm an ninh quốc gia.",
+      "Tội vi phạm bản quyền phần mềm máy tính."
+    ],
+    "answer": "Tội gián điệp hoặc tội cố ý làm lộ bí mật nhà nước; xâm phạm an ninh quốc gia.",
+    "explanation": "Hành vi sử dụng công nghệ đánh cắp thông tin mật, cốt lõi của quốc gia nhằm cung cấp cho tổ chức nước ngoài gây nguy hại an ninh là phạm tội xâm phạm ANQG."
+  },
+  {
+    "question": "Hoạt động 'giữ gìn trật tự, an toàn xã hội tại địa phương' của Dân quân tự vệ phối hợp chặt chẽ nhất với lực lượng nào?",
+    "options": [
+      "Lực lượng Kiểm lâm địa phương.",
+      "Lực lượng Công an nhân dân tại địa bàn.",
+      "Đội quản lý thị trường thương mại.",
+      "Các câu lạc bộ thể thao tình nguyện."
+    ],
+    "answer": "Lực lượng Công an nhân dân tại địa bàn.",
+    "explanation": "Theo cơ chế phối hợp (Nghị định 02/2020/NĐ-CP), DQTV phối hợp chặt chẽ với Công an xã/phường để bảo vệ an ninh trật tự, an toàn xã hội trên địa bàn quản lý."
+  },
+  {
+    "question": "Vì sao công dân là quân nhân dự bị khi thay đổi nơi cư trú từ huyện này sang huyện khác phải thực hiện đăng ký chuyển vùng dự bị động viên?",
+    "options": [
+      "Để quân đội thu hồi quân phục thời phục vụ tại ngũ.",
+      "Để bảo đảm cơ quan quân sự địa phương mới nắm chắc số lượng, chất lượng nguồn, sẵn sàng cho việc quản lý và điều động khi cần thiết.",
+      "Để người đó được nhận tiền trợ cấp thất nghiệp tại nơi mới.",
+      "Để chuyển đổi hộ khẩu thường trú tự động."
+    ],
+    "answer": "Để bảo đảm cơ quan quân sự địa phương mới nắm chắc số lượng, chất lượng nguồn, sẵn sàng cho việc quản lý và điều động khi cần thiết.",
+    "explanation": "Động viên cần tính chính xác và nhanh chóng. Nếu không quản lý chặt chẽ biến động cư trú, khi có lệnh khẩn cấp sẽ không thể triệu tập đúng thời gian."
+  },
+  {
+    "question": "Khi tham gia môi trường mạng, việc bạn chia sẻ một đường link chứa thông tin giả mạo về dịch bệnh vì cho rằng 'chia sẻ để mọi người tự phòng tránh' phản ánh điều gì?",
+    "options": [
+      "Sự nhạy bén và cập nhật thông tin nhanh chóng.",
+      "Ý thức trách nhiệm cao với cộng đồng xã hội.",
+      "Hành vi thiếu hiểu biết pháp luật, vô tình phát tán thông tin sai sự thật, có thể bị xử lý theo Luật An ninh mạng.",
+      "Hành động hoàn toàn hợp pháp và được khuyến khích."
+    ],
+    "answer": "Hành vi thiếu hiểu biết pháp luật, vô tình phát tán thông tin sai sự thật, có thể bị xử lý theo Luật An ninh mạng.",
+    "explanation": "Luật An ninh mạng nghiêm cấm phát tán thông tin sai sự thật gây hoang mang dư luận. Dù động cơ không cố ý, hành vi phát tán tin giả vẫn vi phạm pháp luật."
+  },
+  {
+    "question": "Nhóm hành vi nào sau đây vi phạm nghiêm trọng quy định về bảo vệ chủ quyền biên giới quốc gia?",
+    "options": [
+      "Ngư dân đánh bắt thủy hải sản trong vùng nội thủy của nước mình.",
+      "Thay đổi dòng chảy tự nhiên của sông, suối biên giới; làm hư hại mốc quốc giới; cư trú trái phép trong vùng cấm biên giới.",
+      "Đi qua cửa khẩu quốc tế có đầy đủ hộ chiếu, thị thực hợp lệ.",
+      "Tổ chức các hoạt động giao lưu văn hóa nghệ thuật biên giới giữa hai nước."
+    ],
+    "answer": "Thay đổi dòng chảy tự nhiên của sông, suối biên giới; làm hư hại mốc quốc giới; cư trú trái phép trong vùng cấm biên giới.",
+    "explanation": "Các hành vi này trực tiếp làm biến dạng địa hình biên giới, làm sai lệch ranh giới quốc gia, vi phạm nghiêm trọng Luật Biên giới quốc gia."
+  },
+  {
+    "question": "Một tàu cá nước ngoài vào đánh bắt hải sản trái phép trong vùng lãnh hải của Việt Nam. Cơ quan chức năng Việt Nam có quyền áp dụng biện pháp nào sau đây theo Luật Biển?",
+    "options": [
+      "Không có quyền can thiệp vì biển là không gian chung.",
+      "Tuyên truyền nhắc nhở rồi để họ tiếp tục đánh bắt.",
+      "Xua đuổi, bắt giữ, xử phạt hành chính hoặc tịch thu tang vật, phương tiện theo quy định của pháp luật Việt Nam.",
+      "Tấn công quân sự ngay lập tức mà không cần cảnh báo."
+    ],
+    "answer": "Xua đuổi, bắt giữ, xử phạt hành chính hoặc tịch thu tang vật, phương tiện theo quy định của pháp luật Việt Nam.",
+    "explanation": "Vì vùng lãnh hải thuộc chủ quyền hoàn toàn của Việt Nam, việc tàu nước ngoài xâm phạm khai thác tài nguyên trái phép sẽ bị xử lý nghiêm theo luật pháp Việt Nam."
+  },
+  {
+    "question": "Tại sao các chiến sĩ Dân quân tự vệ biển lại cần thiết phải được trang bị kiến thức sâu sắc về Luật Biển Việt Nam và Công ước Luật Biển năm 1982 (UNCLOS)?",
+    "options": [
+      "Để họ tự đứng ra phân chia ranh giới biển với các nước láng giềng.",
+      "Để vừa tham gia sản xuất phát triển kinh tế biển, vừa thực hiện nhiệm vụ đấu tranh bảo vệ chủ quyền đúng pháp luật, tránh xung đột không đáng có.",
+      "Để họ có thể thay thế hoàn toàn lực lượng Hải quân đánh bộ.",
+      "Để họ tự cấp phép cho tàu thuyền nước ngoài vào cảng biển."
+    ],
+    "answer": "Để vừa tham gia sản xuất phát triển kinh tế biển, vừa thực hiện nhiệm vụ đấu tranh bảo vệ chủ quyền đúng pháp luật, tránh xung đột không đáng có.",
+    "explanation": "Đấu tranh trên biển cực kỳ nhạy cảm về mặt ngoại giao; DQTV biển cần nắm chắc luật để hành xử chuẩn xác, bảo vệ chủ quyền vững chắc và đúng pháp lý."
+  },
+  {
+    "question": "Sự phối hợp giữa lực lượng thường trực của Quân đội và lực lượng Dự bị động viên trong chiến tranh nhân dân thể hiện nguyên tắc tổ chức nào?",
+    "options": [
+      "Tách rời nhiệm vụ thời bình và thời chiến.",
+      "Kết hợp lực lượng tại chỗ dồi dào với lực lượng cơ động tinh nhuệ, tạo thế trận chiến tranh nhân dân toàn diện.",
+      "Ưu tiên phát triển kinh tế, giảm tối đa huấn luyện quân sự.",
+      "Chỉ sử dụng lực lượng dự bị khi lực lượng chính quy hoàn toàn thất bại."
+    ],
+    "answer": "Kết hợp lực lượng tại chỗ dồi dào với lực lượng cơ động tinh nhuệ, tạo thế trận chiến tranh nhân dân toàn diện.",
+    "explanation": "Lực lượng thường trực làm nòng cốt cơ động, lực lượng dự bị làm nguồn bổ sung quy mô lớn, tạo sức mạnh tổng hợp của nền quốc phòng toàn dân."
+  },
+  {
+    "question": "Điểm giống nhau cơ bản nhất về tiêu chuẩn tuyển sinh của các trường Sĩ quan Quân đội và các trường Đại học Công an nhân dân là gì?",
+    "options": [
+      "Đều không thi tuyển mà chỉ xét tuyển thẳng dựa trên mối quan hệ gia đình.",
+      "Đều đòi hỏi khắt khe về lý lịch chính trị trong sạch, phẩm chất đạo đức tốt và có bài kiểm tra sơ tuyển sức khỏe nghiêm ngặt.",
+      "Đều chấp nhận tất cả thí sinh có chứng chỉ ngoại ngữ IELTS từ 5.0 trở lên mà không cần xét điểm văn hóa.",
+      "Đều chỉ tuyển sinh thí sinh có hộ khẩu thường trú tại các thành phố lớn."
+    ],
+    "answer": "Đều đòi hỏi khắt khe về lý lịch chính trị trong sạch, phẩm chất đạo đức tốt và có bài kiểm tra sơ tuyển sức khỏe nghiêm ngặt.",
+    "explanation": "Do đặc thù của lực lượng vũ trang nhân dân (Quân đội và Công an), tiêu chuẩn về chính trị, đạo đức và sức khỏe luôn là điều kiện tiên quyết, bắt buộc."
+  },
+  {
+    "question": "Tình huống: Doanh nghiệp X bị một nhóm hacker tấn công mã hóa toàn bộ dữ liệu kế toán và đòi tiền chuộc bằng tiền ảo. Theo Luật An ninh mạng Việt Nam, doanh nghiệp X cần làm gì để bảo vệ quyền lợi hợp pháp của mình một cách tốt nhất?",
+    "options": [
+      "Âm thầm chuyển tiền chuộc cho hacker để lấy lại dữ liệu nhanh chóng nhằm tránh tai tiếng.",
+      "Thuê một nhóm hacker khác tấn công trả đũa lại hệ thống của thủ phạm.",
+      "Kịp thời giữ nguyên hiện trạng hệ thống và thông báo ngay cho Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (Bộ Công an) để được hỗ trợ, điều tra.",
+      "Xóa toàn bộ ổ cứng máy tính để hủy dấu vết và làm lại hệ thống dữ liệu từ đầu."
+    ],
+    "answer": "Kịp thời giữ nguyên hiện trạng hệ thống và thông báo ngay cho Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (Bộ Công an) để được hỗ trợ, điều tra.",
+    "explanation": "Thông báo cho cơ quan chuyên trách an ninh mạng giúp xử lý sự cố chuyên nghiệp, truy tìm tội phạm và tránh các rủi ro pháp lý liên quan đến việc thỏa hiệp với tội phạm."
+  },
+  {
+    "question": "Trong một chuyến dã ngoại vùng biên giới đất liền, nhóm bạn học sinh lớp 12 phát hiện một mốc quốc giới bị sạt lở đất làm nghiêng lệch, có nguy cơ đổ vỡ. Theo em, hành động nào sau đây thể hiện rõ nhất trách nhiệm công dân?",
+    "options": [
+      "Cả nhóm cùng nhau tự tay đào đất, dùng dây thừng tự neo kéo và dựng lại cột mốc cho thẳng.",
+      "Chụp ảnh check-in đăng lên mạng xã hội với dòng trạng thái hài hước về cột mốc.",
+      "Ghi nhận chính xác vị trí mốc và thông báo ngay lập tức cho đồn Biên phòng gần nhất hoặc chính quyền địa phương nơi gần nhất.",
+      "Coi như không phải việc của mình, tiếp tục chuyến tham quan để tránh rắc rối phức tạp."
+    ],
+    "answer": "Ghi nhận chính xác vị trí mốc và thông báo ngay lập tức cho đồn Biên phòng gần nhất hoặc chính quyền địa phương nơi gần nhất.",
+    "explanation": "Mốc quốc giới là tài sản quốc gia, việc định vị đòi hỏi độ chính xác tuyệt đối bằng kỹ thuật nghiệp vụ. Tự ý di dời, sửa chữa mốc có thể làm sai lệch biên giới; thông báo cho Biên phòng là cách xử lý đúng đắn nhất."
+  },
+  {
+    "question": "Một tàu vận tải nước ngoài đi qua vùng lãnh hải Việt Nam nhưng liên tục phát sóng vô tuyến truyền bá thông tin kích động bạo loạn chống phá chính quyền. Tàu này có được coi là đang thực hiện quyền 'đi qua không gây hại' nữa hay không? Vì sao?",
+    "options": [
+      "Vẫn được coi là đi qua không gây hại vì họ chỉ phát sóng, không bắn phá vũ khí quân sự.",
+      "Không được coi là đi qua không gây hại vì hành vi này xâm phạm nghiêm trọng đến an ninh, trật tự và an toàn của quốc gia ven biển theo quy định của Luật Biển.",
+      "Vẫn được vì tàu vận tải có quyền miễn trừ tư pháp tuyệt đối trên mọi vùng biển.",
+      "Chỉ không được nếu con tàu đó chở vũ khí quân dụng hạng nặng."
+    ],
+    "answer": "Không được coi là đi qua không gây hại vì hành vi này xâm phạm nghiêm trọng đến an ninh, trật tự và an toàn của quốc gia ven biển theo quy định của Luật Biển.",
+    "explanation": "Theo UNCLOS 1982 và Luật Biển Việt Nam, đi qua không gây hại không được làm phương hại đến hòa bình, an ninh, trật tự của quốc gia ven biển. Hành vi tuyên truyền phá hoại chính trị đã tước đi quyền đi qua không gây hại của con tàu đó."
+  },
+  {
+    "question": "Công ty cổ phần sản xuất may mặc Y có 100 lao động. Anh H là Chỉ huy trưởng Quân sự của xã đến vận động thành lập tiểu đội Tự vệ tại công ty. Giám đốc từ chối vì cho rằng 'Tự vệ chỉ thành lập ở cơ quan nhà nước, doanh nghiệp tư nhân không có nghĩa vụ này'. Ý kiến của vị Giám đốc đúng hay sai? Vì sao?",
+    "options": [
+      "Đúng, doanh nghiệp tư nhân chỉ cần tập trung đóng thuế, không liên quan đến quốc phòng.",
+      "Sai, vì Luật Dân quân tự vệ quy định rõ tất cả các tổ chức kinh tế (gồm cả doanh nghiệp tư nhân) nếu đủ điều kiện theo quy định của pháp luật đều có nghĩa vụ tổ chức lực lượng Tự vệ.",
+      "Đúng, vì lực lượng Tự vệ chỉ áp dụng đối với công chức, viên chức nhà nước hưởng lương từ ngân sách.",
+      "Sai, vì tất cả mọi doanh nghiệp bắt buộc phải thành lập lực lượng tự vệ, bất kể quy mô có bao nhiêu người."
+    ],
+    "answer": "Sai, vì Luật Dân quân tự vệ quy định rõ tất cả các tổ chức kinh tế (gồm cả doanh nghiệp tư nhân) nếu đủ điều kiện theo quy định của pháp luật đều có nghĩa vụ tổ chức lực lượng Tự vệ.",
+    "explanation": "Luật DQTV không phân biệt thành phần kinh tế. Các doanh nghiệp tư nhân đạt tiêu chuẩn về số lượng lao động, tổ chức Đảng/Đoàn thể đều phải có trách nhiệm xây dựng lực lượng tự vệ tại chỗ."
+  },
+  {
+    "question": "Anh Minh là quân nhân dự bị hạng 1. Anh nhận được lệnh tập trung huấn luyện trong thời gian 1 tháng từ Ban chỉ huy quân sự huyện. Tuy nhiên, thời điểm đó xưởng gỗ của gia đình anh đang vào đợt giao hàng cao điểm. Anh Minh nên ứng xử như thế nào để vừa đúng luật vừa hợp tình?",
+    "options": [
+      "Tự ý viết đơn xin nghỉ và ở nhà làm hàng, chấp nhận nộp phạt tiền sau.",
+      "Thuê một người khác có sức khỏe tốt đi huấn luyện thay thế mình.",
+      "Chấp hành nghiêm chỉnh lệnh triệu tập; đồng thời chủ động sắp xếp, bàn giao công việc xưởng gỗ cho người thân quản lý hợp lý.",
+      "Bỏ trốn khỏi địa phương đến khi đợt huấn luyện kết thúc thì quay về."
+    ],
+    "answer": "Chấp hành nghiêm chỉnh lệnh triệu tập; đồng thời chủ động sắp xếp, bàn giao công việc xưởng gỗ cho người thân quản lý hợp lý.",
+    "explanation": "Thực hiện lệnh gọi tập trung huấn luyện là nghĩa vụ bắt buộc của quân nhân dự bị. Việc trốn tránh có thể bị truy cứu trách nhiệm hình sự. Sắp xếp công việc gia đình là cách giải quyết có trách nhiệm."
+  },
+  {
+    "question": "Bạn K học rất giỏi, ước mơ trở thành Sĩ quan Quân đội chỉ huy tham mưu nhưng chiều cao của K chỉ đạt 1m62 (trong khi tiêu chuẩn trường yêu cầu từ 1m65 trở lên đối với nam). K tìm kiếm trên mạng thấy có người quảng cáo 'chạy dịch vụ hồ sơ' bao đậu tiêu chuẩn sức khỏe với giá 50 triệu đồng. K nên quyết định thế nào?",
+    "options": [
+      "Giấu bố mẹ, vay tiền bạn bè để nộp cho người đó nhằm đạt ước mơ.",
+      "Tỉnh táo nhận diện đây là hành vi lừa đảo chiếm đoạt tài sản; kiên quyết không tham gia và tập trung ôn tập, tìm kiếm các ngành/trường quân đội khác có tiêu chuẩn phù hợp hơn hoặc thi trường ngoài.",
+      "Đồng ý nộp tiền nhưng bắt người đó phải viết giấy cam kết hoàn tiền nếu trượt.",
+      "Đến nhờ thầy cô giáo chủ nhiệm làm chứng cho giao dịch nộp tiền đó."
+    ],
+    "answer": "Tỉnh táo nhận diện đây là hành vi lừa đảo chiếm đoạt tài sản; kiên quyết không tham gia và tập trung ôn tập, tìm kiếm các ngành/trường quân đội khác có tiêu chuẩn phù hợp hơn hoặc thi trường ngoài.",
+    "explanation": "Tuyển sinh quân sự có hội đồng y khoa kiểm tra cực kỳ chặt chẽ, nghiêm túc qua nhiều vòng (vòng sơ tuyển địa phương và vòng kiểm tra phúc tra tại trường). Việc 'chạy hồ sơ chiều cao' hoàn toàn là lừa đảo."
+  },
+  {
+    "question": "Giả sử nước láng giềng xây dựng một đập thủy điện lớn trên phần sông thuộc lãnh thổ của họ, làm thay đổi nghiêm trọng dòng chảy tự nhiên của dòng sông biên giới chảy vào Việt Nam, gây hạn hán cục bộ. Việt Nam cần căn cứ vào luật pháp nào để giải quyết vấn đề này hiệu quả và hòa bình?",
+    "options": [
+      "Sử dụng vũ lực quân sự cưỡng chế dừng hoạt động đập thủy điện ngay lập tức.",
+      "Căn cứ vào Hiệp định về quy chế quản lý biên giới giữa hai nước và luật pháp quốc tế về sử dụng nguồn nước xuyên biên giới để tiến hành đàm phán ngoại giao.",
+      "Xây dựng một đập lớn hơn ở hạ lưu để trả đũa nước láng giềng.",
+      "Kêu gọi người dân biên giới tràn sang biểu tình phá hủy công trình đập."
+    ],
+    "answer": "Căn cứ vào Hiệp định về quy chế quản lý biên giới giữa hai nước và luật pháp quốc tế về sử dụng nguồn nước xuyên biên giới để tiến hành đàm phán ngoại giao.",
+    "explanation": "Giải quyết tranh chấp biên giới và tài nguyên xuyên biên giới phải dựa trên nguyên tắc tôn trọng luật pháp quốc tế, hiệp định song phương bằng biện pháp hòa bình, ngoại giao."
+  },
+  {
+    "question": "Trên một diễn đàn mạng quốc tế, một tài khoản nước ngoài đăng bản đồ thế giới nhưng cố tình vẽ sai lệch chủ quyền hai quần đảo Hoàng Sa và Trường Sa của Việt Nam. Là một học sinh lớp 12 am hiểu GDQPAN, hành động nào của em thể hiện tư duy vận dụng cao và có văn hóa mạng?",
+    "options": [
+      "Sử dụng các lời lẽ thô tục, chửi bới tài khoản đó để hạ uy tín của họ.",
+      "Bình luận dẫn chứng các tư liệu lịch sử, bằng chứng pháp lý rõ ràng bằng tiếng Anh khẳng định chủ quyền của Việt Nam; kêu gọi cộng đồng báo cáo bài viết vi phạm.",
+      "Kêu gọi các hacker Việt Nam đánh sập toàn bộ diễn đàn mạng đó.",
+      "Coi như việc của người lớn, không quan tâm vì không ảnh hưởng đến việc học của mình."
+    ],
+    "answer": "Bình luận dẫn chứng các tư liệu lịch sử, bằng chứng pháp lý rõ ràng bằng tiếng Anh khẳng định chủ quyền của Việt Nam; kêu gọi cộng đồng báo cáo bài viết vi phạm.",
+    "explanation": "Đấu tranh bảo vệ chủ quyền trên không gian mạng cần sự thông minh, dựa trên luật pháp, chứng cứ lịch sử cụ thể và sử dụng ngôn ngữ quốc tế để bạn bè thế giới hiểu đúng sự thật."
+  },
+  {
+    "question": "Tại một xã ven biển, có tình trạng một số thanh niên trốn tránh nghĩa vụ tham gia huấn luyện Dân quân tự vệ biển bằng cách đi tàu cá ra khơi dài ngày vào đúng dịp huấn luyện. Nếu là Chỉ huy trưởng Quân sự xã, em sẽ tham mưu giải pháp chiến lược nào để giải quyết triệt để tình trạng này?",
+    "options": [
+      "Tước giấy phép khai thác thủy sản vĩnh viễn của tất cả các tàu cá có thanh niên đó.",
+      "Thay đổi linh hoạt thời gian huấn luyện phù hợp với mùa biển lặng (khi tàu thuyền neo đậu ở bờ); kết hợp huấn luyện ngay trên biển trong quá trình ngư dân đánh bắt và tăng cường tuyên truyền, hỗ trợ phụ cấp thỏa đáng.",
+      "Thuê lực lượng bên ngoài vào danh sách đi huấn luyện thay để đủ chỉ tiêu cấp trên giao.",
+      "Cắt toàn bộ chế độ hỗ trợ an sinh xã hội của gia đình các thanh niên đó."
+    ],
+    "answer": "Thay đổi linh hoạt thời gian huấn luyện phù hợp với mùa biển lặng (khi tàu thuyền neo đậu ở bờ); kết hợp huấn luyện ngay trên biển trong quá trình ngư dân đánh bắt và tăng cường tuyên truyền, hỗ trợ phụ cấp thỏa đáng.",
+    "explanation": "Giải pháp này thể hiện sự kết hợp khoa học giữa kinh tế và quốc phòng: vừa tạo điều kiện cho ngư dân bám biển mưu sinh, vừa đảm bảo quân số huấn luyện thực chất, hiệu quả."
+  },
+  {
+    "question": "Trong bối cảnh chuyển đổi số quốc gia, hệ thống cơ sở dữ liệu quốc gia về dân cư của Việt Nam đối mặt với hàng triệu cuộc tấn công mạng mỗi năm. Theo em, việc bảo vệ hệ thống này thuộc về trách nhiệm cốt lõi của lực lượng nào và cần chiến lược gì?",
+    "options": [
+      "Chỉ cần các công ty bán phần mềm diệt virus chịu trách nhiệm bảo hành.",
+      "Là trách nhiệm của toàn dân, trong đó lực lượng chuyên trách an ninh mạng (Bộ Công an, Bộ Quốc phòng) làm nòng cốt; chiến lược là xây dựng hạ tầng bảo mật dùng công nghệ tự chủ, kết hợp diễn tập thực chiến và nâng cao nhận thức bảo mật của mọi cán bộ vận hành.",
+      "Chỉ cần giao hoàn toàn cho học sinh, sinh viên ngành công nghệ thông tin thực tập bảo vệ.",
+      "Ngắt toàn bộ kết nối internet của hệ thống, quay lại quản lý bằng sổ sách giấy truyền thống để an toàn tuyệt đối."
+    ],
+    "answer": "Là trách nhiệm của toàn dân, trong đó lực lượng chuyên trách an ninh mạng (Bộ Công an, Bộ Quốc phòng) làm nòng cốt; chiến lược là xây dựng hạ tầng bảo mật dùng công nghệ tự chủ, kết hợp diễn tập thực chiến và nâng cao nhận thức bảo mật của mọi cán bộ vận hành.",
+    "explanation": "Bảo vệ an ninh mạng quốc gia là sự nghiệp của toàn dân. Tuy nhiên, hệ thống cốt lõi cần sự chỉ huy chuyên nghiệp của lực lượng chuyên trách kết hợp giải pháp công nghệ tự chủ cao và quy trình vận hành nghiêm ngặt."
+  }
+]
+
+
+

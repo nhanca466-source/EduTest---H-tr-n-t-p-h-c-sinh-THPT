@@ -1,0 +1,609 @@
+
+[
+  {
+    "question": "Theo thuyết electron, một vật nhiễm điện âm là do vật đó như thế nào?",
+    "options": [
+      "Nhận thêm các electron",
+      "Mất đi các electron",
+      "Nhận thêm các proton",
+      "Mất đi các proton"
+    ],
+    "answer": "Nhận thêm các electron",
+    "explanation": "Theo thuyết electron, một vật trung hòa về điện khi nhận thêm các electron (mang điện tích âm) sẽ trở thành vật nhiễm điện âm."
+  },
+  {
+    "question": "Đơn vị của điện tích trong hệ SI là gì?",
+    "options": [
+      "Coulomb (C)",
+      "Volt (V)",
+      "Ampere (A)",
+      "Farad (F)"
+    ],
+    "answer": "Coulomb (C)",
+    "explanation": "Trong hệ đo lường quốc tế SI, đơn vị của điện tích là Coulomb, ký hiệu là C."
+  },
+  {
+    "question": "Lực tương tác giữa hai điện tích điểm đứng yên trong chân không tỉ lệ nghịch với đại lượng nào sau đây?",
+    "options": [
+      "Bình phương khoảng cách giữa hai điện tích",
+      "Khoảng cách giữa hai điện tích",
+      "Tích độ lớn của hai điện tích",
+      "Hằng số điện môi của môi trường"
+    ],
+    "answer": "Bình phương khoảng cách giữa hai điện tích",
+    "explanation": "Theo định luật Coulomb, lực tương tác tỉ lệ thuận với tích độ lớn hai điện tích và tỉ lệ nghịch với bình phương khoảng cách giữa chúng."
+  },
+  {
+    "question": "Điện trường là gì?",
+    "options": [
+      "Là một dạng vật chất tồn tại xung quanh điện tích và truyền tương tác điện",
+      "Là một vùng không gian bao quanh các vật nhiễm từ",
+      "Là một loại lực cơ học xuất hiện giữa các vật có khối lượng lớn",
+      "Là trường hấp dẫn bao quanh Trái Đất tác dụng lên các vật"
+    ],
+    "answer": "Là một dạng vật chất tồn tại xung quanh điện tích và truyền tương tác điện",
+    "explanation": "Định nghĩa điện trường là dạng vật chất đặc biệt tồn tại xung quanh điện tích và tác dụng lực điện lên điện tích khác đặt trong nó."
+  },
+  {
+    "question": "Đơn vị của cường độ điện trường là gì?",
+    "options": [
+      "Volt trên mét (V/m)",
+      "Newton (N)",
+      "Coulomb trên mét (C/m)",
+      "Joule (J)"
+    ],
+    "answer": "Volt trên mét (V/m)",
+    "explanation": "Cường độ điện trường được đo bằng đơn vị Volt trên mét, ký hiệu là V/m."
+  },
+  {
+    "question": "Đường sức điện của một điện tích điểm dương đứng yên có dạng như thế nào?",
+    "options": [
+      "Là các đường thẳng có chiều hướng ra xa điện tích",
+      "Là các đường thẳng có chiều hướng về phía điện tích",
+      "Là các đường tròn đồng tâm bao quanh điện tích",
+      "Là các đường cong khép kín không có điểm đầu điểm cuối"
+    ],
+    "answer": "Là các đường thẳng có chiều hướng ra xa điện tích",
+    "explanation": "Đường sức điện của điện tích điểm dương là các đường thẳng xuất phát từ điện tích và kéo dài ra vô cực (hướng ra xa)."
+  },
+  {
+    "question": "Đặc điểm nào sau đây KHÔNG PHẢI của đường sức điện trường tĩnh?",
+    "options": [
+      "Là những đường cong khép kín",
+      "Qua mỗi điểm trong điện trường chỉ vẽ được một đường sức",
+      "Các đường sức điện không bao giờ cắt nhau",
+      "Nơi nào điện trường mạnh thì các đường sức điện vẽ dày"
+    ],
+    "answer": "Là những đường cong khép kín",
+    "explanation": "Đường sức của điện trường tĩnh là những đường không khép kín, chúng xuất phát từ điện tích dương và kết thúc ở điện tích âm hoặc vô cực."
+  },
+  {
+    "question": "Điện trường đều là điện trường có đặc điểm gì?",
+    "options": [
+      "Vectơ cường độ điện trường tại mọi điểm đều bằng nhau về hướng và độ lớn",
+      "Cường độ điện trường tại mọi điểm chỉ bằng nhau về độ lớn",
+      "Các đường sức điện là các đường cong song song cách đều nhau",
+      "Cường độ điện trường tỉ lệ thuận với khoảng cách đến nguồn điện"
+    ],
+    "answer": "Vectơ cường độ điện trường tại mọi điểm đều bằng nhau về hướng và độ lớn",
+    "explanation": "Theo định nghĩa, điện trường đều có vectơ cường độ điện trường như nhau tại mọi điểm, các đường sức điện là các đường thẳng song song cách đều."
+  },
+  {
+    "question": "Công của lực điện tác dụng lên một điện tích khi dịch chuyển trong điện trường đều KHÔNG phụ thuộc vào yếu tố nào?",
+    "options": [
+      "Hình dạng của đường đi từ điểm đầu đến điểm cuối",
+      "Độ lớn của điện tích dịch chuyển",
+      "Cường độ điện trường",
+      "Vị trí của điểm đầu và điểm cuối"
+    ],
+    "answer": "Hình dạng của đường đi từ điểm đầu đến điểm cuối",
+    "explanation": "Công của lực điện không phụ thuộc vào hình dạng đường đi mà chỉ phụ thuộc vào vị trí của điểm đầu và điểm cuối của quỹ đạo."
+  },
+  {
+    "question": "Công thức tính công của lực điện trường đều khi điện tích dịch chuyển dọc theo đường sức là gì?",
+    "options": [
+      "A = q*E*d",
+      "A = q*E/d",
+      "A = E*d/q",
+      "A = q*d/E"
+    ],
+    "answer": "A = q*E*d",
+    "explanation": "Công của lực điện trong điện trường đều được xác định bằng công thức A = q*E*d, với d là hình chiếu của quỹ đạo lên phương đường sức."
+  },
+  {
+    "question": "Thế năng điện của một điện tích q đặt tại một điểm trong điện trường đặc trưng cho đại lượng nào?",
+    "options": [
+      "Khả năng sinh công của điện trường tại điểm đó",
+      "Độ lớn lực điện tác dụng lên điện tích q",
+      "Mức độ mạnh yếu của điện trường tại điểm đó",
+      "Tốc độ dịch chuyển của điện tích q"
+    ],
+    "answer": "Khả năng sinh công của điện trường tại điểm đó",
+    "explanation": "Thế năng của một điện tích trong điện trường đặc trưng cho khả năng sinh công của điện trường khi đặt điện tích tại điểm đó."
+  },
+  {
+    "question": "Đơn vị của điện thế và hiệu điện thế trong hệ SI là gì?",
+    "options": [
+      "Volt (V)",
+      "Ampere (A)",
+      "Coulomb (C)",
+      "Joule (J)"
+    ],
+    "answer": "Volt (V)",
+    "explanation": "Điện thế và hiệu điện thế đều có đơn vị đo trong hệ SI là Volt, ký hiệu là V."
+  },
+  {
+    "question": "Tụ điện là một hệ gồm các vật như thế nào?",
+    "options": [
+      "Hai vật dẫn đặt gần nhau và ngăn cách nhau bởi một lớp cách điện",
+      "Hai vật cách điện đặt gần nhau trong một môi trường dẫn điện",
+      "Một vật dẫn và một vật cách điện đặt tiếp xúc trực tiếp với nhau",
+      "Hai vật dẫn điện đặt tiếp xúc trực tiếp với nhau trong chân không"
+    ],
+    "answer": "Hai vật dẫn đặt gần nhau và ngăn cách nhau bởi một lớp cách điện",
+    "explanation": "Cấu tạo cơ bản của tụ điện gồm hai vật dẫn đặt gần nhau và ngăn cách nhau bởi một lớp cách điện (điện môi)."
+  },
+  {
+    "question": "Đại lượng nào đặc trưng cho khả năng tích điện của tụ điện ở một hiệu điện thế nhất định?",
+    "options": [
+      "Điện dung của tụ điện",
+      "Cường độ điện trường trong tụ",
+      "Hiệu điện thế giới hạn của tụ",
+      "Năng lượng điện trường của tụ"
+    ],
+    "answer": "Điện dung của tụ điện",
+    "explanation": "Điện dung C của tụ điện là đại lượng đặc trưng cho khả năng tích điện của tụ ở một hiệu điện thế nhất định, tính bằng C = Q/U."
+  },
+  {
+    "question": "Đơn vị của điện dung trong hệ SI là gì?",
+    "options": [
+      "Farad (F)",
+      "Volt (V)",
+      "Coulomb (C)",
+      "Ohm (Ohm)"
+    ],
+    "answer": "Farad (F)",
+    "explanation": "Trong hệ SI, đơn vị của điện dung là Farad, ký hiệu là F."
+  },
+  {
+    "question": "Dòng điện được định nghĩa là gì?",
+    "options": [
+      "Là dòng dịch chuyển có hướng của các hạt mang điện",
+      "Là dòng chuyển động hỗn loạn của các phân tử chất lỏng",
+      "Là dòng dịch chuyển của các hạt đứng yên khi có ánh sáng chiếu vào",
+      "Là dòng chuyển động tự do của các neutron trong hạt nhân"
+    ],
+    "answer": "Là dòng dịch chuyển có hướng của các hạt mang điện",
+    "explanation": "Dòng điện là dòng dịch chuyển có hướng của các hạt mang điện (điện tích)."
+  },
+  {
+    "question": "Cường độ dòng điện là đại lượng đặc trưng cho đặc tính nào của dòng điện?",
+    "options": [
+      "Tác dụng mạnh hay yếu của dòng điện",
+      "Thời gian dòng điện chạy qua mạch",
+      "Khả năng sinh công lớn hay nhỏ của nguồn điện",
+      "Bản chất của các hạt mang điện trong mạch"
+    ],
+    "answer": "Tác dụng mạnh hay yếu của dòng điện",
+    "explanation": "Cường độ dòng điện đặc trưng cho tác dụng mạnh hay yếu của dòng điện, được đo bằng điện lượng chuyển qua tiết diện thẳng của vật dẫn trong một đơn vị thời gian."
+  },
+  {
+    "question": "Đơn vị của cường độ dòng điện trong hệ SI là gì?",
+    "options": [
+      "Ampere (A)",
+      "Volt (V)",
+      "Coulomb (C)",
+      "Watt (W)"
+    ],
+    "answer": "Ampere (A)",
+    "explanation": "Đơn vị đo cường độ dòng điện trong hệ SI là Ampere, ký hiệu là A."
+  },
+  {
+    "question": "Nguồn điện có chức năng chính là gì trong một mạch điện kín?",
+    "options": [
+      "Duy trì hiệu điện thế giữa hai cực của nó để duy trì dòng điện",
+      "Tạo ra các electron mới để cung cấp cho vật dẫn điện",
+      "Làm tiêu hao bớt năng lượng của dòng điện khi đi qua mạch",
+      "Tự động ngắt mạch điện khi xảy ra sự cố quá tải"
+    ],
+    "answer": "Duy trì hiệu điện thế giữa hai cực của nó để duy trì dòng điện",
+    "explanation": "Nguồn điện có tác dụng duy trì hiệu điện thế giữa hai cực, từ đó duy trì dòng điện chạy trong mạch kín."
+  },
+  {
+    "question": "Đại lượng nào đặc trưng cho khả năng thực hiện công của lực lạ bên trong nguồn điện?",
+    "options": [
+      "Suất điện động của nguồn điện",
+      "Hiệu điện thế mạch ngoài",
+      "Điện trở trong của nguồn",
+      "Công suất tỏa nhiệt của nguồn"
+    ],
+    "answer": "Suất điện động của nguồn điện",
+    "explanation": "Suất điện động của nguồn điện đặc trưng cho khả năng thực hiện công của các lực lạ bên trong nguồn điện khi dịch chuyển một đơn vị điện tích dương ngược chiều điện trường."
+  },
+  {
+    "question": "Khi hai điện tích điểm đặt gần nhau, nếu độ lớn của một điện tích tăng lên gấp đôi và khoảng cách giữa chúng giảm đi một nửa thì lực tương tác giữa chúng thay đổi như thế nào?",
+    "options": [
+      "Tăng lên 8 lần",
+      "Tăng lên 4 lần",
+      "Giảm đi 2 lần",
+      "Không thay đổi"
+    ],
+    "answer": "Tăng lên 8 lần",
+    "explanation": "Lực Coulomb tỉ lệ thuận với độ lớn điện tích (tăng 2) và tỉ lệ nghịch với bình phương khoảng cách (khoảng cách giảm một nửa nên lực tăng thêm 4 lần). Tổng hợp lại lực tăng 2 * 4 = 8 lần."
+  },
+  {
+    "question": "Hai điện tích điểm trái dấu đặt gần nhau trong không khí thì chúng sẽ tác dụng lên nhau lực có đặc điểm gì?",
+    "options": [
+      "Lực hút, có phương là đường thẳng nối hai điện tích",
+      "Lực đẩy, có phương là đường thẳng nối hai điện tích",
+      "Lực hút, có phương vuông góc với đường thẳng nối hai điện tích",
+      "Lực đẩy, có phương vuông góc với đường thẳng nối hai điện tích"
+    ],
+    "answer": "Lực hút, có phương là đường thẳng nối hai điện tích",
+    "explanation": "Hai điện tích cùng dấu thì đẩy nhau, trái dấu thì hút nhau. Phương của lực tương tác luôn nằm trên đường thẳng nối hai điện tích điểm."
+  },
+  {
+    "question": "Nếu đặt một điện tích thử âm tại một điểm trong điện trường, vectơ lực điện tác dụng lên điện tích thử đó sẽ có mối quan hệ gì với vectơ cường độ điện trường tại điểm đó?",
+    "options": [
+      "Ngược chiều với vectơ cường độ điện trường",
+      "Cùng chiều với vectơ cường độ điện trường",
+      "Vuông góc với vectơ cường độ điện trường",
+      "Hợp với vectơ cường độ điện trường một góc 45 độ"
+    ],
+    "answer": "Ngược chiều với vectơ cường độ điện trường",
+    "explanation": "Từ công thức F = q*E, vì q âm nên vectơ lực điện F sẽ ngược chiều với vectơ cường độ điện trường E."
+  },
+  {
+    "question": "Một điện tích điểm q dương đặt tại một điểm trong không khí. Cường độ điện trường do nó gây ra tại một điểm cách nó một khoảng r thay đổi như thế nào nếu khoảng cách r tăng lên 3 lần?",
+    "options": [
+      "Giảm đi 9 lần",
+      "Giảm đi 3 lần",
+      "Tăng lên 3 lần",
+      "Tăng lên 9 lần"
+    ],
+    "answer": "Giảm đi 9 lần",
+    "explanation": "Cường độ điện trường của điện tích điểm tỉ lệ nghịch với bình phương khoảng cách r. Khi r tăng 3 lần thì cường độ điện trường giảm 3 bình phương bằng 9 lần."
+  },
+  {
+    "question": "Phát biểu nào sau đây là ĐÚNG về mối quan hệ giữa hiệu điện thế U giữa hai điểm và công A của lực điện khi dịch chuyển điện tích q giữa hai điểm đó?",
+    "options": [
+      "U bằng tỉ số giữa công A và độ lớn điện tích q",
+      "U bằng tích của công A và điện tích q",
+      "U bằng tỉ số giữa điện tích q và công A",
+      "U luôn có giá trị bằng công A không phụ thuộc q"
+    ],
+    "answer": "U bằng tỉ số giữa công A và độ lớn điện tích q",
+    "explanation": "Hiệu điện thế giữa hai điểm được xác định bằng công thức U = A/q, tức là bằng tỉ số giữa công của lực điện và độ lớn điện tích dịch chuyển."
+  },
+  {
+    "question": "Trong một điện trường đều, nếu một điện tích dịch chuyển theo một đường cong kín thì tổng công của lực điện trường thực hiện bằng bao nhiêu?",
+    "options": [
+      "Bằng 0",
+      "Bằng tích q*E*s với s là chiều dài đường cong",
+      "Phụ thuộc vào diện tích giới hạn bởi đường cong",
+      "Luôn có giá trị dương"
+    ],
+    "answer": "Bằng 0",
+    "explanation": "Vì lực điện là lực thế, công của lực điện chỉ phụ thuộc điểm đầu và điểm cuối. Khi dịch chuyển theo đường cong kín, điểm đầu trùng điểm cuối nên công tổng cộng bằng 0."
+  },
+  {
+    "question": "Khi tăng hiệu điện thế giữa hai bản của một tụ điện lên gấp đôi thì điện dung của tụ điện thay đổi như thế nào?",
+    "options": [
+      "Không thay đổi",
+      "Tăng lên gấp đôi",
+      "Giảm đi một nửa",
+      "Tăng lên gấp bốn"
+    ],
+    "answer": "Không thay đổi",
+    "explanation": "Điện dung C của tụ điện là một cấu trúc hình học cố định của tụ, không phụ thuộc vào hiệu điện thế U đặt vào hay điện tích Q tụ tích được. Khi U tăng thì Q tăng theo, còn C giữ nguyên."
+  },
+  {
+    "question": "Đồ thị biểu diễn mối quan hệ giữa điện tích Q tích được của một tụ điện vào hiệu điện thế U giữa hai bản của nó có dạng là gì?",
+    "options": [
+      "Một đường thẳng đi qua gốc tọa độ",
+      "Một đường cong parabol",
+      "Một đường thẳng song song với trục hiệu điện thế",
+      "Một đường hyperbol"
+    ],
+    "answer": "Một đường thẳng đi qua gốc tọa độ",
+    "explanation": "Do Q = C*U với C là hằng số, nên Q và U tỉ lệ thuận với nhau. Đồ thị biểu diễn mối quan hệ này là một đường thẳng đi qua gốc tọa độ."
+  },
+  {
+    "question": "Để tích điện cho tụ điện, người ta phải làm cách nào?",
+    "options": [
+      "Nối hai bản của tụ điện vào hai cực của một nguồn điện",
+      "Cọ xát hai bản tụ điện vào nhau",
+      "Nối hai bản của tụ điện bằng một sợi dây dẫn",
+      "Phơi tụ điện dưới ánh nắng mặt trời"
+    ],
+    "answer": "Nối hai bản của tụ điện vào hai cực của một nguồn điện",
+    "explanation": "Muốn tích điện cho tụ điện, người ta nối hai bản dẫn điện của tụ vào hai cực của nguồn điện một chiều."
+  },
+  {
+    "question": "Một dòng điện không đổi có cường độ 2 Ampere chạy qua một tiết diện thẳng của dây dẫn. Điện lượng dịch chuyển qua tiết diện đó trong thời gian 5 giây là bao nhiêu?",
+    "options": [
+      "10 Coulomb",
+      "2.5 Coulomb",
+      "0.4 Coulomb",
+      "7 Coulomb"
+    ],
+    "answer": "10 Coulomb",
+    "explanation": "Sử dụng công thức tính điện lượng: Q = I * t. Thay số ta có Q = 2 * 5 = 10 Coulomb."
+  },
+  {
+    "question": "Trong thời gian 2 giây, có một điện lượng 6 Coulomb dịch chuyển qua tiết diện thẳng của một vật dẫn. Cường độ dòng điện chạy qua vật dẫn này bằng bao nhiêu?",
+    "options": [
+      "3 Ampere",
+      "12 Ampere",
+      "0.33 Ampere",
+      "8 Ampere"
+    ],
+    "answer": "3 Ampere",
+    "explanation": "Cường độ dòng điện được tính bằng công thức I = Q / t. Thay số ta được I = 6 / 2 = 3 Ampere."
+  },
+  {
+    "question": "Khi mắc một điện trở vào nguồn điện có suất điện động 12 Volt để tạo thành mạch kín, nếu hiệu điện thế mạch ngoài là 10 Volt thì độ giảm thế bên trong nguồn điện bằng bao nhiêu?",
+    "options": [
+      "2 Volt",
+      "22 Volt",
+      "1.2 Volt",
+      "10 Volt"
+    ],
+    "answer": "2 Volt",
+    "explanation": "Suất điện động của nguồn bằng tổng hiệu điện thế mạch ngoài và độ giảm thế mạch trong: E = U + U_trong. Suy ra U_trong = E - U = 12 - 10 = 2 Volt."
+  },
+  {
+    "question": "Đại lượng nào sau đây tỉ lệ thuận với mật độ dòng điện chạy qua một dây dẫn?",
+    "options": [
+      "Cường độ dòng điện chạy qua một đơn vị diện tích tiết diện thẳng vuông góc",
+      "Tổng điện trở mạch ngoài của nguồn điện",
+      "Chiều dài của sợi dây dẫn điện",
+      "Hằng số điện môi bao quanh dây dẫn"
+    ],
+    "answer": "Cường độ dòng điện chạy qua một đơn vị diện tích tiết diện thẳng vuông góc",
+    "explanation": "Mật độ dòng điện J được tính bằng cường độ dòng điện I chia cho diện tích tiết diện thẳng S vuông góc với dòng điện, nên nó tỉ lệ thuận với cường độ dòng điện qua một đơn vị diện tích."
+  },
+  {
+    "question": "Một nguồn điện thực hiện một công là 24 Joule khi dịch chuyển một điện lượng 2 Coulomb bên trong nguồn giữa hai cực. Suất điện động của nguồn điện này là bao nhiêu?",
+    "options": [
+      "12 Volt",
+      "48 Volt",
+      "0.08 Volt",
+      "26 Volt"
+    ],
+    "answer": "12 Volt",
+    "explanation": "Suất điện động của nguồn điện được tính bằng công thức E = A / q. Thay số vào ta được E = 24 / 2 = 12 Volt."
+  },
+  {
+    "question": "Dòng điện chạy trong mạng điện gia đình sử dụng hàng ngày có đặc điểm gì khác với dòng điện của pin đồng hồ?",
+    "options": [
+      "Mạng điện gia đình là dòng điện xoay chiều, còn pin đồng hồ là dòng điện một chiều không đổi",
+      "Mạng điện gia đình có cường độ dòng điện nhỏ hơn pin đồng hồ rất nhiều",
+      "Dòng điện gia đình không sinh ra nhiệt lượng khi chạy qua các thiết bị",
+      "Pin đồng hồ sử dụng dòng điện có hướng thay đổi liên tục theo thời gian"
+    ],
+    "answer": "Mạng điện gia đình là dòng điện xoay chiều, còn pin đồng hồ là dòng điện một chiều không đổi",
+    "explanation": "Điện lưới gia đình là dòng điện xoay chiều có chiều và độ lớn biến thiên, còn pin sinh ra dòng điện một chiều có chiều và cường độ không đổi theo thời gian."
+  },
+  {
+    "question": "Hai điện tích điểm q1 = 2*10^-9 C và q2 = 8*10^-9 C đặt cách nhau một khoảng r trong không khí thì hút hay đẩy nhau với lực có độ lớn lớn hơn bao nhiêu lần so với khi chúng đặt cách nhau một khoảng 2r?",
+    "options": [
+      "Lớn hơn 4 lần và đẩy nhau",
+      "Lớn hơn 2 lần và hút nhau",
+      "Lớn hơn 4 lần và hút nhau",
+      "Lớn hơn 2 lần và đẩy nhau"
+    ],
+    "answer": "Lớn hơn 4 lần và đẩy nhau",
+    "explanation": "Vì hai điện tích cùng dấu dương nên chúng đẩy nhau. Do lực tương tác tỉ lệ nghịch với bình phương khoảng cách, khi khoảng cách giảm từ 2r xuống r (giảm 2 lần) thì lực tăng lên 4 lần."
+  },
+  {
+    "question": "Một điện tích điểm q = 5*10^-6 C đặt tại một điểm trong điện trường chịu tác dụng của một lực điện có độ lớn là 0.05 Newton. Cường độ điện trường tại điểm đó có độ lớn là bao nhiêu?",
+    "options": [
+      "10000 Volt trên mét",
+      "2500 Volt trên mét",
+      "0.000025 Volt trên mét",
+      "500 Volt trên mét"
+    ],
+    "answer": "10000 Volt trên mét",
+    "explanation": "Công thức tính cường độ điện trường là E = F / q. Thay số ta được E = 0.05 / (5*10^-6) = 10000 V/m."
+  },
+  {
+    "question": "Trong một điện trường đều có cường độ E = 2000 V/m, một điện tích q = 2*10^-6 C dịch chuyển dọc theo một đường sức điện một khoảng 0.1 mét cùng chiều đường sức. Công của lực điện trường thực hiện trong quá trình này là bao nhiêu?",
+    "options": [
+      "0.0004 Joule",
+      "0.004 Joule",
+      "0.04 Joule",
+      "4 Joule"
+    ],
+    "answer": "0.0004 Joule",
+    "explanation": "Áp dụng công thức A = q*E*d. Vì dịch chuyển cùng chiều đường sức nên d = 0.1 m. Thay số: A = (2*10^-6) * 2000 * 0.1 = 0.0004 Joule."
+  },
+  {
+    "question": "Hiệu điện thế giữa hai bản tụ điện phẳng là 20 Volt. Một hạt bụi mang điện tích q = 3*10^-6 C dịch chuyển từ bản này sang bản kia. Công của lực điện trường tác dụng lên hạt bụi bằng bao nhiêu?",
+    "options": [
+      "0.00006 Joule",
+      "60 Joule",
+      "0.0006 Joule",
+      "0.15 Joule"
+    ],
+    "answer": "0.00006 Joule",
+    "explanation": "Công của lực điện khi dịch chuyển giữa hai điểm có hiệu điện thế U là A = q*U. Thay số vào ta được A = (3*10^-6) * 20 = 0.00006 Joule."
+  },
+  {
+    "question": "Một tụ điện có điện dung C = 5 microFarad được tích điện dưới hiệu điện thế 12 Volt. Điện tích mà tụ điện tích được là bao nhiêu?",
+    "options": [
+      "0.00006 Coulomb",
+      "60 Coulomb",
+      "2.4 Coulomb",
+      "0.0000024 Coulomb"
+    ],
+    "answer": "0.00006 Coulomb",
+    "explanation": "Đổi C = 5 microFarad = 5*10^-6 Farad. Áp dụng công thức Q = C*U, ta có Q = (5*10^-6) * 12 = 6*10^-5 Coulomb = 0.00006 Coulomb."
+  },
+  {
+    "question": "Một tụ điện phẳng không khí có điện dung C. Nếu đưa vào giữa hai bản một tấm điện môi có hằng số điện môi bằng 3 phân bố đều đầy khoảng không gian giữa hai bản thì điện dung của tụ thay đổi thế nào?",
+    "options": [
+      "Tăng lên 3 lần",
+      "Giảm đi 3 lần",
+      "Tăng lên 9 lần",
+      "Không thay đổi"
+    ],
+    "answer": "Tăng lên 3 lần",
+    "explanation": "Điện dung của tụ điện phẳng tỉ lệ thuận với hằng số điện môi của chất làm điện môi giữa hai bản tụ. Khi hằng số điện môi tăng 3 lần thì điện dung tăng 3 lần."
+  },
+  {
+    "question": "Một bình ắc quy có suất điện động 6 Volt sản sinh ra một công suất điện mạch ngoài là 12 Watt khi hoạt động. Cường độ dòng điện chạy qua mạch bằng bao nhiêu nếu bỏ qua điện trở trong của nguồn?",
+    "options": [
+      "2 Ampere",
+      "0.5 Ampere",
+      "72 Ampere",
+      "3 Ampere"
+    ],
+    "answer": "2 Ampere",
+    "explanation": "Công suất được tính bằng P = E * I (khi bỏ qua điện trở trong thì U bằng E). Suy ra I = P / E = 12 / 6 = 2 Ampere."
+  },
+  {
+    "question": "Có hai điểm M và N nằm trên cùng một đường sức của một điện trường đều. Biết cường độ điện trường là 5000 V/m và khoảng cách MN là 0.04 mét, dòng đường sức đi từ M đến N. Hiệu điện thế giữa hai điểm M và N là bao nhiêu?",
+    "options": [
+      "200 Volt",
+      "125000 Volt",
+      "20 Volt",
+      "5000 Volt"
+    ],
+    "answer": "200 Volt",
+    "explanation": "Hiệu điện thế giữa hai điểm dọc theo đường sức trong điện trường đều được tính bằng U = E * d. Thay số ta được U = 5000 * 0.04 = 200 Volt."
+  },
+  {
+    "question": "Khi cường độ dòng điện chạy qua một dây dẫn tăng lên gấp ba trong cùng một khoảng thời gian, tổng điện lượng dịch chuyển qua tiết diện thẳng của dây thay đổi thế nào?",
+    "options": [
+      "Tăng lên gấp ba lần",
+      "Giảm đi ba lần",
+      "Tăng lên gấp chín lần",
+      "Giữ nguyên không đổi"
+    ],
+    "answer": "Tăng lên gấp ba lần",
+    "explanation": "Vì điện lượng Q = I * t, trong cùng một khoảng thời gian t, điện lượng Q tỉ lệ thuận với cường độ dòng điện I. Do đó I tăng 3 lần thì Q cũng tăng 3 lần."
+  },
+  {
+    "question": "Cường độ điện trường tại một điểm cách điện tích điểm q một khoảng 10 cm trong chân không là 9000 V/m. Nếu đưa hệ vào một chất lỏng có hằng số điện môi bằng 2 và giữ nguyên khoảng cách thì cường độ điện trường tại điểm đó là bao nhiêu?",
+    "options": [
+      "4500 Volt trên mét",
+      "18000 Volt trên mét",
+      "9000 Volt trên mét",
+      "2250 Volt trên mét"
+    ],
+    "answer": "4500 Volt trên mét",
+    "explanation": "Cường độ điện trường tỉ lệ nghịch với hằng số điện môi của môi trường. Khi hằng số điện môi tăng từ 1 (chân không) lên 2 thì cường độ điện trường giảm đi 2 lần: 9000 / 2 = 4500 V/m."
+  },
+  {
+    "question": "Ba điện tích điểm bằng nhau q dương đặt tại ba đỉnh của một tam giác đều cạnh a. Lực điện tổng hợp tác dụng lên một điện tích đặt ở tâm của tam giác đều này có độ lớn bằng bao nhiêu?",
+    "options": [
+      "Bằng 0",
+      "Bằng ba lần lực do một điện tích gây ra",
+      "Phụ thuộc vào chiều cao của tam giác",
+      "Bằng căn bậc hai của ba lần lực do một điện tích gây ra"
+    ],
+    "answer": "Bằng 0",
+    "explanation": "Do tính chất đối xứng của tam giác đều, các vectơ lực do ba điện tích ở ba đỉnh tác dụng lên điện tích ở tâm có độ lớn bằng nhau và hợp với nhau từng đôi một một góc 120 độ, nên hợp lực của chúng tổng cộng bằng 0."
+  },
+  {
+    "question": "Hai điện tích điểm q1 = 4*10^-8 C và q2 = -4*10^-8 C đặt tại hai điểm A và B cách nhau 6 cm trong không khí. Cường độ điện trường tổng hợp tại trung điểm M của đoạn thẳng AB có đặc điểm gì?",
+    "options": [
+      "Có chiều hướng từ A sang B và độ lớn khác 0",
+      "Có chiều hướng từ B sang A và độ lớn khác 0",
+      "Có độ lớn bằng 0 vì hai điện tích trái dấu",
+      "Có phương vuông góc với đoạn thẳng AB"
+    ],
+    "answer": "Có chiều hướng từ A sang B và độ lớn khác 0",
+    "explanation": "Điện tích dương tại A gây ra điện trường hướng ra xa A (hướng về B). Điện tích âm tại B gây ra điện trường hướng về B. Do đó hai vectơ cường độ điện trường tại trung điểm M cùng chiều hướng từ A sang B nên chúng bổ trợ nhau tạo ra điện trường tổng hợp khác 0 hướng từ A sang B."
+  },
+  {
+    "question": "Một điện tích q dịch chuyển từ điểm M đến điểm N trong một điện trường. Nếu thế năng điện tại M là 15 Joule và tại N là 5 Joule, thì công của lực điện trường thực hiện trong dịch chuyển này là bao nhiêu?",
+    "options": [
+      "10 Joule",
+      "20 Joule",
+      "-10 Joule",
+      "75 Joule"
+    ],
+    "answer": "10 Joule",
+    "explanation": "Công của lực điện bằng độ giảm thế năng điện giữa hai điểm đầu và cuối: A = W_M - W_N. Thay số ta thu được A = 15 - 5 = 10 Joule."
+  },
+  {
+    "question": "Một electron dịch chuyển ngược chiều đường sức của một điện trường đều có cường độ 1000 V/m trên một đoạn đường dài 0.05 mét. Công của lực điện trường thực hiện lên electron bằng bao nhiêu? Biết điện tích electron là -1.6*10^-19 Coulomb.",
+    "options": [
+      "8*10^-18 Joule",
+      "-8*10^-18 Joule",
+      "1.6*10^-17 Joule",
+      "-1.6*10^-17 Joule"
+    ],
+    "answer": "8*10^-18 Joule",
+    "explanation": "Vì electron mang điện âm dịch chuyển ngược chiều đường sức nên lực điện tác dụng lên nó cùng chiều dịch chuyển. Do đó công sinh ra là công dương. Tính toán: A = q*E*d = (-1.6*10^-19) * 1000 * (-0.05) = 8*10^-18 Joule."
+  },
+  {
+    "question": "Mắc hai bản của một tụ điện có điện dung 2 microFarad vào một nguồn điện một chiều thì tụ tích được điện tích 4*10^-5 Coulomb. Nếu ngắt tụ ra khỏi nguồn rồi dùng dây dẫn nối hai bản tụ lại với nhau thì năng lượng điện trường tích lũy trong tụ biến đổi thành dạng năng lượng nào?",
+    "options": [
+      "Nhiệt lượng tỏa ra trên dây dẫn",
+      "Hóa năng tích trữ trong tụ điện",
+      "Cơ năng làm dịch chuyển các bản tụ",
+      "Điện năng quay trở lại nguồn điện"
+    ],
+    "answer": "Nhiệt lượng tỏa ra trên dây dẫn",
+    "explanation": "Khi nối hai bản tụ bằng dây dẫn, hiện tượng phóng điện xảy ra, toàn bộ năng lượng điện trường dự trữ trong tụ điện sẽ chuyển hóa thành nhiệt năng tỏa ra trên dây dẫn do hiệu ứng Joule."
+  },
+  {
+    "question": "Một dòng điện không đổi chạy qua một dây dẫn kim loại có tiết diện thẳng tròn đường kính d. Nếu thay sợi dây đó bằng một sợi dây khác cùng chất nhưng có đường kính 2d và giữ nguyên cường độ dòng điện thì mật độ dòng điện thay đổi thế nào?",
+    "options": [
+      "Giảm đi 4 lần",
+      "Giảm đi 2 lần",
+      "Tăng lên 2 lần",
+      "Tăng lên 4 lần"
+    ],
+    "answer": "Giảm đi 4 lần",
+    "explanation": "Mật độ dòng điện J = I / S. Diện tích tiết diện thẳng S tỉ lệ với bình phương đường kính dây d. Khi đường kính tăng gấp đôi thì diện tích S tăng 4 lần, dẫn tới mật độ dòng điện J giảm đi 4 lần."
+  },
+  {
+    "question": "Một bộ pin có suất điện động 9 Volt cung cấp một dòng điện 0.5 Ampere cho một bóng đèn hoạt động bình thường trong thời gian 10 phút. Công của lực lạ thực hiện bên trong bộ pin trong khoảng thời gian này bằng bao nhiêu?",
+    "options": [
+      "2700 Joule",
+      "45 Joule",
+      "270 Joule",
+      "4.5 Joule"
+    ],
+    "answer": "2700 Joule",
+    "explanation": "Thời gian t = 10 phút = 600 giây. Công của lực lạ được tính bằng công thức A = E * I * t. Thay các giá trị vào ta được A = 9 * 0.5 * 600 = 2700 Joule."
+  },
+  {
+    "question": "Một tụ điện phẳng có các bản hình tròn bán kính R đặt cách nhau một khoảng d trong chân không. Nếu tăng bán kính các bản tụ lên gấp đôi đồng thời giảm khoảng cách giữa hai bản đi một nửa thì điện dung của tụ thay đổi như thế nào?",
+    "options": [
+      "Tăng lên 8 lần",
+      "Tăng lên 4 lần",
+      "Tăng lên 2 lần",
+      "Không thay đổi"
+    ],
+    "answer": "Tăng lên 8 lần",
+    "explanation": "Diện tích bản tụ phẳng hình tròn tỉ lệ thuận với bình phương bán kính R, nên khi bán kính tăng gấp đôi thì diện tích tăng 4 lần. Điện dung tụ tỉ lệ thuận với diện tích và tỉ lệ nghịch với khoảng cách d, do đó C tăng 4 * 2 = 8 lần."
+  },
+  {
+    "question": "Hai điện tích điểm q1 và q2 đặt cách nhau một khoảng r trong không khí thì lực tương tác giữa chúng là F. Nếu đặt một tấm thủy tinh dày có hằng số điện môi bằng 4 chèn vào hoàn toàn khoảng không gian giữa hai điện tích, đồng thời giảm khoảng cách giữa chúng đi một nửa thì lực tương tác mới bằng bao nhiêu?",
+    "options": [
+      "Bằng F",
+      "Bằng 2F",
+      "Bằng 4F",
+      "Bằng F/2"
+    ],
+    "answer": "Bằng F",
+    "explanation": "Lực tương tác ban đầu là F. Khi có hằng số điện môi bằng 4 thì lực giảm 4 lần, nhưng khoảng cách giảm một nửa nên lực tăng lên 2 bình phương bằng 4 lần. Kết quả hai yếu tố triệt tiêu nhau, lực tương tác giữ nguyên bằng F."
+  },
+  {
+    "question": "Một quả cầu nhỏ khối lượng m mang điện tích q dương được treo vào một sợi dây mảnh, nhẹ, cách điện trong một điện trường đều có phương nằm ngang. Khi quả cầu cân bằng, sợi dây hợp với phương thẳng đứng một góc alpha. Công thức xác định cường độ điện trường E của điện trường này là gì?",
+    "options": [
+      "E = m*g*tan(alpha) / q",
+      "E = m*g / (q*tan(alpha))",
+      "E = q*tan(alpha) / (m*g)",
+      "E = m*g*sin(alpha) / q"
+    ],
+    "answer": "E = m*g*tan(alpha) / q",
+    "explanation": "Khi quả cầu cân bằng dưới tác dụng của trọng lực, lực căng dây và lực điện trường nằm ngang, ta có điều kiện cân bằng lực tạo nên mối liên hệ hình học: tan(alpha) = F_dien / P = (q*E) / (m*g). Từ đó suy ra E = m*g*tan(alpha) / q."
+  }
+]
+

@@ -1,0 +1,2268 @@
+[
+  {
+    "question": "Hoạt động nào sau đây thuộc lĩnh vực trồng trọt?",
+    "options": [
+      "Nuôi cá tằm trong bể kính",
+      "Gieo cấy lúa hè thu",
+      "Chăn nuôi lợn hướng nạc",
+      "Sản xuất vắc xin cho gia cầm"
+    ],
+    "answer": "Gieo cấy lúa hè thu",
+    "explanation": "Gieo cấy lúa hè thu là hoạt động trực tiếp tác động vào cây trồng nhằm thu mục đích thu hoạch nông sản, thuộc lĩnh vực trồng trọt."
+  },
+  {
+    "question": "Nhóm cây trồng nào sau đây thuộc nhóm cây lương thực?",
+    "options": [
+      "Cà phê, ca cao, chè",
+      "Lúa, ngô, khoai, sắn",
+      "Rau cải, bắp cải, su hào",
+      "Nhãn, vải, xoài, bưởi"
+    ],
+    "answer": "Lúa, ngô, khoai, sắn",
+    "explanation": "Lúa, ngô, khoai, sắn là những loại cây trồng cung cấp tinh bột và nguồn lương thực chủ yếu cho con người."
+  },
+  {
+    "question": "Cây cà phê, cây chè được xếp vào nhóm cây trồng nào sau đây?",
+    "options": [
+      "Cây lương thực",
+      "Cây ăn quả",
+      "Cây công nghiệp",
+      "Cây rau"
+    ],
+    "answer": "Cây công nghiệp",
+    "explanation": "Cây cà phê và cây chè cung cấp nguyên liệu cho ngành công nghiệp chế biến đồ uống và xuất khẩu, thuộc nhóm cây công nghiệp."
+  },
+  {
+    "question": "Đâu là một trong những vai trò cốt lõi của trồng trọt đối với bối cảnh kinh tế Việt Nam?",
+    "options": [
+      "Cung cấp toàn bộ máy móc cho công nghiệp",
+      "Đảm bảo an ninh lương thực quốc gia",
+      "Thay thế hoàn toàn ngành chăn nuôi",
+      "Cung cấp khoáng sản cho ngành xây dựng"
+    ],
+    "answer": "Đảm bảo an ninh lương thực quốc gia",
+    "explanation": "Trồng trọt sản xuất ra lương thực, thực phẩm thiết yếu, giúp ổn định đời sống nhân dân và bảo đảm an ninh lương thực cho đất nước."
+  },
+  {
+    "question": "Nền nông nghiệp ứng dụng công nghệ cao không có đặc điểm nào sau đây?",
+    "options": [
+      "Sử dụng nhà kính, nhà lưới hiện đại",
+      "Áp dụng hệ thống tưới nước tự động",
+      "Phụ thuộc hoàn toàn vào thời tiết tự nhiên",
+      "Sử dụng các giống cây trồng biến đổi gen chất lượng"
+    ],
+    "answer": "Phụ thuộc hoàn toàn vào thời tiết tự nhiên",
+    "explanation": "Nông nghiệp công nghệ cao ứng dụng nhà kính, hệ thống điều khiển tự động giúp hạn chế tối đa sự ảnh hưởng tiêu cực từ thời tiết."
+  },
+  {
+    "question": "Nghề nào sau đây liên quan trực tiếp đến việc bảo vệ và nghiên cứu nâng cao năng suất cây trồng?",
+    "options": [
+      "Kỹ sư xây dựng",
+      "Kỹ sư chọn giống cây trồng",
+      "Kỹ sư cơ khí",
+      "Kỹ sư địa chất"
+    ],
+    "answer": "Kỹ sư chọn giống cây trồng",
+    "explanation": "Kỹ sư chọn giống cây trồng có nhiệm vụ nghiên cứu, lai tạo và tuyển chọn các giống cây mới có năng suất, chất lượng tốt hơn."
+  },
+  {
+    "question": "Thành phần cơ giới của đất trồng được quyết định bởi tỉ lệ các hạt nào sau đây?",
+    "options": [
+      "Hạt cát, hạt limon, hạt sét",
+      "Hạt sỏi, hạt đá, hạt bụi",
+      "Các chất hữu cơ và xác động vật",
+      "Hàm lượng nước và không khí trong đất"
+    ],
+    "answer": "Hạt cát, hạt limon, hạt sét",
+    "explanation": "Theo định nghĩa trong SGK, thành phần cơ giới của đất là tỉ lệ tương đối giữa các hạt cát, limon (thịt) và sét."
+  },
+  {
+    "question": "Đất trồng bao gồm những thành phần chính nào?",
+    "options": [
+      "Chất lỏng và chất khí",
+      "Phần rắn, phần lỏng và phần khí",
+      "Chất hữu cơ và chất vô cơ",
+      "Đá vôi và các loại phân bón"
+    ],
+    "answer": "Phần rắn, phần lỏng và phần khí",
+    "explanation": "Đất trồng có cấu tạo gồm 3 phần chính hòa quyện với nhau: phần rắn (vô cơ, hữu cơ), phần lỏng (nước) và phần khí."
+  },
+  {
+    "question": "Trị số pH của đất biểu thị điều gì?",
+    "options": [
+      "Độ ẩm của đất",
+      "Độ phì nhiêu của đất",
+      "Độ chua, độ kiềm hay trung tính của đất",
+      "Tỉ lệ chất hữu cơ trong đất"
+    ],
+    "answer": "Độ chua, độ kiềm hay trung tính của đất",
+    "explanation": "Trị số pH là chỉ số đo hoạt độ của ion H+ trong đất, dùng để xác định tính chất chua, kiềm hoặc trung tính của đất."
+  },
+  {
+    "question": "Đất kiềm là đất có trị số pH nằm trong khoảng nào?",
+    "options": [
+      "pH nhỏ hơn 6.5",
+      "pH từ 6.5 đến 7.5",
+      "pH lớn hơn 7.5",
+      "pH luôn bằng 0"
+    ],
+    "answer": "pH lớn hơn 7.5",
+    "explanation": "Đất có pH lớn hơn 7.5 được phân loại là đất kiềm; đất chua có pH nhỏ hơn 6.5 và đất trung tính từ 6.5 đến 7.5."
+  },
+  {
+    "question": "Keo đất là gì?",
+    "options": [
+      "Là loại đất dẻo dùng để nặn đồ gốm",
+      "Là những hạt mùn kích thước rất lớn",
+      "Là những hạt kích thước rất nhỏ, không hòa tan trong nước mà ở trạng thái huyền phù",
+      "Là lớp keo dính sinh học phủ lên rễ cây"
+    ],
+    "answer": "Là những hạt kích thước rất nhỏ, không hòa tan trong nước mà ở trạng thái huyền phù",
+    "explanation": "Keo đất là những phân tử vô cơ hoặc hữu cơ có kích thước siêu nhỏ, có khả năng trao đổi ion với dung dịch đất."
+  },
+  {
+    "question": "Lớp ion nằm sát nhân keo đất và không thể di chuyển ra ngoài được gọi là gì?",
+    "options": [
+      "Lớp ion quyết định điện",
+      "Lớp ion bù",
+      "Lớp ion bất động",
+      "Lớp ion tự do"
+    ],
+    "answer": "Lớp ion quyết định điện",
+    "explanation": "Lớp ion ngoài cùng bám chặt vào nhân keo và quy định dấu điện tích của hạt keo được gọi là lớp ion quyết định điện."
+  },
+  {
+    "question": "Đất xám bạc màu ở Việt Nam thường hình thành chủ yếu ở vùng địa hình nào?",
+    "options": [
+      "Vùng đồng bằng ven biển",
+      "Vùng trung du và miền núi",
+      "Các bãi bồi quanh sông lớn",
+      "Vùng lòng chảo ngập nước"
+    ],
+    "answer": "Vùng trung du và miền núi",
+    "explanation": "Đất xám bạc màu thường phân bố ở vùng chuyển tiếp từ miền núi xuống đồng bằng (vùng trung du) do quá trình rửa trôi mạnh."
+  },
+  {
+    "question": "Nguyên nhân chính gây ra hiện tượng đất xói mòn mạnh trơ sỏi đá là gì?",
+    "options": [
+      "Bón quá nhiều phân hóa học",
+      "Mưa lớn trên địa hình dốc nhưng mất lớp phủ thực vật",
+      "Sử dụng hệ thống tưới nhỏ giọt liên tục",
+      "Trồng quá nhiều cây bén rễ sâu"
+    ],
+    "answer": "Mưa lớn trên địa hình dốc nhưng mất lớp phủ thực vật",
+    "explanation": "Khi rừng bị chặt phá, mưa lớn xối thẳng xuống mặt đất dốc sẽ rửa trôi toàn bộ lớp đất màu mỡ phía trên, trơ lại sỏi đá."
+  },
+  {
+    "question": "Phân bón vi sinh vật chứa thành phần cốt lõi nào sau đây?",
+    "options": [
+      "Các chất hóa học nồng độ cao",
+      "Một hoặc nhiều loài vi sinh vật sống",
+      "Mùn hữu cơ đã bị phân hủy hoàn toàn",
+      "Các nguyên tố vi lượng tổng hợp"
+    ],
+    "answer": "Một hoặc nhiều loài vi sinh vật sống",
+    "explanation": "Phân bón vi sinh vật là chế phẩm chứa các chủng vi sinh vật còn sống có ích cho đất và cây trồng."
+  },
+  {
+    "question": "Loại phân bón nào sau đây thuộc nhóm phân bón hóa học (vô cơ)?",
+    "options": [
+      "Phân chuồng hoai mục",
+      "Phân đạm Urê",
+      "Phân xanh từ cây họ Đậu",
+      "Phân vi sinh cố định đạm"
+    ],
+    "answer": "Phân đạm Urê",
+    "explanation": "Phân đạm Urê là phân bón vô cơ được sản xuất bằng con đường công nghiệp hóa học."
+  },
+  {
+    "question": "Đặc điểm nào sau đây là của phân bón hữu cơ truyền thống?",
+    "options": [
+      "Hàm lượng chất dinh dưỡng rất cao và dễ tan",
+      "Chứa nhiều chất dinh dưỡng nhưng cần thời gian để khoáng hóa",
+      "Chỉ chứa duy nhất một nguyên tố hóa học",
+      "Gây hại nghiêm trọng cho hệ vi sinh vật đất"
+    ],
+    "answer": "Chứa nhiều chất dinh dưỡng nhưng cần thời gian để khoáng hóa",
+    "explanation": "Phân hữu cơ có đầy đủ các nguyên tố dinh dưỡng nhưng ở dạng hữu cơ phức tạp, cây không hấp thụ ngay được mà phải đợi vi sinh vật phân hủy."
+  },
+  {
+    "question": "Giá thể trồng cây là gì?",
+    "options": [
+      "Là các loại kệ sắt dùng để treo chậu hoa",
+      "Là vật liệu thay thế đất giúp cây đứng vững và giữ nước, chất dinh dưỡng",
+      "Là các loại thuốc kích thích rễ phát triển mạnh",
+      "Là phần khung gỗ bảo vệ cây con ngoài vườn ươm"
+    ],
+    "answer": "Là vật liệu thay thế đất giúp cây đứng vững và giữ nước, chất dinh dưỡng",
+    "explanation": "Giá thể là tên gọi chung của các vật liệu (như xơ dừa, mùn cưa, rơm rạ, đá trân châu...) có tác dụng cố định rễ và nuôi dưỡng cây thay đất."
+  },
+  {
+    "question": "Vật liệu tự nhiên nào sau đây thường được xử lý làm giá thể trồng lan?",
+    "options": [
+      "Đá vôi nguyên khối",
+      "Vỏ thông, xơ dừa",
+      "Cát thạch anh mịn",
+      "Mảnh nhựa công nghiệp"
+    ],
+    "answer": "Vỏ thông, xơ dừa",
+    "explanation": "Vỏ thông và xơ dừa có độ thoáng khí cao, giữ ẩm tốt, cực kỳ thích hợp với đặc tính sinh trưởng của các loài lan."
+  },
+  {
+    "question": "Mục đích chính của việc nhân giống cây trồng là gì?",
+    "options": [
+      "Làm giảm bớt số lượng cây trong tự nhiên",
+      "Duy trì và phát triển số lượng cá thể của giống cây qua các thế hệ",
+      "Làm thay đổi hoàn toàn bộ gen của cây ban đầu",
+      "Tạo ra các chất hóa học độc hại cách ly sâu bệnh"
+    ],
+    "answer": "Duy trì và phát triển số lượng cá thể của giống cây qua các thế hệ",
+    "explanation": "Nhân giống giúp tăng số lượng cây con nhằm phục vụ sản xuất, giữ lại các đặc tính tốt của giống bố mẹ."
+  },
+  {
+    "question": "Phương pháp nhân giống vô tính nào sau đây cắt một đoạn cành cắm vào đất để mọc rễ thành cây mới?",
+    "options": [
+      "Gieo hạt",
+      "Giâm cành",
+      "Chiết cành",
+      "Nuôi cấy mô"
+    ],
+    "answer": "Giâm cành",
+    "explanation": "Giâm cành là phương pháp tách một đoạn cành, chồi từ cây mẹ đặt vào môi trường ẩm để kích thích tạo ra bộ rễ mới độc lập."
+  },
+  {
+    "question": "Trong phương pháp chiết cành, rễ mới được hình thành ở vị trí nào?",
+    "options": [
+      "Ở chóp của lá cây",
+      "Ở vết bóc vỏ trên cành trực tiếp còn trên cây mẹ",
+      "Ở gốc sát mặt đất của cây mẹ",
+      "Ở phần ngọn non nhất của cành"
+    ],
+    "answer": "Ở vết bóc vỏ trên cành trực tiếp còn trên cây mẹ",
+    "explanation": "Chiết cành là làm cho cành ra rễ ngay trên cây bằng cách khoanh vỏ, đắp bầu đất vào vết khoanh trước khi cắt rời."
+  },
+  {
+    "question": "Kỹ thuật nhân giống nào sau đây hoàn toàn tiến hành trong phòng thí nghiệm vô trùng?",
+    "options": [
+      "Ghép mắt",
+      "Giâm cành",
+      "Nuôi cấy mô tế bào",
+      "Gieo hạt ngoài luống"
+    ],
+    "answer": "Nuôi cấy mô tế bào",
+    "explanation": "Nuôi cấy mô tế bào yêu cầu điều kiện vô trùng tuyệt đối trong phòng thí nghiệm để các tế bào phát triển thành cây con ổn định."
+  },
+  {
+    "question": "Bộ phận nào của cây thường được ưu tiên chọn làm mẫu nuôi cấy mô nhờ khả năng phân chia mạnh?",
+    "options": [
+      "Mô phân sinh ở đỉnh chồi, đỉnh rễ",
+      "Lớp vỏ thân già cỗi",
+      "Phiến lá đã chuyển vàng",
+      "Các mạch dẫn đã hóa gỗ"
+    ],
+    "answer": "Mô phân sinh ở đỉnh chồi, đỉnh rễ",
+    "explanation": "Mô phân sinh đỉnh chồi chứa các tế bào non chưa biệt hóa, có tốc độ phân chia nhanh và ít bị nhiễm virus."
+  },
+  {
+    "question": "Tác nhân nào sau đây thuộc nhóm sinh vật gây bệnh hại cây trồng?",
+    "options": [
+      "Nhiệt độ quá thấp",
+      "Nấm, vi khuẩn, virus",
+      "Thiếu hụt phân đạm",
+      "Đất bị nhiễm mặn"
+    ],
+    "answer": "Nấm, vi khuẩn, virus",
+    "explanation": "Bệnh hại do các vi sinh vật ký sinh (nấm, vi khuẩn, virus) gây ra tổn thương sinh lý và hình thái của cây."
+  },
+  {
+    "question": "Sâu hại cây trồng phá hoại mạnh nhất ở giai đoạn nào trong vòng đời biến thái hoàn toàn?",
+    "options": [
+      "Giai đoạn trứng",
+      "Giai đoạn sâu non (ấu trùng)",
+      "Giai đoạn nhộng",
+      "Giai đoạn trưởng thành bướm"
+    ],
+    "answer": "Giai đoạn sâu non (ấu trùng)",
+    "explanation": "Ở giai đoạn sâu non, chúng cần tích lũy năng lượng cực lớn nên có sức ăn sức tàn phá lá, thân cây mạnh nhất."
+  },
+  {
+    "question": "Biện pháp canh tác nào giúp hạn chế nguồn sâu bệnh lưu trú từ vụ trước?",
+    "options": [
+      "Tăng cường phun thuốc hóa học",
+      "Vệ sinh đồng ruộng, cày lật đất và phơi ải",
+      "Tưới nước đẫm vào ban đêm",
+      "Trồng liên tục một loại cây quanh năm"
+    ],
+    "answer": "Vệ sinh đồng ruộng, cày lật đất và phơi ải",
+    "explanation": "Cày lật đất và phơi ải giúp chôn vùi hoặc phơi bày trứng sâu, nhộng, bào tử nấm ra ánh nắng mặt trời để tiêu diệt chúng."
+  },
+  {
+    "question": "Sử dụng các loài thiên địch như ong mắt đỏ để diệt sâu hại thuộc biện pháp chống sâu bệnh nào?",
+    "options": [
+      "Biện pháp hóa học",
+      "Biện pháp cơ giới",
+      "Biện pháp sinh học",
+      "Biện pháp kiểm dịch thực vật"
+    ],
+    "answer": "Biện pháp sinh học",
+    "explanation": "Sử dụng sinh vật có ích hoặc sản phẩm của chúng để kìm hãm, tiêu diệt sinh vật gây hại gọi là biện pháp sinh học."
+  },
+  {
+    "question": "Nhược điểm lớn nhất của việc lạm dụng thuốc bảo vệ thực vật hóa học là gì?",
+    "options": [
+      "Tốn ít công sức của người nông dân",
+      "Gây ô nhiễm môi trường, tồn dư hóa học độc hại trong nông sản",
+      "Làm tăng nhanh độ phì nhiêu của đất trồng",
+      "Cây trồng sinh trưởng quá nhanh không kiểm soát"
+    ],
+    "answer": "Gây ô nhiễm môi trường, tồn dư hóa học độc hại trong nông sản",
+    "explanation": "Thuốc hóa học tồn dư lâu dài trong đất, nước, không khí và bám trên nông sản, đe dọa trực tiếp đến sức khỏe người tiêu dùng."
+  },
+  {
+    "question": "Mục đích cốt lõi của việc thu hoạch nông sản đúng thời điểm là gì?",
+    "options": [
+      "Để đất được nghỉ ngơi lâu hơn",
+      "Đạt sản lượng tối đa và chất lượng nông sản tốt nhất",
+      "Tránh việc phải bón thêm phân sau thu hoạch",
+      "Làm cho sản phẩm có kích thước lớn dị thường"
+    ],
+    "answer": "Đạt sản lượng tối đa và chất lượng nông sản tốt nhất",
+    "explanation": "Thu hoạch đúng độ chín đảm bảo hàm lượng dinh dưỡng, hương vị và khối lượng thương phẩm đạt giá trị tối ưu."
+  },
+  {
+    "question": "Phương pháp bảo quản nông sản nào sau đây thường áp dụng cho các loại hạt lương thực như lúa, ngô?",
+    "options": [
+      "Bảo quản ở trạng thái tươi mát",
+      "Phơi khô hoặc sấy khô",
+      "Cấp đông ở nhiệt độ âm 18 độ C",
+      "Muối chua sinh học"
+    ],
+    "answer": "Phơi khô hoặc sấy khô",
+    "explanation": "Hạ độ ẩm của hạt xuống mức an toàn (dưới 13-14%) giúp ức chế sự hô hấp của hạt và ngăn chặn sự phát triển của nấm mốc."
+  },
+  {
+    "question": "Công nghệ CAS (Cells Alive System) được ứng dụng trong hoạt động nào sau đây?",
+    "options": [
+      "Cày bừa làm đất tự động",
+      "Bảo quản nông sản cao cấp giữ nguyên độ tươi ngon",
+      "Chế biến phân bón vi sinh",
+      "Lai tạo giống lúa chịu mặn"
+    ],
+    "answer": "Bảo quản nông sản cao cấp giữ nguyên độ tươi ngon",
+    "explanation": "Công nghệ CAS kết hợp từ trường và làm lạnh nhanh giúp bảo quản nông sản tươi sống mà không làm phá vỡ cấu trúc tế bào."
+  },
+  {
+    "question": "Mô hình 'Trồng trọt an toàn theo tiêu chuẩn VietGAP' hướng tới mục tiêu nào?",
+    "options": [
+      "Sử dụng tối đa lượng hóa học để kích thích năng suất",
+      "Tạo ra sản phẩm chất lượng, an toàn cho người dùng và bảo vệ môi trường",
+      "Sản xuất tự phát không cần ghi chép nhật ký nhật trình",
+      "Hạn chế ứng dụng công nghệ tự động hóa"
+    ],
+    "answer": "Tạo ra sản phẩm chất lượng, an toàn cho người dùng và bảo vệ môi trường",
+    "explanation": "VietGAP là quy trình thực hành nông nghiệp tốt, kiểm soát chặt chẽ các khâu để sản xuất ra nông sản sạch, minh bạch nguồn gốc."
+  },
+  {
+    "question": "Hệ thống trồng cây không cần đất, rễ cây được nhúng trực tiếp vào dung dịch dinh dưỡng được gọi là gì?",
+    "options": [
+      "Khí canh",
+      "Thủy canh",
+      "Trồng trên giá thể xơ dừa",
+      "Trồng dốc tụ"
+    ],
+    "answer": "Thủy canh",
+    "explanation": "Thủy canh là kỹ thuật trồng cây trong môi trường dung dịch dinh dưỡng, rễ cây hấp thụ trực tiếp chất khoáng hòa tan."
+  },
+  {
+    "question": "Hệ thống trồng cây mà rễ cây treo lơ lửng trong không khí và được cung cấp dinh dưỡng dạng phun sương gọi là gì?",
+    "options": [
+      "Thủy canh tĩnh",
+      "Khí canh",
+      "Thủy canh hồi lưu",
+      "Trồng ngoài luống thổ nhưỡng"
+    ],
+    "answer": "Khí canh",
+    "explanation": "Khí canh cố định cây trên máng, bộ rễ nằm hoàn toàn trong không gian kín và được phun sương dinh dưỡng theo chu kỳ."
+  },
+  {
+    "question": "Mô hình trồng trọt nào sau đây có sự kết hợp hoàn hảo giữa trồng rau và nuôi cá trong một chu trình tuần hoàn?",
+    "options": [
+      "Mô hình Aquaponics",
+      "Mô hình canh tác đa tầng",
+      "Mô hình nhà lưới thuần túy",
+      "Mô hình canh tác quảng canh"
+    ],
+    "answer": "Mô hình Aquaponics",
+    "explanation": "Aquaponics là sự kết hợp giữa Aquaculture (nuôi trồng thủy sản) và Hydroponics (thủy canh), tận dụng chất thải của cá làm dinh dưỡng cho rau."
+  },
+  {
+    "question": "Việc ghi nhật ký sản xuất trong quy trình VietGAP có tác dụng gì?",
+    "options": [
+      "Để tăng chi phí quản lý vận hành",
+      "Giúp truy xuất nguồn gốc sản phẩm dễ dàng khi có sự cố",
+      "Nộp cho cơ quan thuế tính tiền đất hàng tháng",
+      "Làm đẹp hồ sơ quảng cáo thương mại"
+    ],
+    "answer": "Giúp truy xuất nguồn gốc sản phẩm dễ dàng khi có sự cố",
+    "explanation": "Nhật ký sản xuất lưu lại toàn bộ lịch trình bón phân, phun thuốc, thu hoạch giúp người mua kiểm chứng độ an toàn và xử lý sai sót."
+  },
+  {
+    "question": "Cơ giới hóa trong trồng trọt nghĩa là gì?",
+    "options": [
+      "Thay thế lao động thủ công bằng công cụ thô sơ hơn",
+      "Áp dụng máy móc, thiết bị cơ khí vào các khâu sản xuất",
+      "Chỉ sử dụng sức người và sức kéo động vật",
+      "Ngừng hoàn toàn việc can thiệp vào sự phát triển cây"
+    ],
+    "answer": "Áp dụng máy móc, thiết bị cơ khí vào các khâu sản xuất",
+    "explanation": "Cơ giới hóa là đưa các loại máy móc (máy cày, máy gặt, máy cấy...) vào thay thế sức lao động chân tay, tăng năng suất lao động."
+  },
+  {
+    "question": "Ứng dụng internet vạn vật (IoT) trong trồng trọt công nghệ cao nhằm mục đích chính nào?",
+    "options": [
+      "Tự động giám sát các chỉ số môi trường (nhiệt độ, độ ẩm) và điều khiển thiết bị từ xa",
+      "Thay thế cây trồng thật bằng các mô hình cây điện tử",
+      "Xóa bỏ hoàn toàn nhu cầu sử dụng phân bón",
+      "Tăng thời gian sinh trưởng của cây dài ra gấp đôi"
+    ],
+    "answer": "Tự động giám sát các chỉ số môi trường (nhiệt độ, độ ẩm) và điều khiển thiết bị từ xa",
+    "explanation": "IoT liên kết các cảm biến đo đạc dữ liệu đất, không khí rồi truyền về hệ thống máy tính giúp quản lý trang trại thông minh, chính xác."
+  },
+  {
+    "question": "Sản phẩm nào dưới đây là kết quả của công nghệ chế biến sâu nông sản?",
+    "options": [
+      "Bó rau muống tươi vừa hái ngoài ruộng",
+      "Quả xoài chín vừa rụng khỏi cành",
+      "Hộp sữa bột dừa, cà phê hòa tan đóng gói",
+      "Củ khoai lang còn bám đất"
+    ],
+    "answer": "Hộp sữa bột dừa, cà phê hòa tan đóng gói",
+    "explanation": "Chế biến sâu là quá trình sử dụng công nghệ cao làm biến đổi trạng thái cấu trúc nông sản thô thành sản phẩm tinh chế có giá trị gia tăng lớn."
+  },
+  {
+    "question": "Vì sao việc phát triển các giống cây trồng ngắn ngày, năng suất cao lại giúp tăng hệ số sử dụng đất?",
+    "options": [
+      "Vì cây ngắn ngày làm đất nhanh phì nhiêu hơn",
+      "Vì có thể trồng được nhiều vụ hơn trong một năm trên cùng một diện tích",
+      "Vì cây ngắn ngày không cần tưới nước",
+      "Vì cây ngắn ngày chiếm ít không gian diện tích bề mặt đất"
+    ],
+    "answer": "Vì có thể trồng được nhiều vụ hơn trong một năm trên cùng một diện tích",
+    "explanation": "Thời gian sinh trưởng ngắn giúp rút ngắn chu kỳ một vụ, người nông dân có thể thâm canh tăng vụ (ví dụ tăng từ 2 vụ lên 3 vụ/năm)."
+  },
+  {
+    "question": "Tại sao việc che màng lưới đen cho vườn ươm cây con vào mùa hè lại là hành động cần thiết?",
+    "options": [
+      "Để ngăn chặn tuyệt đối nước mưa tiếp xúc cây",
+      "Giảm bớt cường độ ánh sáng mạnh và hạ nhiệt độ, tránh cháy lá cây non",
+      "Kích thích cây con ra hoa sớm hơn dự kiến",
+      "Tạo bóng tối hoàn toàn giúp rễ cây dài nhanh"
+    ],
+    "answer": "Giảm bớt cường độ ánh sáng mạnh và hạ nhiệt độ, tránh cháy lá cây non",
+    "explanation": "Cây con trong vườn ươm có mô lá rất yếu, lưới đen giúp tán xạ ánh sáng mặt trời gay gắt, tạo điều kiện khí hậu mát mẻ phù hợp."
+  },
+  {
+    "question": "Vì sao phần lỏng (nước) trong đất trồng lại giữ vai trò quyết định đến việc hấp thụ dinh dưỡng của rễ cây?",
+    "options": [
+      "Nước làm cứng rễ cây giúp rễ xuyên qua đá dễ dàng",
+      "Nước hòa tan các chất khoáng trong đất thành dạng hòa tan dễ tiêu để rễ hấp thụ",
+      "Nước đẩy toàn bộ lượng không khí độc ra khỏi rễ",
+      "Nước chứa các loại hạt keo đất trực tiếp nuôi tế bào rễ"
+    ],
+    "answer": "Nước hòa tan các chất khoáng trong đất thành dạng hòa tan dễ tiêu để rễ hấp thụ",
+    "explanation": "Rễ cây chỉ có thể hút chất dinh dưỡng dưới dạng các ion hòa tan trong nước. Nếu thiếu nước, cây không thể hấp thụ được phân bón."
+  },
+  {
+    "question": "Đất cát có khả năng giữ nước và chất dinh dưỡng kém hơn đất sét là do nguyên nhân nào?",
+    "options": [
+      "Đất cát chứa quá nhiều mùn hữu cơ",
+      "Đất cát có tỉ lệ hạt cát lớn, khe hở to, hạt cát không có khả năng giữ hấp phụ ion tốt",
+      "Đất cát có trị số pH rất thấp làm tan nước",
+      "Đất cát chứa mật độ keo đất dày đặc hơn đất sét"
+    ],
+    "answer": "Đất cát có tỉ lệ hạt cát lớn, khe hở to, hạt cát không có khả năng giữ hấp phụ ion tốt",
+    "explanation": "Hạt cát kích thước lớn khiến cấu trúc đất lỏng lẻo, nước thấm qua nhanh chóng mang theo chất dinh dưỡng xuống sâu (hiện tượng rửa trôi)."
+  },
+  {
+    "question": "Bản chất của khả năng hấp phụ của keo đất đối với các ion dinh dưỡng là gì?",
+    "options": [
+      "Là phản ứng hóa học tạo thành chất kết tủa mới",
+      "Là hiện tượng hút tĩnh điện giữa bề mặt hạt keo mang điện và các ion trái dấu trong dung dịch đất",
+      "Là hoạt động chủ động ăn các ion của keo đất",
+      "Là quá trình bốc hơi giữ lại muối khoáng"
+    ],
+    "answer": "Là hiện tượng hút tĩnh điện giữa bề mặt hạt keo mang điện và các ion trái dấu trong dung dịch đất",
+    "explanation": "Bề mặt keo đất mang điện tích (thường là điện âm), hút các ion mang điện tích trái dấu (như Ca2+, Mg2+, K+) giúp chúng không bị nước rửa trôi."
+  },
+  {
+    "question": "Vì sao đất xám bạc màu thường có phản ứng chua mạnh?",
+    "options": [
+      "Do người dân bón nhiều vôi bột",
+      "Các ion kiềm như Ca2+, Mg2+ bị rửa trôi mạnh, thay thế bằng các ion H+ và Al3+ trên bề mặt keo đất",
+      "Do rễ cây tiết ra quá nhiều chất kiềm sinh học",
+      "Do tầng đất mặt tích tụ nhiều xác sinh vật chứa canxi"
+    ],
+    "answer": "Các ion kiềm như Ca2+, Mg2+ bị rửa trôi mạnh, thay thế bằng các ion H+ và Al3+ trên bề mặt keo đất",
+    "explanation": "Quá trình mưa lớn rửa trôi hết các cation kiềm tự do, khiến hạt keo giữ lại nhiều ion H+ và Al3+, gây ra hiện tượng chua hóa."
+  },
+  {
+    "question": "Tại sao biện pháp bón vôi lại có khả năng cải tạo được đất chua?",
+    "options": [
+      "Vôi cung cấp lượng nitơ dồi dào cho cây",
+      "Canxi trong vôi (Ca2+) đẩy ion H+ ra khỏi bề mặt keo đất và trung hòa axit trong dung dịch đất",
+      "Vôi tiêu diệt toàn bộ hệ vi sinh vật có trong đất",
+      "Vôi làm cho đất tăng khả năng giữ nước lên gấp trăm lần"
+    ],
+    "answer": "Canxi trong vôi (Ca2+) đẩy ion H+ ra khỏi bề mặt keo đất và trung hòa axit trong dung dịch đất",
+    "explanation": "Khi bón vôi (CaCO3), Ca2+ sẽ trung hòa lượng H+ tự do và thay thế vị trí H+ trên keo đất, làm giảm nồng độ axit, nâng pH đất lên."
+  },
+  {
+    "question": "Tại sao biện pháp tháo nước rửa mặn lại cần được kết hợp với việc đắp đê ngăn nước biển?",
+    "options": [
+      "Để ngăn không cho nước mưa lọt vào ruộng trồng",
+      "Để ngăn nguồn nước biển tiếp tục xâm nhập mang muối NaCl vào ruộng khi đang rửa mặn",
+      "Để tạo độ thông thoáng tuyệt đối cho không khí",
+      "Để giữ toàn bộ lượng phân bón hóa học lại trong ruộng"
+    ],
+    "answer": "Để ngăn nguồn nước biển tiếp tục xâm nhập mang muối NaCl vào ruộng khi đang rửa mặn",
+    "explanation": "Nếu không ngăn chặn triệt để nguồn nước biển tràn vào, chu kỳ xâm nhập mặn sẽ tiếp diễn liên tục làm vô hiệu hóa công sức tháo nước rửa mặn."
+  },
+  {
+    "question": "Vì sao các loại phân bón hóa học dễ tan như phân đạm, phân kali thường được dùng để bón thúc là chủ yếu?",
+    "options": [
+      "Vì chúng khó bị nước rửa trôi",
+      "Vì chúng hòa tan nhanh, giúp cây lập tức hấp thụ được ngay trong các giai đoạn sinh trưởng mạnh",
+      "Vì bón lót phân này sẽ làm chết các vi sinh vật có hại",
+      "Vì chất dinh dưỡng trong đó cần 5 năm mới phân hủy xong"
+    ],
+    "answer": "Vì chúng hòa tan nhanh, giúp cây lập tức hấp thụ được ngay trong các giai đoạn sinh trưởng mạnh",
+    "explanation": "Bón thúc cần hiệu quả nhanh chóng để đáp ứng nhu cầu tăng trưởng tức thời của cây, phân dễ tan đáp ứng hoàn hảo tiêu chí này."
+  },
+  {
+    "question": "Tại sao không nên bón phân hữu cơ chưa hoai mục trực tiếp cho cây trồng?",
+    "options": [
+      "Vì phân chưa hoai mục có chứa quá nhiều hạt kali",
+      "Quá trình phân hủy hữu cơ của vi sinh vật ngoài ruộng sẽ sinh nhiệt cao và khí độc gây thối rễ, đồng thời chứa nhiều mầm bệnh",
+      "Vì phân chưa hoai mục làm đất bị biến thành đất kiềm mạnh",
+      "Vì cây trồng sẽ hấp thụ quá nhanh dẫn đến ngộ độc"
+    ],
+    "answer": "Quá trình phân hủy hữu cơ của vi sinh vật ngoài ruộng sẽ sinh nhiệt cao và khí độc gây thối rễ, đồng thời chứa nhiều mầm bệnh",
+    "explanation": "Phân hữu cơ tươi khi phân hủy sẽ tỏa nhiệt rất mạnh (lên nhiệt) làm cháy rễ non và tiêu hao lượng lớn oxy trong đất, hại cây."
+  },
+  {
+    "question": "Cơ chế tác động của phân bón vi sinh vật cố định đạm đối với đất và cây trồng là gì?",
+    "options": [
+      "Chứa sẵn các hạt đạm nguyên chất hòa tan vào đất",
+      "Các vi sinh vật trong phân hấp thu nitơ tự do trong không khí chuyển hóa thành dạng đạm mà cây hấp thụ được",
+      "Tự động phá vỡ kết cấu đất cát thành đất sét màu mỡ",
+      "Tiết ra chất độc hóa học tiêu diệt cỏ dại quanh gốc"
+    ],
+    "answer": "Các vi sinh vật trong phân hấp thu nitơ tự do trong không khí chuyển hóa thành dạng đạm mà cây hấp thụ được",
+    "explanation": "Vi sinh vật cố định nitơ (như Rhizobium) có enzyme nitrogenase giúp bẻ gãy liên kết N2 không khí thành NH4+ cung cấp cho cây."
+  },
+  {
+    "question": "Sự khác biệt cốt lõi về điều kiện môi trường giữa giá thể hữu cơ tự nhiên (như xơ dừa) và đất tự nhiên là gì?",
+    "options": [
+      "Giá thể hữu cơ hoàn toàn không có khả năng thấm hút nước",
+      "Giá thể hữu cơ đã qua xử lý có độ tơi xốp, thoáng khí vượt trội và sạch mầm bệnh hơn đất tự nhiên",
+      "Giá thể hữu cơ chứa hàm lượng kim loại nặng cao hơn đất",
+      "Giá thể hữu cơ không thể giữ được cây đứng thẳng vững vàng"
+    ],
+    "answer": "Giá thể hữu cơ đã qua xử lý có độ tơi xốp, thoáng khí vượt trội và sạch mầm bệnh hơn đất tự nhiên",
+    "explanation": "Giá thể được cấu tạo từ sợi, mùn xốp nên giữ được lượng lớn dưỡng khí và ẩm, loại bỏ được tạp chất và nấm bệnh so với đất thô."
+  },
+  {
+    "question": "Ưu điểm nổi bật của phương pháp nhân giống bằng giâm cành so với phương pháp gieo hạt là gì?",
+    "options": [
+      "Tạo ra cây con có bộ rễ cọc cắm sâu vào lòng đất hơn",
+      "Giữ nguyên vẹn đặc tính di truyền của cây mẹ và cho thu hoạch sớm hơn",
+      "Tạo ra nhiều biến dị tổ hợp mới lạ thích ứng tốt",
+      "Chi phí thiết bị máy móc thí nghiệm vô cùng tốn kém"
+    ],
+    "answer": "Giữ nguyên vẹn đặc tính di truyền của cây mẹ và cho thu hoạch sớm hơn",
+    "explanation": "Nhân giống vô tính dựa trên cơ sở nguyên phân nên cây con thừa hưởng 100% kiểu gen của mẹ, rút ngắn thời gian kiến thiết cơ bản."
+  },
+  {
+    "question": "Vì sao khi thực hiện kỹ thuật ghép cành, người ta phải buộc chặt mắt ghép/cành ghép với gốc ghép?",
+    "options": [
+      "Để ngăn cây không bị rụng lá",
+      "Để các mạch dẫn (mạch gỗ và mạch rây) của cành ghép nối liền và thông suốt với gốc ghép nhanh chóng",
+      "Để tránh ánh nắng mặt trời chiếu trực tiếp vào thân cây",
+      "Để làm cho gốc ghép ngừng sinh trưởng hoàn toàn"
+    ],
+    "answer": "Để các mạch dẫn (mạch gỗ và mạch rây) của cành ghép nối liền và thông suốt với gốc ghép nhanh chóng",
+    "explanation": "Sự tiếp xúc khít giữa các lớp tượng tầng giúp tế bào phân chia, gắn liền mạch dẫn để gốc ghép tiếp tục truyền nước, dinh dưỡng nuôi cành ghép."
+  },
+  {
+    "question": "Nguyên lý khoa học cốt lõi đứng sau phương pháp nuôi cấy mô tế bào là gì?",
+    "options": [
+      "Khả năng đột biến gen liên tục của tế bào",
+      "Tính toàn năng của tế bào thực vật",
+      "Sự sinh sản hữu tính của các giao tử thực vật",
+      "Sự cộng sinh giữa tế bào thực vật và vi khuẩn"
+    ],
+    "answer": "Tính toàn năng của tế bào thực vật",
+    "explanation": "Tính toàn năng nghĩa là một tế bào thực vật riêng lẻ mang đầy đủ bộ mã di truyền, khi gặp điều kiện thích hợp có thể tái sinh thành một cây hoàn chỉnh."
+  },
+  {
+    "question": "Trong quy trình nuôi cấy mô, việc bổ sung hormone Auxin và Cytokinin vào môi trường có ý nghĩa gì?",
+    "options": [
+      "Để sát trùng bề mặt mẫu cấy",
+      "Điều khiển quá trình sinh trưởng, kích thích tạo rễ và tạo chồi của mô",
+      "Tạo màu sắc xanh tự nhiên cho lá cây con",
+      "Làm đông cứng dung dịch dinh dưỡng giống như thạch"
+    ],
+    "answer": "Điều khiển quá trình sinh trưởng, kích thích tạo rễ và tạo chồi của mô",
+    "explanation": "Tỉ lệ Auxin/Cytokinin quyết định hướng biệt hóa của mô: tỉ lệ cao kích thích ra rễ, tỉ lệ thấp hoặc cân bằng kích thích phát sinh chồi."
+  },
+  {
+    "question": "Tại sao sâu hại có thể bùng phát thành dịch lớn sau khi người nông dân phun thuốc hóa học phổ rộng vô tội vạ?",
+    "options": [
+      "Vì thuốc hóa học trực tiếp bồi bổ sức khỏe cho sâu hại",
+      "Thuốc hóa học diệt luôn cả các loài thiên địch có ích, đồng thời gây hiện tượng kháng thuốc ở sâu hại",
+      "Vì thuốc hóa học kích thích trứng sâu nở nhanh hơn",
+      "Vì sâu hại thích mùi vị của hóa chất bảo vệ thực vật"
+    ],
+    "answer": "Thuốc hóa học diệt luôn cả các loài thiên địch có ích, đồng thời gây hiện tượng kháng thuốc ở sâu hại",
+    "explanation": "Thuốc phổ rộng diệt cả sâu lẫn thiên địch. Khi không còn thiên địch kiềm chế và một số cá thể sâu sống sót mang gen kháng thuốc, dịch sẽ bùng phát dữ dội."
+  },
+  {
+    "question": "Dấu hiệu điển hình nhất để nhận biết một cây trồng đang bị nhiễm bệnh do vi khuẩn gây ra là gì?",
+    "options": [
+      "Lá cây bị cắn nham nhở mất nửa phiến lá",
+      "Xuất hiện vết loét, thối nhũn có mùi hôi đặc trưng trên thân, lá hoặc củ",
+      "Lá cây xuất hiện các đường vẽ ngoằn ngoèo màu trắng",
+      "Cây phát triển chiều cao đột biến gấp ba lần thông thường"
+    ],
+    "answer": "Xuất hiện vết loét, thối nhũn có mùi hôi đặc trưng trên thân, lá hoặc củ",
+    "explanation": "Vi khuẩn tấn công làm phân hủy các vách tế bào thực vật tạo thành các vết thối ướt, chứa dịch nhầy và tỏa ra mùi hôi đặc trưng."
+  },
+  {
+    "question": "Vì sao việc luân canh cây họ Đậu với cây lúa lại là một biện pháp canh tác bền vững chống sâu bệnh?",
+    "options": [
+      "Vì cây họ Đậu thu hút toàn bộ sâu từ cây lúa sang",
+      "Làm đứt quãng nguồn thức ăn chuyên biểu của sâu bệnh hại lúa, đồng thời rễ cây họ Đậu giúp cải tạo đất nhờ cố định đạm",
+      "Vì cây họ Đậu tiết ra chất độc diệt nấm lúa",
+      "Vì trồng cây họ Đậu làm cho ruộng lúa ngập nước sâu hơn"
+    ],
+    "answer": "Làm đứt quãng nguồn thức ăn chuyên biểu của sâu bệnh hại lúa, đồng thời rễ cây họ Đậu giúp cải tạo đất nhờ cố định đạm",
+    "explanation": "Nhiều loại sâu bệnh chỉ ký sinh trên một ký chủ nhất định. Thay đổi cây trồng làm chúng mất nguồn thức ăn và chết, phá vỡ chu kỳ dịch bệnh."
+  },
+  {
+    "question": "Nguyên lý cơ bản của việc bảo quản nông sản bằng phương pháp lạnh là gì?",
+    "options": [
+      "Tiêu diệt hoàn toàn cấu trúc tế bào nông sản",
+      "Hạ nhiệt độ xuống thấp để giảm tối đa cường độ hô hấp của nông sản và ức chế vi sinh vật gây hại",
+      "Làm tăng độ ẩm nội tại của sản phẩm",
+      "Biến đổi toàn bộ các chất đường thành chất béo"
+    ],
+    "answer": "Hạ nhiệt độ xuống thấp để giảm tối đa cường độ hô hấp của nông sản và ức chế vi sinh vật gây hại",
+    "explanation": "Nhiệt độ thấp làm chậm các phản ứng sinh hóa tự nhiên của nông sản (hô hấp tiêu hao chất hữu cơ) và làm vi sinh vật rơi vào trạng thái ngủ đông."
+  },
+  {
+    "question": "Tại sao việc sấy khô lúa sau thu hoạch lại ngăn ngừa được hiện tượng hạt nảy mầm trong kho?",
+    "options": [
+      "Vì sấy khô làm vỡ vỏ hạt lúa",
+      "Hàm lượng nước giảm mạnh khiến các enzyme kích thích nảy mầm không thể hoạt động được",
+      "Vì nhiệt độ cao của máy sấy làm chết phôi hạt lúa hoàn toàn",
+      "Vì sấy khô làm hạt lúa nặng hơn khó hút ẩm"
+    ],
+    "answer": "Hàm lượng nước giảm mạnh khiến các enzyme kích thích nảy mầm không thể hoạt động được",
+    "explanation": "Quá trình nảy mầm đòi hỏi độ ẩm cao để kích hoạt quá trình trao đổi chất. Hạt khô giữ phôi ở trạng thái tiềm sinh an toàn."
+  },
+  {
+    "question": "Ưu điểm vượt trội của việc ứng dụng máy bay không người lái (Drone) trong phun thuốc bảo vệ thực vật là gì?",
+    "options": [
+      "Tốn nhiều lượng nước pha thuốc hơn",
+      "Tiết kiệm thuốc, phun đều diện rộng và bảo vệ tuyệt đối sức khỏe người lao động khỏi tiếp xúc hóa chất",
+      "Drone có khả năng bắt sâu bằng tay cơ học",
+      "Chi phí mua sắm thiết bị rẻ như các bình phun thủ công"
+    ],
+    "answer": "Tiết kiệm thuốc, phun đều diện rộng và bảo vệ tuyệt đối sức khỏe người lao động khỏi tiếp xúc hóa chất",
+    "explanation": "Drone sử dụng công nghệ phun sương siêu mịn giúp bao phủ tốt bề mặt lá, điều khiển từ xa nên người phun không phải lội trực tiếp vào ruộng."
+  },
+  {
+    "question": "Tại sao nói hệ thống nhà kính hiện đại giúp người nông dân có thể sản xuất nông sản 'trái vụ'?",
+    "options": [
+      "Vì nhà kính có thể làm thay đổi vị trí địa lý của trang trại",
+      "Hệ thống cho phép kiểm soát hoàn toàn các yếu tố môi trường (nhiệt độ, ánh sáng, ẩm độ) phù hợp với nhu cầu cây bất kể thời tiết bên ngoài",
+      "Vì nhà kính làm cho cây trồng không bao giờ già đi",
+      "Vì trồng trong nhà kính không cần bón phân"
+    ],
+    "answer": "Hệ thống cho phép kiểm soát hoàn toàn các yếu tố môi trường (nhiệt độ, ánh sáng, ẩm độ) phù hợp với nhu cầu cây bất kể thời tiết bên ngoài",
+    "explanation": "Dù bên ngoài là mùa đông giá rét, hệ thống sưởi và đèn LED trong nhà kính vẫn tạo ra môi trường ấm áp của mùa hè cho cây phát triển."
+  },
+  {
+    "question": "Mục đích lớn nhất của việc áp dụng tiêu chuẩn hữu cơ (Organic) nghiêm ngặt trong trồng trọt là gì?",
+    "options": [
+      "Sản xuất ra nông sản có kích thước khổng lồ",
+      "Tạo ra nông sản hoàn toàn sạch, tuyệt đối không dùng phân bón hóa học và thuốc bảo vệ thực vật hóa học",
+      "Tăng năng suất cây trồng lên gấp năm lần trong thời gian ngắn",
+      "Đơn giản hóa mọi khâu làm đất và thu hoạch"
+    ],
+    "answer": "Tạo ra nông sản hoàn toàn sạch, tuyệt đối không dùng phân bón hóa học và thuốc bảo vệ thực vật hóa học",
+    "explanation": "Nông nghiệp hữu cơ coi trọng sự cân bằng sinh thái, cấm sử dụng hóa chất tổng hợp để đảm bảo an toàn sinh học cao nhất cho sản phẩm."
+  },
+  {
+    "question": "Trong mô hình kinh tế tuần hoàn ở trang trại, chất thải từ quá trình trồng trọt (như rơm rạ, thân cây ngô) thường được tái sử dụng làm gì?",
+    "options": [
+      "Đem vứt xuống sông để làm sạch ruộng",
+      "Ủ làm thức ăn cho gia súc hoặc làm nguyên liệu sản xuất phân hữu cơ, giá thể",
+      "Đốt bỏ hoàn toàn để lấy khói xua đuổi mây mưa",
+      "Chế biến thành linh kiện điện tử thông minh"
+    ],
+    "answer": "Ủ làm thức ăn cho gia súc hoặc làm nguyên liệu sản xuất phân hữu cơ, giá thể",
+    "explanation": "Kinh tế tuần hoàn biến phụ phẩm của ngành này thành nguyên liệu đầu vào của ngành khác, giảm thiểu rác thải ra môi trường."
+  },
+  {
+    "question": "Một người nông dân muốn trồng rau xà lách trên sân thượng nhà phố diện tích hẹp, phương pháp công nghệ cao nào là tối ưu nhất?",
+    "options": [
+      "Cày lật sân thượng đổ đất dày 1 mét",
+      "Lắp đặt hệ thống giàn thủy canh đứng hoặc thủy canh hồi lưu",
+      "Mua đất cát biển về trải đều ra sân",
+      "Trồng rau vào các bao tải xi măng xếp chồng lên nhau"
+    ],
+    "answer": "Lắp đặt hệ thống giàn thủy canh đứng hoặc thủy canh hồi lưu",
+    "explanation": "Thủy canh giàn đứng tận dụng không gian chiều cao, không cần đất thô nặng nề, rất sạch sẽ và phù hợp với sân thượng đô thị."
+  },
+  {
+    "question": "Khi thấy ruộng lúa xuất hiện các mảng màu vàng nhạt, lá nhỏ, cây còi cọc chậm phát triển, đây là biểu hiện của việc thiếu nguyên tố nào?",
+    "options": [
+      "Thiếu Sắt (Fe)",
+      "Thiếu Nitơ (Đạm - N)",
+      "Thiếu Canxi (Ca)",
+      "Thừa nguyên tố Bo (B)"
+    ],
+    "answer": "Thiếu Nitơ (Đạm - N)",
+    "explanation": "Nitơ là thành phần chính của chất diệp lục và protein. Thiếu đạm cây không thể quang hợp tốt, lá mất màu xanh chuyển sang vàng."
+  },
+  {
+    "question": "Tại sao đất phèn (đất chứa nhiều gốc axit FeSO4, Al2(SO4)3) lại gây độc hại trực tiếp cho bộ rễ cây trồng?",
+    "options": [
+      "Do đất phèn quá khô hạn không chứa nước",
+      "Nồng độ ion Al3+ và Fe3+ tự do cao trong môi trường quá chua phá hủy cấu trúc tế bào lông hút của rễ",
+      "Do đất phèn sinh ra dòng điện giật chết rễ",
+      "Do đất phèn làm tăng độ ẩm rễ lên mức bão hòa"
+    ],
+    "answer": "Nồng độ ion Al3+ và Fe3+ tự do cao trong môi trường quá chua phá hủy cấu trúc tế bào lông hút của rễ",
+    "explanation": "Đất phèn có độ chua cực cao làm giải phóng nhiều ion nhôm và sắt tự do. Các ion này rất độc đối với đỉnh sinh trưởng của rễ cây."
+  },
+  {
+    "question": "Để cải tạo một vùng đất cát ven biển nghèo dinh dưỡng thành đất trồng rau, hành động nào sau đây mang tính khoa học nhất?",
+    "options": [
+      "Chỉ tưới nước khoáng tinh khiết liên tục",
+      "Bón nhiều phân hữu cơ hoai mục, phân xanh kết hợp cày sâu đất và bổ sung đất sét",
+      "Phun thật nhiều thuốc trừ sâu để làm sạch đất",
+      "Phủ một lớp ni lông kín toàn bộ diện tích không cho thở"
+    ],
+    "answer": "Bón nhiều phân hữu cơ hoai mục, phân xanh kết hợp cày sâu đất và bổ sung đất sét",
+    "explanation": "Phân hữu cơ và đất sét bổ sung hạt mịn và mùn, tăng cường mật độ keo đất giúp đất nâng cao khả năng giữ nước, giữ phân."
+  },
+  {
+    "question": "Tại sao việc bón quá nhiều phân đạm hóa học vào cuối vụ sát ngày thu hoạch lại làm giảm giá trị thương phẩm của rau ăn lá?",
+    "options": [
+      "Làm lá rau bị cứng đơ không thể luộc chín",
+      "Gây tồn dư hàm lượng Nitrat (NO3-) cao trong lá, ảnh hưởng xấu đến sức khỏe người tiêu dùng",
+      "Làm cho rau hoàn toàn biến mất mùi vị đặc trưng",
+      "Làm trọng lượng của bó rau bị sụt giảm nghiêm trọng"
+    ],
+    "answer": "Gây tồn dư hàm lượng Nitrat (NO3-) cao trong lá, ảnh hưởng xấu đến sức khỏe người tiêu dùng",
+    "explanation": "Cây hấp thụ đạm dư thừa không kịp chuyển hóa hết thành protein sẽ tích lũy dưới dạng nitrat trong mô lá. Nitrat là chất độc gián tiếp cho con người."
+  },
+  {
+    "question": "Khi sản xuất phân bón vi sinh vật phân giải xenluloza, người ta thường phối trộn chủng vi sinh vật này với chất nền nào?",
+    "options": [
+      "Các chất độc hóa học khử trùng",
+      "Than bùn, mùn hữu cơ rác thải thực vật",
+      "Cát thạch anh khan hiếm nước",
+      "Dung dịch axit sunfuric đậm đặc"
+    ],
+    "answer": "Than bùn, mùn hữu cơ rác thải thực vật",
+    "explanation": "Than bùn, mùn hữu cơ vừa là chất mang bảo vệ vi sinh vật vừa cung cấp nguồn thức ăn ban đầu cho chúng sinh sôi khi bón vào đất."
+  },
+  {
+    "question": "Trong kỹ thuật giâm cành bưởi, tại sao việc nhúng gốc cành vào dung dịch NAA hoặc IAA (chất kích thích sinh trưởng) lại giúp nâng cao tỷ lệ sống của cành?",
+    "options": [
+      "Vì chất này tiêu diệt lá bưởi để đỡ mất nước",
+      "Chất này kích thích mạnh mẽ sự phân chia tế bào tượng tầng tạo mô sẹo và thúc đẩy rễ mọc nhanh, khỏe",
+      "Chất này làm cành bưởi hút nước từ không khí",
+      "Chất này biến đoạn cành giâm thành thân gỗ già"
+    ],
+    "answer": "Chất này kích thích mạnh mẽ sự phân chia tế bào tượng tầng tạo mô sẹo và thúc đẩy rễ mọc nhanh, khỏe",
+    "explanation": "NAA và IAA là các auxin ngoại sinh có tác dụng định hướng dòng dinh dưỡng dồn về gốc cành, kích hoạt các mầm rễ bất định phát triển."
+  },
+  {
+    "question": "Tại sao khi chuyển cây con nuôi cấy mô từ phòng thí nghiệm ra ngoài vườn ươm, người ta phải có giai đoạn 'huấn luyện' (ra vỏ) thích nghi nghiêm ngặt?",
+    "options": [
+      "Để làm cho cây con quên đi các chất hóa học",
+      "Cây con trong bình có lớp cutin mỏng, khí khổng yếu, cần thời gian thích nghi dần với môi trường có độ ẩm thấp và ánh sáng mạnh ngoài tự nhiên",
+      "Để cây con sinh sản hữu tính ngay trong bầu đất",
+      "Vì cây con quá lớn không thể trồng trực tiếp được"
+    ],
+    "answer": "Cây con trong bình có lớp cutin mỏng, khí khổng yếu, cần thời gian thích nghi dần với môi trường có độ ẩm thấp và ánh sáng mạnh ngoài tự nhiên",
+    "explanation": "Trong bình nuôi cấy, độ ẩm luôn đạt 100% nên cây không cần tự bảo vệ. Nếu đem ra ngoài đột ngột, cây sẽ bị mất nước nhanh và chết khô."
+  },
+  {
+    "question": "Để phòng trừ bệnh đạo ôn hại lúa (do nấm gây ra) một cách an toàn hiệu quả, hành động nào sau đây cần tránh?",
+    "options": [
+      "Trồng giống lúa kháng bệnh đạo ôn",
+      "Bón thúc thật nhiều phân đạm khi bệnh vừa chớm xuất hiện",
+      "Phun thuốc trừ nấm sinh học theo nguyên tắc 4 đúng",
+      "Giữ mực nước ruộng ổn định không để khô hạn"
+    ],
+    "answer": "Bón thúc thật nhiều phân đạm khi bệnh vừa chớm xuất hiện",
+    "explanation": "Phân đạm làm mô lá lúa phát triển xanh non, mềm yếu, tạo điều kiện cực kỳ thuận lợi cho sợi nấm đạo ôn xâm nhập và lây lan nhanh hơn."
+  },
+  {
+    "question": "Vì sao các loại kho bảo quản nông sản quy mô lớn hiện nay thường áp dụng công nghệ điều chỉnh khí quyển (CA - Controlled Atmosphere)?",
+    "options": [
+      "Bằng cách tăng tối đa nồng độ Oxy để cây thở mạnh",
+      "Chủ động hạ nồng độ Oxy và tăng nồng độ Cacbonic phù hợp để kìm hãm tối đa sự hô hấp của nông sản mà không gây chết tế bào",
+      "Bằng cách bơm khí gas dễ cháy vào kho giữ ấm",
+      "Bằng cách rút toàn bộ không khí tạo môi trường chân không hoàn hảo"
+    ],
+    "answer": "Chủ động hạ nồng độ Oxy và tăng nồng độ Cacbonic phù hợp để kìm hãm tối đa sự hô hấp của nông sản mà không gây chết tế bào",
+    "explanation": "Thiếu Oxy và thừa CO2 ở mức kiểm soát làm chậm chu trình Krebs (hô hấp tế bào), giữ nông sản ở trạng thái 'ngủ', kéo dài tuổi thọ bảo quản."
+  },
+  {
+    "question": "Tại sao trong hệ thống tưới nhỏ giọt công nghệ cao, việc lắp đặt bộ lọc đĩa/lọc màng lại là bắt buộc?",
+    "options": [
+      "Để làm tăng áp lực dòng nước lên gấp mười lần",
+      "Để loại bỏ hoàn toàn cặn bẩn, cát mịn tránh gây tắc nghẽn các đầu phun nhỏ giọt siêu nhỏ",
+      "Để bổ sung thêm các hạt dinh dưỡng hữu cơ vào nước",
+      "Để làm thay đổi nhiệt độ của nước tưới"
+    ],
+    "answer": "Để loại bỏ hoàn toàn cặn bẩn, cát mịn tránh gây tắc nghẽn các đầu phun nhỏ giọt siêu nhỏ",
+    "explanation": "Đầu tưới nhỏ giọt có khe thoát nước rất bé. Nếu nước chứa tạp chất không qua lọc, cặn sẽ tích tụ gây tắc, làm hỏng hệ thống tưới đồng đều."
+  },
+  {
+    "question": "Trong một chu trình Aquaponics, nếu hệ vi sinh vật chuyển hóa (Nitrosomonas và Nitrobacter) bị tiêu diệt hoàn toàn thì điều gì sẽ xảy ra?",
+    "options": [
+      "Rau sẽ phát triển nhanh hơn do có nhiều thức ăn",
+      "Cá sẽ bị ngộ độc chết do hàm lượng Amoniac (NH3/NH4+) từ chất thải tích tụ không được chuyển hóa thành Nitrat cho rau",
+      "Nước trong bể cá sẽ tự động biến thành nước cất",
+      "Hệ thống sẽ tự động chuyển sang chế độ khí canh"
+    ],
+    "answer": "Cá sẽ bị ngộ độc chết do hàm lượng Amoniac (NH3/NH4+) từ chất thải tích tụ không được chuyển hóa thành Nitrat cho rau",
+    "explanation": "Vi sinh vật đóng vai trò cầu nối sinh học biến NH4+ độc hại của cá thành NO3- an toàn và là nguồn đạm yêu thích của rau sạch."
+  },
+  {
+    "question": "Hiện tượng 'nghẹt rễ' ở cây trồng khi đất bị ngập úng lâu ngày được giải thích khoa học như thế nào?",
+    "options": [
+      "Do nước quá lạnh làm đông đặc máu của cây",
+      "Đất ngập nước làm thiếu oxy trầm trọng, rễ phải hô hấp vô khí sinh ra các chất độc (như ethanol) làm hủy hoại tế bào rễ",
+      "Do rễ cây hút quá nhiều nước dẫn đến nổ tung tế bào",
+      "Do các hạt keo đất bám chặt bít kín mọi lỗ hút"
+    ],
+    "answer": "Đất ngập nước làm thiếu oxy trầm trọng, rễ phải hô hấp vô khí sinh ra các chất độc (như ethanol) làm hủy hoại tế bào rễ",
+    "explanation": "Rễ cây cần oxy để hô hấp hiếu khí tạo năng lượng hút khoáng. Ngập úng đẩy hết khí ra ngoài, rễ lên men êtylic gây ngộ độc và thối rễ."
+  },
+  {
+    "question": "Tại sao việc bón liên tục phân hóa học gốc axit (như Amoni sunfat) trong nhiều năm mà không bổ sung phân hữu cơ lại làm kết cấu đất bị chai cứng, bạc màu?",
+    "options": [
+      "Vì phân hóa học hút hết các hạt cát đi nơi khác",
+      "Phân làm tăng độ chua của đất, phá hủy hệ keo đất và làm chết hệ vi sinh vật có ích, giảm lượng mùn gắn kết đất",
+      "Vì phân này biến đổi đất thành một khối thủy tinh",
+      "Vì cây trồng tiết ra chất keo dính chặt các hạt đất lại"
+    ],
+    "answer": "Phân làm tăng độ chua của đất, phá hủy hệ keo đất và làm chết hệ vi sinh vật có ích, giảm lượng mùn gắn kết đất",
+    "explanation": "Bón phân chua sinh lý làm đất mất cation kiềm, hạt keo rã ra. Thiếu hữu cơ, đất không tạo được cấu trúc viên mỡ, trở nên nén chặt, bí bách."
+  },
+  {
+    "question": "Một vùng đất trồng lúa bị nhiễm mặn do thủy triều xâm nhập. Phương án xử lý nào sau đây thể hiện sự vận dụng kiến thức toàn diện và bền vững nhất?",
+    "options": [
+      "Bơm nước muối ra rồi phơi ruộng khô nứt nẻ",
+      "Xây dựng hệ thống đê ngăn mặn, hoàn thiện mương rãnh để tháo nước ngọt vào rửa mặn, bón vôi và tăng cường phân hữu cơ",
+      "Phủ bạt nilon toàn bộ mặt ruộng ngăn không cho nước biển bốc hơi",
+      "Chuyển ngay sang bón phân đạm Urê với liều lượng gấp ba"
+    ],
+    "answer": "Xây dựng hệ thống đê ngăn mặn, hoàn thiện mương rãnh để tháo nước ngọt vào rửa mặn, bón vôi và tăng cường phân hữu cơ",
+    "explanation": "Đây là giải pháp tổng hợp: Đê ngăn nguồn mặn, nước ngọt hòa tan rửa muối, vôi đẩy Na+ ra khỏi keo đất, phân hữu cơ phục hồi độ phì nhiêu."
+  },
+  {
+    "question": "Giả sử một giống lúa có gen kháng sâu rất tốt nhưng sau 5 năm trồng đại trà ngoài thực địa thì khả năng kháng sâu bị mất hoàn toàn. Nguyên nhân sinh học cốt lõi là gì?",
+    "options": [
+      "Do cây lúa bị già cỗi theo thời gian nên gen biến mất",
+      "Quá trình chọn lọc tự nhiên làm xuất hiện và phát triển các quần thể sâu hại mang đột biến gen mới có khả năng phá vỡ cơ chế kháng của cây",
+      "Do người nông dân quên không bón phân kali cho lúa",
+      "Do thời tiết khí hậu thay đổi làm gen kháng bị tan chảy"
+    ],
+    "answer": "Quá trình chọn lọc tự nhiên làm xuất hiện và phát triển các quần thể sâu hại mang đột biến gen mới có khả năng phá vỡ cơ chế kháng của cây",
+    "explanation": "Áp lực chọn lọc từ giống lúa kháng làm những con sâu bình thường chết đi, chỉ những con sâu đột biến kháng được độc tố sống sót, sinh sản thành quần thể mới phá hoại cây."
+  },
+  {
+    "question": "Khi bảo quản hạt giống dài hạn trong các ngân hàng gen, tại sao người ta phải đưa nhiệt độ xuống mức âm 10 đến âm 20 độ C và độ ẩm cực thấp?",
+    "options": [
+      "Để biến hạt giống thành những viên đá trang trí",
+      "Đưa hạt giống vào trạng thái sống tiềm sinh sâu, dừng gần như hoàn toàn mọi hoạt động trao đổi chất mà không làm chết phôi",
+      "Để tiêu diệt các gen đột biến có trong phôi hạt",
+      "Để kích thích hạt tự nhân đôi số lượng trong túi bảo quản"
+    ],
+    "answer": "Đưa hạt giống vào trạng thái sống tiềm sinh sâu, dừng gần như hoàn toàn mọi hoạt động trao đổi chất mà không làm chết phôi",
+    "explanation": "Lạnh sâu và khô kiệt tối đa làm đóng băng hoạt động của các enzyme bên trong hạt, ngăn hạt già hóa, giúp duy trì sức nảy mầm hàng chục năm."
+  },
+  {
+    "question": "Yếu tố nào sau đây không thuộc thành phần cấu tạo nên đất trồng?",
+    "options": [
+      "Chất vô cơ",
+      "Chất hữu cơ",
+      "Ánh sáng mặt trời",
+      "Không khí"
+    ],
+    "answer": "Ánh sáng mặt trời",
+    "explanation": "Ánh sáng mặt trời là yếu tố khí hậu bên ngoài, không nằm trong các thành phần cấu tạo nội tại của đất trồng."
+  },
+  {
+    "question": "Phần rắn của đất trồng có vai trò chính nào sau đây đối với cây trồng?",
+    "options": [
+      "Cung cấp oxy cho rễ cây hô hấp",
+      "Cung cấp chất dinh dưỡng và giúp cố định giữ cho cây đứng vững",
+      "Cung cấp toàn bộ lượng nước cho cây",
+      "Hòa tan các loại thuốc trừ sâu bón vào đất"
+    ],
+    "answer": "Cung cấp chất dinh dưỡng và giúp cố định giữ cho cây đứng vững",
+    "explanation": "Phần rắn bao gồm chất vô cơ và hữu cơ, cung cấp nguồn khoáng chất thiết yếu và là điểm tựa cơ học để rễ bám giữ cây."
+  },
+  {
+    "question": "Thành phần nào trong phần khí của đất trồng có hàm lượng cao hơn so với không khí ở khí quyển?",
+    "options": [
+      "Khí Oxy",
+      "Khí Nitơ",
+      "Khí Cacbonic",
+      "Khí Hiđrô"
+    ],
+    "answer": "Khí Cacbonic",
+    "explanation": "Do hoạt động hô hấp của rễ cây và các vi sinh vật đất sinh ra khí Cacbonic (CO2) nên hàm lượng khí này trong đất thường cao hơn khí quyển."
+  },
+  {
+    "question": "Đất chua là đất có chỉ số pH như thế nào?",
+    "options": [
+      "pH nhỏ hơn 6.5",
+      "pH từ 6.5 đến 7.5",
+      "pH lớn hơn 7.5",
+      "pH từ 8.0 đến 14.0"
+    ],
+    "answer": "pH nhỏ hơn 6.5",
+    "explanation": "Theo thang phân loại đất trồng, đất có trị số pH dưới 6.5 mang tính axit và được gọi là đất chua."
+  },
+  {
+    "question": "Hạt keo đất có cấu tạo gồm những phần nào tính từ trong ra ngoài?",
+    "options": [
+      "Lớp ion bù, lớp ion quyết định điện, nhân keo",
+      "Nhân keo, lớp ion quyết định điện, lớp ion bù",
+      "Nhân keo, lớp ion bất động, lớp ion đồng hóa",
+      "Lớp ion quyết định điện, nhân keo, lớp ion khuếch tán"
+    ],
+    "answer": "Nhân keo, lớp ion quyết định điện, lớp ion bù",
+    "explanation": "Cấu tạo hạt keo gồm lõi trong cùng là nhân keo, tiếp đến là lớp ion quyết định điện tích và ngoài cùng là lớp ion bù (gồm ion bất động và khuếch tán)."
+  },
+  {
+    "question": "Đặc điểm đặc trưng của lớp ion khuếch tán trong cấu tạo keo đất là gì?",
+    "options": [
+      "Bám rất chặt vào nhân keo không thể di chuyển",
+      "Nằm ở ngoài cùng, liên kết lỏng lẻo và có thể trao đổi với các ion trong dung dịch đất",
+      "Quyết định dấu điện tích âm hay dương của keo đất",
+      "Được cấu tạo từ các phân tử tinh bột phức tạp"
+    ],
+    "answer": "Nằm ở ngoài cùng, liên kết lỏng lẻo và có thể trao đổi với các ion trong dung dịch đất",
+    "explanation": "Lớp ion khuếch tán nằm ở phía ngoài cùng của lớp ion bù, dễ dàng bị phân ly và tham gia vào quá trình trao đổi ion với môi trường xung quanh."
+  },
+  {
+    "question": "Biện pháp kỹ thuật nào sau đây được sử dụng để cải tạo đất xám bạc màu?",
+    "options": [
+      "Giữ nước ngập ruộng quanh năm",
+      "Cày sâu dần kết hợp bón tăng cường phân hữu cơ và vôi bột",
+      "Bón thật nhiều phân hóa học khan",
+      "Đốt toàn bộ bề mặt đất sau mỗi vụ gieo trồng"
+    ],
+    "answer": "Cày sâu dần kết hợp bón tăng cường phân hữu cơ và vôi bột",
+    "explanation": "Cày sâu dần để làm dày tầng đất mặt, bón hữu cơ nâng cao độ mùn kết dính, bón vôi khử chua là quy trình chuẩn cải tạo đất xám bạc màu."
+  },
+  {
+    "question": "Đất xói mòn mạnh trơ sỏi đá có đặc điểm lý hóa nào sau đây?",
+    "options": [
+      "Tầng đất mặt dày, giàu chất dinh dưỡng",
+      "Đất rất nghèo mùn, nghèo chất dinh dưỡng, kết cấu đất lỏng lẻo",
+      "Đất có chứa nhiều muối NaCl hòa tan",
+      "Đất luôn ở trạng thái quá kiềm"
+    ],
+    "answer": "Đất rất nghèo mùn, nghèo chất dinh dưỡng, kết cấu đất lỏng lẻo",
+    "explanation": "Do bị rửa trôi mất lớp đất mịn chứa mùn phía trên nên đất trơ sỏi đá cực kỳ nghèo nàn dinh dưỡng và không có cấu trúc bền vững."
+  },
+  {
+    "question": "Phân bón vô cơ (hóa học) có ưu điểm lớn nào sau đây?",
+    "options": [
+      "Làm đất tơi xốp, tăng lượng mùn dài lâu",
+      "Tỉ lệ chất dinh dưỡng cao, dễ hòa tan nên cây hấp thụ rất nhanh",
+      "Tuyệt đối an toàn không bao giờ gây cháy rễ cây",
+      "Chứa đầy đủ tất cả các loại vi sinh vật sống có ích"
+    ],
+    "answer": "Tỉ lệ chất dinh dưỡng cao, dễ hòa tan nên cây hấp thụ rất nhanh",
+    "explanation": "Phân vô cơ được tinh chế công nghiệp nên hàm lượng dinh dưỡng đậm đặc, tan nhanh trong nước giúp giải phóng ion cho cây dùng ngay."
+  },
+  {
+    "question": "Loại phân bón nào sau đây cần thời gian phân hủy lâu dài thông qua hệ vi sinh vật đất mới phát huy hiệu quả?",
+    "options": [
+      "Phân Kali clorua",
+      "Phân đạm Amoni nitrat",
+      "Phân chuồng, phân xanh (phân hữu cơ)",
+      "Phân hỗn hợp NPK hòa tan"
+    ],
+    "answer": "Phân chuồng, phân xanh (phân hữu cơ)",
+    "explanation": "Phân hữu cơ chứa dinh dưỡng ở dạng đại phân tử phức tạp, cần quá trình khoáng hóa của vi sinh vật đất biến đổi thành muối khoáng cây mới hút được."
+  },
+  {
+    "question": "Đâu là tên một loại giá thể trồng cây vô cơ?",
+    "options": [
+      "Giá thể than bùn",
+      "Giá thể mùn cưa",
+      "Giá thể đá trân châu (Perlite)",
+      "Giá thể vỏ trấu hun"
+    ],
+    "answer": "Giá thể đá trân châu (Perlite)",
+    "explanation": "Đá trân châu (Perlite) là một loại khoáng chất núi lửa tự nhiên được nung ở nhiệt độ cao làm trương nở, thuộc nhóm giá thể vô cơ."
+  },
+  {
+    "question": "Nhân giống bằng hạt (nhân giống hữu tính) có nhược điểm lớn nào?",
+    "options": [
+      "Cây con dễ bị biến dị, không giữ được hoàn toàn đặc tính tốt của cây mẹ",
+      "Hệ số nhân giống cực kỳ thấp khó triển khai rộng",
+      "Cây con không có bộ rễ cọc bám đất",
+      "Kỹ thuật thực hiện vô cùng phức tạp đòi hỏi máy móc đắt tiền"
+    ],
+    "answer": "Cây con dễ bị biến dị, không giữ được hoàn toàn đặc tính tốt của cây mẹ",
+    "explanation": "Gieo hạt dựa trên sự sinh sản hữu tính (giảm phân và thụ tinh) tạo ra sự tổ hợp lại các gen, có thể xuất hiện các đặc tính xấu không mong muốn."
+  },
+  {
+    "question": "Trong phương pháp ghép, đoạn thân hoặc cành mang mắt ghép được cắt rời từ cây mẹ gọi là gì?",
+    "options": [
+      "Gốc ghép",
+      "Cành ghép (hoặc mắt ghép)",
+      "Mô phân sinh",
+      "Mẫu cấy vô trùng"
+    ],
+    "answer": "Cành ghép (hoặc mắt ghép)",
+    "explanation": "Cành ghép hay mắt ghép là bộ phận của cây mang đặc tính tốt muốn nhân lên, được đem gắn vào một cây khác đang có rễ phát triển (gốc ghép)."
+  },
+  {
+    "question": "Thứ tự đúng của các giai đoạn trong quy trình công nghệ nuôi cấy mô tế bào là gì?",
+    "options": [
+      "Chọn mẫu -> Ra vỏ thích nghi -> Kích thích ra rễ -> Kích thích tạo chồi -> Khử trùng mẫu",
+      "Chọn mẫu -> Khử trùng mẫu -> Kích thích tạo chồi -> Kích thích ra rễ -> Ra vỏ thích nghi",
+      "Ra vỏ thích nghi -> Chọn mẫu -> Khử trùng mẫu -> Kích thích ra rễ -> Kích thích tạo chồi",
+      "Khử trùng mẫu -> Kích thích ra rễ -> Chọn mẫu -> Kích thích tạo chồi -> Ra vỏ thích nghi"
+    ],
+    "answer": "Chọn mẫu -> Khử trùng mẫu -> Kích thích tạo chồi -> Kích thích ra rễ -> Ra vỏ thích nghi",
+    "explanation": "Quy trình chuẩn bắt đầu từ việc chọn cây mẹ lấy mẫu, khử trùng bề mặt, nuôi cấy nhân nhanh chồi, sau đó chuyển môi trường ra rễ và cuối cùng đưa ra vườn ươm."
+  },
+  {
+    "question": "Sâu hại cây trồng có cấu tạo cơ thể gồm mấy phần chính?",
+    "options": [
+      "2 phần: Đầu và Thân",
+      "3 phần: Đầu, Ngực và Bụng",
+      "4 phần: Đầu, Ngực, Bụng và Đuôi",
+      "1 phần duy nhất dạng hình ống"
+    ],
+    "answer": "3 phần: Đầu, Ngực và Bụng",
+    "explanation": "Cơ thể côn trùng (sâu hại) trưởng thành được chia rõ rệt thành 3 phần bao gồm phần đầu, phần ngực (mang chân, cánh) và phần bụng."
+  },
+  {
+    "question": "Biện pháp nào sau đây thuộc nhóm biện pháp cơ giới, vật lý trong phòng trừ sâu bệnh?",
+    "options": [
+      "Bón phân cân đối giữa đạm và kali",
+      "Phun thuốc trừ sâu hóa học dạng nhũ dầu",
+      "Dùng bẫy đèn để thu bắt các loài bướm, côn trùng hại",
+      "Phun chế phẩm nấm vi sinh Beauveria"
+    ],
+    "answer": "Dùng bẫy đèn để thu bắt các loài bẫy côn trùng hại",
+    "explanation": "Sử dụng ánh sáng (bẫy đèn), vợt, bắt bằng tay thuộc về nhóm biện pháp cơ giới vật lý tác động trực tiếp cơ học lên dịch hại."
+  },
+  {
+    "question": "Bảo quản nông sản trong môi trường mát (lạnh) thường duy trì khoảng nhiệt độ nào?",
+    "options": [
+      "Từ âm 20 đến âm 40 độ C",
+      "Từ 0 đến 15 độ C tùy thuộc loại nông sản",
+      "Luôn giữ đúng mức 37 độ C",
+      "Từ 50 đến 70 độ C"
+    ],
+    "answer": "Từ 0 đến 15 độ C tùy thuộc loại nông sản",
+    "explanation": "Nhiệt độ mát từ 0 đến 15 độ C giúp bảo quản các nông sản tươi (rau, củ, quả) không bị đông đá phá vỡ cấu trúc tế bào mà vẫn làm chậm hư hỏng."
+  },
+  {
+    "question": "Kỹ thuật trồng cây trong nhà màng ứng dụng hệ thống tưới nước tiết kiệm theo hình thức nào phổ biến nhất?",
+    "options": [
+      "Tưới tràn ngập khắp bề mặt sàn",
+      "Tưới phun mưa áp lực cao từ trên mái xuống",
+      "Tưới nhỏ giọt trực tiếp vào từng gốc cây",
+      "Tưới bằng xô chậu thủ công"
+    ],
+    "answer": "Tưới nhỏ giọt trực tiếp vào từng gốc cây",
+    "explanation": "Tưới nhỏ giọt đưa nước và dinh dưỡng phân bón chính xác đến vùng rễ, hạn chế bốc hơi, tiết kiệm nước tối đa trong nhà màng."
+  },
+  {
+    "question": "Tiêu chuẩn nông nghiệp GlobalGAP có phạm vi áp dụng như thế nào?",
+    "options": [
+      "Chỉ có giá trị pháp lý tại một tỉnh nhỏ ở Việt Nam",
+      "Là tiêu chuẩn thực hành nông nghiệp tốt có giá trị công nhận trên quy mô toàn cầu",
+      "Chỉ áp dụng riêng cho các trang trại nuôi cá tôm",
+      "Là quy định bắt buộc đối với việc đánh bắt thủy sản tự nhiên"
+    ],
+    "answer": "Là tiêu chuẩn thực hành nông nghiệp tốt có giá trị công nhận trên quy mô toàn cầu",
+    "explanation": "GlobalGAP (Global Good Agricultural Practice) là bộ tiêu chuẩn quốc tế chứng nhận quy trình sản xuất nông nghiệp an toàn, bền vững toàn thế giới."
+  },
+  {
+    "question": "Hoạt động nào sau đây thể hiện việc ứng dụng công nghệ cao trong khâu thu hoạch nông sản?",
+    "options": [
+      "Dùng liềm cắt lúa bằng tay",
+      "Sử dụng máy gặt đập liên hợp tích hợp cảm biến định vị",
+      "Dùng gậy tre chọc quả trên cây cao rơi xuống đất",
+      "Nhổ củ cải bằng sức kéo động vật"
+    ],
+    "answer": "Sử dụng máy gặt đập liên hợp tích hợp cảm biến định vị",
+    "explanation": "Máy gặt đập liên hợp công nghệ cao thực hiện đồng thời gặt, đập, tuốt, làm sạch lúa tự động, tối ưu hóa thời gian và năng suất thu hoạch."
+  },
+  {
+    "question": "Vì sao khi độ ẩm trong đất trồng xuống quá thấp, tốc độ quang hợp của cây lại bị suy giảm nghiêm trọng?",
+    "options": [
+      "Vì rễ cây hút quá nhiều khí Cacbonic",
+      "Thiếu nước làm cho tế bào hạt đậu của khí khổng mất nước đóng lại, cản trở sự trao đổi khí CO2 để quang hợp",
+      "Vì ánh sáng không thể xuyên qua được lá cây khi đất khô",
+      "Vì cây tập trung toàn bộ năng lượng để tạo ra hạt cát"
+    ],
+    "answer": "Thiếu nước làm cho tế bào hạt đậu của khí khổng mất nước đóng lại, cản trở sự trao đổi khí CO2 để quang hợp",
+    "explanation": "Để tránh mất nước qua thoát hơi, cây chủ động đóng khí khổng, dẫn đến khí CO2 từ không khí không thể khuếch tán vào trong lá làm nguyên liệu quang hợp."
+  },
+  {
+    "question": "Giải thích vì sao đất mặn (chứa nhiều muối NaCl, Na2SO4 hòa tan) lại làm cho cây trồng bình thường không thể hút được nước?",
+    "options": [
+      "Do muối bám chặt làm nghẹt các mạch gỗ của thân cây",
+      "Nồng độ muối cao làm tăng áp suất thẩm thấu của dung dịch đất vượt quá áp suất thẩm thấu của tế bào rễ, gây hiện tượng co nguyên sinh",
+      "Do muối hòa tan toàn bộ lượng nước có trong đất bốc hơi mất",
+      "Do các ion muối bao bọc chặn mọi phân tử nước lọt vào rễ"
+    ],
+    "answer": "Nồng độ muối cao làm tăng áp suất thẩm thấu của dung dịch đất vượt quá áp suất thẩm thấu của tế bào rễ, gây hiện tượng co nguyên sinh",
+    "explanation": "Nước dịch chuyển từ nơi có áp suất thẩm thấu thấp (môi trường nhược trương) sang nơi cao (ưu trương). Đất mặn là môi trường ưu trương làm rễ mất nước ngược ra ngoài."
+  },
+  {
+    "question": "Tại sao đất phèn thường được cải tạo bằng cách kết hợp bón vôi và xây dựng hệ thống kênh mương 'tiêu phèn'?",
+    "options": [
+      "Vôi làm cho phèn bốc hơi lên bầu khí quyển nhanh hơn",
+      "Vôi trung hòa axit, giải phóng các ion sắt, nhôm độc hại vào dung dịch đất, sau đó dòng nước kênh mương sẽ rửa trôi các ion độc này đi",
+      "Vôi biến đất phèn thành đất cát biển màu mỡ",
+      "Kênh mương có nhiệm vụ giữ lại toàn bộ lượng axit phục vụ bón phân"
+    ],
+    "answer": "Vôi trung hòa axit, giải phóng các ion sắt, nhôm độc hại vào dung dịch đất, sau đó dòng nước kênh mương sẽ rửa trôi các ion độc này đi",
+    "explanation": "Bón vôi giúp nâng pH, khử chua giải phóng độc tố sắt nhôm từ dạng liên kết ra dạng tự do, hệ thống tiêu phèn dẫn nước ngọt vào dìm, rửa trôi độc tố ra ngoài sông."
+  },
+  {
+    "question": "Sự khác biệt về chiến lược bón phân giữa đất cát và đất sét hữu cơ là gì?",
+    "options": [
+      "Đất cát nên bón một lần thật nhiều phân; đất sét bón chia nhỏ làm nhiều lần",
+      "Đất cát có khả năng giữ phân kém nên phải bón chia nhỏ làm nhiều lần; đất sét giữ phân tốt có thể bón lượng lớn hơn một lần",
+      "Đất cát tuyệt đối không được bón phân hữu cơ; đất sét chỉ được bón phân đạm",
+      "Cả hai loại đất đều có cách thức bón phân hoàn toàn giống nhau không khác biệt"
+    ],
+    "answer": "Đất cát có khả năng giữ phân kém nên phải bón chia nhỏ làm nhiều lần; đất sét giữ phân tốt có thể bón lượng lớn hơn một lần",
+    "explanation": "Đất cát ít keo, dễ rửa trôi nên bón nhiều một lúc phân sẽ trôi mất lãng phí. Đất sét nhiều keo hút giữ ion tốt, cho phép bón lượng lớn làm phân lót."
+  },
+  {
+    "question": "Tại sao bón quá lượng phân đạm hóa học dễ dẫn đến tình trạng cây trồng bị sâu bệnh tấn công nhiều hơn?",
+    "options": [
+      "Vì phân đạm tỏa ra mùi hương kích thích sâu hại tìm đến",
+      "Đạm kích thích tế bào phân chia nhanh, vách tế bào mỏng, mô cây mềm yếu, hàm lượng axit amin tự do cao thích hợp cho sâu nấm phát triển",
+      "Vì phân đạm chứa sẵn các bào tử nấm độc hại",
+      "Vì bón nhiều đạm làm cho cây ngừng sinh trưởng tạo cơ hội sâu phá hại"
+    ],
+    "answer": "Đạm kích thích tế bào phân chia nhanh, vách tế bào mỏng, mô cây mềm yếu, hàm lượng axit amin tự do cao thích hợp cho sâu nấm phát triển",
+    "explanation": "Thừa đạm làm bộ lá phát triển vống, lốp đổ, các mô cơ giới kém bền vững tạo cơ hội cho giác bám của nấm hay răng súc của sâu dễ dàng xuyên thủng."
+  },
+  {
+    "question": "Trong sản xuất giá thể hữu cơ từ vỏ trấu, tại sao người ta ưa chuộng phương pháp 'hun khói' (trấu hun) hơn là dùng trấu tươi trực tiếp?",
+    "options": [
+      "Trấu hun có màu đen hấp thụ ánh sáng mặt trời làm chín rễ nhanh hơn",
+      "Quá trình hun đốt thiếu oxy diệt sạch mầm bệnh, phá vỡ cấu trúc cellulose giúp trấu xốp hơn và tăng khả năng trao đổi ion",
+      "Trấu hun chứa nhiều hợp chất chứa nitơ tinh khiết hơn trấu tươi",
+      "Trấu tươi bón vào đất sẽ thu hút các loài chuột đến đào bới"
+    ],
+    "answer": "Quá trình hun đốt thiếu oxy diệt sạch mầm bệnh, phá vỡ cấu trúc cellulose giúp trấu xốp hơn và tăng khả năng trao đổi ion",
+    "explanation": "Trấu hun carbon hóa một phần giúp vật liệu sạch khuẩn, nấm mốc, tăng độ xốp giữ nước cực tốt và không bị vi sinh vật phân hủy cạnh tranh dinh dưỡng với cây."
+  },
+  {
+    "question": "Vì sao phương pháp nhân giống bằng nuôi cấy mô tế bào lại có thể tạo ra một số lượng khổng lồ cây con sạch bệnh trong thời gian ngắn?",
+    "options": [
+      "Do tế bào thực vật trong bình thí nghiệm có kích thước lớn hơn bình thường",
+      "Hệ số nhân chồi tăng theo cấp số nhân trong môi trường thạch giàu dinh dưỡng nhân tạo, kết hợp điều kiện vô trùng ngăn chặn hoàn toàn nguồn bệnh",
+      "Do các nhà khoa học tiêm gen tăng trưởng siêu tốc vào mẫu cấy",
+      "Do tế bào có khả năng tự gieo hạt liên tục trong bình kín"
+    ],
+    "answer": "Hệ số nhân chồi tăng theo cấp số nhân trong môi trường thạch giàu dinh dưỡng nhân tạo, kết hợp điều kiện vô trùng ngăn chặn hoàn toàn nguồn bệnh",
+    "explanation": "Từ một mẩu mô nhỏ, thông qua các chu kỳ chia cắt chồi lặp lại liên tục vài tuần một lần dưới điều kiện tối ưu, số lượng cây tăng trưởng đột biến hình thành chuỗi sản xuất công nghiệp."
+  },
+  {
+    "question": "Tại sao việc thực hiện đúng nguyên tắc 'Thời gian cách ly' (PHI) của thuốc bảo vệ thực vật lại có vai trò sống còn trong an toàn thực phẩm?",
+    "options": [
+      "Để sâu bệnh có đủ thời gian quay trở lại phá hoại tiếp",
+      "Đảm bảo hóa chất độc hại có đủ thời gian tự phân hủy, chuyển hóa đến mức an toàn dưới ngưỡng độc cho phép trước khi thu hoạch",
+      "Để người nông dân có thời gian đi đăng ký nhãn hiệu nông sản",
+      "Để nông sản bốc hơi bớt lượng nước thừa cân nặng"
+    ],
+    "answer": "Đảm bảo hóa chất độc hại có đủ thời gian tự phân hủy, chuyển hóa đến mức an toàn dưới ngưỡng độc cho phép trước khi thu hoạch",
+    "explanation": "Mỗi loại thuốc cần một khoảng thời gian chịu tác động của ánh sáng, nhiệt độ để phân rã cấu trúc hóa học độc tính, tránh ngộ độc cấp hoặc mãn tính cho người ăn."
+  },
+  {
+    "question": "Vì sao công nghệ bảo quản nông sản bằng màng sinh học (như màng Chitosan) lại giúp kéo dài tuổi thọ của trái cây tươi hiệu quả?",
+    "options": [
+      "Màng sinh học trực tiếp cung cấp đường glucose thẩm thấu vào trái cây",
+      "Màng tạo ra lớp rào cản hạn chế sự trao đổi khí Oxy và hơi nước, làm chậm quá trình hô hấp và ngăn nấm mốc xâm nhập từ ngoài",
+      "Màng sinh học làm đông cứng hoàn toàn nước dịch quả",
+      "Màng sinh học có khả năng biến quả xanh thành quả chín ngay lập tức"
+    ],
+    "answer": "Màng tạo ra lớp rào cản hạn chế sự trao đổi khí Oxy và hơi nước, làm chậm quá trình hô hấp và ngăn nấm mốc xâm nhập từ ngoài",
+    "explanation": "Màng sinh học mỏng bao bọc quả có chức năng như một màng bán thấm điều hòa, hạn chế mất nước gây héo và ức chế các enzym kích thích chín tự nhiên."
+  },
+  {
+    "question": "Bản chất của xu hướng 'Nông nghiệp thông minh 4.0' là gì?",
+    "options": [
+      "Thay thế toàn bộ các giống cây trồng tự nhiên bằng cây nhựa công nghiệp",
+      "Tích hợp các công nghệ kỹ thuật số, dữ liệu lớn, trí tuệ nhân tạo và tự động hóa vào toàn bộ chuỗi giá trị trồng trọt để tối ưu hóa nguồn lực",
+      "Quay trở lại hoàn toàn phương thức canh tác thời kỳ cổ đại",
+      "Chỉ sử dụng điện thoại thông minh để chụp ảnh quảng cáo sản phẩm nông nghiệp"
+    ],
+    "answer": "Tích hợp các công nghệ kỹ thuật số, dữ liệu lớn, trí tuệ nhân tạo và tự động hóa vào toàn bộ chuỗi giá trị trồng trọt để tối ưu hóa nguồn lực",
+    "explanation": "Nông nghiệp 4.0 sử dụng AI, dữ liệu cảm biến thời tiết, thiết bị bay điều khiển chính xác việc bón phân, phun thuốc, tưới nước vừa đủ nhu cầu, nâng hiệu suất kinh tế."
+  },
+  {
+    "question": "Ngành trồng trọt cung cấp yếu tố đầu vào quan trọng nào dưới đây cho ngành chăn nuôi?",
+    "options": [
+      "Vắc xin phòng bệnh",
+      "Nguồn thức ăn tinh và thức ăn xanh",
+      "Con giống gia súc chất lượng",
+      "Chuồng trại bằng bê tông"
+    ],
+    "answer": "Nguồn thức ăn tinh và thức ăn xanh",
+    "explanation": "Sản phẩm của trồng trọt như ngô, cám gạo, cỏ voi, rơm rạ... là nguồn thức ăn cơ bản không thể thiếu của các loại vật nuôi."
+  },
+  {
+    "question": "Yếu tố khí hậu nào ảnh hưởng trực tiếp đến năng suất quang hợp của cây trồng thông qua việc cung cấp năng lượng?",
+    "options": [
+      "Độ ẩm của đất",
+      "Ánh sáng mặt trời",
+      "Gió và hướng gió",
+      "Áp suất khí quyển"
+    ],
+    "answer": "Ánh sáng mặt trời",
+    "explanation": "Ánh sáng mặt trời cung cấp năng lượng photon để các lục lạp thực hiện phản ứng quang hợp tổng hợp nên chất hữu cơ."
+  },
+  {
+    "question": "Đất trồng có độ phì nhiêu cao nghĩa là đất đó có khả năng gì?",
+    "options": [
+      "Khả năng giữ nước vĩnh viễn không bao giờ cạn",
+      "Khả năng cung cấp đồng thời và liên tục nước, chất dinh dưỡng, oxy cho cây đạt năng suất cao",
+      "Khả năng tự động tiêu diệt mọi loại cỏ dại",
+      "Khả năng biến đổi màu sắc liên tục theo mùa"
+    ],
+    "answer": "Khả năng cung cấp đồng thời và liên tục nước, chất dinh dưỡng, oxy cho cây đạt năng suất cao",
+    "explanation": "Độ phì nhiêu là năng lực tổng hợp của đất đáp ứng các điều kiện sinh thái thiết yếu (nước, khí, dinh dưỡng) đảm bảo cây trồng phát triển tốt."
+  },
+  {
+    "question": "Đất xám bạc màu thường thiếu hụt trầm trọng thành phần dinh dưỡng hữu cơ nào sau đây?",
+    "options": [
+      "Hạt sét mịn",
+      "Chất mùn (Humus)",
+      "Tinh thể thạch anh",
+      "Các ion nhôm độc hại"
+    ],
+    "answer": "Chất mùn (Humus)",
+    "explanation": "Do quá trình rửa trôi xói mòn mạnh và thâm canh quá mức không bù đắp hữu cơ nên lượng mùn trong đất xám bạc màu giảm xuống mức rất thấp."
+  },
+  {
+    "question": "Phân bón vô cơ đơn là loại phân bón chứa bao nhiêu nguyên tố dinh dưỡng cốt lõi?",
+    "options": [
+      "Chỉ chứa duy nhất 1 nguyên tố dinh dưỡng chính (như N, hoặc P, hoặc K)",
+      "Chứa đầy đủ 3 nguyên tố N, P, K hòa trộn",
+      "Chứa hàng chục nguyên tố vi lượng khác nhau",
+      "Không chứa bất kỳ nguyên tố hóa học nào"
+    ],
+    "answer": "Chỉ chứa duy nhất 1 nguyên tố dinh dưỡng chính (như N, hoặc P, hoặc K)",
+    "explanation": "Phân bón đơn là phân chỉ chứa một trong các nguyên tố dinh dưỡng đa lượng chủ chốt, ví dụ đạm Urê (chứa N) hay kali clorua (chứa K)."
+  },
+  {
+    "question": "Giá thể trồng cây từ xơ dừa cần phải qua bước xử lý hóa học nào trước khi đem trồng để tránh làm săn rễ cây?",
+    "options": [
+      "Phun thuốc kích thích ra hoa",
+      "Xử lý xả chát để loại bỏ chất Tannin và Lignin",
+      "Ngâm vào dung dịch axit đậm đặc",
+      "Hun đúc thành than hoạt tính hoàn toàn"
+    ],
+    "answer": "Xử lý xả chát để loại bỏ chất Tannin và Lignin",
+    "explanation": "Xơ dừa thô chứa hàm lượng lớn Tannin và Lignin (chất chát) làm kết tủa protein và cản trở rễ cây hút dinh dưỡng nên bắt buộc phải ngâm xả chát bằng nước và vôi."
+  },
+  {
+    "question": "Phương pháp nhân giống vô tính nào giữ cành trực tiếp trên cây mẹ và kích thích ra rễ bằng cách bó bầu đất vào vết khoanh vỏ?",
+    "options": [
+      "Giâm cành",
+      "Ghép mắt",
+      "Chiết cành",
+      "Nuôi cấy mô"
+    ],
+    "answer": "Chiết cành",
+    "explanation": "Chiết cành tiến hành khoanh vỏ tách mạch rây chặn dòng dinh dưỡng từ trên xuống, ép cành ra rễ tại vết cắt ngay khi vẫn sống bám vào cây mẹ."
+  },
+  {
+    "question": "Trong phòng nuôi cấy mô thực vật, môi trường dinh dưỡng nuôi cấy dạng đặc thường sử dụng chất làm đông nào?",
+    "options": [
+      "Keo dán gỗ công nghiệp",
+      "Thạch Agar",
+      "Gelatin từ xương động vật",
+      "Nhựa cây cao su"
+    ],
+    "answer": "Thạch Agar",
+    "explanation": "Thạch Agar chiết xuất từ rong biển có đặc tính đông cứng ở nhiệt độ thường, không bị phân hủy bởi vi sinh vật thực vật, tạo nền đỡ mẫu cấy tuyệt vời."
+  },
+  {
+    "question": "Biện pháp phòng trừ sâu bệnh nào mang tính chất ngăn chặn từ xa, không cho sâu bệnh lạ xâm nhập từ nước ngoài vào trong nước?",
+    "options": [
+      "Biện pháp sinh học",
+      "Biện pháp canh tác",
+      "Biện pháp kiểm dịch thực vật",
+      "Biện pháp hóa học"
+    ],
+    "answer": "Biện pháp kiểm dịch thực vật",
+    "explanation": "Kiểm dịch thực vật là hệ thống kiểm tra pháp lý tại các cửa khẩu, cảng biển nhằm phát hiện, ngăn chặn dịch hại nguy hiểm lan truyền giữa các quốc gia."
+  },
+  {
+    "question": "Công nghệ sấy nông sản nào sử dụng nguyên lý làm thăng hoa nước từ thể rắn (đá) sang thể hơi trong môi trường chân không?",
+    "options": [
+      "Sấy sấy nhiệt gió truyền thống",
+      "Sấy thăng hoa (Sấy đông khô)",
+      "Phơi nắng tự nhiên ngoài trời",
+      "Sấy bằng lò vi sóng lò nướng"
+    ],
+    "answer": "Sấy thăng hoa (Sấy đông khô)",
+    "explanation": "Sấy thăng hoa cấp đông sản phẩm trước, sau đó giảm áp suất môi trường để đá chuyển thẳng thành hơi, bảo toàn nguyên vẹn hình dáng và dưỡng chất."
+  },
+  {
+    "question": "Tại sao việc trồng cây che phủ đất (như trồng cỏ lạc dại, cây họ Đậu) trên các sườn đồi dốc lại chống được xói mòn đất hiệu quả?",
+    "options": [
+      "Vì rễ cây hút hết toàn bộ lượng nước mưa rơi xuống",
+      "Thân và lá cây làm giảm áp lực dòng chảy của nước mưa, hệ thống rễ đan xen bện chặt giữ hạt đất không bị trôi",
+      "Vì các loại cây này tiết ra keo xi măng gắn kết đá sỏi",
+      "Vì trồng cây làm cho địa hình dốc trở nên phẳng lặng như đồng bằng"
+    ],
+    "answer": "Thân và lá cây làm giảm áp lực dòng chảy của nước mưa, hệ thống rễ đan xen bện chặt giữ hạt đất không bị trôi",
+    "explanation": "Thảm thực vật hoạt động như lá chắn tán xạ động năng giọt mưa, rễ cây như tấm lưới gia cố giữ cơ học các hạt đất tại chỗ."
+  },
+  {
+    "question": "Tại sao phân bón vi sinh vật lại không có hiệu quả tức thì như phân bón hóa học?",
+    "options": [
+      "Vì vi sinh vật trong phân gây bệnh làm suy yếu cây trồng lúc đầu",
+      "Vi sinh vật cần thời gian thích nghi, sinh sôi mật độ và thực hiện các chu trình sinh hóa chuyển hóa chất hữu cơ, khoáng khó tan thành dễ tan",
+      "Vì phân vi sinh vật chứa chất độc ức chế sinh trưởng của cây",
+      "Vì phân vi sinh vật hòa tan trong nước nhanh hơn phân hóa học gấp trăm lần"
+    ],
+    "answer": "Vi sinh vật cần thời gian thích nghi, sinh sôi mật độ và thực hiện các chu trình sinh hóa chuyển hóa chất hữu cơ, khoáng khó tan thành dễ tan",
+    "explanation": "Phân vi sinh cung cấp 'nhà máy sinh học' sống. Hiệu quả phụ thuộc vào tốc độ phát triển và tương tác sinh học của chúng với môi trường đất nên tác dụng từ từ, bền vững."
+  },
+  {
+    "question": "Vì sao các giá thể trồng cây như bông khoáng (Rockwool) hoặc xơ dừa cần được đo đạc và kiểm soát chỉ số EC (độ dẫn điện) thường xuyên?",
+    "options": [
+      "Để kiểm tra xem giá thể có thể truyền điện sinh hoạt được không",
+      "Chỉ số EC thể hiện tổng nồng độ các muối khoáng dinh dưỡng hòa tan trong giá thể, giúp điều chỉnh lượng phân bón vừa đủ tránh cháy rễ",
+      "Để theo dõi tốc độ phát triển chiều cao của rễ cây",
+      "Để đo lường hàm lượng oxy có trong giá thể thực tế"
+    ],
+    "answer": "Chỉ số EC thể hiện tổng nồng độ các muối khoáng dinh dưỡng hòa tan trong giá thể, giúp điều chỉnh lượng phân bón vừa đủ tránh cháy rễ",
+    "explanation": "EC (Electrical Conductivity) đo độ dẫn điện của dung dịch. Nồng độ ion muối khoáng càng cao EC càng cao; kiểm soát EC giúp đảm bảo cây không bị thừa hay thiếu dinh dưỡng."
+  },
+  {
+    "question": "Tại sao trong quy trình giâm cành thực vật, người ta thường cắt bớt phiến lá của cành giâm trước khi cắm xuống đất ẩm?",
+    "options": [
+      "Để cành giâm dồn toàn bộ chất dinh dưỡng nuôi lá già",
+      "Giảm diện tích thoát hơi nước của cành khi hệ thống rễ chưa được hình thành để hút nước tự thân",
+      "Kích thích cành nhanh chóng sinh ra các lá non khổng lồ",
+      "Để làm cho trọng lượng của cành giâm nhẹ hơn dễ đứng vững"
+    ],
+    "answer": "Giảm diện tích thoát hơi nước của cành khi hệ thống rễ chưa được hình thành để hút nước tự thân",
+    "explanation": "Cành giâm mới cắt chưa có rễ hút nước, trong khi lá vẫn liên tục thoát hơi nước. Cắt bớt lá giúp hạn chế héo khô vì mất cân bằng nước."
+  },
+  {
+    "question": "Giải thích tại sao phương pháp nhân giống nuôi cấy mô tế bào lại bắt buộc phải tiến hành trong điều kiện vô trùng tuyệt đối?",
+    "options": [
+      "Vì tế bào thực vật sẽ biến dị thành tế bào động vật nếu nhiễm khuẩn",
+      "Môi trường nuôi cấy rất giàu dinh dưỡng hữu cơ (đường, khoáng), nếu có vi khuẩn hay nấm mốc lọt vào chúng sẽ phát triển nhanh chóng tiêu diệt mẫu cấy",
+      "Để tránh việc các nhà khoa học bị nhiễm bệnh từ cây trồng",
+      "Vì ánh sáng đèn huỳnh quang chỉ hoạt động tốt trong phòng vô trùng"
+    ],
+    "answer": "Môi trường nuôi cấy rất giàu dinh dưỡng hữu cơ (đường, khoáng), nếu có vi khuẩn hay nấm mốc lọt vào chúng sẽ phát triển nhanh chóng tiêu diệt mẫu cấy",
+    "explanation": "Tốc độ sinh sản của vi sinh vật (phút) nhanh hơn mô thực vật (ngày) gấp nhiều lần. Nhiễm trùng dẫn đến nấm khuẩn ăn hết dưỡng chất và tiết độc tố làm chết mẫu cấy."
+  },
+  {
+    "question": "Vì sao các loại trái cây chín (như chuối, xoài) khi xếp cùng với trái cây xanh trong thùng kín lại làm cho trái cây xanh nhanh chín theo?",
+    "options": [
+      "Trái cây chín tỏa nhiệt độ cao làm chín các quả xung quanh",
+      "Quả chín giải phóng ra lượng lớn khí Ethylene (khí rấm chín sinh học) kích thích các phản ứng enzym làm chín quả xanh nhanh chóng",
+      "Quả chín tiết ra chất lỏng ngọt thấm vào quả xanh",
+      "Do hiện tượng quả xanh tự soi gương bắt chước màu sắc quả chín"
+    ],
+    "answer": "Quả chín giải phóng ra lượng lớn khí Ethylene (khí rấm chín sinh học) kích thích các phản ứng enzym làm chín quả xanh nhanh chóng",
+    "explanation": "Ethylene (C2H4) là một hormone thực vật dạng khí điều hòa sự chín của quả. Nồng độ Ethylene tích tụ trong không gian kín thúc đẩy quả xanh bước vào chu trình chín."
+  },
+  {
+    "question": "Nguyên lý hoạt động của bẫy bướm hại bằng chất Pheromone trong bảo vệ thực vật sinh học là gì?",
+    "options": [
+      "Chất Pheromone là thuốc độc cực mạnh tiếp xúc giết sâu hại",
+      "Sử dụng chất mùi mô phỏng tín hiệu dẫn dụ sinh dục của côn trùng cái để thu hút và tiêu diệt bướm đực, làm gián đoạn chu kỳ sinh sản",
+      "Chất Pheromone tạo ra âm thanh xua đuổi bướm bay đi nơi khác",
+      "Chất này kích thích bướm hại ăn nhiều lá cây hơn thông thường"
+    ],
+    "answer": "Sử dụng chất mùi mô phỏng tín hiệu dẫn dụ sinh dục của côn trùng cái để thu hút và tiêu diệt bướm đực, làm gián đoạn chu kỳ sinh sản",
+    "explanation": "Pheromone là tín hiệu hóa học giữa các cá thể cùng loài. Đặt bẫy giả mùi con cái khiến con đực bay vào bẫy, dẫn đến không thể thụ tinh cho trứng vụ sau."
+  },
+  {
+    "question": "Vì sao trong công nghệ bảo quan nông sản bằng hệ thống kho lạnh, việc kiểm soát 'Độ ẩm tương đối của không khí' lại quan trọng tương đương nhiệt độ?",
+    "options": [
+      "Độ ẩm cao làm cho nông sản bị đông cứng thành đá nhanh hơn",
+      "Độ ẩm quá thấp gây hiện tượng mất nước, sụt giảm trọng lượng và héo nông sản; độ ẩm quá cao lại tạo điều kiện nấm mốc phát triển mạnh",
+      "Độ ẩm không khí quyết định giá tiền điện vận hành máy lạnh",
+      "Độ ẩm giúp các loại vitamin trong quả tự nhân đôi hàm lượng"
+    ],
+    "answer": "Độ ẩm quá thấp gây hiện tượng mất nước, sụt giảm trọng lượng và héo nông sản; độ ẩm quá cao lại tạo điều kiện nấm mốc phát triển mạnh",
+    "explanation": "Kiểm soát độ ẩm ở mức tối ưu (ví dụ 85-90% cho trái cây) giữ sự cân bằng hơi nước giữa bề mặt quả và không khí, vừa chống héo vừa chống thối mốc."
+  },
+  {
+    "question": "Tại sao việc trồng xen canh cây sắn (khoai mì) với lạc (đậu phộng) lại giúp duy trì độ phì nhiêu của đất tốt hơn trồng sắn thuần túy?",
+    "options": [
+      "Cây lạc hút hết chất độc do cây sắn tiết ra",
+      "Sắn thâm canh làm kiệt đạm đất; lạc có vi khuẩn nốt sần cố định đạm từ khí quyển bổ sung lượng nitơ tự nhiên nuôi đất",
+      "Cây lạc làm tăng hàm lượng cát mịn trong kết cấu đất trồng",
+      "Cây sắn cung cấp nước tưới trực tiếp cho cây lạc qua rễ"
+    ],
+    "answer": "Sắn thâm canh làm kiệt đạm đất; lạc có vi khuẩn nốt sần cố định đạm từ khí quyển bổ sung lượng nitơ tự nhiên nuôi đất",
+    "explanation": "Cây lạc (họ Đậu) cộng sinh vi khuẩn Rhizobium bón đạm sinh học vào đất, bù đắp lượng dưỡng chất mà sắn (cây lấy củ phàm ăn) đã khai thác mạnh."
+  },
+  {
+    "question": "Việc sử dụng các cảm biến IoT để thu thập dữ liệu về độ ẩm đất và tự động kích hoạt tưới nhỏ giọt mang lại lợi ích cao nhất ở khía cạnh nào?",
+    "options": [
+      "Loại bỏ hoàn toàn sự xuất hiện của sâu bệnh trên lá",
+      "Cung cấp nước chính xác theo nhu cầu sinh lý thực của cây tại từng thời điểm, tiết kiệm tối đa nước tưới và chi phí vận hành",
+      "Làm cho cây trồng có khả năng tự động chống chịu với bão lũ lớn",
+      "Biến đổi kết cấu đất nông nghiệp thành môi trường thủy canh hoàn toàn"
+    ],
+    "answer": "Cung cấp nước chính xác theo nhu cầu sinh lý thực của cây tại từng thời điểm, tiết kiệm tối đa nước tưới và chi phí vận hành",
+    "explanation": "Tự động hóa dựa trên cảm biến thực tế ngăn chặn việc tưới dư thừa gây úng rễ rã phân hoặc tưới thiếu làm cây stress, tối ưu hóa tài nguyên thông minh."
+  },
+  {
+    "question": "Hiện tượng đất bị glêi hóa (tích tụ hợp chất sắt Fe2+ màu xanh xám) thường xuất hiện phổ biến ở loại đất nào?",
+    "options": [
+      "Đất xám bạc màu vùng đồi núi cao dốc",
+      "Đất trồng lúa nước bị ngập úng liên tục, thiếu oxy nghiêm trọng",
+      "Đất cát thô ở các đồi cát ven bờ biển miền Trung",
+      "Đất đỏ bazan trồng cà phê ở Tây Nguyên"
+    ],
+    "answer": "Đất trồng lúa nước bị ngập úng liên tục, thiếu oxy nghiêm trọng",
+    "explanation": "Trong môi trường yếm khí ngập nước kéo dài, các vi sinh vật kị khí hoạt động mạnh khử Fe3+ (đỏ vàng) thành Fe2+ (xanh xám) gọi là quá trình glêi hóa."
+  },
+  {
+    "question": "Tại sao một số vùng nông nghiệp chuyển đổi mô hình từ 'Nhà lưới thô sơ' sang 'Nhà màng thông minh điều khiển tự động' lại đạt doanh thu cao vượt trội?",
+    "options": [
+      "Vì nhà màng thông minh tự tạo ra ánh sáng vàng có chứa vàng thật",
+      "Khả năng cách ly tuyệt đối côn trùng dịch hại, kiểm soát chính xác vi khí hậu giúp sản xuất nông sản cao cấp tiêu chuẩn xuất khẩu quanh năm",
+      "Vì nhà màng làm tăng kích thước của lá rau to gấp mười lần",
+      "Vì nhà màng không cần công nhân thu hoạch nông sản"
+    ],
+    "answer": "Khả năng cách ly tuyệt đối côn trùng dịch hại, kiểm soát chính xác vi khí hậu giúp sản xuất nông sản cao cấp tiêu chuẩn xuất khẩu quanh năm",
+    "explanation": "Công nghệ cao quản lý được các yếu tố bất lợi môi trường, hạn chế tối đa sử dụng thuốc hóa học, tạo ra sản phẩm đồng đều, mẫu mã đẹp đáp ứng thị trường khó tính."
+  },
+  {
+    "question": "Hành động nào sau đây là giải pháp ứng dụng công nghệ sinh học đột phá trong phòng trừ dịch bệnh cây trồng?",
+    "options": [
+      "Nhập khẩu thêm các dòng thuốc trừ cỏ hóa học nồng độ mạnh",
+      "Nghiên cứu tạo ra các giống cây chuyển gen (GMO) mang đặc tính tự kháng sâu hoặc kháng virus gây bệnh",
+      "Lắp đặt hệ thống lưới điện cao áp xung quanh trang trại",
+      "Tưới nước muối loãng lên lá cây để khử trùng bề mặt lá"
+    ],
+    "answer": "Nghiên cứu tạo ra các giống cây chuyển gen (GMO) mang đặc tính tự kháng sâu hoặc kháng virus gây bệnh",
+    "explanation": "Chuyển gen kháng (như gen Bt sinh độc tố diệt sâu độc bản hoặc gen kháng kháng thể virus) giúp cây tự bảo vệ nội tại, giảm lệ phí phun thuốc bảo vệ thực vật hóa học."
+  },
+  {
+    "question": "Thành phần nào chiếm tỉ lệ thể tích lớn nhất trong một mẫu đất trồng lý tưởng cho cây trồng phát triển bình thường?",
+    "options": [
+      "Phần rắn chiếm khoảng 90% thể tích",
+      "Phần rắn (khoảng 50%) và phần khe hở chứa khí, nước (khoảng 50%)",
+      "Phần lỏng (nước) chiếm toàn bộ 95% thể tích",
+      "Phần khí chiếm 80%, còn lại là chất hữu cơ"
+    ],
+    "answer": "Phần rắn (khoảng 50%) và phần khe hở chứa khí, nước (khoảng 50%)",
+    "explanation": "Đất trồng lý tưởng có cấu trúc cân bằng lý tính: 50% thể tích là hạt rắn (vô cơ, hữu cơ), 25% thể tích chứa nước và 25% thể tích chứa không khí."
+  },
+  {
+    "question": "Cation nào sau đây có khả năng trao đổi mạnh nhất trên bề mặt keo đất để đẩy các ion khác ra ngoài?",
+    "options": [
+      "Na+",
+      "K+",
+      "Al3+",
+      "NH4+"
+    ],
+    "answer": "Al3+",
+    "explanation": "Theo quy luật trao đổi ion tĩnh điện, ion mang điện tích hóa trị càng cao (như hóa trị 3 của Al3+) và bán kính hydrat hóa nhỏ sẽ có năng lượng trao đổi hút bám mạnh hơn."
+  },
+  {
+    "question": "Đất mặn ở Việt Nam hình thành chủ yếu do nguyên nhân tự nhiên nào?",
+    "options": [
+      "Mưa axit kéo dài từ các khu công nghiệp lớn",
+      "Nước biển tràn vào đất liền qua sóng thần, thủy triều hoặc mạch nước ngầm nhiễm mặn ven biển",
+      "Sự phân hủy của các loại đá vôi nguyên chất",
+      "Người dân bón quá nhiều phân đạm hóa học"
+    ],
+    "answer": "Nước biển tràn vào đất liền qua sóng thần, thủy triều hoặc mạch nước ngầm nhiễm mặn ven biển",
+    "explanation": "Đất mặn chứa nhiều muối hòa tan (NaCl), nguồn gốc chủ yếu từ biển xâm nhập vào nội địa qua hệ thống sông ngòi dòng chảy cửa biển."
+  },
+  {
+    "question": "Nguyên tố dinh dưỡng nào thuộc nhóm các nguyên tố đại lượng mà cây trồng cần số lượng lớn?",
+    "options": [
+      "Sắt (Fe), Kẽm (Zn)",
+      "Nitơ (N), Phốt pho (P), Kali (K)",
+      "Mangan (Mn), Đồng (Cu)",
+      "Bo (B), Molypden (Mo)"
+    ],
+    "answer": "Nitơ (N), Phốt pho (P), Kali (K)",
+    "explanation": "N, P, K là 3 nguyên tố dinh dưỡng đa lượng thiết yếu cốt lõi kiến tạo cấu trúc tế bào, cây cần hấp thụ khối lượng rất lớn suốt vòng đời."
+  },
+  {
+    "question": "Loại phân bón nào sau đây có chứa các loại vi sinh vật giải lân hữu cơ khó tan thành dạng dễ tan?",
+    "options": [
+      "Phân bón vi sinh vật phân giải lân",
+      "Phân đạm Urê tinh chất",
+      "Phân lân nung chảy Lâm Thao",
+      "Phân hữu cơ truyền thống tươi"
+    ],
+    "answer": "Phân bón vi sinh vật phân giải lân",
+    "explanation": "Phân vi sinh vật phân giải lân chứa các vi sinh vật tiết ra các axit hữu cơ có khả năng hòa tan các hợp chất phốt phát khó tan trong đất thành ion dễ tiêu cho cây."
+  },
+  {
+    "question": "Giá thể hữu cơ nhân tạo nào được tạo ra từ quá trình nung đất sét ở nhiệt độ cao thành các hạt xốp nhẹ?",
+    "options": [
+      "Giá thể xơ dừa hun",
+      "Đất nung (Hạt đất nung - Leca)",
+      "Giá thể mùn cưa gỗ thông",
+      "Bông sợi khoáng mềm"
+    ],
+    "answer": "Đất nung (Hạt đất nung - Leca)",
+    "explanation": "Hạt đất nung (Leca) là giá thể vô cơ nhân tạo, được sản xuất bằng cách nung đất sét viên ở nhiệt độ cực cao tạo độ xốp rỗng bên trong hạt."
+  },
+  {
+    "question": "Phương pháp nhân giống nào sau đây gắn một bộ phận (mắt, chồi) của cây này vào thân của cây khác để cùng sinh trưởng?",
+    "options": [
+      "Giâm cành",
+      "Ghép",
+      "Chiết cành",
+      "Gieo hạt"
+    ],
+    "answer": "Ghép",
+    "explanation": "Ghép là phương pháp tổ hợp cành/mắt ghép của cây này lên gốc ghép của cây khác để tận dụng ưu điểm bộ rễ khỏe của gốc và chất lượng quả của cành."
+  },
+  {
+    "question": "Mục đích của giai đoạn 'nhân nhanh cụm chồi' trong nuôi cấy mô tế bào là gì?",
+    "options": [
+      "Kích thích chồi mọc ra bộ rễ cọc khổng lồ",
+      "Tăng số lượng chồi con lên nhiều lần bằng cách bổ sung hormone nhóm Cytokinin thích hợp",
+      "Làm tiêu biến toàn bộ lá của cụm cây con",
+      "Làm cho chồi hóa thân gỗ cứng cáp chịu bão"
+    ],
+    "answer": "Tăng số lượng chồi con lên nhiều lần bằng cách bổ sung hormone nhóm Cytokinin thích hợp",
+    "explanation": "Giai đoạn này tập trung tối đa hóa số lượng mầm cây bằng cách sử dụng chất điều hòa sinh trưởng kích thích các chồi nách chồi bất định phát triển đại trà."
+  },
+  {
+    "question": "Sự xuất hiện của sâu hại trên đồng ruộng chịu ảnh hưởng lớn bởi yếu tố môi trường nào?",
+    "options": [
+      "Nhiệt độ, độ ẩm và sự phân bố của thức ăn (cây trồng)",
+      "Trọng lực Trái Đất và áp suất thủy tĩnh",
+      "Tốc độ bốc hơi của nước biển Đông",
+      "Sự dịch chuyển của các mảng kiến tạo địa chất"
+    ],
+    "answer": "Nhiệt độ, độ ẩm và sự phân bố của thức ăn (cây trồng)",
+    "explanation": "Nhiệt độ độ ẩm quyết định tốc độ nở trứng và vòng đời sâu, nguồn cây trồng dồi dào là nguồn dinh dưỡng giúp mật độ sâu tăng mạnh."
+  },
+  {
+    "question": "Hình thức bảo quản nông sản nào trong các hộ gia đình sử dụng thiết bị gia dụng phổ biến nhất?",
+    "options": [
+      "Bảo quản bằng hệ thống chiếu xạ ion hóa",
+      "Bảo quản trong ngăn mát hoặc ngăn đá tủ lạnh",
+      "Bảo quản bằng khí nitơ lỏng áp suất cao",
+      "Bảo quản trong phòng áp suất âm hút chân không"
+    ],
+    "answer": "Bảo quản trong ngăn mát hoặc ngăn đá tủ lạnh",
+    "explanation": "Tủ lạnh gia đình sử dụng điện năng tạo môi trường nhiệt độ thấp là công cụ phổ thông nhất để người dân lưu trữ thực phẩm rau quả tươi."
+  },
+  {
+    "question": "Vì sao việc bón bổ sung phân hữu cơ hoai mục lại làm tăng đáng kể 'Dung tích hấp phụ' của đất trồng?",
+    "options": [
+      "Phân hữu cơ làm hòa tan các hạt cát to",
+      "Phân hữu cơ phân hủy tạo ra các hạt mùn hữu cơ có kích thước keo mang mật độ điện tích âm rất lớn bám giữ ion dinh dưỡng",
+      "Phân hữu cơ làm khô cạn dung dịch đất",
+      "Phân hữu cơ chứa các hạt nam châm sắt hút phân khoáng"
+    ],
+    "answer": "Phân hữu cơ phân hủy tạo ra các hạt mùn hữu cơ có kích thước keo mang mật độ điện tích âm rất lớn bám giữ ion dinh dưỡng",
+    "explanation": "Mùn là chất keo hữu cơ có diện tích bề mặt lớn và dung tích hấp phụ ion vượt trội so với keo vô cơ (sét), nâng cao lực giữ phân của đất."
+  },
+  {
+    "question": "Tại sao việc duy trì một lớp nước ngập sâu ổn định trong ruộng lúa lại có tác dụng ngăn chặn sự phát triển của phần lớn cỏ dại?",
+    "options": [
+      "Nước ngập làm hòa tan hoàn toàn thân cỏ dại thành nước",
+      "Lớp nước bít kín bề mặt ngăn cản sự tiếp xúc của Oxy khí quyển làm hạt cỏ dại hiếu khí không thể hô hấp để nảy mầm",
+      "Nước ngập làm tăng nồng độ muối NaCl giết cỏ",
+      "Nước che khuất hoàn toàn ánh sáng khiến cỏ không thể nhìn thấy đường mọc"
+    ],
+    "answer": "Lớp nước bít kín bề mặt ngăn cản sự tiếp xúc của Oxy khí quyển làm hạt cỏ dại hiếu khí không thể hô hấp để nảy mầm",
+    "explanation": "Đa số hạt cỏ dại cần điều kiện thoáng khí (oxy) để kích hoạt quá trình nảy mầm. Mực nước sâu tạo môi trường kị khí ức chế mầm cỏ phát triển."
+  },
+  {
+    "question": "Vì sao khi trồng rau thủy canh, người ta phải định kỳ sục khí oxy hoặc thiết kế hệ thống tuần hoàn dung dịch (thủy canh hồi lưu)?",
+    "options": [
+      "Để dòng nước chảy mạnh bẻ gãy bớt rễ rau thừa",
+      "Cung cấp oxy hòa tan cho tế bào rễ hô hấp hiếu khí, tránh rễ bị thối nhũn do thiếu khí lên men yếm khí",
+      "Để khuấy đều các viên đá sỏi dưới đáy máng",
+      "Để làm cho rau ăn lá có vị ngọt bùi hơn"
+    ],
+    "answer": "Cung cấp oxy hòa tan cho tế bào rễ hô hấp hiếu khí, tránh rễ bị thối nhũn do thiếu khí lên men yếm khí",
+    "explanation": "Rễ cây chìm trong nước rất dễ ngạt khí oxy. Sục khí hoặc luân chuyển nước giúp oxy không khí hòa tan liên tục vào dung dịch nuôi dưỡng bộ rễ khỏe mạnh."
+  },
+  {
+    "question": "Trong công nghệ gieo cấy lúa hiện đại bằng máy cấy tự động, tại sao khâu chuẩn bị mạ bắt buộc phải gieo trên các 'khay mạ' kích thước chuẩn?",
+    "options": [
+      "Để khay nhựa cung cấp chất dinh dưỡng trực tiếp nuôi mạ",
+      "Để tạo ra các thảm mạ có kích thước đồng đều, khít với cơ cấu tay gắp rơ-le cơ học của máy cấy tự động",
+      "Để người nông dân dễ dàng bế khay mạ đi dạo chơi ngoài ruộng",
+      "Để mạ không thể tiếp xúc với ánh sáng mặt trời tự nhiên"
+    ],
+    "answer": "Để tạo ra các thảm mạ có kích thước đồng đều, khít với cơ cấu tay gắp rơ-le cơ học của máy cấy tự động",
+    "explanation": "Máy cấy tự động lấy mạ theo nguyên lý gắp từng miếng thảm mạ. Gieo khay mạ chuẩn giúp định hình thảm mạ khít vào máy, đảm bảo cấy đều, không bỏ mũi."
+  },
+  {
+    "question": "Tại sao việc phun thuốc bảo vệ thực vật hóa học vào lúc trời nắng gắt giữa trưa mùa hè lại vừa lãng phí vừa giảm hiệu lực trừ sâu?",
+    "options": [
+      "Vì nắng gắt làm sâu hại bay lên trời trốn thoát",
+      "Nhiệt độ cao làm nước thuốc bốc hơi nhanh trước khi thấm vào sâu, đồng thời ánh sáng mạnh bẻ gãy hủy hoại cấu trúc hoạt chất hóa học của thuốc",
+      "Vì phun thuốc trưa nắng làm tăng độ pH của đất ruộng",
+      "Vì sâu hại thường ngủ đông vào thời điểm giữa trưa"
+    ],
+    "answer": "Nhiệt độ cao làm nước thuốc bốc hơi nhanh trước khi thấm vào sâu, đồng thời ánh sáng mạnh bẻ gãy hủy hoại cấu trúc hoạt chất hóa học của thuốc",
+    "explanation": "Nhiệt độ cao khiến dung môi bốc hơi nhanh, thuốc khô kết tinh trên lá không phát huy tác dụng tiếp xúc độc vị; tia cực tím mạnh phá hủy nhanh liên kết hóa học giảm độc lực thuốc."
+  },
+  {
+    "question": "Giải thích tại sao trong công nghệ bảo quản rau quả tươi, việc loại bỏ hoàn toàn khí Ethylene phát thải tự nhiên ra khỏi kho lưu trữ lại giúp kéo dài thời gian bảo quản?",
+    "options": [
+      "Vì khí Ethylene làm tăng trọng lượng của rau quả nhanh chóng",
+      "Ethylene là hormone thúc đẩy nhanh quá trình chín, lão hóa và phân hủy của mô thực vật; loại bỏ nó giúp kìm hãm rau quả ở trạng thái tươi xanh lâu hơn",
+      "Vì khí Ethylene có mùi hôi thu hút chuột kho",
+      "Vì khí Ethylene trực tiếp làm đông đá các tế bào quả tươi"
+    ],
+    "answer": "Ethylene là hormone thúc đẩy nhanh quá trình chín, lão hóa và phân hủy của mô thực vật; loại bỏ nó giúp kìm hãm rau quả ở trạng thái tươi xanh lâu hơn",
+    "explanation": "Ethylene có tính chất kích thích lan truyền tín hiệu ripening (chín tự nhiên). Dùng chất hấp phụ KMnO4 khử Ethylene trong kho giúp triệt tiêu tác nhân kích hoạt lão hóa quả."
+  },
+  {
+    "question": "Ý nghĩa chiến lược của việc ứng dụng hệ thống định vị toàn cầu (GPS) và bản đồ số địa hình trong canh tác nông nghiệp chính xác là gì?",
+    "options": [
+      "Giúp người quản lý trang trại không bị lạc đường khi đi dạo",
+      "Cho phép các thiết bị tự hành bón phân, phun thuốc biến thiên chính xác theo nhu cầu thiếu hụt dinh dưỡng thực tế của từng mét vuông đất",
+      "Để tăng chi phí viễn thông hàng tháng của doanh nghiệp",
+      "Biến đổi màu sắc của cây trồng hiển thị rõ trên màn hình điện thoại"
+    ],
+    "answer": "Cho phép các thiết bị tự hành bón phân, phun thuốc biến thiên chính xác theo nhu cầu thiếu hụt dinh dưỡng thực tế của từng mét vuông đất",
+    "explanation": "Nông nghiệp chính xác (Precision Agriculture) quét bản đồ độ phì nhiêu đất, GPS điều khiển vòi phun của máy rải phân phun nhiều ở chỗ nghèo, phun ít ở chỗ giàu dinh dưỡng."
+  },
+  {
+    "question": "Để xử lý triệt để bùn thải từ các nhà máy chế biến thủy sản thành phân bón hữu cơ sinh học an toàn, quy trình công nghệ nào cần được áp dụng?",
+    "options": [
+      "Phơi bùn khô dưới nắng rồi đóng bao bán ngay",
+      "Phối trộn bùn với phụ phẩm nông nghiệp giàu xenlulo, bón chế phẩm vi sinh hữu ích và tiến hành ủ đảo nhiệt độ cao (composting)",
+      "Đổ trực tiếp bùn thải vào hệ thống tưới nhỏ giọt",
+      "Sử dụng axit đậm đặc để hòa tan hoàn toàn bùn thải thành nước"
+    ],
+    "answer": "Phối trộn bùn với phụ phẩm nông nghiệp giàu xenlulo, bón chế phẩm vi sinh hữu ích và tiến hành ủ đảo nhiệt độ cao (composting)",
+    "explanation": "Ủ composting nhiệt độ sinh học tự thân lên đến 55-60 độ C giúp diệt sạch các loại vi khuẩn đường ruột (Salmonella, Coliform), biến protein động vật khó ngửi thành mùn an toàn."
+  },
+  {
+    "question": "Khi thiết kế một hệ thống trồng cây khí canh tự động hoàn chỉnh, bộ phận nào đóng vai trò trái tim điều khiển chu kỳ phun sương chính xác?",
+    "options": [
+      "Tấm xốp đỡ thân cây phía trên",
+      "Mạch rơ-le hẹn giờ tự động (Timer) kết hợp bơm áp lực cao và béc phun sương chuyên dụng",
+      "Thùng nhựa chứa nước dung dịch dự phòng",
+      "Đèn LED chiếu sáng bổ sung ánh sáng mặt trời"
+    ],
+    "answer": "Mạch rơ-le hẹn giờ tự động (Timer) kết hợp bơm áp lực cao và béc phun sương chuyên dụng",
+    "explanation": "Khí canh yêu cầu rễ phun ẩm ngắt quãng (ví dụ phun 10 giây nghỉ 5 phút). Hệ thống timer điều khiển bơm phun sương siêu mịn giữ rễ luôn ẩm mà không bị ngập úng ngạt thở."
+  },
+  {
+    "question": "Tại sao việc lạm dụng cày bừa đất quá sâu và liên tục nhiều vụ trên đất dốc vùng trung du mà không phủ xanh lại làm đất nhanh chóng biến thành đất trơ sỏi đá?",
+    "options": [
+      "Vì cày nhiều làm đất sinh ra các hạt sỏi mới",
+      "Cày xới liên tục làm phá vỡ hoàn toàn cấu trúc đoàn lạp của đất, mưa lớn cuốn trôi toàn bộ hạt mịn (sét, mùn) xuống hạ lưu, để lại đá tảng to",
+      "Vì cày sâu làm cạn kiệt nguồn nước ngầm mạch sâu",
+      "Vì lưỡi cày bằng sắt cọ xát tạo nhiệt làm biến tính đất"
+    ],
+    "answer": "Cày xới liên tục làm phá vỡ hoàn toàn cấu trúc đoàn lạp của đất, mưa lớn cuốn trôi toàn bộ hạt mịn (sét, mùn) xuống hạ lưu, để lại đá tảng to",
+    "explanation": "Cày xới thô bạo làm đất mất lớp liên kết sinh học thực vật bảo vệ. Khi mưa dầm, lực xối nước bóc tách các hạt hạt nhỏ trôi đi, đá to không trôi được nằm trơ lại mặt ruộng."
+  },
+  {
+    "question": "Thành phần cơ giới nào của đất giữ nước tốt nhất?",
+    "options": [
+      "Đất cát",
+      "Đất sét",
+      "Đất thịt",
+      "Đất sỏi"
+    ],
+    "answer": "Đất sét",
+    "explanation": "Hạt sét có kích thước siêu nhỏ, mật độ hạt dày đặc làm khe hở đất cực bé, giữ nước rất chặt."
+  },
+  {
+    "question": "Loại ion nào quyết định tính chua của đất trồng?",
+    "options": [
+      "Ion Na+",
+      "Ion H+ và Al3+",
+      "Ion OH-",
+      "Ion Ca2+"
+    ],
+    "answer": "Ion H+ và Al3+",
+    "explanation": "Sự có mặt tự do của các ion H+ và Al3+ trong dung dịch đất tạo nên môi trường axit, quyết định độ chua của đất."
+  },
+  {
+    "question": "Khi bón phân đạm cho cây, bộ phận nào của cây trồng sẽ phát triển mạnh mẽ nhất?",
+    "options": [
+      "Bộ rễ cọc bám sâu",
+      "Thân, cành và lá xanh",
+      "Hạt và quả chín",
+      "Hoa và đài hoa"
+    ],
+    "answer": "Thân, cành và lá xanh",
+    "explanation": "Phân đạm (Nitơ) thúc đẩy quá trình sinh trưởng sinh dưỡng, làm tăng nhanh sinh khối thân, cành và lá phát triển mơn mởn."
+  },
+  {
+    "question": "Ưu điểm cốt lõi của phân bón hữu cơ sinh học so với phân hữu cơ truyền thống là gì?",
+    "options": [
+      "Giá thành sản xuất rẻ hơn rất nhiều",
+      "Được chế biến công nghiệp, có mật độ vi sinh vật hữu ích cao và hàm lượng dưỡng chất ổn định sạch mầm bệnh hơn",
+      "Có thể hòa tan hoàn toàn vào nước để tưới nhỏ giọt giống phân hóa học",
+      "Chứa các chất độc hóa học xua đuổi côn trùng mạnh"
+    ],
+    "answer": "Được chế biến công nghiệp, có mật độ vi sinh vật hữu ích cao và hàm lượng dưỡng chất ổn định sạch mầm bệnh hơn",
+    "explanation": "Phân hữu cơ sinh học áp dụng quy trình lên men chuẩn hóa công nghiệp, cấy chủng vi sinh tuyển chọn nên sạch bệnh và giàu dinh dưỡng hơn phân chuồng thô."
+  },
+  {
+    "question": "Vật liệu vô cơ tự nhiên nào có nguồn gốc khoáng núi lửa xốp nhẹ thường được làm giá thể trồng rau mầm?",
+    "options": [
+      "Đá vôi",
+      "Đá Vermiculite hoặc đá Perlite",
+      "Cát xây dựng xám",
+      "Sỏi sông hạt to"
+    ],
+    "answer": "Đá Vermiculite hoặc đá Perlite",
+    "explanation": "Vermiculite và Perlite là các khoáng chất trương nở chịu nhiệt, có vô số lỗ rỗng li ti giữ ẩm cực tốt, vô trùng, hoàn hảo để ươm rau mầm sạch."
+  },
+  {
+    "question": "Trong kỹ thuật ghép cành, gốc ghép cần đạt tiêu chí quan trọng nào sau đây?",
+    "options": [
+      "Phải đang ra hoa kết quả thật nhiều",
+      "Phải thích nghi tốt với điều kiện thổ nhưỡng địa phương, có bộ rễ khỏe, sinh trưởng mạnh và kháng bệnh đất",
+      "Phải có thân cây hoàn toàn bị héo úa",
+      "Phải có cùng độ tuổi sinh học chính xác đến từng ngày với cành ghép"
+    ],
+    "answer": "Phải thích nghi tốt với điều kiện thổ nhưỡng địa phương, có bộ rễ khỏe, sinh trưởng mạnh và kháng bệnh đất",
+    "explanation": "Gốc ghép đóng vai trò nền móng, cung cấp nước và neo giữ cây, nên cần chọn những giống địa phương khỏe, chống chịu tốt với điều kiện bất lợi của đất đai."
+  },
+  {
+    "question": "Ưu điểm nổi bật nhất của cây con được sản xuất từ quy trình nuôi cấy mô là gì?",
+    "options": [
+      "Cây con có kích thước thân to lớn như cây trưởng thành",
+      "Đồng đều về mặt di truyền, số lượng lớn và hoàn toàn sạch virus bệnh hại",
+      "Cây không bao giờ cần phải tưới nước sau khi trồng",
+      "Cây con tự động tạo ra quả chín ngay khi ra bầu đất"
+    ],
+    "answer": "Đồng đều về mặt di truyền, số lượng lớn và hoàn toàn sạch virus bệnh hại",
+    "explanation": "Nuôi cấy mô từ mô phân sinh đỉnh loại bỏ được virus, sản xuất trong môi trường vô trùng tạo ra hàng loạt cây giống hoàn toàn sạch bệnh, đồng đều cao."
+  },
+  {
+    "question": "Loại bệnh hại nào sau đây thường làm xuất hiện lớp bột mịn màu trắng hoặc xám bao phủ trên bề mặt phiến lá?",
+    "options": [
+      "Bệnh thối nhũn do vi khuẩn",
+      "Bệnh phấn trắng do nấm gây ra",
+      "Bệnh khảm lá do virus",
+      "Bệnh vàng lá do thiếu hụt dinh dưỡng đạm"
+    ],
+    "answer": "Bệnh phấn trắng do nấm gây ra",
+    "explanation": "Bệnh phấn trắng đặc trưng bởi các sợi nấm và cơ quan sinh sản (bào tử) dạng bột màu trắng phủ đầy trên mặt lá như rắc phấn."
+  },
+  {
+    "question": "Hệ thống nhà màng hiện đại ứng dụng màng phủ bằng chất liệu Polyme (PE) có tính năng chính nào?",
+    "options": [
+      "Ngăn chặn hoàn toàn ánh sáng mặt trời chiếu vào bên trong",
+      "Cho ánh sáng quang hợp truyền qua tối đa nhưng ngăn mưa gió, sương muối và cách ly côn trùng phá hại",
+      "Tự động sản sinh ra khí Cacbonic bổ sung cho rau",
+      "Làm đông cứng nước tưới thành dạng sương tuyết"
+    ],
+    "answer": "Cho ánh sáng quang hợp truyền qua tối đa nhưng ngăn mưa gió, sương muối và cách ly côn trùng phá hại",
+    "explanation": "Màng PE nhà kính đặc chế bền bỉ bảo vệ không gian trồng trọt bên trong khỏi tác động cơ học thời tiết xấu mà vẫn đảm bảo đủ quang phổ ánh sáng cho cây quang hợp."
+  },
+  {
+    "question": "Mô hình sản xuất nông nghiệp công nghệ cao 'Canh tác đa tầng' hướng tới tối ưu hóa yếu tố nào?",
+    "options": [
+      "Tối ưu hóa lượng phân bón hóa học tưới vào ruộng",
+      "Tối ưu không gian diện tích canh tác theo chiều dọc và nâng cao hiệu suất sử dụng ánh sáng đèn LED",
+      "Tăng thời gian lao động thủ công của công nhân",
+      "Sử dụng thật nhiều sức kéo từ động vật"
+    ],
+    "answer": "Tối ưu không gian diện tích canh tác theo chiều dọc và nâng cao hiệu suất sử dụng ánh sáng đèn LED",
+    "explanation": "Canh tác đa tầng (Vertical Farming) xếp chồng các tầng khay trồng lên nhau, dùng ánh sáng nhân tạo kiểm soát tốt giúp nâng cao sản lượng trên một đơn vị diện tích mặt sàn."
+  },
+  {
+    "question": "Tại sao việc tưới nước nhiễm mặn (chứa nồng độ NaCl cao) kéo dài lại làm kết cấu vật lý của đất trồng bị suy thoái nghiêm trọng?",
+    "options": [
+      "Vì ion clo ăn mòn toàn bộ các hạt sét",
+      "Ion Na+ trong nước mặn thay thế các cation Ca2+, Mg2+ trên bề mặt keo đất, làm rã hệ keo khiến đất mất cấu trúc đoàn lạp và bị bết dính khi ướt, chai cứng khi khô",
+      "Vì muối làm tăng hàm lượng chất mùn hữu cơ lên mức quá tải",
+      "Vì nước mặn kích thích rễ cây ăn sâu phá nát các tầng đất"
+    ],
+    "answer": "Ion Na+ trong nước mặn thay thế các cation Ca2+, Mg2+ trên bề mặt keo đất, làm rã hệ keo khiến đất mất cấu trúc đoàn lạp và bị bết dính khi ướt, chai cứng khi khô",
+    "explanation": "Đất bị bão hòa ion Na+ (đất kiềm hóa/mặn hóa) sẽ bị phân tán hạt keo. Khi gặp nước đất nhão bùn, khi khô co lại tạo thành những khối nứt nẻ chai đanh."
+  },
+  {
+    "question": "Vì sao các loại phân bón chứa hàm lượng Phốt pho cao (như supe lân) thường được sử dụng để bón lót trước khi gieo trồng?",
+    "options": [
+      "Vì lân bốc hơi rất nhanh trong không khí",
+      "Lân khó tan, cần thời gian nằm trong đất để chuyển hóa dần, đồng thời giúp kích thích phát triển bộ rễ non ngay từ giai đoạn đầu của cây",
+      "Vì bón lân vào cuối vụ sẽ làm quả bị chua",
+      "Vì phân lân làm tăng độ axit của đất lên mức cực hạn"
+    ],
+    "answer": "Lân khó tan, cần thời gian nằm trong đất để chuyển hóa dần, đồng thời giúp kích thích phát triển bộ rễ non ngay từ giai đoạn đầu của cây",
+    "explanation": "Phân lân tan chậm và di động kém trong đất. Bón lót trộn sâu vào đất đảm bảo khi hạt nảy mầm ra rễ, rễ tiếp xúc ngay với lân để phát triển hệ rễ khỏe mạnh."
+  },
+  {
+    "question": "Tại sao việc bổ sung các chủng nấm Trichoderma vào đống ủ phân hữu cơ lại giúp rút ngắn thời gian ủ hoai mục?",
+    "options": [
+      "Vì Trichoderma tiết ra các chất hóa học đốt cháy rác thải",
+      "Trichoderma sản sinh mạnh mẽ enzyme cellulase phân hủy nhanh cấu trúc cellulose cứng của rơm rạ, xác thực vật thành mùn dễ tiêu",
+      "Vì nấm Trichoderma hút hết toàn bộ lượng nước thừa của đống ủ",
+      "Vì nấm này biến đổi phân hữu cơ thành phân vô cơ đạm tinh khiết"
+    ],
+    "answer": "Trichoderma sản sinh mạnh mẽ enzyme cellulase phân hủy nhanh cấu trúc cellulose cứng của rơm rạ, xác thực vật thành mùn dễ tiêu",
+    "explanation": "Xenluloza trong phế phẩm thực vật rất bền vững khó phân hủy tự nhiên. Trichoderma là nấm đối kháng có hệ enzyme phân giải chất xơ cực mạnh, tăng tốc độ mục nát."
+  },
+  {
+    "question": "Vì sao trong kỹ thuật chiết cành, sau khi khoanh vỏ cành cây, người ta phải cạo sạch lớp tượng tầng (lớp nhầy) trên đoạn gỗ trần trước khi bó bầu đất?",
+    "options": [
+      "Để cành chiết không thể hút được nước từ thân chính",
+      "Ngăn không cho lớp tượng tầng hình thành mạch dẫn mới nối liền vỏ, bít kín đường vận chuyển chất dinh dưỡng để kích thích cành ra rễ tại vết khoanh",
+      "Để làm cho cành chiết bị chết khô nhanh chóng",
+      "Để tạo độ bám dính cơ học cho lớp nilon bọc bên ngoài"
+    ],
+    "answer": "Ngăn không cho lớp tượng tầng hình thành mạch dẫn mới nối liền vỏ, bít kín đường vận chuyển chất dinh dưỡng để kích thích cành ra rễ tại vết khoanh",
+    "explanation": "Nếu cạo không sạch tượng tầng, các tế bào phân chia nối lại vỏ cây, dòng mạch rây thông suốt, chất dinh dưỡng đi qua bình thường và cành không phát sinh rễ."
+  },
+  {
+    "question": "Trong quy trình công nghệ nuôi cấy mô, tại sao việc điều chỉnh tỷ lệ nồng độ hai hormone Auxin và Cytokinin lại có ý nghĩa quyết định ở giai đoạn sinh sản?",
+    "options": [
+      "Để điều chỉnh màu sắc của dung dịch thạch Agar trong suốt",
+      "Tỉ lệ hàm lượng cân đối giữa 2 hormone quy định hướng biệt hóa mô: kích thích tạo chồi non (ưu thế Cytokinin) hoặc tạo rễ (ưu thế Auxin)",
+      "Để làm tăng tốc độ bốc hơi của chất dinh dưỡng trong bình",
+      "Để tiêu diệt các bào tử vi khuẩn gây nhiễm trùng chéo"
+    ],
+    "answer": "Tỉ lệ hàm lượng cân đối giữa 2 hormone quy định hướng biệt hóa mô: kích thích tạo chồi non (ưu thế Cytokinin) hoặc tạo rễ (ưu thế Auxin)",
+    "explanation": "Tương tác đối kháng sinh học giữa Auxin và Cytokinin kiểm soát sự phân hóa cơ quan thực vật. Thay đổi tỉ lệ này giúp nhà khoa học hướng mô tạo chồi trước, tạo rễ sau đúng quy trình."
+  },
+  {
+    "question": "Vì sao phương pháp sử dụng bẫy dính màu vàng lại có khả năng kiểm soát hiệu quả mật độ các loài côn trùng nhỏ như ruồi đục quả, bọ trĩ?",
+    "options": [
+      "Vì màu vàng tỏa ra độc tố hóa học xua đuổi côn trùng",
+      "Đặc tính sinh học của nhóm côn trùng này bị hấp dẫn thị giác mạnh mẽ bởi bước sóng ánh sáng màu vàng, chúng sẽ bay đến và dính chặt vào keo bẫy",
+      "Vì màu vàng làm côn trùng bị lóa mắt rơi xuống đất",
+      "Vì màng keo màu vàng chứa thức ăn đường mật ngon ngọt dẫn dụ"
+    ],
+    "answer": "Đặc tính sinh học của nhóm côn trùng này bị hấp dẫn thị giác mạnh mẽ bởi bước sóng ánh sáng màu vàng, chúng sẽ bay đến và dính chặt vào keo bẫy",
+    "explanation": "Đây là ứng dụng đặc tính xu hướng hướng màu (phototaxis) của côn trùng. Màu vàng mô phỏng màu của lá, hoa non thu hút ruồi bọ trĩ tự bay vào bẫy dính chết."
+  },
+  {
+    "question": "Tại sao trong công nghệ bảo quản nông sản tươi xuất khẩu, người ta thường đưa nông sản qua quy trình 'Xử lý bằng nước nóng' (HWT - Hot Water Treatment)?",
+    "options": [
+      "Để luộc chín sơ qua lớp vỏ ngoài của quả nông sản",
+      "Sốc nhiệt bằng nước nóng ở nhiệt độ kiểm soát giúp tiêu diệt trứng sâu hại, bào tử nấm bệnh bám trên vỏ quả mà không tổn thương thịt quả",
+      "Để nông sản ngậm nhiều nước tăng kích thước thương phẩm",
+      "Để tẩy sạch hoàn toàn màu sắc tự nhiên của vỏ trái cây"
+    ],
+    "answer": "Sốc nhiệt bằng nước nóng ở nhiệt độ kiểm soát giúp tiêu diệt trứng sâu hại, bào tử nấm bệnh bám trên vỏ quả mà không tổn thương thịt quả",
+    "explanation": "Biện pháp vật lý nhiệt độ (ví dụ 48 độ C trong 20 phút cho xoài) diệt triệt để nấm gây thán thư và trứng ruồi quả ẩn sâu trong vỏ, đáp ứng hàng rào kiểm dịch ngặt nghèo."
+  },
+  {
+    "question": "Nguyên lý vận hành cơ bản của hệ thống 'Tưới phun sương' trong nhà màng trồng hoa lan là gì?",
+    "options": [
+      "Dùng máy bơm đẩy dòng nước áp lực rất cao qua các béc phun thiết kế lỗ siêu nhỏ tạo ra các hạt nước mịn như hạt sương giúp tăng ẩm hạ nhiệt",
+      "Bơm toàn bộ nước ngập mặt chậu lan rồi rút cạn ngay lập tức",
+      "Sử dụng hơi nước nóng đun sôi từ lò súp-pê xông vào vườn",
+      "Tưới nước thông qua hệ thống nhỏ giọt ngầm dưới đáy chậu"
+    ],
+    "answer": "Dùng máy bơm đẩy dòng nước áp lực rất cao qua các béc phun thiết kế lỗ siêu nhỏ tạo ra các hạt nước mịn như hạt sương giúp tăng ẩm hạ nhiệt",
+    "explanation": "Áp suất kết hợp lỗ béc bé xé nhỏ dòng nước thành sương bay lơ lửng, bốc hơi nhanh hấp thụ nhiệt môi trường giúp làm mát không khí vườn lan dịu nhẹ."
+  },
+  {
+    "question": "Việc tích hợp công nghệ mã phản hồi nhanh (QR Code) dán trên nhãn mác bao bì nông sản VietGAP mang lại giá trị thực tiễn nào cho người tiêu dùng?",
+    "options": [
+      "Giúp quét mã để nhận tiền thưởng khuyến mãi bằng tiền mặt",
+      "Cho phép người dùng dùng điện thoại truy xuất toàn bộ nguồn gốc, lịch trình bón phân bón, phun thuốc, ngày thu hoạch của sản phẩm sạch",
+      "Tự động làm cho rau quả trong bao bì tươi lâu hơn",
+      "Để chứng minh bao bì được làm từ chất liệu nhựa tái chế"
+    ],
+    "answer": "Cho phép người dùng dùng điện thoại truy xuất toàn bộ nguồn gốc, lịch trình bón phân bón, phun thuốc, ngày thu hoạch của sản phẩm sạch",
+    "explanation": "Mã QR liên kết với cơ sở dữ liệu nhật ký điện tử trang trại, minh bạch hóa thông tin chuỗi cung ứng, xây dựng niềm tin tiêu dùng vững chắc."
+  },
+  {
+    "question": "Để thiết lập một mô hình sản xuất rau sạch khép kín không chất thải tại một vùng nông thôn nông nghiệp, giải pháp nào sau đây tối ưu nhất?",
+    "options": [
+      "Trồng rau hóa học, dùng thuốc trừ sâu xả thẳng ra kênh rạch",
+      "Ứng dụng trồng rau hữu cơ, phế phẩm rau làm thức ăn nuôi giun quế, dùng phân giun bón lại cho rau, nước thải sinh hoạt nuôi cá",
+      "Chỉ trồng rau thủy canh sử dụng các hóa chất hóa học nhập khẩu",
+      "Đốt toàn bộ diện tích đất sau mỗi đợt rau thu hoạch xong"
+    ],
+    "answer": "Ứng dụng trồng rau hữu cơ, phế phẩm rau làm thức ăn nuôi giun quế, dùng phân giun bón lại cho rau, nước thải sinh hoạt nuôi cá",
+    "explanation": "Mô hình sinh thái tuần hoàn tận dụng năng lực phân hủy của giun quế chuyển phế phẩm hữu cơ rau thành phân vermicompost giàu dinh dưỡng nhất trả lại cho đất, không phát thải rác."
+  },
+  {
+    "question": "Biện pháp cải tạo nào sau đây không phù hợp cho đất mặn?",
+    "options": [
+      "Bón nhiều vôi bột",
+      "Bón phân chua sinh lý (như Amoni sunfat) liên tục",
+      "Tháo nước ngọt vào ruộng cày bừa rồi tháo nước ra",
+      "Trồng các loài cây chịu mặn như đước, vẹt"
+    ],
+    "answer": "Bón phân chua sinh lý (như Amoni sunfat) liên tục",
+    "explanation": "Đất mặn cần đuổi ion Na+ bằng Ca2+ từ vôi hoặc rửa muối bằng nước ngọt. Bón phân chua sinh lý làm đất bị chua hóa suy thoái nặng nề hơn."
+  },
+  {
+    "question": "Phần lỏng của đất trồng có chứa thành phần nào sau đây?",
+    "options": [
+      "Nước nguyên chất 100%",
+      "Dung dịch đất gồm nước và các chất dinh dưỡng hòa tan",
+      "Các hạt keo đất hữu cơ kích thước khổng lồ",
+      "Lượng khí oxy bão hòa hoàn toàn"
+    ],
+    "answer": "Dung dịch đất gồm nước và các chất dinh dưỡng hòa tan",
+    "explanation": "Nước trong đất luôn hòa tan một lượng muối khoáng và khí tự do nhất định, tạo thành dung dịch đất trực tiếp nuôi dưỡng cây trồng."
+  },
+  {
+    "question": "Khả năng giữ nước của đất trồng phụ thuộc chủ yếu vào yếu tố nào?",
+    "options": [
+      "Độ sâu của tầng nước ngầm dưới lòng đất",
+      "Thành phần cơ giới của đất và hàm lượng chất mùn hữu cơ",
+      "Số lượng cây cỏ mọc hoang dại trên mặt luống",
+      "Chiều cao của địa hình so với mực nước biển"
+    ],
+    "answer": "Thành phần cơ giới của đất và hàm lượng chất mùn hữu cơ",
+    "explanation": "Hạt mịn (sét) và mùn hữu cơ tăng diện tích bề mặt hấp phụ hút giữ các phân tử nước bằng lực mao dẫn vật lý."
+  },
+  {
+    "question": "Loại phân bón nào sau đây chứa cả ba nguyên tố dinh dưỡng đa lượng Đạm, Lân, Kali?",
+    "options": [
+      "Phân Lân nung chảy",
+      "Phân Urê",
+      "Phân hỗn hợp NPK",
+      "Phân Kali clorua"
+    ],
+    "answer": "Phân hỗn hợp NPK",
+    "explanation": "Phân NPK viết tắt từ kí hiệu hóa học của Nitơ (N), Phốt pho (P) và Kali (K), là phân hỗn hợp đa lượng toàn diện."
+  },
+  {
+    "question": "Thành phần nào của phân bón vi sinh vật có chức năng trực tiếp phân giải chất hữu cơ?",
+    "options": [
+      "Các hóa chất tổng hợp axit mạnh",
+      "Các vi sinh vật sống tiết enzyme phân hủy cacbohydrat",
+      "Lớp vỏ đất sét bao bọc viên phân",
+      "Hàm lượng khoáng phốt pho đậm đặc"
+    ],
+    "answer": "Các vi sinh vật sống tiết enzyme phân hủy cacbohydrat",
+    "explanation": "Các chủng vi sinh vật (như vi khuẩn, xạ khuẩn, nấm) trong phân tiết ra các enzyme sinh học phân cắt các chuỗi polyme hữu cơ phức tạp thành phân tử đơn giản."
+  },
+  {
+    "question": "Vật liệu hữu cơ nào sau đây thường được ủ hoai mục làm giá thể trồng rau sạch đô thị?",
+    "options": [
+      "Mảnh xốp Polystyren (EPS)",
+      "Mùn cưa, vỏ trấu, xơ dừa",
+      "Sợi thủy tinh cách nhiệt",
+      "Cát vàng thô xây dựng"
+    ],
+    "answer": "Mùn cưa, vỏ trấu, xơ dừa",
+    "explanation": "Mùn cưa, vỏ trấu, xơ dừa là phế phẩm nông lâm nghiệp giàu hữu cơ cacbon, sau xử lý hoai mục thành giá thể nhẹ, xốp, thân thiện môi trường."
+  },
+  {
+    "question": "Trong phương pháp giâm cành, điều kiện môi trường quan trọng nhất giúp cành kích hoạt mầm rễ là gì?",
+    "options": [
+      "Ánh sáng mặt trời chiếu gay gắt liên tục",
+      "Độ ẩm của giá thể đất và không khí luôn cao, mát mẻ",
+      "Môi trường đất hoàn toàn khô ráo",
+      "Nhiệt độ môi trường đạt trên 50 độ C"
+    ],
+    "answer": "Độ ẩm của giá thể đất và không khí luôn cao, mát mẻ",
+    "explanation": "Ẩm độ cao giữ cành không héo rụng lá mất nước, tạo điều kiện thuận lợi để tế bào vùng vết cắt phân chia biệt hóa mô sẹo mọc rễ."
+  },
+  {
+    "question": "Ở giai đoạn 'ra rễ' của quy trình nuôi cấy mô, người ta thường bổ sung hormone thực vật nào vào môi trường?",
+    "options": [
+      "Hormone Cytokinin nồng độ cực cao",
+      "Hormone Auxin (ví dụ IBA, NAA) với tỉ lệ phù hợp",
+      "Khí Ethylene nồng độ đậm đặc",
+      "Axit sunfuric hòa tan loãng"
+    ],
+    "answer": "Hormone Auxin (ví dụ IBA, NAA) với tỉ lệ phù hợp",
+    "explanation": "Auxin là hormone chủ chốt điều khiển sự phát sinh hình thái rễ thực vật, kích thích các mầm rễ bất định đâm ra từ đáy chồi con."
+  },
+  {
+    "question": "Biện pháp kiểm dịch thực vật nhằm mục đích cốt lõi nào?",
+    "options": [
+      "Phun thuốc hóa học diệt sạch sâu hại ngoài ruộng",
+      "Ngăn chặn sự lây lan của các loài sâu bệnh hại nguy hiểm từ vùng này sang vùng khác, từ nước ngoài vào trong nước",
+      "Tăng cường bón phân đạm cho cây trồng xuất khẩu",
+      "Hướng dẫn người nông dân cách chế biến nông sản ngon hơn"
+    ],
+    "answer": "Ngăn chặn sự lây lan của các loài sâu bệnh hại nguy hiểm từ vùng này sang vùng khác, từ nước ngoài vào trong nước",
+    "explanation": "Kiểm dịch thực vật thiết lập hệ thống rào cản sinh học pháp lý tại ranh giới hành chính cửa khẩu giao thương để bảo vệ nền nông nghiệp nội địa."
+  },
+  {
+    "question": "Phương pháp chế biến nông sản nào giữ được tối đa hàm lượng chất dinh dưỡng và màu sắc nguyên bản của rau hoa quả?",
+    "options": [
+      "Phơi nắng thô ngoài đường lộ",
+      "Công nghệ sấy lạnh hoặc sấy thăng hoa",
+      "Luộc chín kỹ ở nhiệt độ cao",
+      "Ủ muối chua mặn nồng độ cao"
+    ],
+    "answer": "Công nghệ sấy lạnh hoặc sấy thăng hoa",
+    "explanation": "Sấy nhiệt độ thấp (sấy lạnh) hoặc sấy đông khô tách nước không dùng nhiệt cao, bảo toàn cấu trúc nhạy cảm nhiệt của vitamin, sắc tố trái cây."
+  },
+  {
+    "question": "Tại sao việc bón phân hữu cơ lâu dài lại có tác dụng ổn định chỉ số pH (độ chua) của đất trồng?",
+    "options": [
+      "Vì phân hữu cơ tự bốc hơi toàn bộ ion axit H+",
+      "Mùn hữu cơ có tính đệm cao, có khả năng hấp thu hoặc giải phóng H+ linh hoạt giúp ổn định độ chua của dung dịch đất",
+      "Vì phân hữu cơ biến đổi đất thành cát trung tính",
+      "Vì phân hữu cơ ngăn chặn tuyệt đối nước mưa rơi xuống đất"
+    ],
+    "answer": "Mùn hữu cơ có tính đệm cao, có khả năng hấp thu hoặc giải phóng H+ linh hoạt giúp ổn định độ chua của dung dịch đất",
+    "explanation": "Hệ keo mùn hữu cơ mang nhiều nhóm chức hóa học (carboxyl, hydroxyl) có khả năng đệm dập tắt sự thay đổi đột ngột nồng độ ion H+ tự do khi bón phân hóa học hóa chua."
+  },
+  {
+    "question": "Vì sao khi tưới nước nhỏ giọt kết hợp bón phân (hình thức hóa tưới - Fertigation) lại giúp tăng hiệu quả sử dụng phân bón vô cơ lên đáng kể?",
+    "options": [
+      "Vì phân vô cơ hòa vào nước sẽ biến thành phân hữu cơ",
+      "Phân bón được hòa tan nồng độ loãng chuẩn, đưa trực tiếp và đều đặn đến đúng vùng rễ tích cực hút khoáng, giảm thiểu thất thoát bay hơi, rửa trôi",
+      "Vì hình thức này làm chết các loại cỏ dại hút phân",
+      "Vì nước tưới nhỏ giọt làm phân bón tự tăng khối lượng"
+    ],
+    "answer": "Phân bón được hòa tan nồng độ loãng chuẩn, đưa trực tiếp và đều đặn đến đúng vùng rễ tích cực hút khoáng, giảm thiểu thất thoát bay hơi, rửa trôi",
+    "explanation": "Fertigation phân bổ phân khoáng thành những khẩu phần ăn nhỏ hằng ngày đúng vùng hoạt động sinh học rễ, tránh sốc phân bón bón lượng lớn một lúc trôi trượt mất."
+  },
+  {
+    "question": "Sự khác biệt bản chất về mặt kỹ thuật giữa phương pháp trồng cây bằng 'Thủy canh hồi lưu' và 'Thủy canh tĩnh' là gì?",
+    "options": [
+      "Thủy canh hồi lưu dùng đất thô; thủy canh tĩnh dùng xơ dừa",
+      "Thủy canh hồi lưu có dung dịch dinh dưỡng luân chuyển liên tục nhờ bơm tạo dòng chảy giàu oxy; thủy canh tĩnh dung dịch đứng yên dễ thiếu khí",
+      "Thủy canh tĩnh chỉ trồng được cây thân gỗ lớn cổ thụ",
+      "Thủy canh hồi lưu không cần sử dụng nguồn điện năng"
+    ],
+    "answer": "Thủy canh hồi lưu có dung dịch dinh dưỡng luân chuyển liên tục nhờ bơm tạo dòng chảy giàu oxy; thủy canh tĩnh dung dịch đứng yên dễ thiếu khí",
+    "explanation": "Dòng chảy tuần hoàn trong thủy canh hồi lưu cuốn theo không khí tạo nồng độ DO (oxy hòa tan) rất cao, ngăn cản hiện tượng thối rễ ngạt rễ ở thủy canh đứng yên lâu ngày."
+  },
+  {
+    "question": "Tại sao việc ứng dụng thiết bị cảm biến hồng ngoại trên máy bay không người lái lại có thể phát hiện sớm vùng trồng bị sâu hại phá hoại trước mắt thường?",
+    "options": [
+      "Vì sâu hại phát ra ánh sáng hồng ngoại ban đêm",
+      "Cây bị sâu tấn công phá hủy diệp lục hoặc stress mất nước sẽ thay đổi mức độ hấp thụ và phản xạ phổ bức xạ hồng ngoại gần so với cây khỏe mạnh",
+      "Vì máy bay có camera xuyên thấu tận ruột thân cây",
+      "Vì cảm biến hồng ngoại làm sâu hại phát nổ phát sáng"
+    ],
+    "answer": "Cây bị sâu tấn công phá hủy diệp lục hoặc stress mất nước sẽ thay đổi mức độ hấp thụ và phản xạ phổ bức xạ hồng ngoại gần so với cây khỏe mạnh",
+    "explanation": "Cảm biến đa phổ (Multispectral) chụp được bước sóng NIR. Lá khỏe phản xạ mạnh NIR, lá bệnh tổn thương cấu trúc xốp phản xạ yếu, tạo chỉ số NDVI cảnh báo sớm dịch bệnh."
+  },
+  {
+    "question": "Vì sao việc đóng gói nông sản tươi vào các túi nhựa có đục lỗ vi mô (bao bì MAP - Modified Atmosphere Packaging) lại kéo dài thời gian tươi ngon?",
+    "options": [
+      "Túi nhựa bít kín không cho nông sản tiếp xúc trọng lực",
+      "Lỗ vi mô tự điều hòa cân bằng mức khí O2 thấp (2-5%) và CO2 cao thích hợp thông qua cơ chế thẩm thấu khuếch tán, giảm thiểu tốc độ lão hóa",
+      "Túi nhựa bơm đầy chất bảo quản hóa học độc hại",
+      "Túi nhựa biến đổi cấu trúc đường trái cây thành vitamin"
+    ],
+    "answer": "Lỗ vi mô tự điều hòa cân bằng mức khí O2 thấp (2-5%) và CO2 cao thích hợp thông qua cơ chế thẩm thấu khuếch tán, giảm thiểu tốc độ lão hóa",
+    "explanation": "Bao bì khí quyển biến đổi (MAP) tận dụng chính sự hô hấp tự thân của quả tiêu thụ O2 sinh CO2 kết hợp màng phim đục lỗ vi màng giữ thành phần khí lý tưởng làm ngủ trái cây."
+  },
+  {
+    "question": "Khi lập kế hoạch chuyển đổi một nông trại canh tác hóa học truyền thống sang trang trại thông minh đạt chuẩn hữu cơ quốc tế, bước đi nào đầu tiên mang tính bắt buộc?",
+    "options": [
+      "Mua sắm ngay hàng loạt robot thu hoạch nông sản",
+      "Tiến hành giai đoạn chuyển đổi (đất nghỉ) cách ly đất, nước khỏi hóa chất độc hại từ 1 đến 3 năm và lấy mẫu kiểm nghiệm tồn dư độc chất",
+      "Phun thuốc kích thích sinh trưởng toàn bộ diện tích rừng",
+      "Tăng cường quảng cáo thương hiệu trên các sàn điện tử"
+    ],
+    "answer": "Tiến hành giai đoạn chuyển đổi (đất nghỉ) cách ly đất, nước khỏi hóa chất độc hại từ 1 đến 3 năm và lấy mẫu kiểm nghiệm tồn dư độc chất",
+    "explanation": "Đất thâm canh hóa chất cần thời gian rửa trôi, vi sinh vật tự nhiên phục hồi. Tiêu chuẩn hữu cơ quy định nghiêm ngặt thời gian chuyển đổi sạch nền đất nước trước khi cấp chứng nhận."
+  },
+  {
+    "question": "Đâu là thành phần cơ giới chính của đất trồng?",
+    "options": [
+      "Hạt vô cơ (cát, limon, sét)",
+      "Lớp phủ nilon bề mặt",
+      "Các mảnh vỡ thủy tinh",
+      "Phân bón đạm Urê hạt tròn"
+    ],
+    "answer": "Hạt vô cơ (cát, limon, sét)",
+    "explanation": "Theo SGK Công nghệ 10, thành phần cơ giới phần vô cơ đất được hợp thành từ 3 kích thước hạt cơ bản: cát, thịt (limon) và sét."
+  },
+  {
+    "question": "Tính chất trung tính của đất được xác định khi pH nằm trong khoảng nào?",
+    "options": [
+      "pH dưới 4.0",
+      "pH từ 6.5 đến 7.5",
+      "pH trên 8.5",
+      "pH dao động từ 1.0 đến 3.0"
+    ],
+    "answer": "pH từ 6.5 đến 7.5",
+    "explanation": "Khoảng pH từ 6.5 đến 7.5 là khoảng trung tính tối ưu cho đại đa số các phản ứng sinh hóa của đất và đa phần cây trồng thích nghi."
+  },
+  {
+    "question": "Phân bón vô cơ đa lượng phổ biến nhất cung cấp nguyên tố nào cho cây trồng?",
+    "options": [
+      "Sắt, Đồng, Kẽm",
+      "Nitơ, Phốt pho, Kali",
+      "Canxi, Magiê, Lưu huỳnh",
+      "Cacbon, Hydro, Oxy"
+    ],
+    "answer": "Nitơ, Phốt pho, Kali",
+    "explanation": "N, P, K là các chất đa lượng bổ sung hàng đầu qua phân hóa học thương mại (như Urê, Supe lân, Kali clorua)."
+  },
+  {
+    "question": "Đặc điểm nổi bật của phân bón vi sinh vật là gì?",
+    "options": [
+      "Hòa tan cực nhanh làm cây lớn sau 1 ngày",
+      "An toàn, thân thiện môi trường, giúp cải tạo đất bền vững nhờ các chủng vi sinh sống",
+      "Có hàm lượng chất dinh dưỡng vô cơ đậm đặc nhất",
+      "Gây hại trầm trọng cho giun đất và nguồn nước ngầm"
+    ],
+    "answer": "An toàn, thân thiện môi trường, giúp cải tạo đất bền vững nhờ các chủng vi sinh sống",
+    "explanation": "Phân vi sinh không gây tồn dư độc hại, hoạt động sinh học của vi sinh vật góp phần làm tơi xốp đất, bảo vệ hệ sinh thái ruộng."
+  },
+  {
+    "question": "Vật liệu hữu cơ từ phế phẩm nhà máy đường thường được xử lý làm giá thể là gì?",
+    "options": [
+      "Bã mía đã qua xử lý",
+      "Vỏ trấu tươi nguyên hạt",
+      "Hạt nhựa xốp trắng",
+      "Đá trân châu núi lửa nung"
+    ],
+    "answer": "Bã mía đã qua xử lý",
+    "explanation": "Bã mía chứa lượng xơ xenlulo lớn, sau khi ép hết đường được ủ lên men xử lý nấm mốc tạo thành chất nền hữu cơ tơi xốp giữ ẩm tốt."
+  },
+  {
+    "question": "Phương pháp nhân giống vô tính nào cắm trực tiếp đoạn cành vào bầu đất ẩm để tạo rễ?",
+    "options": [
+      "Gieo hạt hữu tính",
+      "Giâm cành",
+      "Chiết cành thân cao",
+      "Ghép mắt áp cành"
+    ],
+    "answer": "Giâm cành",
+    "explanation": "Giâm cành tách biệt hẳn một bộ phận cành bánh tẻ từ cây mẹ đưa vào môi trường ẩm tạo lập cây con độc lập hoàn toàn."
+  },
+  {
+    "question": "Môi trường cấy mô thực vật trong phòng thí nghiệm được tiệt trùng bằng thiết bị nào?",
+    "options": [
+      "Tủ lạnh ngăn mát",
+      "Nồi hấp khử trùng áp suất cao (Autoclave)",
+      "Lò vi sóng gia dụng",
+      "Quạt thông gió sấy khô"
+    ],
+    "answer": "Nồi hấp khử trùng áp suất cao (Autoclave)",
+    "explanation": "Nồi hấp dùng hơi nước bão hòa nhiệt độ 121 độ C, áp suất 1 atm để tiêu diệt tất cả các tế bào vi khuẩn và bào tử nấm cứng đầu trong môi trường dinh dưỡng."
+  },
+  {
+    "question": "Tác nhân sinh học nào sau đây truyền bệnh khảm lá cho cây trồng?",
+    "options": [
+      "Nấm ký sinh sợi",
+      "Vi khuẩn gram âm",
+      "Virus (siêu vi trùng)",
+      "Tuyến trùng đất"
+    ],
+    "answer": "Virus (siêu vi trùng)",
+    "explanation": "Bệnh khảm lá đặc trưng do virus gây tổn thương mã di truyền cấu trúc diệp lục lá, tạo các vết loang lổ xanh vàng đan xen."
+  },
+  {
+    "question": "Hoạt động nào sau đây thuộc biện pháp kỹ thuật canh tác phòng trừ sâu bệnh?",
+    "options": [
+      "Phun thuốc hóa học phổ rộng",
+      "Luân canh, xen canh cây trồng, vệ sinh đồng ruộng",
+      "Thả ong mắt đỏ ăn sâu non",
+      "Bắt sâu bằng tay kéo cơ học"
+    ],
+    "answer": "Luân canh, xen canh cây trồng, vệ sinh đồng ruộng",
+    "explanation": "Canh tác bao gồm các chuỗi thao tác quản lý ruộng đồng (luân canh, làm sạch gốc rạ) tạo môi trường bất lợi cho sâu hại cư trú định cư."
+  },
+  {
+    "question": "Công nghệ CAS trong bảo quản nông sản sử dụng yếu tố vật lý đặc biệt nào bên cạnh nhiệt độ âm?",
+    "options": [
+      "Dòng điện cao áp chạy qua quả",
+      "Từ trường kết hợp sóng điện từ yếu để giữ nước không bị đóng băng phá vỡ màng tế bào",
+      "Tia phóng xạ gamma năng lượng cao",
+      "Luồng khí gas gas công nghiệp"
+    ],
+    "answer": "Từ trường kết hợp sóng điện từ yếu để giữ nước không bị đóng băng phá vỡ màng tế bào",
+    "explanation": "Hệ thống CAS rung động phân tử nước bằng từ trường nhẹ, giữ nước trạng thái siêu lạnh mà không tạo tinh thể đá sắc nhọn đâm thủng vách tế bào nông sản."
+  },
+  {
+    "question": "Vì sao bón phân kali hóa học đầy đủ lại giúp cây lúa chống chịu tốt với hiện tượng đổ ngã khi gặp mưa gió?",
+    "options": [
+      "Vì kali làm tăng trọng lượng bông lúa nặng thêm kéo xuống",
+      "Kali tham gia điều hòa áp suất thẩm thấu, tăng cường độ dày vách tế bào cơ giới giúp thân cây cứng cáp dẻo dai",
+      "Vì kali làm rễ lúa ngắn lại bám chắc hơn",
+      "Vì kali biến đổi thân lúa mềm thành kết cấu kim loại sắt"
+    ],
+    "answer": "Kali tham gia điều hòa áp suất thẩm thấu, tăng cường độ dày vách tế bào cơ giới giúp thân cây cứng cáp dẻo dai",
+    "explanation": "Kali hoạt hóa enzym tổng hợp xenluloza và sừng hóa mô sợi cơ giới thân, làm bẹ lúa dày dai, nâng lực đỡ mô cơ học trước ngoại lực cơ học bão gió."
+  },
+  {
+    "question": "Tại sao ruộng trồng rau sạch ứng dụng công nghệ VietGAP lại hạn chế tối đa việc sử dụng nguồn nước mương rạch lộ thiên chưa qua xử lý gần khu dân cư để tưới?",
+    "options": [
+      "Vì nước mương rạch quá ấm làm chết rau",
+      "Nguồn nước lộ thiên chứa nguy cơ cao ô nhiễm vi sinh vật gây hại (E.coli, Salmonella) và kim loại nặng vượt ngưỡng an toàn",
+      "Vì nước mương rạch làm trôi mất các hạt cát của đất",
+      "Vì tưới nước này làm giảm pH đất trồng một cách đột ngột"
+    ],
+    "answer": "Nguồn nước lộ thiên chứa nguy cơ cao ô nhiễm vi sinh vật gây hại (E.coli, Salmonella) và kim loại nặng vượt ngưỡng an toàn",
+    "explanation": "Nước thải sinh hoạt chăn nuôi xả kênh rạch mang mật độ khuẩn đường ruột lớn. Tưới trực tiếp rau ăn tươi gây nhiễm khuẩn bề mặt, mất an toàn sinh học trầm trọng."
+  },
+  {
+    "question": "Vì sao trong kỹ thuật nhân giống vô tính bằng nuôi cấy mô tế bào, việc chọn nguồn mẫu ban đầu là 'Mô phân sinh đỉnh chồi' lại cho hiệu quả tạo cây sạch virus cao nhất?",
+    "options": [
+      "Vì mô phân sinh đỉnh chồi có chứa nhiều thuốc trừ sâu sinh học",
+      "Tế bào mô phân sinh đỉnh chồi phân chia rất nhanh, tốc độ sinh trưởng vượt xa tốc độ lây lan nhân đôi của virus dọc theo mạch dẫn",
+      "Vì đỉnh chồi là nơi không bao giờ tiếp xúc với không khí bên ngoài",
+      "Vì tế bào đỉnh chồi có lớp vỏ bằng gỗ bảo vệ virus lọt vào"
+    ],
+    "answer": "Tế bào mô phân sinh đỉnh chồi phân chia rất nhanh, tốc độ sinh trưởng vượt xa tốc độ lây lan nhân đôi của virus dọc theo mạch dẫn",
+    "explanation": "Hệ thống mạch dẫn chưa hình thành hoàn chỉnh ở vùng đỉnh sinh trưởng tận cùng. Tế bào phân tách tốc độ cao tạo nên một vùng sạch bóng các tiểu phần virus ký sinh."
+  },
+  {
+    "question": "Tại sao việc phun thuốc diệt nấm hóa học định kỳ liên tục ngay cả khi không có triệu chứng bệnh lại là một sai lầm kỹ thuật nghiêm trọng trong canh tác bền vững?",
+    "options": [
+      "Làm cho cây trồng bị rụng hết toàn bộ bộ rễ non",
+      "Gây lãng phí chi phí, ô nhiễm hệ vi sinh vật có ích trong đất và thúc đẩy nhanh quá trình hình thành các chủng nấm đột biến kháng thuốc",
+      "Làm tăng hàm lượng nước trong quả lên mức quá tải gây thối chín",
+      "Làm cho đất bị biến tính hoàn toàn thành cát biển trắng"
+    ],
+    "answer": "Gây lãng phí chi phí, ô nhiễm hệ vi sinh vật có ích trong đất và thúc đẩy nhanh quá trình hình thành các chủng nấm đột biến kháng thuốc",
+    "explanation": "Lạm dụng hóa chất tạo áp lực chọn lọc nhân tạo đào thải chủng yếu, nhân chủng siêu kháng. Đồng thời tiêu diệt nấm đối kháng tự nhiên (như nấm ấm), làm hệ sinh thái mất cân bằng tự vệ."
+  },
+  {
+    "question": "Vì sao các loại kho lạnh thông minh hiện nay lại sử dụng cảm biến kiểm soát nồng độ khí Cacbonic (CO2) không cho vượt quá ngưỡng 10%?",
+    "options": [
+      "Vì CO2 nồng độ cao quá mức sẽ gây cháy nổ kho lạnh",
+      "Nồng độ CO2 tăng quá cao sẽ gây ngộ độc hô hấp tế bào nông sản, dẫn đến hiện tượng hô hấp kị khí làm hỏng thối từ ruột quả",
+      "Vì CO2 làm tăng nhiệt độ của kho lạnh lên mức đóng băng",
+      "Vì khí CO2 làm mất hoàn toàn mùi hương tự nhiên của các loại hoa"
+    ],
+    "answer": "Nồng độ CO2 tăng quá cao sẽ gây ngộ độc hô hấp tế bào nông sản, dẫn đến hiện tượng hô hấp kị khí làm hỏng thối từ ruột quả",
+    "explanation": "CO2 cao mức vừa phải kìm hãm hô hấp (ngủ), nhưng vượt ngưỡng sinh lý gây ức chế hoàn toàn chuỗi truyền điện tử tế bào quả, ép tế bào lên men hủy hoại chất hữu cơ nội tại."
+  }
+]

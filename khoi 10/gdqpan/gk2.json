@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Loại bom nào sau đây là bom thông thường?",
+    "options": [
+      "Bom phá",
+      "Bom từ trường",
+      "Bom laser",
+      "Bom nổ chậm"
+    ],
+    "answer": "Bom phá",
+    "explanation": "Bom phá là loại bom thông thường sử dụng sức nổ của thuốc nổ phá hủy các mục tiêu công trình, hầm hào, xe cộ và sinh lực địch."
+  },
+  {
+    "question": "Tác hại lớn nhất của bom cháy đối với con người là gì?",
+    "options": [
+      "Gây ra sóng chấn động mạnh làm sập nhà",
+      "Gây bỏng nặng, ngộ độc khí độc và hỏa hoạn diện rộng",
+      "Gây nhiễu loạn toàn bộ hệ thống thông tin liên lạc",
+      "Làm ô nhiễm phóng xạ nguồn nước"
+    ],
+    "answer": "Gây bỏng nặng, ngộ độc khí độc và hỏa hoạn diện rộng",
+    "explanation": "Bom cháy chứa các chất cháy như napalm, phốt pho, khi nổ tạo ra nhiệt độ rất cao gây bỏng sâu và giải phóng khí độc gây ngạt cho con người."
+  },
+  {
+    "question": "Theo Luật Phòng, chống thiên tai, hiện tượng nào sau đây được phân loại là thiên tai?",
+    "options": [
+      "Chập điện cháy nhà dân",
+      "Bão, áp thấp nhiệt đới, lũ lụt, hạn hán",
+      "Tai nạn giao thông đường bộ",
+      "Vỡ đường ống nước sinh hoạt"
+    ],
+    "answer": "Bão, áp thấp nhiệt đới, lũ lụt, hạn hán",
+    "explanation": "Bão, áp thấp nhiệt đới, lũ, lụt, hạn hán, sạt lở đất là các hiện tượng tự nhiên bất thường có thể gây thiệt hại về người và tài sản, được gọi là thiên tai."
+  },
+  {
+    "question": "Khi nghe tín hiệu báo động có bom, đạn từ máy bay địch tấn công, hành động đầu tiên cần làm là gì?",
+    "options": [
+      "Nhanh chóng di chuyển xuống hầm trú ẩn hoặc tìm nơi che chắn an toàn",
+      "Chạy ra sân trống để quan sát hướng máy bay",
+      "Thu gom toàn bộ đồ đạc có giá trị trong nhà",
+      "Gọi điện thoại cho người thân để thông báo"
+    ],
+    "answer": "Nhanh chóng di chuyển xuống hầm trú ẩn hoặc tìm nơi che chắn an toàn",
+    "explanation": "Khi có báo động phòng không, việc quan trọng nhất để bảo toàn tính mạng là lập tức ẩn nấp vào công trình kiên cố hoặc hầm trú ẩn gần nhất."
+  },
+  {
+    "question": "Động tác quay tại chỗ trong điều lệnh đội ngũ gồm có bao nhiêu hướng quay cơ bản?",
+    "options": [
+      "2 hướng",
+      "3 hướng",
+      "4 hướng",
+      "5 hướng"
+    ],
+    "answer": "3 hướng",
+    "explanation": "Động tác quay tại chỗ gồm có 3 hướng quay cơ bản: Quay bên phải, quay bên trái và quay đằng sau."
+  },
+  {
+    "question": "Khi nhận lệnh thực hiện động tác quay bên phải, chiến sĩ phải dùng bộ phận nào của bàn chân để làm trụ?",
+    "options": [
+      "Gót bàn chân phải và mũi bàn chân trái",
+      "Mũi bàn chân phải và gót bàn chân trái",
+      "Gót hai bàn chân",
+      "Mũi hai bàn chân"
+    ],
+    "answer": "Gót bàn chân phải và mũi bàn chân trái",
+    "explanation": "Theo Điều lệnh Đội ngũ, khi quay bên phải, lấy gót chân phải và mũi chân trái làm trụ, quay người sang phải một góc 90 độ."
+  },
+  {
+    "question": "Trong động tác quay đằng sau, người chiến sĩ phải quay mặt về phía bên nào?",
+    "options": [
+      "Quay sang phía bên trái",
+      "Quay sang phía bên phải",
+      "Quay hướng nào cũng được",
+      "Lùi lại một bước rồi mới quay"
+    ],
+    "answer": "Quay sang phía bên phải",
+    "explanation": "Động tác quay đằng sau quy định người chiến sĩ lấy gót chân phải và mũi chân trái làm trụ, quay người sang phải một góc 180 độ về phía sau."
+  },
+  {
+    "question": "Độ dài bước đi thông thường của người chiến sĩ khi thực hiện động tác đi đều là bao nhiêu centimét?",
+    "options": [
+      "60 centimét",
+      "75 centimét",
+      "90 centimét",
+      "100 centimét"
+    ],
+    "answer": "75 centimét",
+    "explanation": "Trong Điều lệnh Đội ngũ Quân đội nhân dân Việt Nam, độ dài bước đi cơ bản của động tác đi đều đối với nam chiến sĩ là 75 centimét tính từ gót chân này đến gót chân kia."
+  },
+  {
+    "question": "Tốc độ đi đều quy định trong điều lệnh đội ngũ là bao nhiêu bước trong một phút?",
+    "options": [
+      "100 bước một phút",
+      "110 bước một phút",
+      "120 bước một phút",
+      "130 bước một phút"
+    ],
+    "answer": "110 bước một phút",
+    "explanation": "Tốc độ chuẩn khi thực hiện động tác đi đều hành tiến là 110 bước trong thời gian một phút."
+  },
+  {
+    "question": "Khi đang đi đều, nếu muốn dừng lại, người chỉ huy sẽ hô dự lệnh và động lệnh như thế nào?",
+    "options": [
+      "Dự lệnh: Đứng lại, Động lệnh: Đứng",
+      "Dự lệnh: Đứng, Động lệnh: Lại",
+      "Chỉ hô một từ: Đứng",
+      "Chỉ hô một từ: Lại"
+    ],
+    "answer": "Dự lệnh: Đứng lại, Động lệnh: Đứng",
+    "explanation": "Khẩu lệnh dừng bước chuẩn xác là: Dự lệnh hô từ 'Đứng lại', sau đó động lệnh hô rõ từ 'Đứng'."
+  },
+  {
+    "question": "Khi nghe động lệnh 'Đứng' trong lúc đi đều, chiến sĩ phải thực hiện tiếp mấy bước chân rồi mới dừng lại?",
+    "options": [
+      "Dừng lại ngay lập tức",
+      "Đi tiếp 1 bước",
+      "Đi tiếp 2 bước",
+      "Đi tiếp 3 bước"
+    ],
+    "answer": "Đi tiếp 1 bước",
+    "explanation": "Khi động lệnh 'Đứng' rơi vào chân nào, chiến sĩ bước tiếp chân kia lên một bước, sau đó kéo chân sau về tư thế đứng nghiêm."
+  },
+  {
+    "question": "Tốc độ chạy đều quy định trong điều lệnh đội ngũ là bao nhiêu bước trong một phút?",
+    "options": [
+      "150 bước một phút",
+      "170 bước một phút",
+      "190 bước một phút",
+      "200 bước một phút"
+    ],
+    "answer": "170 bước một phút",
+    "explanation": "Tốc độ chuẩn khi thực hiện động tác chạy đều di chuyển đội ngũ trong quân đội là 170 bước trong thời gian một phút."
+  },
+  {
+    "question": "Đội ngũ tiểu đội gồm có bao nhiêu hàng dọc cơ bản khi tập hợp?",
+    "options": [
+      "Tiểu đội chỉ tập hợp thành 1 hàng dọc hoặc 2 hàng dọc",
+      "Tiểu đội luôn luôn phải tập hợp thành 4 hàng dọc",
+      "Tiểu đội chỉ tập hợp hàng ngang, không tập hợp hàng dọc",
+      "Tiểu đội tập hợp thành bao nhiêu hàng dọc cũng được"
+    ],
+    "answer": "Tiểu đội chỉ tập hợp thành 1 hàng dọc hoặc 2 hàng dọc",
+    "explanation": "Theo quy định cấu trúc quân số nhỏ, đội ngũ tiểu đội có các đội hình cơ bản là tiểu đội 1 hàng ngang, 2 hàng ngang, 1 hàng dọc và 2 hàng dọc."
+  },
+  {
+    "question": "Ai là người đứng đầu chỉ huy trực tiếp các hoạt động của một tiểu đội?",
+    "options": [
+      "Trung đội trưởng",
+      "Tiểu đội trưởng",
+      "Chính trị viên trung đội",
+      "Đại đội trưởng"
+    ],
+    "answer": "Tiểu đội trưởng",
+    "explanation": "Tiểu đội trưởng là người chỉ huy trực tiếp cao nhất của tiểu đội, chịu trách nhiệm quản lý và điều hành mọi thành viên trong tiểu đội."
+  },
+  {
+    "question": "Khi tập hợp đội hình tiểu đội hàng ngang, vị trí đứng của tiểu đội trưởng là ở đâu?",
+    "options": [
+      "Đứng ở giữa đội hình hàng ngang",
+      "Đứng bên phải người số 1 của đội hình tiểu đội",
+      "Đứng phía sau hàng ngang của tiểu đội",
+      "Đứng bên trái người cuối cùng của hàng ngang"
+    ],
+    "answer": "Đứng bên phải người số 1 của đội hình tiểu đội",
+    "explanation": "Khi tập hợp đội hình hàng ngang, tiểu đội trưởng đứng ở bên phải người số 1 để làm chuẩn và chỉ huy đội hình."
+  },
+  {
+    "question": "Mục đích cơ bản của các tư thế vận động trong chiến đấu là gì?",
+    "options": [
+      "Để nâng cao vẻ đẹp thẩm mỹ khi duyệt binh",
+      "Nhanh chóng bí mật tiếp cận mục tiêu, tìm nơi che khuất che đỡ và tiêu diệt địch, bảo vệ mình",
+      "Để rèn luyện thể lực cơ bắp đơn thuần cho chiến sĩ",
+      "Để kéo dài thời gian hành quân trên chiến trường"
+    ],
+    "answer": "Nhanh chóng bí mật tiếp cận mục tiêu, tìm nơi che khuất che đỡ và tiêu diệt địch, bảo vệ mình",
+    "explanation": "Các động tác vận động như đi khom, bò, trườn giúp chiến sĩ tận dụng địa hình để ẩn nấp an toàn, tiếp cận áp sát địch một cách bất ngờ để tiêu diệt mục tiêu."
+  },
+  {
+    "question": "Động tác đi khom trong chiến đấu thường được áp dụng trong trường hợp địa hình như thế nào?",
+    "options": [
+      "Nơi địa hình trống trải, bằng phẳng không có vật che khuất",
+      "Nơi địa hình có vật che khuất, che đỡ cao ngang tầm ngực hoặc tầm bụng",
+      "Nơi địa hình có bãi mìn dày đặc của địch",
+      "Khi phải vượt qua các con sông sâu và rộng"
+    ],
+    "answer": "Nòng cơ bản: Nơi địa hình có vật che khuất, che đỡ cao ngang tầm ngực hoặc tầm bụng",
+    "explanation": "Động tác đi khom giúp hạ thấp chiều cao cơ thể, phù hợp vận động ở nơi có bờ ruộng, bụi cây cao ngang tầm ngực hoặc bụng để địch khó phát hiện."
+  },
+  {
+    "question": "Động tác bò cao trong chiến đấu thường được áp dụng khi người chiến sĩ cần di chuyển trong hoàn cảnh nào?",
+    "options": [
+      "Khi di chuyển qua địa hình có vật che khuất cao hơn tư thế ngồi, cần vận động êm ái, bí mật",
+      "Khi phải vượt qua bức tường cao trên 2 mét",
+      "Khi địch đang bắn xối xả vào ngay vị trí đứng",
+      "Khi di chuyển trên mặt đường bê tông bằng phẳng ban ngày"
+    ],
+    "answer": "Khi di chuyển qua địa hình có vật che khuất cao hơn tư thế ngồi, cần vận động êm ái, bí mật",
+    "explanation": "Bò cao (bằng hai tay và hai đầu gối hoặc hai bàn chân) áp dụng ở nơi có vật che khuất cao hơn tư thế ngồi, đêm tối trời, cần di chuyển tiếp cận địch một cách tuyệt đối im lặng."
+  },
+  {
+    "question": "Động tác lê trong chiến đấu là tư thế dịch chuyển cơ thể bằng bộ phận nào là chủ yếu?",
+    "options": [
+      "Sử dụng hai tay nâng toàn bộ cơ thể bước đi",
+      "Đặt nghiêng người, dùng một tay và một chân đẩy cơ thể nhích dần về phía trước",
+      "Nằm sấp dùng hai mũi bàn chân đẩy người đi",
+      "Đi bằng hai đầu gối"
+    ],
+    "answer": "Đặt nghiêng người, dùng một tay và một chân đẩy cơ thể nhích dần về phía trước",
+    "explanation": "Động tác lê yêu cầu người chiến sĩ nằm nghiêng, dùng một tay làm điểm tựa phối hợp với một chân đẩy để dịch chuyển thân người tiến lên."
+  },
+  {
+    "question": "Động tác trườn trong chiến đấu thường áp dụng khi người chiến sĩ gặp địa hình như thế nào?",
+    "options": [
+      "Địa hình rất trống trải, bằng phẳng, sát gần địch và vật che khuất rất thấp",
+      "Địa hình có nhiều rừng cây rậm rạp cao quá đầu người",
+      "Khi di chuyển bên trong các hầm hào kiên cố",
+      "Khi hành quân ban đêm qua các vùng đầm lầy"
+    ],
+    "answer": "Địa hình rất trống trải, bằng phẳng, sát gần địch và vật che khuất rất thấp",
+    "explanation": "Trườn (trườn thấp, trườn cao) giúp cơ thể áp sát tối đa xuống mặt đất, áp dụng khi vật che khuất cực kỳ thấp và vị trí đã ở rất gần tầm quan sát, tuyến bắn của địch."
+  },
+  {
+    "question": "Điểm khác biệt lớn nhất giữa bom thông minh và bom thông thường là gì?",
+    "options": [
+      "Bom thông minh có khối lượng thuốc nổ lớn gấp trăm lần bom thông thường",
+      "Bom thông minh được tích hợp hệ thống điều khiển tự động hướng dẫn tìm đến mục tiêu",
+      "Bom thông minh không bao giờ phát nổ khi rơi xuống nước",
+      "Bom thông minh chỉ được thả từ tàu ngầm dưới biển sâu"
+    ],
+    "answer": "Bom thông minh được tích hợp hệ thống điều khiển tự động hướng dẫn tìm đến mục tiêu",
+    "explanation": "Bom thông minh (bom tinh khôn) sử dụng công nghệ laser, định vị vệ tinh để tự động hiệu chỉnh đường bay, giúp đánh trúng mục tiêu với độ chính xác cực kỳ cao so với bom rơi tự do thông thường."
+  },
+  {
+    "question": "Tại sao khi ẩn nấp trong hầm trú ẩn chống bom phá, người ta lại khuyên nên há mồm hoặc dùng tay bít nhẹ lỗ tai?",
+    "options": [
+      "Để dễ dàng hô hấp nhận oxy",
+      "Để cân bằng áp suất giữa khoang tai giữa và môi trường, tránh bị rách màng nhĩ do sóng xung kích",
+      "Để không ngửi thấy mùi khói thuốc súng",
+      "Để giữ cho cơ mặt không bị co giật vì sợ hãi"
+    ],
+    "answer": "Để cân bằng áp suất giữa khoang tai giữa và môi trường, tránh bị rách màng nhĩ do sóng xung kích",
+    "explanation": "Sức nổ bom phá tạo ra sóng xung kích làm thay đổi áp suất không khí đột ngột. Há mồm giúp thông áp qua vòi tai, bảo vệ màng nhĩ không bị tổn thương nghiêm trọng."
+  },
+  {
+    "question": "Biện pháp phòng chống dịch bệnh lây nhiễm diện rộng nào sau đây mang tính chủ động và có hiệu quả lâu dài nhất?",
+    "options": [
+      "Chờ khi mắc bệnh rồi mới đến bệnh viện tìm thuốc chữa",
+      "Tiêm chủng vắc-xin đầy đủ theo khuyến cáo y tế và giữ gìn vệ sinh môi trường",
+      "Đóng kín toàn bộ cửa nhà và từ chối giao tiếp với thế giới bên ngoài",
+      "Chỉ ăn rau xanh và không ăn các loại thực phẩm khác"
+    ],
+    "answer": "Tiêm chủng vắc-xin đầy đủ theo khuyến cáo y tế và giữ gìn vệ sinh môi trường",
+    "explanation": "Tiêm vắc-xin giúp cơ thể tạo ra kháng thể chủ động chống lại mầm bệnh, kết hợp vệ sinh môi trường để cắt đứt nguồn lây, là giải pháp căn cơ nhất để phòng dịch."
+  },
+  {
+    "question": "Khẩu lệnh 'Nghiêm' và 'Nghỉ' trong điều lệnh đội ngũ có điểm gì chung?",
+    "options": [
+      "Đều là khẩu lệnh chỉ có động lệnh, không có dự lệnh",
+      "Đều là khẩu lệnh có cả dự lệnh và động lệnh kéo dài",
+      "Đều yêu cầu chiến sĩ phải giơ tay chào",
+      "Đều yêu cầu chiến sĩ phải chạy về phía trước"
+    ],
+    "answer": "Đều là khẩu lệnh chỉ có động lệnh, không có dự lệnh",
+    "explanation": "Khẩu lệnh 'Nghiêm' hay 'Nghỉ' người chỉ huy chỉ hô một từ ngắn, gọn, dứt khoát. Đây là loại khẩu lệnh chỉ có động lệnh."
+  },
+  {
+    "question": "Sự khác biệt cơ bản giữa tư thế đứng 'Nghiêm' và tư thế đứng 'Nghỉ' là gì?",
+    "options": [
+      "Tư thế nghiêm hai tay giơ cao; tư thế nghỉ hai tay buông thõng",
+      "Tư thế nghiêm dồn đều trọng lực vào hai chân; tư thế nghỉ dồn trọng lực vào một chân hoặc chùng gối",
+      "Tư thế nghiêm mắt nhìn xuống đất; tư thế nghỉ mắt nhìn lên trời",
+      "Tư thế nghiêm chân khép kín; tư thế nghỉ hai chân mở rộng bằng hai vai"
+    ],
+    "answer": "Tư thế nghiêm dồn đều trọng lực vào hai chân; tư thế nghỉ dồn trọng lực vào một chân hoặc chùng gối",
+    "explanation": "Đứng nghiêm đòi hỏi dồn đều trọng lượng cơ thể vào hai chân để giữ thân người thẳng, nghiêm túc. Đứng nghỉ giúp cơ thể thư giãn bằng cách chùng một bên gối, dồn trọng lượng sang chân còn lại."
+  },
+  {
+    "question": "Khi thực hiện động tác đi đều, việc đánh tay của chiến sĩ phải tuân theo nguyên tắc nào?",
+    "options": [
+      "Tay đánh về phía trước thoải mái tự do cao tùy ý, tay đánh về sau càng mạnh càng tốt",
+      "Tay ra phía trước cao ngang ngực và khuỷu tay gập lại, tay ra phía sau thẳng tự nhiên",
+      "Cả hai tay giữ nguyên áp sát vào đùi không được cử động",
+      "Đánh hai tay cùng một hướng về phía trước"
+    ],
+    "answer": "Tay ra phía trước cao ngang ngực và khuỷu tay gập lại, tay ra phía sau thẳng tự nhiên",
+    "explanation": "Điều lệnh quy định khi đi đều: tay ra phía trước cánh tay dưới nâng lên song song với mặt đất cao ngang tầm ngực; tay ra phía sau đánh thẳng tự nhiên ra sau hợp với thân người một góc khoảng 30 độ."
+  },
+  {
+    "question": "Điểm khác biệt chính giữa động tác 'Giậm chân' và động tác 'Đi đều' là gì?",
+    "options": [
+      "Động tác giậm chân không có tiếng bước chân chạm đất",
+      "Động tác giậm chân nâng cao đùi di chuyển tại chỗ, còn đi đều là bước tiến về phía trước",
+      "Động tác giậm chân không sử dụng khẩu lệnh chỉ huy",
+      "Động tác giậm chân chỉ thực hiện khi đội ngũ ngồi xuống"
+    ],
+    "answer": "Động tác giậm chân nâng cao đùi di chuyển tại chỗ, còn đi đều là bước tiến về phía trước",
+    "explanation": "Giậm chân là động tác nhấc chân lên đặt xuống liên tục tại vị trí đang đứng (tại chỗ) để duy trì nhịp điệu đội ngũ trước khi hành tiến hoặc dừng lại. Đi đều là chuyển động tịnh tiến."
+  },
+  {
+    "question": "Khi tiểu đội trưởng hô khẩu lệnh 'Nhìn trước - THẲNG', các chiến sĩ trong tiểu đội hàng dọc phải thực hiện động tác gì?",
+    "options": [
+      "Tất cả quay mặt sang bên phải để gióng hàng",
+      "Người đứng sau nhìn thẳng vào gáy người đứng trước để gióng cho thẳng hàng dọc và giữ đúng cự ly",
+      "Ngồi xuống đất để người chỉ huy kiểm tra quân số",
+      "Tự động giải tán đi về vị trí cũ"
+    ],
+    "answer": "Người đứng sau nhìn thẳng vào gáy người đứng trước để gióng cho thẳng hàng dọc và giữ đúng cự ly",
+    "explanation": "Khẩu lệnh gióng hàng dọc yêu cầu các thành viên đứng sau căn chỉnh vị trí sao cho thân người nằm trên một đường thẳng thẳng hàng với người đứng trước, nhìn thẳng vào gáy đối phương."
+  },
+  {
+    "question": "Trong bước điểm số của tiểu đội hàng ngang, người chiến sĩ cuối cùng của hàng có nhiệm vụ gì đặc biệt?",
+    "options": [
+      "Điểm số của mình xong rồi quay mặt sang phải",
+      "Điểm số của mình xong phải hô to từ 'HẾT' để tiểu đội trưởng biết",
+      "Không cần điểm số mà chỉ đứng nghiêm",
+      "Tự động chạy lên báo cáo quân số trực tiếp"
+    ],
+    "answer": "Điểm số của mình xong phải hô to từ 'HẾT' để tiểu đội trưởng biết",
+    "explanation": "Quy trình điểm số hàng ngang: các chiến sĩ quay mặt sang trái hô số của mình. Người cuối cùng không quay mặt, hô to số thứ tự của mình kèm theo từ 'HẾT' để báo hiệu kết thúc."
+  },
+  {
+    "question": "Khi thực hiện tư thế đi khom cao trong chiến đấu, hai tay của người chiến sĩ giữ vũ khí ở tư thế nào?",
+    "options": [
+      "Đeo súng sau lưng để hai tay bám vào đất",
+      "Súng sẵn sàng ở tư thế chiến đấu, mắt luôn hướng về phía mục tiêu",
+      "Giơ súng lên cao qua đầu để báo hiệu cho đồng đội",
+      "Kẹp súng vào nách và cúi đầu chạy thật nhanh"
+    ],
+    "answer": "Súng sẵn sàng ở tư thế chiến đấu, mắt luôn hướng về phía mục tiêu",
+    "explanation": "Dù vận động ở bất kỳ tư thế nào trong chiến đấu (khom, lê, bò), súng luôn phải được giữ chắc chắn ở vị trí sẵn sàng bắn, tầm mắt hướng về phía trước để phát hiện mục tiêu địch."
+  },
+  {
+    "question": "Tại sao động tác chạy khom ít được sử dụng liên tục trên quãng đường dài trong chiến đấu?",
+    "options": [
+      "Vì chạy khom tốn rất ít calo của cơ thể",
+      "Vì tư thế chạy khom gò bó, nhanh gây mỏi cơ và làm giảm tốc độ di chuyển cực đại của chiến sĩ",
+      "Vì chạy khom làm cho vũ khí dễ bị cướp cò phát nổ",
+      "Vì chạy khom chỉ được thực hiện khi có lệnh của cấp đại đội"
+    ],
+    "answer": "Vì tư thế chạy khom gò bó, nhanh gây mỏi cơ và làm giảm tốc độ di chuyển cực đại của chiến sĩ",
+    "explanation": "Chạy khom yêu cầu người chiến sĩ phải vừa gập lưng thấp vừa tăng tốc độ chạy. Tư thế này trái tự nhiên nên gây mỏi lưng và đùi rất nhanh, không thể duy trì trên quãng đường hành tiến quá dài."
+  },
+  {
+    "question": "Điểm khác biệt cơ bản giữa động tác bò cao bằng hai tay, hai đầu gối và động tác bò cao bằng hai tay, hai bàn chân là gì?",
+    "options": [
+      "Bò bằng bàn chân di chuyển chậm hơn bò bằng đầu gối",
+      "Bò bằng hai bàn chân giúp thân người nâng cao hơn, di chuyển nhanh hơn nhưng dễ lộ hơn bò bằng đầu gối",
+      "Bò bằng đầu gối chỉ thực hiện trên mặt nước sâu",
+      "Bò bằng bàn chân không thể mang theo vũ khí cá nhân"
+    ],
+    "answer": "Bò bằng hai bàn chân giúp thân người nâng cao hơn, di chuyển nhanh hơn nhưng dễ lộ hơn bò bằng đầu gối",
+    "explanation": "Bò cao bằng hai bàn chân (tư thế mông nhô cao) giúp bước đi dài và nhanh hơn, áp dụng khi cần cơ động gấp qua địa hình vật che khuất tương đối cao, còn bò bằng đầu gối áp dụng khi cần hạ thấp thân người hơn."
+  },
+  {
+    "question": "Khi thực hiện động tác lê tiến về phía trước, chân làm trụ đẩy thân người di chuyển cần chú ý điều gì?",
+    "options": [
+      "Phải co lên, dùng cạnh trong của bàn chân và đầu gối đạp mạnh vào mặt đất để đẩy người tiến lên",
+      "Phải duỗi thẳng tắp ra phía sau và không cử động",
+      "Phải giơ cao lên khỏi mặt đất để tránh đá sỏi",
+      "Phải bắt chéo sang chân bên kia"
+    ],
+    "answer": "Phải co lên, dùng cạnh trong của bàn chân và đầu gối đạp mạnh vào mặt đất để đẩy người tiến lên",
+    "explanation": "Động tác lê sử dụng lực đẩy của một bên chân. Chân đó co lên phía sau, dùng cạnh trong bàn chân đè mạnh, tạo lực ma sát đẩy toàn bộ cơ thể trượt về phía trước theo hướng nằm nghiêng."
+  },
+  {
+    "question": "Tại sao khi thực hiện động tác trườn, chiến sĩ bắt buộc phải áp sát bụng và ngực xuống mặt đất?",
+    "options": [
+      "Để mặt đất làm dịu nhiệt độ cơ thể khi trời nóng",
+      "Để hạ thấp tối đa chiều cao cơ thể, tránh tầm bắn thẳng và sự phát hiện của hỏa lực địch",
+      "Để dễ dàng thu nhặt các vật dụng rơi trên đất",
+      "Để giữ cho quân phục không bị gió thổi bay"
+    ],
+    "answer": "Để hạ thấp tối đa chiều cao cơ thể, tránh tầm bắn thẳng và sự phát hiện của hỏa lực địch",
+    "explanation": "Trườn áp dụng khi khoảng cách với địch rất gần, địa hình trống trải nguy hiểm. Áp sát bụng ngực xuống đất giúp giảm diện tích bộc lộ sinh lực trước luồng đạn bắn thẳng từ phía địch."
+  },
+  {
+    "question": "Trong trường hợp bất ngờ bị địch bắn xối xả vào đội hình khi đang vận động, hành động xử lý chiến thuật đúng đắn nhất là gì?",
+    "options": [
+      "Đứng thẳng người và chạy thật nhanh quay ngược lại phía sau",
+      "Nhanh chóng nằm sấp xuống, lợi dụng ngay các bờ đất, hốc cây gần nhất để ẩn nấp và quan sát địch",
+      "Ngồi sụp xuống khóc và chờ đồng đội đến cứu",
+      "Bắn bừa bãi lên trời để uy hiếp tinh thần đối phương"
+    ],
+    "answer": "Nhanh chóng nằm sấp xuống, lợi dụng ngay các bờ đất, hốc cây gần nhất để ẩn nấp và quan sát địch",
+    "explanation": "Phản xạ chiến thuật đầu tiên khi bị hỏa lực bắn bất ngờ là phải lập tức nằm áp sát mặt đất để giảm nguy cơ trúng đạn, sau đó tìm góc che khuất để tổ chức phòng ngự hoặc bắn trả."
+  },
+  {
+    "question": "Khi ở trong khu vực xảy ra lũ quét, hành động nào sau đây là an toàn và chính xác nhất?",
+    "options": [
+      "Chạy dọc theo dòng dòng nước lũ để tìm chỗ lội qua",
+      "Nhanh chóng di chuyển lên các vùng đất cao, kiên cố hoặc sườn núi dốc an toàn",
+      "Trú ẩn dưới chân các vách đất dốc dựng đứng",
+      "Leo lên nóc các nhà tạm, nhà vách đất đơn sơ"
+    ],
+    "answer": "Nhanh chóng di chuyển lên các vùng đất cao, kiên cố hoặc sườn núi dốc an toàn",
+    "explanation": "Lũ quét có tốc độ dòng chảy cực lớn và sức tàn phá kinh hoàng. Tránh lũ quét bằng cách nhanh chóng thoát khỏi vùng trũng, di chuyển lên các vị trí cao ráo, kiên cố nằm ngoài đường đi của dòng lũ."
+  },
+  {
+    "question": "Nếu phát hiện một vật thể lạ nghi là bom hoặc mìn cũ còn sót lại sau chiến tranh ở trong vườn nhà, em sẽ xử lý như thế nào?",
+    "options": [
+      "Dùng gậy chọc thử hoặc dùng đá ném vào xem vật đó có nổ không",
+      "Tự ý đào lên đem đi bán phế liệu để kiếm tiền",
+      "Giữ nguyên hiện trạng, không chạm vào vật thể, cảnh báo mọi người xung quanh tránh xa và báo ngay cho chính quyền địa phương",
+      "Rủ các bạn xung quanh đến xem và cùng khiêng vật thể đi chỗ khác"
+    ],
+    "answer": "Giữ nguyên hiện trạng, không chạm vào vật thể, cảnh báo mọi người xung quanh tránh xa và báo ngay cho chính quyền địa phương",
+    "explanation": "Bom mìn cũ còn sót lại rất nhạy nổ và nguy hiểm. Tuyệt đối không được tác động lực vào vật thể mà phải giữ nguyên vị trí, cách ly khu vực và báo lực lượng công binh xử lý."
+  },
+  {
+    "question": "Khi thực hiện động tác đổi chân trong lúc đi đều (do đi sai nhịp bước), lỗi sai phổ biến mà chiến sĩ thường mắc phải là gì?",
+    "options": [
+      "Nhảy lò cò liên tục quá ba bước trên mặt đất",
+      "Không thay đổi tốc độ đánh tay phối hợp làm mất thăng bằng cơ thể",
+      "Dừng hẳn lại đứng nghiêm rồi mới đi tiếp bằng chân khác",
+      "Giơ hai tay lên cao qua đầu khi thực hiện bước nhảy"
+    ],
+    "answer": "Không thay đổi tốc độ đánh tay phối hợp làm mất thăng bằng cơ thể",
+    "explanation": "Khi đổi chân, chiến sĩ phải thực hiện một bước nhảy đệm ngắn tại chỗ. Nếu không giữ chắc nhịp đánh tay phối hợp hài hòa, thân người sẽ bị giật cục và làm rối loạn đội hình xung quanh."
+  },
+  {
+    "question": "Tại sao trong đội hình tiểu đội hàng ngang, việc gióng hàng đúng khoảng cách giữa các chiến sĩ lại có ý nghĩa quan trọng?",
+    "options": [
+      "Để các chiến sĩ có thể nói chuyện dễ dàng hơn với nhau",
+      "Để tạo sự thống nhất, chính quy, đẹp mắt và thuận tiện cho việc thực hiện các động tác di chuyển tiếp theo mà không bị va chạm",
+      "Để người chỉ huy dễ dàng đếm số lượng người từ xa",
+      "Để chuẩn bị cho việc giải tán đội ngũ nhanh hơn"
+    ],
+    "answer": "Để tạo sự thống nhất, chính quy, đẹp mắt và thuận tiện cho việc thực hiện các động tác di chuyển tiếp theo mà không bị va chạm",
+    "explanation": "Gióng hàng chuẩn giúp cự ly giữa các cá nhân đồng đều. Khi đội hình chuyển trạng thái di chuyển (đi đều, chạy đều), các vị trí không bị dẫm chân lên nhau hoặc bị quá loãng đội hình."
+  },
+  {
+    "question": "Điểm mấu chốt để phân biệt động tác 'Đi khom thấp' và 'Đi khom cao' trong chiến đấu là gì?",
+    "options": [
+      "Đi khom thấp bắt buộc phải bò bằng hai tay",
+      "Độ gập của phần lưng và độ chùng của hai đầu gối sâu hơn để hạ thấp cơ thể tối đa",
+      "Đi khom thấp chỉ được thực hiện vào ban đêm",
+      "Đi khom thấp không được phép mang theo súng bên người"
+    ],
+    "answer": "Độ gập của phần lưng và độ chùng của hai đầu gối sâu hơn để hạ thấp cơ thể tối đa",
+    "explanation": "Đi khom thấp áp dụng khi vật che khuất thấp hơn. Do đó, người chiến sĩ phải cúi lưng sâu hơn, gối chùng thấp hơn nhiều so với đi khom cao để đảm bảo toàn bộ cơ thể nằm dưới tầm nhìn của địch."
+  },
+  {
+    "question": "Khi thực hiện động tác bò cao mang theo súng tiểu liên AK, súng được cố định hoặc giữ như thế nào?",
+    "options": [
+      "Súng đeo chéo sau lưng, tay không cần giữ súng",
+      "Súng thường được kẹp vào nách hoặc đặt trên cẳng tay, nòng súng hướng về phía trước sẵn sàng chiến đấu",
+      "Súng cắm thẳng báng xuống đất để làm gậy chống",
+      "Tay trái cầm nòng súng giơ thẳng lên trời"
+    ],
+    "answer": "Súng thường được kẹp vào nách hoặc đặt trên cẳng tay, nòng súng hướng về phía trước sẵn sàng chiến đấu",
+    "explanation": "Khi bò cao, súng được đặt trên cẳng tay hoặc kẹp nách để giải phóng lòng bàn tay bám đất di chuyển, nhưng nòng súng luôn hướng phía trước bảo đảm an toàn và tác chiến ngay khi cần."
+  },
+  {
+    "question": "Tại sao khi di chuyển bằng động tác trườn qua khu vực có dây thép gai của địch, chiến sĩ không được nhấc mông cao?",
+    "options": [
+      "Vì nhấc mông cao sẽ làm quân phục dễ bị bẩn do bùn đất",
+      "Vì nhấc mông cao sẽ vướng vào các dây kẽm gai phía trên gây lộ vị trí hoặc kích nổ mìn bẫy",
+      "Vì nhấc mông cao làm chậm tốc độ đẩy của hai chân",
+      "Vì điều lệnh chiến đấu cấm tuyệt đối việc nhấc mông"
+    ],
+    "answer": "Vì nhấc mông cao sẽ vướng vào các dây kẽm gai phía trên gây lộ vị trí hoặc kích nổ mìn bẫy",
+    "explanation": "Hàng rào vướng mắc thép gai của địch được thiết kế thấp và đan dày, thường gài mìn nổ. Nhấc mông cao làm tăng nguy cơ vướng vào gai, gây tiếng động hoặc kích hoạt hệ thống bẫy nổ."
+  },
+  {
+    "question": "Khi nghe khẩu lệnh 'Giải tán' từ tiểu đội trưởng, các chiến sĩ trong hàng phải thực hiện động tác gì trước khi rời vị trí?",
+    "options": [
+      "Tự động quay lưng bước đi ngay lập tức không cần làm gì",
+      "Đứng nghiêm, thực hiện động tác quay đằng sau rồi mới giải tán",
+      "Tất cả đồng loạt hô to từ 'RÕ' rồi mới rời khỏi hàng ngũ",
+      "Đứng nghiêm, chú ý quan sát chỉ huy rồi rời hàng một cách trật tự"
+    ],
+    "answer": "Đứng nghiêm, chú ý quan sát chỉ huy rồi rời hàng một cách trật tự",
+    "explanation": "Khi có lệnh giải tán, đội ngũ phải đứng ở tư thế nghiêm để biểu thị sự tập trung nghe hết lệnh, sau đó mới tản ra di chuyển tự do một cách có kỷ luật."
+  },
+  {
+    "question": "Đâu là biện pháp xử lý an toàn nhất khi em đang ở trong phòng học tầng 3 mà xảy ra một trận động đất mạnh?",
+    "options": [
+      "Hoảng loạn la hét và lập tức chen lấn chạy ra phía cầu thang máy",
+      "Nhanh chóng ẩn nấp dưới gầm bàn học kiên cố, dùng cặp sách che đầu để tránh vật rơi và chờ rung lắc giảm dần",
+      "Nhảy ngay từ cửa sổ tầng 3 xuống sân trường để thoát thân",
+      "Đứng sát cạnh các tủ kính lớn đựng thiết bị thí nghiệm"
+    ],
+    "answer": "Nhanh chóng ẩn nấp dưới gầm bàn học kiên cố, dùng cặp sách che đầu để tránh vật rơi và chờ rung lắc giảm dần",
+    "explanation": "Khi động đất mạnh ở nhà cao tầng, việc chạy ra cầu thang rất nguy hiểm vì cấu trúc dễ sập và chen lấn. Nấp dưới gầm bàn chắc chắn giúp bảo vệ đầu khỏi trần nhà rơi xuống."
+  },
+  {
+    "question": "Yếu tố nào sau đây quyết định tính chính xác của động tác quay tại chỗ trong điều lệnh đội ngũ?",
+    "options": [
+      "Sự phối hợp nhịp nhàng giữa lực quay của thân người và vị trí đặt trục chân chính xác",
+      "Trọng lượng cơ thể của người chiến sĩ phải thật nhẹ",
+      "Đôi giày quân nhu phải có độ trơn trượt cao",
+      "Khẩu lệnh của người chỉ huy phải kéo dài liên tục"
+    ],
+    "answer": "Sự phối hợp nhịp nhàng giữa lực quay của thân người và vị trí đặt trục chân chính xác",
+    "explanation": "Quay tại chỗ chuẩn xác, không bị lệch trục hay mất thăng bằng đòi hỏi phải phối hợp lực xoay của hông cùng việc chọn đúng gót chân/mũi chân làm trụ vững chắc theo quy định."
+  },
+  {
+    "question": "Giả sử một tiểu đội đang hành tiến bằng động tác đi đều, tiểu đội trưởng muốn toàn đội chuyển sang trạng thái chạy đều thì phải phát khẩu lệnh như thế nào?",
+    "options": [
+      "Hô to từ 'Chạy đều' ngay lập tức mà không cần dự lệnh",
+      "Hô dự lệnh: 'Chạy đều -', sau đó hô động lệnh: 'CHẠY'",
+      "Hô khẩu lệnh: 'Đứng lại - ĐỨNG' rồi mới cho chạy",
+      "Hô khẩu lệnh: 'Bước nhanh hơn'"
+    ],
+    "answer": "Hô dự lệnh: 'Chạy đều -', sau đó hô động lệnh: 'CHẠY'",
+    "explanation": "Chuyển trạng thái từ đi đều sang chạy đều cần có dự lệnh 'Chạy đều -' để chiến sĩ chuẩn bị chuyển bước và động lệnh 'CHẠY' dứt khoát để đồng loạt tăng tốc bấm nhịp chạy."
+  },
+  {
+    "question": "Trong chiến đấu, nếu phải vượt qua một bãi cát phẳng, trống trải dài 20 mét dưới tầm quan sát từ xa của kính ngắm địch, tư thế vận động nào tối ưu nhất?",
+    "options": [
+      "Thực hiện động tác đi khom cao để đi cho nhanh",
+      "Áp dụng động tác trườn thấp, kết hợp lợi dụng các gợn cát nhỏ để di chuyển bí mật",
+      "Chạy thẳng đứng người zigzag đánh lạc hướng",
+      "Thực hiện động tác bò cao bằng hai tay hai đầu gối"
+    ],
+    "answer": "Áp dụng động tác trườn thấp, kết hợp lợi dụng các gợn cát nhỏ để di chuyển bí mật",
+    "explanation": "Địa hình phẳng trống trải dưới tầm nhìn kính ngắm bắn tỉa cực kỳ nguy hiểm. Trườn thấp giúp cơ thể phẳng dẹt tối đa, hòa lẫn vào cát và tận dụng các mấp mô nhỏ để che giấu thân mình."
+  },
+  {
+    "question": "Khi đang thực hiện động tác đi đều, chiến sĩ phát hiện mình bước chân phải lên trùng với tiếng động lệnh 'MỘT' của người chỉ huy (nhịp chuẩn là chân trái rơi vào nhịp Một). Sửa lỗi này bằng cách nào?",
+    "options": [
+      "Dừng lại hoàn toàn 3 giây rồi đi tiếp bằng chân trái",
+      "Thực hiện động tác đổi chân bằng cách bước một bước đệm ngắn để chuyển nhịp bước chân trái rơi vào nhịp tiếp theo",
+      "Kệ lỗi sai và tiếp tục đi bình thường đến hết bài",
+      "Cố tình đi ngược lại hoàn toàn với cả hàng"
+    ],
+    "answer": "Thực hiện động tác đổi chân bằng cách bước một bước đệm ngắn để chuyển nhịp bước chân trái rơi vào nhịp tiếp theo",
+    "explanation": "Quy định nhịp đi đều: Nhịp 1 rơi vào chân trái, nhịp 2 rơi vào chân phải. Nếu bị ngược nhịp, chiến sĩ phải dùng kỹ thuật bước đệm (đổi chân) để đưa chân trái về đúng nhịp 1 mà không làm dừng tốc độ di chuyển của đội hình."
+  },
+  {
+    "question": "Trong tình huống giả định: Một nhóm học sinh lớp 10 đang tổ chức cắm trại ngoài trời thì bất ngờ gặp bão lớn kèm sấm sét dữ dội. Biện pháp trú ẩn nào sau đây thể hiện kỹ năng phòng thủ dân sự thông minh nhất?",
+    "options": [
+      "Cả nhóm chạy đến trú ẩn dưới gốc một cây cổ thụ cao lớn giữa bãi đất trống",
+      "Thu dọn lều bạt, di chuyển nhanh chóng vào tòa nhà kiên cố gần nhất, tránh xa các vật bằng kim loại và không đứng gần cửa sổ",
+      "Nắm chặt tay nhau đứng thành vòng tròn giữa bãi đất trống để cầu nguyện",
+      "Chạy xuống lòng một con suối cạn gần đó để tránh gió bão"
+    ],
+    "answer": "Thu dọn lều bạt, di chuyển nhanh chóng vào tòa nhà kiên cố gần nhất, tránh xa các vật bằng kim loại và không đứng gần cửa sổ",
+    "explanation": "Tránh sấm sét bão lốc tuyệt đối không trú dưới gốc cây cao hay vùng lòng suối nguy cơ lũ quét. Vào nhà kiên cố, tránh xa cửa kính và vật dẫn điện (kim loại) là cách bảo vệ tính mạng an toàn nhất."
+  },
+  {
+    "question": "Phân tích ý nghĩa thực tiễn của việc huấn luyện thành thạo các tư thế vận động cơ bản trong chiến đấu đối với công tác giáo dục quốc phòng cho học sinh THPT hiện nay?",
+    "options": [
+      "Chỉ nhằm mục đích giúp học sinh đạt điểm cao trong kỳ thi học kỳ và đủ điều kiện tốt nghiệp",
+      "Rèn luyện thể lực bền bỉ, tác phong nhanh nhẹn, nâng cao ý thức cảnh giác và sẵn sàng thực hiện nghĩa vụ bảo vệ Tổ quốc khi cần thiết",
+      "Giúp học sinh có thể tự chế tạo các mô hình vũ khí thô sơ tại nhà",
+      "Để học sinh áp dụng vào các trò chơi vận động giải trí ngoài giờ học"
+    ],
+    "answer": "Rèn luyện thể lực bền bỉ, tác phong nhanh nhẹn, nâng cao ý thức cảnh giác và sẵn sàng thực hiện nghĩa vụ bảo vệ Tổ quốc khi cần thiết",
+    "explanation": "Mục tiêu cao nhất của huấn luyện tư thế vận động là bồi dưỡng kỹ năng quân sự thực tiễn, xây dựng tác phong nghiêm túc, sẵn sàng chiến đấu, giúp thế hệ trẻ có đủ bản lĩnh thể chất và tinh thần bảo vệ chủ quyền quốc gia."
+  }
+]

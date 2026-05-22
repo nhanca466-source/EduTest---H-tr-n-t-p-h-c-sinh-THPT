@@ -1,0 +1,1476 @@
+[
+  {
+    "question": "Quá trình hấp thụ nước và khoáng ở rễ cây diễn ra chủ yếu qua thành phần nào của rễ?",
+    "options": [
+      "Miền sinh trưởng",
+      "Miền chóp rễ",
+      "Các tế bào lông hút",
+      "Miền trưởng thành"
+    ],
+    "answer": "Các tế bào lông hút",
+    "explanation": "Tế bào lông hút có bề mặt lớn, thành tế bào mỏng và áp suất thẩm thấu cao, chuyên hóa với chức năng hấp thụ nước và khoáng từ đất."
+  },
+  {
+    "question": "Nước và ion khoáng từ đất vào mạch gỗ của rễ theo những con đường nào?",
+    "options": [
+      "Con đường gian bào và con đường tế bào chất",
+      "Con đường qua khí khổng và qua tầng cutin",
+      "Con đường vận chuyển chủ động và thụ động",
+      "Con đường nội bào và ngoại bào"
+    ],
+    "answer": "Con đường gian bào và con đường tế bào chất",
+    "explanation": "Nước và khoáng đi vào mạch gỗ qua hai con đường chính là con đường gian bào (đi qua khoảng không gian giữa các tế bào) và con đường tế bào chất (đi xuyên qua tế bào chất của các tế bào)."
+  },
+  {
+    "question": "Động lực chính thúc đẩy sự vận chuyển dòng mạch gỗ từ rễ lên lá cây là gì?",
+    "options": [
+      "Áp suất rễ",
+      "Lực liên kết giữa các phân tử nước",
+      "Lực bám giữa phân tử nước với thành mạch gỗ",
+      "Lực kéo do thoát hơi nước ở lá"
+    ],
+    "answer": "Lực kéo do thoát hơi nước ở lá",
+    "explanation": "Thoát hơi nước ở lá tạo ra một lực hút rất lớn, là động lực đầu trên đóng vai trò chính trong việc kéo cột nước từ rễ lên lá."
+  },
+  {
+    "question": "Mạch rây trong cây có chức năng chính là gì?",
+    "options": [
+      "Vận chuyển nước và ion khoáng từ rễ lên lá",
+      "Vận chuyển các chất hữu cơ tổng hợp từ lá đến các cơ quan khác",
+      "Hấp thụ nước từ môi trường vào trong cây",
+      "Thoát hơi nước để làm giảm nhiệt độ của lá"
+    ],
+    "answer": "Vận chuyển các chất hữu cơ tổng hợp từ lá đến các cơ quan khác",
+    "explanation": "Mạch rây cấu tạo từ các tế bào sống, chuyên hóa vận chuyển các chất hữu cơ (chủ yếu là sucrose) được tổng hợp từ lá đến các cơ quan tiêu thụ và dự trữ."
+  },
+  {
+    "question": "Cơ quan chuyên hóa thực hiện chức năng quang hợp chủ yếu ở thực vật là gì?",
+    "options": [
+      "Rễ cây",
+      "Thân cây",
+      "Lá cây",
+      "Hoa và quả"
+    ],
+    "answer": "Lá cây",
+    "explanation": "Lá cây có hình thái dẹt, diện tích bề mặt lớn và chứa nhiều lục lạp, là cơ quan chuyên hóa tối ưu cho quá trình quang hợp."
+  },
+  {
+    "question": "Sắc tố nào trực tiếp tham gia vào quá trình chuyển hóa năng lượng ánh sáng thành năng lượng hóa học trong quang hợp?",
+    "options": [
+      "Diệp lục a ở trung tâm phản ứng",
+      "Diệp lục b",
+      "Carotene",
+      "Xanthophyll"
+    ],
+    "answer": "Diệp lục a ở trung tâm phản ứng",
+    "explanation": "Các sắc tố khác chỉ có nhiệm vụ hấp thụ và truyền năng lượng, duy nhất diệp lục a ở trung tâm phản ứng mới có khả năng chuyển năng lượng ánh sáng thành năng lượng trong các liên kết hóa học."
+  },
+  {
+    "question": "Sản phẩm của pha sáng trong quang hợp cung cấp cho pha tối gồm những chất nào?",
+    "options": [
+      "CO2 và H2O",
+      "ATP và NADPH",
+      "O2 và ATP",
+      "Glucose và O2"
+    ],
+    "answer": "ATP và NADPH",
+    "explanation": "Pha sáng sử dụng năng lượng ánh sáng để tạo ra ATP và NADPH, hai chất này đóng vai trò cung cấp năng lượng và lực khử cho chu trình cố định CO2 ở pha tối."
+  },
+  {
+    "question": "Chất nhận CO2 đầu tiên trong chu trình Calvin (quang hợp C3) là chất nào?",
+    "options": [
+      "Oxaloacetate (OAA)",
+      "Ribulose 1,5-bisphosphate (RuBP)",
+      "3-phosphoglycerate (APG)",
+      "Phosphoenolpyruvate (PEP)"
+    ],
+    "answer": "Ribulose 1,5-bisphosphate (RuBP)",
+    "explanation": "Trong thực vật C3, hợp chất 5 carbon là Ribulose 1,5-bisphosphate (RuBP) đóng vai trò là chất nhận khí CO2 đầu tiên dưới sự xúc tác của enzyme Rubisco."
+  },
+  {
+    "question": "Bào quan thực hiện chức năng hô hấp hiếu khí chủ yếu ở tế bào thực vật là gì?",
+    "options": [
+      "Lục lạp",
+      "Ti thể",
+      "Ribosome",
+      "Không bào"
+    ],
+    "answer": "Ti thể",
+    "explanation": "Ti thể là bào quan chứa đầy đủ hệ thống enzyme để thực hiện chu trình Krebs và chuỗi truyền electron, chuyển hóa năng lượng từ chất hữu cơ thành ATP."
+  },
+  {
+    "question": "Giai đoạn đầu tiên của quá trình hô hấp ở thực vật diễn ra trong tế bào chất được gọi là gì?",
+    "options": [
+      "Chu trình Krebs",
+      "Chuỗi truyền electron hô hấp",
+      "Đường phân",
+      "Oxy hóa pyruvic acid"
+    ],
+    "answer": "Đường phân",
+    "explanation": "Đường phân diễn ra trong tế bào chất, phân giải một phân tử glucose thành hai phân tử pyruvic acid và giải phóng một lượng nhỏ năng lượng dưới dạng ATP và NADH."
+  },
+  {
+    "question": "Trong điều kiện thiếu oxy, thực vật sẽ tiến hành quá trình hô hấp nào?",
+    "options": [
+      "Hô hấp hiếu khí",
+      "Phân giải kị khí (lên men)",
+      "Quang hô hấp",
+      "Chu trình Krebs"
+    ],
+    "answer": "Phân giải kị khí (lên men)",
+    "explanation": "Khi môi trường thiếu oxy (như rễ cây bị ngập úng), tế bào thực vật sẽ chuyển sang con đường lên men để duy trì nguồn năng lượng tối thiểu cho sự sống."
+  },
+  {
+    "question": "Động vật nào sau đây chưa có cơ quan tiêu hóa chuyên hóa mà tiêu hóa hoàn toàn nội bào?",
+    "options": [
+      "Thủy tức",
+      "Trùng giày",
+      "Giun đất",
+      "Châu chấu"
+    ],
+    "answer": "Trùng giày",
+    "explanation": "Trùng giày là sinh vật đơn bào, chưa có mô hay cơ quan, thức ăn được lấy vào qua không bào tiêu hóa và phân hủy nhờ enzyme của lysosome bên trong tế bào."
+  },
+  {
+    "question": "Ở động vật nhai lại như trâu, bò, dạ dày được cấu tạo gồm mấy ngăn?",
+    "options": [
+      "2 ngăn",
+      "3 ngăn",
+      "4 ngăn",
+      "5 ngăn"
+    ],
+    "answer": "4 ngăn",
+    "explanation": "Dạ dày của động vật nhai lại bao gồm 4 ngăn: dạ cỏ, dạ tổ ong, dạ lá sách và dạ múi khế nhằm tối ưu hóa việc tiêu hóa thức ăn giàu cellulose."
+  },
+  {
+    "question": "Ngăn nào trong dạ dày của động vật nhai lại được coi là dạ dày chính thức có chức năng tiết enzyme tiêu hóa?",
+    "options": [
+      "Dạ cỏ",
+      "Dạ tổ ong",
+      "Dạ lá sách",
+      "Dạ múi khế"
+    ],
+    "answer": "Dạ múi khế",
+    "explanation": "Dạ múi khế chứa các tuyến vị tiết ra dịch vị có enzyme pepsin và acid HCl để tiêu hóa protein như dạ dày của các động vật khác."
+  },
+  {
+    "question": "Côn trùng thực hiện quá trình trao đổi khí với môi trường bên ngoài qua cơ quan nào?",
+    "options": [
+      "Hệ thống ống khí",
+      "Mang",
+      "Phổi",
+      "Da"
+    ],
+    "answer": "Hệ thống ống khí",
+    "explanation": "Hệ thống ống khí của côn trùng phân nhánh nhỏ dần đến tận các tế bào cơ thể, giúp đưa oxy trực tiếp từ môi trường ngoài đến tế bào mà không cần hệ tuần hoàn vận chuyển."
+  },
+  {
+    "question": "Động vật nào sau đây trao đổi khí chủ yếu qua bề mặt da?",
+    "options": [
+      "Cá chép",
+      "Giun đất",
+      "Chim bồ câu",
+      "Mèo"
+    ],
+    "answer": "Giun đất",
+    "explanation": "Giun đất có lớp da mỏng, luôn ẩm ướt và có mạng lưới mao mạch dày đặc ngay dưới da, cho phép khí oxy và carbon dioxide khuếch tán dễ dàng."
+  },
+  {
+    "question": "Hệ tuần hoàn hở xuất hiện ở nhóm động vật nào sau đây?",
+    "options": [
+      "Thú và chim",
+      "Cá và lưỡng cư",
+      "Thân mềm và chân khớp",
+      "Giun đốt và bò sát"
+    ],
+    "answer": "Thân mềm và chân khớp",
+    "explanation": "Ở thân mềm và chân khớp, hệ tuần hoàn không có mao mạch nối giữa động mạch và tĩnh mạch, máu trộn lẫn với dịch mô tạo thành dịch tuần hoàn tràn vào khoang cơ thể."
+  },
+  {
+    "question": "Trong hệ tuần hoàn kép của thú, máu đi nuôi cơ thể là máu giàu oxy được đẩy ra từ ngăn nào của tim?",
+    "options": [
+      "Tâm nhĩ phải",
+      "Tâm thất phải",
+      "Tâm nhĩ trái",
+      "Tâm thất trái"
+    ],
+    "answer": "Tâm thất trái",
+    "explanation": "Tâm thất trái có thành cơ tim rất dày, co bóp mạnh để tống máu giàu oxy từ tim vào động mạch chủ đi nuôi khắp các cơ quan của cơ thể."
+  },
+  {
+    "question": "Hệ thống mạch máu nào có vận tốc máu chảy chậm nhất, tạo điều kiện cho sự trao đổi chất với tế bào?",
+    "options": [
+      "Động mạch",
+      "Mao mạch",
+      "Tĩnh mạch",
+      "Tĩnh mạch chủ"
+    ],
+    "answer": "Mao mạch",
+    "explanation": "Mao mạch có tổng tiết diện mạch lớn nhất trong toàn hệ mạch, làm cho vận tốc máu giảm xuống mức thấp nhất, giúp tối ưu hóa quá trình trao đổi chất và khí giữa máu và dịch mô."
+  },
+  {
+    "question": "Bộ phận nào đóng vai trò là trung tâm điều khiển trong cơ chế duy trì cân bằng nội môi?",
+    "options": [
+      "Thụ thể tiếp nhận kích thích",
+      "Thần kinh trung ương hoặc tuyến nội tiết",
+      "Các cơ quan như cơ, gan, thận",
+      "Hệ thống mạch máu"
+    ],
+    "answer": "Thần kinh trung ương hoặc tuyến nội tiết",
+    "explanation": "Thần kinh trung ương hoặc tuyến nội tiết tiếp nhận tín hiệu báo động từ thụ thể, xử lý thông tin rồi gửi lệnh điều khiển đến cơ quan đáp ứng."
+  },
+  {
+    "question": "Cơ quan nào đóng vai trò quan trọng nhất trong việc điều hòa áp suất thẩm thấu của máu thông qua việc điều tiết lượng nước và muối?",
+    "options": [
+      "Phổi",
+      "Tim",
+      "Thận",
+      "Dạ dày"
+    ],
+    "answer": "Thận",
+    "explanation": "Thận điều tiết lượng nước và các ion khoáng giữ lại hoặc thải ra qua nước tiểu, từ đó giữ ổn định áp suất thẩm thấu của máu và dịch cơ thể."
+  },
+  {
+    "question": "Khái niệm nào sau đây phản ánh đúng về tính cảm ứng của thực vật?",
+    "options": [
+      "Khả năng tự tổng hợp chất hữu cơ nuôi cơ thể nhờ ánh sáng mặt trời",
+      "Khả năng phản ứng của thực vật đối với các kích thích từ môi trường",
+      "Sự di chuyển của thực vật từ nơi này sang nơi khác",
+      "Sự thay đổi hình thái cấu tạo bên trong cơ thể theo tuổi sinh lý"
+    ],
+    "answer": "Khả năng phản ứng của thực vật đối với các kích thích từ môi trường",
+    "explanation": "Cảm ứng ở thực vật là khả năng tiếp nhận và phản ứng lại các kích thích từ môi trường nội bào hoặc ngoại bào để tồn tại và phát triển."
+  },
+  {
+    "question": "Hiện tượng thân cây luôn sinh trưởng hướng về phía có nguồn ánh sáng được gọi là gì?",
+    "options": [
+      "Hướng sáng dương",
+      "Hướng sáng âm",
+      "Hướng trọng lực dương",
+      "Hướng hóa dương"
+    ],
+    "answer": "Hướng sáng dương",
+    "explanation": "Hướng sáng dương là phản ứng sinh trưởng hướng tới nguồn sáng của các cơ quan trên mặt đất như thân, cành nhằm thu nhận nhiều ánh sáng cho quang hợp."
+  },
+  {
+    "question": "Sự đóng mở của lá cây trinh nữ khi có va chạm cơ học thuộc loại vận động nào ở thực vật?",
+    "options": [
+      "Hướng động",
+      "Ứng động không sinh trưởng",
+      "Ứng động sinh trưởng",
+      "Hướng trọng lực"
+    ],
+    "answer": "Ứng động không sinh trưởng",
+    "explanation": "Hiện tượng cụp lá ở cây trinh nữ xảy ra rất nhanh do sự thay đổi sức trương nước ở các tế bào gốc lá, không liên quan đến sự phân chia hay kéo dài tế bào, nên thuộc ứng động không sinh trưởng."
+  },
+  {
+    "question": "Hệ thần kinh dạng lưới được tìm thấy ở nhóm động vật nào sau đây?",
+    "options": [
+      "Thủy tức và các động vật ruột khoang",
+      "Giun đất và đỉa",
+      "Côn trùng và tôm",
+      "Cá và các động vật có xương sống"
+    ],
+    "answer": "Thủy tức và các động vật ruột khoang",
+    "explanation": "Hệ thần kinh dạng lưới là dạng tiến hóa sơ khai nhất, các tế bào thần kinh nằm rải rác trong cơ thể và liên kết với nhau bằng các sợi thần kinh tạo thành mạng lưới."
+  },
+  {
+    "question": "Lan truyền xung thần kinh trên sợi thần kinh có bao myelin diễn ra theo hình thức nào?",
+    "options": [
+      "Lan truyền liên tục từ vùng này sang vùng kế tiếp",
+      "Lan truyền nhảy cóc từ eo Ranvier này sang eo Ranvier khác",
+      "Xung thần kinh tự biến mất rồi xuất hiện ở cuối sợi",
+      "Lan truyền ngược chiều từ đuôi axon về thân tế bào"
+    ],
+    "answer": "Lan truyền nhảy cóc từ eo Ranvier này sang eo Ranvier khác",
+    "explanation": "Bao myelin có tính chất cách điện, do đó xung thần kinh không thể lan truyền liên tục mà phải nhảy cóc qua các eo Ranvier, giúp tốc độ truyền tin nhanh hơn nhiều."
+  },
+  {
+    "question": "Synapse là cấu trúc giải phẫu học thực hiện chức năng gì?",
+    "options": [
+      "Là nơi tiếp hợp giữa tế bào thần kinh với tế bào khác để truyền thông tin",
+      "Là trung tâm điều khiển mọi hành vi phức tạp của cơ thể",
+      "Là cấu trúc bảo vệ sợi trục thần kinh không bị tổn thương",
+      "Là nơi sản sinh ra các xung thần kinh mới cho cơ thể"
+    ],
+    "answer": "Là nơi tiếp hợp giữa tế bào thần kinh với tế bào khác để truyền thông tin",
+    "explanation": "Synapse là diện tiếp xúc giữa tế bào thần kinh với một tế bào thần kinh khác hoặc với tế bào cơ, tế bào tuyến, có vai trò truyền tín hiệu qua khe synapse bằng chất hóa học."
+  },
+  {
+    "question": "Hành vi nào sau đây là ví dụ điển hình về phản xạ không điều kiện ở người?",
+    "options": [
+      "Dừng xe khi nhìn thấy tín hiệu đèn đỏ",
+      "Rụt tay lại ngay lập tức khi vô tình chạm vào vật rất nóng",
+      "Mặc áo ấm khi nghe dự báo thời tiết ngày mai có gió mùa đông bắc",
+      "Tiết nước bọt khi nghe người khác kể về một món ăn chua"
+    ],
+    "answer": "Rụt tay lại ngay lập tức khi vô tình chạm vào vật rất nóng",
+    "explanation": "Rụt tay khi chạm vật nóng là phản xạ bẩm sinh, mang tính chất di truyền, bền vững và do các trung khu thần kinh cấp thấp điều khiển, không cần qua học tập."
+  },
+  {
+    "question": "Hình thức học tập nào xảy ra khi động vật mới sinh bám theo vật chuyển động đầu tiên mà chúng nhìn thấy?",
+    "options": [
+      "Quen nhờn",
+      "In vết",
+      "Điều kiện hóa đáp ứng",
+      "Học ngầm"
+    ],
+    "answer": "In vết",
+    "explanation": "In vết là hình thức học tập mà con non mới sinh có tính bám dính và đi theo vật thể chuyển động đầu tiên bắt gặp, thường là bố mẹ chúng."
+  },
+  {
+    "question": "Nhóm hormone nào sau đây kích thích sự sinh trưởng và phát triển mạnh mẽ ở thực vật?",
+    "options": [
+      "Auxin, Abscisic acid, Ethylene",
+      "Auxin, Gibberellin, Cytokinin",
+      "Gibberellin, Ethylene, Abscisic acid",
+      "Cytokinin, Ethylene, Abscisic acid"
+    ],
+    "answer": "Auxin, Gibberellin, Cytokinin",
+    "explanation": "Auxin, Gibberellin và Cytokinin là 3 nhóm hormone kích thích, thúc đẩy các quá trình phân chia, kéo dài tế bào và phát triển các cơ quan của cây."
+  },
+  {
+    "question": "Hormone thực vật nào ở thể khí và có vai trò chủ đạo trong việc thúc đẩy quả chín nhanh?",
+    "options": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Ethylene"
+    ],
+    "answer": "Ethylene",
+    "explanation": "Ethylene là hormone dạng khí, được sinh ra nhiều trong các mô quả chín hoặc mô bị tổn thương, có tác dụng kích thích quả chín và rụng lá."
+  },
+  {
+    "question": "Tuyến nội tiết nào ở người tiết ra hormone sinh trưởng GH thúc đẩy sự phát triển của xương và cơ?",
+    "options": [
+      "Tuyến yên",
+      "Tuyến giáp",
+      "Tuyến tụy",
+      "Tuyến trên thận"
+    ],
+    "answer": "Tuyến yên",
+    "explanation": "Thùy trước của tuyến yên tiết ra hormone GH (Growth Hormone) có tác dụng kích thích sự phân chia tế bào và tăng kích thước cơ thể, đặc biệt là xương và cơ."
+  },
+  {
+    "question": "Hormone ecdysone và juvenile ở côn trùng có vai trò sinh lý phối hợp trực tiếp trong quá trình nào?",
+    "options": [
+      "Điều hòa nhịp tim và hoạt động co cơ của côn trùng",
+      "Điều hòa sự lột xác và biến thái ở côn trùng",
+      "Kích thích quá trình tìm kiếm thức ăn vào mùa lạnh",
+      "Ức chế sự hình thành các cơ quan sinh sản sơ khai"
+    ],
+    "answer": "Điều hòa sự lột xác và biến thái ở côn trùng",
+    "explanation": "Ecdysone gây lột xác và biến thái ở nhộng, trong khi juvenile phối hợp để giữ côn trùng ở trạng thái sâu non, ngăn cản sự biến thái quá sớm."
+  },
+  {
+    "question": "Sự phát triển qua biến thái hoàn toàn ở động vật khác biệt cơ bản với biến thái không hoàn toàn ở điểm nào?",
+    "options": [
+      "Con non có hình thái cấu tạo gần giống con trưởng thành",
+      "Vòng đời bắt buộc phải trải qua giai đoạn trung gian là nhộng",
+      "Con non không lột xác một lần nào trong suốt đời sống",
+      "Trứng được đẻ ra ngoài môi trường mà không cần thụ tinh"
+    ],
+    "answer": "Vòng đời bắt buộc phải trải qua giai đoạn trung gian là nhộng",
+    "explanation": "Biến thái hoàn toàn có giai đoạn nhộng (giai đoạn biến đổi sâu sắc về cấu tạo cơ thể từ sâu non thành côn trùng trưởng thành), điều mà biến thái không hoàn toàn không có."
+  },
+  {
+    "question": "Hình thức sinh sản vô tính nào ở thực vật tạo ra cây mới trực tiếp từ một phần cơ quan sinh dưỡng như rễ, thân, lá?",
+    "options": [
+      "Sinh sản bằng bào tử",
+      "Sinh sản sinh dưỡng",
+      "Sinh sản bằng hạt thụ tinh",
+      "Sinh sản hữu tính"
+    ],
+    "answer": "Sinh sản sinh dưỡng",
+    "explanation": "Sinh sản sinh dưỡng là hình thức sinh sản vô tính mà cá thể mới được hình thành từ cơ quan sinh dưỡng của cây mẹ như củ, rễ củ, thân rễ, lá."
+  },
+  {
+    "question": "Trong quá trình thụ tinh kép ở thực vật có hoa, hạt phấn giải phóng ra hai giao tử đực để thụ tinh cho những cấu trúc nào?",
+    "options": [
+      "Một phối hợp với tế bào trứng, một phối hợp với nhân cực",
+      "Một phối hợp với tế bào trứng, một phối hợp với tế bào kèm",
+      "Cả hai cùng phối hợp với một tế bào trứng duy nhất",
+      "Một phối hợp với nhân cực, một tan biến trong tế bào chất"
+    ],
+    "answer": "Một phối hợp với tế bào trứng, một phối hợp với nhân cực",
+    "explanation": "Thụ tinh kép gồm một giao tử đực kết hợp với trứng tạo thành hợp tử (2n), và giao tử đực thứ hai kết hợp với nhân cực (2n) tạo thành nội nhũ (3n) cung cấp dinh dưỡng."
+  },
+  {
+    "question": "Hiện tượng trinh sinh ở động vật như ong, kiến được hiểu một cách chính xác là gì?",
+    "options": [
+      "Con non phát triển từ trứng không qua thụ tinh",
+      "Sự kết hợp giữa hai trứng tạo ra một cá thể mới",
+      "Cơ thể tự phân đôi thành hai phần bằng nhau để sinh sản",
+      "Mô sinh dưỡng tự phát triển thành một cơ thể mới hoàn chỉnh"
+    ],
+    "answer": "Con non phát triển từ trứng không qua thụ tinh",
+    "explanation": "Trinh sinh là hình thức sinh sản vô tính đặc biệt, trong đó cá thể mới phát triển hoàn toàn từ trứng mà không cần sự tham gia của tinh trùng, ví dụ như ong đực phát triển từ trứng không thụ tinh."
+  },
+  {
+    "question": "Tuyến nội tiết nào ở động vật có vú tiết ra hormone testosterone kích thích sự sinh sản tinh trùng và phát triển giới tính nam?",
+    "options": [
+      "Buồng trứng",
+      "Tinh hoàn",
+      "Tuyến yên",
+      "Tuyến thượng thận"
+    ],
+    "answer": "Tinh hoàn",
+    "explanation": "Tế bào kẽ của tinh hoàn tiết ra hormone nam testosterone, có vai trò kích thích sản sinh tinh trùng và hình thành các đặc điểm sinh dục thứ thứ cấp ở nam giới."
+  },
+  {
+    "question": "Nguyên tắc cốt lõi của các biện pháp tránh thai bằng hormone (như viên uống tránh thai hằng ngày) là gì?",
+    "options": [
+      "Tiêu diệt tinh trùng ngay khi chúng vừa vào âm đạo",
+      "Ức chế sự chín và rụng trứng của buồng trứng",
+      "Ngăn cản hoàn toàn việc tinh trùng di chuyển vào tử cung",
+      "Kích thích sự co bóp mạnh của tử cung để tống trứng ra ngoài"
+    ],
+    "answer": "Ức chế sự chín và rụng trứng của buồng trứng",
+    "explanation": "Hormone trong thuốc tránh thai duy trì hàm lượng progesterone và estrogen trong máu ổn định, gây phản hồi ngược ức chế tuyến yên tiết FSH và LH, từ đó ngăn cản sự chín và rụng trứng."
+  },
+  {
+    "question": "Mối quan hệ hữu cơ giữa các quá trình sinh lý trong cơ thể sinh vật thể hiện rõ nhất qua điều nào sau đây?",
+    "options": [
+      "Mỗi cơ quan hoạt động hoàn toàn biệt lập để tránh ảnh hưởng lẫn nhau",
+      "Các quá trình trao đổi chất và năng lượng luôn cung cấp nguyên liệu và động lực cho nhau",
+      "Cơ thể chỉ cần hệ thần kinh là có thể vận hành ổn định không cần các cơ quan khác",
+      "Thực vật không cần mối liên hệ giữa rễ và lá trong quá trình sống"
+    ],
+    "answer": "Các quá trình trao đổi chất và năng lượng luôn cung cấp nguyên liệu và động lực cho nhau",
+    "explanation": "Mọi cơ quan bộ phận trong cơ thể sinh vật đều liên kết chặt chẽ qua dòng tuần hoàn chất và năng lượng, quá trình này tạo tiền đề, nguyên liệu cho quá trình kia diễn ra."
+  },
+  {
+    "question": "Tại sao khi tưới nước quá nhiều làm đất bị ngập úng lâu ngày thì cây trồng trên cạn lại có biểu hiện bị héo và chết dần?",
+    "options": [
+      "Cây hấp thụ quá nhiều nước làm tế bào rễ bị vỡ ra",
+      "Đất thiếu oxy làm rễ không hô hấp được, dẫn đến tế bào lông hút chết và mất khả năng hút nước",
+      "Nước ngập làm tăng độ pH của đất đến mức gây độc cho cây",
+      "Lượng nước quá lớn làm hòa tan hết toàn bộ các ion khoáng cần thiết quanh rễ"
+    ],
+    "answer": "Đất thiếu oxy làm rễ không hô hấp được, dẫn đến tế bào lông hút chết và mất khả năng hút nước",
+    "explanation": "Đất ngập nước đẩy hết không khí ra ngoài, rễ cây thiếu oxy nên phải hô hấp kị khí tích tụ độc tố, làm tế bào lông hút bị tổn thương và chết, cây không thể hút nước dẫn đến héo."
+  },
+  {
+    "question": "Một người bón một lượng phân hóa học có nồng độ rất cao xung quanh gốc cây cảnh. Hiện tượng gì có thể xảy ra sau đó đối với cây?",
+    "options": [
+      "Cây sẽ sinh trưởng nhanh chóng do nhận được lượng lớn chất dinh dưỡng",
+      "Cây bị héo lá do nước bị hút ngược từ tế bào rễ ra ngoài môi trường đất",
+      "Rễ cây sẽ dài ra nhanh chóng để hấp thụ phân bón",
+      "Không có hiện tượng gì vì rễ cây có màng bọc bảo vệ"
+    ],
+    "answer": "Cây bị héo lá do nước bị hút ngược từ tế bào rễ ra ngoài môi trường đất",
+    "explanation": "Bón phân quá nhiều làm tăng nồng độ chất tan ở dịch đất khiến áp suất thẩm thấu của đất cao hơn dịch tế bào rễ. Nước di chuyển từ nơi có áp suất thẩm thấu thấp (trong rễ) ra nơi cao (ngoài đất) làm rễ mất nước."
+  },
+  {
+    "question": "Vào những ngày hè oi bức, độ ẩm không khí rất cao, tại sao hiện tượng ứ giọt lại dễ quan sát thấy ở mép lá của một số loài cây bụi thấp?",
+    "options": [
+      "Do cây tăng cường quang hợp mạnh mẽ thải ra nhiều nước",
+      "Do lực kéo từ lá quá mạnh làm đẩy nước ra ngoài",
+      "Do áp suất rễ đẩy nước lên nhưng không thể bay hơi thành khí vì độ ẩm không khí bão hòa",
+      "Do lá cây hấp thụ hơi nước từ không khí đọng lại thành giọt"
+    ],
+    "answer": "Do áp suất rễ đẩy nước lên nhưng không thể bay hơi thành khí vì độ ẩm không khí bão hòa",
+    "explanation": "Khi độ ẩm không khí quá cao, sự thoát hơi nước bị ức chế. Tuy nhiên áp suất rễ vẫn liên tục đẩy dòng nước từ dưới lên, lượng nước thừa bị đẩy ra ngoài qua các lỗ thủy khổng ở mép lá tạo thành các giọt nước."
+  },
+  {
+    "question": "Tại sao các nguyên tố khoáng đại lượng như nitrogen, phosphorus lại cần được cung cấp với số lượng lớn cho cây trồng?",
+    "options": [
+      "Vì chúng chỉ đóng vai trò làm chất xúc tác cho các enzyme",
+      "Vì chúng tham gia trực tiếp vào cấu trúc của các đại phân tử sinh học quan trọng trong tế bào",
+      "Vì chúng giúp cây tạo ra màu sắc sặc sỡ để thu hút côn trùng",
+      "Vì chúng là thành phần cấu tạo nên lớp vỏ bảo vệ chống mất nước"
+    ],
+    "answer": "Vì chúng tham gia trực tiếp vào cấu trúc của các đại phân tử sinh học quan trọng trong tế bào",
+    "explanation": "Các nguyên tố đại lượng cấu tạo nên các hợp chất sống cốt lõi của tế bào như protein, nucleic acid, phospholipid và ATP nên cây cần hấp thụ một lượng rất lớn."
+  },
+  {
+    "question": "Khi cây bị thiếu nguyên tố magnesium (Mg), lá cây thường có biểu hiện chuyển sang màu vàng. Giải thích nào sau đây là chính xác?",
+    "options": [
+      "Magnesium là thành phần cấu tạo trực tiếp nên phân tử diệp lục",
+      "Magnesium làm tăng khả năng hấp thụ ánh sáng của carotene",
+      "Thiếu magnesium làm cho cây không thể vận chuyển nước lên lá",
+      "Magnesium là chất kích thích trực tiếp sự rụng lá già của cây"
+    ],
+    "answer": "Magnesium là thành phần cấu tạo trực tiếp nên phân tử diệp lục",
+    "explanation": "Magnesium là nguyên tử trung tâm của vòng porphyrin trong cấu trúc phân tử diệp lục. Khi thiếu Mg, cây không thể tổng hợp được diệp lục, làm lá mất màu xanh đặc trưng."
+  },
+  {
+    "question": "Tại sao quá trình cố định nitrogen khí quyển bằng con đường sinh học nhờ các vi sinh vật lại có ý nghĩa cực kỳ quan trọng đối với hệ sinh thái?",
+    "options": [
+      "Nó làm sạch bầu khí quyển bằng cách giảm bớt lượng khí nitơ",
+      "Nó chuyển hóa nitơ dạng phân tử trơ thành các dạng ion amoni cây có thể hấp thụ dễ dàng",
+      "Nó ngăn cản sự phát triển của các loài cỏ dại xung quanh gốc cây",
+      "Nó giải phóng năng lượng lớn làm ấm đất vào mùa đông"
+    ],
+    "answer": "Nó chuyển hóa nitơ dạng phân tử trơ thành các dạng ion amoni cây có thể hấp thụ dễ dàng",
+    "explanation": "Nitơ phân tử trong khí quyển có liên kết ba rất bền vững, thực vật không thể tự phá vỡ. Nhờ có enzyme nitrogenase của vi sinh vật cố định đạm, nitơ được chuyển sang dạng ion amoni mà cây sử dụng được."
+  },
+  {
+    "question": "Khi nuôi trồng cây trong nhà kính, việc tăng nồng độ khí carbon dioxide (CO2) lên một mức độ hợp lý sẽ mang lại lợi ích gì cho năng suất cây trồng?",
+    "options": [
+      "Làm giảm lượng nước tiêu thụ của cây đi một nửa",
+      "Tăng cường nguyên liệu đầu vào cho pha tối, từ đó làm tăng hiệu suất quang hợp",
+      "Kích thích hệ rễ phát triển sâu vào lòng đất",
+      "Ức chế quá trình hô hấp làm cây tích trữ nhiều mỡ"
+    ],
+    "answer": "Tăng cường nguyên liệu đầu vào cho pha tối, từ đó làm tăng hiệu suất quang hợp",
+    "explanation": "CO2 là nguyên liệu trực tiếp của pha tối để tổng hợp chất hữu cơ. Khi tăng nồng độ CO2 tới điểm bão hòa CO2, tốc độ quang hợp tăng lên rõ rệt, dẫn đến tích lũy sinh khối lớn hơn."
+  },
+  {
+    "question": "Đặc điểm cấu tạo nào của tế bào bao bó mạch ở thực vật C4 giúp chúng có hiệu suất quang hợp cao hơn thực vật C3 trong điều kiện ánh sáng mạnh và khô hạn?",
+    "options": [
+      "Có không bào lớn chứa đầy nước để dự trữ",
+      "Chứa rất nhiều lục lạp phân bố dày đặc để thực hiện chu trình Calvin hiệu quả",
+      "Thành tế bào rất mỏng giúp CO2 khuếch tán tự do",
+      "Không chứa bất kỳ một sắc tố quang hợp nào"
+    ],
+    "answer": "Chứa rất nhiều lục lạp phân bố dày đặc để thực hiện chu trình Calvin hiệu quả",
+    "explanation": "Ở thực vật C4, tế bào bao bó mạch phát triển mạnh và chứa nhiều lục lạp lớn. Đây là nơi diễn ra chu trình Calvin với nguồn CO2 đậm đặc được cung cấp từ tế bào mô giậu, giúp tránh được hiện tượng quang hô hấp."
+  },
+  {
+    "question": "Tại sao các loài thực vật CAM như xương rồng, dứa lại tiến hóa hình thức cố định CO2 vào ban đêm?",
+    "options": [
+      "Vì ban đêm cây mới có đủ năng lượng ánh sáng để quang hợp",
+      "Để giảm thiểu sự mất nước qua con đường mở khí khổng vào ban ngày nắng nóng",
+      "Vì ban đêm nồng độ khí oxy ngoài môi trường giảm xuống thấp nhất",
+      "Để tránh sự phá hoại của các loài động vật ăn cỏ hoạt động ngày"
+    ],
+    "answer": "Để giảm thiểu sự mất nước qua con đường mở khí khổng vào ban ngày nắng nóng",
+    "explanation": "Thực vật CAM sống ở vùng hoang mạc khô hạn, nếu mở khí khổng ban ngày sẽ mất nước rất nhanh gây chết cây. Chúng đóng khí khổng ban ngày và mở vào ban đêm mát mẻ để lấy CO2."
+  },
+  {
+    "question": "Trong quá trình bảo quản hạt nông sản (như lúa, ngô), người nông dân luôn phải phơi khô hạt trước khi cho vào kho lưu trữ nhằm mục đích chính là gì?",
+    "options": [
+      "Làm hạt giảm trọng lượng để dễ dàng vận chuyển",
+      "Giảm hàm lượng nước xuống mức tối thiểu nhằm ức chế quá trình hô hấp tế bào của hạt",
+      "Tăng cường hoạt động của các enzyme phân giải tinh bột",
+      "Diệt trừ toàn bộ các phôi bên trong hạt tránh hiện tượng mọc mầm"
+    ],
+    "answer": "Giảm hàm lượng nước xuống mức tối thiểu nhằm ức chế quá trình hô hấp tế bào của hạt",
+    "explanation": "Hạt khô có cường độ hô hấp rất thấp, tiêu hao ít chất hữu cơ dự trữ và không giải phóng nhiều nhiệt lượng hay hơi nước, giúp tránh được hiện tượng thối nát hoặc kích thích hạt nảy mầm sớm."
+  },
+  {
+    "question": "Tại sao việc sới xới đất xung quanh gốc cây trồng lại có tác dụng thúc đẩy cây sinh trưởng nhanh và khỏe mạnh?",
+    "options": [
+      "Làm đứt bớt rễ già để cây mọc rễ mới khỏe hơn",
+      "Làm đất tơi xốp, tăng hàm lượng khí oxy giúp rễ cây thực hiện hô hấp hiếu khí tốt",
+      "Giúp các loài sâu bọ dưới đất dễ dàng tiếp cận rễ cây",
+      "Ngăn chặn hoàn toàn sự thoát hơi nước từ bề mặt đất"
+    ],
+    "answer": "Làm đất tơi xốp, tăng hàm lượng khí oxy giúp rễ cây thực hiện hô hấp hiếu khí tốt",
+    "explanation": "Sới đất tạo ra các khoảng trống chứa không khí trong đất, cung cấp đầy đủ oxy cho rễ cây hô hấp hiếu khí, tạo ra nhiều ATP phục vụ cho hoạt động hút khoáng chủ động."
+  },
+  {
+    "question": "Sự phù hợp giữa cấu tạo răng của động vật ăn thịt (như hổ, sư tử) với thức ăn của chúng được thể hiện như thế nào?",
+    "options": [
+      "Răng cửa rất to, mặt răng phẳng phẳng để nghiền nát cỏ",
+      "Răng nanh sắc nhọn phát triển mạnh để giữ và xé mồi, răng trước hàm lớn để cắt thịt",
+      "Không có răng nanh, chỉ có răng hàm rất dài",
+      "Tất cả các răng đều biến đổi thành dạng tấm sừng mỏng"
+    ],
+    "answer": "Răng nanh sắc nhọn phát triển mạnh để giữ và xé mồi, răng trước hàm lớn để cắt thịt",
+    "explanation": "Thức ăn của động vật ăn thịt là các loại thịt dai, do đó chúng cần có hệ răng nanh dài nhọn để cắm chặt vào con mồi và răng hàm sắc để cắt thịt thành từng miếng nhỏ trước khi nuốt."
+  },
+  {
+    "question": "Tại sao ruột của động vật ăn cỏ (như thỏ, ngựa) lại dài hơn rất nhiều so với ruột của động vật ăn thịt (như chó, mèo)?",
+    "options": [
+      "Do thức ăn thực vật nghèo dinh dưỡng và chứa thành phần cellulose rất khó tiêu hóa",
+      "Do động vật ăn cỏ ăn nhiều nước hơn động vật ăn thịt",
+      "Để chứa được một lượng thịt lớn khi cần thiết",
+      "Do hệ cơ thành ruột của động vật ăn cỏ co bóp kém hơn"
+    ],
+    "answer": "Do thức ăn thực vật nghèo dinh dưỡng và chứa thành phần cellulose rất khó tiêu hóa",
+    "explanation": "Cellulose là hợp chất khó tiêu hóa bằng enzyme nội sinh của động vật. Ruột dài giúp kéo dài thời gian lưu trữ thức ăn, tạo điều kiện cho hệ vi sinh vật cộng sinh phân giải triệt để chất xơ và hấp thụ lại chất dinh dưỡng."
+  },
+  {
+    "question": "Tại sao ở cá xương, dòng nước chảy qua mang và dòng máu chảy trong các mao mạch mang lại chuyển động ngược chiều nhau?",
+    "options": [
+      "Do cấu tạo cơ học của xương nắp mang ép dòng nước chảy ngược",
+      "Để tối ưu hóa hiệu suất trao đổi khí, giúp oxy từ nước khuếch tán vào máu đạt tỉ lệ tối đa",
+      "Giúp dòng máu di chuyển trong hệ tuần hoàn nhanh hơn",
+      "Để giữ ấm cho cơ thể cá khi bơi ở vùng nước lạnh sâu"
+    ],
+    "answer": "Để tối ưu hóa hiệu suất trao đổi khí, giúp oxy từ nước khuếch tán vào máu đạt tỉ lệ tối đa",
+    "explanation": "Sự vận chuyển ngược chiều tạo ra một sự chênh lệch nồng độ oxy liên tục dọc theo toàn bộ chiều dài mao mạch mang, giúp cá xương có thể hấp thụ được hơn 80% lượng oxy hòa tan trong nước."
+  },
+  {
+    "question": "Hệ tuần hoàn của lưỡng cư (như ếch) có tâm thất chỉ có một ngăn duy nhất. Điều này dẫn đến đặc điểm gì về chất lượng máu đi nuôi cơ thể?",
+    "options": [
+      "Máu đi nuôi cơ thể là máu hoàn toàn giàu oxy",
+      "Máu đi nuôi cơ thể là máu hoàn toàn nghèo oxy",
+      "Máu đi nuôi cơ thể là máu pha do máu từ hai tâm nhĩ trộn lẫn ở tâm thất",
+      "Không có dòng máu nào di chuyển ra khỏi tim"
+    ],
+    "answer": "Máu đi nuôi cơ thể là máu pha do máu từ hai tâm nhĩ trộn lẫn ở tâm thất",
+    "explanation": "Vì tâm thất không có vách ngăn, máu giàu oxy từ nhĩ trái và máu giàu carbon dioxide từ nhĩ phải khi đổ xuống tâm thất sẽ bị trộn lẫn vào nhau, tạo thành máu pha đi nuôi các cơ quan."
+  },
+  {
+    "question": "Khi một người tập thể dục thể thao với cường độ cao, tại sao nhịp tim và nhịp hô hấp của người đó lại tăng lên nhanh chóng?",
+    "options": [
+      "Do các cơ xương co bóp chèn ép trực tiếp làm tim phải đập nhanh",
+      "Để tăng cường cung cấp oxy và đào thải lượng khí carbon dioxide, acid lactic tích tụ trong cơ",
+      "Do cơ thể giải phóng lượng nước dư thừa qua đường mồ hôi",
+      "Để giảm bớt lượng máu lưu thông đến các cơ quan không cần thiết"
+    ],
+    "answer": "Để tăng cường cung cấp oxy và đào thải lượng khí carbon dioxide, acid lactic tích tụ trong cơ",
+    "explanation": "Vận động mạnh làm các tế bào cơ hô hấp mạnh, tiêu thụ nhiều oxy và thải nhiều CO2. Hệ thần kinh sẽ điều khiển tăng nhịp tim và nhịp thở nhằm đáp ứng nhu cầu năng lượng lớn và giữ hằng định nội môi."
+  },
+  {
+    "question": "Khi ăn một bữa ăn chứa rất nhiều đường, nồng độ glucose trong máu tăng cao. Cơ thể sẽ điều hòa đưa nồng độ đường về mức ổn định bằng cách nào?",
+    "options": [
+      "Tuyến tụy tăng tiết insulin để kích thích gan biến đổi glucose thành glycogen dự trữ",
+      "Tuyến tụy tăng tiết glucagon để phân giải glycogen ở gan thành glucose",
+      "Thận sẽ lập tức bài tiết toàn bộ lượng đường thừa ra ngoài qua nước tiểu",
+      "Tế bào cơ thể sẽ ngừng hấp thụ toàn bộ glucose từ máu"
+    ],
+    "answer": "Tuyến tụy tăng tiết insulin để kích thích gan biến đổi glucose thành glycogen dự trữ",
+    "explanation": "Insulin do tế bào beta của đảo tụy tiết ra có tác dụng làm tăng việc chuyển dịch glucose vào trong tế bào và kích thích gan tổng hợp glycogen, giúp làm hạ nồng độ đường trong máu về mức bình thường."
+  },
+  {
+    "question": "Hiện tượng ngọn cây trồng ở cửa sổ luôn cong ra phía ngoài không gian trống có ánh sáng phản ánh cơ chế tác động nào của hormone auxin?",
+    "options": [
+      "Auxin bị phân hủy bởi ánh sáng nên nồng độ ở phía tối cao hơn, kích thích tế bào phía tối kéo dài mạnh hơn",
+      "Auxin tập trung nhiều ở phía hướng sáng, làm ức chế sự sinh trưởng của tế bào phía hướng sáng",
+      "Ánh sáng kích thích tế bào phía hướng sáng phân chia nhanh hơn",
+      "Auxin di chuyển xuống rễ làm rễ co ngắn lại kéo ngọn cây cong đi"
+    ],
+    "answer": "Auxin bị phân hủy bởi ánh sáng nên nồng độ ở phía tối cao hơn, kích thích tế bào phía tối kéo dài mạnh hơn",
+    "explanation": "Auxin có xu hướng di chuyển tránh ánh sáng sang phía khuất sáng. Nồng độ auxin cao ở phía tối kích thích các tế bào ở đây kéo dài nhanh hơn tế bào phía sáng, làm cho thân cây bị uốn cong về hướng nguồn sáng."
+  },
+  {
+    "question": "Tại sao người ta thường dùng khí ethylene để xử lý các kho quả xanh sau khi thu hoạch?",
+    "options": [
+      "Để quả giữ được màu xanh tươi lâu hơn trong quá trình vận chuyển",
+      "Kích thích quá trình chín đồng loạt của các quả, thuận tiện cho việc tiêu thụ",
+      "Để tiêu diệt toàn bộ các loài vi khuẩn bám trên vỏ quả",
+      "Làm tăng kích thước của quả lên gấp đôi sau thu hoạch"
+    ],
+    "answer": "Kích thích quá trình chín đồng loạt của các quả, thuận tiện cho việc tiêu thụ",
+    "explanation": "Ethylene là hormone thúc đẩy quá trình chín của quả bằng cách tăng cường hô hấp và phân giải các hợp chất phức tạp thành đường đơn, giúp quả chín đều, đẹp."
+  },
+  {
+    "question": "Sự lan truyền xung thần kinh qua khe synapse chỉ có thể diễn ra theo một chiều duy nhất từ màng trước sang màng sau vì lý do nào?",
+    "options": [
+      "Màng sau không có năng lượng để đẩy xung thần kinh quay ngược lại",
+      "Chất hóa học trung gian chỉ có ở chuỳ màng trước và thụ thể tiếp nhận chỉ có ở màng sau",
+      "Khe synapse quá rộng không cho xung điện chạy ngược chiều",
+      "Các bao myelin ngăn chặn sự di chuyển ngược dòng của các ion"
+    ],
+    "answer": "Chất hóa học trung gian chỉ có ở chuỳ màng trước và thụ thể tiếp nhận chỉ có ở màng sau",
+    "explanation": "Chỉ có chùy màng trước mới chứa các bọc túi chứa chất trung gian hóa học, và chỉ có màng sau mới có thụ thể đặc hiệu để mở kênh ion tạo xung thần kinh mới."
+  },
+  {
+    "question": "Khi một người vô tình giẫm phải một chiếc đinh nhọn, chân người đó rụt lại ngay lập tức. Sau đó người đó mới cảm thấy đau. Giải thích nào sau đây đúng?",
+    "options": [
+      "Cảm giác đau truyền về não nhanh hơn xung thần kinh điều khiển cơ co",
+      "Cung phản xạ tủy sống xử lý việc rụt chân lập tức để bảo vệ, thông tin đau sau đó mới truyền lên đại não để nhận thức",
+      "Tủy sống không tham gia vào phản xạ này mà toàn bộ do não bộ điều khiển từ đầu",
+      "Hiện tượng co cơ chân tự diễn ra độc lập không cần hệ thần kinh chỉ huy"
+    ],
+    "answer": "Cung phản xạ tủy sống xử lý việc rụt chân lập tức để bảo vệ, thông tin đau sau đó mới truyền lên đại não để nhận thức",
+    "explanation": "Phản xạ rụt chân là phản xạ tủy sống, đường đi của xung thần kinh ngắn giúp cơ co nhanh chóng giảm tổn thương. Đường dẫn truyền cảm giác đau lên não đi qua nhiều sợi cảm giác khác nên mất nhiều thời gian hơn."
+  },
+  {
+    "question": "Tại sao một người bị tổn thương hoàn toàn ở thùy chẩm của đại não thì có thể bị mù mặc dù đôi mắt của họ vẫn hoàn toàn khỏe mạnh?",
+    "options": [
+      "Thùy chẩm là nơi sản sinh ra dịch kính nuôi dưỡng mắt",
+      "Thùy chẩm chứa vùng thị giác, nơi tiếp nhận và phân tích các tín hiệu thần kinh truyền về từ võng mạc",
+      "Tổn thương thùy chẩm làm mất khả năng vận động của cơ mi mắt",
+      "Mắt sẽ tự ngừng hoạt động khi không nhận được năng lượng từ thùy chẩm"
+    ],
+    "answer": "Thùy chẩm chứa vùng thị giác, nơi tiếp nhận và phân tích các tín hiệu thần kinh truyền về từ võng mạc",
+    "explanation": "Cơ quan phân tích thị giác gồm mắt, dây thần kinh thị giác và vùng thị giác ở thùy chẩm. Nếu vùng thị giác bị hỏng thì dù mắt có thu tín hiệu tốt, não cũng không thể dịch và hình thành hình ảnh."
+  },
+  {
+    "question": "Vào mùa đông ở các nước vùng ôn đới, nhiều loài thú như gấu tiến hành hiện tượng ngủ đông. Vai trò sinh học chính của hiện tượng này là gì?",
+    "options": [
+      "Để tránh việc bị các loài động vật ăn thịt khác săn lùng",
+      "Giảm tối đa mức tiêu hao năng lượng cơ thể khi môi trường thiếu thức ăn và nhiệt độ quá lạnh",
+      "Để kích thích quá trình sinh sản diễn ra nhanh hơn trong khi ngủ",
+      "Giúp cơ thể thải trừ các chất độc tích tụ trong suốt mùa hè"
+    ],
+    "answer": "Giảm tối đa mức tiêu hao năng lượng cơ thể khi môi trường thiếu thức ăn và nhiệt độ quá lạnh",
+    "explanation": "Ngủ đông làm giảm thân nhiệt, nhịp tim và nhịp thở xuống mức cực thấp, giúp động vật tiết kiệm tối đa năng lượng, sống sót qua thời kỳ khắc nghiệt khan hiếm thức ăn."
+  },
+  {
+    "question": "Tại sao việc bấm ngọn (cắt bỏ chồi ngọn) ở một số loài cây ăn quả hoặc cây cảnh lại kích thích các cành bên phát triển mạnh mẽ?",
+    "options": [
+      "Làm giảm lượng nước thoát ra từ ngọn cây",
+      "Loại bỏ nguồn tổng hợp auxin ở chồi ngọn, làm giảm ưu thế ngọn và giải phóng chồi bên khỏi sự ức chế",
+      "Kích thích rễ cây tổng hợp nhiều hormone abscisic acid hơn",
+      "Làm cho thân cây dồn toàn bộ chất độc xuống rễ"
+    ],
+    "answer": "Loại bỏ nguồn tổng hợp auxin ở chồi ngọn, làm giảm ưu thế ngọn và giải phóng chồi bên khỏi sự ức chế",
+    "explanation": "Chồi ngọn sản sinh lượng lớn auxin di chuyển xuống dưới ức chế sự phát triển của chồi bên (ưu thế ngọn). Khi bấm ngọn, nồng độ auxin giảm đột ngột, cành bên sẽ được kích thích phát triển."
+  },
+  {
+    "question": "Trẻ em bị thiếu iot trong khẩu phần ăn hằng ngày thường dẫn đến mắc bệnh bướu cổ và chậm phát triển trí tuệ. Nguyên nhân khoa học của hiện tượng này là gì?",
+    "options": [
+      "Iot là thành phần cấu tạo nên hormone sinh trưởng GH của tuyến yên",
+      "Iot là thành phần bắt buộc cấu tạo nên hormone thyroxine, thiếu thyroxine làm giảm chuyển hóa và phát triển não bộ",
+      "Iot kích thích dạ dày tiêu hóa các chất protein",
+      "Thiếu iot làm cho máu không thể vận chuyển khí oxy đến các cơ quan"
+    ],
+    "answer": "Iot là thành phần bắt buộc cấu tạo nên hormone thyroxine, thiếu thyroxine làm giảm chuyển hóa và phát triển não bộ",
+    "explanation": "Thyroxine do tuyến giáp tiết ra chứa thành phần iot. Thiếu iot làm tuyến giáp không tổng hợp được thyroxine, gây phì đại tuyến (bướu cổ) và suy giảm chuyển hóa năng lượng ở tế bào não bộ trẻ em."
+  },
+  {
+    "question": "Tại sao người ta không áp dụng phương pháp nhân giống bằng hạt đối với các cây ăn quả quý hiếm cần giữ nguyên đặc tính của cây mẹ?",
+    "options": [
+      "Hạt của cây quý hiếm luôn bị vô sinh không thể nảy mầm",
+      "Sinh sản hữu tính tạo hạt có sự tái tổ hợp di truyền, làm xuất hiện nhiều biến dị khác với cây mẹ",
+      "Cây mọc từ hạt luôn có tuổi thọ rất ngắn",
+      "Phương pháp gieo hạt tốn nhiều chi phí hơn nuôi cấy mô rất nhiều"
+    ],
+    "answer": "Sinh sản hữu tính tạo hạt có sự tái tổ hợp di truyền, làm xuất hiện nhiều biến dị khác với cây mẹ",
+    "explanation": "Hạt hình thành từ sự thụ tinh giữa giao tử đực và cái qua giảm phân tạo ra nhiều biến dị tổ hợp, làm cho thế hệ con không giữ được nguyên vẹn các phẩm chất ưu tú ban đầu của cây mẹ."
+  },
+  {
+    "question": "Cơ sở sinh học của kỹ thuật nuôi cấy mô tế bào thực vật để tạo ra hàng loạt cây con giống hệt cây mẹ là gì?",
+    "options": [
+      "Tính toàn năng của tế bào, khả năng phân chia nguyên phân và biệt hóa thành cơ thể hoàn chỉnh",
+      "Khả năng tự tổng hợp chất dinh dưỡng hữu cơ từ môi trường thạch",
+      "Sự đột biến gen liên tục xảy ra trong môi trường nhân tạo",
+      "Sự kết hợp ngẫu nhiên của các tế bào soma đơn lẻ"
+    ],
+    "answer": "Tính toàn năng của tế bào, khả năng phân chia nguyên phân và biệt hóa thành cơ thể hoàn chỉnh",
+    "explanation": "Tế bào thực vật chứa toàn bộ hệ gen của loài (tính toàn năng). Khi gặp điều kiện môi trường thích hợp, chúng nguyên phân liên tục và biệt hóa tạo thành cây con giữ nguyên bộ gen của cây mẹ."
+  },
+  {
+    "question": "Tại sao hiện tượng thụ tinh trong lại tiến hóa và ưu việt hơn hẳn so với hiện tượng thụ tinh ngoài ở động vật?",
+    "options": [
+      "Nó làm tăng số lượng trứng được đẻ ra trong một lứa",
+      "Nó bảo vệ giao tử khỏi các tác động bất lợi của môi trường ngoài, nâng cao hiệu suất thụ tinh thành công",
+      "Nó hoàn toàn không cần đến sự tham gia của các hormone sinh dục",
+      "Nó cho phép con non sinh ra có kích thước lớn bằng con trưởng thành"
+    ],
+    "answer": "Nó bảo vệ giao tử khỏi các tác động bất lợi của môi trường ngoài, nâng cao hiệu suất thụ tinh thành công",
+    "explanation": "Thụ tinh trong diễn ra trong đường sinh dục con cái, tinh trùng không bị dòng nước hay các yếu tố môi trường cuốn trôi hay làm chết, giúp cơ hội gặp trứng rất cao."
+  },
+  {
+    "question": "Sự kết hợp nhịp nhàng giữa hệ thần kinh và hệ nội tiết trong việc điều hòa các hoạt động sinh lý của cơ thể được thực hiện qua cấu trúc cầu nối nào?",
+    "options": [
+      "Vùng dưới đồi và tuyến yên",
+      "Tủy sống và tuyến trên thận",
+      "Hạch thần kinh ngoại biên và tuyến giáp",
+      "Tiểu não và tuyến tụy"
+    ],
+    "answer": "Vùng dưới đồi và tuyến yên",
+    "explanation": "Vùng dưới đồi thuộc hệ thần kinh trung ương nhận tín hiệu thần kinh và tiết ra các hormone giải phóng hoặc ức chế tác động trực tiếp lên tuyến yên, điều khiển toàn bộ hệ thống nội tiết cơ thể."
+  },
+  {
+    "question": "Khi thiết kế một hệ thống tưới nước tự động cho vườn cây ăn quả, việc xác định thời điểm tưới dựa vào chỉ số sinh lý nào của lá cây là khoa học nhất?",
+    "options": [
+      "Hàm lượng diệp lục tổng số trong lá",
+      "Tốc độ sinh trưởng chiều dài của phiến lá",
+      "Độ mở của khí khổng và hàm lượng nước trong tế bào lá",
+      "Màu sắc của gân lá chính"
+    ],
+    "answer": "Độ mở của khí khổng và hàm lượng nước trong tế bào lá",
+    "explanation": "Độ mở khí khổng và sức trương nước của lá phản ánh trực tiếp tình trạng thiếu hay đủ nước của cây, giúp hệ thống tưới cung cấp nước chính xác khi cây cần."
+  },
+  {
+    "question": "Nguyên tố khoáng nào đóng vai trò cốt lõi trong việc điều hòa độ mở của khí khổng ở lá cây?",
+    "options": [
+      "Calcium",
+      "Potassium",
+      "Iron",
+      "Phosphorus"
+    ],
+    "answer": "Potassium",
+    "explanation": "Ion Potassium (K+) được vận chuyển chủ động vào trong tế bào khí khổng làm tăng áp suất thẩm thấu, kéo nước vào tế bào làm khí khổng mở ra."
+  },
+  {
+    "question": "Thành phần chính có trong dịch mạch rây vận chuyển dọc theo thân cây bao gồm các chất nào?",
+    "options": [
+      "Nước, các ion khoáng và hormone sinh trưởng từ rễ",
+      "Sucrose, các amino acid và một số hormone thực vật tổng hợp từ lá",
+      "Glucose, khí oxy hòa tan và tinh bột kích thước lớn",
+      "Acid lactic, muối khoáng và enzyme tiêu hóa chất hữu cơ"
+    ],
+    "answer": "Sucrose, các amino acid và một số hormone thực vật tổng hợp từ lá",
+    "explanation": "Dịch mạch rây chứa sản phẩm đồng hóa từ lá, chủ yếu là carbohydrate dạng sucrose bền vững, các amino acid và chất điều hòa sinh trưởng."
+  },
+  {
+    "question": "Trong quang hợp, năng lượng ánh sáng mặt trời được hấp thụ ban đầu bởi hệ sắc tố nằm ở cấu trúc nào của lục lạp?",
+    "options": [
+      "Chất nền stroma",
+      "Màng thylakoid",
+      "Màng ngoài của lục lạp",
+      "Màng trong của lục lạp"
+    ],
+    "answer": "Màng thylakoid",
+    "explanation": "Màng thylakoid là nơi định vị của các phức hệ sắc tố quang hợp (diệp lục và carotenoid) cùng chuỗi truyền electron quang hợp."
+  },
+  {
+    "question": "Quá trình phân ly nước trong pha sáng của quang hợp tạo ra những sản phẩm nào giải phóng vào môi trường hoặc dùng cho giai đoạn sau?",
+    "options": [
+      "H+, electron và O2",
+      "CO2, H2O và ATP",
+      "NADPH, ATP và glucose",
+      "Pyruvic acid và O2"
+    ],
+    "answer": "H+, electron và O2",
+    "explanation": "Quang phân ly nước phân rã phân tử nước tạo ra electron bù lại cho diệp lục a, H+ để tham gia tạo NADPH và khí O2 giải phóng ra khí quyển."
+  },
+  {
+    "question": "Enzyme nào đóng vai trò chính trong việc xúc tác phản ứng cố định CO2 đầu tiên ở thực vật C3?",
+    "options": [
+      "PEP carboxylase",
+      "Rubisco",
+      "Amylase",
+      "ATP synthase"
+    ],
+    "answer": "Rubisco",
+    "explanation": "Enzyme Rubisco xúc tác phản ứng gắn CO2 vào hợp chất nhận RuBP trong chu trình Calvin ở tất cả các loài thực vật C3."
+  },
+  {
+    "question": "Sự tổng hợp ATP trong quá trình hô hấp hiếu khí ở thực vật diễn ra nhiều nhất ở giai đoạn nào?",
+    "options": [
+      "Đường phân",
+      "Chu trình Krebs",
+      "Chuỗi truyền electron hô hấp",
+      "Lên men rượu"
+    ],
+    "answer": "Chuỗi truyền electron hô hấp",
+    "explanation": "Chuỗi truyền electron diễn ra ở màng trong ti thể tận dụng năng lượng từ các phân tử NADH và FADH2 tạo ra phần lớn lượng ATP của toàn bộ quá trình hô hấp."
+  },
+  {
+    "question": "Hệ tiêu hóa của động vật ăn thịt thân mềm như mực, bạch tuộc có thêm cấu trúc nào để làm nhỏ thức ăn cơ học trước khi nuốt?",
+    "options": [
+      "Dạ dày tuyến",
+      "Cơ quan gai miệng (băng răng)",
+      "Mề",
+      "Dạ tổ ong"
+    ],
+    "answer": "Cơ quan gai miệng (băng răng)",
+    "explanation": "Mực và bạch tuộc sử dụng các hàm sừng sắc nhọn cấu tạo như mỏ vẹt và băng răng bên trong miệng để xé nhỏ con mồi."
+  },
+  {
+    "question": "Ở người, quá trình tiêu hóa hóa học và hấp thụ chất dinh dưỡng diễn ra triệt để nhất tại cơ quan nào?",
+    "options": [
+      "Dạ dày",
+      "Ruột non",
+      "Ruột già",
+      "Thực quản"
+    ],
+    "answer": "Ruột non",
+    "explanation": "Ruột non có đầy đủ các enzyme từ dịch tụy, dịch mật, dịch ruột và cấu tạo lớp niêm mạc có các lông ruột cực kỳ phát triển giúp hấp thụ chất dinh dưỡng tối đa."
+  },
+  {
+    "question": "Cơ quan trao đổi khí của các loài động vật có vú sống dưới nước như cá voi, cá heo là gì?",
+    "options": [
+      "Mang",
+      "Phổi",
+      "Da",
+      "Hệ thống ống khí"
+    ],
+    "answer": "Phổi",
+    "explanation": "Cá voi và cá heo là động vật thuộc lớp Thú, do đó chúng hô hấp hoàn toàn bằng phổi và phải nổi lên mặt nước để lấy không khí."
+  },
+  {
+    "question": "Máu chảy trong hệ tuần hoàn kín của động vật có đặc điểm cấu tạo gì khác biệt so với hệ tuần hoàn hở?",
+    "options": [
+      "Máu lưu thông liên tục trong mạng lưới mạch kín gồm động mạch, mao mạch và tĩnh mạch",
+      "Máu chảy tự do vào khoang cơ thể tiếp xúc trực tiếp tế bào",
+      "Hệ mạch hoàn toàn không có sự xuất hiện của tim",
+      "Máu không chứa sắc tố vận chuyển khí"
+    ],
+    "answer": "Máu lưu thông liên tục trong mạng lưới mạch kín gồm động mạch, mao mạch và tĩnh mạch",
+    "explanation": "Hệ tuần hoàn kín giữ máu luôn nằm trong lòng mạch, giúp máu tuần hoàn với áp lực và vận tốc cao, vận chuyển chất đi xa hiệu quả."
+  },
+  {
+    "question": "Sự biến động hằng định của chỉ số huyết áp ở người bình thường phụ thuộc trực tiếp vào yếu tố nào?",
+    "options": [
+      "Lực co bóp của tim, nhịp tim và độ đàn hồi của thành mạch",
+      "Kích thước tổng thể chiều dài của cơ thể",
+      "Lượng nước tiểu thải ra trong một giờ",
+      "Tốc độ phân chia của tế bào hồng cầu"
+    ],
+    "answer": "Lực co bóp của tim, nhịp tim và độ đàn hồi của thành mạch",
+    "explanation": "Huyết áp tạo ra bởi áp lực máu lên thành mạch, chịu chi phối trực tiếp bởi sức co bóp cơ tim và sức cản ngoại vi của hệ mạch."
+  },
+  {
+    "question": "Hệ thống thụ thể áp lực nằm ở xoang động mạch cổ có chức năng gì trong hệ nội môi?",
+    "options": [
+      "Tiếp nhận các kích thích về sự thay đổi nhiệt độ môi trường",
+      "Cảm nhận biến động về áp suất máu để gửi thông tin về trung khu điều hòa tim mạch",
+      "Bài tiết các hormone điều hòa lượng muối trong cơ thể",
+      "Hấp thụ trực tiếp các ion khoáng thừa từ dòng máu"
+    ],
+    "answer": "Cảm nhận biến động về áp suất máu để gửi thông tin về trung khu điều hòa tim mạch",
+    "explanation": "Các thụ thể áp lực ở cung động mạch chủ và xoang động mạch cảnh chuyên hóa việc giám sát sự thay đổi huyết áp để kích hoạt phản xạ điều hòa tim mạch kịp thời."
+  },
+  {
+    "question": "Khi đặt một chậu cây nằm ngang, sau một thời gian rễ cây sẽ mọc cong xuống đất. Đây là hiện tượng cảm ứng gì?",
+    "options": [
+      "Hướng trọng lực dương",
+      "Hướng trọng lực âm",
+      "Hướng sáng dương",
+      "Hướng hóa âm"
+    ],
+    "answer": "Hướng trọng lực dương",
+    "explanation": "Rễ cây phản ứng sinh trưởng hướng theo chiều tác động của lực hút trái đất (trọng lực), đây gọi là hướng trọng lực dương."
+  },
+  {
+    "question": "Tế bào thần kinh (neuron) cấu tạo gồm các thành phần cơ bản nào?",
+    "options": [
+      "Thân tế bào, sợi trục và sợi nhánh",
+      "Bao myelin, eo Ranvier và synapse",
+      "Nhân tế bào, ribosome và ti thể sống",
+      "Sợi liên kết, màng sinh chất và các bóng chứa chất khí"
+    ],
+    "answer": "Thân tế bào, sợi trục và sợi nhánh",
+    "explanation": "Một neuron điển hình bao gồm phần thân chứa nhân, các sợi nhánh nhận tín hiệu vào và sợi trục dẫn truyền tín hiệu đi ra."
+  },
+  {
+    "question": "Sự thay đổi tính thấm của màng tế bào thần kinh đối với ion nào gây ra hiện tượng mất phân cực và đảo cực trong điện thế hoạt động?",
+    "options": [
+      "Kênh Potassium mở ra làm ion di chuyển vào trong",
+      "Kênh Sodium mở ra làm ion di chuyển ồ ạt từ ngoài vào trong",
+      "Kênh Calcium đóng lại hoàn toàn",
+      "Kênh Chloride đẩy ion ra ngoài tế bào"
+    ],
+    "answer": "Kênh Sodium mở ra làm ion di chuyển ồ ạt từ ngoài vào trong",
+    "explanation": "Khi bị kích thích, kênh Sodium (Na+) mở rộng, Na+ mang điện dương tràn nhanh vào trong tế bào làm trung hòa điện tích âm bên trong và đảo ngược điện thế màng."
+  },
+  {
+    "question": "Bộ phận nào trong não bộ của người đóng vai trò điều hòa phối hợp các cử động phức tạp và giữ thăng bằng cho cơ thể?",
+    "options": [
+      "Hành não",
+      "Tiểu não",
+      "Não trung gian",
+      "Cầu não"
+    ],
+    "answer": "Tiểu não",
+    "explanation": "Tiểu não nằm phía sau não bộ, phụ trách việc giám sát, điều chỉnh các cử động tự chủ của cơ bắp và duy trì tư thế thăng bằng của cơ thể."
+  },
+  {
+    "question": "Hình thức học tập nào diễn ra khi một con chim không còn bay lên bỏ chạy khi thấy một hình nộm đứng yên trong ruộng lúa lâu ngày?",
+    "options": [
+      "Học ngầm",
+      "In vết",
+      "Quen nhờn",
+      "Học khôn"
+    ],
+    "answer": "Quen nhờn",
+    "explanation": "Quen nhờn là hình thức học tập đơn giản, động vật phớt lờ, không phản ứng lại các kích thích lặp đi lặp lại nhiều lần nếu kích thích đó không kèm theo nguy hiểm hay lợi ích gì."
+  },
+  {
+    "question": "Tập tính di cư của một số loài chim vào mùa đông thuộc loại tập tính nào?",
+    "options": [
+      "Tập tính bẩm sinh",
+      "Tập tính học được hoàn toàn",
+      "Tập tính không có tính di truyền",
+      "Tập tính do con người huấn luyện"
+    ],
+    "answer": "Tập tính bẩm sinh",
+    "explanation": "Tập tính di cư tránh rét mang tính bản năng, bẩm sinh, được quy định bởi hệ gen của loài và xuất hiện tự động theo chu kỳ mùa."
+  },
+  {
+    "question": "Hormone thực vật nào có vai trò đối kháng trực tiếp với Gibberellin, gây trạng thái ngủ của hạt và đáp ứng với điều kiện khô hạn?",
+    "options": [
+      "Auxin",
+      "Cytokinin",
+      "Abscisic acid (ABA)",
+      "Ethylene"
+    ],
+    "answer": "Abscisic acid (ABA)",
+    "explanation": "Abscisic acid kích thích sự ngủ của hạt, kìm hãm sự nảy mầm và điều khiển đóng khí khổng khi cây gặp stress hạn hán."
+  },
+  {
+    "question": "Sự phát triển của thực vật có hoa chịu ảnh hưởng của nhân tố nhiệt độ thấp gọi là hiện tượng gì?",
+    "options": [
+      "Quang chu kỳ",
+      "Xuân hóa",
+      "Hướng quang",
+      "Phát hoa ứng động"
+    ],
+    "answer": "Xuân hóa",
+    "explanation": "Xuân hóa là hiện tượng một số loài thực vật chỉ có thể ra hoa sau khi trải qua một thời kỳ nhiệt độ thấp lạnh giá của mùa đông."
+  },
+  {
+    "question": "Sự phát triển không qua biến thái ở động vật (như ở người, gà) có đặc điểm gì nổi bật?",
+    "options": [
+      "Con non sinh ra có hình thái cấu tạo tương tự như con trưởng thành",
+      "Con non phải qua giai đoạn nhộng lột xác nhiều lần",
+      "Cơ thể con non hoàn toàn khác biệt với bố mẹ về hình dạng răng",
+      "Động vật lớn lên bằng cách thay đổi toàn bộ lớp da ngoài"
+    ],
+    "answer": "Con non sinh ra có hình thái cấu tạo tương tự như con trưởng thành",
+    "explanation": "Phát triển không qua biến thái là kiểu phát triển mà con non có hình thái, cấu trúc cơ thể tương đồng con trưởng thành, chỉ tăng lên về kích thước khối lượng."
+  },
+  {
+    "question": "Hình thức sinh sản vô tính nào xảy ra khi cơ thể mẹ tự cắt thành các mảnh nhỏ, mỗi mảnh phát triển thành một cơ thể mới (như ở sán lông)?",
+    "options": [
+      "Nảy chồi",
+      "Phân đôi",
+      "Tái sinh từ mảnh vụn (mảnh vỡ)",
+      "Trinh sinh"
+    ],
+    "answer": "Tái sinh từ mảnh vụn (mảnh vỡ)",
+    "explanation": "Một số loài động vật bậc thấp có khả năng phân mảnh cơ thể, các tế bào tại mảnh cắt sẽ nguyên phân và biệt hóa tái sinh lại đầy đủ các cơ quan còn thiếu."
+  },
+  {
+    "question": "Cấu trúc bao bọc xung quanh noãn ở hoa sau khi thụ tinh kép thành công sẽ phát triển thành cấu trúc nào?",
+    "options": [
+      "Quả",
+      "Hạt",
+      "Phôi cho hạt",
+      "Lá đài"
+    ],
+    "answer": "Hạt",
+    "explanation": "Sau khi diễn ra thụ tinh kép, noãn đã thụ tinh phát triển thành hạt, còn bầu nhụy bao xung quanh sẽ phát triển thành quả chứa hạt."
+  },
+  {
+    "question": "Hiện tượng thụ tinh nhân tạo và thụ tinh trong ống nghiệm ở người mang lại giá trị thực tiễn lớn nhất trong lĩnh vực nào?",
+    "options": [
+      "Thay đổi hoàn toàn giới tính của thế hệ con",
+      "Hỗ trợ điều trị vô sinh, hiếm muộn ở các cặp vợ chồng",
+      "Tạo ra các cá thể nhân bản vô tính hoàn chỉnh",
+      "Làm giảm thời gian mang thai của người mẹ xuống một nửa"
+    ],
+    "answer": "Hỗ trợ điều trị vô sinh, hiếm muộn ở các cặp vợ chồng",
+    "explanation": "Thụ tinh trong ống nghiệm giúp các cặp vợ chồng gặp vấn đề về đường sinh sản có thể cho tinh trùng và trứng kết hợp nhân tạo rồi cấy lại tử cung để mang thai."
+  },
+  {
+    "question": "Tại sao việc trồng cây thân gỗ lớn ở vùng đầu nguồn các con sông lại có vai trò quan trọng trong việc bảo vệ nguồn nước ngầm?",
+    "options": [
+      "Rễ cây hút hết nước sông làm sông không bị tràn bờ",
+      "Hệ rễ giữ đất tơi xốp, tán lá giảm lực nước mưa rơi, giúp tăng lượng nước mưa thấm sâu xuống lòng đất",
+      "Lá cây gỗ giải phóng các chất hóa học làm sạch nước mưa rơi xuống",
+      "Cây gỗ lớn ngăn cản không cho nước bốc hơi một giọt nào"
+    ],
+    "answer": "Hệ rễ giữ đất tơi xốp, tán lá giảm lực nước mưa rơi, giúp tăng lượng nước mưa thấm sâu xuống lòng đất",
+    "explanation": "Thảm thực vật rừng giữ vai trò điều tiết dòng chảy, tán lá cản bớt lực mưa giúp đất không bị nén chặt, tạo điều kiện cho nước mưa thấm dần xuống tạo mạch nước ngầm."
+  },
+  {
+    "question": "Trong trồng trọt thủy canh, tại sao người ta luôn phải sục khí oxy liên tục vào các thùng chứa dung dịch dinh dưỡng nuôi cây?",
+    "options": [
+      "Để khuấy đều phân bón không bị lắng đọng xuống đáy",
+      "Cung cấp oxy cho tế bào rễ hô hấp hiếu khí, đảm bảo năng lượng cho sự hút khoáng chủ động",
+      "Ngăn cản sự xâm nhập của ánh sáng mặt trời vào dung dịch",
+      "Để tiêu diệt toàn bộ các loài vi khuẩn có lợi cho rễ"
+    ],
+    "answer": "Cung cấp oxy cho tế bào rễ hô hấp hiếu khí, đảm bảo năng lượng cho sự hút khoáng chủ động",
+    "explanation": "Trong môi trường nước tĩnh, lượng oxy hòa tan tiêu hao rất nhanh. Thiếu oxy rễ sẽ bị thối, không thể hấp thụ khoáng. Sục khí giúp rễ hô hấp tốt, sinh trưởng khỏe mạnh."
+  },
+  {
+    "question": "Khi cây bị ngập úng lâu ngày, các tế bào rễ phải chuyển sang con đường lên men kị khí. Hậu quả trực tiếp của việc tích lũy sản phẩm lên men này là gì?",
+    "options": [
+      "Tạo ra quá nhiều ATP làm rễ cây bị quá tải năng lượng",
+      "Sinh ra các chất độc hại như ethanol làm hủy hoại tế bào rễ, gây thối rễ",
+      "Kích thích rễ mọc dài ra nhanh chóng để thoát úng",
+      "Làm cho toàn bộ lá cây tăng cường tổng hợp chất hữu cơ"
+    ],
+    "answer": "Sinh ra các chất độc hại như ethanol làm hủy hoại tế bào rễ, gây thối rễ",
+    "explanation": "Quá trình lên men kị khí ở thực vật sinh ra ethanol và các sản phẩm trung gian độc hại. Hàm lượng chất độc này tích lũy cao sẽ làm chết các tế bào rễ, gây hiện tượng thối rễ."
+  },
+  {
+    "question": "Tại sao biện pháp bón phân qua lá bằng cách phun dung dịch dinh dưỡng nồng độ thấp lại đem lại hiệu quả nhanh chóng cho cây bị thiếu khoáng?",
+    "options": [
+      "Lá cây có khả năng hấp thụ các ion khoáng trực tiếp qua lớp khí khổng và lớp cutin mỏng",
+      "Phun lên lá giúp phân bón di chuyển thẳng xuống rễ mà không bị thất thoát",
+      "Dung dịch phân bón trên lá sẽ thay thế hoàn toàn cho quá trình quang hợp",
+      "Lá cây có cấu tạo thành tế bào dày hơn rễ nên giữ được nhiều phân"
+    ],
+    "answer": "Lá cây có khả năng hấp thụ các ion khoáng trực tiếp qua lớp khí khổng và lớp cutin mỏng",
+    "explanation": "Các ion khoáng trong dung dịch phun lên lá có thể khuếch tán qua các lỗ khí khổng mở hoặc thấm qua bề mặt cutin vào bên trong tế bào lá, giúp cây bổ sung khoáng lập tức."
+  },
+  {
+    "question": "Tại sao khi thời tiết nắng nóng gay gắt đi kèm gió khô mạnh, cây trồng có thể bị héo rũ mặc dù đất vẫn có độ ẩm vừa phải?",
+    "options": [
+      "Do rễ cây tự động ngừng hút nước khi nhiệt độ cao",
+      "Do tốc độ thoát hơi nước ở lá vượt quá khả năng hút và vận chuyển nước của hệ rễ",
+      "Do ánh sáng mặt trời phá hủy hoàn toàn cấu trúc mạch gỗ",
+      "Do chất hữu cơ từ lá di chuyển xuống rễ quá nhanh chèn ép mạch dẫn"
+    ],
+    "answer": "Do tốc độ thoát hơi nước ở lá vượt quá khả năng hút và vận chuyển nước của hệ rễ",
+    "explanation": "Gió khô và nắng gắt đẩy tốc độ thoát hơi nước lên cực đại. Nếu hệ rễ không kịp hút và đẩy nước lên bù lại lượng mất đi, tế bào lá sẽ mất sức trương nước dẫn đến héo."
+  },
+  {
+    "question": "Một nhà sinh lý học thực vật tiến hành loại bỏ toàn bộ các tế bào nội bì của rễ cây bụi. Cây này sẽ gặp tổn thương gì nghiêm trọng nhất?",
+    "options": [
+      "Cây không thể thực hiện quá trình phân chia tế bào ở đỉnh rễ",
+      "Mất đi sự kiểm soát chọn lọc các ion khoáng đi vào mạch gỗ do không còn vòng đai Caspary",
+      "Thân cây lập tức bị gãy đổ do mất gốc bám",
+      "Lá cây không thể nhận được khí carbon dioxide từ môi trường"
+    ],
+    "answer": "Mất đi sự kiểm soát chọn lọc các ion khoáng đi vào mạch gỗ do không còn vòng đai Caspary",
+    "explanation": "Tế bào nội bì có vòng đai Caspary không thấm nước, buộc dòng nước và khoáng đi theo con đường gian bào phải xuyên qua tế bào chất để kiểm tra, lọc chất độc trước khi vào mạch gỗ."
+  },
+  {
+    "question": "Tại sao năng suất quang hợp của thực vật C3 giảm mạnh vào những ngày hè oi bức, khô hạn so với thực vật C4?",
+    "options": [
+      "Thực vật C3 bị kích hoạt mạnh quá trình quang hô hấp gây lãng phí sản phẩm quang hợp",
+      "Thực vật C3 hoàn toàn không thể đóng được khí khổng để giữ nước",
+      "Enzyme Rubisco của thực vật C3 bị phân hủy hoàn toàn ở nhiệt độ 30 độ C",
+      "Hệ sắc tố của thực vật C3 không hấp thụ được ánh sáng mạnh"
+    ],
+    "answer": "Thực vật C3 bị kích hoạt mạnh quá trình quang hô hấp gây lãng phí sản phẩm quang hợp",
+    "explanation": "Khi khô hạn, C3 khép bớt khí khổng làm CO2 giảm, O2 tăng. Enzyme Rubisco chuyển sang hoạt tính oxygenase, phân hủy sản phẩm quang hợp tạo hiện tượng quang hô hấp làm giảm năng suất."
+  },
+  {
+    "question": "Nếu một cây thực vật CAM bị ép buộc phải sống trong môi trường có ánh sáng liên tục cả ngày lẫn đêm với nhiệt độ không đổi, chu trình cố định CO2 của nó sẽ bị xáo trộn như thế nào?",
+    "options": [
+      "Nó sẽ chuyển hẳn sang chu trình quang hợp giống hoàn toàn như thực vật C3",
+      "Cây không thể mở khí khổng ban đêm để lấy CO2, dẫn đến thiếu hụt nguyên liệu hữu cơ và chết dần",
+      "Tốc độ quang hợp của cây tăng lên gấp ba lần",
+      "Cây sẽ tự động sinh sản vô tính liên tục để duy trì nòi giống"
+    ],
+    "answer": "Cây không thể mở khí khổng ban đêm để lấy CO2, dẫn đến thiếu hụt nguyên liệu hữu cơ và chết dần",
+    "explanation": "Thực vật CAM mở khí khổng dựa trên nhịp sinh học ban đêm (mát mẻ). Khi không có sự phân biệt ngày đêm, cơ chế mở khí khổng và tích trữ malic acid bị rối loạn, cây thiếu hụt carbon trầm trọng."
+  },
+  {
+    "question": "Tại sao việc trồng xen canh cây bộ Đậu (như lạc, đỗ) với các cây lương thực (như ngô, sắn) lại là một giải pháp canh tác bền vững?",
+    "options": [
+      "Cây họ Đậu tỏa ra mùi hương xua đuổi toàn bộ sâu bệnh cho cây ngô",
+      "Rễ cây họ Đậu có nốt sần chứa vi khuẩn cộng sinh Rhizobium giúp cố định đạm, làm giàu nguồn nitơ cho đất",
+      "Cây họ Đậu có bộ rễ sâu hút nước dưới tầng đất đáy lên nuôi cây ngô",
+      "Lá cây họ Đậu rụng xuống giải phóng chất độc ức chế cỏ dại mọc"
+    ],
+    "answer": "Rễ cây họ Đậu có nốt sần chứa vi khuẩn cộng sinh Rhizobium giúp cố định đạm, làm giàu nguồn nitơ cho đất",
+    "explanation": "Vi khuẩn Rhizobium sống cộng sinh trong nốt sần rễ cây họ Đậu có khả năng cố định nitơ tự do thành dạng đạm cây hấp thụ được, phần đạm dư thừa làm giàu độ phì nhiêu cho đất bón cho cây trồng xen."
+  },
+  {
+    "question": "Một mẫu máu của bệnh nhân được xác định có hàm lượng urea và creatinine cao bất thường trong máu. Cơ quan nào của người này đang gặp suy giảm chức năng nặng?",
+    "options": [
+      "Phổi",
+      "Gan",
+      "Thận",
+      "Dạ dày"
+    ],
+    "answer": "Thận",
+    "explanation": "Urea và creatinine là các sản phẩm bài tiết chứa nitơ độc hại của quá trình chuyển hóa, bình thường được thận lọc và thải qua nước tiểu. Hàm lượng chất này tăng cao chứng tỏ chức năng lọc của thận bị suy giảm."
+  },
+  {
+    "question": "Người bị hở van tim tim (van tim đóng không kín) thường có biểu hiện mệt mỏi, hụt hơi khi vận động mạnh. Nguyên nhân sinh lý chính là gì?",
+    "options": [
+      "Van tim hở làm máu bị trào ngược, giảm thể tích tống máu trong mỗi chu kì, dẫn đến thiếu oxy ở các cơ quan",
+      "Hở van tim làm cho nhịp tim giảm xuống rất thấp dưới 40 nhịp một phút",
+      "Máu chảy trong mạch hoàn toàn dừng lại không di chuyển",
+      "Phổi ngừng hoạt động trao đổi khí khi van tim bị hở"
+    ],
+    "answer": "Van tim hở làm máu bị trào ngược, giảm thể tích tống máu trong mỗi chu kì, dẫn đến thiếu oxy ở các cơ quan",
+    "explanation": "Van tim hở khiến một lượng máu bị phụt ngược lại ngăn tim trước khi tim co bóp tống máu vào động mạch, làm giảm lượng máu giàu oxy phân phối đến tế bào cơ, gây mỏi mệt."
+  },
+  {
+    "question": "Tại sao việc ăn mặn thường xuyên (tiêu thụ quá nhiều muối NaCl) lại là nguyên nhân trực tiếp dẫn đến nguy cơ mắc bệnh cao huyết áp?",
+    "options": [
+      "Muối làm cho thành mạch máu bị giòn và dễ vỡ trực tiếp",
+      "Nồng độ ion Na+ trong máu cao làm tăng áp suất thẩm thấu, kéo nước từ tế bào vào lòng mạch, làm tăng thể tích máu",
+      "Ăn mặn làm giảm nhịp co bóp của tim xuống mức tối thiểu",
+      "Muối kích thích các tuyến nội tiết ngừng tiết toàn bộ các loại hormone"
+    ],
+    "answer": "Nồng độ ion Na+ trong máu cao làm tăng áp suất thẩm thấu, kéo nước từ tế bào vào lòng mạch, làm tăng thể tích máu",
+    "explanation": "Hàm lượng muối cao làm tăng áp suất thẩm thấu của máu. Cơ thể phản ứng bằng cách giữ nước và tăng cảm giác khát để uống nước, dẫn đến tăng thể tích tuần hoàn và áp lực lên thành mạch (cao huyết áp)."
+  },
+  {
+    "question": "Hiện tượng một số loài cây như cây tơ hồng sống bám trên thân cây chủ, hình thành các rễ mút đâm sâu vào mạch dẫn của cây chủ thuộc loại hướng động nào?",
+    "options": [
+      "Hướng tiếp xúc dương",
+      "Hướng hóa âm",
+      "Hướng sáng dương",
+      "Hướng trọng lực âm"
+    ],
+    "answer": "Hướng tiếp xúc dương",
+    "explanation": "Cây tơ hồng phản ứng sinh trưởng uốn cong và bám chặt khi có sự tiếp xúc cơ học với bề mặt thân cây chủ, đây là một dạng hướng tiếp xúc giúp chúng ký sinh thành công."
+  },
+  {
+    "question": "Khi phun thuốc độc kích hoạt việc mở vĩnh viễn kênh Sodium trên màng sợi trục thần kinh, điều gì sẽ xảy ra với việc truyền xung thần kinh?",
+    "options": [
+      "Xung thần kinh sẽ được truyền với vận tốc nhanh gấp trăm lần",
+      "Màng tế bào bị mất phân cực vĩnh viễn, không thể tái phân cực để đón nhận xung thần kinh tiếp theo",
+      "Xung thần kinh tự động đổi hướng chạy ngược lại não bộ",
+      "Kênh Potassium sẽ tự biến đổi thành kênh hấp thụ chất độc"
+    ],
+    "answer": "Màng tế bào bị mất phân cực vĩnh viễn, không thể tái phân cực để đón nhận xung thần kinh tiếp theo",
+    "explanation": "Nếu kênh Sodium mở vĩnh viễn, ion Na+ tràn vào liên tục làm màng không thể phục hồi lại trạng thái điện thế nghỉ (tái phân cực), dẫn đến tế bào thần kinh bị tê liệt hoàn toàn."
+  },
+  {
+    "question": "Tại sao các bác sĩ thú y thường khuyên nên triệt sản (cắt bỏ tinh hoàn hoặc buồng trứng) cho chó mèo nuôi trong gia đình nếu không có nhu cầu nhân giống?",
+    "options": [
+      "Làm giảm lượng thức ăn tiêu thụ hằng ngày của vật nuôi",
+      "Giảm các hành vi hung hăng, đi hoang tìm bạn tình do loại bỏ nguồn sản sinh hormone sinh dục",
+      "Giúp vật nuôi tăng trưởng chiều cao vượt trội so với bình thường",
+      "Triệt sản làm cho hệ thần kinh dạng lưới phát triển mạnh hơn"
+    ],
+    "answer": "Giảm các hành vi hung hăng, đi hoang tìm bạn tình do loại bỏ nguồn sản sinh hormone sinh dục",
+    "explanation": "Cắt bỏ cơ quan sinh sản làm giảm triệt dể nồng độ hormone sinh dục (testosterone hoặc estrogen), giúp triệt tiêu các bản năng tìm bạn tình, giảm xung đột hoang dại và giữ vật nuôi hiền lành hơn."
+  },
+  {
+    "question": "Trong sản xuất nông nghiệp, tại sao việc sử dụng quá liều lượng hormone kích thích sinh trưởng nhân tạo (như auxin tổng hợp) lại có nguy cơ gây độc cho người tiêu dùng?",
+    "options": [
+      "Vì các hormone này biến đổi cấu trúc xương người thành xương thực vật",
+      "Các chất điều hòa sinh trưởng nhân tạo khó bị phân hủy sinh học, tích lũy trong nông sản gây hại sức khỏe",
+      "Hormone thực vật kích thích các tế bào biểu bì người phân chia vô hạn",
+      "Chúng làm cho nông sản biến đổi hoàn toàn thành chất béo độc hại"
+    ],
+    "answer": "Các chất điều hòa sinh trưởng nhân tạo khó bị phân hủy sinh học, tích lũy trong nông sản gây hại sức khỏe",
+    "explanation": "Khác với hormone tự nhiên, các hợp chất điều hòa sinh trưởng tổng hợp không có hệ enzyme nội sinh trong cây phân giải nhanh chóng, chúng tồn dư lâu dài trong mô quả và gây độc cho cơ thể người ăn phải."
+  },
+  {
+    "question": "Tại sao việc thắp đèn ban đêm vào mùa thu đông ở các vườn trồng hoa cúc lại ngăn cản chúng ra hoa sớm, giúp người trồng điều khiển hoa nở đúng dịp Tết?",
+    "options": [
+      "Ánh sáng đèn tiêu diệt các loài nấm ký sinh trên nụ hoa cúc",
+      "Hoa cúc là cây ngày ngắn, việc thắp đèn làm ngắt quãng đêm dài thành hai đêm ngắn, ức chế sự ra hoa",
+      "Ánh sáng đèn làm tăng nhiệt độ kích thích thân cúc mọc dài ra",
+      "Thắp đèn làm tăng cường tốc độ thoát hơi nước qua lá cúc"
+    ],
+    "answer": "Hoa cúc là cây ngày ngắn, việc thắp đèn làm ngắt quãng đêm dài thành hai đêm ngắn, ức chế sự ra hoa",
+    "explanation": "Hoa cúc cần một thời gian tối liên tục dài để kích hoạt hormone ra hoa. Chiếu sáng ban đêm phá vỡ giai đoạn tối liên tục này, khiến cây hiểu sai thời điểm mùa và tiếp tục sinh trưởng sinh dưỡng, chậm ra hoa."
+  },
+  {
+    "question": "Tại sao các động vật lưỡng cư (như ếch đồng) phải sống ở những nơi ẩm ướt gần nguồn nước?",
+    "options": [
+      "Vì chúng không có bộ xương để nâng đỡ cơ thể trên cạn",
+      "Vì phổi chưa phát triển hoàn thiện, chúng phải trao đổi khí chủ yếu qua da và da bắt buộc phải luôn ẩm ướt",
+      "Để tránh ánh sáng mặt trời làm hỏng mắt",
+      "Vì hệ thần kinh của chúng chỉ hoạt động được dưới nước"
+    ],
+    "answer": "Vì phổi chưa phát triển hoàn thiện, chúng phải trao đổi khí chủ yếu qua da và da bắt buộc phải luôn ẩm ướt",
+    "explanation": "Phổi ếch cấu tạo đơn giản, hiệu suất thấp, hơn một nửa lượng khí trao đổi qua da. Da ếch phải ẩm để khí oxy hòa tan và khuếch tán vào hệ mao mạch dưới da, nếu khô da ếch sẽ chết ngạt."
+  },
+  {
+    "question": "Khi làm thí nghiệm cắt đứt dây thần kinh đến tim của một con ếch, tim của nó vẫn tiếp tục co bóp đều đặn một thời gian trong dung dịch sinh lý. Hiện tượng này chứng minh điều gì?",
+    "options": [
+      "Tim không cần năng lượng từ máu để hoạt động",
+      "Tim có tính tự động nhờ hệ dẫn truyền tim tự phát xung điện",
+      "Hệ thần kinh hoàn toàn không có vai trò gì đối với tim",
+      "Tế bào cơ tim có khả năng tự quang hợp tạo năng lượng"
+    ],
+    "answer": "Tim có tính tự động nhờ hệ dẫn truyền tim tự phát xung điện",
+    "explanation": "Tim có tính tự động là do hệ dẫn truyền tim bao gồm nút xoang nhĩ tự động phát xung điện lan truyền ra cơ tim, kích thích tim co bóp chu kỳ độc lập với hệ thần kinh."
+  },
+  {
+    "question": "Hiện tượng một số loài sâu bọ giả dạng thành hình chiếc lá khô hoặc cành cây giúp chúng tránh được sự phát hiện của chim ăn thịt là kết quả của quá trình nào?",
+    "options": [
+      "Sự học tập rút kinh nghiệm của từng cá thể sâu non",
+      "Sự chọn lọc tự nhiên lưu giữ các đột biến hình thái có lợi cho sự ngụy trang",
+      "Sự huấn luyện chủ động của các cá thể sâu bố mẹ",
+      "Do sâu bọ ăn lá cây nên hình dạng biến đổi theo thức ăn"
+    ],
+    "answer": "Sự chọn lọc tự nhiên lưu giữ các đột biến hình thái có lợi cho sự ngụy trang",
+    "explanation": "Các biến dị ngẫu nhiên giúp sâu có hình dạng giống lá cây được chọn lọc tự nhiên giữ lại vì giúp chúng sống sót cao hơn trước kẻ thù, đặc điểm này di truyền lại cho thế hệ sau."
+  },
+  {
+    "question": "Tại sao việc tiêm vaccine phòng bệnh lại có khả năng bảo vệ cơ thể khỏi các tác nhân gây bệnh trong một thời gian dài?",
+    "options": [
+      "Vaccine chứa các chất kháng sinh mạnh tiêu diệt mầm bệnh vĩnh viễn",
+      "Vaccine kích thích hệ miễn dịch tạo ra tế bào nhớ, giúp phản ứng nhanh và mạnh khi mầm bệnh thật xâm nhập",
+      "Vaccine bao bọc xung quanh các tế bào lành ngăn virus tấn công",
+      "Vaccine làm thay đổi hoàn toàn nhóm máu của người được tiêm"
+    ],
+    "answer": "Vaccine kích thích hệ miễn dịch tạo ra tế bào nhớ, giúp phản ứng nhanh và mạnh khi mầm bệnh thật xâm nhập",
+    "explanation": "Vaccine đưa kháng nguyên bất hoạt vào cơ thể để tập dượt cho hệ miễn dịch sản sinh kháng thể và hình thành tế bào lympho B và T nhớ. Khi mầm bệnh thật tấn công, tế bào nhớ lập tức nhân lên diệt trừ mầm bệnh."
+  },
+  {
+    "question": "Một người đàn ông có chế độ ăn đầy đủ dinh dưỡng nhưng tuyến tụy bị phá hủy hoàn toàn do bệnh lý. Người này sẽ gặp rối loạn chức năng sống nào nặng nề nhất?",
+    "options": [
+      "Không thể thực hiện động tác thở bình thường",
+      "Suy giảm nghiêm trọng khả năng tiêu hóa thức ăn ở ruột non và mất kiểm soát đường huyết",
+      "Máu không thể đông lại khi bị thương",
+      "Xương bị mất chất khoáng và trở nên giòn gãy"
+    ],
+    "answer": "Suy giảm nghiêm trọng khả năng tiêu hóa thức ăn ở ruột non và mất kiểm soát đường huyết",
+    "explanation": "Tuyến tụy vừa là tuyến ngoại tiết tiết dịch tụy chứa các enzyme tiêu hóa quan trọng, vừa là tuyến nội tiết tiết insulin và glucagon điều hòa đường huyết. Mất tụy ảnh hưởng trực tiếp đến cả hai hệ tiêu hóa và nội tiết."
+  },
+  {
+    "question": "Một nhà khoa học chặn chuỗi truyền electron trong màng thylakoid của lục lạp bằng chất hóa học ức chế. Quá trình nào sau đây ở pha tối sẽ bị ảnh hưởng trực tiếp đầu tiên?",
+    "options": [
+      "Sự hấp thụ ánh sáng của phức hệ anten",
+      "Sự khử APG thành AlPG do thiếu ATP và NADPH từ pha sáng",
+      "Sự hấp thụ khí carbon dioxide qua lỗ khí khổng",
+      "Sự phân chia của lục lạp để tăng số lượng"
+    ],
+    "answer": "Sự khử APG thành AlPG do thiếu ATP và NADPH từ pha sáng",
+    "explanation": "Chặn chuỗi truyền electron pha sáng làm ngừng tổng hợp ATP và NADPH. Trong chu trình Calvin, giai đoạn khử APG thành AlPG bắt buộc phải dùng năng lượng từ hai phân tử này, nên sẽ bị đình trệ lập tức."
+  },
+  {
+    "question": "Khi nuôi cá vàng trong bể kính nhỏ kín, nếu ta thả thêm vào bể một số nhánh rong đuôi chó thì cá vàng sẽ sống lâu hơn. Giải thích hiện tượng này?",
+    "options": [
+      "Rong đuôi chó tiết ra chất hữu cơ làm thức ăn chính cho cá",
+      "Rong đuôi chó quang hợp hấp thụ khí CO2 do cá thải ra và giải phóng khí O2 cung cấp cho cá hô hấp",
+      "Rong làm giảm nhiệt độ của nước bể kính",
+      "Rong ngăn chặn sự khuếch tán của nước ra ngoài không khí"
+    ],
+    "answer": "Rong đuôi chó quang hợp hấp thụ khí CO2 do cá thải ra và giải phóng khí O2 cung cấp cho cá hô hấp",
+    "explanation": "Rong đuôi chó dưới ánh sáng sẽ quang hợp, lấy CO2 do cá thải ra qua hô hấp và trả lại O2 hòa tan vào nước, giúp cá có đủ oxy để duy trì sự sống trong không gian kín."
+  },
+  {
+    "question": "Nếu thiết kế một thí nghiệm đo lượng nhiệt giải phóng ra từ các mẫu thực vật khác nhau, mẫu nào sau đây sẽ làm nhiệt kế tăng nhiệt độ cao nhất?",
+    "options": [
+      "100g lá cây xanh tươi đang quang hợp ngoài nắng",
+      "100g hạt ngô đang trong giai đoạn nảy mầm mạnh",
+      "100g thân cây gỗ đã phơi khô hoàn toàn",
+      "100g quả chín đã luộc chín kỹ trong nước sôi"
+    ],
+    "answer": "100g hạt ngô đang trong giai đoạn nảy mầm mạnh",
+    "explanation": "Hạt đang nảy mầm có cường độ hô hấp tế bào cực kỳ cao nhằm giải phóng năng lượng ATP cho phôi phát triển. Hơn một nửa năng lượng hóa học trong đường bị thất thoát dưới dạng nhiệt, làm tăng nhiệt độ môi trường xung quanh."
+  },
+  {
+    "question": "Khi nghiên cứu cấu trúc của một dạ dày động vật, người ta thấy nó có cấu tạo đơn giản, năng suất co bóp cơ học yếu, ruột rất ngắn. Đây là hệ tiêu hóa của loài nào?",
+    "options": [
+      "Cừu ăn cỏ",
+      "Sói ăn thịt",
+      "Ngựa ăn tạp",
+      "Trâu ăn rơm"
+    ],
+    "answer": "Sói ăn thịt",
+    "explanation": "Sói là động vật ăn thịt, thức ăn giàu dinh dưỡng và dễ tiêu hóa bằng enzyme nên dạ dày của chúng không cần cấu tạo phức tạp để lên men, ruột ngắn giúp chất thải từ thịt được đào thải nhanh tránh nhiễm độc."
+  },
+  {
+    "question": "Tại sao một người khi leo lên đỉnh núi cao (khoảng 4000 mét) mà không có bình hỗ trợ thường có biểu hiện thở dốc, chóng mặt, tim đập nhanh?",
+    "options": [
+      "Nhiệt độ trên đỉnh núi cao làm đông cứng dòng máu",
+      "Áp suất không khí giảm, phân áp oxy loãng làm giảm lượng oxy khuếch tán vào máu, kích thích trung khu hô hấp tăng hoạt động",
+      "Trọng lực trên núi cao hút máu dồn hết xuống chân",
+      "Nồng độ khí nitrogen trên cao quá đậm đặc gây ngộ độc não"
+    ],
+    "answer": "Áp suất không khí giảm, phân áp oxy loãng làm giảm lượng oxy khuếch tán vào máu, kích thích trung khu hô hấp tăng hoạt động",
+    "explanation": "Càng lên cao không khí càng loãng, phân áp O2 giảm khiến sự chênh lệch phân áp giữa phế nang và mao mạch phổi giảm, oxy vào máu ít. Cơ thể bù đắp bằng cách tăng nhịp tim, nhịp thở để thu nhận oxy."
+  },
+  {
+    "question": "Một vận động viên chạy marathon hoàn thành cự ly dài, xét nghiệm máu ngay sau đó thấy pH máu giảm xuống dưới mức bình thường (khoảng 7.2). Cơ chế hệ đệm nào trong máu sẽ tham gia điều hòa đầu tiên?",
+    "options": [
+      "Hệ đệm phosphate giải phóng ion H+",
+      "Hệ đệm bicarbonate kết hợp với ion H+ dư thừa tạo thành carbonic acid",
+      "Hệ protein máu tự phân hủy để giải phóng khí oxy",
+      "Thận lập tức ngừng lọc toàn bộ các ion khoáng"
+    ],
+    "answer": "Hệ đệm bicarbonate kết hợp với ion H+ dư thừa tạo thành carbonic acid",
+    "explanation": "Vận động mạnh sinh ra nhiều acid lactic giải phóng H+. Hệ đệm bicarbonate (HCO3-) trong huyết tương lập tức gắn kết với H+ tự do tạo thành H2CO3, chất này phân rã thành H2O và CO2 được phổi đào thải ra ngoài."
+  },
+  {
+    "question": "Nếu cắt bỏ phần đỉnh sinh trưởng của rễ cây rồi đặt chậu cây nằm ngang, phản ứng hướng trọng lực của rễ cây sẽ thay đổi như thế nào?",
+    "options": [
+      "Rễ cây vẫn mọc cong xuống đất bình thường",
+      "Rễ cây sẽ mọc thẳng đứng ngược lên trời",
+      "Rễ cây mất khả năng cảm nhận trọng lực và tiếp tục mọc thẳng theo phương ngang",
+      "Rễ cây tự động phân nhánh thành hàng trăm rễ phụ mọc vòng tròn"
+    ],
+    "answer": "Rễ cây mất khả năng cảm nhận trọng lực và tiếp tục mọc thẳng theo phương ngang",
+    "explanation": "Đỉnh rễ (chóp rễ) chứa các tế bào cảm nhận trọng lực nhờ các hạt tinh bột nặng (statolith) di chuyển. Mất chóp rễ, rễ không thể nhận biết hướng trọng trường để điều khiển auxin phân bố không đều, do đó nó mọc thẳng."
+  },
+  {
+    "question": "Tại sao khi một người bị mất ngủ kéo dài nhiều ngày, khả năng tư duy, ghi nhớ và phản xạ của người đó lại suy giảm một cách nghiêm trọng?",
+    "options": [
+      "Do não bộ bị cạn kiệt hoàn toàn lượng ion Sodium và Potassium",
+      "Thiếu ngủ làm các tế bào thần kinh không có thời gian phục hồi, làm chậm quá trình tái phân cực và truyền tin qua synapse",
+      "Do mất ngủ làm cho hộp sọ co hẹp kích thước chèn ép não",
+      "Mất ngủ kích thích hệ thần kinh dạng lưới tự tiêu biến"
+    ],
+    "answer": "Thiếu ngủ làm các tế bào thần kinh không có thời gian phục hồi, làm chậm quá trình tái phân cực và truyền tin qua synapse",
+    "explanation": "Giấc ngủ là thời gian hệ thần kinh thanh thải độc tố, sắp xếp lại các mối nối synapse và tái tổng hợp chất truyền tin. Thiếu ngủ kéo dài làm cạn kiệt chất trung gian hóa học và gây quá tải mệt mỏi cho các mạch thần kinh."
+  },
+  {
+    "question": "Một người bị khối u lành tính ở thùy trước tuyến yên làm cho lượng hormone GH tiết ra vượt quá mức bình thường gấp nhiều lần từ khi còn nhỏ. Hậu quả ngoại hình của người này là gì?",
+    "options": [
+      "Người bị lùn bẩm sinh, chiều cao dưới 1 mét",
+      "Khổng lồ, các xương dài phát triển quá mức làm chiều cao to lớn bất thường",
+      "Cơ thể hoàn toàn bình thường không chịu ảnh hưởng của GH",
+      "Các cơ quan bên trong cơ thể biến mất dần"
+    ],
+    "answer": "Khổng lồ, các xương dài phát triển quá mức làm chiều cao to lớn bất thường",
+    "explanation": "GH kích thích phân chia tế bào ở các đĩa sụn tăng trưởng của xương dài. Tiết quá nhiều GH trước tuổi dậy thì khi sụn chưa hóa xương hoàn toàn sẽ dẫn đến chứng bệnh khổng lồ."
+  },
+  {
+    "question": "Trong nuôi cấy mô thực vật, để kích thích một khối tế bào callus (mô sẹo) biệt hóa mọc ra nhiều rễ nhanh chóng, người kỹ thuật viên cần điều chỉnh tỷ lệ hormone như thế nào?",
+    "options": [
+      "Tăng tỷ lệ Cytokinin cao hơn Auxin rất nhiều",
+      "Tăng tỷ lệ Auxin cao hơn Cytokinin rõ rệt",
+      "Chỉ sử dụng duy nhất hormone khí Ethylene",
+      "Loại bỏ hoàn toàn tất cả các loại hormone sinh trưởng"
+    ],
+    "answer": "Tăng tỷ lệ Auxin cao hơn Cytokinin rõ rệt",
+    "explanation": "Tỷ lệ tương quan Auxin / Cytokinin điều khiển sự biệt hóa cơ quan. Tỷ lệ Auxin cao kích thích mô sẹo biệt hóa hình thành rễ, trong khi tỷ lệ Cytokinin cao kích thích hình thành chồi thân."
+  },
+  {
+    "question": "Tại sao phương pháp nhân giống vô tính bằng cách giâm cành hoặc chiết cành lại giúp người nông dân nhanh chóng thu hoạch quả hơn so với gieo hạt từ quả đó?",
+    "options": [
+      "Cây con từ cành chiết có tốc độ quang hợp mạnh gấp mười lần",
+      "Cành giâm mang sẵn mô trưởng thành từ cây mẹ, bỏ qua giai đoạn sinh trưởng non trẻ, nhanh chóng đạt độ tuổi sinh sản",
+      "Cành giâm hấp thụ được nhiều phân bón đại lượng từ đất hơn",
+      "Phương pháp này làm thay đổi hoàn toàn chu kỳ quang chu kỳ của cây"
+    ],
+    "answer": "Cành giâm mang sẵn mô trưởng thành từ cây mẹ, bỏ qua giai đoạn sinh trưởng non trẻ, nhanh chóng đạt độ tuổi sinh sản",
+    "explanation": "Cành chiết, cành giâm được lấy từ cây mẹ đã trưởng thành, tế bào đã đạt độ chín sinh lý cho việc ra hoa kết quả nên khi ra rễ mới, cây con có thể chuyển sang giai đoạn sinh sản rất sớm."
+  },
+  {
+    "question": "Nếu một người phụ nữ uống viên thuốc tránh thai chứa progesterone hàm lượng cao liên tục hằng ngày, nồng độ các hormone FSH và LH của tuyến yên trong cơ thể người này sẽ biến động như thế nào?",
+    "options": [
+      "FSH và LH sẽ tăng cao đột biến gây rụng trứng hàng loạt",
+      "FSH và LH bị ức chế ở mức rất thấp do cơ chế điều hòa ngược âm tính lên tuyến yên",
+      "Tuyến yên tăng cường kích thước để tiết nhiều FSH hơn",
+      "FSH biến đổi thành LH làm buồng trứng tiêu biến vĩnh viễn"
+    ],
+    "answer": "FSH và LH bị ức chế ở mức rất thấp do cơ chế điều hòa ngược âm tính lên tuyến yên",
+    "explanation": "Nồng độ progesterone cao trong máu phát tín hiệu điều hòa ngược âm tính lên vùng dưới đồi và thùy trước tuyến yên, làm ngừng tiết FSH (hormone kích thích nang trứng) và LH (hormone gây rụng trứng), ngăn cản sự mang thai."
+  },
+  {
+    "question": "Hãy giải thích tại sao khi ta bón quá nhiều phân đạm hóa học (chứa nhiều nitơ) vào cuối giai đoạn sinh trưởng của cây lúa lại dẫn đến hiện tượng lúa bị lốp đổ và hạt lép nhiều?",
+    "options": [
+      "Đạm kích thích lá phát triển quá mạnh, thân vươn dài nhưng mô cơ giới yếu, cây dồn hết năng lượng nuôi lá làm hạt thiếu dinh dưỡng",
+      "Đạm làm cho hạt lúa tự động mở vỏ giải phóng hết tinh bột ra ngoài",
+      "Phân đạm làm rễ cây lúa co ngắn lại không thể bám vào bùn",
+      "Lượng đạm lớn biến đổi toàn bộ lục lạp thành không bào chứa nước"
+    ],
+    "answer": "Đạm kích thích lá phát triển quá mạnh, thân vươn dài nhưng mô cơ giới yếu, cây dồn hết năng lượng nuôi lá làm hạt thiếu dinh dưỡng",
+    "explanation": "Dư thừa đạm làm cây kích thích sinh trưởng sinh dưỡng (lá, thân) phát triển mạnh, thành tế bào mỏng, mô cơ giới kém phát triển khiến cây yếu, dễ đổ. Giai đoạn làm hạt, cây ưu tiên nuôi thân lá làm hạt không tích lũy đủ tinh bột, gây lép."
+  },
+  {
+    "question": "Trong một thí nghiệm, người ta chiếu ánh sáng đơn sắc màu xanh lục vào một chậu cây rong đuôi chó đang để trong tủ kính kín. Tốc độ giải phóng bọt khí O2 của cây rong này sẽ thay đổi như thế nào?",
+    "options": [
+      "Tốc độ giải phóng khí O2 tăng mạnh lên mức tối đa",
+      "Tốc độ giải phóng khí O2 giảm mạnh hoặc dừng hẳn vì diệp lục hấp thụ rất kém ánh sáng xanh lục",
+      "Cây rong sẽ lập tức chuyển sang hô hấp kị khí thải ra nhiều CO2",
+      "Không có sự thay đổi nào vì màu sắc ánh sáng không ảnh hưởng đến quang hợp"
+    ],
+    "answer": "Tốc độ giải phóng khí O2 giảm mạnh hoặc dừng hẳn vì diệp lục hấp thụ rất kém ánh sáng xanh lục",
+    "explanation": "Hệ sắc tố diệp lục phản xạ lại ánh sáng xanh lục (làm lá có màu xanh) và hấp thụ cực kỳ ít vùng ánh sáng này. Do đó, pha sáng quang hợp không diễn ra, quá trình quang phân ly nước ngừng, không giải phóng O2."
+  },
+  {
+    "question": "Hãy giải thích tại sao trong một chu kỳ tim ở người bình thường (khoảng 0.8 giây), mặc dù cơ tim hoạt động liên tục suốt đời nhưng không bao giờ bị mỏi cơ như cơ xương cơ đùi?",
+    "options": [
+      "Vì tế bào cơ tim không cần oxy và ATP để thực hiện hoạt động co cơ",
+      "Vì chu kỳ tim có thời gian nghỉ ngơi hoàn toàn của các ngăn tim (0.4 giây) bằng tổng thời gian co của nhĩ và thất",
+      "Do cơ tim được điều khiển bởi hệ thần kinh dạng lưới tiến hóa cao",
+      "Cơ tim co bóp dựa hoàn toàn vào áp lực dòng máu đẩy vào từ tĩnh mạch"
+    ],
+    "answer": "Vì chu kỳ tim có thời gian nghỉ ngơi hoàn toàn của các ngăn tim (0.4 giây) bằng tổng thời gian co của nhĩ và thất",
+    "explanation": "Chu kỳ tim gồm nhĩ co 0.1s, thất co 0.3s và pha giãn chung nghỉ 0.4s. Thời gian giãn chung đủ để các tế bào cơ tim phục hồi các chất chuyển hóa, tái tổng hợp ATP và hồi phục chức năng, nên cơ tim hoạt động bền bỉ không mỏi."
+  },
+  {
+    "question": "Một người đàn ông bị tai nạn giao thông chấn thương vùng cột sống lưng, dẫn đến liệt hoàn toàn đôi chân. Tuy nhiên khi bác sĩ gõ nhẹ vào bánh chè đầu gối, chân người này vẫn tự động đá nhẹ về phía trước. Hãy giải thích hiện tượng sinh lý này?",
+    "options": [
+      "Do cơ đùi của người này tự co bóp độc lập không liên quan gì đến tủy sống",
+      "Phản xạ bánh chè là phản xạ tủy sống, cung phản xạ không đi qua não bộ nên vẫn hoạt động khi tủy sống lưng bị thắt biệt lập với não",
+      "Xung thần kinh từ mắt nhìn thấy búa gõ điều khiển chân đá",
+      "Khối u ở tinh hoàn tiết ra hormone kích thích chân co bóp"
+    ],
+    "answer": "Phản xạ bánh chè là phản xạ tủy sống, cung phản xạ không đi qua não bộ nên vẫn hoạt động khi tủy sống lưng bị thắt biệt lập với não",
+    "explanation": "Phản xạ gân bánh chè có trung khu nằm ở tủy sống đoạn thắt lưng. Dù tủy sống ngực bị tổn thương cắt đứt đường liên lạc cảm giác lên não, vòng cung phản xạ tại chỗ giữa thụ thể đùi - tủy sống - cơ đùi vẫn nguyên vẹn, phản xạ vẫn xảy ra."
+  },
+  {
+    "question": "Một nhà nông học muốn tạo ra một giống cây cà chua cảnh có chiều cao thân rất thấp, cành lá sum suê dày đặc nhưng vẫn cho nhiều quả ngọt. Ông nên sử dụng phương pháp can thiệp hormone nào?",
+    "options": [
+      "Phun định kỳ hormone Gibberellin hàm lượng cao vào ngọn cây",
+      "Sử dụng chất ức chế tổng hợp Gibberellin kết hợp phun Cytokinin để kích thích phân nhánh bên",
+      "Bơm trực tiếp lượng lớn Ethylene dạng khí vào rễ cây cà chua",
+      "Loại bỏ toàn bộ hệ sắc tố diệp lục b ra khỏi lá cây"
+    ],
+    "answer": "Sử dụng chất ức chế tổng hợp Gibberellin kết hợp phun Cytokinin để kích thích phân nhánh bên",
+    "explanation": "Ức chế Gibberellin làm giảm sự kéo dài đốt thân giúp cây lùn. Cytokinin kích thích sự phân chia tế bào và phát triển chồi bên, phá bỏ ưu thế ngọn giúp cành lá sum suê, tạo dáng cây cảnh mong muốn."
+  },
+  {
+    "question": "Tại sao các loài chim di cư như ngỗng trời có thể định hướng bay chính xác hàng ngàn kilomet từ vùng Siberia lạnh giá về phương nam ấm áp vào mùa đông?",
+    "options": [
+      "Do chim bố mẹ bay trước liên tục dùng tiếng hót để chỉ đường",
+      "Chúng sử dụng la bàn sinh học cảm nhận từ trường trái đất, kết hợp định vị bằng vị trí mặt trời, các vì sao và địa hình",
+      "Do hướng gió mùa đông bắc thổi mạnh đẩy chim di chuyển tự động",
+      "Chim di cư bay theo các đường dây điện cao thế do con người lắp đặt"
+    ],
+    "answer": "Chúng sử dụng la bàn sinh học cảm nhận từ trường trái đất, kết hợp định vị bằng vị trí mặt trời, các vì sao và địa hình",
+    "explanation": "Định hướng di cư là một tập tính phức tạp bẩm sinh phối hợp nhiều cơ chế: trong võng mạc và mỏ chim có các phân tử cảm nhận từ trường, kết hợp hệ thần kinh phân tích góc độ ánh sáng mặt trời và các chòm sao ban đêm để dẫn đường."
+  }
+]

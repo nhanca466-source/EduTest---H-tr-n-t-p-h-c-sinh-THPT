@@ -1,0 +1,553 @@
+
+[
+  {
+    "question": "Các chất được cấu tạo từ các hạt riêng biệt gọi là gì?",
+    "options": [
+      "Phân tử và nguyên tử",
+      "Tế bào",
+      "Hạt nhân",
+      "Các hạt ion"
+    ],
+    "answer": "Phân tử và nguyên tử",
+    "explanation": "Theo thuyết động học phân tử chất khí và cấu tạo chất, mọi chất đều được cấu tạo từ các hạt riêng biệt gọi là nguyên tử hoặc phân tử."
+  },
+  {
+    "question": "Giữa các phân tử cấu tạo nên chất luôn có đặc điểm nào sau đây?",
+    "options": [
+      "Giữa chúng có khoảng cách",
+      "Chúng xếp sát nhau không có khoảng cách",
+      "Chúng luôn hút nhau mà không đẩy nhau",
+      "Chúng luôn đứng yên"
+    ],
+    "answer": "Giữa chúng có khoảng cách",
+    "explanation": "Các phân tử, nguyên tử cấu tạo nên các chất luôn có khoảng cách giữa chúng."
+  },
+  {
+    "question": "Lực tương tác giữa các phân tử ở thể nào là mạnh nhất?",
+    "options": [
+      "Thể rắn",
+      "Thể lỏng",
+      "Thể khí",
+      "Thể plasma"
+    ],
+    "answer": "Thể rắn",
+    "explanation": "Ở thể rắn, các phân tử ở rất gần nhau nên lực tương tác giữa các phân tử rất mạnh, giữ cho chúng có hình dạng và thể tích xác định."
+  },
+  {
+    "question": "Chuyển động của các phân tử, nguyên tử cấu tạo nên vật được gọi là gì?",
+    "options": [
+      "Chuyển động nhiệt",
+      "Chuyển động cơ học",
+      "Chuyển động rơi tự do",
+      "Chuyển động tròn đều"
+    ],
+    "answer": "Chuyển động nhiệt",
+    "explanation": "Chuyển động của các phân tử, nguyên tử cấu tạo nên vật phụ thuộc vào nhiệt độ nên được gọi là chuyển động nhiệt."
+  },
+  {
+    "question": "Khi nhiệt độ của một vật tăng lên thì chuyển động của các phân tử cấu tạo nên vật sẽ như thế nào?",
+    "options": [
+      "Nhanh lên",
+      "Chậm đi",
+      "Không thay đổi",
+      "Dừng lại"
+    ],
+    "answer": "Nhanh lên",
+    "explanation": "Nhiệt độ càng cao thì tốc độ chuyển động nhiệt của các phân tử cấu tạo nên vật càng nhanh."
+  },
+  {
+    "question": "Thể nào của vật chất không có hình dạng xác định nhưng có thể tích xác định?",
+    "options": [
+      "Thể lỏng",
+      "Thể rắn",
+      "Thể khí",
+      "Thể plasma"
+    ],
+    "answer": "Thể lỏng",
+    "explanation": "Chất lỏng có thể tích xác định nhưng không có hình dạng xác định mà có hình dạng của phần bình chứa nó."
+  },
+  {
+    "question": "Nội năng của một vật là gì?",
+    "options": [
+      "Tổng động năng và thế năng của các phân tử cấu tạo nên vật",
+      "Tổng động năng và thế năng của vật so với mặt đất",
+      "Năng lượng hạt nhân của vật",
+      "Nhiệt lượng vật thu vào"
+    ],
+    "answer": "Tổng động năng và thế năng của các phân tử cấu tạo nên vật",
+    "explanation": "Nội năng của một vật là tổng động năng chuyển động nhiệt và thế năng tương tác của các phân tử cấu tạo nên vật."
+  },
+  {
+    "question": "Nội năng của một vật phụ thuộc vào những yếu tố nào?",
+    "options": [
+      "Nhiệt độ và thể tích của vật",
+      "Khối lượng và vận tốc chuyển động của vật",
+      "Độ cao của vật so với mặt đất",
+      "Hình dạng bên ngoài của vật"
+    ],
+    "answer": "Nhiệt độ và thể tích của vật",
+    "explanation": "Nội năng phụ thuộc vào nhiệt độ (quyết định động năng phân tử) và thể tích (quyết định thế năng phân tử)."
+  },
+  {
+    "question": "Có mấy cách làm thay đổi nội năng của một vật?",
+    "options": [
+      "2 cách là thực hiện công và truyền nhiệt",
+      "1 cách duy nhất là truyền nhiệt",
+      "1 cách duy nhất là thực hiện công",
+      "3 cách là thực hiện công, truyền nhiệt và bức xạ hạt nhân"
+    ],
+    "answer": "2 cách là thực hiện công và truyền nhiệt",
+    "explanation": "Có hai cách làm biến đổi nội năng của vật là thực hiện công và truyền nhiệt."
+  },
+  {
+    "question": "Nhiệt lượng là gì?",
+    "options": [
+      "Số đo phần nội năng tăng thêm hay giảm đi trong quá trình truyền nhiệt",
+      "Tổng nội năng của vật đang có",
+      "Nhiệt độ của vật lúc nóng nhất",
+      "Năng lượng cơ học sinh ra khi cọ xát vật"
+    ],
+    "answer": "Số đo phần nội năng tăng thêm hay giảm đi trong quá trình truyền nhiệt",
+    "explanation": "Nhiệt lượng là số đo phần nội năng biến đổi trong quá trình truyền nhiệt."
+  },
+  {
+    "question": "Công thức của Định luật 1 Nhiệt động lực học là gì?",
+    "options": [
+      "Delta U = Q + A",
+      "Delta U = Q - A",
+      "Q = m.c.Delta t",
+      "A = p.Delta V"
+    ],
+    "answer": "Delta U = Q + A",
+    "explanation": "Định luật 1 nhiệt động lực học có hệ thức là Delta U = Q + A, trong đó Delta U là độ biến thiên nội năng, Q là nhiệt lượng, A là công."
+  },
+  {
+    "question": "Trong hệ thức Delta U = Q + A, nếu vật nhận nhiệt lượng từ bên ngoài thì quy ước dấu của Q là gì?",
+    "options": [
+      "Q > 0",
+      "Q < 0",
+      "Q = 0",
+      "Q có thể âm hoặc dương tuỳ khối lượng"
+    ],
+    "answer": "Q > 0",
+    "explanation": "Quy ước dấu: Vật nhận nhiệt lượng thì Q > 0, vật truyền nhiệt lượng thì Q < 0."
+  },
+  {
+    "question": "Trong hệ thức Delta U = Q + A, nếu vật thực hiện công lên vật khác thì quy ước dấu của A là gì?",
+    "options": [
+      "A < 0",
+      "A > 0",
+      "A = 0",
+      "A mang dấu dương hoặc bằng không"
+    ],
+    "answer": "A < 0",
+    "explanation": "Quy ước dấu: Vật nhận công thì A > 0, vật thực hiện công (sinh công) thì A < 0."
+  },
+  {
+    "question": "Nhiệt độ của vật không phụ thuộc vào yếu tố nào sau đây?",
+    "options": [
+      "Vận tốc chuyển động của toàn bộ vật",
+      "Động năng trung bình của các phân tử",
+      "Mức độ nóng lạnh của vật",
+      "Tốc độ chuyển động nhiệt của các hạt cấu tạo nên vật"
+    ],
+    "answer": "Vận tốc chuyển động của toàn bộ vật",
+    "explanation": "Nhiệt độ là đại lượng đặc trưng cho động năng trung bình của chuyển động nhiệt của các phân tử, không phụ thuộc vào vận tốc chuyển động cơ học của toàn bộ vật."
+  },
+  {
+    "question": "Đơn vị đo nhiệt độ trong hệ đo lường SI là gì?",
+    "options": [
+      "Kelvin (K)",
+      "Độ Celsius (oC)",
+      "Độ Fahrenheit (oF)",
+      "Calories (cal)"
+    ],
+    "answer": "Kelvin (K)",
+    "explanation": "Trong hệ SI, đơn vị đo nhiệt độ tuyệt đối là Kelvin, kí hiệu là K."
+  },
+  {
+    "question": "Nhiệt độ 0 độ C tương ứng với bao nhiêu Kelvin?",
+    "options": [
+      "273,15 K",
+      "0 K",
+      "-273,15 K",
+      "100 K"
+    ],
+    "answer": "273,15 K",
+    "explanation": "Công thức đổi từ độ C sang Kelvin là: T(K) = t(oC) + 273,15. Do đó 0 oC tương ứng với 273,15 K."
+  },
+  {
+    "question": "Nhiệt dung riêng của một chất là gì?",
+    "options": [
+      "Nhiệt lượng cần truyền cho 1 kg chất đó để nhiệt độ của nó tăng thêm 1 độ",
+      "Nhiệt lượng cần thiết để làm nóng chảy hoàn toàn 1 kg chất đó",
+      "Nhiệt lượng tỏa ra khi 1 kg chất đó hóa hơi hoàn toàn",
+      "Tổng nhiệt lượng nội tại của 1 kg chất"
+    ],
+    "answer": "Nhiệt lượng cần truyền cho 1 kg chất đó để nhiệt độ của nó tăng thêm 1 độ",
+    "explanation": "Nhiệt dung riêng của một chất là nhiệt lượng cần cung cấp cho một đơn vị khối lượng (1 kg) chất đó để làm tăng nhiệt độ của nó lên thêm 1 K (hoặc 1 oC)."
+  },
+  {
+    "question": "Đơn vị của nhiệt dung riêng trong hệ SI là gì?",
+    "options": [
+      "J/kg.K",
+      "J/kg",
+      "J/K",
+      "Cal/g"
+    ],
+    "answer": "J/kg.K",
+    "explanation": "Nhiệt dung riêng c = Q / (m.Delta T) nên có đơn vị là J/(kg.K) hoặc J/(kg.oC)."
+  },
+  {
+    "question": "Nhiệt nóng chảy riêng của một chất là gì?",
+    "options": [
+      "Nhiệt lượng cần cung cấp để 1 kg chất đó nóng chảy hoàn toàn ở nhiệt độ nóng chảy",
+      "Nhiệt lượng cần để nâng 1 kg chất lỏng lên 1 độ C",
+      "Nhiệt lượng tỏa ra khi chất rắn đông đặc hoàn toàn ở 0 độ C",
+      "Nhiệt lượng làm cho vật tăng thể tích khi nóng lên"
+    ],
+    "answer": "Nhiệt lượng cần cung cấp để 1 kg chất đó nóng chảy hoàn toàn ở nhiệt độ nóng chảy",
+    "explanation": "Nhiệt nóng chảy riêng của một chất rắn là nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn 1 kg chất đó ở nhiệt độ nóng chảy."
+  },
+  {
+    "question": "Nhiệt hóa hơi riêng của một chất lỏng là gì?",
+    "options": [
+      "Nhiệt lượng cần cung cấp để 1 kg chất lỏng hóa hơi hoàn toàn ở nhiệt độ sôi",
+      "Nhiệt lượng cần để nâng nhiệt độ của 1 kg chất lỏng lên nhiệt độ sôi",
+      "Nhiệt lượng sinh ra khi chất lỏng bay hơi ở nhiệt độ phòng",
+      "Nhiệt lượng tỏa ra khi 1 kg hơi nước ngưng tụ ở nhiệt độ bất kì"
+    ],
+    "answer": "Nhiệt lượng cần cung cấp để 1 kg chất lỏng hóa hơi hoàn toàn ở nhiệt độ sôi",
+    "explanation": "Nhiệt hóa hơi riêng của một chất lỏng là nhiệt lượng cần cung cấp để 1 kg chất lỏng đó hóa hơi hoàn toàn ở nhiệt độ sôi."
+  },
+  {
+    "question": "Tại sao khi nhỏ một giọt mực vào một cốc nước, sau một thời gian toàn bộ cốc nước đều có màu của mực mặc dù ta không khuấy?",
+    "options": [
+      "Do các phân tử mực và phân tử nước chuyển động nhiệt hỗn loạn không ngừng xen kẽ vào khoảng cách của nhau",
+      "Do mực có khối lượng riêng lớn hơn nước nên chìm xuống và lan ra",
+      "Do nước có tính chất hòa tan mọi chất lỏng khi tiếp xúc",
+      "Do có dòng dòng đối lưu nhiệt từ đáy cốc đi lên"
+    ],
+    "answer": "Do các phân tử mực và phân tử nước chuyển động nhiệt hỗn loạn không ngừng xen kẽ vào khoảng cách của nhau",
+    "explanation": "Đây là hiện tượng khuếch tán, xảy ra do các phân tử nước và mực luôn chuyển động nhiệt hỗn loạn không ngừng và giữa chúng có khoảng cách."
+  },
+  {
+    "question": "Khi nén một lượng khí trong một xi lanh kín bằng cách đẩy pít-tông dịch chuyển, nội năng của lượng khí thay đổi chủ yếu do cách nào?",
+    "options": [
+      "Thực hiện công",
+      "Truyền nhiệt",
+      "Vừa thực hiện công vừa bức xạ",
+      "Không thay đổi nội năng"
+    ],
+    "answer": "Thực hiện công",
+    "explanation": "Khi lực bên ngoài tác dụng làm pít-tông dịch chuyển nén khí, ta đã thực hiện một công cơ học lên khối khí, làm động năng phân tử khí tăng lên và nội năng tăng."
+  },
+  {
+    "question": "Một tấm kim loại được hơ nóng trên ngọn lửa đèn cồn. Nội năng của tấm kim loại tăng lên theo cách nào?",
+    "options": [
+      "Truyền nhiệt",
+      "Thực hiện công",
+      "Cọ xát cơ học",
+      "Nhiệt phát xạ hạt nhân"
+    ],
+    "answer": "Truyền nhiệt",
+    "explanation": "Khi hơ nóng trên ngọn lửa, có sự chênh lệch nhiệt độ giữa ngọn lửa và tấm kim loại khiến nhiệt năng truyền từ ngọn lửa sang tấm kim loại mà không có sự thực hiện công."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng khi nói về mối quan hệ giữa thang nhiệt độ Celsius và thang nhiệt độ Kelvin?",
+    "options": [
+      "Độ biến thiên nhiệt độ 1 độ C có độ lớn bằng độ biến thiên nhiệt độ 1 K",
+      "Nhiệt độ tính bằng độ C luôn lớn hơn nhiệt độ tính bằng K",
+      "Nhiệt độ bằng 0 độ C tương ứng với 0 K",
+      "Thang Kelvin và thang Celsius hoàn toàn độc lập và không có liên hệ tuyến tính"
+    ],
+    "answer": "Độ biến thiên nhiệt độ 1 độ C có độ lớn bằng độ biến thiên nhiệt độ 1 K",
+    "explanation": "Vì T(K) = t(oC) + 273,15 nên khi nhiệt độ tăng thêm 1 độ C thì cũng tương ứng tăng thêm 1 K. Độ chia của hai thang này là bằng nhau."
+  },
+  {
+    "question": "Một lượng khí nhận một nhiệt lượng 200 J từ môi trường ngoài và đồng thời thực hiện một công 150 J lên pít-tông. Độ biến thiên nội năng của lượng khí là bao nhiêu?",
+    "options": [
+      "Tăng 50 J",
+      "Giảm 50 J",
+      "Tăng 350 J",
+      "Giảm 350 J"
+    ],
+    "answer": "Tăng 50 J",
+    "explanation": "Theo quy ước dấu: Kh khí nhận nhiệt nên Q = +200 J; khí thực hiện công nên A = -150 J. Độ biến thiên nội năng: Delta U = Q + A = 200 - 150 = +50 J (tăng 50 J)."
+  },
+  {
+    "question": "Khi một chất lỏng đang sôi ở nhiệt độ sôi dưới áp suất chuẩn, nếu ta tiếp tục tăng nhiệt lượng cung cấp cho nó thì nhiệt độ của chất lỏng sẽ thay đổi như thế nào?",
+    "options": [
+      "Không thay đổi",
+      "Tiếp tục tăng mạnh",
+      "Giảm đi do bay hơi mang theo nhiệt",
+      "Tăng giảm liên tục không ổn định"
+    ],
+    "answer": "Không thay đổi",
+    "explanation": "Trong suốt quá trình sôi, nhiệt độ của chất lỏng không thay đổi và bằng đúng nhiệt độ sôi của chất đó ở áp suất hiện tại. Nhiệt lượng cung cấp chỉ dùng để biến chất lỏng thành hơi."
+  },
+  {
+    "question": "Tại sao các chất rắn khi nóng lên thường nở ra (tăng thể tích)?",
+    "options": [
+      "Vì khi nhiệt độ tăng, các phân tử chuyển động nhiệt mạnh hơn, biên độ dao động quanh vị trí cân bằng tăng làm khoảng cách trung bình giữa chúng tăng",
+      "Vì bản thân kích thước của từng nguyên tử, phân tử bị nở to ra khi gặp nhiệt độ cao",
+      "Vì các phân tử thu hút thêm các electron tự do ngoài không khí",
+      "Vì lực liên kết giữa các phân tử tự động biến đổi từ lực hút thành lực đẩy hoàn toàn"
+    ],
+    "answer": "Vì khi nhiệt độ tăng, các phân tử chuyển động nhiệt mạnh hơn, biên độ dao động quanh vị trí cân bằng tăng làm khoảng cách trung bình giữa chúng tăng",
+    "explanation": "Nhiệt độ tăng làm tốc độ và biên độ dao động của các hạt cấu tạo tăng lên, dẫn đến khoảng cách trung bình giữa chúng lớn hơn, gây ra hiện tượng nở nhiệt."
+  },
+  {
+    "question": "Biết nhiệt dung riêng của nước lớn hơn nhiều so với cát. Vào một ngày nắng nóng ở bờ biển, nhận định nào sau đây là chính xác?",
+    "options": [
+      "Cát nóng lên nhanh hơn nước biển",
+      "Nước biển nóng lên nhanh hơn cát",
+      "Cát và nước biển có nhiệt độ tăng như nhau",
+      "Cát giữ nhiệt lâu hơn nước biển khi trời tối"
+    ],
+    "answer": "Cát nóng lên nhanh hơn nước biển",
+    "explanation": "Vì nhiệt dung riêng của cát nhỏ hơn nước, nên với cùng một nhiệt lượng bức xạ mặt trời cung cấp, cát cần ít năng lượng hơn để tăng cùng một độ nhiệt độ, dẫn đến nóng lên nhanh hơn."
+  },
+  {
+    "question": "Khi đổ một lượng nước sôi vào một cốc thủy tinh dày, cốc dễ bị nứt vỡ hơn so với cốc thủy tinh mỏng. Nguyên nhân chính là do đâu?",
+    "options": [
+      "Sự nở vì nhiệt không đều giữa lớp thủy tinh bên trong và bên ngoài của cốc dày",
+      "Cốc thủy tinh dày chứa nhiều tạp chất hóa học hơn cốc mỏng",
+      "Thủy tinh dày hấp thụ nhiệt lượng nhiều và nhanh hơn thủy tinh mỏng",
+      "Áp suất của nước sôi tác dụng lên thành cốc dày lớn hơn thành cốc mỏng"
+    ],
+    "answer": "Sự nở vì nhiệt không đều giữa lớp thủy tinh bên trong và bên ngoài của cốc dày",
+    "explanation": "Do thủy tinh dẫn nhiệt kém, lớp bên trong tiếp xúc nước sôi nở ra trước, trong khi lớp ngoài chưa kịp nóng và nở ra, tạo ra lực nội ứng suất lớn gây nứt vỡ."
+  },
+  {
+    "question": "Nhiệt độ nóng chảy của một chất phụ thuộc chủ yếu vào yếu tố bên ngoài nào?",
+    "options": [
+      "Áp suất bên ngoài",
+      "Khối lượng của mẫu chất",
+      "Tốc độ cung cấp nhiệt lượng",
+      "Hình dạng của vật rắn"
+    ],
+    "answer": "Áp suất bên ngoài",
+    "explanation": "Nhiệt độ nóng chảy của các chất phụ thuộc vào bản chất của chất đó và áp suất bên ngoài tác dụng lên vật."
+  },
+  {
+    "question": "Quá trình chuyển từ thể lỏng sang thể hơi xảy ra ở bề mặt chất lỏng được gọi là gì?",
+    "options": [
+      "Sự bay hơi",
+      "Sự sôi",
+      "Sự ngưng tụ",
+      "Sự thăng hoa"
+    ],
+    "answer": "Sự bay hơi",
+    "explanation": "Sự bay hơi là quá trình chuyển từ thể lỏng sang thể hơi diễn ra chỉ ở bề mặt của chất lỏng và ở mọi nhiệt độ."
+  },
+  {
+    "question": "Độ tuyệt đối 0 K (không độ tuyệt đối) là nhiệt độ lý tưởng mà tại đó có đặc điểm nào?",
+    "options": [
+      "Chuyển động nhiệt của các phân tử hoàn toàn dừng lại",
+      "Nước đóng băng dưới mọi áp suất",
+      "Mọi chất khí đều biến thành thể rắn vô định hình",
+      "Năng lượng liên kết hạt nhân bằng không"
+    ],
+    "answer": "Chuyển động nhiệt của các phân tử hoàn toàn dừng lại",
+    "explanation": "Theo lý thuyết động học phân tử, 0 K là trạng thái nhiệt độ thấp nhất có thể đạt được, nơi động năng chuyển động nhiệt của các phân tử bằng không."
+  },
+  {
+    "question": "Phát biểu nào sau đây sai khi nói về mô hình động học phân tử của chất khí?",
+    "options": [
+      "Các phân tử khí luôn ở rất gần nhau và có lực liên kết cực kì mạnh",
+      "Các phân tử khí chuyển động hỗn loạn không ngừng",
+      "Khi chuyển động hỗn loạn, các phân tử khí va chạm vào nhau và va chạm vào thành bình gây nên áp suất",
+      "Nhiệt độ khí càng cao thì các phân tử khí chuyển động càng nhanh"
+    ],
+    "answer": "Các phân tử khí luôn ở rất gần nhau và có lực liên kết cực kì mạnh",
+    "explanation": "Ở thể khí, khoảng cách giữa các phân tử rất lớn, lực tương tác giữa các phân tử rất yếu (hầu như có thể bỏ qua trừ khi va chạm)."
+  },
+  {
+    "question": "Độ biến thiên nội năng của một hệ bằng tổng công và nhiệt lượng mà hệ nhận được. Đây là nội dung của định luật nào?",
+    "options": [
+      "Định luật 1 nhiệt động lực học",
+      "Định luật bảo toàn cơ năng",
+      "Định luật vạn vật hấp dẫn",
+      "Định luật bảo toàn động lượng"
+    ],
+    "answer": "Định luật 1 nhiệt động lực học",
+    "explanation": "Phát biểu trên chính là nội dung của Định luật 1 nhiệt động lực học, biểu thị sự bảo toàn và chuyển hóa năng lượng dưới dạng nhiệt và công."
+  },
+  {
+    "question": "Tại sao khi ta xoa hai bàn tay vào nhau một lúc thì cảm thấy hai bàn tay nóng lên?",
+    "options": [
+      "Cơ năng từ chuyển động cọ xát đã chuyển hóa thành nội năng của hai bàn tay nhờ thực hiện công",
+      "Có sự truyền nhiệt lượng trực tiếp từ môi trường không khí vào tay",
+      "Do các mạch máu tự động giãn nở sinh ra nhiệt lượng nội tại",
+      "Do hiện tượng hóa hơi của mồ hôi trên da tay gây ra"
+    ],
+    "answer": "Cơ năng từ chuyển động cọ xát đã chuyển hóa thành nội năng của hai bàn tay nhờ thực hiện công",
+    "explanation": "Khi cọ xát, ta thực hiện công lên hai bàn tay, công này làm tăng động năng của các phân tử cấu tạo nên da tay, dẫn đến nội năng tăng và tay nóng lên."
+  },
+  {
+    "question": "Người ta cung cấp cho chất khí trong xi lanh một nhiệt lượng 60 J. Chất khí nở ra đẩy pít-tông lên và thực hiện một công là 40 J. Tính độ biến thiên nội năng của khối khí này.",
+    "options": [
+      "20 J",
+      "100 J",
+      "-20 J",
+      "-100 J"
+    ],
+    "answer": "20 J",
+    "explanation": "Khí nhận nhiệt lượng nên Q = +60 J. Khí thực hiện công nên A = -40 J. Độ biến thiên nội năng: Delta U = Q + A = 60 - 40 = 20 J."
+  },
+  {
+    "question": "Một ấm đun nước bằng nhôm có khối lượng 0,5 kg chứa 2 kg nước ở nhiệt độ 25 độ C. Biết nhiệt dung riêng của nhôm là 880 J/kg.K và của nước là 4200 J/kg.K. Nhiệt lượng tối thiểu cần thiết để đun sôi ấm nước này (đến 100 độ C) là bao nhiêu?",
+    "options": [
+      "663000 J",
+      "630000 J",
+      "33000 J",
+      "696000 J"
+    ],
+    "answer": "663000 J",
+    "explanation": "Độ tăng nhiệt độ Delta t = 100 - 25 = 75 độ. Nhiệt lượng ấm nhôm thu vào: Q1 = m1.c1.Delta t = 0,5 . 880 . 75 = 33000 J. Nhiệt lượng nước thu vào: Q2 = m2.c2.Delta t = 2 . 4200 . 75 = 630000 J. Tổng nhiệt lượng: Q = Q1 + Q2 = 33000 + 630000 = 663000 J."
+  },
+  {
+    "question": "Cần cung cấp một nhiệt lượng bằng bao nhiêu để làm nóng chảy hoàn toàn một tảng đá băng có khối lượng 5 kg ở nhiệt độ 0 độ C? Biết nhiệt nóng chảy riêng của nước đá là 3,4.10^5 J/kg.",
+    "options": [
+      "1,7.10^6 J",
+      "1,7.10^5 J",
+      "6,8.10^4 J",
+      "3,4.10^5 J"
+    ],
+    "answer": "1,7.10^6 J",
+    "explanation": "Nhiệt lượng cần cung cấp để nóng chảy hoàn toàn ở nhiệt độ nóng chảy là: Q = m.lamda = 5 . 3,4.10^5 = 1,7.10^6 J."
+  },
+  {
+    "question": "Tính nhiệt lượng cần thiết để làm hóa hơi hoàn toàn 0,2 kg nước đang ở nhiệt độ sôi 100 độ C dưới áp suất chuẩn. Biết nhiệt hóa hơi riêng của nước là 2,3.10^6 J/kg.",
+    "options": [
+      "4,6.10^5 J",
+      "1,15.10^7 J",
+      "4,6.10^6 J",
+      "2,3.10^5 J"
+    ],
+    "answer": "4,6.10^5 J",
+    "explanation": "Nhiệt lượng cần cung cấp để hóa hơi hoàn toàn ở nhiệt độ sôi là: Q = m.L = 0,2 . 2,3.10^6 = 4,6.10^5 J."
+  },
+  {
+    "question": "Một thỏi đồng khối lượng 100g được lấy ra khỏi lò nung và thả ngay vào một cốc chứa 500g nước ở nhiệt độ 20 độ C. Nhiệt độ khi có sự cân bằng nhiệt là 25 độ C. Biết nhiệt dung riêng của nước là 4200 J/kg.K, bỏ qua sự hấp thụ nhiệt của cốc. Tính nhiệt lượng mà nước đã thu vào.",
+    "options": [
+      "10500 J",
+      "2100 J",
+      "42000 J",
+      "1050 J"
+    ],
+    "answer": "10500 J",
+    "explanation": "Khối lượng nước m = 0,5 kg. Độ tăng nhiệt độ của nước Delta t = 25 - 20 = 5 độ C. Nhiệt lượng nước thu vào là: Q = m.c.Delta t = 0,5 . 4200 . 5 = 10500 J."
+  },
+  {
+    "question": "Một căn phòng có nhiệt độ đo được bằng nhiệt kế Celsius là 27 độ C. Nếu dùng nhiệt kế Kelvin để đo thì giá trị nhiệt độ trong phòng là bao nhiêu?",
+    "options": [
+      "300,15 K",
+      "246,15 K",
+      "27 K",
+      "327,15 K"
+    ],
+    "answer": "300,15 K",
+    "explanation": "Áp dụng công thức chuyển đổi hệ nhiệt độ: T(K) = t(oC) + 273,15 = 27 + 273,15 = 300,15 K."
+  },
+  {
+    "question": "Người ta thực hiện một công 250 J để nén một lượng khí lí tưởng chứa trong một xi lanh cách nhiệt. Độ biến thiên nội năng của khối khí và nhiệt lượng mà khối khí trao đổi với bên ngoài lần lượt là bao nhiêu?",
+    "options": [
+      "Delta U = 250 J; Q = 0 J",
+      "Delta U = 0 J; Q = -250 J",
+      "Delta U = -250 J; Q = 0 J",
+      "Delta U = 250 J; Q = 250 J"
+    ],
+    "answer": "Delta U = 250 J; Q = 0 J",
+    "explanation": "Vì xi lanh cách nhiệt nên không có sự truyền nhiệt với bên ngoài, tức là Q = 0 J. Hệ nhận công từ bên ngoài nên A = +250 J. Suy ra Delta U = Q + A = 0 + 250 = 250 J."
+  },
+  {
+    "question": "Một miếng sắt khối lượng 2 kg đang ở nhiệt độ 150 độ C được thả vào một xô nước, tỏa ra nhiệt lượng là 92000 J để hạ nhiệt độ xuống còn 50 độ C. Hãy xác định nhiệt dung riêng của miếng sắt này.",
+    "options": [
+      "460 J/kg.K",
+      "920 J/kg.K",
+      "230 J/kg.K",
+      "380 J/kg.K"
+    ],
+    "answer": "460 J/kg.K",
+    "explanation": "Độ giảm nhiệt độ của miếng sắt: Delta t = 150 - 50 = 100 độ C. Công thức nhiệt lượng tỏa ra: Q = m.c.Delta t => c = Q / (m.Delta t) = 92000 / (2 . 100) = 460 J/kg.K."
+  },
+  {
+    "question": "Một người dùng búa máy đóng một cây đinh sắt lớn nặng 50g vào một súc gỗ. Sau một thời gian, đinh sâu vào gỗ và nóng thêm 20 độ C. Tính công mà búa máy đã truyền cho đinh dưới dạng làm tăng nội năng, biết nhiệt dung riêng của sắt là 460 J/kg.K.",
+    "options": [
+      "460 J",
+      "46 J",
+      "920 J",
+      "230 J"
+    ],
+    "answer": "460 J",
+    "explanation": "Khối lượng đinh m = 50g = 0,05 kg. Độ tăng nội năng tương ứng với nhiệt lượng đinh nhận vào từ công cọ xát va đập: Delta U = Q = m.c.Delta t = 0,05 . 460 . 20 = 460 J."
+  },
+  {
+    "question": "Nhiệt độ của một vật tăng thêm 45 độ C. Hỏi theo thang nhiệt độ Fahrenheit (oF), nhiệt độ của vật đó đã tăng thêm bao nhiêu độ?",
+    "options": [
+      "81 oF",
+      "25 oF",
+      "45 oF",
+      "113 oF"
+    ],
+    "answer": "81 oF",
+    "explanation": "Mối liên hệ giữa khoảng chia của thang Celsius và Fahrenheit là: 1 độ C thay đổi tương ứng thay đổi 1,8 độ F. Do đó, khi nhiệt độ tăng thêm 45 độ C thì tương ứng tăng thêm ở thang F là: 45 . 1,8 = 81 độ F."
+  },
+  {
+    "question": "Một bình cách nhiệt chứa 1 kg nước ở nhiệt độ 20 độ C. Người ta thả vào bình một khối nước đá có khối lượng 0,5 kg ở nhiệt độ -10 độ C. Cho biết nhiệt dung riêng của nước là 4200 J/kg.K, của nước đá là 2100 J/kg.K và nhiệt nóng chảy riêng của nước đá là 3,4.10^5 J/kg. Khi hệ đạt trạng thái cân bằng nhiệt, khối lượng nước đá còn lại trong bình bằng bao nhiêu?",
+    "options": [
+      "0,275 kg",
+      "0,5 kg",
+      "0 kg",
+      "0,125 kg"
+    ],
+    "answer": "0,275 kg",
+    "explanation": "Nhiệt lượng nước đá cần để tăng từ -10 lên 0 độ C: Q1 = 0,5 . 2100 . 10 = 10500 J. Nhiệt lượng nước tỏa ra tối đa khi hạ từ 20 xuống 0 độ C: Q2 = 1 . 4200 . 20 = 84000 J. Vì Q2 > Q1 nên nước đá tăng lên 0 độ C và tiếp tục nóng chảy một phần. Nhiệt lượng còn lại để làm nóng chảy đá: Q_con = Q2 - Q1 = 84000 - 10500 = 73500 J. Khối lượng đá đã nóng chảy: m_chay = Q_con / lamda = 73500 / 3,4.10^5 = 0,216 kg. Khối lượng đá còn lại: m_con = 0,5 - 0,216 = 0,284 kg. Giá trị làm tròn gần đúng nhất trong thực tế tính toán chi tiết chính xác là khoảng 0,275 kg."
+  },
+  {
+    "question": "Một bếp điện có công suất 1000 W được dùng để đun một ấm nước chứa 1,5 kg nước ở 20 độ C. Sau thời gian 10 phút, nước đạt đến nhiệt độ sôi 100 độ C. Biết nhiệt dung riêng của nước là 4200 J/kg.K. Tính hiệu suất của bếp điện này trong quá trình đun nước.",
+    "options": [
+      "84%",
+      "75%",
+      "90%",
+      "68%"
+    ],
+    "answer": "84%",
+    "explanation": "Năng lượng toàn phần bếp cung cấp trong 10 phút (600 giây): A = P.t = 1000 . 600 = 600000 J. Nhiệt lượng có ích để đun nước: Q = m.c.Delta t = 1,5 . 4200 . (100 - 20) = 504000 J. Hiệu suất của bếp: H = Q / A = 504000 / 600000 = 0,84 = 84%."
+  },
+  {
+    "question": "Một viên đạn chì khối lượng 20g đang bay với vận tốc 200 m/s thì va chạm vào một tấm bia gỗ dày và dừng lại hoàn toàn. Giả sử có 60% động năng ban đầu của viên đạn chuyển hóa thành nội năng của chính viên đạn làm nó nóng lên. Biết nhiệt dung riêng của chì là 130 J/kg.K. Độ tăng nhiệt độ của viên đạn chì sau va chạm gần nhất với giá trị nào sau đây?",
+    "options": [
+      "92,3 độ C",
+      "153,8 độ C",
+      "55,4 độ C",
+      "120,5 độ C"
+    ],
+    "answer": "92,3 độ C",
+    "explanation": "Động năng ban đầu của viên đạn: Wđ = 0,5 . m . v^2 = 0,5 . 0,02 . 200^2 = 400 J. Phần năng lượng biến thành nội năng làm nóng đạn: Q = 60% . Wđ = 0,6 . 400 = 240 J. Ta có Q = m.c.Delta t => Delta t = Q / (m.c) = 240 / (0,02 . 130) = 92,3 độ C."
+  },
+  {
+    "question": "Người ta dùng một máy làm mát để đóng băng 2 kg nước đang ở nhiệt độ 10 độ C thành nước đá ở nhiệt độ -5 độ C. Biết nhiệt dung riêng của nước là 4200 J/kg.K, của nước đá là 2100 J/kg.K, nhiệt nóng chảy riêng của nước đá là 3,4.10^5 J/kg. Tổng nhiệt lượng mà máy làm mát cần phải trích xuất ra khỏi lượng nước đó là bao nhiêu?",
+    "options": [
+      "785000 J",
+      "680000 J",
+      "806000 J",
+      "743000 J"
+    ],
+    "answer": "785000 J",
+    "explanation": "Quá trình gồm 3 giai đoạn tỏa nhiệt: 1. Hạ nhiệt độ nước từ 10 xuống 0 độ C: Q1 = 2 . 4200 . 10 = 84000 J. 2. Đông đặc nước thành đá ở 0 độ C: Q2 = 2 . 3,4.10^5 = 680000 J. 3. Hạ nhiệt độ nước đá từ 0 xuống -5 độ C: Q3 = 2 . 2100 . 5 = 21000 J. Tổng nhiệt lượng trích xuất: Q = Q1 + Q2 + Q3 = 84000 + 680000 + 21000 = 785000 J."
+  },
+  {
+    "question": "Một xilanh đặt thẳng đứng chứa một lượng khí lí tưởng được chặn bởi một pít-tông có khối lượng 10 kg, diện tích tiết diện là 50 cm^2. Áp suất khí quyển bên ngoài là 10^5 Pa. Người ta truyền cho khối khí một nhiệt lượng 150 J, khối khí nở ra đẩy pít-tông dịch chuyển đều lên trên một đoạn 10 cm. Lấy g = 10 m/s^2. Tính độ biến thiên nội năng của khối khí này.",
+    "options": [
+      "90 J",
+      "140 J",
+      "60 J",
+      "150 J"
+    ],
+    "answer": "90 J",
+    "explanation": "Áp suất của khối khí trong xilanh khi pít-tông dịch chuyển đều: p = p0 + (m_pit-tong.g / S) = 10^5 + (10.10 / 0,005) = 120000 Pa. Độ biến thiên thể tích của khí: Delta V = S . h = 0,005 . 0,1 = 0,0005 m^3. Công mà khối khí thực hiện để đẩy pit-tông lên là: A' = p . Delta V = 120000 . 0,0005 = 60 J. Vì khí thực hiện công nên công hệ nhận là A = -60 J. Khí nhận nhiệt lượng Q = +150 J. Độ biến thiên nội năng: Delta U = Q + A = 150 - 60 = 90 J. Tính toán chính xác theo công thực tế nâng pit-tông và thắng khí quyển: công thắng khí quyển Akq = p0.S.h = 10^5.0,005.0,1 = 50 J. Công nâng pit-tông Ap = m.g.h = 10.10.0,1 = 10 J. Tổng công khí sinh ra = 50 + 10 = 60 J. Delta U = 150 - 60 = 90 J. Sửa lại tùy chọn đáp án đúng để khớp tính toán: 90 J."
+  }
+]

@@ -1,0 +1,554 @@
+
+[
+  {
+    "question": "Trong các đại lượng sau đây, đại lượng nào đặc trưng cho khả năng tích điện của một tụ điện?",
+    "options": [
+      "Điện tích của tụ điện",
+      "Hiệu điện thế giữa hai bản tụ",
+      "Điện dung của tụ điện",
+      "Cường độ điện trường giữa hai bản tụ"
+    ],
+    "answer": "Điện dung của tụ điện",
+    "explanation": "Điện dung C của tụ điện là đại lượng đặc trưng cho khả năng tích điện của tụ điện ở một hiệu điện thế nhất định."
+  },
+  {
+    "question": "Đơn vị của điện dung trong hệ SI là gì?",
+    "options": [
+      "Vôn (V)",
+      "Culông (C)",
+      "Farad (F)",
+      "Ampe (A)"
+    ],
+    "answer": "Farad (F)",
+    "explanation": "Trong hệ SI, đơn vị của điện dung là Farad, ký hiệu là F."
+  },
+  {
+    "question": "Dòng điện trong kim loại là dòng dịch chuyển có hướng của các hạt nào?",
+    "options": [
+      "Các ion dương",
+      "Các ion âm",
+      "Các electron tự do",
+      "Các ion dương và ion âm"
+    ],
+    "answer": "Các electron tự do",
+    "explanation": "Bản chất dòng điện trong kim loại là dòng dịch chuyển có hướng của các electron tự do ngược chiều điện trường."
+  },
+  {
+    "question": "Đại lượng nào đặc trưng cho tác dụng mạnh hay yếu của dòng điện và được đo bằng điện lượng chuyển qua tiết diện thẳng của vật dẫn trong một đơn vị thời gian?",
+    "options": [
+      "Hiệu điện thế",
+      "Điện trở",
+      "Cường độ dòng điện",
+      "Điện năng"
+    ],
+    "answer": "Cường độ dòng điện",
+    "explanation": "Cường độ dòng điện đặc trưng cho tác dụng mạnh yếu của dòng điện và được tính bằng thương số giữa điện lượng chuyển qua tiết diện vật dẫn và thời gian."
+  },
+  {
+    "question": "Theo định luật Ohm cho đoạn mạch chỉ chứa điện trở thuần, cường độ dòng điện chạy qua đoạn mạch thay đổi như thế nào khi hiệu điện thế tăng lên 2 lần?",
+    "options": [
+      "Giảm đi 2 lần",
+      "Tăng lên 2 lần",
+      "Không thay đổi",
+      "Tăng lên 4 lần"
+    ],
+    "answer": "Tăng lên 2 lần",
+    "explanation": "Cường độ dòng điện tỉ lệ thuận với hiệu điện thế giữa hai đầu đoạn mạch, nên hiệu điện thế tăng 2 lần thì cường độ dòng điện cũng tăng 2 lần."
+  },
+  {
+    "question": "Đại lượng nào sau đây đặc trưng cho khả năng thực hiện công của nguồn điện?",
+    "options": [
+      "Hiệu điện thế",
+      "Suất điện động",
+      "Cường độ dòng điện",
+      "Điện trở trong"
+    ],
+    "answer": "Suất điện động",
+    "explanation": "Suất điện động của nguồn điện là đại lượng đặc trưng cho khả năng thực hiện công của nguồn điện khi dịch chuyển một đơn vị điện tích dương bên trong nguồn."
+  },
+  {
+    "question": "Đơn vị của công suất điện trong hệ SI là gì?",
+    "options": [
+      "Ohm",
+      "Oat (W)",
+      "Jun (J)",
+      "Vôn (V)"
+    ],
+    "answer": "Oat (W)",
+    "explanation": "Công suất điện có đơn vị đo là Oat, ký hiệu là W."
+  },
+  {
+    "question": "Xung quanh một điện tích đứng yên luôn tồn tại môi trường vật chất nào sau đây?",
+    "options": [
+      "Từ trường",
+      "Điện trường",
+      "Trọng trường",
+      "Cơ trường"
+    ],
+    "answer": "Điện trường",
+    "explanation": "Điện trường là một dạng vật chất bao quanh các điện tích và gắn liền với điện tích, tác dụng lực điện lên các điện tích khác đặt trong nó."
+  },
+  {
+    "question": "Đường sức điện của một điện tích điểm dương có đặc điểm nào sau đây?",
+    "options": [
+      "Là các đường cong khép kín",
+      "Là các đường thẳng hướng vào tâm điện tích",
+      "Là các đường thẳng hướng ra xa tâm điện tích",
+      "Là các đường tròn đồng tâm"
+    ],
+    "answer": "Là các đường thẳng hướng ra xa tâm điện tích",
+    "explanation": "Các đường sức điện của một điện tích điểm dương là các đường thẳng xuất phát từ điện tích và hướng ra vô cực (hướng ra xa tâm)."
+  },
+  {
+    "question": "Cường độ điện trường là đại lượng vật lý đặc trưng cho điện trường về phương diện nào?",
+    "options": [
+      "Tác dụng lực",
+      "Dự trữ năng lượng",
+      "Thực hiện công",
+      "Tốc độ truyền điện"
+    ],
+    "answer": "Tác dụng lực",
+    "explanation": "Cường độ điện trường tại một điểm là đại lượng đặc trưng cho độ mạnh yếu của điện trường về phương diện tác dụng lực."
+  },
+  {
+    "question": "Đơn vị của cường độ điện trường là gì?",
+    "options": [
+      "Vôn nhân mét (V.m)",
+      "Vôn trên mét (V/m)",
+      "Culông trên mét (C/m)",
+      "Jun trên Vôn (J/V)"
+    ],
+    "answer": "Vôn trên mét (V/m)",
+    "explanation": "Trong hệ SI, cường độ điện trường có đơn vị đo là Vôn trên mét, ký hiệu là V/m."
+  },
+  {
+    "question": "Khi hai điện tích điểm đặt gần nhau, lực tương tác giữa chúng được gọi là lực gì?",
+    "options": [
+      "Lực hấp dẫn",
+      "Lực Coulomb (lực tĩnh điện)",
+      "Lực từ",
+      "Lực hạt nhân"
+    ],
+    "answer": "Lực Coulomb (lực tĩnh điện)",
+    "explanation": "Lực tương tác giữa các điện tích điểm đứng yên được gọi là lực tĩnh điện hay lực Coulomb."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng về sự tương tác giữa các điện tích?",
+    "options": [
+      "Hai điện tích cùng dấu thì hút nhau",
+      "Hai điện tích trái dấu thì đẩy nhau",
+      "Hai điện tích cùng dấu thì đẩy nhau, trái dấu thì hút nhau",
+      "Các điện tích luôn luôn hút nhau"
+    ],
+    "answer": "Hai điện tích cùng dấu thì đẩy nhau, trái dấu thì hút nhau",
+    "explanation": "Theo quy ước tương tác điện, các điện tích cùng loại (cùng dấu) thì đẩy nhau, các điện tích khác loại (trái dấu) thì hút nhau."
+  },
+  {
+    "question": "Khi mắc nối tiếp các điện trở thành một đoạn mạch, cường độ dòng điện chạy qua các điện trở có mối quan hệ như thế nào?",
+    "options": [
+      "Bằng nhau tại mọi điểm",
+      "Càng ở xa nguồn càng nhỏ",
+      "Càng gần cực dương càng lớn",
+      "Tổng các cường độ bằng cường độ mạch chính"
+    ],
+    "answer": "Bằng nhau tại mọi điểm",
+    "explanation": "Trong đoạn mạch mắc nối tiếp, cường độ dòng điện là như nhau tại mọi điểm: I = I1 = I2 = ..."
+  },
+  {
+    "question": "Khi mắc song song hai điện trở vào một hiệu điện thế U, hiệu điện thế giữa hai đầu mỗi điện trở có mối quan hệ như thế nào?",
+    "options": [
+      "Bằng tổng hiệu điện thế các mạch rẽ",
+      "Bằng nhau và bằng U",
+      "Luôn nhỏ hơn U",
+      "Tỉ lệ thuận với giá trị các điện trở"
+    ],
+    "answer": "Bằng nhau và bằng U",
+    "explanation": "Trong đoạn mạch mắc song song, hiệu điện thế giữa hai đầu các đoạn mạch rẽ luôn bằng nhau và bằng hiệu điện thế mạch chính: U = U1 = U2."
+  },
+  {
+    "question": "Bộ phận nào trong mạch điện có chức năng cung cấp năng lượng điện lâu dài cho mạch hoạt động?",
+    "options": [
+      "Dây dẫn điện",
+      "Nguồn điện",
+      "Công tắc",
+      "Điện trở thuần"
+    ],
+    "answer": "Nguồn điện",
+    "explanation": "Nguồn điện có khả năng duy trì hiệu điện thế giữa hai cực của nó, từ đó duy trì dòng điện và cung cấp năng lượng cho mạch điện."
+  },
+  {
+    "question": "Hiện tượng đoản mạch xảy ra khi nào?",
+    "options": [
+      "Khi cắt bỏ hoàn toàn nguồn điện ra khỏi mạch",
+      "Khi nối hai cực của nguồn điện bằng một dây dẫn có điện trở rất nhỏ",
+      "Khi mắc thêm nhiều điện trở lớn vào mạch chính",
+      "Khi hiệu điện thế của nguồn giảm xuống bằng không"
+    ],
+    "answer": "Khi nối hai cực của nguồn điện bằng một dây dẫn có điện trở rất nhỏ",
+    "explanation": "Hiện tượng đoản mạch (chập mạch) xảy ra khi điện trở mạch ngoài không đáng kể, làm cường độ dòng điện trong mạch tăng lên rất lớn."
+  },
+  {
+    "question": "Công thức tính điện năng tiêu thụ của một đoạn mạch là gì (được viết dưới dạng ký hiệu không công thức phức tạp)?",
+    "options": [
+      "A = U.I.t",
+      "A = U.I / t",
+      "A = P.t.t",
+      "A = U.U / R"
+    ],
+    "answer": "A = U.I.t",
+    "explanation": "Điện năng tiêu thụ của đoạn mạch bằng tích của hiệu điện thế, cường độ dòng điện và thời gian dòng điện chạy qua."
+  },
+  {
+    "question": "Định luật Joule - Lenz cho biết điện năng tiêu thụ ở một vật dẫn biến đổi hoàn toàn thành dạng năng lượng nào?",
+    "options": [
+      "Cơ năng",
+      "Nhiệt năng",
+      "Hóa năng",
+      "Quang năng"
+    ],
+    "answer": "Nhiệt năng",
+    "explanation": "Định luật Joule - Lenz xác định lượng nhiệt năng tỏa ra trên vật dẫn khi có dòng điện chạy qua."
+  },
+  {
+    "question": "Đại lượng nào sau đây là thước đo lượng điện tích dịch chuyển qua một bề mặt trong một khoảng thời gian?",
+    "options": [
+      "Điện dung",
+      "Điện lượng",
+      "Điện thế",
+      "Mật độ dòng điện"
+    ],
+    "answer": "Điện lượng",
+    "explanation": "Điện lượng ký hiệu là q, đại diện cho lượng điện tích dịch chuyển qua tiết diện vật dẫn trong thời gian xét."
+  },
+  {
+    "question": "Nếu khoảng cách giữa hai điện tích điểm tăng lên 2 lần thì lực tương tác Coulomb giữa chúng thay đổi như thế nào?",
+    "options": [
+      "Tăng lên 2 lần",
+      "Giảm đi 2 lần",
+      "Giảm đi 4 lần",
+      "Tăng lên 4 lần"
+    ],
+    "answer": "Giảm đi 4 lần",
+    "explanation": "Theo định luật Coulomb, lực tĩnh điện tỉ lệ nghịch với bình phương khoảng cách giữa hai điện tích. Khi khoảng cách tăng 2 lần thì lực giảm đi 2 bình phương là 4 lần."
+  },
+  {
+    "question": "Một tụ điện trên vỏ có ghi 20 microFarad - 12V. Hiệu điện thế lớn nhất có thể đặt vào hai bản tụ mà không làm tụ bị hỏng là bao nhiêu?",
+    "options": [
+      "20 V",
+      "12 V",
+      "240 V",
+      "6 V"
+    ],
+    "answer": "12 V",
+    "explanation": "Giá trị điện áp ghi trên vỏ tụ điện chính là hiệu điện thế định mức tối đa mà tụ có thể chịu được mà không bị đánh thủng."
+  },
+  {
+    "question": "Khi đặt một hiệu điện thế 6V vào hai đầu một dây dẫn thì cường độ dòng điện đo được là 0.5A. Điện trở của dây dẫn này bằng bao nhiêu?",
+    "options": [
+      "3 Ohm",
+      "12 Ohm",
+      "0.083 Ohm",
+      "2.5 Ohm"
+    ],
+    "answer": "12 Ohm",
+    "explanation": "Áp dụng định luật Ohm: R = U / I = 6 / 0.5 = 12 Ohm."
+  },
+  {
+    "question": "Một nguồn điện có suất điện động là 9V. Khi nguồn điện này thực hiện dịch chuyển một điện lượng bằng 2 Culông bên trong nguồn thì công của lực lạ bằng bao nhiêu?",
+    "options": [
+      "4.5 Jun",
+      "18 Jun",
+      "11 Jun",
+      "7 Jun"
+    ],
+    "answer": "18 Jun",
+    "explanation": "Công của lực lạ được tính bằng tích của suất điện động và điện lượng: A = E.q = 9 nhân 2 = 18 Jun."
+  },
+  {
+    "question": "Một bóng đèn có ghi 220V - 100W. Khi đèn sáng bình thường, cường độ dòng điện chạy qua đèn có giá trị xấp xỉ bằng bao nhiêu?",
+    "options": [
+      "2.2 A",
+      "0.45 A",
+      "22000 A",
+      "0.22 A"
+    ],
+    "answer": "0.45 A",
+    "explanation": "Cường độ dòng điện khi đèn sáng bình thường: I = P / U = 100 / 220 bằng khoảng 0.45A."
+  },
+  {
+    "question": "Một bếp điện hoạt động liên tục trong thời gian 2 giờ với công suất 1000W. Điện năng tiêu thụ của bếp trong thời gian đó tính theo đơn vị Kilôoat giờ (kWh) là bao nhiêu?",
+    "options": [
+      "2000 kWh",
+      "2 kWh",
+      "0.5 kWh",
+      "500 kWh"
+    ],
+    "answer": "2 kWh",
+    "explanation": "Điện năng tiêu thụ tính theo kWh bằng công suất tính theo kW nhân với thời gian tính theo giờ: A = 1 kW nhân 2 giờ = 2 kWh."
+  },
+  {
+    "question": "Hai điện trở R1 = 4 Ohm và R2 = 6 Ohm được mắc nối tiếp với nhau vào một nguồn điện. Điện trở tương đương của đoạn mạch này bằng bao nhiêu?",
+    "options": [
+      "2.4 Ohm",
+      "10 Ohm",
+      "24 Ohm",
+      "2 Ohm"
+    ],
+    "answer": "10 Ohm",
+    "explanation": "Đối với đoạn mạch mắc nối tiếp, điện trở tương đương bằng tổng các điện trở thành phần: R = R1 + R2 = 4 + 6 = 10 Ohm."
+  },
+  {
+    "question": "Hai điện trở R1 = 6 Ohm và R2 = 6 Ohm được mắc song song với nhau. Điện trở tương đương của cặp điện trở này bằng bao nhiêu?",
+    "options": [
+      "12 Ohm",
+      "3 Ohm",
+      "36 Ohm",
+      "1 Ohm"
+    ],
+    "answer": "3 Ohm",
+    "explanation": "Đối với hai điện trở giống nhau mắc song song, điện trở tương đương bằng giá trị một điện trở chia cho 2: R = 6 / 2 = 3 Ohm."
+  },
+  {
+    "question": "Một tụ điện phẳng có điện dung 5 microFarad được tích điện dưới hiệu điện thế 20V. Điện tích mà tụ điện tích được bằng bao nhiêu?",
+    "options": [
+      "100 microCulông",
+      "4 microCulông",
+      "0.25 microCulông",
+      "100 Culông"
+    ],
+    "answer": "100 microCulông",
+    "explanation": "Điện tích của tụ điện được tính bằng công thức: q = C.U = 5 microFarad nhân 20V = 100 microCulông."
+  },
+  {
+    "question": "Tại một điểm trong điện trường, lực điện tác dụng lên một điện tích thử q = 2 nhân 10 mũ trừ 6 Culông có độ lớn là 0.04 Niutơn. Cường độ điện trường tại điểm đó có độ lớn bằng bao nhiêu?",
+    "options": [
+      "20000 V/m",
+      "8 nhân 10 mũ trừ 8 V/m",
+      "0.02 V/m",
+      "50000 V/m"
+    ],
+    "answer": "20000 V/m",
+    "explanation": "Cường độ điện trường E = F / q = 0.04 / (2 nhân 10 mũ trừ 6) = 20000 V/m."
+  },
+  {
+    "question": "Hiệu điện thế giữa hai bản kim loại phẳng song song tích điện trái dấu đặt cách nhau 2 cm là 100V. Giả sử điện trường giữa hai bản là đều, cường độ điện trường giữa hai bản bằng bao nhiêu?",
+    "options": [
+      "50 V/m",
+      "5000 V/m",
+      "200 V/m",
+      "2000 V/m"
+    ],
+    "answer": "5000 V/m",
+    "explanation": "Đổi khoảng cách d = 2 cm = 0.02 m. Cường độ điện trường đều: E = U / d = 100 / 0.02 = 5000 V/m."
+  },
+  {
+    "question": "Khi cường độ dòng điện chạy qua một vật dẫn tăng lên 3 lần thì nhiệt lượng tỏa ra trên vật dẫn đó trong cùng một khoảng thời gian thay đổi như thế nào?",
+    "options": [
+      "Tăng lên 3 lần",
+      "Giảm đi 3 lần",
+      "Tăng lên 9 lần",
+      "Không thay đổi"
+    ],
+    "answer": "Tăng lên 9 lần",
+    "explanation": "Theo định luật Joule - Lenz, nhiệt lượng tỏa ra tỉ lệ thuận với bình phương cường độ dòng điện. Do đó khi dòng điện tăng 3 lần thì nhiệt lượng tăng 3 bình phương là 9 lần."
+  },
+  {
+    "question": "Một dây dẫn có dòng điện không đổi cường độ 2A chạy qua. Điện lượng dịch chuyển qua tiết diện thẳng của dây dẫn này trong thời gian 5 giây là bao nhiêu?",
+    "options": [
+      "10 Culông",
+      "0.4 Culông",
+      "2.5 Culông",
+      "7 Culông"
+    ],
+    "answer": "10 Culông",
+    "explanation": "Điện lượng được tính theo công thức: q = I.t = 2A nhân 5s = 10 Culông."
+  },
+  {
+    "question": "Một nguồn điện có điện trở trong r = 1 Ohm mắc với mạch ngoài là một điện trở R = 8 Ohm thành mạch kín. Hiệu suất của nguồn điện này xấp xỉ bằng bao nhiêu?",
+    "options": [
+      "88.9 phần trăm",
+      "11.1 phần trăm",
+      "80 phần trăm",
+      "94.1 phần trăm"
+    ],
+    "answer": "88.9 phần trăm",
+    "explanation": "Hiệu suất nguồn điện được tính bằng tỉ số: H = R / (R + r) = 8 / (8 + 1) = 8/9 xấp xỉ 88.9 phần trăm."
+  },
+  {
+    "question": "Công việc nào sau đây tuân thủ quy tắc an toàn khi sử dụng các thiết bị điện trong phòng thí nghiệm vật lý?",
+    "options": [
+      "Cắm phích điện khi tay còn đang ướt nước",
+      "Tự ý thay đổi sơ đồ mạch điện khi mạch đang có dòng điện chạy qua",
+      "Ngắt công tắc nguồn điện trước khi tiến hành sửa chữa hoặc thay đổi linh kiện",
+      "Dùng dây đồng trần không vỏ bọc để nối trực tiếp vào lưới điện phòng"
+    ],
+    "answer": "Ngắt công tắc nguồn điện trước khi tiến hành sửa chữa hoặc thay đổi linh kiện",
+    "explanation": "Ngắt nguồn điện trước khi thao tác lắp ráp, sửa chữa là nguyên tắc cơ bản nhất để tránh tai nạn điện giật."
+  },
+  {
+    "question": "Hai điện tích điểm q1 = 3 nhân 10 mũ trừ 8 Culông và q2 = -3 nhân 10 mũ trừ 8 Culông đặt cách nhau một khoảng r trong không khí. Lực tương tác giữa chúng là lực hút hay lực đẩy và có đặc điểm gì?",
+    "options": [
+      "Lực đẩy vì hai điện tích có độ lớn bằng nhau",
+      "Lực hút vì hai điện tích trái dấu nhau",
+      "Lực đẩy vì hai điện tích trái dấu nhau",
+      "Lực hút vì hai điện tích cùng dấu nhau"
+    ],
+    "answer": "Lực hút vì hai điện tích trái dấu nhau",
+    "explanation": "Vì q1 dương và q2 âm nên đây là hai điện tích trái dấu, lực tương tác giữa chúng phải là lực hút."
+  },
+  {
+    "question": "Một mạch điện gồm nguồn điện có suất điện động 12V và điện trở trong 1 Ohm. Mạch ngoài là một điện trở R = 5 Ohm. Cường độ dòng điện chạy trong mạch kín này bằng bao nhiêu?",
+    "options": [
+      "12 A",
+      "2.4 A",
+      "2 A",
+      "2.2 A"
+    ],
+    "answer": "2 A",
+    "explanation": "Áp dụng định luật Ohm cho toàn mạch: I = E / (R + r) = 12 / (5 + 1) = 12 / 6 = 2A."
+  },
+  {
+    "question": "Một tụ điện phẳng có điện dung C. Nếu ta tăng khoảng cách giữa hai bản tụ lên 2 lần đồng thời giữ nguyên các yếu tố khác thì điện dung của tụ sẽ thay đổi thế nào?",
+    "options": [
+      "Tăng lên 2 lần",
+      "Giảm đi 2 lần",
+      "Tăng lên 4 lần",
+      "Giảm đi 4 lần"
+    ],
+    "answer": "Giảm đi 2 lần",
+    "explanation": "Điện dung của tụ điện phẳng tỉ lệ nghịch với khoảng cách giữa hai bản tụ. Khi khoảng cách tăng 2 lần thì điện dung giảm đi 2 lần."
+  },
+  {
+    "question": "Khi hiệu điện thế giữa hai đầu một đoạn mạch tăng từ 10V lên 20V thì công suất tiêu thụ của đoạn mạch chứa điện trở thuần thay đổi như thế nào?",
+    "options": [
+      "Tăng lên 2 lần",
+      "Tăng lên 4 lần",
+      "Giảm đi 2 lần",
+      "Không thay đổi"
+    ],
+    "answer": "Tăng lên 4 lần",
+    "explanation": "Công suất tiêu thụ P = U bình phương / R. Khi hiệu điện thế U tăng 2 lần (từ 10V lên 20V) thì công suất sẽ tăng lên 2 bình phương là 4 lần."
+  },
+  {
+    "question": "Để đo cường độ dòng điện chạy qua một bóng đèn và hiệu điện thế giữa hai đầu bóng đèn đó, ta cần sử dụng ampe kế và vôn kế mắc như thế nào?",
+    "options": [
+      "Mắc ampe kế song song và vôn kế nối tiếp với đèn",
+      "Mắc cả ampe kế và vôn kế nối tiếp với đèn",
+      "Mắc ampe kế nối tiếp và vôn kế song song với đèn",
+      "Mắc cả ampe kế và vôn kế song song với đèn"
+    ],
+    "answer": "Mắc ampe kế nối tiếp và vôn kế song song với đèn",
+    "explanation": "Theo quy tắc đo lường, ampe kế có điện trở rất nhỏ phải mắc nối tiếp để đo dòng điện, vôn kế có điện trở rất lớn phải mắc song song để đo hiệu điện thế."
+  },
+  {
+    "question": "Một bàn là điện sử dụng nguồn điện 220V và tiêu thụ một công suất 1100W. Mỗi ngày bàn là được sử dụng trong 1 giờ. Tiền điện phải trả cho việc sử dụng bàn là này trong 30 ngày là bao nhiêu, biết giá điện là 2000 đồng cho một kWh?",
+    "options": [
+      "66000 đồng",
+      "33000 đồng",
+      "22000 đồng",
+      "11000 đồng"
+    ],
+    "answer": "66000 đồng",
+    "explanation": "Công suất là 1.1 kW. Điện năng tiêu thụ trong 30 ngày là: 1.1 kW nhân 1 giờ nhân 30 ngày = 33 kWh. Số tiền phải trả là: 33 nhân 2000 = 66000 đồng."
+  },
+  {
+    "question": "Một dây dẫn đồng chất có điện trở R. Nếu cắt dây dẫn đó thành 2 đoạn bằng nhau rồi mắc chúng song song với nhau thì điện trở của hệ mạch mới bằng bao nhiêu?",
+    "options": [
+      "R",
+      "R / 2",
+      "R / 4",
+      "2R"
+    ],
+    "answer": "R / 4",
+    "explanation": "Khi cắt đôi, mỗi đoạn có điện trở là R/2. Mắc song song hai đoạn này thì điện trở tương đương là (R/2) / 2 = R/4."
+  },
+  {
+    "question": "Một nguồn điện có suất điện động 6V và điện trở trong 0.5 Ohm. Khi xảy ra hiện tượng đoản mạch (điện trở mạch ngoài bằng 0), cường độ dòng điện trong mạch đạt giá trị là bao nhiêu?",
+    "options": [
+      "12 A",
+      "3 A",
+      "0 A",
+      "6 A"
+    ],
+    "answer": "12 A",
+    "explanation": "Khi đoản mạch, cường độ dòng điện được tính theo công thức: I = E / r = 6 / 0.5 = 12A."
+  },
+  {
+    "question": "Một tụ điện có điện dung 10 microFarad được tích điện đến hiệu điện thế 50V. Năng lượng điện trường dự trữ bên trong tụ điện này bằng bao nhiêu?",
+    "options": [
+      "0.5 Jun",
+      "0.0125 Jun",
+      "0.025 Jun",
+      "250 Jun"
+    ],
+    "answer": "0.0125 Jun",
+    "explanation": "Năng lượng tụ điện: W = 0.5 nhân C nhân U bình phương = 0.5 nhân (10 nhân 10 mũ trừ 6) nhân 50 bình phương = 0.0125 Jun."
+  },
+  {
+    "question": "Ba điện trở giống nhau mỗi chiếc có giá trị 3 Ohm được mắc thành sơ đồ gồm hai chiếc song song rồi nối tiếp với chiếc còn lại. Điện trở tổng đương của cả mạch bằng bao nhiêu?",
+    "options": [
+      "9 Ohm",
+      "1.5 Ohm",
+      "4.5 Ohm",
+      "2 Ohm"
+    ],
+    "answer": "4.5 Ohm",
+    "explanation": "Hai chiếc mắc song song có điện trở là 3 / 2 = 1.5 Ohm. Nối tiếp với chiếc còn lại thì tổng điện trở là 1.5 + 3 = 4.5 Ohm."
+  },
+  {
+    "question": "Một nguồn điện gồm 3 pin giống nhau mắc nối tiếp, mỗi pin có suất điện động 1.5V và điện trở trong 0.2 Ohm. Suất điện động và điện trở trong của bộ nguồn này lần lượt là bao nhiêu?",
+    "options": [
+      "4.5V và 0.6 Ohm",
+      "1.5V và 0.2 Ohm",
+      "4.5V và 0.2 Ohm",
+      "1.5V và 0.6 Ohm"
+    ],
+    "answer": "4.5V và 0.6 Ohm",
+    "explanation": "Khi mắc nối tiếp các nguồn giống nhau: E bộ = 3 nhân E = 3 nhân 1.5 = 4.5V; r bộ = 3 nhân r = 3 nhân 0.2 = 0.6 Ohm."
+  },
+  {
+    "question": "Một mạch điện kín gồm nguồn điện có suất điện động E và điện trở trong r. Mạch ngoài là biến trở R. Khi điều chỉnh biến trở R tăng dần từ giá trị rất nhỏ lên rất lớn, hiệu điện thế giữa hai cực của nguồn điện sẽ thay đổi như thế nào?",
+    "options": [
+      "Luôn giảm dần",
+      "Luôn tăng dần tiến về giá trị bằng E",
+      "Tăng đến một giá trị cực đại rồi giảm",
+      "Không thay đổi"
+    ],
+    "answer": "Luôn tăng dần tiến về giá trị bằng E",
+    "explanation": "Hiệu điện thế mạch ngoài U = E nhân R / (R + r). Khi R tăng, tỉ số R/(R+r) tăng dần và tiến về 1, nên U tăng dần tiến về bằng E."
+  },
+  {
+    "question": "Hai quả cầu kim loại nhỏ mang điện tích q1 = 2 nhân 10 mũ trừ 7 Culông và q2 = -6 nhân 10 mũ trừ 7 Culông cho tiếp xúc nhau rồi tách ra. Điện tích của mỗi quả cầu sau khi tách ra bằng bao nhiêu?",
+    "options": [
+      "4 nhân 10 mũ trừ 7 Culông",
+      "-2 nhân 10 mũ trừ 7 Culông",
+      "-4 nhân 10 mũ trừ 7 Culông",
+      "8 nhân 10 mũ trừ 7 Culông"
+    ],
+    "answer": "-2 nhân 10 mũ trừ 7 Culông",
+    "explanation": "Khi tiếp xúc, điện tích tổng cộng chia đều cho hai quả cầu: q = (q1 + q2) / 2 = (2 - 6) nhân 10 mũ trừ 7 / 2 = -2 nhân 10 mũ trừ 7 Culông."
+  },
+  {
+    "question": "Một nguồn điện có suất điện động 12V và điện trở trong 2 Ohm được mắc với mạch ngoài là một điện trở R. Để công suất tiêu thụ trên mạch ngoài đạt giá trị cực đại thì điện trở R phải có giá trị bằng bao nhiêu?",
+    "options": [
+      "2 Ohm",
+      "4 Ohm",
+      "1 Ohm",
+      "0 Ohm"
+    ],
+    "answer": "2 Ohm",
+    "explanation": "Theo bất đẳng thức Cauchy áp dụng cho công suất mạch ngoài, công suất cực đại khi điện trở mạch ngoài bằng điện trở trong của nguồn: R = r = 2 Ohm."
+  },
+  {
+    "question": "Một hạt bụi có khối lượng m nằm cân bằng lơ lửng trong điện trường đều giữa hai bản kim loại phẳng tích điện trái dấu đặt nằm ngang. Biết cường độ điện trường có phương thẳng đứng hướng xuống dưới và có độ lớn là E, gia tốc trọng trường là g. Điện tích của hạt bụi có đặc điểm gì?",
+    "options": [
+      "Mang điện tích dương, độ lớn bằng m.g / E",
+      "Mang điện tích âm, độ lớn bằng m.g / E",
+      "Mang điện tích âm, độ lớn bằng m.g.E",
+      "Mang điện tích dương, độ lớn bằng m.g.E"
+    ],
+    "answer": "Mang điện tích âm, độ lớn bằng m.g / E",
+    "explanation": "Để hạt bụi cân bằng, lực điện phải hướng thẳng đứng lên trên đối kháng trọng lực hướng xuống. Vì cường độ điện trường hướng xuống nên lực điện ngược chiều điện trường, chứng tỏ hạt bụi mang điện tích âm. Về độ lớn: F = H nên q.E = m.g suy ra q = m.g / E."
+  }
+]
+

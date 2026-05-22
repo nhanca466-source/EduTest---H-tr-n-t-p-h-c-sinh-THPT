@@ -1,0 +1,1388 @@
+[
+  {
+    "question": "Công nghệ nào sau đây được phân loại thuộc lĩnh vực công nghệ cao?",
+    "options": [
+      "Công nghệ luyện kim",
+      "Công nghệ sinh học",
+      "Công nghệ đúc",
+      "Công nghệ gia công cắt gọt"
+    ],
+    "answer": "Công nghệ sinh học",
+    "explanation": "Công nghệ sinh học là một trong những công nghệ cốt lõi thuộc nhóm công nghệ cao, ứng dụng các thực thể sống để tạo ra sản phẩm quy mô công nghiệp."
+  },
+  {
+    "question": "Thị trường lao động trong lĩnh vực công nghệ hiện nay có đặc điểm gì nổi bật?",
+    "options": [
+      "Chỉ tuyển dụng lao động phổ thông",
+      "Yêu cầu ngày càng cao về kỹ năng nghề nghiệp và khả năng thích ứng",
+      "Không thay đổi theo thời gian",
+      "Cắt giảm toàn bộ lao động trong ngành cơ khí"
+    ],
+    "answer": "Yêu cầu ngày càng cao về kỹ năng nghề nghiệp và khả năng thích ứng",
+    "explanation": "Sự phát triển nhanh chóng của khoa học kỹ thuật đòi hỏi người lao động phải liên tục cập nhật kiến thức, kỹ năng để vận hành máy móc hiện đại."
+  },
+  {
+    "question": "Trong quy trình thiết kế kỹ thuật, bước nào sau đây thực hiện đầu tiên?",
+    "options": [
+      "Xác định vấn đề, xây dựng tiêu chí",
+      "Chế tạo mẫu thử nghiệm",
+      "Đánh giá phương án thiết kế",
+      "Lập hồ sơ kỹ thuật"
+    ],
+    "answer": "Xác định vấn đề, xây dựng tiêu chí",
+    "explanation": "Bước đầu tiên của quy trình thiết kế kỹ thuật luôn là phát hiện nhu cầu, xác định rõ vấn đề cần giải quyết và đề ra các tiêu chí cho giải pháp."
+  },
+  {
+    "question": "Vật liệu nào sau đây thuộc nhóm vật liệu kim loại và hợp kim?",
+    "options": [
+      "Nhựa PVC",
+      "Thủy tinh",
+      "Thép cacbon",
+      "Gỗ tự nhiên"
+    ],
+    "answer": "Thép cacbon",
+    "explanation": "Thép cacbon là hợp kim của sắt và cacbon, thuộc nhóm vật liệu kim loại."
+  },
+  {
+    "question": "Phương pháp gia công nào dưới đây là phương pháp gia công không phoi?",
+    "options": [
+      "Tiện",
+      "Phay",
+      "Đúc",
+      "Khoan"
+    ],
+    "answer": "Đúc",
+    "explanation": "Đúc là phương pháp rót kim loại lỏng vào khuôn, không tạo ra phoi cắt gọt như tiện, phay hay khoan."
+  },
+  {
+    "question": "Hệ thống kỹ thuật được cấu thành từ mấy thành phần cơ bản?",
+    "options": [
+      "2 thành phần",
+      "3 thành phần",
+      "4 thành phần",
+      "5 thành phần"
+    ],
+    "answer": "3 thành phần",
+    "explanation": "Một hệ thống kỹ thuật cơ bản gồm 3 phần chính: Phần tử đầu vào, Phần tử xử lý và Phần tử đầu ra."
+  },
+  {
+    "question": "Bản vẽ kỹ thuật nào thường dùng trong giai đoạn chế tạo và kiểm tra sản phẩm?",
+    "options": [
+      "Bản vẽ phác thảo",
+      "Bản vẽ chi tiết",
+      "Bản vẽ sơ đồ",
+      "Bản vẽ phối cảnh"
+    ],
+    "answer": "Bản vẽ chi tiết",
+    "explanation": "Bản vẽ chi tiết chứa đầy đủ hình biểu diễn, kích thước và yêu cầu kỹ thuật cần thiết để chế tạo và kiểm tra một chi tiết máy."
+  },
+  {
+    "question": "Đâu là công nghệ cốt lõi của cuộc cách mạng công nghiệp lần thứ tư (Cách mạng 4.0)?",
+    "options": [
+      "Động cơ hơi nước",
+      "Trí tuệ nhân tạo (AI)",
+      "Công nghệ điện cơ",
+      "Kỹ thuật sản xuất dây chuyền"
+    ],
+    "answer": "Trí tuệ nhân tạo (AI)",
+    "explanation": "Trí tuệ nhân tạo, dữ liệu lớn và điện toán đám mây là những công nghệ nền tảng mang tính đột phá của Cách mạng Công nghiệp 4.0."
+  },
+  {
+    "question": "Vật liệu nano là loại vật liệu có cấu trúc hạt với kích thước nằm trong khoảng nào?",
+    "options": [
+      "Từ 1 đến 100 micromet",
+      "Từ 1 đến 100 nanomet",
+      "Từ 1 đến 100 milimet",
+      "Lớn hơn 1 centimet"
+    ],
+    "answer": "Từ 1 đến 100 nanomet",
+    "explanation": "Theo định nghĩa kỹ thuật, vật liệu có ít nhất một chiều kích thước ở cấu trúc nano (từ 1 đến 100 nanomet) được gọi là vật liệu nano."
+  },
+  {
+    "question": "Thiết bị nào sau đây đóng vai trò là phần tử đầu ra trong hệ thống điều khiển tự động của máy điều hòa?",
+    "options": [
+      "Cảm biến nhiệt độ",
+      "Bộ vi xử lý trung tâm",
+      "Khối hiển thị LED",
+      "Máy nén (Block máy)"
+    ],
+    "answer": "Máy nén (Block máy)",
+    "explanation": "Máy nén nhận tín hiệu điều khiển để thay đổi trạng thái hoạt động (làm lạnh), thực hiện chức năng đầu ra của hệ thống."
+  },
+  {
+    "question": "Ngành nghề nào sau đây liên quan trực tiếp đến lĩnh vực kiến trúc và xây dựng?",
+    "options": [
+      "Kỹ sư cơ khí",
+      "Kiến trúc sư dân dụng",
+      "Kỹ thuật viên điện tử",
+      "Lập trình viên máy tính"
+    ],
+    "answer": "Kiến trúc sư dân dụng",
+    "explanation": "Kiến trúc sư là người chịu trách nhiệm thiết kế không gian, hình dáng và kết cấu cho các công trình xây dựng."
+  },
+  {
+    "question": "Trong vẽ kỹ thuật, nét đứt mảnh được dùng để thể hiện đường nào?",
+    "options": [
+      "Đường bao thấy",
+      "Đường tâm, đường trục",
+      "Đường bao khuất, cạnh khuất",
+      "Đường kích thước"
+    ],
+    "answer": "Đường bao khuất, cạnh khuất",
+    "explanation": "Theo tiêu chuẩn bản vẽ kỹ thuật, nét đứt mảnh thể hiện các cạnh hoặc đường bao bị che khuất không nhìn thấy từ hướng chiếu."
+  },
+  {
+    "question": "Vật liệu composite có đặc điểm cấu tạo nổi bật nào?",
+    "options": [
+      "Chỉ gồm một loại kim loại nguyên chất",
+      "Kết hợp từ hai hay nhiều vật liệu thành phần khác nhau để tạo ra tính chất vượt trội",
+      "Là một loại nhựa dẻo thông thường",
+      "Được khai thác trực tiếp từ mỏ quặng không qua chế biến"
+    ],
+    "answer": "Kết hợp từ hai hay nhiều vật liệu thành phần khác nhau để tạo ra tính chất vượt trội",
+    "explanation": "Composite được tổng hợp từ chất nền và cốt gia cường, đem lại các đặc tính cơ lý vượt trội mà vật liệu thành phần riêng lẻ không có."
+  },
+  {
+    "question": "Chức năng chính của hộp số trên xe máy là gì?",
+    "options": [
+      "Tạo ra dòng điện cho xe",
+      "Thay đổi moment và vận tốc truyền từ động cơ đến bánh xe",
+      "Đốt cháy nhiên liệu tạo lực",
+      "Điều khiển hướng chuyển động của bánh trước"
+    ],
+    "answer": "Thay đổi moment và vận tốc truyền từ động cơ đến bánh xe",
+    "explanation": "Hộp số là cơ cấu truyền động dùng để thay đổi tỷ số truyền, từ đó làm thay đổi lực kéo và tốc độ phù hợp với điều kiện vận hành."
+  },
+  {
+    "question": "Sự phát triển của công nghệ ảnh hưởng như thế nào đến môi trường tự nhiên?",
+    "options": [
+      "Hoàn toàn không gây tác động gì",
+      "Có thể gây ô nhiễm nếu quản lý chất thải không tốt, nhưng cũng mang lại giải pháp năng lượng sạch",
+      "Chỉ mang lại các tác động tiêu cực phá hủy hệ sinh thái",
+      "Chỉ làm tăng lượng nước ngọt trên trái đất"
+    ],
+    "answer": "Có thể gây ô nhiễm nếu quản lý chất thải không tốt, nhưng cũng mang lại giải pháp năng lượng sạch",
+    "explanation": "Công nghệ mang tính hai mặt: vừa có rủi ro gây ô nhiễm tài nguyên, vừa là chìa khóa để phát triển các giải pháp xanh như năng lượng mặt trời, xử lý rác thải."
+  },
+  {
+    "question": "Trong thiết kế, bản vẽ lắp dùng để làm gì?",
+    "options": [
+      "Biểu diễn hình dáng bên ngoài của một ngôi nhà",
+      "Thể hiện hình dáng, vị trí tương quan và cách thức lắp ráp các chi tiết tạo thành sản phẩm",
+      "Dùng làm tài liệu quảng cáo bán hàng",
+      "Chỉ dùng để tính toán giá thành sản phẩm"
+    ],
+    "answer": "Thể hiện hình dáng, vị trí tương quan và cách thức lắp ráp các chi tiết tạo thành sản phẩm",
+    "explanation": "Bản vẽ lắp cung cấp cấu trúc tổng thể của sản phẩm, giúp người thợ biết cách kết nối các chi tiết đơn lẻ lại với nhau."
+  },
+  {
+    "question": "Công nghệ CAD trong sản xuất cơ khí hiện đại có nghĩa là gì?",
+    "options": [
+      "Thiết kế có sự hỗ trợ của máy tính",
+      "Sản xuất có sự hỗ trợ của máy tính",
+      "Kiểm tra chất lượng bằng robot",
+      "Quản lý nhân sự tự động"
+    ],
+    "answer": "Thiết kế có sự hỗ trợ của máy tính",
+    "explanation": "CAD là viết tắt của Computer-Aided Design, nghĩa là sử dụng phần mềm máy tính để dựng hình, mô phỏng và lập bản vẽ kỹ thuật."
+  },
+  {
+    "question": "Tiêu chí nào dưới đây quyết định tính thẩm mỹ của một sản phẩm thiết kế kỹ thuật?",
+    "options": [
+      "Giá thành sản xuất rẻ",
+      "Độ bền cơ học cao",
+      "Hình dáng cân đối, màu sắc hài hòa và giao diện thân thiện",
+      "Khối lượng sản phẩm nặng"
+    ],
+    "answer": "Hình dáng cân đối, màu sắc hài hòa và giao diện thân thiện",
+    "explanation": "Tính thẩm mỹ đánh giá vẻ đẹp bên ngoài, sự phối hợp màu sắc, hình khối bắt mắt tạo cảm xúc tích cực cho người sử dụng."
+  },
+  {
+    "question": "Loại năng lượng nào sau đây được coi là năng lượng tái tạo?",
+    "options": [
+      "Năng lượng từ than đá",
+      "Năng lượng dầu mỏ",
+      "Năng lượng gió",
+      "Năng lượng khí đốt tự nhiên"
+    ],
+    "answer": "Năng lượng gió",
+    "explanation": "Năng lượng gió thu được tự nhiên, liên tục và không bị cạn kiệt khi khai thác nên thuộc nhóm năng lượng tái tạo."
+  },
+  {
+    "question": "Khi sử dụng phương pháp chiếu góc thứ nhất, hình chiếu cạnh được đặt ở vị trí nào so với hình chiếu đứng?",
+    "options": [
+      "Bên dưới hình chiếu đứng",
+      "Bên trên hình chiếu đứng",
+      "Bên phải hình chiếu đứng",
+      "Bên trái hình chiếu đứng"
+    ],
+    "answer": "Bên phải hình chiếu đứng",
+    "explanation": "Trong phương pháp chiếu góc thứ nhất, hình chiếu từ trái sang sẽ được vẽ ở bên phải của hình chiếu đứng."
+  },
+  {
+    "question": "Đâu là một ví dụ về vật liệu thông minh (Smart materials)?",
+    "options": [
+      "Hợp kim nhớ hình",
+      "Thép xây dựng",
+      "Gạch nung",
+      "Bê tông thường"
+    ],
+    "answer": "Hợp kim nhớ hình",
+    "explanation": "Hợp kim nhớ hình có khả năng tự quay lại hình dáng ban đầu khi chịu tác động của nhiệt độ, đây là tính chất đặc trưng của vật liệu thông minh."
+  },
+  {
+    "question": "Phương pháp gia công bằng tia laser thuộc nhóm công nghệ gia công nào?",
+    "options": [
+      "Gia công cơ khí truyền thống",
+      "Gia công bằng phương pháp cắt gọt thông thường",
+      "Gia công tiên tiến (Hiện đại)",
+      "Gia công đúc áp lực"
+    ],
+    "answer": "Gia công tiên tiến (Hiện đại)",
+    "explanation": "Gia công bằng laser ứng dụng năng lượng nhiệt tập trung mật độ cao từ chùm tia sáng, thuộc nhóm công nghệ hiện đại không cần lực cắt cơ học trực tiếp."
+  },
+  {
+    "question": "Trong đánh giá sản phẩm thiết kế, yếu tố 'an toàn' nhắm đến mục tiêu gì?",
+    "options": [
+      "Đảm bảo sản phẩm không gây hại cho người dùng và môi trường trong quá trình vận hành",
+      "Đảm bảo sản phẩm có thể bán được với giá cao nhất",
+      "Giúp sản phẩm tiết kiệm năng lượng tối đa",
+      "Đảm bảo thời gian chế tạo nhanh nhất"
+    ],
+    "answer": "Đảm bảo sản phẩm không gây hại cho người dùng và môi trường trong quá trình vận hành",
+    "explanation": "Tiêu chí an toàn đòi hỏi cấu trúc, vật liệu và cơ chế vận hành của sản phẩm phải giảm thiểu tối đa rủi ro tai nạn hoặc nhiễm độc."
+  },
+  {
+    "question": "Bản vẽ nhà thuộc loại bản vẽ nào trong hệ thống kỹ thuật?",
+    "options": [
+      "Bản vẽ cơ khí",
+      "Bản vẽ xây dựng",
+      "Bản vẽ điện tử",
+      "Bản vẽ quy hoạch mạng lưới truyền tải"
+    ],
+    "answer": "Bản vẽ xây dựng",
+    "explanation": "Bản vẽ nhà, cầu đường, đê đập được xếp vào nhóm bản vẽ kiến trúc - xây dựng."
+  },
+  {
+    "question": "Yếu tố đầu vào của một hệ thống bếp gas gia đình bao gồm những gì?",
+    "options": [
+      "Nhiệt lượng tỏa ra và khí thải",
+      "Khí gas cung cấp và hành động vặn van đánh lửa",
+      "Kiềng bếp và mặt kính",
+      "Nước sôi và thức ăn chín"
+    ],
+    "answer": "Khí gas cung cấp và hành động vặn van đánh lửa",
+    "explanation": "Đầu vào là năng lượng, nguyên liệu hoặc tín hiệu kích hoạt ban đầu giúp hệ thống bắt đầu quy trình xử lý sinh nhiệt."
+  },
+  {
+    "question": "Để biểu diễn chính xác độ dày, kích thước các lỗ khuất bên trong của một khối hộp rỗng, người ta thường dùng hình biểu diễn nào?",
+    "options": [
+      "Hình chiếu phối cảnh",
+      "Hình cắt",
+      "Hình trục đo",
+      "Hình chiếu tạo bởi ánh sáng mặt trời"
+    ],
+    "answer": "Hình cắt",
+    "explanation": "Hình cắt giả định cắt vật thể ra để lộ cấu trúc trống, rỗng bên trong, giúp thể hiện rõ nét các biên dạng khuất mà không cần dùng quá nhiều nét đứt."
+  },
+  {
+    "question": "Ngành nghề nào chịu trách nhiệm trực tiếp thiết lập mạng lưới truyền tải, lắp đặt trạm biến áp và bảo trì hệ thống điện lưới?",
+    "options": [
+      "Kỹ sư tự động hóa",
+      "Kỹ sư điện lực",
+      "Kỹ thuật viên điện tử viễn thông",
+      "Công nhân cơ khí động lực"
+    ],
+    "answer": "Kỹ sư điện lực",
+    "explanation": "Kỹ sư điện lực chuyên làm việc với hệ thống điện năng quy mô lớn, từ sản xuất, truyền tải đến phân phối điện."
+  },
+  {
+    "question": "Khi chọn vật liệu làm vỏ bảo vệ cho phích cắm điện, tính chất nào của vật liệu được ưu tiên hàng đầu?",
+    "options": [
+      "Tính dẫn điện tốt",
+      "Tính cách điện tốt và độ bền cơ học ổn định",
+      "Tính dẻo cực cao",
+      "Khả năng chống rỉ sét trong nước"
+    ],
+    "answer": "Tính cách điện tốt và độ bền cơ học ổn định",
+    "explanation": "Vỏ phích cắm phải cách ly dòng điện an toàn với tay người dùng và chịu được va đập nhẹ khi cắm/rút."
+  },
+  {
+    "question": "Mục đích chủ yếu của việc lập hồ sơ kỹ thuật ở bước cuối cùng trong quy trình thiết kế là gì?",
+    "options": [
+      "Lưu trữ làm kỷ niệm cá nhân",
+      "Cung cấp toàn bộ tài liệu, bản vẽ, hướng dẫn để chuyển giao sản xuất và sử dụng",
+      "Nộp cho cơ quan thuế",
+      "Để chỉnh sửa lại ý tưởng từ đầu"
+    ],
+    "answer": "Cung cấp toàn bộ tài liệu, bản vẽ, hướng dẫn để chuyển giao sản xuất và sử dụng",
+    "explanation": "Hồ sơ kỹ thuật là sản phẩm hoàn chỉnh của người thiết kế chứa mọi thông tin chuẩn hóa giúp nhà máy chế tạo hàng loạt chính xác."
+  },
+  {
+    "question": "Trong các cuộc cách mạng công nghiệp, động cơ đốt trong bắt đầu phát triển mạnh mẽ và phổ biến ở giai đoạn nào?",
+    "options": [
+      "Cách mạng công nghiệp lần thứ nhất",
+      "Cách mạng công nghiệp lần thứ hai",
+      "Cách mạng công nghiệp lần thứ ba",
+      "Cách mạng công nghiệp 4.0"
+    ],
+    "answer": "Cách mạng công nghiệp lần thứ hai",
+    "explanation": "Cách mạng công nghiệp lần thứ hai đánh dấu bằng sự ra đời của điện năng, sản xuất hàng loạt và việc ứng dụng rộng rãi động cơ đốt trong."
+  },
+  {
+    "question": "Vật liệu nào sau đây không thể tái chế bằng cách nấu chảy lại?",
+    "options": [
+      "Nhựa nhiệt dẻo (như chai PET)",
+      "Nhựa nhiệt rắn (như vỏ ổ cắm điện chịu nhiệt Bakelite)",
+      "Hợp kim nhôm",
+      "Đồng nguyên chất"
+    ],
+    "answer": "Nhựa nhiệt rắn (như vỏ ổ cắm điện chịu nhiệt Bakelite)",
+    "explanation": "Nhựa nhiệt rắn bị biến đổi cấu trúc hóa học vĩnh viễn sau khi định hình lần đầu, khi gia nhiệt lại nó sẽ bị cháy rụi chứ không nóng chảy."
+  },
+  {
+    "question": "Trên một bản vẽ kỹ thuật có ghi tỷ lệ 1:5, điều này nghĩa là gì?",
+    "options": [
+      "Kích thước trên bản vẽ lớn gấp 5 lần kích thước thật ngoài đời",
+      "Kích thước trên bản vẽ nhỏ hơn kích thước thật ngoài đời 5 lần",
+      "Bản vẽ sử dụng 5 loại đường nét khác nhau",
+      "Vật thể có 5 mặt đối xứng"
+    ],
+    "answer": "Kích thước trên bản vẽ nhỏ hơn kích thước thật ngoài đời 5 lần",
+    "explanation": "Tỷ lệ 1:5 là tỷ lệ thu nhỏ, trong đó kích thước biểu diễn trên bản vẽ bằng một phần năm kích thước đo thực tế của vật thể."
+  },
+  {
+    "question": "Công nghệ in 3D thuộc nhóm công nghệ chế tạo nào?",
+    "options": [
+      "Gia công cắt gọt bớt vật liệu",
+      "Gia công bồi đắp vật liệu theo từng lớp",
+      "Gia công đúc áp lực cao",
+      "Gia công biến dạng dẻo"
+    ],
+    "answer": "Gia công bồi đắp vật liệu theo từng lớp",
+    "explanation": "In 3D tạo ra vật thể bằng cách đắp dần từng lớp vật liệu mỏng chồng lên nhau dựa trên mô hình số hóa."
+  },
+  {
+    "question": "Thiết bị nào sau đây vừa có chức năng nhận thông tin đầu vào, vừa có chức năng xử lý trong một hệ thống điều khiển thông minh tích hợp?",
+    "options": [
+      "Còi báo động",
+      "Cảm biến chuyển động thông minh có tích hợp chip xử lý mã hóa",
+      "Bóng đèn sợi đốt",
+      "Dây dẫn điện thông thường"
+    ],
+    "answer": "Cảm biến chuyển động thông minh có tích hợp chip xử lý mã hóa",
+    "explanation": "Các loại cảm biến thông minh thế hệ mới tích hợp sẵn vi mạch mã hóa tín hiệu ngay tại đầu thu, thực hiện cả khâu nhận diện và xử lý sơ bộ thông tin."
+  },
+  {
+    "question": "Yếu tố kinh tế trong thiết kế kỹ thuật đòi hỏi điều gì ở sản phẩm?",
+    "options": [
+      "Sản phẩm phải luôn sử dụng chất liệu đắt nhất",
+      "Chi phí nghiên cứu, chế tạo và vận hành tối ưu, mang lại hiệu quả tài chính tốt",
+      "Sản phẩm chỉ bán cho người giàu",
+      "Không cần quan tâm đến chi phí, miễn là đẹp"
+    ],
+    "answer": "Chi phí nghiên cứu, chế tạo và vận hành tối ưu, mang lại hiệu quả tài chính tốt",
+    "explanation": "Tính kinh tế thể hiện ở chỗ giá thành sản xuất cạnh tranh, tiết kiệm nguyên liệu mà vẫn đảm bảo chất lượng, giúp doanh nghiệp có lợi nhuận."
+  },
+  {
+    "question": "Trong phương pháp chiếu góc thứ nhất, hướng chiếu từ trên xuống sẽ tạo ra hình chiếu nào?",
+    "options": [
+      "Hình chiếu đứng",
+      "Hình chiếu cạnh",
+      "Hình chiếu bằng",
+      "Hình chiếu trục đo"
+    ],
+    "answer": "Hình chiếu bằng",
+    "explanation": "Hướng nhìn từ trên xuống thẳng góc với mặt phẳng chiếu nằm ngang tạo ra hình chiếu bằng."
+  },
+  {
+    "question": "Nội dung nào không phải là một tiêu chí đánh giá giải pháp thiết kế?",
+    "options": [
+      "Tính năng sử dụng",
+      "Độ bền và độ an toàn",
+      "Tên của người kỹ sư thiết kế",
+      "Chi phí và giá thành"
+    ],
+    "answer": "Tên của người kỹ sư thiết kế",
+    "explanation": "Tên người thiết kế là thông tin hành chính, không phải tiêu chí kỹ thuật để đánh giá chất lượng hay hiệu quả của giải pháp."
+  },
+  {
+    "question": "Để vẽ đường tâm hoặc đường đối xứng cho một hình tròn trên bản vẽ kỹ thuật, loại nét nào sau đây là chuẩn xác?",
+    "options": [
+      "Nét liền đậm",
+      "Nét đứt mảnh",
+      "Nét gạch chấm mảnh",
+      "Nét lượn sóng"
+    ],
+    "answer": "Nét gạch chấm mảnh",
+    "explanation": "Theo Tiêu chuẩn Việt Nam và Quốc tế về bản vẽ kỹ thuật, đường tâm, đường trục đối xứng bắt buộc phải vẽ bằng nét gạch chấm mảnh."
+  },
+  {
+    "question": "Lĩnh vực công nghệ nào ứng dụng các thuật toán máy tính để bắt chước các năng lực trí tuệ của con người?",
+    "options": [
+      "Công nghệ Internet vạn vật (IoT)",
+      "Công nghệ Trí tuệ nhân tạo (AI)",
+      "Công nghệ Robot thông minh",
+      "Công nghệ Blockchain"
+    ],
+    "answer": "Công nghệ Trí tuệ nhân tạo (AI)",
+    "explanation": "Trí tuệ nhân tạo tập trung nghiên cứu xây dựng phần mềm tự học, lập luận và đưa ra quyết định tương tự tư duy con người."
+  },
+  {
+    "question": "Khái niệm 'Công nghệ' có thể hiểu một cách cốt lõi nhất là gì?",
+    "options": [
+      "Là các ngành khoa học lý thuyết thuần túy",
+      "Giải pháp, quy trình, kỹ thuật ứng dụng kiến thức khoa học vào giải quyết các vấn đề thực tiễn",
+      "Là tên gọi chung của các thiết bị điện tử đắt tiền",
+      "Chỉ là các kỹ năng thao tác tay chân của người thợ"
+    ],
+    "answer": "Giải pháp, quy trình, kỹ thuật ứng dụng kiến thức khoa học vào giải quyết các vấn đề thực tiễn",
+    "explanation": "Công nghệ là cầu nối biến các phát hiện khoa học thành công cụ, máy móc, quy trình sản xuất phục vụ đời sống con người."
+  },
+  {
+    "question": "Tại sao công nghệ tự động hóa ngày càng làm giảm số lượng lao động thủ công trong các nhà máy?",
+    "options": [
+      "Vì robot có khả năng làm việc liên tục, độ chính xác cao và tối ưu chi phí hơn sức người ở các công việc lặp đi lặp lại",
+      "Vì con người không còn muốn đi làm việc",
+      "Vì luật pháp cấm con người làm việc trong nhà máy",
+      "Vì máy móc tự sản xuất ra mọi nguồn nguyên liệu không cần con người điều khiển"
+    ],
+    "answer": "Vì robot có khả năng làm việc liên tục, độ chính xác cao và tối ưu chi phí hơn sức người ở các công việc lặp đi lặp lại",
+    "explanation": "Tự động hóa thay thế các thao tác cơ học lặp đi lặp lại một cách hoàn hảo, giảm sai sót chủ quan, tăng năng suất vượt trội so với lao động chân tay."
+  },
+  {
+    "question": "Điểm khác biệt căn bản giữa Khoa học và Công nghệ là gì?",
+    "options": [
+      "Khoa học đi tìm hiểu thế giới tự nhiên, còn Công nghệ tạo ra thế giới mới phục vụ con người",
+      "Khoa học xuất hiện sau công nghệ",
+      "Khoa học không cần thử nghiệm còn công nghệ bắt buộc phải thử nghiệm",
+      "Khoa học chỉ dùng toán học còn công nghệ chỉ dùng hóa học"
+    ],
+    "answer": "Khoa học đi tìm hiểu thế giới tự nhiên, còn Công nghệ tạo ra thế giới mới phục vụ con người",
+    "explanation": "Khoa học nhằm phát hiện ra quy luật bản chất của tự nhiên (trả lời câu hỏi 'Tại sao?'), còn công nghệ ứng dụng quy luật đó để tạo ra sản phẩm (trả lời câu hỏi 'Làm thế nào?')."
+  },
+  {
+    "question": "Mối quan hệ giữa thiết kế kỹ thuật và sản xuất công nghiệp được thể hiện như thế nào?",
+    "options": [
+      "Thiết kế kỹ thuật hoàn toàn độc lập và không ảnh hưởng gì đến sản xuất",
+      "Sản xuất tạo ra sản phẩm trước, sau đó thiết kế mới vẽ lại",
+      "Thiết kế kỹ thuật tạo ra bản mẫu và hồ sơ hướng dẫn, làm cơ sở định hình cho quá trình sản xuất hàng loạt",
+      "Sản xuất công nghiệp càng phát triển thì càng không cần thiết kế kỹ thuật"
+    ],
+    "answer": "Thiết kế kỹ thuật tạo ra bản mẫu và hồ sơ hướng dẫn, làm cơ sở định hình cho quá trình sản xuất hàng loạt",
+    "explanation": "Thiết kế đi trước một bước, giải quyết mọi tính toán lý thuyết và cấu trúc mẫu. Sản xuất dựa vào hồ sơ đó để hiện thực hóa sản phẩm thương mại."
+  },
+  {
+    "question": "Tại sao việc xác định tiêu chí thiết kế lại cần phải làm ngay sau khi xác định vấn đề?",
+    "options": [
+      "Để làm cho hồ sơ thiết kế dày hơn",
+      "Để định hướng rõ ràng các giới hạn về tính năng, vật liệu, chi phí, tránh đi sai lệch mục tiêu",
+      "Để tính tiền công cho người thiết kế sớm hơn",
+      "Để bắt buộc phải mua những vật liệu đắt nhất"
+    ],
+    "answer": "Để định hướng rõ ràng các giới hạn về tính năng, vật liệu, chi phí, tránh đi sai lệch mục tiêu",
+    "explanation": "Tiêu chí thiết kế đóng vai trò như chiếc khung định hướng, giúp người thiết kế biết rõ sản phẩm cần đạt được những gì để đánh giá các ý tưởng nảy sinh."
+  },
+  {
+    "question": "Trong hệ thống kỹ thuật của chiếc nồi cơm điện thông thường, cơ chế chuyển đổi năng lượng diễn ra như thế nào?",
+    "options": [
+      "Chuyển cơ năng thành điện năng",
+      "Chuyển điện năng thành nhiệt năng",
+      "Chuyển hóa năng lượng mặt trời thành cơ năng",
+      "Chuyển nhiệt năng thành quang năng"
+    ],
+    "answer": "Chuyển điện năng thành nhiệt năng",
+    "explanation": "Nồi cơm điện nhận năng lượng đầu vào là dòng điện, đi qua mâm nhiệt (điện trở) để đốt nóng, biến đổi hoàn toàn thành nhiệt năng làm chín gạo."
+  },
+  {
+    "question": "Sự khác biệt chính về mặt công dụng giữa hình chiếu vuông góc và hình chiếu trục đo trên bản vẽ kỹ thuật là gì?",
+    "options": [
+      "Hình chiếu vuông góc biểu diễn chính xác hình dạng kích thước thực từng mặt, hình chiếu trục đo giúp người xem dễ dàng hình dung vật thể trong không gian ba chiều",
+      "Hình chiếu vuông góc luôn lớn hơn hình chiếu trục đo",
+      "Hình chiếu trục đo chỉ dùng cho người không biết đọc bản vẽ",
+      "Hình chiếu vuông góc không thể hiện được kích thước"
+    ],
+    "answer": "Hình chiếu vuông góc biểu diễn chính xác hình dạng kích thước thực từng mặt, hình chiếu trục đo giúp người xem dễ dàng hình dung vật thể trong không gian ba chiều",
+    "explanation": "Hình chiếu vuông góc triệt tiêu chiều sâu để đo đạc chính xác phục vụ chế tạo, còn hình chiếu trục đo giữ lại cả 3 chiều không gian giúp mắt người dễ nhận diện tổng thể."
+  },
+  {
+    "question": "Tại sao thép hợp kim thường được lựa chọn để chế tạo các chi tiết chịu lực lớn trong động cơ như trục khuỷu, thanh truyền thay vì dùng thép cacbon thường?",
+    "options": [
+      "Vì thép hợp kim nhẹ hơn nhựa",
+      "Vì các nguyên tố hợp kim thêm vào làm tăng cơ tính, độ cứng, độ bền kéo và khả năng chịu mỏi tốt hơn nhiều",
+      "Vì thép hợp kim rẻ hơn thép cacbon",
+      "Vì thép hợp kim dễ đúc ở nhiệt độ thấp như nước sôi"
+    ],
+    "answer": "Vì các nguyên tố hợp kim thêm vào làm tăng cơ tính, độ cứng, độ bền kéo và khả năng chịu mỏi tốt hơn nhiều",
+    "explanation": "Các nguyên tố như Cr, Ni, Mo trong thép hợp kim làm thay đổi cấu trúc mạng tinh thể, tăng cường giới hạn bền và khả năng chống mài mòn đột phá."
+  },
+  {
+    "question": "Giải thích vai trò của công nghệ Internet vạn vật (IoT) trong các mô hình nhà thông minh (Smart Home) hiện nay?",
+    "options": [
+      "IoT giúp các thiết bị gia dụng tự sạc pin không cần cắm điện",
+      "IoT kết nối các thiết bị độc lập qua mạng Internet, cho phép chúng chia sẻ dữ liệu và nhận lệnh điều khiển từ xa tự động",
+      "IoT chỉ có nhiệm vụ tăng tốc độ mạng Wifi trong nhà",
+      "IoT thay thế hoàn toàn nguồn điện lưới bằng năng lượng sóng vô tuyến"
+    ],
+    "answer": "IoT kết nối các thiết bị độc lập qua mạng Internet, cho phép chúng chia sẻ dữ liệu và nhận lệnh điều khiển từ xa tự động",
+    "explanation": "IoT (Internet of Things) kết nối vạn vật qua cảm biến và mạng giao tiếp, biến các đồ vật thông thường thành một mạng lưới đồng bộ, có thể giám sát từ xa."
+  },
+  {
+    "question": "Trong bản vẽ kỹ thuật, tại sao không được phép ghi trùng lặp các kích thước giống nhau ở các hình biểu diễn khác nhau?",
+    "options": [
+      "Để tiết kiệm mực in bản vẽ",
+      "Để bản vẽ thông thoáng, rõ ràng, tránh gây nhầm lẫn hoặc mâu thuẫn thông tin khi đọc và gia công",
+      "Vì máy tính không cho phép nhập trùng số",
+      "Để người thợ phải tự dùng thước đo lại trên giấy"
+    ],
+    "answer": "Để bản vẽ thông thoáng, rõ ràng, tránh gây nhầm lẫn hoặc mâu thuẫn thông tin khi đọc và gia công",
+    "explanation": "Mỗi kích thước chỉ cần ghi một lần duy nhất ở hình biểu diễn thể hiện rõ nhất cấu trúc đó để tránh rối mắt và ngăn ngừa sai sót khi cập nhật sửa đổi bản vẽ."
+  },
+  {
+    "question": "Bản chất của phương pháp gia công cắt gọt bằng máy tiện là gì?",
+    "options": [
+      "Dao dịch chuyển quay tròn còn phôi đứng yên",
+      "Phôi quay tròn tạo ra chuyển động cắt chính, dao chuyển động tịnh tiến để tạo biên dạng",
+      "Cả phôi và dao cùng đứng yên, dùng dòng điện cực mạnh cắt qua",
+      "Phôi dịch chuyển lên xuống theo phương thẳng đứng"
+    ],
+    "answer": "Phôi quay tròn tạo ra chuyển động cắt chính, dao chuyển động tịnh tiến để tạo biên dạng",
+    "explanation": "Nguyên lý cơ bản của tiện cơ khí là phôi được kẹp trên mâm cặp quay tròn, tạo ra tốc độ cắt, dao bám sát dọc hoặc ngang để gọt bỏ lớp kim loại thừa."
+  },
+  {
+    "question": "Tại sao việc đánh giá phương án thiết kế lại cần dựa trên nhiều tiêu chí khác nhau (như kỹ thuật, thẩm mỹ, kinh tế, môi trường) thay vì chỉ chọn phương án rẻ nhất?",
+    "options": [
+      "Để kéo dài thời gian làm việc của dự án",
+      "Vì một sản phẩm rẻ nhưng không an toàn, kém thẩm mỹ hoặc hủy hoại môi trường sẽ bị thị trường đào thải và gây hại lâu dài",
+      "Vì luật pháp bắt buộc mọi sản phẩm phải đắt tiền",
+      "Để người kỹ sư có cơ hội dùng nhiều phần mềm máy tính hơn"
+    ],
+    "answer": "Vì một sản phẩm rẻ nhưng không an toàn, kém thẩm mỹ hoặc hủy hoại môi trường sẽ bị thị trường đào thải và gây hại lâu dài",
+    "explanation": "Thiết kế kỹ thuật hiện đại hướng tới sự phát triển bền vững. Sản phẩm hoàn hảo phải đạt sự cân bằng tối ưu giữa công năng, chi phí, trải nghiệm người dùng và tác động sinh thái."
+  },
+  {
+    "question": "Khi đọc một bản vẽ lắp, bước đầu tiên người kỹ sư cần tìm hiểu thông tin gì?",
+    "options": [
+      "Đọc khung tên để biết tên gọi sản phẩm, tỷ lệ và đơn vị thiết kế",
+      "Phân tích toàn bộ các đường nét khuất bên trong",
+      "Đếm tổng số lượng bu lông có trong sản phẩm",
+      "Tính toán ngay khối lượng tổng thể của cụm chi tiết"
+    ],
+    "answer": "Đọc khung tên để biết tên gọi sản phẩm, tỷ lệ và đơn vị thiết kế",
+    "explanation": "Trình tự đọc bản vẽ lắp luôn bắt đầu từ khung tên để nắm thông tin tổng quan, sau đó mới đến bảng kê, hình biểu diễn và kích thước chi tiết."
+  },
+  {
+    "question": "Bộ phận cảm biến trong các hệ thống kỹ thuật tự động đóng vai trò tương đương với bộ phận nào trên cơ thể con người?",
+    "options": [
+      "Bộ não (Hệ thần kinh trung ương)",
+      "Các giác quan (Mắt, tai, da...)",
+      "Đôi bàn tay và đôi chân",
+      "Hệ xương và cơ bắp"
+    ],
+    "answer": "Các giác quan (Mắt, tai, da...)",
+    "explanation": "Cảm biến thu nhận các kích thích biến động từ môi trường (nhiệt độ, ánh sáng, khoảng cách) chuyển thành tín hiệu điện, giống như giác quan thu thập thông tin gửi về não bộ."
+  },
+  {
+    "question": "Nguyên lý hoạt động của một hệ thống điều khiển vòng kín (Closed-loop system) khác hệ thống vòng hở ở điểm nào?",
+    "options": [
+      "Vòng kín không cần sử dụng năng lượng điện",
+      "Vòng kín có thêm kênh thông tin phản hồi từ đầu ra về bộ điều khiển để tự động điều chỉnh sai lệch",
+      "Vòng hở chạy nhanh hơn vòng kín gấp nhiều lần",
+      "Vòng kín chỉ có một phần tử duy nhất"
+    ],
+    "answer": "Vòng có thêm kênh thông tin phản hồi từ đầu ra về bộ điều khiển để tự động điều chỉnh sai lệch",
+    "explanation": "Hệ thống vòng kín sử dụng cảm biến đo đạc kết quả đầu ra thực tế, so sánh với giá trị đặt mong muốn để liên tục sửa lỗi, giúp hệ thống đạt độ chính xác cực cao."
+  },
+  {
+    "question": "Tại sao các sản phẩm làm bằng vật liệu composite sợi thủy tinh thường được ứng dụng làm vỏ tàu thuyền, bồn chứa hóa chất?",
+    "options": [
+      "Vì nó có giá thành rẻ tương đương đất sét",
+      "Vì nó kết hợp được độ bền kéo cao của sợi thủy tinh và khả năng kháng ăn mòn hóa học tốt của nền nhựa",
+      "Vì composite có trọng lượng siêu nặng giúp tàu chìm sâu ổn định",
+      "Vì nó có thể tự phân hủy trong nước biển sau một tuần"
+    ],
+    "answer": "Vì nó kết hợp được độ bền kéo cao của sợi thủy tinh và khả năng kháng ăn mòn hóa học tốt của nền nhựa",
+    "explanation": "Sự phối hợp giữa pha cốt (sợi thủy tinh chịu lực căng) và pha nền (nhựa polymer bảo vệ, kháng hóa chất) giúp composite trơ rỉ và chịu va đập sóng biển rất tốt."
+  },
+  {
+    "question": "Việc ứng dụng rộng rãi Robot thông minh trong dây chuyền lắp ráp ô tô mang lại lợi ích cốt lõi nào cho doanh nghiệp?",
+    "options": [
+      "Giảm hoàn toàn giá nguyên liệu thép đầu vào",
+      "Tăng tính đồng nhất của sản phẩm, nâng cao năng suất và loại bỏ rủi ro tai nạn lao động ở các công đoạn độc hại",
+      "Làm cho nhà xưởng không cần lắp đặt hệ thống chiếu sáng",
+      "Giúp ô tô chạy nhanh hơn gấp đôi sau khi xuất xưởng"
+    ],
+    "answer": "Tăng tính đồng nhất của sản phẩm, nâng cao năng suất và loại bỏ rủi ro tai nạn lao động ở các công đoạn độc hại",
+    "explanation": "Cánh tay robot làm việc lặp lại triệu lần như một với sai số micromet, không chịu ảnh hưởng bởi mệt mỏi, đảm bảo tiến độ và chất lượng đồng đều."
+  },
+  {
+    "question": "Trong quy trình thiết kế, nếu mẫu thử nghiệm chế tạo ra chạy thử bị lỗi không đạt tiêu chí đặt ra, bước tiếp theo người thiết kế phải làm gì?",
+    "options": [
+      "Hủy bỏ toàn bộ dự án và chuyển sang làm việc khác",
+      "Quay lại bước phân tích thông tin hoặc đề xuất giải pháp để điều chỉnh cấu trúc, thông số kỹ thuật thích hợp",
+      "Giữ nguyên mẫu lỗi và ép buộc khách hàng chấp nhận sản phẩm",
+      "Đổi tên sản phẩm thành một tên khác"
+    ],
+    "answer": "Quay lại bước phân tích thông tin hoặc đề xuất giải pháp để điều chỉnh cấu trúc, thông số kỹ thuật thích hợp",
+    "explanation": "Quy trình thiết kế kỹ thuật mang tính lặp (vòng lặp thử - sai). Khi kiểm tra không đạt, phải truy ngược lại tìm nguyên nhân gốc rễ để sửa đổi tối ưu hóa."
+  },
+  {
+    "question": "Khi vẽ một vật thể có tính chất đối xứng hoàn toàn, việc áp dụng kết hợp nửa hình chiếu với nửa hình cắt trên cùng một hình biểu diễn nhằm mục đích gì?",
+    "options": [
+      "Để vẽ nhanh hơn một nửa thời gian",
+      "Vừa thể hiện được hình dáng cấu trúc bên ngoài, vừa làm lộ rõ kết cấu rỗng bên trong mà không làm mất diện tích không gian bản vẽ",
+      "Để làm cho bản vẽ trông nghệ thuật hơn",
+      "Bắt buộc theo quy định của nhà máy in ấn"
+    ],
+    "answer": "Vừa thể hiện được hình dáng cấu trúc bên ngoài, vừa làm lộ rõ kết cấu rỗng bên trong mà không làm mất diện tích không gian bản vẽ",
+    "explanation": "Sự kết hợp này tận dụng đặc điểm đối xứng: Một bên trục giữ nguyên hình chiếu ngoài, một bên cắt bỏ lớp vỏ ngoài bộc lộ chi tiết khuất bên trong, giúp bản vẽ cô đọng tối đa."
+  },
+  {
+    "question": "Công nghệ xanh (Green Technology) hướng tới mục tiêu nào sau đây?",
+    "options": [
+      "Sử dụng các sơn màu xanh lá cây cho tất cả các thiết bị máy móc",
+      "Giảm thiểu tiêu thụ năng lượng hóa thạch, hạn chế phát thải chất độc và tận dụng nguồn nguyên liệu thân thiện sinh thái",
+      "Chỉ sản xuất các công cụ phục vụ nông nghiệp trồng cây",
+      "Tăng tối đa lượng khí thải carbon để kích thích cây cối quang hợp"
+    ],
+    "answer": "Giảm thiểu tiêu thụ năng lượng hóa thạch, hạn chế phát thải chất độc và tận dụng nguồn nguyên liệu thân thiện sinh thái",
+    "explanation": "Công nghệ xanh tập trung vào bảo vệ hành tinh, phát triển bền vững thông qua việc hạn chế tối đa dấu chân carbon và tác động xấu đến môi trường tự nhiên."
+  },
+  {
+    "question": "Trong cấu trúc của một hệ thống chiếu sáng công cộng tự động bật khi trời tối, bộ phận xử lý trung tâm thường nhận tín hiệu từ loại cảm biến nào?",
+    "options": [
+      "Cảm biến độ ẩm đất",
+      "Cảm biến quang điện (LDR - đo cường độ ánh sáng)",
+      "Cảm biến áp suất không khí",
+      "Cảm biến gia tốc rung động"
+    ],
+    "answer": "Cảm biến quang điện (LDR - đo cường độ ánh sáng)",
+    "explanation": "Cảm biến ánh sáng đo lường độ sáng môi trường xung quanh, gửi tín hiệu điện áp thay đổi về bộ xử lý để ra lệnh đóng ngắt rơ-le đèn."
+  },
+  {
+    "question": "Một xưởng cơ khí nhận nhiệm vụ sản xuất 5000 chiếc bu lông chuẩn kích thước từ vật liệu thép. Phương pháp gia công nào tối ưu nhất về năng suất và tiết kiệm nguyên liệu?",
+    "options": [
+      "Dùng cưa tay cắt từng chiếc một từ thanh thép lớn",
+      "Ứng dụng phương pháp cán ép ren nguội trên máy tạo hình tự động từ phôi dây",
+      "Dùng máy đúc ly tâm công nghiệp",
+      "Dùng công nghệ mài mòn bằng cát áp lực cao"
+    ],
+    "answer": "Ứng dụng phương pháp cán ép ren nguội trên máy tạo hình tự động từ phôi dây",
+    "explanation": "Phương pháp biến dạng dẻo (cán ép ren) giúp định hình bu lông cực nhanh, không tạo ra phoi thải như tiện, đảm bảo cơ tính thớ kim loại liên tục và năng suất hàng loạt lớn."
+  },
+  {
+    "question": "Bạn được giao thiết kế một chiếc giá đỡ máy tính xách tay đa năng có thể xếp gọn bỏ vào balo. Việc khảo sát hành vi sử dụng của học sinh, sinh viên thuộc bước nào trong quy trình thiết kế?",
+    "options": [
+      "Chế tạo mẫu thử nghiệm",
+      "Xác định vấn đề và thu thập thông tin nhu cầu thực tế",
+      "Lập hồ sơ kỹ thuật sản xuất",
+      "Đánh giá sản phẩm hoàn thiện"
+    ],
+    "answer": "Xác định vấn đề và thu thập thông tin nhu cầu thực tế",
+    "explanation": "Khảo sát thói quen, không gian balo, kích thước máy của nhóm người dùng đích là hoạt động thu thập dữ liệu cơ bản thuộc bước đầu tiên để xây dựng các thông số đầu vào chuẩn xác."
+  },
+  {
+    "question": "Trong sơ đồ khối của hệ thống phanh tự động trên xe ô tô thông minh, khi camera quét thấy vật cản nguy hiểm phía trước, thiết bị nào sẽ đóng vai trò xử lý thông tin để ra lệnh phanh?",
+    "options": [
+      "Đèn má phanh phía sau",
+      "Má phanh ép vào đĩa phanh",
+      "Bộ điều khiển trung tâm (ECU/Microcontroller) của xe",
+      "Chân ga của người lái"
+    ],
+    "answer": "Bộ điều khiển trung tâm (ECU/Microcontroller) của xe",
+    "explanation": "ECU đóng vai trò là 'não bộ' (phần tử xử lý), tiếp nhận dữ liệu hình ảnh số hóa từ camera, chạy thuật toán tính toán khoảng cách an toàn và phát lệnh kích hoạt cụm cơ cấu phanh."
+  },
+  {
+    "question": "Để vẽ bản vẽ cơ khí của một chi tiết có kích thước thực tế là 2000mm x 1500mm lên một tờ giấy khổ A4 (297mm x 210mm), người thiết kế cần sử dụng nhóm tỷ lệ nào?",
+    "options": [
+      "Tỷ lệ phóng to (ví dụ 5:1)",
+      "Tỷ lệ nguyên hình (1:1)",
+      "Tỷ lệ thu nhỏ thích hợp (ví dụ 1:10)",
+      "Không cần dùng tỷ lệ, cứ vẽ tràn ra ngoài lề giấy"
+    ],
+    "answer": "Tỷ lệ thu nhỏ thích hợp (ví dụ 1:10)",
+    "explanation": "Kích thước vật thể lớn hơn nhiều lần so với diện tích khổ giấy vẽ hiện có, bắt buộc phải dùng tỷ lệ thu nhỏ để gom toàn bộ hình biểu diễn nằm trọn vẹn trong vùng vẽ an toàn."
+  },
+  {
+    "question": "Vỏ của một chiếc điện thoại cao cấp cần đạt các tiêu chí: nhẹ, tản nhiệt tốt, vẻ ngoài sang trọng và chịu lực va đập cao khi rơi. Vật liệu nào sau đây là ứng viên phù hợp nhất?",
+    "options": [
+      "Nhựa tái chế thông thường",
+      "Hợp kim nhôm - magie",
+      "Thủy tinh hữu cơ (Chất dẻo Mica)",
+      "Gốm sứ xây dựng"
+    ],
+    "answer": "Hợp kim nhôm - magie",
+    "explanation": "Hợp kim nhôm - magie sở hữu tỷ trọng nhẹ, độ bền cơ học cao, chịu lực xung kích xuất sắc, dẫn nhiệt nhanh giúp làm mát chip bên trong và dễ anode hóa tạo màu sắc thẩm mỹ cao."
+  },
+  {
+    "question": "Tại sao các kỹ sư thiết kế mạch điện tử hiện nay chuyển sang dùng phần mềm lập sơ đồ và mô phỏng trên máy tính trước khi tiến hành hàn mạch thật?",
+    "options": [
+      "Vì hàn mạch thật tốn điện nhà kho",
+      "Giúp phát hiện sớm các lỗi đoản mạch, sai sót sơ đồ lý thuyết nhanh chóng, tiết kiệm chi phí linh kiện hư hao và rút ngắn thời gian thử nghiệm",
+      "Vì phần mềm máy tính tự động mua linh kiện miễn phí về xưởng",
+      "Để tránh việc phải sử dụng mỏ hàn nóng nguy hiểm"
+    ],
+    "answer": "Giúp phát hiện sớm các lỗi đoản mạch, sai sót sơ đồ lý thuyết nhanh chóng, tiết kiệm chi phí linh kiện hư hao và rút ngắn thời gian thử nghiệm",
+    "explanation": "Mô phỏng ảo cho phép chạy kiểm thử phần mềm và đo đạc dòng điện giả định dòng năng lượng, phát hiện xung đột lỗi hệ thống ngay trên màn hình trước khi đổ tiền mua phôi thật."
+  },
+  {
+    "question": "Một robot hút bụi tự động liên tục đâm vào chân bàn và không thể di chuyển mượt mà trong phòng khách. Hệ thống kỹ thuật của robot này đang gặp vấn đề ở thành phần nào nhiều nhất?",
+    "options": [
+      "Phần tử đầu ra (Bánh xe bị kẹt)",
+      "Phần tử đầu vào (Cảm biến radar/hồng ngoại đo khoảng cách bị hỏng hoặc bám bẩn)",
+      "Nguồn pin cung cấp năng lượng điện bị cạn",
+      "Khung vỏ nhựa bên ngoài bị xước"
+    ],
+    "answer": "Phần tử đầu vào (Cảm biến radar/hồng ngoại đo khoảng cách bị hỏng hoặc bám bẩn)",
+    "explanation": "Nếu cảm biến tiệm cận hoặc hồng ngoại (đầu vào) bị hỏng, bộ não của robot không nhận được dữ liệu khoảng cách có vật cản, dẫn đến việc không thể ra lệnh đổi hướng cho bánh xe."
+  },
+  {
+    "question": "Trong dây chuyền sản xuất nước đóng chai tự động, khâu rót chất lỏng vào chai luôn dừng lại chính xác ở mức 500ml. Cơ chế nào đảm bảo sự chính xác này?",
+    "options": [
+      "Người công nhân đứng canh công tắc ngắt dòng",
+      "Hệ thống điều khiển vòng kín thu nhận tín hiệu từ cảm biến lưu lượng hoặc cảm biến mực chất lỏng để đóng van nạp khi đủ định mức",
+      "Hình dáng chai tự làm tràn nước ra ngoài khi đầy",
+      "Do tốc độ dòng chảy tự nhiên luôn cố định không đổi"
+    ],
+    "answer": "Hệ thống điều khiển vòng kín thu nhận tín hiệu từ cảm biến lưu lượng hoặc cảm biến mực chất lỏng để đóng van nạp khi đủ định mức",
+    "explanation": "Đây là bài toán điều khiển tự động vòng kín. Cảm biến liên tục cân đo lượng nước đã rót và báo về bộ xử lý trung tâm ngắt rơ-le van điện từ ngay khi đạt đúng thông số cài đặt."
+  },
+  {
+    "question": "Khi thiết kế một sản phẩm đồ chơi lắp ráp cho trẻ em dưới 5 tuổi, yếu tố 'thân thiện môi trường và an toàn' buộc người thiết kế phải loại bỏ phương án vật liệu nào?",
+    "options": [
+      "Gỗ tự nhiên bề mặt mài mịn không sơn hóa chất",
+      "Nhựa chứa hợp chất BPA độc hại và sơn bề mặt dễ bong tróc",
+      "Vải sợi bông tự nhiên",
+      "Nhựa sinh học hữu cơ làm từ tinh bột ngô"
+    ],
+    "answer": "Nhựa chứa hợp chất BPA độc hại và sơn bề mặt dễ bong tróc",
+    "explanation": "Trẻ nhỏ dưới 5 tuổi có hành vi ngậm đồ chơi vào miệng. Nhựa có chứa BPA và hóa chất độc hại từ sơn bong tróc gây nguy cơ nhiễm độc sinh học nghiêm trọng, vi phạm bộ tiêu chí an toàn."
+  },
+  {
+    "question": "Khi đọc bản vẽ chi tiết của một trục bậc cơ khí, tại sao người thợ gia công phải đặc biệt chú ý đến ký hiệu dung sai kích thước ghi cạnh số đo?",
+    "options": [
+      "Để biết giá tiền của vật liệu chế tạo trục",
+      "Biết được phạm vi sai số kích thước cho phép để điều chỉnh máy tiện đạt độ chính xác giúp chi tiết có thể lắp ghép khớp hoàn hảo với ổ bi",
+      "Ký hiệu đó thể hiện tên của người kiểm định chất lượng",
+      "Để biết tổng số vòng quay của trục trong một phút"
+    ],
+    "answer": "Biết được phạm vi sai số kích thước cho phép để điều chỉnh máy tiện đạt độ chính xác giúp chi tiết có thể lắp ghép khớp hoàn hảo với ổ bi",
+    "explanation": "Trong chế tạo máy, không thể làm ra kích thước tuyệt đối. Dung sai cho biết giới hạn kích thước lớn nhất và nhỏ nhất cho phép, đảm bảo tính lắp lẫn của chi tiết."
+  },
+  {
+    "question": "Tại sao việc phát triển các trạm sạc xe điện sử dụng nguồn điện từ lưới điện than đá truyền thống lại chưa thể giải quyết triệt để bài toán bảo vệ môi trường toàn cầu?",
+    "options": [
+      "Vì xe điện chạy chậm hơn xe xăng rất nhiều",
+      "Vì bản chất việc sản xuất điện năng tại nhà máy than đá vẫn phát thải lượng lớn khí carbon dioxide ra bầu khí quyển, chỉ dịch chuyển vị trí ô nhiễm từ ống xả xe về nhà máy điện",
+      "Vì pin xe điện không thể sạc đầy quá hai lần",
+      "Vì dây dẫn điện của trạm sạc làm bằng đồng gây hại cho đất"
+    ],
+    "answer": "Vì bản chất việc sản xuất điện năng tại nhà máy than đá vẫn phát thải lượng lớn khí carbon dioxide ra bầu khí quyển, chỉ dịch chuyển vị trí ô nhiễm từ ống xả xe về nhà máy điện",
+    "explanation": "Để đạt được mục tiêu công nghệ xanh thực sự, nguồn điện nạp cho xe phải đến từ năng lượng tái tạo (gió, mặt trời) chứ không phải từ việc đốt nhiên liệu hóa thạch ở thượng nguồn."
+  },
+  {
+    "question": "Một nhóm học sinh muốn chế tạo một thiết bị tự động tưới nước cho vườn lan khi độ ẩm đất xuống thấp. Các bạn nên thiết kế hệ thống này theo mô hình nào là tối ưu?",
+    "options": [
+      "Hệ thống vòng hở hẹn giờ cố định tưới bất kể trời mưa hay nắng",
+      "Hệ thống vòng kín điều khiển tự động: Cảm biến độ ẩm đất gửi dữ liệu về vi xử lý, nếu thấp hơn mức cài đặt sẽ kích hoạt rơ-le bật bơm và ngắt khi đủ ẩm",
+      "Hệ thống điều khiển bằng tay kéo dây van nước thủ công",
+      "Hệ thống không cần nguồn năng lượng, chỉ dùng bình chứa treo cao"
+    ],
+    "answer": "Hệ thống vòng kín điều khiển tự động: Cảm biến độ ẩm đất gửi dữ liệu về vi xử lý, nếu thấp hơn mức cài đặt sẽ kích hoạt rơ-le bật bơm và ngắt khi đủ ẩm",
+    "explanation": "Mô hình vòng kín có phản hồi dữ liệu thời gian thực từ cảm biến độ ẩm giúp tối ưu lượng nước tưới, bảo vệ rễ lan không bị úng nướcc và tự động hóa hoàn toàn."
+  },
+  {
+    "question": "Nếu một bản vẽ kỹ thuật biểu diễn một chi tiết máy bị thiếu mất đường gióng kích thước và số liệu kích thước của một rãnh Then quan trọng, hậu quả trực tiếp là gì?",
+    "options": [
+      "Bản vẽ trông đẹp mắt và thoáng đãng hơn",
+      "Người thợ gia công không có căn cứ để cài đặt máy cắt, dẫn đến việc đình trệ sản xuất hoặc làm sai lệch kết cấu, không lắp ráp được với trục",
+      "Máy in bản vẽ sẽ tự động báo lỗi và không xuất bản in",
+      "Giá thành của chi tiết máy đó sẽ tự động giảm xuống"
+    ],
+    "answer": "Người thợ gia công không có căn cứ để cài đặt máy cắt, dẫn đến việc đình trệ sản xuất hoặc làm sai lệch kết cấu, không lắp ráp được với trục",
+    "explanation": "Bản vẽ kỹ thuật là ngôn ngữ của kỹ thuật, đòi hỏi tính toàn vẹn và chính xác tuyệt đối thông tin kích thước để làm căn cứ pháp lý và kỹ thuật định hình sản phẩm."
+  },
+  {
+    "question": "Thiết kế một hệ thống cảnh báo cháy nổ thông minh cho tòa nhà cao tầng đòi hỏi hệ thống phải xử lý tình huống như thế nào khi phát hiện có khói?",
+    "options": [
+      "Chỉ bật một bóng đèn nhỏ tại phòng bảo vệ",
+      "Đồng thời kích hoạt chuông báo động toàn khu, gửi tin nhắn khẩn cấp đến cứu hỏa, tự động ngắt điện tổng và kích hoạt hệ thống phun nước chữa cháy tại vùng có khói",
+      "Chờ đợi người quản lý đến kiểm tra xác nhận mới được phát tín hiệu",
+      "Tự động khóa chặt toàn bộ các cửa thoát hiểm để cô lập khói"
+    ],
+    "answer": "Đồng thời kích hoạt chuông báo động toàn khu, gửi tin nhắn khẩn cấp đến cứu hỏa, tự động ngắt điện tổng và kích hoạt hệ thống phun nước chữa cháy tại vùng có khói",
+    "explanation": "Hệ thống an toàn cao cấp yêu cầu phản ứng chuỗi tự động, đa mục tiêu theo kịch bản lập trình sẵn để giảm thiểu thiệt hại về người và của trong vài giây vàng đầu tiên."
+  },
+  {
+    "question": "Trong các nhà máy gia công linh kiện hàng không vũ trụ hiện đại, tại sao phương pháp gia công bằng máy CNC (Computer Numerical Control) gần như thay thế hoàn toàn máy công cụ vạn năng truyền thống?",
+    "options": [
+      "Vì máy CNC chạy bằng xăng rẻ hơn điện",
+      "Do linh kiện hàng không có biên dạng hình học cực phức tạp, đòi hỏi độ chính xác kích thước lập lại mức siêu vi (micromet) mà tay nghề người thợ không thể duy trì ổn định hàng loạt",
+      "Vì máy CNC không cần bảo trì định kỳ",
+      "Vì máy CNC tự thiết kế ra các bộ phận máy bay không cần kỹ sư"
+    ],
+    "answer": "Do linh kiện hàng không có biên dạng hình học cực phức tạp, đòi hỏi độ chính xác kích thước lập lại mức siêu vi (micromet) mà tay nghề người thợ không thể duy trì ổn định hàng loạt",
+    "explanation": "Máy CNC điều khiển quỹ đạo chạy dao bằng chương trình số hóa từ máy tính, loại bỏ hoàn toàn rung động cơ học sai số do con người, xử lý mượt mà các bề mặt cong không gian phức tạp."
+  },
+  {
+    "question": "Hãy phân tích tại sao việc lựa chọn phương pháp 'Đúc áp lực trong khuôn kim loại' lại có tính kinh tế cao hơn phương pháp 'Đúc trong khuôn cát' khi sản xuất 100.000 vỏ block máy xe máy?",
+    "options": [
+      "Khuôn kim loại có chi phí chế tạo ban đầu rẻ hơn khuôn cát rất nhiều",
+      "Khuôn kim loại dùng lại được hàng vạn lần, sản phẩm đúc ra có độ nhẵn bề mặt và chính xác cao, giảm chi phí gia công cắt gọt hoàn thiện ở các khâu sau khi sản xuất quy mô lớn",
+      "Đúc trong khuôn cát làm cho kim loại bị biến tính thành nhựa",
+      "Đúc khuôn kim loại tốn nhiều thời gian làm nguội hơn khuôn cát"
+    ],
+    "answer": "Khuôn kim loại dùng lại được hàng vạn lần, sản phẩm đúc ra có độ nhẵn bề mặt và chính xác cao, giảm chi phí gia công cắt gọt hoàn thiện ở các khâu sau khi sản xuất quy mô lớn",
+    "explanation": "Dù chi phí làm khuôn kim loại rất đắt, nhưng khi chia sản lượng lớn (100.000 sản phẩm), chi phí khấu hao trên mỗi sản phẩm trở nên rất nhỏ. Tốc độ đúc nhanh và phôi đúc sạch giúp tiết kiệm nhân công gia công tinh."
+  },
+  {
+    "question": "Một đô thị muốn xây dựng hệ thống đèn giao thông thông minh giảm thiểu ùn tắc. Hệ thống xử lý trung tâm cần thu thập dữ liệu đầu vào từ thiết bị nào và xử lý ra sao?",
+    "options": [
+      "Nhận dữ liệu từ đồng hồ đếm ngược cố định lưu trữ từ 10 năm trước",
+      "Thu thập dữ liệu thời gian thực từ camera giao thông và cảm biến dòng xe, chạy thuật toán AI phân tích mật độ để tự động kéo dài hoặc rút ngắn thời gian đèn xanh phù hợp",
+      "Dựa vào dự báo thời tiết của ngày hôm đó để đổi màu đèn",
+      "Chờ lệnh điều khiển thủ công hoàn toàn từ đài phát thanh thành phố"
+    ],
+    "answer": "Thu thập dữ liệu thời gian thực từ camera giao thông và cảm biến dòng xe, chạy thuật toán AI phân tích mật độ để tự động kéo dài hoặc rút ngắn thời gian đèn xanh phù hợp",
+    "explanation": "Bản chất thông minh của hệ thống nằm ở khả năng thích ứng dựa trên phản hồi động. Dữ liệu dòng xe di chuyển đầu vào giúp thuật toán tối ưu hóa thời gian chờ, giảm ùn tắc chủ động."
+  },
+  {
+    "question": "Khi nghiên cứu giải pháp thiết kế một chiếc tuabin gió dân dụng đặt tại mái nhà, rào cản kỹ thuật lớn nhất cần phải tính toán giải quyết là gì?",
+    "options": [
+      "Tìm nguồn sơn có màu sắc đẹp mắt phù hợp kiến trúc nhà",
+      "Hiện tượng rung động cơ học tạo tiếng ồn tần số thấp và kết cấu chịu tải lực gió giật mạnh bảo vệ an toàn cho mái nhà khi bão",
+      "Cách làm sao để cánh quạt quay nhanh hơn tốc độ ánh sáng",
+      "Việc kết nối tuabin với màn hình tivi để hiển thị hình ảnh"
+    ],
+    "answer": "Hiện tượng rung động cơ học tạo tiếng ồn tần số thấp và kết cấu chịu tải lực gió giật mạnh bảo vệ an toàn cho mái nhà khi bão",
+    "explanation": "Đặt tuabin lên kết cấu nhà dân dụng tạo ra nguy cơ truyền rung động vào tường gây nứt kiến trúc và tiếng ồn khó chịu. Ngoài ra kết cấu cơ khí phải tính toán chịu lực mô-men uốn lớn khi có gió bão lớn để không lật móng."
+  },
+  {
+    "question": "Một kỹ sư thiết kế cụm piston - xi lanh cho động cơ xe máy. Để sản phẩm đạt tuổi thọ cao, giảm ma sát tối đa, khâu lựa chọn vật liệu và xử lý bề mặt cần đạt yêu cầu gì?",
+    "options": [
+      "Chọn gỗ cứng mài mịn phủ bóng sơn dầu",
+      "Piston làm bằng hợp kim nhôm nhẹ giảm quán tính, thành xi lanh làm bằng gang hoặc thép hợp kim có độ cứng bề mặt cực cao và được mài bóng mạ crom xốp giữ dầu bôi trơn",
+      "Cả hai bộ phận đều làm bằng nhựa dẻo chịu nhiệt nhẹ nhất",
+      "Chỉ cần làm bằng sắt thông thường và bôi mỡ bò một lần duy nhất lúc lắp ráp"
+    ],
+    "answer": "Piston làm bằng hợp kim nhôm nhẹ giảm quán tính, thành xi lanh làm bằng gang hoặc thép hợp kim có độ cứng bề mặt cực cao và được mài bóng mạ crom xốp giữ dầu bôi trơn",
+    "explanation": "Cặp chi tiết này làm việc ở điều kiện tịnh tiến vận tốc cao, nhiệt độ và áp suất cực lớn. Hợp kim nhôm giảm tải trọng động, gang và lớp mạ crom chịu mài mòn khô tốt và giữ màng dầu bôi trơn liên tục."
+  },
+  {
+    "question": "Hệ thống phanh chống bó cứng (ABS) trên xe ô tô hoạt động dựa trên nguyên lý điều khiển kỹ thuật nào?",
+    "options": [
+      "Người lái nhấn nhả chân phanh liên tục 50 lần một giây bằng lực chân",
+      "Cảm biến tốc độ bánh xe liên tục gửi dữ liệu về bộ xử lý, nếu phát hiện bánh xe sắp bị khóa cứng khi phanh gấp, bộ điều khiển sẽ ra lệnh cho bộ chấp hành nhấp nhả áp lực dầu phanh liên tục giữ bánh xe vừa giảm tốc vừa có thể lái hướng",
+      "Hệ thống tự động tắt động cơ ngay lập tức khi người lái chạm vào vô lăng",
+      "Má phanh tự động tách rời hẳn khỏi đĩa phanh để xe trượt tự do theo quán tính"
+    ],
+    "answer": "Cảm biến tốc độ bánh xe liên tục gửi dữ liệu về bộ xử lý, nếu phát hiện bánh xe sắp bị khóa cứng khi phanh gấp, bộ điều khiển sẽ ra lệnh cho bộ chấp hành nhấp nhả áp lực dầu phanh liên tục giữ bánh xe vừa giảm tốc vừa có thể lái hướng",
+    "explanation": "ABS là hệ thống phản hồi vòng kín siêu nhanh. Mục tiêu của nó là ngăn hiện tượng mất độ bám trượt bằng cách tối ưu hóa lực ma sát lăn thông qua việc nhấp nhả áp lực thủy lực tự động tần số cao."
+  },
+  {
+    "question": "Sự phát triển của vật liệu mới như Grafen (Graphene) có khả năng tạo ra cuộc cách mạng trong lĩnh vực lưu trữ năng lượng (pin và siêu tụ điện) vì lý do nào?",
+    "options": [
+      "Grafen là một loại chất lỏng dễ cháy như xăng tạo ra nhiệt lượng lớn",
+      "Grafen có cấu trúc một lớp nguyên tử carbon với diện tích bề mặt cực lớn, độ dẫn điện siêu việt và độ bền cơ học cao gấp hàng trăm lần thép giúp sạc siêu nhanh, dung lượng lớn",
+      "Grafen được tổng hợp trực tiếp từ rác thải nhựa không mất chi phí",
+      "Grafen có khả năng tự phát sáng trong bóng tối không cần nguồn điện"
+    ],
+    "answer": "Grafen có cấu trúc một lớp nguyên tử carbon với diện tích bề mặt cực lớn, độ dẫn điện siêu việt và độ bền cơ học cao gấp hàng trăm lần thép giúp sạc siêu nhanh, dung lượng lớn",
+    "explanation": "Vật liệu nano Grafen mở ra kỷ nguyên mới cho linh kiện điện tử nhờ cấu trúc hình học phẳng đặc biệt, cho phép các ion dịch chuyển tốc độ tối đa trên bề mặt mà không sinh nhiệt lớn phá hủy linh kiện."
+  },
+  {
+    "question": "Cấu trúc nào dưới đây mô tả chính xác sơ đồ khối của một hệ thống tưới cây tự động có phản hồi (vòng kín)?",
+    "options": [
+      "Cảm biến độ ẩm -> Bộ vi xử lý -> Rơ le điều khiển bơm -> Vòi phun nước -> Độ ẩm đất thay đổi quay lại cảm biến",
+      "Bơm nước -> Vòi phun -> Mặt đất -> Nguồn điện tổng",
+      "Công tắc tay -> Dây điện -> Động cơ bơm -> Dòng nước tưới",
+      "Cảm biến nhiệt độ -> Báo động còi -> Đèn LED hiển thị -> Hết quy trình"
+    ],
+    "answer": "Cảm biến độ ẩm -> Bộ vi xử lý -> Rơ le điều khiển bơm -> Vòi phun nước -> Độ ẩm đất thay đổi quay lại cảm biến",
+    "explanation": "Vòng điều khiển kín bắt đầu từ thiết bị đo đầu vào, qua khâu xử lý ra lệnh cho khâu chấp hành tác động lên đối tượng và kết quả biến động đối tượng lại được cảm biến theo dõi khép kín mạch thông tin."
+  },
+  {
+    "question": "Khi lập bản vẽ thiết kế hệ thống cơ khí, việc ứng dụng mô hình hóa 3D (3D Modeling) trước rồi mới xuất bản vẽ 2D đem lại lợi ích đột phá gì so với cách vẽ 2D truyền thống?",
+    "options": [
+      "Làm cho dung lượng file thiết kế nhẹ hơn gấp nhiều lần",
+      "Cho phép kỹ sư kiểm tra trực quan va chạm hình học giữa các chi tiết khi chuyển động lắp ráp, tự động tính toán khối lượng, trọng tâm và tự động cập nhật sửa đổi đồng bộ trên mọi hình chiếu",
+      "Loại bỏ hoàn toàn việc phải ghi các thông số dung sai kỹ thuật",
+      "Giúp máy gia công tự chạy mà không cần cấp điện nguồn"
+    ],
+    "answer": "Cho phép kỹ sư kiểm tra trực quan va chạm hình học giữa các chi tiết khi chuyển động lắp ráp, tự động tính toán khối lượng, trọng tâm và tự động cập nhật sửa đổi đồng bộ trên mọi hình chiếu",
+    "explanation": "Dựng hình 3D tạo ra một vật thể số hóa toàn vẹn trong không gian ảo. Việc kiểm tra động học, phân tích lực (CAE) trên mô hình 3D giúp loại bỏ hầu hết các sai sót lắp ráp trước khi chế tạo phôi thật."
+  },
+  {
+    "question": "Trong bối cảnh chuyển dịch năng lượng, tại sao các quốc gia phát triển đầu tư mạnh vào hệ thống lưới điện thông minh (Smart Grid) đi kèm các trạm lưu trữ pin quy mô lớn (BESS)?",
+    "options": [
+      "Để loại bỏ hoàn toàn việc sử dụng dây dẫn điện bằng đồng truyền thống",
+      "Nguồn năng lượng tái tạo (gió, mặt trời) có tính bất định, phụ thuộc thời tiết; trạm lưu trữ và lưới điện thông minh giúp điều hòa, tích trữ điện thừa và bù đắp thiếu hụt dòng điện thời gian thực giữ ổn định hệ thống",
+      "Vì lưới điện thông minh giúp tăng điện áp dòng điện lên vô hạn",
+      "Để ngăn chặn hiện tượng sấm sét phá hủy các cột điện trên đường"
+    ],
+    "answer": "Nguồn năng lượng tái tạo (gió, mặt trời) có tính bất định, phụ thuộc thời tiết; trạm lưu trữ và lưới điện thông minh giúp điều hòa, tích trữ điện thừa và bù đắp thiếu hụt dòng điện thời gian thực giữ ổn định hệ thống",
+    "explanation": "Lưới điện truyền thống được thiết kế cho nguồn phát cố định (nhà máy nhiệt điện). Khi tích hợp năng lượng tái tạo biến thiên liên tục, cần hệ thống điều phối thông minh và kho pin lưu trữ để cắt đỉnh, điền đáy dòng công suất sụt giảm đột ngột."
+  },
+  {
+    "question": "Bạn được yêu cầu thiết kế một thiết bị hỗ trợ bóc vỏ quả hạt điều tự động cho các hộ gia đình nhỏ. Quy trình tối ưu nào giúp bạn hiện thực hóa sản phẩm từ ý tưởng ban đầu?",
+    "options": [
+      "Mua máy lớn về cắt nhỏ ra -> Sơn lại màu -> Bán ra thị trường kinh doanh",
+      "Khảo sát hình dáng hạt điều và năng suất yêu cầu -> Đề xuất nguyên lý cơ khí bóc vỏ -> Dựng bản vẽ phác thảo và bản vẽ chi tiết CAD -> Chế tạo mô hình thử nghiệm bằng nhựa hoặc gỗ -> Chạy thử hiệu chỉnh dao cắt -> Lập hồ sơ kỹ thuật chế tạo",
+      "Vẽ một bức tranh phối cảnh thật đẹp -> Đăng quảng cáo -> Nhận tiền đặt cọc rồi mới tìm cách chế tạo sau",
+      "Đúc một khối thép đặc theo hình quả điều -> Mài mòn thủ công cho đến khi đạt kích thước mong muốn"
+    ],
+    "answer": "Khảo sát hình dáng hạt điều và năng suất yêu cầu -> Đề xuất nguyên lý cơ khí bóc vỏ -> Dựng bản vẽ phác thảo và bản vẽ chi tiết CAD -> Chế tạo mô hình thử nghiệm bằng nhựa hoặc gỗ -> Chạy thử hiệu chỉnh dao cắt -> Lập hồ sơ kỹ thuật chế tạo",
+    "explanation": "Đây là trình tự chuẩn hóa khoa học áp dụng quy trình thiết kế kỹ thuật. Đi từ nghiên cứu đối tượng, lập phương án hình học lý thuyết, dựng mẫu thử nghiệm chức năng để kiểm soát rủi ro kỹ thuật trước khi hoàn thiện hồ sơ sản xuất."
+  },
+  {
+    "question": "Ngành cơ khí chế tạo có vai trò gì đối với nền sản xuất của một quốc gia?",
+    "options": [
+      "Chỉ sản xuất đồ gia dụng nhỏ",
+      "Là ngành xương sống, sản xuất ra toàn bộ máy móc, thiết bị, công cụ cho tất cả các ngành kinh tế khác",
+      "Chỉ phục vụ cho ngành giao thông vận tải",
+      "Là ngành không đóng góp vào tổng sản phẩm quốc nội"
+    ],
+    "answer": "Là ngành xương sống, sản xuất ra toàn bộ máy móc, thiết bị, công cụ cho tất cả các ngành kinh tế khác",
+    "explanation": "Cơ khí chế tạo cung cấp tư liệu sản xuất (máy công cụ, dây chuyền công nghiệp), giúp nâng cao năng suất cho mọi ngành từ nông nghiệp đến an ninh quốc phòng."
+  },
+  {
+    "question": "Nội dung nào ghi trong khung tên của bản vẽ kỹ thuật giúp xác định người chịu trách nhiệm pháp lý về chất lượng bản vẽ?",
+    "options": [
+      "Tên của trường học",
+      "Ký hiệu vật liệu chi tiết",
+      "Chữ ký và họ tên của người vẽ, người kiểm tra, người phê duyệt",
+      "Địa chỉ xưởng gia công cơ khí"
+    ],
+    "answer": "Chữ ký và họ tên của người vẽ, người kiểm tra, người phê duyệt",
+    "explanation": "Khung tên chứa thông tin hành chính kỹ thuật, trong đó phần chữ ký xác nhận trách nhiệm của các cá nhân tham gia thiết kế và kiểm soát chất lượng."
+  },
+  {
+    "question": "Yếu tố nào quy định độ dày của nét liền đậm dùng để vẽ đường bao thấy trên bản vẽ kỹ thuật?",
+    "options": [
+      "Tùy thuộc vào loại bút mực người vẽ có sẵn",
+      "Chọn theo tiêu chuẩn trong khoảng từ 0,5 đến 1,4 milimet tùy thuộc vào kích thước khổ giấy và độ phức tạp hình biểu diễn",
+      "Luôn luôn mặc định cố định bằng 2 milimet",
+      "Do người thợ đứng máy gia công tự chọn sau"
+    ],
+    "answer": "Chọn theo tiêu chuẩn trong khoảng từ 0,5 đến 1,4 milimet tùy thuộc vào kích thước khổ giấy và độ phức tạp hình biểu diễn",
+    "explanation": "Tiêu chuẩn đồ họa kỹ thuật quy định dải kích thước nét đậm để đảm bảo khi in ấn ra giấy bản vẽ có độ tương phản rõ nét, dễ đọc."
+  },
+  {
+    "question": "Vật liệu kim loại đen bao gồm các loại vật liệu nào sau đây?",
+    "options": [
+      "Đồng và hợp kim của đồng",
+      "Nhôm và các loại hợp kim duralumin",
+      "Sắt, thép và gang",
+      "Vàng, bạc, bạch kim"
+    ],
+    "answer": "Sắt, thép và gang",
+    "explanation": "Kim loại đen là nhóm kim loại có thành phần chủ yếu là sắt (Fe) kết hợp với các tỷ lệ cacbon khác nhau để tạo thành thép hoặc gang."
+  },
+  {
+    "question": "Trong lĩnh vực công nghệ, thuật ngữ 'Automation' dùng để chỉ xu hướng nào?",
+    "options": [
+      "Tăng cường sử dụng phương tiện giao thông công cộng",
+      "Tự động hóa các quy trình sản xuất và vận hành bằng máy móc, hệ thống điều khiển",
+      "Sử dụng năng lượng nguyên tử trong y tế",
+      "Sản xuất thủ công mỹ nghệ bằng tay"
+    ],
+    "answer": "Tự động hóa các quy trình sản xuất và vận hành bằng máy móc, hệ thống điều khiển",
+    "explanation": "Automation là tự động hóa, giảm thiểu sự can thiệp trực tiếp của con người vào hệ thống bằng cách ứng dụng cơ cấu tự hành."
+  },
+  {
+    "question": "Chức năng của phần tử 'Xử lý' trong cấu trúc hệ thống kỹ thuật là gì?",
+    "options": [
+      "Tiếp nhận vật tư thô từ môi trường ngoài",
+      "Biến đổi thông tin hoặc năng lượng đầu vào theo một quy luật, thuật toán hoặc cơ chế định sẵn để tạo ra đầu ra mong muốn",
+      "Hiển thị kết quả ra màn hình cho người xem",
+      "Cung cấp điện năng cho toàn bộ hệ thống hoạt động"
+    ],
+    "answer": "Biến đổi thông tin hoặc năng lượng đầu vào theo một quy luật, thuật toán hoặc cơ chế định sẵn để tạo ra đầu ra mong muốn",
+    "explanation": "Khối xử lý (như mạch điện điện tử, bộ vi xử lý, cơ cấu đòn bẩy) đóng vai trò chuyển hóa bản chất của tín hiệu/năng lượng nhận được từ đầu vào."
+  },
+  {
+    "question": "Đâu là bản vẽ thể hiện hình dáng kiến trúc bên ngoài của một công trình xây dựng?",
+    "options": [
+      "Bản vẽ mặt bằng kết cấu móng",
+      "Bản vẽ mặt đứng công trình",
+      "Bản vẽ mặt cắt qua cầu thang",
+      "Bản vẽ sơ đồ bố trí mạng lưới điện tầng một"
+    ],
+    "answer": "Bản vẽ mặt đứng công trình",
+    "explanation": "Bản vẽ mặt đứng là hình chiếu vuông góc biểu diễn mặt ngoài của ngôi nhà, thể hiện hình dáng kiến trúc, tỷ lệ cửa và tính thẩm mỹ bề mặt."
+  },
+  {
+    "question": "Để kết nối các thiết bị thông minh trong hệ thống IoT công nghiệp, loại mạng không dây nào thường được sử dụng phổ biến hiện nay?",
+    "options": [
+      "Mạng lưới điện quốc gia",
+      "Sóng âm truyền trong nước",
+      "Các chuẩn mạng không dây như Wi-Fi, Bluetooth, Zigbee hoặc mạng di động 5G",
+      "Hệ thống dây cáp quang ngầm"
+    ],
+    "answer": "Các chuẩn mạng không dây như Wi-Fi, Bluetooth, Zigbee hoặc mạng di động 5G",
+    "explanation": "Mạng không dây giúp liên kết hàng nghìn cảm biến và cơ cấu chấp hành di động linh hoạt mà không cần đi dây phức tạp trong nhà xưởng."
+  },
+  {
+    "question": "Thông số nào sau đây bắt buộc phải có trên đường ghi kích thước của bản vẽ kỹ thuật?",
+    "options": [
+      "Tên loại vật liệu chế tạo",
+      "Giá trị chữ số kích thước thực tế của vật thể",
+      "Thời gian hoàn thiện khâu vẽ chi tiết",
+      "Tên của phần mềm dùng để lập bản vẽ"
+    ],
+    "answer": "Giá trị chữ số kích thước thực tế của vật thể",
+    "explanation": "Con số kích thước thể hiện độ lớn thực tế của chi tiết tính theo đơn vị quy chuẩn (thường là milimet), không phụ thuộc vào tỷ lệ bản vẽ lớn hay nhỏ."
+  },
+  {
+    "question": "Phương pháp gia công nào sau đây làm thay đổi hình dáng phôi bằng cách làm nóng chảy kim loại rồi đổ vào khuôn?",
+    "options": [
+      "Phương pháp tiện cơ khí",
+      "Phương pháp đúc cơ khí",
+      "Phương pháp hàn hồ quang",
+      "Phương pháp rèn dập nóng"
+    ],
+    "answer": "Phương pháp đúc cơ khí",
+    "explanation": "Đúc là công nghệ chế tạo phôi dựa trên hiện tượng chuyển pha của vật liệu từ lỏng sang rắn trong lòng khuôn có biên dạng định sẵn."
+  },
+  {
+    "question": "Tính chất công nghệ của vật liệu cơ khí bao gồm đặc tính nào sau đây?",
+    "options": [
+      "Tính dẫn điện, dẫn nhiệt tốt",
+      "Tính chống ăn mòn hóa học cao",
+      "Tính đúc, tính rèn, tính hàn và tính gia công cắt gọt",
+      "Độ cứng, độ bền kéo giới hạn"
+    ],
+    "answer": "Tính đúc, tính rèn, tính hàn và tính gia công cắt gọt",
+    "explanation": "Tính chất công nghệ phản ánh khả năng biến đổi hình dáng, cấu trúc của vật liệu khi chịu các tác động của phương pháp gia công công nghiệp khác nhau."
+  },
+  {
+    "question": "Lĩnh vực nghề nghiệp thiết kế đồ họa sử dụng công cụ nào làm nền tảng chủ yếu?",
+    "options": [
+      "Máy hàn và mỏ lết cơ khí",
+      "Máy tính hiệu năng cao kết hợp phần mềm đồ họa chuyên dụng",
+      "Kính hiển vi quang học độ phóng đại lớn",
+      "Hệ thống máy trộn bê tông ly tâm công nghiệp"
+    ],
+    "answer": "Máy tính hiệu năng cao kết hợp phần mềm đồ họa chuyên dụng",
+    "explanation": "Nhà thiết kế đồ họa hiện đại thao tác sáng tạo kỹ thuật số hoàn toàn trên máy tính thông qua phần mềm xử lý hình ảnh vector và raster."
+  },
+  {
+    "question": "Trong phương pháp chiếu góc thứ nhất, hình chiếu đứng được đặt ở vị trí nào trên bản vẽ?",
+    "options": [
+      "Góc dưới cùng bên phải",
+      "Vị trí trung tâm phía trên, làm cơ sở bố trí các hình chiếu khác",
+      "Nằm bên phải hình chiếu cạnh",
+      "Luôn nằm ở mặt sau của tờ giấy vẽ"
+    ],
+    "answer": "Vị trí trung tâm phía trên, làm cơ sở bố trí các hình chiếu khác",
+    "explanation": "Hình chiếu đứng là hình chiếu chính thể hiện diện mạo đặc trưng nhất của vật thể, được vẽ đầu tiên ở góc trên bên trái tờ giấy làm chuẩn định vị cho hình chiếu bằng và cạnh."
+  },
+  {
+    "question": "Vật liệu polyme sinh học (Biopolymer) có ưu điểm lớn nhất là gì đối với môi trường?",
+    "options": [
+      "Có giá thành đắt đỏ giúp tăng doanh thu",
+      "Có khả năng tự phân hủy sinh học trong thời gian ngắn, giảm thiểu rác thải nhựa bền vững",
+      "Có trọng lượng nặng giúp cố định rác thải tốt",
+      "Hoàn toàn chống cháy tuyệt đối ở mọi nhiệt độ"
+    ],
+    "answer": "Có khả năng tự phân hủy sinh học trong thời gian ngắn, giảm thiểu rác thải nhựa bền vững",
+    "explanation": "Nhựa sinh học nguồn gốc hữu cơ dễ bị vi sinh vật phân rã thành nước và CO2, không để lại vi nhựa kéo dài hàng trăm năm như nhựa dầu mỏ."
+  },
+  {
+    "question": "Trong một hệ thống tưới nước tự động bằng tay, bộ phận nào đóng vai trò điều khiển?",
+    "options": [
+      "Bơm tăng áp thủy lực",
+      "Đường ống dẫn nước chính",
+      "Con người thực hiện hành động bật tắt công tắc điện",
+      "Vòi phun tia sương"
+    ],
+    "answer": "Con người thực hiện hành động bật tắt công tắc điện",
+    "explanation": "Hệ thống điều khiển bằng tay phụ thuộc hoàn toàn vào tư duy và thao tác cơ học trực tiếp của con người để đóng cắt mạch dòng năng lượng."
+  },
+  {
+    "question": "Tiêu chí 'Tính khả thi' khi đánh giá sản phẩm thiết kế kỹ thuật ý nói đến điều gì?",
+    "options": [
+      "Sản phẩm nhìn phải giống một bức tranh nghệ thuật",
+      "Khả năng chế tạo thực tế của sản phẩm dựa trên công nghệ, thiết bị, vật liệu và trình độ kỹ thuật hiện có",
+      "Khả năng sản phẩm có thể tự bay được trong không gian",
+      "Sản phẩm không bao giờ bị hỏng hóc dù dùng sai cách"
+    ],
+    "answer": "Khả năng chế tạo thực tế của sản phẩm dựa trên công nghệ, thiết bị, vật liệu và trình độ kỹ thuật hiện có",
+    "explanation": "Một ý tưởng thiết kế dù hay đến đâu nhưng nếu năng lực sản xuất hiện tại không thể gia công sản xuất hoặc chi phí quá viển vông sẽ bị coi là thiếu tính khả thi."
+  },
+  {
+    "question": "Loại bản vẽ nào cung cấp sơ đồ phân bố không gian tổng thể của các hạng mục công trình trong một dự án xây dựng?",
+    "options": [
+      "Bản vẽ chi tiết móng",
+      "Bản vẽ mặt bằng tổng thể",
+      "Bản vẽ mặt cắt ngang đường",
+      "Bản vẽ phối cảnh nội thất căn hộ"
+    ],
+    "answer": "Bản vẽ mặt bằng tổng thể",
+    "explanation": "Bản vẽ mặt bằng tổng thể thể hiện vị trí, hướng quy hoạch của toàn bộ các khu nhà, đường đi, cây xanh trên khu đất xây dựng nhìn từ trên cao xuống."
+  },
+  {
+    "question": "Chức năng của phần tử 'Đầu vào' trong hệ thống kỹ thuật là gì?",
+    "options": [
+      "Tiêu thụ toàn bộ sản phẩm hoàn thiện",
+      "Tiếp nhận năng lượng, vật liệu hoặc thông tin cần thiết để hệ thống bắt đầu hoạt động",
+      "Thực hiện các phép toán logic phức tạp",
+      "Bảo vệ hệ thống khỏi các tác động thời tiết ngoại cảnh"
+    ],
+    "answer": "Tiếp nhận năng lượng, vật liệu hoặc thông tin cần thiết để hệ thống bắt đầu hoạt động",
+    "explanation": "Đầu vào cung cấp nguyên liệu thô hoặc tín hiệu mồi ban đầu, nếu thiếu thành phần này khối xử lý sẽ không có đối tượng để thực hiện chức năng chuyển đổi."
+  },
+  {
+    "question": "Bộ phận nào sau đây của xe đạp đóng vai trò là cơ cấu truyền động cơ học?",
+    "options": [
+      "Yên xe và khung sườn xe",
+      "Hệ thống xích, đĩa xích và líp xe",
+      "Bàn đạp bằng nhựa",
+      "Hệ thống tay phanh và dây cáp phanh"
+    ],
+    "answer": "Hệ thống xích, đĩa xích và líp xe",
+    "explanation": "Cụm đĩa xích - xích - líp thực hiện nhiệm vụ truyền chuyển động quay từ trục giữa đến trục bánh sau, giúp xe tịnh tiến về phía trước."
+  },
+  {
+    "question": "Công nghệ nào cho phép lưu trữ và truyền tải dữ liệu dưới dạng các khối liên kết mã hóa bảo mật, không thể sửa đổi thông tin lịch sử?",
+    "options": [
+      "Công nghệ Điện toán đám mây",
+      "Công nghệ Chuỗi khối (Blockchain)",
+      "Công nghệ Thực tế ảo tăng cường (AR)",
+      "Công nghệ Mạng di động thế hệ mới"
+    ],
+    "answer": "Công nghệ Chuỗi khối (Blockchain)",
+    "explanation": "Blockchain là công nghệ sổ cái phi tập trung mã hóa bằng mật mã toán học, đảm bảo tính minh bạch dữ liệu tuyệt đối và chống gian lận chỉnh sửa."
+  },
+  {
+    "question": "Trong bản vẽ kỹ thuật, các con số kích thước hiển thị trên bản vẽ mặc định sử dụng đơn vị đo nào nếu không ghi chú gì thêm?",
+    "options": [
+      "Centimet (cm)",
+      "Milimet (mm)",
+      "Met (m)",
+      "Inches (in)"
+    ],
+    "answer": "Milimet (mm)",
+    "explanation": "Theo tiêu chuẩn bản vẽ kỹ thuật cơ khí, đơn vị đo độ dài hợp pháp bắt buộc dùng là milimet và không cần viết ký hiệu đơn vị sau con số."
+  },
+  {
+    "question": "Đặc tính cơ học quan trọng nhất của vật liệu làm lưỡi dao cắt gọt cơ khí (như dao tiện, dao phay) là gì?",
+    "options": [
+      "Độ dẻo cực cao để dễ uốn cong",
+      "Độ cứng cao hơn nhiều so với độ cứng của vật liệu phôi cần cắt gọt",
+      "Khối lượng riêng cực nhẹ để giảm lực quay",
+      "Tính dẫn điện tốt tạo ra dòng điện cắt"
+    ],
+    "answer": "Độ cứng cao hơn nhiều so với độ cứng của vật liệu phôi cần cắt gọt",
+    "explanation": "Lưỡi dao phải đủ cứng để không bị biến dạng, mòn quăn hay mẻ lưỡi khi ma sát cọ xát bóc tách lớp kim loại cứng từ phôi."
+  },
+  {
+    "question": "Ngành nghề nào thiết kế sơ đồ nguyên lý mạch, bố trí linh kiện và lập trình phần mềm nhúng cho các thiết bị điện tử gia dụng?",
+    "options": [
+      "Kỹ sư xây dựng công trình ngầm",
+      "Kỹ sư điện tử",
+      "Kỹ thuật viên luyện kim màu",
+      "Thợ tiện cơ khí chính xác"
+    ],
+    "answer": "Kỹ sư điện tử",
+    "explanation": "Kỹ sư điện tử tập trung nghiên cứu xử lý tín hiệu yếu, thiết kế vi mạch, bảng mạch in (PCB) và tích hợp chip điều khiển cho hệ thống điện tử."
+  },
+  {
+    "question": "Trong quy trình thiết kế kỹ thuật, khâu 'Đề xuất giải pháp' dựa trên cơ sở cốt lõi nào?",
+    "options": [
+      "Dựa hoàn toàn vào sở thích ngẫu nhiên của người kỹ sư tại thời điểm đó",
+      "Dựa trên các thông tin đã thu thập, phân tích vấn đề và các tiêu chí thiết kế đề ra trước đó",
+      "Dựa vào giá bán của các sản phẩm thế hệ cũ trên thị trường",
+      "Chọn phương án thiết kế tốn ít thời gian vẽ nhất trên máy tính"
+    ],
+    "answer": "Dựa trên các thông tin đã thu thập, phân tích vấn đề và các tiêu chí thiết kế đề ra trước đó",
+    "explanation": "Đề xuất giải pháp là khâu tư duy sáng tạo có định hướng, tổng hợp các kiến thức khoa học công nghệ phù hợp để đáp ứng trọn vẹn danh mục tiêu chí đã duyệt."
+  },
+  {
+    "question": "Vật liệu nào sau đây thuộc nhóm vật liệu phi kim loại?",
+    "options": [
+      "Hợp kim đồng thau",
+      "Chất dẻo (Nhựa polymer)",
+      "Thép không gỉ (Inox)",
+      "Kim loại Titan siêu bền"
+    ],
+    "answer": "Chất dẻo (Nhựa polymer)",
+    "explanation": "Chất dẻo, cao su, gỗ, gốm sứ là những vật liệu cấu tạo từ liên kết phi kim, không chứa các nguyên tố kim loại làm nền."
+  },
+  {
+    "question": "Hệ thống phao cơ tự động ngắt nước trong bồn chứa nước gia đình thuộc loại hệ thống điều khiển nào?",
+    "options": [
+      "Hệ thống điều khiển vòng hở",
+      "Hệ thống điều khiển bằng điện tử số",
+      "Hệ thống điều khiển vòng kín (tự động điều chỉnh dựa trên mực nước phản hồi)",
+      "Hệ thống điều khiển bằng trí tuệ nhân tạo AI"
+    ],
+    "answer": "Hệ thống điều khiển vòng kín (tự động điều chỉnh dựa trên mực nước phản hồi)",
+    "explanation": "Quả phao nổi lên theo mực nước (đầu ra), khi nước đầy phao đẩy cơ cấu đòn bẩy chặn dòng nước vào (đầu vào), đây là cơ chế phản hồi cơ học vòng kín."
+  },
+  {
+    "question": "Ý nghĩa của việc xây dựng mô hình phác thảo bằng đất sét hoặc bìa cứng trong giai đoạn đầu của thiết kế ô tô là gì?",
+    "options": [
+      "Dùng để làm đồ chơi triển lãm bán hàng",
+      "Giúp kiểm tra trực quan kiểu dáng hình khối ba chiều, đánh giá khí động học sơ bộ với chi phí thấp trước khi làm khuôn đắt tiền",
+      "Thay thế cho việc lập bản vẽ kỹ thuật trên máy tính",
+      "Để thử nghiệm độ bền va chạm của vỏ xe khi đâm đụng"
+    ],
+    "answer": "Giúp kiểm tra trực quan kiểu dáng hình khối ba chiều, đánh giá khí động học sơ bộ với chi phí thấp trước khi làm khuôn đắt tiền",
+    "explanation": "Mô hình phác thảo vật lý giúp các nhà thiết kế phát hiện các nhược điểm về tỷ lệ hình khối không gian mà bản vẽ phẳng hai chiều chưa bộc lộ hết."
+  },
+  {
+    "question": "Một bản vẽ có ghi ký hiệu vật liệu là 'Gang xám GX 15-32', thông tin này có mục đích gì đối với quy trình sản xuất?",
+    "options": [
+      "Cho biết giá tiền của thỏi gang thô",
+      "Chỉ định chính xác chủng loại vật liệu cần mua để nấu chảy và đúc chi tiết đảm bảo cơ tính thiết kế",
+      "Xác định tên xưởng đúc chi tiết máy này",
+      "Thể hiện khối lượng tổng của sản phẩm"
+    ],
+    "answer": "Chỉ định chính xác chủng loại vật liệu cần mua để nấu chảy và đúc chi tiết đảm bảo cơ tính thiết kế",
+    "explanation": "Ký hiệu vật liệu quy chuẩn trên bản vẽ giúp phòng vật tư mua đúng phôi và đốc công phân xưởng cài đặt chế độ nhiệt luyện, gia công chính xác."
+  },
+  {
+    "question": "Công nghệ điều khiển logic lập trình được (PLC) ứng dụng phổ biến nhất ở lĩnh vực nào?",
+    "options": [
+      "Lập trình trò chơi điện tử đồ họa 3D",
+      "Điều khiển tự động hóa các dây chuyền máy móc sản xuất trong công nghiệp",
+      "Thiết kế giao diện website thương mại điện tử",
+      "Quản lý mạng lưới tài chính ngân hàng quốc tế"
+    ],
+    "answer": "Điều khiển tự động hóa các quy trình sản xuất và vận hành bằng máy móc, hệ thống điều khiển",
+    "explanation": "PLC là thiết bị điều khiển chuyên dụng cho môi trường công nghiệp chịu nhiễu tốt, dùng để chạy các chương trình tuần tự điều khiển băng chuyền, cánh tay robot."
+  },
+  {
+    "question": "Khi chọn vật liệu chế tạo khung sườn cho các dòng xe đạp đua chuyên nghiệp, đặc tính vật liệu nào được ưu tiên tối đa?",
+    "options": [
+      "Khối lượng riêng lớn để tăng lực quán tính đổ đèo",
+      "Độ bền kéo cao kết hợp khối lượng riêng siêu nhẹ (như composite sợi carbon)",
+      "Độ dẻo cao để dễ uốn cong bằng tay khi cần sửa",
+      "Khả năng dẫn điện tốt chịu sét đánh"
+    ],
+    "answer": "Độ bền kéo cao kết hợp khối lượng riêng siêu nhẹ (như composite sợi carbon)",
+    "explanation": "Sợi carbon giúp giảm trọng lượng xe xuống mức tối thiểu (giúp vận động viên đỡ tốn sức) trong khi cấu trúc khung vẫn cứng vững chịu lực mô-men xoắn lớn khi guồng chân mạnh."
+  },
+  {
+    "question": "Tại sao việc lạm dụng quá mức công nghệ robot và tự động hóa trong sản xuất có thể dẫn đến hệ lụy gì về mặt xã hội?",
+    "options": [
+      "Làm giảm chất lượng sản phẩm công nghiệp",
+      "Gây ra nguy cơ thất nghiệp diện rộng cho nhóm lao động phổ thông, làm gia tăng khoảng cách giàu nghèo nếu không được đào tạo lại kỹ năng",
+      "Làm cho máy móc tự nổi loạn chống lại con người như phim viễn tưởng",
+      "Khiến các nhà máy tiêu tốn ít năng lượng hơn gây lãng phí tài nguyên"
+    ],
+    "answer": "Gây ra nguy cơ thất nghiệp diện rộng cho nhóm lao động phổ thông, làm gia tăng khoảng cách giàu nghèo nếu không được đào tạo lại kỹ năng",
+    "explanation": "Tự động hóa dịch chuyển cơ cấu lao động từ chân tay sang trí óc. Lao động kỹ năng thấp bị thay thế nhanh chóng bởi máy móc, tạo áp lực an sinh xã hội lớn."
+  },
+  {
+    "question": "Khi tiến hành phân tích một hệ thống điều hòa không khí inverter, thành phần nào đóng vai trò là mạch vòng phản hồi duy trì nhiệt độ phòng ổn định?",
+    "options": [
+      "Cánh vẫy điều hướng gió thổi",
+      "Cảm biến nhiệt độ phòng liên tục đo và gửi dữ liệu nhiệt độ thực tế về bo mạch xử lý trung tâm",
+      "Tấm lưới lọc bụi mịn bằng màng polymer",
+      "Dòng gas lạnh chạy trong ống đồng"
+    ],
+    "answer": "Cảm biến nhiệt độ phòng liên tục đo và gửi dữ liệu nhiệt độ thực tế về bo mạch xử lý trung tâm",
+    "explanation": "Mạch phản hồi (Feedback) thu thập trạng thái đầu ra thực tế (nhiệt độ phòng) để hệ thống so sánh với mức cài đặt, từ đó tăng giảm tần số máy nén tối ưu điện năng."
+  },
+  {
+    "question": "Phân tích ưu điểm lớn nhất của công nghệ đúc áp lực so với công nghệ đúc bằng khuôn cát thông thường trong chế tạo cơ khí chính xác?",
+    "options": [
+      "Chi phí chế tạo bộ khuôn đúc ban đầu rẻ hơn nhiều",
+      "Kim loại lỏng được điền đầy lòng khuôn dưới áp lực cao giúp sản phẩm không bị rỗng xốp khí, biên dạng sắc nét, độ nhẵn bóng bề mặt cao, có thể dùng ngay không cần gia công lại",
+      "Có thể đúc được các vật thể bằng gỗ hoặc nhựa dẻo",
+      "Thời gian đông đặc của kim loại kéo dài hàng tuần giúp chi tiết bền hơn"
+    ],
+    "answer": "Kim loại lỏng được điền đầy lòng khuôn dưới áp lực cao giúp sản phẩm không bị rỗng xốp khí, biên dạng sắc nét, độ nhẵn bóng bề mặt cao, có thể dùng ngay không cần gia công lại",
+    "explanation": "Áp lực ép dòng kim loại lỏng len lỏi vào các khe thành mỏng của khuôn kim loại, triệt tiêu bọt khí nội tại, tạo tổ chức tinh thể nhỏ mịn bền chắc."
+  },
+  {
+    "question": "Tại sao các bản vẽ lắp của cụm máy cơ khí bắt buộc phải đi kèm một 'Bảng kê' (Parts List) nằm ngay phía trên khung tên?",
+    "options": [
+      "Để ghi chép giá tiền của từng chi tiết máy",
+      "Liệt kê đầy đủ tên gọi, số lượng, mã số, vật liệu và ghi chú của từng chi tiết đơn lẻ cấu thành cụm lắp phục vụ khâu chuẩn bị vật tư và kiểm tra lắp ráp",
+      "Để người thợ ký tên xác nhận sau khi làm xong sản phẩm",
+      "Bảng kê dùng để hướng dẫn cách vận hành máy an toàn"
+    ],
+    "answer": "Liệt kê đầy đủ tên gọi, số lượng, mã số, vật liệu và ghi chú của từng chi tiết đơn lẻ cấu thành cụm lắp phục vụ khâu chuẩn bị vật tư và kiểm tra lắp ráp",
+    "explanation": "Bản vẽ lắp gồm nhiều chi tiết chồng chéo. Bảng kê đối chiếu số vị trí (bong bóng số) trên hình vẽ với thông tin chủng loại, số lượng để quản lý sản xuất chuẩn hóa."
+  },
+  {
+    "question": "Một xưởng gỗ muốn tự động hóa khâu cắt hoa văn phức tạp trên mặt bàn gỗ tự nhiên để xuất khẩu. Giải pháp thiết kế dây chuyền công nghệ nào là thích hợp nhất?",
+    "options": [
+      "Thuê thêm 50 thợ đục đẽo thủ công dùng búa và đục tay",
+      "Đầu tư hệ thống máy phay Router CNC gỗ điều khiển bằng máy tính chạy theo file thiết kế đồ họa lập trình sẵn",
+      "Sử dụng máy cưa xích cầm tay chạy bằng động cơ xăng",
+      "Dùng phương pháp đúc khuôn áp lực cao bằng chất lỏng lỏng"
+    ],
+    "answer": "Đầu tư hệ thống máy phay Router CNC gỗ điều khiển bằng máy tính chạy theo file thiết kế đồ họa lập trình sẵn",
+    "explanation": "Máy router CNC gỗ cắt chính xác biên dạng hoa văn từ file CAD phẳng, tốc độ cắt nhanh, chất lượng cạnh mịn đồng đều hàng nghìn sản phẩm giống nhau, giải quyết triệt để bài toán năng suất."
+  },
+  {
+    "question": "Trong thiết kế kỹ thuật, tại sao bước 'Thử nghiệm và đánh giá' mẫu thử bắt buộc phải tiến hành nghiêm ngặt trong các điều kiện khắc nghiệt giả định trước khi đưa sản phẩm ra thị trường thương mại?",
+    "options": [
+      "Để cố tình làm hỏng sản phẩm thu hồi phế liệu",
+      "Để bộc lộ sớm các khuyết tật ẩn về độ bền chịu mỏi, rủi ro cháy nổ, lỗi phần mềm nhúng dưới tải cao nhằm bảo vệ tính mạng người dùng và uy tín thương hiệu",
+      "Để tăng giá bán sản phẩm lên gấp nhiều lần",
+      "Vì luật pháp quy định mọi mẫu thử đều phải bị phá hủy hoàn toàn"
+    ],
+    "answer": "Để bộc lộ sớm các khuyết tật ẩn về độ bền chịu mỏi, rủi ro cháy nổ, lỗi phần mềm nhúng dưới tải cao nhằm bảo vệ tính mạng người dùng và uy tín thương hiệu",
+    "explanation": "Thử nghiệm phá hủy hoặc thử tải giới hạn (Stress test) giúp kỹ sư xác định hệ số an toàn thực tế của sản phẩm, đảm bảo thiết bị hoạt động ổn định trong mọi tình huống môi trường thực tế bất lợi."
+  },
+  {
+    "question": "Khi thiết kế một hệ thống chiếu sáng thông minh cho lớp học tận dụng tối đa ánh sáng tự nhiên tiết kiệm điện, nguyên lý hoạt động của hệ thống xử lý nên được thiết lập như thế nào?",
+    "options": [
+      "Đèn bật sáng cố định 100% công suất từ 7 giờ sáng đến 5 giờ chiều",
+      "Cảm biến ánh sáng đo độ sáng mặt bàn học thực tế, bộ xử lý phân tích nếu ánh sáng trời đủ sẽ tự động tắt hoặc giảm độ sáng đèn LED, nếu trời âm u sẽ tự động tăng độ sáng đèn đạt chuẩn",
+      "Bắt buộc học sinh phải tự tay bật tắt công tắc đèn sau mỗi tiết học",
+      "Hệ thống đèn tự động nhấp nháy liên tục để báo hiệu tiết kiệm"
+    ],
+    "answer": "Cảm biến ánh sáng đo độ sáng mặt bàn học thực tế, bộ xử lý phân tích nếu ánh sáng trời đủ sẽ tự động tắt hoặc giảm độ sáng đèn LED, nếu trời âm u sẽ tự động tăng độ sáng đèn đạt chuẩn",
+    "explanation": "Hệ thống điều khiển mờ (Dimming) dựa trên phản hồi ánh sáng môi trường thực tế đảm bảo luôn giữ hằng số độ sáng tiêu chuẩn cho phòng học, tối ưu hóa lượng năng lượng điện tiêu thụ một cách chủ động."
+  },
+  {
+    "question": "Giải thích vai trò cốt lõi của công nghệ sản xuất đắp lớp (In 3D) trong quy trình 'Chế tạo nhanh mẫu thử' (Rapid Prototyping) của thiết kế sản phẩm hiện đại?",
+    "options": [
+      "In 3D giúp chế tạo sản phẩm có khối lượng nặng hơn đúc",
+      "In 3D cho phép hiện thực hóa các ý tưởng hình khối phức tạp trực tiếp từ file CAD trong vài giờ mà không cần làm hệ thống khuôn đắt tiền hay gá đặt dao cụ gia công phức tạp",
+      "In 3D thay thế hoàn toàn tất cả các phương pháp gia công cơ khí lớn",
+      "In 3D tự động sửa đổi ý tưởng thiết kế sai của kỹ sư thành đúng"
+    ],
+    "answer": "In 3D cho phép hiện thực hóa các ý tưởng hình khối phức tạp trực tiếp từ file CAD trong vài giờ mà không cần làm hệ thống khuôn đắt tiền hay gá đặt dao cụ gia công phức tạp",
+    "explanation": "Chế tạo mẫu nhanh bằng in 3D rút ngắn chu kỳ thiết kế từ vài tuần xuống vài giờ. Kỹ sư có thể cầm nắm, lắp thử chức năng mô hình vật lý ngay lập tức, đẩy nhanh tốc độ cải tiến sản phẩm."
+  },
+  {
+    "question": "Tại sao việc thiết kế một sản phẩm công nghệ hiện đại ngày nay luôn yêu cầu phải tích hợp tư duy 'Thiết kế sinh thái' (Eco-design) ngay từ khâu lựa chọn ý tưởng ban đầu?",
+    "options": [
+      "Để sản phẩm bắt buộc phải có màu xanh lá cây bắt mắt",
+      "Tư duy này bắt buộc người thiết kế tính toán toàn bộ vòng đời sản phẩm từ nguồn vật liệu sạch, quy trình chế tạo ít năng lượng, đến khả năng tháo dỡ tái chế dễ dàng sau khi hỏng nhằm giảm thiểu tối đa tác hại sinh thái",
+      "Để sản phẩm không thể sử dụng các linh kiện điện tử",
+      "Để tăng tuổi thọ sản phẩm lên vĩnh cửu không bao giờ hỏng"
+    ],
+    "answer": "Tư duy này bắt buộc người thiết kế tính toán toàn bộ vòng đời sản phẩm từ nguồn vật liệu sạch, quy trình chế tạo ít năng lượng, đến khả năng tháo dỡ tái chế dễ dàng sau khi hỏng nhằm giảm thiểu tối đa tác hại sinh thái",
+    "explanation": "Thiết kế sinh thái quản lý tài nguyên bền vững, giải quyết bài toán khủng hoảng rác thải công nghiệp toàn cầu, đáp ứng các tiêu chuẩn xuất khẩu khắt khe vào thị trường quốc tế hiện nay."
+  },
+  {
+    "question": "Một dây chuyền phân loại sản phẩm nông sản (như quả cam) muốn tách riêng quả lỗi (bị thối, dập bề mặt) ở tốc độ cao 10 quả/giây. Phương án giải pháp công nghệ nào đạt hiệu quả tối ưu?",
+    "options": [
+      "Thuê một nhóm công nhân đứng nhìn bằng mắt và nhặt tay",
+      "Ứng dụng hệ thống camera quét màu sắc kết hợp thuật toán thị giác máy tính (AI), phát hiện vùng dập nát sẽ kích hoạt cánh tay gạt khí nén thổi bay quả lỗi ra khỏi băng chuyền tốc độ cao",
+      "Dùng hệ thống lưới sàng cơ học lỗ tròn thông thường",
+      " Thả toàn bộ số cam vào bể nước muối xem quả nào nổi lên"
+    ],
+    "answer": "Ứng dụng hệ thống camera quét màu sắc kết hợp thuật toán thị giác máy tính (AI), phát hiện vùng dập nát sẽ kích hoạt cánh tay gạt khí nén thổi bay quả lỗi ra khỏi băng chuyền tốc độ cao",
+    "explanation": "Tốc độ 10 quả/giây vượt quá giới hạn xử lý sinh học của mắt và tay người. Thị giác máy tính phân tích ma trận điểm ảnh thời gian thực, điều khiển cơ cấu chấp hành khí nén phản xạ cực nhanh chính xác tuyệt đối."
+  },
+  {
+    "question": "Khi thiết kế một robot thám hiểm lòng đại dương ở độ sâu 4000 mét dưới mực nước biển, rào cản môi trường vật lý khắt khe nhất nào buộc kỹ sư phải thay đổi thiết kế kết cấu vỏ và vật liệu?",
+    "options": [
+      "Sự thiếu hụt ánh sáng mặt trời làm robot mất phương hướng",
+      "Áp suất thủy tĩnh cực kỳ lớn (khoảng 400 bầu khí quyển) có xu hướng bóp nát cấu trúc rỗng và sự ăn mòn điện hóa siêu mạnh của nước muối biển",
+      "Tốc độ bơi của các loài cá đại dương va đập vào robot",
+      "Hiện tượng thiếu hụt oxy trong nước làm rỉ sét mạch điện điện tử"
+    ],
+    "answer": "Áp suất thủy tĩnh cực kỳ lớn (khoảng 400 bầu khí quyển) có xu hướng bóp nát cấu trúc rỗng và sự ăn mòn điện hóa siêu mạnh của nước muối biển",
+    "explanation": "Ở độ sâu lớn, áp suất cực đại đòi hỏi vỏ bọc khoang linh kiện phải thiết kế hình cầu từ vật liệu siêu bền như hợp kim Titan dày hoặc gốm kỹ thuật đặc biệt, đồng thời làm kín các khớp động bằng dầu bù áp chống tràn nước."
+  }
+]

@@ -1,0 +1,553 @@
+
+[
+  {
+    "question": "Từ trường là dạng vật chất tồn tại xung quanh đối tượng nào sau đây?",
+    "options": [
+      "Điện tích đứng yên.",
+      "Thanh gỗ khô.",
+      "Nam chân hoặc dòng điện.",
+      "Thanh nhựa đã được nhiễm điện đứng yên."
+    ],
+    "answer": "Nam chân hoặc dòng điện.",
+    "explanation": "Từ trường là một dạng vật chất tồn tại trong không gian mà biểu hiện cụ thể là sự xuất hiện của lực từ tác dụng lên một nam châm hoặc một dòng điện khác đặt trong đó."
+  },
+  {
+    "question": "Đường sức từ của từ trường gây ra bởi một dòng điện thẳng dài có hình dạng như thế nào?",
+    "options": [
+      "Các đường thẳng song song với dòng điện.",
+      "Các đường tròn đồng tâm có tâm nằm trên dây dẫn và vuông góc với dây dẫn.",
+      "Các đường parabol đối xứng qua dây dẫn.",
+      "Các đường cong khép kín không có hình dạng xác định."
+    ],
+    "answer": "Các đường tròn đồng tâm có tâm nằm trên dây dẫn và vuông góc với dây dẫn.",
+    "explanation": "Theo đặc điểm từ trường của dòng điện thẳng dài, các đường sức từ là những đường tròn đồng tâm nằm trong mặt phẳng vuông góc với dòng điện, có tâm nằm trên dây dẫn."
+  },
+  {
+    "question": "Đơn vị của cảm ứng từ trong hệ SI là gì?",
+    "options": [
+      "Vôn (V).",
+      "Ampe (A).",
+      "Tesla (T).",
+      "Vêbe (Wb)."
+    ],
+    "answer": "Tesla (T).",
+    "explanation": "Trong hệ đo lường quốc tế SI, đơn vị của cảm ứng từ là Tesla, kí hiệu là T."
+  },
+  {
+    "question": "Lực từ tác dụng lên một đoạn dây dẫn mang dòng điện đặt trong từ trường đều không phụ thuộc vào yếu tố nào sau đây?",
+    "options": [
+      "Cường độ dòng điện chạy qua dây dẫn.",
+      "Chiều dài của đoạn dây dẫn.",
+      "Cảm ứng từ của từ trường.",
+      "Khối lượng của đoạn dây dẫn."
+    ],
+    "answer": "Khối lượng của đoạn dây dẫn.",
+    "explanation": "Công thức tính độ lớn lực từ là F = B.I.L.sin(alpha), do đó lực từ chỉ phụ thuộc vào B, I, L và góc alpha, không phụ thuộc vào khối lượng của dây."
+  },
+  {
+    "question": "Đơn vị của từ thông trong hệ SI là gì?",
+    "options": [
+      "Tesla (T).",
+      "Vêbe (Wb).",
+      "Henry (H).",
+      "Farad (F)."
+    ],
+    "answer": "Vêbe (Wb).",
+    "explanation": "Trong hệ SI, đơn vị của từ thông là Vêbe, kí hiệu là Wb."
+  },
+  {
+    "question": "Hiện tượng cảm ứng điện từ là hiện tượng xuất hiện suất điện động cảm ứng trong mạch kín khi có sự biến thiên của đại lượng nào sau đây?",
+    "options": [
+      "Điện thông qua mạch.",
+      "Từ thông qua mạch.",
+      "Cường độ dòng điện trong mạch.",
+      "Điện trở của mạch."
+    ],
+    "answer": "Từ thông qua mạch.",
+    "explanation": "Hiện tượng cảm ứng điện từ xảy ra khi và chỉ khi có sự biến thiên từ thông qua mạch kín."
+  },
+  {
+    "question": "Đơn vị của hệ số tự cảm (độ tự cảm) là gì?",
+    "options": [
+      "Vêbe (Wb).",
+      "Tesla (T).",
+      "Henry (H).",
+      "Ohm (Omega)."
+    ],
+    "answer": "Henry (H).",
+    "explanation": "Đơn vị của hệ số tự cảm L trong hệ SI là Henry, kí hiệu là H."
+  },
+  {
+    "question": "Theo định luật Lenz, dòng điện cảm ứng xuất hiện trong mạch kín có chiều sao cho từ trường cảm ứng có tác dụng gì?",
+    "options": [
+      "Luôn cùng chiều với từ trường ban đầu.",
+      "Luôn ngược chiều với từ trường ban đầu.",
+      "Chống lại nguyên nhân sinh ra nó.",
+      "Làm tăng tốc độ biến thiên của từ thông."
+    ],
+    "answer": "Chống lại nguyên nhân sinh ra nó.",
+    "explanation": "Định luật Lenz khẳng định dòng điện cảm ứng có chiều sao cho từ trường do nó sinh ra có tác dụng chống lại sự biến thiên của từ thông sinh ra nó."
+  },
+  {
+    "question": "Hạt nhân nguyên tử được cấu tạo từ các hạt nào sau đây?",
+    "options": [
+      "Các hạt êlectron và prôtôn.",
+      "Các hạt prôtôn và nơtrôn.",
+      "Các hạt êlectron và nơtrôn.",
+      "Các hạt êlectron, prôtôn và nơtrôn."
+    ],
+    "answer": "Các hạt prôtôn và nơtrôn.",
+    "explanation": "Hạt nhân nguyên tử được cấu tạo từ hai loại hạt là prôtôn và nơtrôn, gọi chung là các nuclôn."
+  },
+  {
+    "question": "Kí hiệu hạt nhân của một nguyên tố X có dạng là Z-A-X (hoặc ghi chữ dạng X với chỉ số A ở trên, Z ở dưới). Trong đó, đại lượng Z đại diện cho điều gì?",
+    "options": [
+      "Số nơtrôn của hạt nhân.",
+      "Số prôtôn (hoặc số hiệu nguyên tử).",
+      "Tổng số nuclôn của hạt nhân.",
+      "Khối lượng của hạt nhân."
+    ],
+    "answer": "Số prôtôn (hoặc số hiệu nguyên tử).",
+    "explanation": "Trong kí hiệu hạt nhân, chỉ số Z nằm ở dưới đại diện cho điện tích hạt nhân, bằng số prôtôn có trong hạt nhân."
+  },
+  {
+    "question": "Các nguyên tử được gọi là đồng vị khi hạt nhân của chúng có đặc điểm nào?",
+    "options": [
+      "Có cùng số nơtrôn nhưng khác số prôtôn.",
+      "Có cùng số prôtôn nhưng khác số nơtrôn.",
+      "Có cùng số nuclôn nhưng khác số prôtôn.",
+      "Có cùng khối lượng hạt nhân."
+    ],
+    "answer": "Có cùng số prôtôn nhưng khác số nơtrôn.",
+    "explanation": "Đồng vị là các nguyên tử có cùng số prôtôn (cùng vị trí trong bảng tuần hoàn) nhưng khác nhau về số nơtrôn (dẫn đến số khối A khác nhau)."
+  },
+  {
+    "question": "Lực gắn kết các nuclôn lại với nhau trong hạt nhân nguyên tử được gọi là gì?",
+    "options": [
+      "Lực hấp dẫn.",
+      "Lực tĩnh điện.",
+      "Lực hạt nhân (lực tương tác mạnh).",
+      "Lực từ."
+    ],
+    "answer": "Lực hạt nhân (lực tương tác mạnh).",
+    "explanation": "Lực tương tác giữa các nuclôn trong hạt nhân là lực hạt nhân, có bản chất là lực tương tác mạnh, giữ cho hạt nhân bền vững."
+  },
+  {
+    "question": "Độ hụt khối của hạt nhân được định nghĩa là gì?",
+    "options": [
+      "Hiệu số giữa khối lượng các nuclôn đứng riêng rẽ và khối lượng hạt nhân.",
+      "Tổng khối lượng các prôtôn có trong hạt nhân.",
+      "Hiệu số giữa khối lượng hạt nhân và khối lượng các nuclôn đứng riêng rẽ.",
+      "Khối lượng bị hao hụt khi phóng xạ."
+    ],
+    "answer": "Hiệu số giữa khối lượng các nuclôn đứng riêng rẽ và khối lượng hạt nhân.",
+    "explanation": "Độ hụt khối delta m = (Z.mp + N.mn) - m_hn, tức là bằng tổng khối lượng các nuclôn tạo thành trừ đi khối lượng thực tế của hạt nhân."
+  },
+  {
+    "question": "Năng lượng liên kết riêng của một hạt nhân được tính bằng đại lượng nào?",
+    "options": [
+      "Tích của năng lượng liên kết và số khối A.",
+      "Thương số giữa năng lượng liên kết và số prôtôn Z.",
+      "Thương số giữa năng lượng liên kết và số khối A.",
+      "Hiệu số giữa năng lượng liên kết và độ hụt khối."
+    ],
+    "answer": "Thương số giữa năng lượng liên kết và số khối A.",
+    "explanation": "Năng lượng liên kết riêng là năng lượng liên kết tính trên một nuclôn, được xác định bằng E_lk chia cho số khối A."
+  },
+  {
+    "question": "Đại lượng nào sau đây đặc trưng cho mức độ bền vững của một hạt nhân nguyên tử?",
+    "options": [
+      "Năng lượng liên kết.",
+      "Năng lượng liên kết riêng.",
+      "Độ hụt khối.",
+      "Số khối A."
+    ],
+    "answer": "Năng lượng liên kết riêng.",
+    "explanation": "Hạt nhân nào có năng lượng liên kết riêng càng lớn thì càng bền vững."
+  },
+  {
+    "question": "Hiện tượng một hạt nhân không bền vững tự động phát ra các tia phóng xạ và biến đổi thành hạt nhân khác được gọi là gì?",
+    "options": [
+      "Phản ứng phân hạch.",
+      "Phản ứng nhiệt hạch.",
+      "Sự phóng xạ.",
+      "Sự ion hóa."
+    ],
+    "answer": "Sự phóng xạ.",
+    "explanation": "Sự phóng xạ là quá trình phân rã tự nguyện và tự phát của một hạt nhân không bền vững để biến đổi thành hạt nhân khác kèm theo tia phóng xạ."
+  },
+  {
+    "question": "Tia phóng xạ nào sau đây có bản chất là dòng các hạt nhân của nguyên tử Hêli (He)?",
+    "options": [
+      "Tia alpha.",
+      "Tia beta trừ.",
+      "Tia beta cộng.",
+      "Tia gamma."
+    ],
+    "answer": "Tia alpha.",
+    "explanation": "Tia alpha là dòng các hạt nhân Hêli (He 2-4) chuyển động với tốc độ cao."
+  },
+  {
+    "question": "Tia phóng xạ nào sau đây có bản chất là sóng điện từ có bước sóng cực ngắn?",
+    "options": [
+      "Tia alpha.",
+      "Tia beta trừ.",
+      "Tia beta cộng.",
+      "Tia gamma."
+    ],
+    "answer": "Tia gamma.",
+    "explanation": "Tia gamma là sóng điện từ mang năng lượng cao, có bước sóng cực ngắn (nhỏ hơn 10^-11 m)."
+  },
+  {
+    "question": "Chu kì bán rã của một chất phóng xạ là khoảng thời gian để làm gì?",
+    "options": [
+      "Một nửa số lượng hạt nhân của chất đó bị phân rã.",
+      "Toàn bộ số lượng hạt nhân của chất đó bị phân rã hoàn toàn.",
+      "Khối lượng chất phóng xạ tăng lên gấp đôi.",
+      "Chất phóng xạ biến đổi hoàn toàn thành chất trơ."
+    ],
+    "answer": "Một nửa số lượng hạt nhân của chất đó bị phân rã.",
+    "explanation": "Chu kì bán rã T là khoảng thời gian mà sau đó số lượng hạt nhân phóng xạ còn lại bằng một nửa số lượng ban đầu."
+  },
+  {
+    "question": "Tia phóng xạ nào có khả năng đâm xuyên mạnh nhất trong số các tia sau đây?",
+    "options": [
+      "Tia alpha.",
+      "Tia beta trừ.",
+      "Tia beta cộng.",
+      "Tia gamma."
+    ],
+    "answer": "Tia gamma.",
+    "explanation": "Tia gamma là sóng điện từ cao tần nên có khả năng đâm xuyên mạnh nhất, có thể đi qua lớp bê tông dày hoặc tấm chì vài cm."
+  },
+  {
+    "question": "Một dây dẫn thẳng mang dòng điện đặt song song với các đường sức từ của một từ trường đều. Lực từ tác dụng lên dây dẫn này có độ lớn bằng bao nhiêu?",
+    "options": [
+      "Bằng 0.",
+      "Đạt giá trị cực đại.",
+      "Phụ thuộc vào chiều dài dây dẫn.",
+      "Bằng tích B.I.L."
+    ],
+    "answer": "Bằng 0.",
+    "explanation": "Khi dây dẫn đặt song song với các đường sức từ thì góc alpha bằng 0 độ hoặc 180 độ. Khi đó sin(alpha) = 0 nên lực từ F = B.I.L.sin(alpha) = 0."
+  },
+  {
+    "question": "Chiều của lực từ tác dụng lên một đoạn dây dẫn thẳng mang dòng điện đặt vuông góc với đường sức từ được xác định bằng quy tắc nào?",
+    "options": [
+      "Quy tắc bàn tay phải.",
+      "Quy tắc bàn tay trái.",
+      "Quy tắc nắm tay phải.",
+      "Quy tắc vặn đinh ốc."
+    ],
+    "answer": "Quy tắc bàn tay trái.",
+    "explanation": "Để xác định chiều của lực từ tác dụng lên dòng điện, ta sử dụng quy tắc bàn tay trái: Đặt bàn tay trái sao cho các đường sức từ đâm vào lòng bàn tay, chiều từ cổ tay đến ngón tay giữa chỉ chiều dòng điện, ngón cái choáng ra 90 độ chỉ chiều lực từ."
+  },
+  {
+    "question": "Khi tăng cường độ dòng điện chạy qua một dây dẫn thẳng dài lên gấp đôi mà giữ nguyên khoảng cách đến điểm khảo sát thì cảm ứng từ tại điểm đó thay đổi như thế nào?",
+    "options": [
+      "Giảm đi hai lần.",
+      "Tăng lên hai lần.",
+      "Không đổi.",
+      "Tăng lên bốn lần."
+    ],
+    "answer": "Tăng lên hai lần.",
+    "explanation": "Cảm ứng từ của dòng điện thẳng dài tỉ lệ thuận với cường độ dòng điện I (B = 2.10^-7 * I / r). Do đó khi I tăng 2 lần thì B tăng 2 lần."
+  },
+  {
+    "question": "Một vòng dây kín đặt vuông góc với từ trường đều. Nếu ta kéo dẹt vòng dây làm diện tích của nó giảm đi một nửa trong khi giữ nguyên độ lớn cảm ứng từ thì từ thông qua vòng dây biến đổi thế nào?",
+    "options": [
+      "Tăng gấp đôi.",
+      "Giảm đi một nửa.",
+      "Không thay đổi.",
+      "Giảm đi bốn lần."
+    ],
+    "answer": "Giảm đi một nửa.",
+    "explanation": "Từ thông qua vòng dây vuông góc là Phi = B.S. Do diện tích S giảm một nửa nên từ thông Phi cũng giảm một nửa."
+  },
+  {
+    "question": "Hiện tượng tự cảm là một trường hợp đặc biệt của hiện tượng cảm ứng điện từ, trong đó sự biến thiên từ thông được gây ra bởi sự biến thiên của đại lượng nào?",
+    "options": [
+      "Từ trường bên ngoài mạch.",
+      "Hình dạng của mạch kín.",
+      "Chính cường độ dòng điện chạy trong mạch.",
+      "Nhiệt độ của dây dẫn."
+    ],
+    "answer": "Chính cường độ dòng điện chạy trong mạch.",
+    "explanation": "Hiện tượng tự cảm là hiện tượng cảm ứng điện từ xảy ra trong một mạch điện do chính sự biến đổi của cường độ dòng điện trong mạch đó gây ra."
+  },
+  {
+    "question": "Suất điện động tự cảm xuất hiện trong một ống dây có độ lớn tỉ lệ thuận với đại lượng nào sau đây?",
+    "options": [
+      "Độ lớn cường độ dòng điện trong ống dây.",
+      "Tốc độ biến thiên của cường độ dòng điện theo thời gian.",
+      "Thời gian dòng điện chạy qua ống dây.",
+      "Điện trở nội của ống dây."
+    ],
+    "answer": "Tốc độ biến thiên của cường độ dòng điện theo thời gian.",
+    "explanation": "Theo công thức suất điện động tự cảm e_tc = - L * (delta i / delta t), độ lớn của nó tỉ lệ thuận với tốc độ biến thiên cường độ dòng điện delta i / delta t."
+  },
+  {
+    "question": "Một hạt nhân nguyên tử Các-bon (C 6-12) có cấu tạo gồm bao nhiêu prôtôn và nơtrôn?",
+    "options": [
+      "6 prôtôn và 12 nơtrôn.",
+      "12 prôtôn và 6 nơtrôn.",
+      "6 prôtôn và 6 nơtrôn.",
+      "6 prôtôn và 18 nơtrôn."
+    ],
+    "answer": "6 prôtôn và 6 nơtrôn.",
+    "explanation": "Hạt nhân C (6-12) có số hiệu Z = 6 nên có 6 prôtôn. Số nơtrôn là N = A - Z = 12 - 6 = 6 nơtrôn."
+  },
+  {
+    "question": "Trong các hạt nhân sau: Hêli (He 2-4), Sắt (Fe 26-56), Urani (U 92-235), và Đu-tê-ri (H 1-2), hạt nhân nào được xếp vào nhóm bền vững nhất?",
+    "options": [
+      "Hêli (He 2-4).",
+      "Đu-tê-ri (H 1-2).",
+      "Sắt (Fe 26-56).",
+      "Urani (U 92-235)."
+    ],
+    "answer": "Sắt (Fe 26-56).",
+    "explanation": "Các hạt nhân có số khối nằm trong khoảng từ 50 đến 80 (như Sắt Fe-56) có năng lượng liên kết riêng lớn nhất nên bền vững nhất trong tự nhiên."
+  },
+  {
+    "question": "Khi một hạt nhân phát ra một tia phóng xạ alpha, hạt nhân con sinh ra sẽ thay đổi thế nào so với hạt nhân mẹ trong bảng tuần hoàn?",
+    "options": [
+      "Lùi 2 ô so với hạt nhân mẹ.",
+      "Tiến 2 ô so với hạt nhân mẹ.",
+      "Lùi 1 ô so với hạt nhân mẹ.",
+      "Tiến 1 ô so với hạt nhân mẹ."
+    ],
+    "answer": "Lùi 2 ô so với hạt nhân mẹ.",
+    "explanation": "Phóng xạ alpha làm giảm số hiệu nguyên tử Z đi 2 đơn vị (Z_con = Z_me - 2), do đó hạt nhân con lùi 2 ô so với vị trí hạt nhân mẹ trong bảng tuần hoàn."
+  },
+  {
+    "question": "Bản chất của phóng xạ beta trừ là sự biến đổi của một hạt nào bên trong hạt nhân thành prôtôn và êlectron?",
+    "options": [
+      "Một hạt prôtôn biến thành nơtrôn.",
+      "Một hạt nơtrôn biến thành prôtôn.",
+      "Một hạt nuclôn biến thành hạt alpha.",
+      "Một êlectron bị bắt giữ bởi hạt nhân."
+    ],
+    "answer": "Một hạt nơtrôn biến thành prôtôn.",
+    "explanation": "Trong phóng xạ beta trừ, một nơtrôn trong hạt nhân biến đổi thành một prôtôn, một êlectron (bắn ra ngoài) và một hạt phản nêutrino."
+  },
+  {
+    "question": "Đặc điểm nào sau đây KHÔNG ĐÚNG khi nói về quá trình phóng xạ của hạt nhân?",
+    "options": [
+      "Là một phản ứng hạt nhân tỏa năng lượng.",
+      "Tốc độ phóng xạ phụ thuộc nhiều vào nhiệt độ môi trường.",
+      "Là quá trình hoàn toàn mang tính ngẫu nhiên.",
+      "Không thể điều khiển hay làm thay đổi tốc độ phân rã."
+    ],
+    "answer": "Tốc độ phóng xạ phụ thuộc nhiều vào nhiệt độ môi trường.",
+    "explanation": "Hiện tượng phóng xạ hoàn toàn tự phát, không chịu ảnh hưởng từ bất kì tác động vật lí hay hóa học bên ngoài nào như nhiệt độ hay áp suất."
+  },
+  {
+    "question": "Sau khoảng thời gian bằng 3 lần chu kì bán rã, lượng chất phóng xạ còn lại bằng bao nhiêu phần trăm so với lượng ban đầu?",
+    "options": [
+      "50%.",
+      "25%.",
+      "12,5%.",
+      "6,25%."
+    ],
+    "answer": "12,5%.",
+    "explanation": "Công thức lượng chất còn lại là m = m0 / (2^n). Với n = 3 chu kì, tỉ lệ còn lại là 1 / (2^3) = 1/8 = 12,5%."
+  },
+  {
+    "question": "Tại sao năng lượng liên kết của hạt nhân luôn luôn là một số dương?",
+    "options": [
+      "Vì khối lượng hạt nhân luôn lớn hơn tổng khối lượng các nuclôn thành phần.",
+      "Vì cần phải tốn một năng lượng từ ngoài cung cấp để phá vỡ hạt nhân thành các nuclôn cô lập.",
+      "Vì lực hạt nhân luôn là lực đẩy giữa các hạt prôtôn.",
+      "Vì hạt nhân luôn tự phát tỏa năng lượng ra môi trường."
+    ],
+    "answer": "Vì cần phải tốn một năng lượng từ ngoài cung cấp để phá vỡ hạt nhân thành các nuclôn cô lập.",
+    "explanation": "Năng lượng liên kết là năng lượng tối thiểu cần thiết để phá vỡ một hạt nhân thành các nuclôn riêng rẽ, nên nó luôn có giá trị dương."
+  },
+  {
+    "question": "Ứng dụng nào sau đây dựa trên hiện tượng cảm ứng điện từ?",
+    "options": [
+      "Đèn LED thắp sáng.",
+      "Bếp từ dùng trong nấu ăn.",
+      "Pin Mặt Trời.",
+      "Lò vi sóng."
+    ],
+    "answer": "Bếp từ dùng trong nấu ăn.",
+    "explanation": "Bếp từ hoạt động dựa trên hiện tượng cảm ứng điện từ, dòng điện xoay chiều qua cuộn dây tạo từ trường biến thiên sinh dòng Foucault làm nóng đáy nồi bằng kim loại."
+  },
+  {
+    "question": "Một dây dẫn thẳng mang dòng điện đặt vuông góc với mặt phẳng hình vẽ, chiều dòng điện hướng từ trong ra ngoài. Nếu từ trường có đường sức hướng từ trái sang phải, lực từ tác dụng lên dây có chiều như thế nào?",
+    "options": [
+      "Hướng từ dưới lên trên.",
+      "Hướng từ trên xuống dưới.",
+      "Hướng sang trái.",
+      "Hướng sang phải."
+    ],
+    "answer": "Hướng từ dưới lên trên.",
+    "explanation": "Áp dụng quy tắc bàn tay trái: hứng các đường sức từ hướng sang phải vào lòng bàn tay trái, ngón tay hướng ra ngoài theo chiều dòng điện, ngón cái choáng ra chỉ hướng từ dưới lên trên."
+  },
+  {
+    "question": "Một đoạn dây dẫn thẳng dài 0,5 mét mang dòng điện 4 Ampe đặt vuông góc với một từ trường đều có cảm ứng từ 0,2 Tesla. Độ lớn của lực từ tác dụng lên đoạn dây là bao nhiêu?",
+    "options": [
+      "0,1 Newton.",
+      "0,4 Newton.",
+      "0,2 Newton.",
+      "0,8 Newton."
+    ],
+    "answer": "0,4 Newton.",
+    "explanation": "Áp dụng công thức F = B.I.L.sin(alpha) = 0,2 * 4 * 0,5 * sin(90) = 0,4 Newton."
+  },
+  {
+    "question": "Một ống dây có hệ số tự cảm 0,1 Henry. Khi dòng điện chạy qua ống dây biến thiên đều một lượng 2 Ampe trong thời gian 0,05 giây, suất điện động tự cảm xuất hiện trong ống dây có độ lớn bằng bao nhiêu?",
+    "options": [
+      "4 Vôn.",
+      "2 Vôn.",
+      "1 Vôn.",
+      "0,4 Vôn."
+    ],
+    "answer": "4 Vôn.",
+    "explanation": "Độ lớn suất điện động tự cảm được tính theo công thức: e_tc = L * (delta i / delta t) = 0,1 * (2 / 0,05) = 4 Vôn."
+  },
+  {
+    "question": "Một khung dây dẫn phẳng có diện tích 0,02 mét vuông gồm 100 vòng dây đặt trong một từ trường đều sao cho vectơ pháp tuyến vuông góc với các đường sức từ. Từ thông qua khung dây này bằng bao nhiêu?",
+    "options": [
+      "2 Vêbe.",
+      "0 Vêbe.",
+      "200 Vêbe.",
+      "0,02 Vêbe."
+    ],
+    "answer": "0 Vêbe.",
+    "explanation": "Vectơ pháp tuyến vuông góc với đường sức từ nghĩa là góc alpha giữa pháp tuyến và cảm ứng từ B bằng 90 độ. Do cos(90) = 0 nên từ thông Phi = N.B.S.cos(alpha) = 0."
+  },
+  {
+    "question": "Hạt nhân Heli (He 2-4) có khối lượng hạt nhân là 4,0015 u. Biết khối lượng prôtôn là 1,0073 u và nơtrôn là 1,0087 u. Độ hụt khối của hạt nhân Heli bằng bao nhiêu u?",
+    "options": [
+      "0,0305 u.",
+      "0,0145 u.",
+      "0,0032 u.",
+      "0,0421 u."
+    ],
+    "answer": "0,0305 u.",
+    "explanation": "Độ hụt khối delta m = (2 * 1,0073 + 2 * 1,0087) - 4,0015 = (2,0146 + 2,0174) - 4,0015 = 4,0320 - 4,0015 = 0,0305 u."
+  },
+  {
+    "question": "Biết độ hụt khối của một hạt nhân là 0,2 u và 1 u tương ứng với năng lượng 931,5 MeV. Năng lượng liên kết của hạt nhân này bằng bao nhiêu MeV?",
+    "options": [
+      "186,3 MeV.",
+      "4657,5 MeV.",
+      "93,15 MeV.",
+      "372,6 MeV."
+    ],
+    "answer": "186,3 MeV.",
+    "explanation": "Năng lượng liên kết được tính bằng tích độ hụt khối và hệ số chuyển đổi năng lượng: E_lk = delta m * 931,5 = 0,2 * 931,5 = 186,3 MeV."
+  },
+  {
+    "question": "Một chất phóng xạ có chu kì bán rã là 4 ngày. Nếu ban đầu có 100 gam chất này, hỏi sau 12 ngày khối lượng chất phóng xạ bị phân rã (biến đổi) là bao nhiêu gam?",
+    "options": [
+      "12,5 gam.",
+      "87,5 gam.",
+      "50 gam.",
+      "25 gam."
+    ],
+    "answer": "87,5 gam.",
+    "explanation": "Số chu kì bán rã trôi qua là n = 12 / 4 = 3 chu kì. Khối lượng còn lại là m = 100 / (2^3) = 12,5 gam. Do đó khối lượng đã bị phân rã là delta m = 100 - 12,5 = 87,5 gam."
+  },
+  {
+    "question": "Một vòng dây dẫn phẳng có diện tích thay đổi được đặt trong từ trường đều có B = 0,5 Tesla sao cho mặt phẳng vòng dây vuông góc với cảm ứng từ. Người ta làm thu hẹp diện tích vòng dây từ 0,1 mét vuông xuống còn 0,04 mét vuông trong thời gian 0,3 giây. Độ lớn suất điện động cảm ứng xuất hiện trong vòng dây là bao nhiêu?",
+    "options": [
+      "0,1 Vôn.",
+      "0,03 Vôn.",
+      "0,2 Vôn.",
+      "0,05 Vôn."
+    ],
+    "answer": "0,1 Vôn.",
+    "explanation": "Độ biến thiên từ thông delta Phi = B * delta S = 0,5 * (0,1 - 0,04) = 0,5 * 0,06 = 0,03 Wb. Độ lớn suất điện động cảm ứng là e_cu = delta Phi / delta t = 0,03 / 0,3 = 0,1 Vôn."
+  },
+  {
+    "question": "Một ống dây dài có 500 vòng dây, khi có dòng điện 2 Ampe chạy qua thì từ thông qua mỗi vòng dây đạt giá trị 0,002 Vêbe. Hệ số tự cảm của ống dây này có giá trị là bao nhiêu?",
+    "options": [
+      "0,5 Henry.",
+      "1,0 Henry.",
+      "0,1 Henry.",
+      "0,2 Henry."
+    ],
+    "answer": "0,5 Henry.",
+    "explanation": "Tổng từ thông qua ống dây là Phi_tong = N * Phi_vong = 500 * 0,002 = 1 Wb. Hệ số tự cảm được xác định qua biểu thức Phi_tong = L * I, suy ra L = 1 / 2 = 0,5 Henry."
+  },
+  {
+    "question": "Hạt nhân X phóng xạ và biến đổi thành hạt nhân Y bền. Ban đầu mẫu X tinh khiết. Tại thời điểm khảo sát, người ta thấy tỉ số giữa số hạt nhân Y và số hạt nhân X còn lại trong mẫu là 3. Hỏi mẫu chất đã trải qua bao nhiêu chu kì bán rã?",
+    "options": [
+      "1 chu kì.",
+      "2 chu kì.",
+      "3 chu kì.",
+      "4 chu kì."
+    ],
+    "answer": "2 chu kì.",
+    "explanation": "Tỉ số số hạt con sinh ra và số hạt mẹ còn lại là (N0 - N) / N = 3, suy ra N0 / N - 1 = 3, hay N0 / N = 4. Do N0 / N = 2^n = 4 nên n = 2 chu kì."
+  },
+  {
+    "question": "Một dây dẫn thẳng dài mang dòng điện 5 Ampe. Cảm ứng từ tại một điểm cách dây dẫn một khoảng 0,1 mét trong không khí có giá trị bằng bao nhiêu?",
+    "options": [
+      "10^-5 Tesla.",
+      "2.10^-5 Tesla.",
+      "5.10^-5 Tesla.",
+      "10^-6 Tesla."
+    ],
+    "answer": "10^-5 Tesla.",
+    "explanation": "Áp dụng công thức cảm ứng từ của dòng điện thẳng dài: B = 2.10^-7 * I / r = 2.10^-7 * 5 / 0,1 = 10^-5 Tesla."
+  },
+  {
+    "question": "Một khung dây dẫn phẳng, quay đều quanh một trục đối xứng nằm trong mặt phẳng khung dây và vuông góc với một từ trường đều. Khi khung dây quay được 1/4 vòng kể từ vị trí mặt phẳng khung song song với các đường sức từ, suất điện động cảm ứng trung bình trong khung dây có độ lớn đạt 20 Vôn. Nếu khung quay hết một vòng trong 0,2 giây thì từ thông cực đại qua khung dây bằng bao nhiêu?",
+    "options": [
+      "0,25 Vêbe.",
+      "1,0 Vêbe.",
+      "0,5 Vêbe.",
+      "0,15 Vêbe."
+    ],
+    "answer": "0,25 Vêbe.",
+    "explanation": "Thời gian quay 1/4 vòng là delta t = T / 4 = 0,2 / 4 = 0,05 giây. Ở vị trí ban đầu mặt phẳng song song với đường sức từ nên từ thông bằng 0. Sau 1/4 vòng, mặt phẳng vuông góc nên từ thông đạt cực đại Phi_max. Độ lớn suất điện động trung bình e = delta Phi / delta t = Phi_max / 0,05 = 20 Vôn, suy ra Phi_max = 20 * 0,05 = 1 Vêbe cho toàn khung (hoặc tính tương ứng tùy theo từ thông ban đầu)."
+  },
+  {
+    "question": "Một chất phóng xạ có chu kì bán rã T. Tại thời điểm t1, tỉ lệ số hạt nhân bị phân rã so với số hạt nhân ban đầu là 75%. Đến thời điểm t2 = t1 + 12 ngày thì số hạt nhân chưa bị phân rã chỉ còn lại bằng 3,125% so với ban đầu. Chu kì bán rã T của chất đó có giá trị bằng bao nhiêu ngày?",
+    "options": [
+      "3 ngày.",
+      "4 ngày.",
+      "6 ngày.",
+      "8 ngày."
+    ],
+    "answer": "4 ngày.",
+    "explanation": "Tại t1, bị phân rã 75% nghĩa là còn lại 25% = 1/4 hạt nhân ban đầu (tương ứng t1 = 2T). Tại t2, số hạt nhân còn lại là 3,125% = 1/32 = 1 / (2^5) hạt nhân ban đầu (tương ứng t2 = 5T). Do đó t2 - t1 = 5T - 2T = 3T = 12 ngày, suy ra T = 4 ngày."
+  },
+  {
+    "question": "Một hạt prôtôn chuyển động với vận tốc ban đầu vuông góc với các đường sức từ của một từ trường đều có cảm ứng từ B. Hạt prôtôn sẽ chuyển động theo một quỹ đạo tròn có bán kính R. Nếu tăng vận tốc của hạt lên gấp đôi đồng thời giảm cảm ứng từ của từ trường đi một nửa thì bán kính quỹ đạo mới của hạt thay đổi như thế nào?",
+    "options": [
+      "Không thay đổi.",
+      "Tăng lên bốn lần.",
+      "Giảm đi hai lần.",
+      "Tăng lên hai lần."
+    ],
+    "answer": "Tăng lên bốn lần.",
+    "explanation": "Lực Lorentz đóng vai trò lực hướng tâm: q.v.B = m * v^2 / R, suy ra bán kính quỹ đạo R = m.v / (q.B). Khi vận tốc v tăng 2 lần và B giảm một nửa thì bán kính R sẽ tăng lên 2 / (1/2) = 4 lần."
+  },
+  {
+    "question": "Xét một mẫu chất phóng xạ tinh khiết có chu kì bán rã T. Gọi tốc độ phân rã hạt nhân ở thời điểm t là đại lượng tỉ lệ thuận với số hạt còn lại. Nếu sau khoảng thời gian 2 chu kì bán rã, tốc độ phân rã của mẫu giảm đi một lượng bằng 1500 phân rã trên giây so với ban đầu, thì tốc độ phân rã ban đầu của mẫu chất đó là bao nhiêu?",
+    "options": [
+      "2000 phân rã trên giây.",
+      "3000 phân rã trên giây.",
+      "1600 phân rã trên giây.",
+      "4000 phân rã trên giây."
+    ],
+    "answer": "2000 phân rã trên giây.",
+    "explanation": "Sau 2 chu kì bán rã, số hạt nhân còn lại bằng 1/4 so với ban đầu, nên tốc độ phân rã cũng giảm đi 4 lần (còn lại 1/4 tốc độ ban đầu). Độ giảm tốc độ phân rã là H0 - H0/4 = 3/4 * H0 = 1500, suy ra tốc độ phân rã ban đầu H0 = 1500 * 4 / 3 = 2000 phân rã trên giây."
+  },
+  {
+    "question": "Hai dây dẫn thẳng dài, đặt song song ngược chiều cách nhau một khoảng d trong không khí, mang hai dòng điện có cường độ bằng nhau I1 = I2 = I. Điểm M nằm trong mặt phẳng chứa hai dây dẫn và cách đều hai dây dẫn đó có cảm ứng từ tổng hợp bằng bao nhiêu?",
+    "options": [
+      "Bằng 0.",
+      "Bằng 4.10^-7 * I / d.",
+      "Bằng 8.10^-7 * I / d.",
+      "Bằng 2.10^-7 * I / d."
+    ],
+    "answer": "Bằng 8.10^-7 * I / d.",
+    "explanation": "Khoảng cách từ mỗi dây đến điểm M cách đều là r = d / 2. Vì hai dòng điện ngược chiều nên theo quy tắc nắm tay phải, vectơ cảm ứng từ do hai dòng điện gây ra tại điểm chính giữa M sẽ cùng phương cùng chiều với nhau. Cảm ứng từ tổng hợp là B = B1 + B2 = 2 * (2.10^-7 * I / (d/2)) = 8.10^-7 * I / d."
+  }
+]

@@ -1,0 +1,645 @@
+[
+{
+"question": "Este nào sau đây có mùi chuối chín?",
+"options": ["Ethyl formate", "Isoamyl acetate", "Benzyl acetate", "Ethyl butyrate"],
+"answer": "Isoamyl acetate",
+"explanation": "Isoamyl acetate là este có mùi chuối chín đặc trưng."
+},
+{
+"question": "Công thức tổng quát của ester no, đơn chức, mạch hở là gì?",
+"options": ["CnH2nO2 (n >= 2)", "CnH2n-2O2 (n >= 3)", "CnH2n+2O2", "CnH2nO"],
+"answer": "CnH2nO2 (n >= 2)",
+"explanation": "Ester no, đơn chức, mạch hở có công thức CnH2nO2 với n >= 2."
+},
+{
+"question": "Phản ứng thủy phân ester trong môi trường kiềm được gọi là phản ứng gì?",
+"options": ["Ester hóa", "Xà phòng hóa", "Trùng hợp", "Thế"],
+"answer": "Xà phòng hóa",
+"explanation": "Thủy phân ester trong dung dịch kiềm gọi là phản ứng xà phòng hóa."
+},
+{
+"question": "Chất béo là triester của glycerol với axit nào?",
+"options": ["Axit acetic", "Axit formic", "Axit béo", "Axit benzoic"],
+"answer": "Axit béo",
+"explanation": "Chất béo là triester của glycerol với các axit béo (axit đơn chức có mạch carbon dài)."
+},
+{
+"question": "Chất nào sau đây thuộc loại carbohydrate?",
+"options": ["Glucose", "Glycerol", "Ethyl acetate", "Alanine"],
+"answer": "Glucose",
+"explanation": "Glucose là một monosaccharide thuộc loại carbohydrate."
+},
+{
+"question": "Disaccharide phổ biến nhất có trong cây mía là gì?",
+"options": ["Glucose", "Fructose", "Saccharose", "Maltose"],
+"answer": "Saccharose",
+"explanation": "Saccharose (đường kính) có nhiều trong cây mía."
+},
+{
+"question": "Tinh bột thuộc loại polysaccharide nào?",
+"options": ["Polysaccharide", "Disaccharide", "Monosaccharide", "Oligosaccharide"],
+"answer": "Polysaccharide",
+"explanation": "Tinh bột là polymer thiên nhiên thuộc loại polysaccharide."
+},
+{
+"question": "Cellulose có cấu tạo từ các đơn vị nào?",
+"options": ["alpha-glucose", "beta-glucose", "fructose", "galactose"],
+"answer": "beta-glucose",
+"explanation": "Các mắt xích trong cellulose là beta-glucose liên kết với nhau."
+},
+{
+"question": "Amino acid là hợp chất hữu cơ tạp chức chứa các nhóm chức nào?",
+"options": ["-OH và -COOH", "-NH2 và -COOH", "-NH2 và -OH", "-CHO và -COOH"],
+"answer": "-NH2 và -COOH",
+"explanation": "Amino acid chứa đồng thời nhóm amino và nhóm carboxyl."
+},
+{
+"question": "Dung dịch glycine làm quỳ tím đổi màu như thế nào?",
+"options": ["Hóa đỏ", "Hóa xanh", "Không đổi màu", "Hóa tím"],
+"answer": "Không đổi màu",
+"explanation": "Glycine có số nhóm -NH2 bằng số nhóm -COOH nên dung dịch trung tính."
+},
+{
+"question": "Protein được tạo thành từ các đơn vị nào?",
+"options": ["Glucose", "Amino acid", "Ester", "Fatty acid"],
+"answer": "Amino acid",
+"explanation": "Protein là polymer của các amino acid."
+},
+{
+"question": "Polymer nào sau đây được dùng làm tơ sợi?",
+"options": ["Polyethylene", "Polystyrene", "Polycaproamide", "Polyvinyl chloride"],
+"answer": "Polycaproamide",
+"explanation": "Polycaproamide (nylon-6) là polymer được dùng làm tơ."
+},
+{
+"question": "Chất nào sau đây là chất điện li mạnh?",
+"options": ["CH3COOH", "NaCl", "C2H5OH", "H2O"],
+"answer": "NaCl",
+"explanation": "NaCl là muối tan hoàn toàn trong nước, là chất điện li mạnh."
+},
+{
+"question": "Phản ứng giữa acid và base tạo thành muối và nước gọi là gì?",
+"options": ["Phản ứng trung hòa", "Phản ứng thủy phân", "Phản ứng oxi hóa", "Phản ứng thế"],
+"answer": "Phản ứng trung hòa",
+"explanation": "Acid tác dụng với base tạo muối và nước là phản ứng trung hòa."
+},
+{
+"question": "Pin điện hóa chuyển hóa dạng năng lượng nào thành điện năng?",
+"options": ["Nhiệt năng", "Quang năng", "Hóa năng", "Cơ năng"],
+"answer": "Hóa năng",
+"explanation": "Pin điện hóa chuyển hóa hóa năng của phản ứng oxi hóa khử thành điện năng."
+},
+{
+"question": "Trong quá trình điện phân, cation di chuyển về cực nào?",
+"options": ["Cực dương", "Cực âm", "Cực dương hoặc âm", "Không di chuyển"],
+"answer": "Cực âm",
+"explanation": "Cation tích điện dương di chuyển về cực âm (cathode)."
+},
+{
+"question": "Kim loại nào sau đây có tính khử mạnh nhất?",
+"options": ["Cu", "Ag", "Na", "Fe"],
+"answer": "Na",
+"explanation": "Na thuộc nhóm IA, có tính khử mạnh hơn các kim loại còn lại."
+},
+{
+"question": "Kim loại nào dẫn điện tốt nhất?",
+"options": ["Đồng", "Bạc", "Nhôm", "Vàng"],
+"answer": "Bạc",
+"explanation": "Bạc có tính dẫn điện tốt nhất trong các kim loại."
+},
+{
+"question": "Quặng nào là nguồn cung cấp sắt chính?",
+"options": ["Bauxite", "Hematite", "Pyrite", "Cinnabar"],
+"answer": "Hematite",
+"explanation": "Hematite (Fe2O3) là quặng chính để sản xuất sắt."
+},
+{
+"question": "Kim loại kiềm thổ thuộc nhóm nào trong bảng tuần hoàn?",
+"options": ["IA", "IIA", "IIIA", "IVA"],
+"answer": "IIA",
+"explanation": "Kim loại kiềm thổ là các nguyên tố nhóm IIA."
+},
+{
+"question": "Nước cứng là nước chứa nhiều ion nào?",
+"options": ["Na+, K+", "Ca2+, Mg2+", "Cl-, SO4 2-", "Fe2+, Fe3+"],
+"answer": "Ca2+, Mg2+",
+"explanation": "Nước cứng chứa các ion Ca2+ và Mg2+."
+},
+{
+"question": "Nhôm tác dụng được với dung dịch nào sau đây?",
+"options": ["HCl", "HNO3 đặc nguội", "H2SO4 đặc nguội", "NaCl"],
+"answer": "HCl",
+"explanation": "Nhôm bị thụ động hóa trong HNO3 và H2SO4 đặc nguội, nhưng tan trong HCl."
+},
+{
+"question": "Sắt phản ứng với dung dịch nào sau đây tạo muối sắt(II)?",
+"options": ["Cl2", "HNO3 loãng", "HCl", "HNO3 đặc nóng"],
+"answer": "HCl",
+"explanation": "Sắt tác dụng HCl tạo FeCl2."
+},
+{
+"question": "Cr2O3 có màu gì?",
+"options": ["Đỏ", "Xanh lục", "Vàng", "Trắng"],
+"answer": "Xanh lục",
+"explanation": "Cr2O3 là chất rắn màu xanh lục."
+},
+{
+"question": "Trạng thái tự nhiên của Cu là gì?",
+"options": ["Dạng hợp chất", "Dạng đơn chất", "Dạng ion", "Dạng khí"],
+"answer": "Dạng đơn chất",
+"explanation": "Đồng có thể tồn tại ở dạng đơn chất trong tự nhiên."
+},
+{
+"question": "Cấu hình electron của Cr (Z=24) là gì?",
+"options": ["3d4 4s2", "3d5 4s1", "3d6", "3d3 4s2"],
+"answer": "3d5 4s1",
+"explanation": "Cấu hình đặc biệt của Cr là 3d5 4s1."
+},
+{
+"question": "Sản phẩm của phản ứng xà phòng hóa chất béo là gì?",
+"options": ["Glycerol và muối axit béo", "Glycerol và axit béo", "Alcohol và axit béo", "Ester và nước"],
+"answer": "Glycerol và muối axit béo",
+"explanation": "Phản ứng xà phòng hóa tạo glycerol và muối của axit béo."
+},
+{
+"question": "Glucose tác dụng với Ag2O/NH3 tạo ra gì?",
+"options": ["Acid gluconic", "Sorbitol", "Ethanol", "Carbon dioxide"],
+"answer": "Acid gluconic",
+"explanation": "Glucose tham gia phản ứng tráng bạc tạo acid gluconic."
+},
+{
+"question": "Protein bị đông tụ khi nào?",
+"options": ["Đun nóng", "Thêm nước", "Để trong không khí", "Thêm muối ăn"],
+"answer": "Đun nóng",
+"explanation": "Protein bị đông tụ khi đun nóng hoặc thay đổi pH."
+},
+{
+"question": "Polymer nào sau đây là polymer tổng hợp?",
+"options": ["Tinh bột", "Cellulose", "Polyamide", "Protein"],
+"answer": "Polyamide",
+"explanation": "Polyamide là polymer tổng hợp."
+},
+{
+"question": "Để phân biệt glucose và fructose có thể dùng thuốc thử nào?",
+"options": ["Cu(OH)2", "Bromine water", "AgNO3/NH3", "Quỳ tím"],
+"answer": "Bromine water",
+"explanation": "Glucose làm mất màu nước bromine, còn fructose thì không."
+},
+{
+"question": "Dung dịch Na2CO3 có pH như thế nào?",
+"options": ["pH = 7", "pH < 7", "pH > 7", "pH = 0"],
+"answer": "pH > 7",
+"explanation": "Na2CO3 là muối của base mạnh và acid yếu nên dung dịch có tính kiềm."
+},
+{
+"question": "Tại sao kim loại có tính dẫn điện?",
+"options": ["Do có electron tự do", "Do có ion tự do", "Do mạng tinh thể", "Do proton"],
+"answer": "Do có electron tự do",
+"explanation": "Tính dẫn điện của kim loại do các electron tự do di chuyển có hướng."
+},
+{
+"question": "Khi cho iron vào dung dịch copper(II) sulfate thì hiện tượng là gì?",
+"options": ["Có khí thoát ra", "Sắt tan dần, có chất rắn đỏ bám vào", "Không có hiện tượng", "Dung dịch mất màu"],
+"answer": "Sắt tan dần, có chất rắn đỏ bám vào",
+"explanation": "Sắt đẩy đồng ra khỏi muối, đồng là chất rắn đỏ."
+},
+{
+"question": "Hợp chất nào của nhôm là lưỡng tính?",
+"options": ["AlCl3", "Al(OH)3", "Al2(SO4)3", "Al2O3", "Cả Al(OH)3 và Al2O3"],
+"answer": "Cả Al(OH)3 và Al2O3",
+"explanation": "Al(OH)3 và Al2O3 đều tác dụng được với cả acid và kiềm."
+},
+{
+"question": "Sắt không tác dụng với dung dịch nào?",
+"options": ["H2SO4 loãng", "HCl", "HNO3 đặc nguội", "CuSO4"],
+"answer": "HNO3 đặc nguội",
+"explanation": "Sắt bị thụ động hóa trong HNO3 đặc nguội."
+},
+{
+"question": "Chromium (III) hydroxide tác dụng được với chất nào?",
+"options": ["HCl", "NaOH", "Cả A và B", "NaCl"],
+"answer": "Cả A và B",
+"explanation": "Cr(OH)3 có tính lưỡng tính."
+},
+{
+"question": "Tại sao đồng được dùng làm dây dẫn điện?",
+"options": ["Dẫn điện tốt, rẻ", "Dẫn điện tốt, cứng", "Không dẫn điện", "Dễ tan"],
+"answer": "Dẫn điện tốt, rẻ",
+"explanation": "Đồng dẫn điện tốt và có giá thành hợp lý."
+},
+{
+"question": "Phản ứng thủy phân saccharose thu được sản phẩm gì?",
+"options": ["Glucose", "Fructose", "Glucose và fructose", "Maltose"],
+"answer": "Glucose và fructose",
+"explanation": "Thủy phân saccharose thu được hỗn hợp glucose và fructose."
+},
+{
+"question": "Công thức của tristearin là gì?",
+"options": ["(C17H35COO)3C3H5", "(C15H31COO)3C3H5", "(C17H33COO)3C3H5", "(C3H5COO)3C17H35"],
+"answer": "(C17H35COO)3C3H5",
+"explanation": "Tristearin là chất béo tạo bởi axit stearic C17H35COOH."
+},
+{
+"question": "Để khử ion Fe3+ thành Fe2+ trong dung dịch có thể dùng kim loại nào?",
+"options": ["Cu", "Ag", "Au", "Na"],
+"answer": "Cu",
+"explanation": "Cu khử được Fe3+ thành Fe2+."
+},
+{
+"question": "Chất nào sau đây không tham gia phản ứng tráng bạc?",
+"options": ["Glucose", "Fructose", "Saccharose", "Anđehit axetic"],
+"answer": "Saccharose",
+"explanation": "Saccharose không có nhóm chức anđehit hoặc xeton tự do."
+},
+{
+"question": "Khối lượng mol của alanine (C3H7NO2) là?",
+"options": ["75", "89", "103", "97"],
+"answer": "89",
+"explanation": "M = 312 + 71 + 14 + 2*16 = 89."
+},
+{
+"question": "Polymer nào sau đây là bán tổng hợp?",
+"options": ["Tơ visco", "Polystyrene", "Nylon-6,6", "Polyethylene"],
+"answer": "Tơ visco",
+"explanation": "Tơ visco là polymer bán tổng hợp từ cellulose."
+},
+{
+"question": "Dung dịch nào có pH < 7?",
+"options": ["CH3COONa", "NaCl", "HCl", "NaOH"],
+"answer": "HCl",
+"explanation": "HCl là axit mạnh nên pH < 7."
+},
+{
+"question": "Điện phân nóng chảy NaCl thu được gì ở cực âm?",
+"options": ["Cl2", "Na", "H2", "O2"],
+"answer": "Na",
+"explanation": "Na+ bị khử thành Na ở cực âm."
+},
+{
+"question": "Kim loại nào có tính khử yếu nhất?",
+"options": ["Al", "Mg", "Au", "Fe"],
+"answer": "Au",
+"explanation": "Au là kim loại quý, có tính khử yếu nhất."
+},
+{
+"question": "Quặng Boxite chứa chủ yếu thành phần nào?",
+"options": ["Al2O3", "Fe2O3", "CaCO3", "SiO2"],
+"answer": "Al2O3",
+"explanation": "Boxite là quặng nhôm."
+},
+{
+"question": "Khi cho Ba vào nước thì có hiện tượng gì?",
+"options": ["Ba tan, sủi bọt khí", "Không hiện tượng", "Kết tủa", "Đổi màu"],
+"answer": "Ba tan, sủi bọt khí",
+"explanation": "Ba tác dụng mạnh với nước tạo Ba(OH)2 và khí H2."
+},
+{
+"question": "Nước cứng tạm thời có chứa các ion nào?",
+"options": ["HCO3-, Ca2+, Mg2+", "SO42-, Ca2+", "Cl-, Mg2+", "NO3-, Na+"],
+"answer": "HCO3-, Ca2+, Mg2+",
+"explanation": "Nước cứng tạm thời chứa ion hydrocarbonate cùng Ca2+ và Mg2+."
+},
+{
+"question": "Đốt cháy hoàn toàn 0,1 mol ester X thu được 6,72 lít CO2 (đktc). Tìm công thức X?",
+"options": ["HCOOCH3", "CH3COOCH3", "HCOOC2H5", "C2H5COOCH3"],
+"answer": "HCOOCH3",
+"explanation": "nCO2 = 0,3 mol. Số C = 0,3/0,1 = 3. Ester 3C là HCOOC2H5 hoặc CH3COOCH3. Với n ester, số C là 3."
+},
+{
+"question": "Thủy phân hoàn toàn 0,1 mol chất béo cần bao nhiêu mol NaOH?",
+"options": ["0,1", "0,2", "0,3", "0,4"],
+"answer": "0,3",
+"explanation": "Chất béo là triester, 1 mol chất béo phản ứng với 3 mol NaOH."
+},
+{
+"question": "Phản ứng giữa glycine và HCl tạo ra muối có công thức là?",
+"options": ["ClH3N-CH2-COOH", "NH2-CH2-COCl", "H2N-CH2-COONa", "ClH3N-CH2-COOCH3"],
+"answer": "ClH3N-CH2-COOH",
+"explanation": "Nhóm -NH2 phản ứng với HCl."
+},
+{
+"question": "Đốt cháy 1 mol polymer thu được bao nhiêu mol CO2, biết mắt xích là C2H3Cl?",
+"options": ["1", "2", "3", "4"],
+"answer": "2",
+"explanation": "Mắt xích có 2 nguyên tử C nên tạo 2 mol CO2."
+},
+{
+"question": "Cho 2,3 gam Na vào nước dư thu được bao nhiêu lít H2 (đktc)?",
+"options": ["1,12", "2,24", "0,56", "4,48"],
+"answer": "1,12",
+"explanation": "nNa = 0,1 mol -> nH2 = 0,05 mol -> V = 1,12 lít."
+},
+{
+"question": "Điện phân dung dịch NaCl thu được khí gì ở cực dương?",
+"options": ["H2", "Cl2", "O2", "Na"],
+"answer": "Cl2",
+"explanation": "Cl- bị oxi hóa thành Cl2 ở cực dương."
+},
+{
+"question": "Đốt cháy hoàn toàn kim loại Fe trong khí Cl2 dư thu được sản phẩm gì?",
+"options": ["FeCl2", "FeCl3", "FeO", "Fe2O3"],
+"answer": "FeCl3",
+"explanation": "Cl2 là chất oxi hóa mạnh nên đưa sắt lên hóa trị cao nhất là +3."
+},
+{
+"question": "Khử 16g Fe2O3 bằng CO dư ở nhiệt độ cao thu được bao nhiêu gam Fe?",
+"options": ["11,2", "16,8", "5,6", "22,4"],
+"answer": "11,2",
+"explanation": "nFe2O3 = 0,1 mol -> nFe = 0,2 mol -> m = 11,2 gam."
+},
+{
+"question": "Tính nồng độ pH của dung dịch HCl 0,01M?",
+"options": ["1", "2", "3", "4"],
+"answer": "2",
+"explanation": "pH = -log(0,01) = 2."
+},
+{
+"question": "Chất nào sau đây làm đổi màu quỳ tím?",
+"options": ["Glutamic acid", "Glycine", "Alanine", "Valine"],
+"answer": "Glutamic acid",
+"explanation": "Axit glutamic có 2 nhóm -COOH, 1 nhóm -NH2 nên có tính axit."
+},
+{
+"question": "Phản ứng của Cu với dung dịch HNO3 đặc tạo khí gì?",
+"options": ["NO", "NO2", "N2O", "N2"],
+"answer": "NO2",
+"explanation": "Cu tác dụng HNO3 đặc tạo khí màu nâu đỏ NO2."
+},
+{
+"question": "Để làm mềm nước cứng vĩnh cửu có thể dùng gì?",
+"options": ["Na2CO3", "HCl", "NaCl", "NaOH"],
+"answer": "Na2CO3",
+"explanation": "Na2CO3 kết tủa các ion Ca2+ và Mg2+."
+},
+{
+"question": "Dung dịch AlCl3 tác dụng với lượng dư NaOH tạo thành gì?",
+"options": ["Al(OH)3", "NaAlO2", "Al2O3", "NaCl"],
+"answer": "NaAlO2",
+"explanation": "NaOH dư hòa tan kết tủa Al(OH)3 thành NaAlO2."
+},
+{
+"question": "Sự ăn mòn kim loại là gì?",
+"options": ["Sự phá hủy kim loại", "Sự thay đổi màu", "Sự làm cứng", "Sự tạo hợp kim"],
+"answer": "Sự phá hủy kim loại",
+"explanation": "Sự ăn mòn là quá trình oxi hóa khử làm phá hủy kim loại."
+},
+{
+"question": "Khí nào sau đây là khí gây hiệu ứng nhà kính?",
+"options": ["O2", "CO2", "N2", "H2"],
+"answer": "CO2",
+"explanation": "CO2 là khí chính gây hiệu ứng nhà kính."
+},
+{
+"question": "Chất nào sau đây không thể thủy phân?",
+"options": ["Tinh bột", "Saccharose", "Glucose", "Protein"],
+"answer": "Glucose",
+"explanation": "Glucose là monosaccharide đơn giản nhất không thể thủy phân."
+},
+{
+"question": "Khi thủy phân tinh bột trong môi trường acid thu được gì?",
+"options": ["Glucose", "Fructose", "Saccharose", "Maltose"],
+"answer": "Glucose",
+"explanation": "Thủy phân hoàn toàn tinh bột thu được glucose."
+},
+{
+"question": "Phản ứng giữa NaOH và CH3COOH là phản ứng gì?",
+"options": ["Trung hòa", "Ester hóa", "Trùng hợp", "Oxi hóa"],
+"answer": "Trung hòa",
+"explanation": "Axit + Base = Muối + Nước."
+},
+{
+"question": "Kim loại kiềm có bao nhiêu electron lớp ngoài cùng?",
+"options": ["1", "2", "3", "4"],
+"answer": "1",
+"explanation": "Kim loại kiềm thuộc nhóm IA."
+},
+{
+"question": "Công thức của baking soda là gì?",
+"options": ["Na2CO3", "NaHCO3", "NaCl", "NaOH"],
+"answer": "NaHCO3",
+"explanation": "Baking soda là muối NaHCO3."
+},
+{
+"question": "Chất rắn màu trắng trong suốt là gì?",
+"options": ["Đường", "Muối", "Sắt", "Đồng"],
+"answer": "Đường",
+"explanation": "Đường saccarose dạng tinh thể màu trắng."
+},
+{
+"question": "Chất nào được dùng để sản xuất xà phòng?",
+"options": ["Chất béo", "Glucose", "Amino acid", "Alcol"],
+"answer": "Chất béo",
+"explanation": "Chất béo là nguyên liệu chính sản xuất xà phòng."
+},
+{
+"question": "Sự biến đổi màu của dung dịch khi cho Phenolphthalein vào NaOH là gì?",
+"options": ["Không màu sang hồng", "Hồng sang không màu", "Xanh sang đỏ", "Đỏ sang xanh"],
+"answer": "Không màu sang hồng",
+"explanation": "Phenolphthalein hóa hồng trong môi trường base."
+},
+{
+"question": "Hợp kim là gì?",
+"options": ["Vật liệu có ít nhất 2 kim loại", "Kim loại nguyên chất", "Một loại phi kim", "Một loại muối"],
+"answer": "Vật liệu có ít nhất 2 kim loại",
+"explanation": "Hợp kim là vật liệu chứa 1 kim loại cơ bản và các nguyên tố khác."
+},
+{
+"question": "Trong công nghiệp, Al được sản xuất bằng cách nào?",
+"options": ["Điện phân nóng chảy Al2O3", "Khử bằng CO", "Điện phân dung dịch", "Nhiệt nhôm"],
+"answer": "Điện phân nóng chảy Al2O3",
+"explanation": "Đây là phương pháp duy nhất để sản xuất nhôm."
+},
+{
+"question": "Khi cho Fe vào dung dịch H2SO4 loãng có hiện tượng gì?",
+"options": ["Sủi bọt khí H2", "Dung dịch chuyển sang màu xanh", "Không hiện tượng", "Kết tủa"],
+"answer": "Sủi bọt khí H2",
+"explanation": "Fe tác dụng H2SO4 tạo khí H2."
+},
+{
+"question": "Phản ứng nào sau đây dùng để nhận biết glucose?",
+"options": ["Cu(OH)2/t độ", "Quỳ tím", "Bromine", "HCl"],
+"answer": "Cu(OH)2/t độ",
+"explanation": "Glucose tạo kết tủa đỏ gạch với Cu(OH)2 khi đun nóng."
+},
+{
+"question": "Chất nào được coi là 'đường mật'?",
+"options": ["Glucose", "Fructose", "Saccharose", "Lactose"],
+"answer": "Fructose",
+"explanation": "Fructose có nhiều trong mật ong."
+},
+{
+"question": "Trong cơ thể người, tinh bột được thủy phân nhờ enzim nào?",
+"options": ["Amylase", "Lipase", "Pepsin", "Protease"],
+"answer": "Amylase",
+"explanation": "Amylase xúc tác thủy phân tinh bột."
+},
+{
+"question": "Đơn vị cấu tạo nên protein là?",
+"options": ["Amino acid", "Ester", "Monosaccharide", "Acid béo"],
+"answer": "Amino acid",
+"explanation": "Protein cấu tạo từ amino acid."
+},
+{
+"question": "Loại polymer nào không bị thủy phân?",
+"options": ["Tinh bột", "Protein", "Polyethylene", "Cellulose"],
+"answer": "Polyethylene",
+"explanation": "PE chỉ có liên kết C-C bền vững."
+},
+{
+"question": "Phản ứng ester hóa giữa CH3COOH và C2H5OH tạo ra gì?",
+"options": ["Ethyl acetate", "Methyl acetate", "Propyl acetate", "Butyl acetate"],
+"answer": "Ethyl acetate",
+"explanation": "Phản ứng tạo CH3COOC2H5."
+},
+{
+"question": "Kim loại nào tồn tại ở trạng thái lỏng ở nhiệt độ thường?",
+"options": ["Hg", "Cu", "Fe", "Al"],
+"answer": "Hg",
+"explanation": "Thủy ngân là kim loại lỏng."
+},
+{
+"question": "Công thức hóa học của thạch cao sống là gì?",
+"options": ["CaSO4.2H2O", "CaSO4.H2O", "CaSO4", "CaCO3"],
+"answer": "CaSO4.2H2O",
+"explanation": "Thạch cao sống là CaSO4.2H2O."
+},
+{
+"question": "Tại sao dùng Al làm vỏ máy bay?",
+"options": ["Nhẹ, bền", "Nặng, rẻ", "Dẫn điện", "Dẫn nhiệt"],
+"answer": "Nhẹ, bền",
+"explanation": "Nhôm nhẹ và có lớp màng oxit bảo vệ bền."
+},
+{
+"question": "Chất nào sau đây dùng làm chất tẩy rửa?",
+"options": ["Xà phòng", "Sắt", "Đường", "Muối ăn"],
+"answer": "Xà phòng",
+"explanation": "Xà phòng có khả năng làm sạch."
+},
+{
+"question": "Tính chất đặc trưng của kim loại là?",
+"options": ["Tính khử", "Tính oxi hóa", "Tính lưỡng tính", "Không tác dụng"],
+"answer": "Tính khử",
+"explanation": "Kim loại dễ nhường electron."
+},
+{
+"question": "Chất nào là chất điện li yếu?",
+"options": ["CH3COOH", "HCl", "NaCl", "NaOH"],
+"answer": "CH3COOH",
+"explanation": "Axit hữu cơ là chất điện li yếu."
+},
+{
+"question": "Phản ứng nhiệt nhôm là phản ứng gì?",
+"options": ["Nhôm khử oxit kim loại", "Nhôm tác dụng nước", "Nhôm tác dụng axit", "Nhôm tác dụng kiềm"],
+"answer": "Nhôm khử oxit kim loại",
+"explanation": "Al khử oxit kim loại thành kim loại."
+},
+{
+"question": "Sự ăn mòn điện hóa cần điều kiện gì?",
+"options": ["2 kim loại khác nhau", "Tiếp xúc dung dịch điện li", "Tiếp xúc với nhau", "Cả 3 yếu tố trên"],
+"answer": "Cả 3 yếu tố trên",
+"explanation": "Để có ăn mòn điện hóa cần đủ 3 điều kiện."
+},
+{
+"question": "Nước cứng có tác hại gì?",
+"options": ["Hao tốn xà phòng", "Làm hỏng vải", "Đóng cặn nồi", "Cả 3 trên"],
+"answer": "Cả 3 trên",
+"explanation": "Nước cứng gây nhiều tác hại trong đời sống."
+},
+{
+"question": "Để bảo vệ vỏ tàu bằng thép, người ta dùng phương pháp gì?",
+"options": ["Điện hóa", "Sơn", "Mạ", "Tất cả"],
+"answer": "Điện hóa",
+"explanation": "Dùng khối Zn gắn vào vỏ tàu thép để bảo vệ."
+},
+{
+"question": "Chất nào dùng để làm dung môi?",
+"options": ["Ethanol", "Glucose", "Protein", "Sắt"],
+"answer": "Ethanol",
+"explanation": "Ethanol là dung môi hữu cơ phổ biến."
+},
+{
+"question": "Polymer nào sau đây là nhựa nhiệt dẻo?",
+"options": ["PE", "PVC", "PP", "Cả 3 trên"],
+"answer": "Cả 3 trên",
+"explanation": "Các loại nhựa này đều là nhựa nhiệt dẻo."
+},
+{
+"question": "Sản phẩm của phản ứng giữa alanin và NaOH là gì?",
+"options": ["Muối", "Ester", "Ancol", "Acid"],
+"answer": "Muối",
+"explanation": "Amino acid tác dụng với base tạo muối."
+},
+{
+"question": "Dung dịch CuSO4 có màu gì?",
+"options": ["Xanh lam", "Trắng", "Đỏ", "Vàng"],
+"answer": "Xanh lam",
+"explanation": "Ion Cu2+ trong dung dịch có màu xanh lam."
+},
+{
+"question": "Chất nào sau đây dùng để làm sạch nước?",
+"options": ["Phèn chua", "Đường", "Sắt", "Muối"],
+"answer": "Phèn chua",
+"explanation": "Phèn chua tạo Al(OH)3 keo làm sạch nước."
+},
+{
+"question": "Trong phản ứng oxi hóa khử, chất khử là chất?",
+"options": ["Nhường electron", "Nhận electron", "Không đổi", "Tăng số oxi hóa"],
+"answer": "Nhường electron",
+"explanation": "Chất khử nhường e."
+},
+{
+"question": "Sắt (III) oxide có công thức là gì?",
+"options": ["FeO", "Fe2O3", "Fe3O4", "FeCl3"],
+"answer": "Fe2O3",
+"explanation": "Sắt hóa trị III, oxi II nên Fe2O3."
+},
+{
+"question": "Thủy phân chất béo trong môi trường axit thu được gì?",
+"options": ["Glycerol và axit béo", "Glycerol và muối", "Xà phòng", "Ester"],
+"answer": "Glycerol và axit béo",
+"explanation": "Phản ứng thủy phân thuận nghịch tạo lại glycerol và axit béo."
+},
+{
+"question": "Kim loại nào có khối lượng riêng lớn nhất?",
+"options": ["Osmium", "Nhôm", "Sắt", "Đồng"],
+"answer": "Osmium",
+"explanation": "Osmium là kim loại nặng nhất."
+},
+{
+"question": "Chất nào không tan trong nước?",
+"options": ["NaCl", "Đường", "Chất béo", "Ethanol"],
+"answer": "Chất béo",
+"explanation": "Chất béo không tan trong nước."
+},
+{
+"question": "Glucose có bao nhiêu nhóm -OH kề nhau?",
+"options": ["3", "4", "5", "6"],
+"answer": "4",
+"explanation": "Glucose có 5 nhóm -OH, trong đó 4 nhóm kề nhau."
+},
+{
+"question": "Nylon-6,6 là loại tơ gì?",
+"options": ["Tơ tổng hợp", "Tơ tự nhiên", "Tơ bán tổng hợp", "Không phải tơ"],
+"answer": "Tơ tổng hợp",
+"explanation": "Nylon-6,6 thuộc loại tơ tổng hợp."
+},
+{
+"question": "Để phân biệt Fe2O3 và Fe3O4 có thể dùng gì?",
+"options": ["HCl", "HNO3", "NaOH", "H2O"],
+"answer": "HCl",
+"explanation": "Fe3O4 tác dụng HCl tạo hỗn hợp 2 muối, Fe2O3 tạo 1 muối."
+},
+{
+"question": "Trong bảng tuần hoàn, kim loại kiềm nằm ở?",
+"options": ["Nhóm IA", "Nhóm IIA", "Nhóm IIIA", "Nhóm VIIA"],
+"answer": "Nhóm IA",
+"explanation": "Kim loại kiềm là nhóm IA."
+},
+{
+"question": "Sắt có số oxi hóa phổ biến nào?",
+"options": ["+2, +3", "+1, +2", "+3, +4", "0"],
+"answer": "+2, +3",
+"explanation": "Sắt có hóa trị 2 và 3."
+}
+]
+

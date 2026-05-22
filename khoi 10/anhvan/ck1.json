@@ -1,0 +1,618 @@
+[
+  {
+    "question": "What is the opposite of 'heavy' when talking about household chores?",
+    "options": [
+      "light",
+      "hard",
+      "difficult",
+      "strong"
+    ],
+    "answer": "light",
+    "explanation": "Trái nghĩa với 'heavy' (nặng nhọc) trong công việc nhà là 'light' (nhẹ nhàng)."
+  },
+  {
+    "question": "Which word means 'the collective routines of family life'?",
+    "options": [
+      "family routines",
+      "family bonds",
+      "family values",
+      "family trees"
+    ],
+    "answer": "family routines",
+    "explanation": "Family routines nghĩa là các thói quen, nề nếp sinh hoạt chung của gia đình."
+  },
+  {
+    "question": "In the sentence 'He washes the dishes every day', 'every day' is a signal for which tense?",
+    "options": [
+      "Present Simple",
+      "Present Continuous",
+      "Past Simple",
+      "Future Simple"
+    ],
+    "answer": "Present Simple",
+    "explanation": "'Every day' là dấu hiệu nhận biết tiêu biểu của thì Hiện tại đơn."
+  },
+  {
+    "question": "What does 'eco-friendly' mean?",
+    "options": [
+      "Not harmful to the environment",
+      "Expensive to buy",
+      "Related to economy",
+      "Difficult to clean"
+    ],
+    "answer": "Not harmful to the environment",
+    "explanation": "'Eco-friendly' nghĩa là thân thiện với môi trường, không gây hại cho môi trường."
+  },
+  {
+    "question": "Complete the phrase: 'adopt a green _________'",
+    "options": [
+      "lifestyle",
+      "life",
+      "live",
+      "lifespan"
+    ],
+    "answer": "lifestyle",
+    "explanation": "Cụm từ cố định 'adopt a green lifestyle' nghĩa là thực hiện lối sống xanh."
+  },
+  {
+    "question": "Which modal verb is used to express a strong obligation or necessity?",
+    "options": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "answer": "must",
+    "explanation": "'Must' dùng để chỉ một nghĩa vụ, bổn phận hoặc sự bắt buộc cần thiết."
+  },
+  {
+    "question": "What is the noun form of the verb 'perform'?",
+    "options": [
+      "performance",
+      "performer",
+      "performing",
+      "performed"
+    ],
+    "answer": "performance",
+    "explanation": "Danh từ chỉ sự biểu diễn, màn trình diễn là 'performance'."
+  },
+  {
+    "question": "Which word refers to an instrument that you blow into to make sound?",
+    "options": [
+      "trumpet",
+      "drum",
+      "guitar",
+      "piano"
+    ],
+    "answer": "trumpet",
+    "explanation": "'Trumpet' (kèn trumpet) là nhạc cụ dùng hơi để thổi, khác với trống hay đàn."
+  },
+  {
+    "question": "What does the conjunction 'and' express?",
+    "options": [
+      "Addition",
+      "Contrast",
+      "Choice",
+      "Result"
+    ],
+    "answer": "Addition",
+    "explanation": "Liên từ 'and' dùng để thêm thông tin hoặc nối các thành phần tương đương."
+  },
+  {
+    "question": "Identify the word that means 'to give money or goods to help a person or organization'.",
+    "options": [
+      "donate",
+      "receive",
+      "borrow",
+      "spend"
+    ],
+    "answer": "donate",
+    "explanation": "'Donate' nghĩa là quyên góp, hiến tặng tiền bạc hoặc nhu yếu phẩm."
+  },
+  {
+    "question": "What is a person who does a job without being paid called?",
+    "options": [
+      "volunteer",
+      "employee",
+      "employer",
+      "manager"
+    ],
+    "answer": "volunteer",
+    "explanation": "'Volunteer' nghĩa là tình nguyện viên, người làm việc không nhận lương."
+  },
+  {
+    "question": "Which suffix is often added to a noun to make an adjective meaning 'full of'?",
+    "options": [
+      "-ful",
+      "-less",
+      "-ment",
+      "-ness"
+    ],
+    "answer": "-ful",
+    "explanation": "Hậu tố '-ful' thêm vào sau danh từ để tạo tính từ mang nghĩa chứa đầy (ví dụ: careful, useful)."
+  },
+  {
+    "question": "What is the past participle form of the verb 'write'?",
+    "options": [
+      "written",
+      "wrote",
+      "writing",
+      "writes"
+    ],
+    "answer": "written",
+    "explanation": "Quá khứ phân từ (V3) của động từ bất quy tắc 'write' là 'written'."
+  },
+  {
+    "question": "Which device is used to process data and connect to the internet?",
+    "options": [
+      "computer",
+      "refrigerator",
+      "washing machine",
+      "vacuum cleaner"
+    ],
+    "answer": "computer",
+    "explanation": "Máy tính (computer) là thiết bị xử lý dữ liệu và kết nối mạng."
+  },
+  {
+    "question": "What is the primary function of a 'smartphone'?",
+    "options": [
+      "Communication",
+      "Cooking",
+      "Washing",
+      "Cooling"
+    ],
+    "answer": "Communication",
+    "explanation": "Chức năng chính và sơ khởi của điện thoại thông minh là giao tiếp."
+  },
+  {
+    "question": "Complete the sentence: 'A _________ is a building where historical items are kept.'",
+    "options": [
+      "museum",
+      "stadium",
+      "hospital",
+      "factory"
+    ],
+    "answer": "museum",
+    "explanation": "Bảo tàng (museum) là nơi lưu giữ và trưng bày các hiện vật lịch sử."
+  },
+  {
+    "question": "Which word describes the traditional music of a particular country or region?",
+    "options": [
+      "folk music",
+      "pop music",
+      "rock music",
+      "jazz"
+    ],
+    "answer": "folk music",
+    "explanation": "Nhạc dân gian (folk music) phản ánh âm nhạc truyền thống của một quốc gia hoặc vùng miền."
+  },
+  {
+    "question": "What does 'carbon footprint' measure?",
+    "options": [
+      "The amount of carbon dioxide released",
+      "The size of a shoe",
+      "The weight of charcoal",
+      "The distance of walking"
+    ],
+    "answer": "The amount of carbon dioxide released",
+    "explanation": "'Carbon footprint' (dấu chân carbon) đo lường lượng khí CO2 thải ra môi trường."
+  },
+  {
+    "question": "Which relative pronoun is used for people as the subject of a clause?",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answer": "who",
+    "explanation": "Đại từ quan hệ 'who' làm chủ ngữ thay thế cho danh từ chỉ người."
+  },
+  {
+    "question": "Identify the word that refers to 'the natural environment in which an animal or plant lives'.",
+    "options": [
+      "habitat",
+      "house",
+      "cage",
+      "building"
+    ],
+    "answer": "habitat",
+    "explanation": "'Habitat' nghĩa là môi trường sống tự nhiên của động vật hoang dã hoặc thực vật."
+  },
+  {
+    "question": "What is the noun of the adjective 'responsible'?",
+    "options": [
+      "responsibility",
+      "responsibly",
+      "responsive",
+      "responsiveness"
+    ],
+    "answer": "responsibility",
+    "explanation": "Danh từ của 'responsible' là 'responsibility' (trách nhiệm)."
+  },
+  {
+    "question": "Which word refers to 'appliances used in a kitchen or house'?",
+    "options": [
+      "devices",
+      "clothes",
+      "vehicles",
+      "furnitures"
+    ],
+    "answer": "devices",
+    "explanation": "Các thiết bị dùng trong gia đình thường được gọi chung là household appliances hoặc devices."
+  },
+  {
+    "question": "What is the antonym of 'organic' food?",
+    "options": [
+      "chemical-processed",
+      "natural",
+      "fresh",
+      "healthy"
+    ],
+    "answer": "chemical-processed",
+    "explanation": "Trái nghĩa với thực phẩm hữu cơ (organic) là thực phẩm xử lý bằng hóa chất."
+  },
+  {
+    "question": "Which verb collocation goes with 'the rubbish'?",
+    "options": [
+      "take out",
+      "make",
+      "do",
+      "cook"
+    ],
+    "answer": "take out",
+    "explanation": "Cụm từ đúng là 'take out the rubbish' (đổ rác)."
+  },
+  {
+    "question": "Choose the correct preposition: 'interested _________'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "Cấu trúc cố định là 'be interested in' (quan tâm, hứng thú với cái gì)."
+  },
+  {
+    "question": "Which word refers to 'talented young people who participate in music contests'?",
+    "options": [
+      "contestants",
+      "audiences",
+      "judges",
+      "hosts"
+    ],
+    "answer": "contestants",
+    "explanation": "Thí sinh tham gia các cuộc thi âm nhạc được gọi là 'contestants'."
+  },
+  {
+    "question": "What is the meaning of 'local community'?",
+    "options": [
+      "People living in the same area",
+      "A type of machine",
+      "A foreign country",
+      "An online website"
+    ],
+    "answer": "People living in the same area",
+    "explanation": "'Local community' có nghĩa là cộng đồng địa phương, những người sống trong cùng khu vực."
+  },
+  {
+    "question": "Which word is a synonym for 'improve'?",
+    "options": [
+      "enhance",
+      "destroy",
+      "reduce",
+      "damage"
+    ],
+    "answer": "enhance",
+    "explanation": "'Enhance' đồng nghĩa với 'improve', có nghĩa là cải thiện, nâng cao."
+  },
+  {
+    "question": "What does 'remind' mean?",
+    "options": [
+      "To make someone remember something",
+      "To forget something",
+      "To learn something",
+      "To teach something"
+    ],
+    "answer": "To make someone remember something",
+    "explanation": "'Remind' nghĩa là nhắc nhở, làm cho ai đó nhớ lại điều gì."
+  },
+  {
+    "question": "Which word means 'related to the areas outside a city'?",
+    "options": [
+      "rural",
+      "urban",
+      "central",
+      "domestic"
+    ],
+    "answer": "rural",
+    "explanation": "'Rural' nghĩa là thuộc vùng nông thôn, ngoại thành, trái ngược với 'urban' (thành thị)."
+  },
+  {
+    "question": "What is the main noun in the phrase 'renewable energy'?",
+    "options": [
+      "energy",
+      "renewable",
+      "renew",
+      "energetic"
+    ],
+    "answer": "energy",
+    "explanation": "Trong cụm danh từ 'renewable energy', 'energy' là danh từ chính, 'renewable' là tính từ bổ nghĩa."
+  },
+  {
+    "question": "Which pronoun can replace a thing or an animal in a relative clause?",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "whose"
+    ],
+    "answer": "which",
+    "explanation": "Đại từ quan hệ 'which' dùng để thay thế cho danh từ chỉ vật hoặc động vật."
+  },
+  {
+    "question": "Identify the word that means 'physical or mental strength'.",
+    "options": [
+      "energy",
+      "weakness",
+      "laziness",
+      "tiredness"
+    ],
+    "answer": "energy",
+    "explanation": "Năng lượng, sức mạnh thể chất hoặc tinh thần được gọi là 'energy'."
+  },
+  {
+    "question": "What is the opposite of 'advantage'?",
+    "options": [
+      "disadvantage",
+      "imadvantage",
+      "unadvantage",
+      "misadvantage"
+    ],
+    "answer": "disadvantage",
+    "explanation": "Tiền tố 'dis-' được thêm vào trước 'advantage' để tạo từ trái nghĩa (nhược điểm)."
+  },
+  {
+    "question": "Which verb form follows the modal verb 'should'?",
+    "options": [
+      "Bare infinitive",
+      "To-infinitive",
+      "Gerund",
+      "Past participle"
+    ],
+    "answer": "Bare infinitive",
+    "explanation": "Sau động từ khuyết thiếu 'should', ta sử dụng động từ nguyên thể không 'to' (bare infinitive)."
+  },
+  {
+    "question": "What is 'litter'?",
+    "options": [
+      "Small pieces of rubbish in public places",
+      "A type of fresh fruit",
+      "A clean street",
+      "A recycling bin"
+    ],
+    "answer": "Small pieces of rubbish in public places",
+    "explanation": "'Litter' là rác thải vụn bị vứt bừa bãi ở nơi công cộng."
+  },
+  {
+    "question": "Which conjunction expresses a reason?",
+    "options": [
+      "because",
+      "but",
+      "although",
+      "so"
+    ],
+    "answer": "because",
+    "explanation": "'Because' là liên từ dùng để chỉ lý do, nguyên nhân."
+  },
+  {
+    "question": "What does the acronym 'ASEAN' stand for?",
+    "options": [
+      "Association of Southeast Asian Nations",
+      "Association of Southern East Asian Nations",
+      "Agency of Southeast Asian Nations",
+      "Alliance of Southeast Asian Nations"
+    ],
+    "answer": "Association of Southeast Asian Nations",
+    "explanation": "ASEAN là viết tắt của Hiệp hội các quốc gia Đông Nam Á."
+  },
+  {
+    "question": "Identify the adjective form of 'nature'.",
+    "options": [
+      "natural",
+      "naturally",
+      "naturalize",
+      "naturalism"
+    ],
+    "answer": "natural",
+    "explanation": "Tính từ của danh từ 'nature' (tự nhiên) là 'natural'."
+  },
+  {
+    "question": "Which word means 'the gas that we breathe out'?",
+    "options": [
+      "carbon dioxide",
+      "oxygen",
+      "nitrogen",
+      "hydrogen"
+    ],
+    "answer": "carbon dioxide",
+    "explanation": "Khí mà con người thở ra là carbon dioxide (CO2)."
+  },
+  {
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": [
+      "She is cooking dinner now.",
+      "She cook dinner now.",
+      "She has cooked dinner now.",
+      "She cooked dinner now."
+    ],
+    "answer": "She is cooking dinner now.",
+    "explanation": "Dấu hiệu 'now' yêu cầu sử dụng thì Hiện tại tiếp diễn để tả hành động đang xảy ra."
+  },
+  {
+    "question": "What is the passive form of 'My mother cleans the house'?",
+    "options": [
+      "The house is cleaned by my mother.",
+      "The house was cleaned by my mother.",
+      "The house cleaned by my mother.",
+      "The house is cleaning by my mother."
+    ],
+    "answer": "The house is cleaned by my mother.",
+    "explanation": "Câu chủ động ở thì hiện tại đơn, khi chuyển sang bị động sẽ dùng cấu trúc: S + am/is/are + V3/ed + by O."
+  },
+  {
+    "question": "The phrase 'split chores equally' implies that:",
+    "options": [
+      "Family members share housework evenly.",
+      "Only one person does all the work.",
+      "Nobody wants to do any chores.",
+      "Chores are divided by drawing lots."
+    ],
+    "answer": "Family members share housework evenly.",
+    "explanation": "'Split chores equally' có nghĩa là chia đều công việc nhà cho các thành viên trong gia đình."
+  },
+  {
+    "question": "In the context of green living, why should we turn off electrical appliances when not in use?",
+    "options": [
+      "To save energy and reduce electricity bills.",
+      "To make the house look darker.",
+      "To prevent the appliances from getting old.",
+      "To avoid cleaning them."
+    ],
+    "answer": "To save energy and reduce electricity bills.",
+    "explanation": "Tắt các thiết bị điện khi không dùng giúp tiết kiệm năng lượng và giảm hóa đơn tiền điện."
+  },
+  {
+    "question": "Which sentence uses the present continuous to express an annoying habit?",
+    "options": [
+      "He is always leaving his dirty clothes on the floor.",
+      "He is writing a letter at the moment.",
+      "He is going to the cinema tonight.",
+      "He is studying English for his exam."
+    ],
+    "answer": "He is always leaving his dirty clothes on the floor.",
+    "explanation": "Thì hiện tại tiếp diễn kết hợp với 'always' dùng để phàn nàn về một thói quen xấu gây khó chịu."
+  },
+  {
+    "question": "What does the singer mean when they say they have a 'huge fan base'?",
+    "options": [
+      "They have many people who admire and support them.",
+      "They have a very large stadium for performances.",
+      "They have a lot of cooling fans in their room.",
+      "They have many people working as electronic assistants."
+    ],
+    "answer": "They have many people who admire and support them.",
+    "explanation": "'Fan base' là lượng người hâm mộ. 'Huge fan base' nghĩa là có lượng lớn khán giả yêu quý và ủng hộ."
+  },
+  {
+    "question": "Select the sentence that clearly expresses a plan made before the moment of speaking.",
+    "options": [
+      "We are going to visit our grandparents this weekend.",
+      "We will visit our grandparents right now.",
+      "We visit our grandparents every week.",
+      "We visited our grandparents yesterday."
+    ],
+    "answer": "We are going to visit our grandparents this weekend.",
+    "explanation": "Cấu trúc 'be going to' dùng để diễn tả một dự định, kế hoạch đã được lên lịch trước."
+  },
+  {
+    "question": "If a product is labelled as 'biodegradable', it means:",
+    "options": [
+      "It can be decomposed naturally by bacteria.",
+      "It is made entirely of hard plastic.",
+      "It cannot be destroyed by fire.",
+      "It is toxic to the soil and water."
+    ],
+    "answer": "It can be decomposed naturally by bacteria.",
+    "explanation": "'Biodegradable' có nghĩa là có thể phân hủy sinh học tự nhiên bởi các vi khuẩn, không gây hại lâu dài."
+  },
+  {
+    "question": "What is the main objective of volunteering programs for teenagers?",
+    "options": [
+      "To develop life skills and help the community.",
+      "To earn a lot of pocket money.",
+      "To pass school exams without studying.",
+      "To travel abroad for free."
+    ],
+    "answer": "To develop life skills and help the community.",
+    "explanation": "Mục tiêu chính của các hoạt động tình nguyện là giúp thiếu niên rèn luyện kỹ năng sống và hỗ trợ cộng đồng."
+  },
+  {
+    "question": "Complete the sentence logically: 'Although it rained heavily, _________'",
+    "options": [
+      "they still went out to clean the local park.",
+      "so they stayed at home all day.",
+      "because they wanted to get wet.",
+      "but they cancelled the outdoor concert."
+    ],
+    "answer": "they still went out to clean the local park.",
+    "explanation": "Mệnh đề nhượng bộ với 'Although' dùng để kết nối hai ý trái ngược nhau mà không cần thêm liên từ 'but' hay 'so'."
+  },
+  {
+    "question": "What is the difference between a 'talent show' and a 'music concert'?",
+    "options": [
+      "A talent show is a competition, while a concert is a performance.",
+      "A talent show only allows singing, while a concert does not.",
+      "A concert is always free, but a talent show is expensive.",
+      "There are no audiences in a talent show."
+    ],
+    "answer": "A talent show is a competition, while a concert is a performance.",
+    "explanation": "Chương trình tìm kiếm tài năng (talent show) mang tính chất thi đấu, còn buổi hòa nhạc (concert) là buổi biểu diễn."
+  },
+  {
+    "question": "When you 'reduce your carbon footprint', you are trying to:",
+    "options": [
+      "protect the environment by cutting down greenhouse gases.",
+      "walk more slowly on muddy ground.",
+      "print fewer documents on black paper.",
+      "buy more expensive electronic devices."
+    ],
+    "answer": "protect the environment by cutting down greenhouse gases.",
+    "explanation": "Giảm dấu chân carbon có nghĩa là cố gắng bảo vệ môi trường bằng cách cắt giảm lượng khí nhà kính phát thải."
+  },
+  {
+    "question": "Choose the sentence that correctly combines: 'The girl is my cousin. She won the singing prize.'",
+    "options": [
+      "The girl who won the singing prize is my cousin.",
+      "The girl which won the singing prize is my cousin.",
+      "The girl whom won the singing prize is my cousin.",
+      "The girl whose won the singing prize is my cousin."
+    ],
+    "answer": "The girl who won the singing prize is my cousin.",
+    "explanation": "Dùng đại từ quan hệ 'who' để thay thế cho chủ ngữ chỉ người 'The girl'."
+  },
+  {
+    "question": "Which of the following best describes 'non-renewable energy resources'?",
+    "options": [
+      "They take millions of years to form and can run out.",
+      "They are limitless and never run out.",
+      "They do not cause any pollution to the environment.",
+      "They are generated from wind and water."
+    ],
+    "answer": "They take millions of years to form and can run out.",
+    "explanation": "Năng lượng không tái tạo (như than đá, dầu mỏ) mất triệu năm để hình thành và có nguy cơ cạn kiệt."
+  },
+  {
+    "question": "What does the modal verb 'can' express in 'You can use my laptop if you need'?",
+    "options": [
+      "Permission",
+      "Obligation",
+      "Prohibition",
+      "Advice"
+    ],
+    "answer": "Permission",
+    "explanation": "Trong câu này, 'can' được dùng để đưa ra sự cho phép (gần gũi, thân mật)."
+  },
+  {
+    "question": "The term 'gender equality' means that:",
+    "options": [
+      "men and women have equal rights and opportunities.",
+      "men must work harder than women in all jobs.",
+      "women are allowed to stay at home all day.",
+      "boys and girls study in different schools."
+    ],
+    "answer": "men and women have equal rights and opportunities.",
+    "explanation": "Bình đẳng giới (gender equality) có nghĩa là nam và nữ có quyền lợi và cơ hội ngang nhau."
+  }
+]

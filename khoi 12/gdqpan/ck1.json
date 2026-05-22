@@ -1,0 +1,554 @@
+[
+  {
+    "question": "Lực lượng nào làm nòng cốt trong phong trào toàn dân bảo vệ an ninh Tổ quốc?",
+    "options": [
+      "Lực lượng Công an nhân dân.",
+      "Lực lượng Dân quân tự vệ.",
+      "Hội Cựu chiến binh.",
+      "Đoàn Thanh niên Cộng sản Hồ Chí Minh."
+    ],
+    "answer": "Lực lượng Công an nhân dân.",
+    "explanation": "Theo quy định, lực lượng Công an nhân dân là lực lượng chuyên trách, làm nòng cốt trong sự nghiệp bảo vệ an ninh quốc gia và giữ gìn trật tự an toàn xã hội."
+  },
+  {
+    "question": "Ngày hội Toàn dân bảo vệ an ninh Tổ quốc được tổ chức hằng năm vào ngày nào?",
+    "options": [
+      "Ngày 19 tháng 8.",
+      "Ngày 22 tháng 12.",
+      "Ngày 30 tháng 4.",
+      "Ngày 2 tháng 9."
+    ],
+    "answer": "Ngày 19 tháng 8.",
+    "explanation": "Ngày 19 tháng 8 hằng năm được quyết định là Ngày hội Toàn dân bảo vệ an ninh Tổ quốc, trùng với ngày truyền thống của lực lượng Công an nhân dân."
+  },
+  {
+    "question": "Hiện tượng nào sau đây được phân loại vào nhóm thiên tai do khí tượng thủy văn?",
+    "options": [
+      "Bão, áp thấp nhiệt đới, lũ lụt.",
+      "Động đất, sóng thần.",
+      "Sạt lở đất do hoạt động đào móng nhà.",
+      "Dịch bệnh sốt xuất huyết lan rộng."
+    ],
+    "answer": "Bão, áp thấp nhiệt đới, lũ lụt.",
+    "explanation": "Bão, áp thấp nhiệt đới, lũ, ngập lụt, hạn hán là các hiện tượng tự nhiên có nguồn gốc từ khí tượng và thủy văn."
+  },
+  {
+    "question": "Loại bom nào hoạt động dựa trên nguyên lý cảm ứng sự thay đổi của từ trường khi có vật thể kim loại lớn đi qua?",
+    "options": [
+      "Bom từ trường.",
+      "Bom napan.",
+      "Bom phát quang.",
+      "Bom chùm."
+    ],
+    "answer": "Bom từ trường.",
+    "explanation": "Bom từ trường chứa đầu cảm biến nhạy cảm với sự biến thiên từ trường trái đất khi có các phương tiện cơ giới bằng sắt thép di chuyển qua."
+  },
+  {
+    "question": "Lực lượng vũ trang nhân dân Việt Nam bao gồm những thành phần nào?",
+    "options": [
+      "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ.",
+      "Quân đội chủ lực, Quân đội địa phương và Bộ đội Biên phòng.",
+      "Công an nhân dân và Lực lượng Cảnh sát biển.",
+      "Quân đội nhân dân và Cảnh sát cơ động."
+    ],
+    "answer": "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ.",
+    "explanation": "Theo Luật Quốc phòng, Lực lượng vũ trang nhân dân Việt Nam gồm Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ."
+  },
+  {
+    "question": "Quân đội nhân dân Việt Nam đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của tổ chức nào?",
+    "options": [
+      "Đảng Cộng sản Việt Nam.",
+      "Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "Bộ Quốc phòng Việt Nam.",
+      "Ủy ban Thường vụ Quốc hội."
+    ],
+    "answer": "Đảng Cộng sản Việt Nam.",
+    "explanation": "Đảng Cộng sản Việt Nam lãnh đạo tuyệt đối, trực tiếp về mọi mặt đối với Quân đội nhân dân và Công an nhân dân Việt Nam."
+  },
+  {
+    "question": "Đâu là một trong những chức năng cốt lõi của Quân đội nhân dân Việt Nam?",
+    "options": [
+      "Đội quân chiến đấu, đội quân công tác, đội quân lao động sản xuất.",
+      "Đội quân trấn áp tội phạm kinh tế xã hội.",
+      "Đội quân điều hành toàn bộ bộ máy hành chính nhà nước.",
+      "Đội quân chuyên trách quản lý thị trường chứng khoán."
+    ],
+    "answer": "Đội quân chiến đấu, đội quân công tác, đội quân lao động sản xuất.",
+    "explanation": "Ba chức năng cơ bản đã trở thành truyền thống vẻ vang của Quân đội nhân dân Việt Nam là: chiến đấu, công tác và lao động sản xuất."
+  },
+  {
+    "question": "Súng tiểu liên AK sử dụng cỡ đạn bao nhiêu mm?",
+    "options": [
+      "7,62 mm.",
+      "5,56 mm.",
+      "9 mm.",
+      "12,7 mm."
+    ],
+    "answer": "7,62 mm.",
+    "explanation": "Súng tiểu liên AK tiêu chuẩn (kể cả các phiên bản AK-47, AKM) sử dụng loại đạn cỡ 7,62 x 39 mm."
+  },
+  {
+    "question": "Tầm bắn hiệu quả của súng tiểu liên AK đối với mục tiêu mặt đất là bao nhiêu mét?",
+    "options": [
+      "400 mét.",
+      "800 mét.",
+      "1000 mét.",
+      "1500 mét."
+    ],
+    "answer": "400 mét.",
+    "explanation": "Mặc dù tầm bắn ghi trên thước ngắm lên đến 800m hoặc 1000m, nhưng tầm bắn mang lại hiệu quả diệt sinh lực cao nhất là 400m."
+  },
+  {
+    "question": "Hộp tiếp đạn tiêu chuẩn của súng tiểu liên AK chứa được bao nhiêu viên đạn?",
+    "options": [
+      "30 viên.",
+      "20 viên.",
+      "40 viên.",
+      "50 viên."
+    ],
+    "answer": "30 viên.",
+    "explanation": "Hộp tiếp đạn hình cong (băng đạn) tiêu chuẩn của súng tiểu liên AK có sức chứa tối đa là 30 viên đạn."
+  },
+  {
+    "question": "Súng trường tấn công súng tiểu liên AK có mấy chế độ bắn?",
+    "options": [
+      "2 chế độ bắn: phát một và liên thanh.",
+      "1 chế độ bắn duy nhất là phát một.",
+      "3 chế độ bắn: phát một, điểm loạt 3 phát và liên thanh.",
+      "1 chế độ bắn duy nhất là liên thanh."
+    ],
+    "answer": "2 chế độ bắn: phát một và liên thanh.",
+    "explanation": "Cần gạt định cách bắn của súng AK cho phép người bắn chọn hai chế độ: bắn phát một (OD) và bắn tự động/liên thanh (AV)."
+  },
+  {
+    "question": "Lựu đạn thường được kích nổ bằng những phương pháp phổ biến nào dưới đây?",
+    "options": [
+      "Thời gian (giữ chậm) hoặc va chạm (chạm nổ).",
+      "Điều khiển từ xa bằng sóng vô tuyến.",
+      "Cảm biến nhận diện khuôn mặt.",
+      "Định vị vệ tinh GPS."
+    ],
+    "answer": "Thời gian (giữ chậm) hoặc va chạm (chạm nổ).",
+    "explanation": "Lựu đạn quân dụng thông thường kích nổ bằng bộ phận giữ chậm bằng thời gian (sau khi buông mỏ vịt vài giây) hoặc nổ ngay khi va chạm vật cứng."
+  },
+  {
+    "question": "Bán kính sát thương của lựu đạn cầu LĐ-01 Việt Nam là bao nhiêu mét?",
+    "options": [
+      "6 mét.",
+      "2 mét.",
+      "15 mét.",
+      "20 mét."
+    ],
+    "answer": "6 mét.",
+    "explanation": "Theo thông số tính năng kỹ thuật trong sách giáo khoa, lựu đạn LĐ-01 có bán kính sát thương là 6 mét."
+  },
+  {
+    "question": "Trận địa tiến công của bộ binh thường được xây dựng nhằm mục đích gì?",
+    "options": [
+      "Để triển khai lực lượng xuất phát tiến công tiêu diệt địch.",
+      "Để đóng quân lâu dài và tăng gia sản xuất chăn nuôi.",
+      "Để làm nơi tổ chức hội nghị và đàm phán ngoại giao.",
+      "Để cất giấu toàn bộ tài sản của nhân dân địa phương."
+    ],
+    "answer": "Để triển khai lực lượng xuất phát tiến công tiêu diệt địch.",
+    "explanation": "Trận địa tiến công gồm hệ thống công sự, hào xuất phát để triển khai đội hình chuẩn bị đánh chiếm mục tiêu của địch."
+  },
+  {
+    "question": "Trong trận địa phòng ngự, bộ phận nào có tác dụng liên kết các công sự chiến đấu và bảo đảm cơ động an toàn?",
+    "options": [
+      "Hào chiến đấu và giao thông hào.",
+      "Hàng rào dây kẽm gai.",
+      "Bãi mìn phòng thủ.",
+      "Vọng gác trên cao."
+    ],
+    "answer": "Hào chiến đấu và giao thông hào.",
+    "explanation": "Hào chiến đấu và giao thông hào giúp kết nối các hầm, hố bắn, bảo đảm cho chiến sĩ di chuyển tránh mảnh bom đạn địch."
+  },
+  {
+    "question": "Ai là người chỉ huy cao nhất của lực lượng Dân quân tự vệ tại một xã, phường, thị trấn?",
+    "options": [
+      "Chỉ huy trưởng Ban chỉ huy quân sự cấp xã.",
+      "Chủ tịch Hội Cựu chiến binh xã.",
+      "Trưởng Công an xã.",
+      "Bí thư Đoàn thanh niên xã."
+    ],
+    "answer": "Chỉ huy trưởng Ban chỉ huy quân sự cấp xã.",
+    "explanation": "Ban chỉ huy quân sự cấp xã gồm Chỉ huy trưởng, Chính trị viên... trong đó Chỉ huy trưởng trực tiếp quản lý, chỉ huy dân quân địa phương."
+  },
+  {
+    "question": "Lực lượng Công an nhân dân Việt Nam gồm hai bộ phận cấu thành chính nào?",
+    "options": [
+      "An ninh nhân dân và Cảnh sát nhân dân.",
+      "Cảnh sát giao thông và Cảnh sát hình sự.",
+      "Lực lượng tình báo và Lực lượng đặc nhiệm.",
+      "Công an quận và Công an xã."
+    ],
+    "answer": "An ninh nhân dân và Cảnh sát nhân dân.",
+    "explanation": "Công an nhân dân Việt Nam gồm lực lượng An ninh nhân dân (chuyên trách an ninh chính trị) và Cảnh sát nhân dân (chuyên trách trật tự xã hội)."
+  },
+  {
+    "question": "Hiện tượng sạt lở đất thường xảy ra phổ biến nhất ở vùng địa hình nào?",
+    "options": [
+      "Vùng đồi núi có độ dốc lớn, thiếu thảm thực vật che phủ.",
+      "Vùng đồng bằng bằng phẳng.",
+      "Các bãi bồi, cồn cát ven biển.",
+      "Các khu đô thị trung tâm thành phố."
+    ],
+    "answer": "Vùng đồi núi có độ dốc lớn, thiếu thảm thực vật che phủ.",
+    "explanation": "Sạt lở đất xảy ra ở vùng đồi núi dốc, khi kết cấu đất đá bị mất liên kết do mưa lớn kéo dài và không có rễ cây giữ đất."
+  },
+  {
+    "question": "Tốc độ bắn lý thuyết (tự động) của súng tiểu liên AK là bao nhiêu phát/phút?",
+    "options": [
+      "600 phát/phút.",
+      "100 phát/phút.",
+      "400 phát/phút.",
+      "900 phát/phút."
+    ],
+    "answer": "600 phát/phút.",
+    "explanation": "Tốc độ bắn lý thuyết dựa trên chu kỳ cơ học của khóa nòng súng AK là 600 phát trong một phút ở chế độ bắn liên thanh."
+  },
+  {
+    "question": "Vũ khí công nghệ cao thường có đặc điểm nổi bật nào sau đây?",
+    "options": [
+      "Độ chính xác cực cao, tầm bắn xa, sức công phá lớn và có hệ thống điều khiển tự động.",
+      "Giá thành sản xuất rẻ và thô sơ.",
+      "Chỉ sử dụng bằng sức người trực tiếp không qua máy móc.",
+      "Không gây ra bất kỳ tiếng nổ nào khi tiêu diệt mục tiêu."
+    ],
+    "answer": "Độ chính xác cực cao, tầm bắn xa, sức công phá lớn và có hệ thống điều khiển tự động.",
+    "explanation": "Vũ khí công nghệ cao tích hợp các thành tựu khoa học điện tử, định vị thông minh giúp nâng cao hiệu suất trúng mục tiêu vượt trội."
+  },
+  {
+    "question": "Tại sao việc xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc phải đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam?",
+    "options": [
+      "Để bảo đảm phong trào đi đúng hướng đường lối chính trị, thống nhất sức mạnh toàn dân và giữ vững bản chất của chế độ xã hội chủ nghĩa.",
+      "Để Đảng đứng ra phân phối kinh phí tài chính trực tiếp cho từng người dân tham gia.",
+      "Vì chỉ có Đảng viên mới có quyền tham gia vào các hoạt động giữ gìn trật tự an ninh.",
+      "Để miễn trừ toàn bộ trách nhiệm pháp lý cho những người tham gia phong trào."
+    ],
+    "answer": "Để bảo đảm phong trào đi đúng hướng đường lối chính trị, thống nhất sức mạnh toàn dân và giữ vững bản chất của chế độ xã hội chủ nghĩa.",
+    "explanation": "Sự lãnh đạo của Đảng là nhân tố quyết định, bảo đảm phong trào mang tính nhân dân sâu sắc, phục vụ lợi ích tối cao của quốc gia - dân tộc."
+  },
+  {
+    "question": "Bản chất mang tính 'nhân dân' của phong trào toàn dân bảo vệ an ninh Tổ quốc được thể hiện ở điểm nào?",
+    "options": [
+      "Mọi công dân đều là chủ thể tham gia, vừa là người thực hiện vừa là người thụ hưởng thành quả an ninh.",
+      "Phong trào chỉ do người nông dân và công nhân tự phát lập nên.",
+      "Nhân dân có thể tự ý đặt ra các điều luật xử lý tội phạm thay cho tòa án.",
+      "Chỉ những người dân có hộ khẩu thường trú tại địa phương mới cần bảo vệ an ninh."
+    ],
+    "answer": "Mọi công dân đều là chủ thể tham gia, vừa là người thực hiện vừa là người thụ hưởng thành quả an ninh.",
+    "explanation": "Phong trào dựa vào sức mạnh quần chúng nhân dân. Nhân dân tham gia phát hiện, tố giác tội phạm nhằm bảo vệ cuộc sống bình yên của chính mình."
+  },
+  {
+    "question": "Tại sao bão thường đi kèm với hiện tượng ngập lụt nghiêm trọng ở vùng đồng bằng ven biển?",
+    "options": [
+      "Do lượng mưa cực lớn từ bão kết hợp với hiện tượng nước dâng do bão và triều cường ngăn dòng chảy thoát ra biển.",
+      "Do gió bão thổi mạnh làm nước biển biến thành hơi và ngưng tụ ngay lập tức.",
+      "Do người dân vùng ven biển đồng loạt xả nước sinh hoạt ra đường phố.",
+      "Do sóng thần luôn luôn xuất hiện cùng lúc với các cơn bão."
+    ],
+    "answer": "Do lượng mưa cực lớn từ bão kết hợp với hiện tượng nước dâng do bão và triều cường ngăn dòng chảy thoát ra biển.",
+    "explanation": "Bão mang lượng ẩm lớn gây mưa to diện rộng, đồng thời áp suất thấp và gió đẩy nước biển dâng tràn vào đất liền gây ngập lụt cục bộ."
+  },
+  {
+    "question": "Điểm khác biệt cốt lõi về mục đích sử dụng giữa bom cháy (bom napan) và bom thông thường (bom phá) là gì?",
+    "options": [
+      "Bom cháy dùng nhiệt độ cực cao từ phản ứng hóa học để thiêu rụi sinh lực và cơ sở vật chất; bom phá dùng sóng xung kích và mảnh vỡ để phá hủy kết cấu.",
+      "Bom cháy chỉ nổ dưới nước còn bom phá chỉ nổ trên không.",
+      "Bom cháy có độ chính xác cao nhờ định vị GPS còn bom phá rơi tự do.",
+      "Bom cháy không gây nguy hiểm cho con người bằng bom phá."
+    ],
+    "answer": "Bom cháy (bom napan) dùng nhiệt độ cực cao từ phản ứng hóa học để thiêu rụi sinh lực và cơ sở vật chất; bom phá dùng sóng xung kích và mảnh vỡ để phá hủy kết cấu.",
+    "explanation": "Bom napan giải phóng chất cháy dạng keo bám dính, tạo nhiệt độ từ 800 - 1000 độ C để hủy diệt bằng lửa; bom phá tận dụng áp suất giáp nổ để đánh sập công trình."
+  },
+  {
+    "question": "Sự khác nhau cơ bản về chức năng giữa Quân đội nhân dân và Công an nhân dân Việt Nam là gì?",
+    "options": [
+      "Quân đội chủ yếu thực hiện nhiệm vụ bảo vệ độc lập, chủ quyền lãnh thổ từ bên ngoài; Công an chủ yếu giữ gìn an ninh quốc gia và trật tự an toàn xã hội từ bên trong.",
+      "Quân đội chỉ hoạt động thời chiến; Công an chỉ hoạt động thời bình.",
+      "Quân đội sử dụng vũ khí hạng nặng; Công an hoàn toàn không được trang bị vũ khí.",
+      "Quân đội do Bộ Quốc phòng quản lý; Công an trực thuộc Ủy ban nhân dân các tỉnh."
+    ],
+    "answer": "Quân đội chủ yếu thực hiện nhiệm vụ bảo vệ độc lập, chủ quyền lãnh thổ từ bên ngoài; Công an chủ yếu giữ gìn an ninh quốc gia và trật tự an toàn xã hội từ bên trong.",
+    "explanation": "Dù phối hợp chặt chẽ, Quân đội thiên về quốc phòng (chống ngoại xâm), Công an thiên về an ninh nội địa (giữ gìn trật tự và công lý)."
+  },
+  {
+    "question": "Tại sao lực lượng Dân quân tự vệ được gọi là lực lượng vũ tranh quần chúng 'không thoát ly sản xuất'?",
+    "options": [
+      "Vì thành viên dân quân vẫn tiến hành lao động, học tập sinh hoạt bình thường tại địa phương và chỉ tập trung huấn luyện, chiến đấu khi có lệnh.",
+      "Vì họ không được nhà nước cấp kinh phí hỗ trợ hay trang bị vũ khí.",
+      "Vì họ chỉ làm nhiệm vụ sản xuất nông nghiệp trong các nông trường quân đội.",
+      "Vì họ được miễn hoàn toàn nghĩa vụ quân sự vĩnh viễn."
+    ],
+    "answer": "Vì thành viên dân quân vẫn tiến hành lao động, học tập sinh hoạt bình thường tại địa phương và chỉ tập trung huấn luyện, chiến đấu khi có lệnh.",
+    "explanation": "Dân quân tự vệ là lực lượng tại chỗ, vừa là công dân lao động tạo ra của cải vật chất, vừa sẵn sàng tay súng bảo vệ xóm làng khi có sự cố."
+  },
+  {
+    "question": "Trong nghệ thuật quân sự Việt Nam, việc kết hợp giữa trận địa phòng ngự kiên cố và các đòn tiến công cơ động có ý nghĩa như thế nào?",
+    "options": [
+      "Để tiêu hao, kìm chân địch tại chỗ, tạo thời cơ và bàn đạp cho các lực lượng cơ động tung đòn quyết định tiêu diệt địch.",
+      "Để thay thế hoàn toàn lực lượng không quân và hải quân không cần tham chiến.",
+      "Để kéo dài thời gian chiến tranh vô thời hạn chờ đồng minh đến cứu.",
+      "Để hạn chế tối đa việc phải sử dụng đến súng đạn thật trên chiến trường."
+    ],
+    "answer": "Để tiêu hao, kìm chân địch tại chỗ, tạo thời cơ và bàn đạp cho các lực lượng cơ động tung đòn quyết định tiêu diệt địch.",
+    "explanation": "Phòng ngự không đơn thuần là chịu trận mà là để tạo thế, chuyển hóa lực lượng, bẻ gãy các đợt tiến công của địch rồi chuyển sang phản công."
+  },
+  {
+    "question": "Đường ngắm cơ bản trong kỹ thuật bắn súng tiểu liên AK được xác định bằng mắt của người bắn qua các điểm nào?",
+    "options": [
+      "Chính giữa mép trên khe ngắm đến chính giữa mép trên đầu ngắm.",
+      "Mép trái khe ngắm đến mép phải đầu ngắm.",
+      "Đáy khe ngắm đến đỉnh nhọn cao nhất của vành bảo vệ đầu ngắm.",
+      "Bất kỳ điểm nào trên thân súng song song với hướng mục tiêu."
+    ],
+    "answer": "Chính giữa mép trên khe ngắm đến chính giữa mép trên đầu ngắm.",
+    "explanation": "Định nghĩa chuẩn trong SGK: Đường ngắm cơ bản là đường thẳng từ mắt người bắn qua chính giữa mép trên khe ngắm đến chính giữa mép trên đầu ngắm."
+  },
+  {
+    "question": "Khi bắn súng tiểu liên AK, nếu người bắn lấy đường ngắm cơ bản đúng nhưng điểm ngắm trên bia bị lệch sang phải, kết quả viên đạn sẽ như thế nào?",
+    "options": [
+      "Viên đạn sẽ bay lệch sang bên phải mục tiêu.",
+      "Viên đạn sẽ bay lệch sang bên trái mục tiêu.",
+      "Viên đạn vẫn trúng tâm vì súng có cơ chế tự sửa sai.",
+      "Viên đạn sẽ bay vọt lên cao hơn mục tiêu."
+    ],
+    "answer": "Viên đạn sẽ bay lệch sang bên phải mục tiêu.",
+    "explanation": "Điểm ngắm bị sai lệch về hướng nào thì điểm rơi của đầu đạn trên bia sẽ bị lệch về hướng đó tương ứng."
+  },
+  {
+    "question": "Tại sao quy trình tháo lắp súng tiểu liên AK thông thường bước đầu tiên luôn yêu cầu phải tháo hộp tiếp đạn và khám súng?",
+    "options": [
+      "Để bảo đảm an toàn tuyệt đối, tránh trường hợp còn đạn trong buồng đạn gây cướp cò nguy hiểm.",
+      "Để súng nhẹ hơn dễ thao tác các bước tiếp theo.",
+      "Để người tháo nhìn rõ bộ phận cò súng bên trong.",
+      "Vì đây là bộ phận dễ tháo nhất của khẩu súng."
+    ],
+    "answer": "Để bảo đảm an toàn tuyệt đối, tránh trường hợp còn đạn trong buồng đạn gây cướp cò nguy hiểm.",
+    "explanation": "An toàn súng đạn là nguyên tắc tối thượng. Việc khám súng bảo đảm buồng đạn trống trước khi tháo rời các chi tiết cơ khí."
+  },
+  {
+    "question": "Nguyên lý hoạt động tự động lên đạn của súng tiểu liên AK dựa trên cơ chế nào?",
+    "options": [
+      "Trích khí thuốc qua lỗ trích khí trên nòng súng tác động vào thoi đẩy bệ khóa nòng.",
+      "Lực giật lùi hoàn toàn của toàn bộ nòng súng.",
+      "Lực nén cơ học từ băng đạn đẩy lên.",
+      "Người bắn phải dùng tay kéo cần nạp đạn sau mỗi phát bắn."
+    ],
+    "answer": "Trích khí thuốc qua lỗ trích khí trên nòng súng tác động vào thoi đẩy bệ khóa nòng.",
+    "explanation": "AK-47 là súng tự động hoạt động theo nguyên lý trích khí thuốc phóng. Một phần khí đẩy đầu đạn bay đi được trích ngược lại để đẩy bệ khóa nòng lùi về phía sau, thực hiện chu trình hất vỏ đạn và nạp viên mới."
+  },
+  {
+    "question": "Mục đích chính của việc cài chốt bảo hiểm (chốt an toàn) trên cụm nổ của lựu đạn là gì?",
+    "options": [
+      "Giữ cố định mỏ vịt không cho bung ra, ngăn không cho kim hỏa đập vào hạt lửa khi chưa sử dụng.",
+      "Làm cho lựu đạn không bị ngấm nước khi trời mưa.",
+      "Giúp tăng trọng lượng để người ném có thể ném lựu đạn đi xa hơn.",
+      "Định hình thẩm mỹ cho quả lựu đạn dễ cầm nắm."
+    ],
+    "answer": "Giữ cố định mỏ vịt không cho bung ra, ngăn không cho kim hỏa đập vào hạt lửa khi chưa sử dụng.",
+    "explanation": "Chốt an toàn xuyên qua thân cụm nổ khóa chặt mỏ vịt (thìa lửa). Chỉ khi rút chốt và buông tay, mỏ vịt mới bung, giải phóng kim hỏa kích nổ."
+  },
+  {
+    "question": "Thời gian giữ chậm từ khi mỏ vịt lựu đạn LĐ-01 bung ra đến khi nổ là khoảng bao nhiêu giây?",
+    "options": [
+      "3,2 giây đến 4,2 giây.",
+      "1,0 giây đến 2,0 giây.",
+      "7,0 giây đến 8,0 giây.",
+      "Nổ ngay lập tức khi buông tay."
+    ],
+    "answer": "3,2 giây đến 4,2 giây.",
+    "explanation": "Bộ phận giữ chậm bằng thuốc cháy trong lựu đạn LĐ-01 cần khoảng thời gian từ 3,2s đến 4,2s để cháy hết trước khi kích hoạt kíp nổ chính."
+  },
+  {
+    "question": "Yêu cầu cơ bản đối với vị trí xây dựng hố bắn trong trận địa phòng ngự là gì?",
+    "options": [
+      "Phải có tầm quan sát rộng, bao quát được hướng tiến công của địch, có vật che khuất, che đỡ tốt.",
+      "Phải nằm sát đường quốc lộ lớn để tiện rút lui bằng xe.",
+      "Phải đặt ở nơi cao nhất, trống trải nhất để thách thức đối phương.",
+      "Phải hoàn toàn khép kín không cần nhìn ra bên ngoài."
+    ],
+    "answer": "Phải có tầm quan sát rộng, bao quát được hướng tiến công của địch, có vật che khuất, che đỡ tốt.",
+    "explanation": "Hố bắn cần bảo đảm góc bắn tốt nhất để tiêu diệt địch, đồng thời tận dụng địa hình để bảo vệ chiến sĩ trước hỏa lực bắn trả."
+  },
+  {
+    "question": "Tại sao vũ khí công nghệ cao của địch lại gặp khó khăn khi đối đầu với chiến thuật chiến tranh nhân dân, ngụy trang hóa và phân tán lực lượng của ta?",
+    "options": [
+      "Vì vũ khí công nghệ cao phụ thuộc lớn vào hệ thống trinh sát cảm biến; việc ngụy trang bí mật làm mất mục tiêu hoặc tạo mục tiêu giả đánh lừa hệ thống tự dẫn.",
+      "Vì vũ khí công nghệ cao chỉ có tác dụng đối với các nước có khí hậu lạnh.",
+      "Vì bom thông minh không thể nổ khi rơi vào các khu rừng rậm nhiệt đới.",
+      "Vì vũ khí công nghệ cao tự động ngừng hoạt động khi gặp lực lượng dân quân."
+    ],
+    "answer": "Vì vũ khí công nghệ cao phụ thuộc lớn vào hệ thống trinh sát cảm biến; việc ngụy trang bí mật làm mất mục tiêu hoặc tạo mục tiêu giả đánh lừa hệ thống tự dẫn.",
+    "explanation": "Cảm biến thông minh nhận diện mục tiêu dựa trên hình ảnh, nhiệt lượng hoặc sóng radar. Nghi binh, che giấu làm mù hệ thống trinh sát khiến vũ khí hiện đại mất hiệu năng."
+  },
+  {
+    "question": "Trường hợp nào sau đây thể hiện học sinh biết vận dụng trách nhiệm công dân trong phong trào toàn dân bảo vệ an ninh Tổ quốc?",
+    "options": [
+      "Phát hiện hành vi phá hoại tài sản trường học, kịp thời báo cáo với giám thị hoặc ban giám hiệu.",
+      "Chia sẻ các thông tin chưa kiểm chứng, tin đồn thất thiệt lên các hội nhóm mạng xã hội.",
+      "Tự ý lập nhóm đi bắt người tình nghi khi chưa có sự cho phép của cơ quan chức năng.",
+      "Giữ im lặng, ngó lơ khi thấy người lạ có hành vi cạy khóa xe máy của bạn học."
+    ],
+    "answer": "Phát hiện hành vi phá hoại tài sản trường học, kịp thời báo cáo với giám thị hoặc ban giám hiệu.",
+    "explanation": "Học sinh tham gia bảo vệ an ninh bằng cách chấp hành nội quy, tỉnh táo trước tệ nạn và tích cực tố giác các hành vi sai trái, vi phạm pháp luật trong môi trường học đường."
+  },
+  {
+    "question": "Khi ở trong lớp học nghe thấy tiếng còi báo động có không kích, ném bom bằng máy bay, hành động nào xử lý đúng kỹ thuật an toàn?",
+    "options": [
+      "Nhanh chóng di chuyển theo hướng dẫn xuống hầm trú ẩn hoặc nằm sấp dưới gầm bàn kiên cố, xa cửa kính, dùng balô che đầu.",
+      "Chạy nhanh ra ban công hoặc sân trường để nhìn xem máy bay bay hướng nào.",
+      "Tập trung lại thành nhóm đông ở góc lớp để cùng nhau cầu nguyện.",
+      "Leo lên tầng thượng tòa nhà vẫy tay ra hiệu cho máy bay."
+    ],
+    "answer": "Nhanh chóng di chuyển theo hướng dẫn xuống hầm trú ẩn hoặc nằm sấp dưới gầm bàn kiên cố, xa cửa kính, dùng balô che đầu.",
+    "explanation": "Hầm trú ẩn giúp tránh mảnh bom trực tiếp. Nếu không kịp, việc che đầu, tránh xa cửa kính (kính vỡ do áp lực sóng nổ) giúp giảm thiểu thương vong."
+  },
+  {
+    "question": "Một người dân phát hiện một vật thể bằng kim loại rỉ sét giống quả đạn pháo lộ ra sau trận mưa lớn. Hành động nào sau đây đảm bảo an toàn đúng quy định?",
+    "options": [
+      "Giữ nguyên hiện trường, căng dây cảnh báo không cho ai lại gần và báo ngay cho Ban chỉ huy quân sự hoặc Công an xã.",
+      "Dùng gậy kích, đập mạnh xem bên trong còn thuốc nổ hay không.",
+      "Khiêng quả đạn đem bán cho đại lý thu mua phế liệu để kiếm tiền.",
+      "Rủ mọi người xung quanh đến khiêng quả đạn về trưng bày ở phòng khách."
+    ],
+    "answer": "Giữ nguyên hiện trường, căng dây cảnh báo không cho ai lại gần and báo ngay cho Ban chỉ huy quân sự hoặc Công an xã.",
+    "explanation": "Vật liệu nổ sót lại sau chiến tranh cực kỳ nguy hiểm và nhạy nổ do biến đổi hóa học qua thời gian. Chỉ cơ quan chuyên môn (công binh) mới có thẩm quyền xử lý."
+  },
+  {
+    "question": "Khi tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc, hành vi nào bị nghiêm cấm đối với công dân?",
+    "options": [
+      "Lợi dụng phong trào để vu khống, trả thù cá nhân hoặc xâm phạm lợi ích hợp pháp của tổ chức, cá nhân.",
+      "Tố giác tội phạm ẩn nấp trên địa bàn dân cư.",
+      "Tham gia các đội tuần tra tự quản ban đêm của thôn xóm.",
+      "Tuyên truyền nhắc nhở người thân không sa vào tệ nạn ma túy."
+    ],
+    "answer": "Lợi dụng phong trào để vu khống, trả thù cá nhân hoặc xâm phạm lợi ích hợp pháp của tổ chức, cá nhân.",
+    "explanation": "Pháp luật nghiêm cấm việc mượn danh nghĩa bảo vệ an ninh để thực hiện hành vi vi phạm pháp luật, hạ uy tín người khác vì tư thù."
+  },
+  {
+    "question": "Tại sao việc trồng và bảo vệ rừng phòng hộ đầu nguồn lại là giải pháp căn cơ giúp giảm thiểu hậu quả của lũ quét và sạt lở đất?",
+    "options": [
+      "Rễ cây rừng giúp giữ mối liên kết của đất đá, thân cây làm giảm tốc độ dòng chảy của nước mưa từ trên cao đổ xuống hạ lưu.",
+      "Cây rừng có khả năng phát ra sóng âm ngăn cản mây tạo mưa lớn.",
+      "Rừng phòng hộ che khuất tầm nhìn khiến thiên tai không thể tìm đến vùng đồi núi.",
+      "Lá cây rừng hấp thụ hoàn toàn 100% lượng nước mưa không cho rơi xuống đất."
+    ],
+    "answer": "Rễ cây rừng giúp giữ mối liên kết của đất đá, thân cây làm giảm tốc độ dòng chảy của nước mưa từ trên cao đổ xuống hạ lưu.",
+    "explanation": "Thảm thực vật rừng hoạt động như một miếng bọt biển tự nhiên, giữ đất và điều tiết dòng chảy, ngăn hiện tượng sạt trượt đất đá ồ ạt."
+  },
+  {
+    "question": "Trong tình huống giả định trận địa phòng ngự của trung đội bị pháo binh địch bắn phá dữ dội, người chiến sĩ đang ở trong công sự hở nên làm gì?",
+    "options": [
+      "Nhanh chóng thu gọn vũ khí, di chuyển vào hầm trú ẩn kiên cố (hầm ếch, hầm chữ A) gần nhất và chờ dứt đợt pháo.",
+      "Đứng thẳng người lên khỏi chiến hào để bắn chặn các viên đạn pháo.",
+      "Rời bỏ trận địa chạy ngược về phía sau ra bãi trống để né pháo.",
+      "Ngồi im tại chỗ và không cần thực hiện bất kỳ động tác ngụy trang nào."
+    ],
+    "answer": "Nhanh chóng thu gọn vũ khí, di chuyển vào hầm trú ẩn kiên cố (hầm ếch, hầm chữ A) gần nhất và chờ dứt đợt pháo.",
+    "explanation": "Hầm trú ẩn có mái che kiên cố bảo vệ chiến sĩ an toàn trước các mảnh vỡ pháo nổ mảnh và áp lực sóng xung kích."
+  },
+  {
+    "question": "Khi thực hiện động tác nằm bắn súng tiểu liên AK, bộ phận nào của cơ thể đóng vai trò làm bệ đỡ chính tạo thế kiềng ba chân vững chắc cho súng?",
+    "options": [
+      "Hai khuỷu tay chống vững xuống mặt đất kết hợp với thân người nằm sấp.",
+      "Hai bàn tay nâng bổng súng tự do trên không.",
+      "Bờ vai phải ép chặt vào báng súng không cần dùng tay.",
+      "Hai đầu gối quỳ gập xuống mặt đất."
+    ],
+    "answer": "Hai khuỷu tay chống vững xuống mặt đất kết hợp với thân người nằm sấp.",
+    "explanation": "Tư thế nằm sấp, hai khuỷu tay mở rộng tì vững trên mặt đất tạo thành mặt chân đế rộng vững vàng, giảm tối đa độ rung bần bật khi súng giật."
+  },
+  {
+    "question": "Trong quá trình ngắm bắn súng AK, tại sao người bắn cần phải thực hiện nhịp bóp cò 'êm, đều, bắn phát một thì kéo thẳng trục cò về sau cho đến khi súng nổ bất ngờ'?",
+    "options": [
+      "Để tránh hiện tượng giật cục cò đột ngột làm chúi nòng súng, gây sai lệch đường ngắm chuẩn đã xác định.",
+      "Để tiết kiệm lượng khí thuốc phóng thoát ra ngoài.",
+      "Để súng không phát ra tiếng nổ quá lớn làm chói tai.",
+      "Để vỏ đạn sau khi nổ tự động rơi đúng vào túi đựng vỏ đạn."
+    ],
+    "answer": "Để tránh hiện tượng giật cục cò đột ngột làm chúi nòng súng, gây sai lệch đường ngắm chuẩn đã xác định.",
+    "explanation": "Lỗi giật cò (bóp cò đột ngột bằng lực mạnh của ngón tay) là nguyên nhân chính khiến súng bị rung động ngay trước thời điểm kim hỏa đập vào hạt lửa, làm đạn bay lệch bia."
+  },
+  {
+    "question": "Nếu lựu đạn bị dính nước hoặc để ở nơi ẩm ướt lâu ngày, nguy cơ mất an toàn nào nguy hiểm nhất có thể xảy ra khi sử dụng?",
+    "options": [
+      "Thuốc giữ chậm biến chất có thể gây nổ tức thì khi vừa buông mỏ vịt hoặc lựu đạn bị thối không nổ tạo thành bẫy nguy hiểm.",
+      "Quả lựu đạn sẽ tự động tăng kích thước lên gấp đôi.",
+      "Lựu đạn sẽ biến thành màu xanh và phát quang trong đêm.",
+      "Vỏ lựu đạn tự động tan chảy thành chất lỏng vô hại."
+    ],
+    "answer": "Thuốc giữ chậm biến chất có thể gây nổ tức thì khi vừa buông mỏ vịt hoặc lựu đạn bị thối không nổ tạo thành bẫy nguy hiểm.",
+    "explanation": "Độ ẩm có thể làm hỏng cơ cấu hóa học của thuốc giữ chậm, khiến tốc độ cháy không còn chính xác (cháy nhanh gây nổ sớm trên tay rất nguy hiểm) hoặc đạn lép."
+  },
+  {
+    "question": "Tại sao việc thiết kế hệ thống giao thông hào trong trận địa phòng ngự lại phải uốn lượn theo hình chữ Z hoặc hình răng cưa mà không làm thẳng tuột?",
+    "options": [
+      "Để giới hạn phạm vi sát thương của mảnh bom đạn nếu rơi trúng hào, đồng thời ngăn địch bắn dọc thẳng theo lòng hào khi chúng tràn vào.",
+      "Để tiết kiệm diện tích đất canh tác của địa phương.",
+      "Để đánh lừa hướng bay của các loại máy bay trinh sát tầm cao.",
+      "Để các chiến sĩ đi bộ trong hào tập thể dục tăng cường thể lực."
+    ],
+    "answer": "Để giới hạn phạm vi sát thương của mảnh bom đạn nếu rơi trúng hào, đồng thời ngăn địch bắn dọc thẳng theo lòng hào khi chúng tràn vào.",
+    "explanation": "Giao thông hào gấp khúc cấu mặt cản cơ học. Nếu pháo nổ ở một đoạn hào, sóng nổ và mảnh đạn bị chặn bởi các góc cua, bảo vệ tính mạng cho chiến sĩ ở các đoạn hào kế tiếp."
+  },
+  {
+    "question": "Phân tích vì sao việc kết hợp chặt chẽ giữa thế trận Quốc phòng toàn dân và thế trận An ninh nhân dân lại tạo nên sức mạnh tổng hợp bảo vệ Tổ quốc?",
+    "options": [
+      "Vì tạo ra sự phối hợp nhịp nhàng giữa lực lượng chống giặc ngoại xâm (Quân đội) và lực lượng giữ gìn trật tự nội địa (Công an), tạo thế trận khép kín toàn diện.",
+      "Vì giúp nhà nước cắt giảm hoàn toàn ngân sách dành cho quốc phòng.",
+      "Vì hai thế trận này sẽ gộp hai Bộ Quốc phòng và Bộ Công an thành một bộ duy nhất.",
+      "Vì giúp người dân không cần phải thực hiện nghĩa vụ đi lính hằng năm."
+    ],
+    "answer": "Vì tạo ra sự phối hợp nhịp nhàng giữa lực lượng chống giặc ngoại xâm (Quân đội) và lực lượng giữ gìn trật tự nội địa (Công an), tạo thế trận khép kín toàn diện.",
+    "explanation": "Xâm phạm an ninh quốc gia luôn có sự liên kết giữa các thế lực thù địch bên ngoài và bọn phản động bên trong. Kết hợp hai thế trận bảo đảm 'trong ấm, ngoài êm', bảo vệ đất nước từ sớm, từ xa."
+  },
+  {
+    "question": "Nhà trường giao cho bạn Nam nhiệm vụ làm một bài thuyết trình về 'Các biện pháp phòng chống tội phạm công nghệ cao trong học đường'. Dựa vào kiến thức bài học, nội dung nào sau đây là giải pháp thực tế nhất Nam nên đưa vào?",
+    "options": [
+      "Nâng cao cảnh giác, không đăng nhập link lạ, không chia sẻ mã OTP ngân hàng, không tham gia hội nhóm lừa đảo mạng và báo công an khi bị tống tiền qua mạng.",
+      "Khuyên các bạn học sinh tuyệt đối đập bỏ toàn bộ điện thoại thông minh, không sử dụng mạng Internet.",
+      "Tự học cách hack (tấn công mạng) vào tài khoản của các bạn khác để kiểm tra an ninh.",
+      "Yêu cầu nhà trường tắt toàn bộ hệ thống điện lưới để ngăn chặn sóng wifi hoạt động."
+    ],
+    "answer": "Nâng cao cảnh giác, không đăng nhập link lạ, không chia sẻ mã OTP ngân hàng, không tham gia hội nhóm lừa đảo mạng và báo công an khi bị tống tiền qua mạng.",
+    "explanation": "Tội phạm mạng đánh vào sự thiếu hiểu biết để lừa đảo chiếm đoạt tài sản. Bảo mật thông tin cá nhân và trang bị kỹ năng số là tấm khiên bảo vệ học sinh hiệu quả nhất."
+  },
+  {
+    "question": "Trong một trận tập kích tiến công, tiểu đội trưởng ra lệnh cho chiến sĩ sử dụng súng tiểu liên AK bắn tiêu diệt cụm bộ binh địch đang hành tiến ở cự ly 350m. Chiến sĩ nên chọn thước ngắm số mấy trên súng để bảo đảm xác suất trúng cao nhất?",
+    "options": [
+      "Thước ngắm số 3 hoặc thước ngắm chữ 'P' (thước ngắm chiến đấu).",
+      "Thước ngắm số 1.",
+      "Thước ngắm số 8.",
+      "Không cần dùng thước ngắm, cứ chĩa thẳng nòng súng lên trời bắn."
+    ],
+    "answer": "Thước ngắm số 3 hoặc thước ngắm chữ 'P' (thước ngắm chiến đấu).",
+    "explanation": "Cự ly mục tiêu là 350m, việc chọn thước ngắm tương ứng số 3 (bắn tầm 300m) hoặc thước ngắm chiến đấu 'P' (tương đương thước ngắm 3) giúp quỹ đạo đường đạn quét qua chiều cao mục tiêu người đứng ổn định nhất."
+  },
+  {
+    "question": "Giả định trong bài thực hành ném lựu đạn bài 1 trúng đích, bạn Hùng vung tay ném quả lựu đạn tập đi với một lực rất mạnh, góc ném hướng thẳng song song sát mặt đất (góc ném quá thấp khoảng 10 độ). Quỹ đạo bay và kết quả của quả lựu đạn sẽ như thế nào?",
+    "options": [
+      "Lựu đạn bay sát mặt đất, nhanh chóng chạm đất sớm rồi lăn sệt trên cỏ, không đạt được cự ly xa của đích ngắm.",
+      "Lựu đạn sẽ bay bổng vọt lên tận mây xanh rồi rơi thẳng đứng trúng tâm bia.",
+      "Lựu đạn sẽ bay vòng vèo hình chữ S rồi tự động bay trúng đích.",
+      "Lựu đạn sẽ phát nổ ngay trên không trung khi vừa rời khỏi tay Hùng."
+    ],
+    "answer": "Lựu đạn bay sát mặt đất, nhanh chóng chạm đất sớm rồi lăn sệt trên cỏ, không đạt được cự ly xa của đích ngắm.",
+    "explanation": "Theo nguyên lý vật lý ném vật, góc ném tối ưu để đạt tầm xa lớn nhất là khoảng 40 - 45 độ. Góc ném quá thấp khiến thành phần vận tốc theo phương thẳng đứng nhỏ, trọng lực nhanh chóng kéo vật rơi chạm đất trước khi kịp tiến xa."
+  },
+  {
+    "question": "Tại sao trong chiến tranh bảo vệ Tổ quốc tương lai, nếu đối phương sử dụng áp đảo vũ khí công nghệ cao (tên lửa hành trình, máy bay không người lái drone), việc ta kiên trì xây dựng hệ thống công sự ngầm kiên cố kết hợp hỏa lực phòng không nhân dân tầm thấp lại là chìa khóa bẻ gãy ưu thế của địch?",
+    "options": [
+      "Hệ thống công sự ngầm giúp bảo toàn lực lượng trước các đợt không kích hủy diệt, còn hỏa lực tầm thấp bủa vây đánh chặn drone bám địa hình, tước đoạt ưu thế làm chủ bầu trời của địch.",
+      "Vì vũ khí công nghệ cao của địch tự động hỏng hóc khi bay qua các trận địa có đào hầm ngầm đất.",
+      "Vì hầm ngầm có thể phát ra từ trường cực mạnh hút toàn bộ tên lửa hành trình của đối phương rơi xuống đất.",
+      "Vì khi ta trốn hết xuống lòng đất, địch sẽ chán nản tự rút quân về nước mà không đánh nữa."
+    ],
+    "answer": "Hệ thống công sự ngầm giúp bảo toàn lực lượng trước các đợt không kích hủy diệt, còn hỏa lực tầm thấp bủa vây đánh chặn drone bám địa hình, tước đoạt ưu thế làm chủ bầu trời của địch.",
+    "explanation": "Vũ khí công nghệ cao dù chính xác nhưng khó phá hủy các công trình ngầm sâu trong lòng đất đá. Khi hỏa lực tầm cao của địch bị vô hiệu hóa bởi hầm ngầm, lưới lửa tầm thấp của phòng không nhân dân (súng máy, cao xạ) sẽ bắn hạ các phương tiện bay thấp trinh sát, bẻ gãy chuỗi tác chiến của địch."
+  }
+]
+
+

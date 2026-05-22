@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Lãnh thổ toàn vẹn của nước ta bao gồm các bộ phận nào sau đây?",
+    "options": [
+      "Vùng đất, vùng biển và vùng trời",
+      "Vùng đất, vùng trời và thềm lục địa",
+      "Vùng đất, vùng biển và đảo, quần đảo",
+      "Vùng đất, nội thủy và lãnh hải"
+    ],
+    "answer": "Vùng đất, vùng biển và vùng trời",
+    "explanation": "Theo quy định pháp lý quốc tế và nội luật, lãnh thổ nước ta là một khối thống nhất và toàn vẹn, bao gồm ba bộ phận cấu thành cơ bản là vùng đất, vùng biển và vùng trời."
+  },
+  {
+    "question": "Nước Việt Nam nằm ở phía nào của bán đảo Đông Dương?",
+    "options": [
+      "Phía tây",
+      "Phía đông",
+      "Phía nam",
+      "Trung tâm"
+    ],
+    "answer": "Phía đông",
+    "explanation": "Về mặt vị trí địa lý trong khu vực, Việt Nam nằm ở phía rìa đông của bán đảo Đông Dương, tiếp giáp trực tiếp với Biển Đông."
+  },
+  {
+    "question": "Điểm cực Bắc trên đất liền của nước ta thuộc tỉnh nào sau đây?",
+    "options": [
+      "Lào Cai",
+      "Cao Bằng",
+      "Hà Giang",
+      "Lạng Sơn"
+    ],
+    "answer": "Hà Giang",
+    "explanation": "Điểm cực Bắc trên đất liền của Việt Nam nằm ở vĩ độ 23 độ 23 phút Bắc tại xã Lũng Cú, huyện Đồng Văn, tỉnh Hà Giang."
+  },
+  {
+    "question": "Đường bờ biển của nước ta kéo dài từ tỉnh Quảng Ninh đến tỉnh nào sau đây?",
+    "options": [
+      "Cà Mau",
+      "Kiên Giang",
+      "Bạc Liêu",
+      "An Giang"
+    ],
+    "answer": "Kiên Giang",
+    "explanation": "Nước ta có đường bờ biển dài khoảng 3260 km, chạy dọc theo chiều dài đất nước bắt đầu từ tỉnh Quảng Ninh và kết thúc tại tỉnh Kiên Giang."
+  },
+  {
+    "question": "Vùng biển thuộc chủ quyền tuyệt đối trên biển của quốc gia ven biển, được tính từ đường cơ sở đến vĩ tuyến phía ngoài được gọi là gì?",
+    "options": [
+      "Nội thủy",
+      "Lãnh hải",
+      "Vùng tiếp giáp lãnh hải",
+      "Vùng đặc quyền kinh tế"
+    ],
+    "answer": "Lãnh hải",
+    "explanation": "Lãnh hải là vùng biển có chiều rộng 12 hải lý tính từ đường cơ sở, tại đây quốc gia ven biển thực hiện chủ quyền hoàn toàn và đầy đủ như trên đất liền."
+  },
+  {
+    "question": "Địa hình nước ta có đặc điểm cơ bản nào sau đây?",
+    "options": [
+      "Đồng bằng chiếm phần lớn diện tích",
+      "Đồi núi chiếm ba phần tư diện tích lãnh thổ",
+      "Địa hình chủ yếu là các sơn nguyên cổ",
+      "Địa hình thấp dần từ đông sang tây"
+    ],
+    "answer": "Đồi núi chiếm ba phần tư diện tích lãnh thổ",
+    "explanation": "Đặc điểm nổi bật đầu tiên của địa hình Việt Nam là đồi núi chiếm phần lớn diện tích, cụ thể là chiếm 3 phần 4 diện tích đất liền, nhưng chủ yếu là đồi núi thấp."
+  },
+  {
+    "question": "Dãy núi nào sau đây được xem là ranh giới tự nhiên giữa hai vùng khí hậu Bắc và Nam của nước ta?",
+    "options": [
+      "Dãy Hoàng Liên Sơn",
+      "Dãy Trường Sơn Bắc",
+      "Dãy Bạch Mã",
+      "Dãy Hoành Sơn"
+    ],
+    "answer": "Dãy Bạch Mã",
+    "explanation": "Dãy núi Bạch Mã có hướng chạy đâm ngang ra biển, đóng vai trò là bức tường chắn gió mùa Đông Bắc, tạo nên ranh giới khí hậu miền Bắc và miền Nam."
+  },
+  {
+    "question": "Vùng đồi núi Đông Bắc nước ta có đặc điểm hướng núi chính nào sau đây?",
+    "options": [
+      "Hướng tây bắc - đông nam",
+      "Hướng vòng cung",
+      "Hướng tây - đông",
+      "Hướng bắc - nam"
+    ],
+    "answer": "Hướng vòng cung",
+    "explanation": "Vùng núi Đông Bắc nổi tiếng với cấu trúc địa hình gồm bốn cánh cung núi lớn mở rộng về phía bắc và đông bắc, hội tụ lại ở đỉnh núi Tam Đảo."
+  },
+  {
+    "question": "Đỉnh núi cao nhất Việt Nam và toàn bán đảo Đông Dương là đỉnh núi nào?",
+    "options": [
+      "Tây Côn Lĩnh",
+      "Phan-xi-păng",
+      "Ngọc Linh",
+      "Pu Si Lung"
+    ],
+    "answer": "Phan-xi-păng",
+    "explanation": "Đỉnh Phan-xi-păng nằm trên dãy Hoàng Liên Sơn với độ cao tự nhiên là 3143 mét, được mệnh danh là nóc nhà của Đông Dương."
+  },
+  {
+    "question": "Đồng bằng sông Cửu Long của nước ta được hình thành chủ yếu do sự bồi đắp phù sa của hệ thống sông nào?",
+    "options": [
+      "Sông Hồng",
+      "Sông Đồng Nai",
+      "Sông Mê Công",
+      "Sông Mã"
+    ],
+    "answer": "Sông Mê Công",
+    "explanation": "Đồng bằng sông Cửu Long là đồng bằng châu thổ lớn nhất nước ta, được tạo nên từ quá trình tích tụ phù sa lâu đời của hạ lưu hệ thống sông Mê Công."
+  },
+  {
+    "question": "Tính chất khí hậu cơ bản và bao trùm của nước ta là gì?",
+    "options": [
+      "Khí hậu ôn đới hải dương",
+      "Khí hậu nhiệt đới ẩm gió mùa",
+      "Khí hậu cận nhiệt địa trung hải",
+      "Khí hậu nhiệt đới khô hạn"
+    ],
+    "answer": "Khí hậu nhiệt đới ẩm gió mùa",
+    "explanation": "Nằm hoàn toàn trong vùng nội chí tuyến Bắc bán cầu, lại giáp biển Đông và chịu tác động của các khối gió mùa nên khí hậu nước ta có tính chất nhiệt đới ẩm gió mùa."
+  },
+  {
+    "question": "Gió mùa mùa đông hoạt động ở miền Bắc nước ta có nguồn gốc từ khối khí nào sau đây?",
+    "options": [
+      "Khối khí áp cao Xi-bia",
+      "Khối khí vịnh Ben-gan",
+      "Khối khí áp cao Nam Ấn Độ Dương",
+      "Khối khí áp cao cận chí tuyến Tây Thái Bình Dương"
+    ],
+    "answer": "Khối khí áp cao Xi-bia",
+    "explanation": "Gió mùa Đông Bắc thổi vào nước ta từ tháng 11 đến tháng 4 năm sau, có nguồn gốc từ trung tâm áp cao lạnh Xi-bia ở lục địa Á - Âu."
+  },
+  {
+    "question": "Trong một năm, sông ngòi nước ta thường có hai mùa nước phân hóa rõ rệt là những mùa nào?",
+    "options": [
+      "Mùa xuân và mùa hạ",
+      "Mùa lũ và mùa cạn",
+      "Mùa mưa và mùa khô",
+      "Mùa nước lớn và mùa nước ngầm"
+    ],
+    "answer": "Mùa lũ và mùa cạn",
+    "explanation": "Do nguồn nước sông chủ yếu do nước mưa cung cấp, chế độ nước sông ngòi nước ta phân hóa thành hai mùa rõ rệt là mùa lũ tương ứng mùa mưa và mùa cạn tương ứng mùa khô."
+  },
+  {
+    "question": "Nhóm đất chiếm diện tích lớn nhất và có phân bố rộng rãi nhất ở vùng đồi núi nước ta là nhóm đất nào?",
+    "options": [
+      "Đất phù sa sông",
+      "Đất feralit",
+      "Đất xám bạc màu",
+      "Đất mùn núi cao"
+    ],
+    "answer": "Đất feralit",
+    "explanation": "Trong điều kiện khí hậu nhiệt đới ẩm, quá trình feralit diễn ra mạnh mẽ ở vùng đồi núi thấp, làm cho đất feralit trở thành nhóm đất chiếm diện tích lớn nhất nước ta."
+  },
+  {
+    "question": "Kiểu thảm thực vật tự nhiên tiêu biểu và nguyên sinh của nước ta là gì?",
+    "options": [
+      "Rừng ôn đới lá kim",
+      "Rừng rậm nhiệt đới ẩm lá rộng thường xanh",
+      "Xa van và cây bụi gai khô hạn",
+      "Rừng thưa rụng lá mùa khô"
+    ],
+    "answer": "Rừng rậm nhiệt đới ẩm lá rộng thường xanh",
+    "explanation": "Nhờ lượng nhiệt lớn và độ ẩm dồi dào quanh năm, cảnh quan thực vật nguyên sinh tiêu biểu của Việt Nam là hệ sinh thái rừng rậm nhiệt đới ẩm lá rộng thường xanh."
+  },
+  {
+    "question": "Vùng núi Tây Bắc nước ta có hướng núi chính là hướng nào?",
+    "options": [
+      "Hướng vòng cung",
+      "Hướng tây bắc - đông nam",
+      "Hướng tây - đông",
+      "Hướng kinh tuyến bắc - nam"
+    ],
+    "answer": "Hướng tây bắc - đông nam",
+    "explanation": "Vùng núi Tây Bắc có địa hình cao nhất nước ta với các dãy núi lớn chạy song song theo hướng chủ đạo là hướng tây bắc - đông nam."
+  },
+  {
+    "question": "Vào nửa sau mùa đông, thời tiết ở miền Bắc nước ta thường có đặc điểm nổi bật nào?",
+    "options": [
+      "Hanh khô, trời rét buốt",
+      "Lạnh, ẩm ướt và có mưa phùn",
+      "Nóng bức, khô hạn kéo dài",
+      "Mưa lớn kèm theo giông lốc"
+    ],
+    "answer": "Lạnh, ẩm ướt và có mưa phùn",
+    "explanation": "Nửa sau mùa đông, khối áp cao Xi-bia dịch chuyển về phía đông qua biển, mang theo nhiều hơi ẩm vào đất liền gây nên thời tiết lạnh ẩm và hiện tượng mưa phùn ven biển, đồng bằng."
+  },
+  {
+    "question": "Đồng bằng sông Hồng có đặc điểm địa hình khác biệt nào so với Đồng bằng sông Cửu Long?",
+    "options": [
+      "Có hệ thống đê ngăn lũ vững chắc chia cắt bề mặt đồng bằng",
+      "Có mạng lưới kênh rạch chằng chịt không có đê",
+      "Bị ngập lụt diện rộng vào mùa mưa do triều cường",
+      "Diện tích rộng lớn và bằng phẳng hơn nhiều"
+    ],
+    "answer": "Có hệ thống đê ngăn lũ vững chắc chia cắt bề mặt đồng bằng",
+    "explanation": "Đồng bằng sông Hồng có lịch sử đắp đê trị thủy lâu đời, tạo nên các ô trũng trong đê không được bồi đắp phù sa thường xuyên. Còn đồng bằng sông Cửu Long thì không có đê lớn và có mạng lưới kênh rạch tự nhiên dày đặc hơn."
+  },
+  {
+    "question": "Hệ sinh thái rừng ngập mặn phát triển mạnh nhất ở vùng ven biển nào của nước ta?",
+    "options": [
+      "Ven biển miền Trung",
+      "Ven biển Nam Bộ",
+      "Ven biển Bắc Bộ",
+      "Ven biển vịnh Bắc Bộ"
+    ],
+    "answer": "Ven biển Nam Bộ",
+    "explanation": "Vùng ven biển Nam Bộ, đặc biệt là khu vực Tây Nam Bộ có bãi triều rộng, đất bùn mặn, khí hậu nóng quanh năm thuận lợi nhất cho rừng ngập mặn phát triển quy mô lớn."
+  },
+  {
+    "question": "Khoáng sản nào sau đây có trữ lượng lớn nhất và đang được khai thác nhiều ở vùng thềm lục địa phía Nam nước ta?",
+    "options": [
+      "Than đá",
+      "Dầu mỏ và khí tự nhiên",
+      "Quặng sắt",
+      "Bô-xít"
+    ],
+    "answer": "Dầu mỏ và khí tự nhiên",
+    "explanation": "Vùng thềm lục địa phía Nam nước ta chứa các bể trầm tích lớn, là nơi tập trung trữ lượng dầu mỏ và khí đốt chiến lược của quốc gia."
+  },
+  {
+    "question": "Vị trí địa lí nằm hoàn toàn trong vùng nội chí tuyến mang lại hệ quả nào sau đây cho khí hậu nước ta?",
+    "options": [
+      "Lượng mưa trung bình năm cực kỳ thấp",
+      "Tổng số giờ nắng lớn, cán cân bức xạ quanh năm dương",
+      "Biên độ nhiệt độ năm ở miền Nam rất lớn",
+      "Thường xuyên chịu ảnh hưởng của bão tuyết"
+    ],
+    "answer": "Tổng số giờ nắng lớn, cán cân bức xạ quanh năm dương",
+    "explanation": "Do nằm trong vùng nội chí tuyến nên nước ta có góc nhập xạ lớn quanh năm, mọi nơi đều có hai lần mặt trời đi qua thiên đỉnh, dẫn đến tổng lượng bức xạ lớn, nhiều nắng và nhiệt độ trung bình năm cao."
+  },
+  {
+    "question": "Tại sao thiên nhiên nước ta mang tính chất hải dương sâu sắc hơn so với các quốc gia có cùng vĩ độ ở Tây Á?",
+    "options": [
+      "Do lãnh thổ trải dài trên nhiều vĩ độ",
+      "Do có vùng biển Đông rộng lớn, ấm và tương đối kín bao bọc phía đông",
+      "Do có nhiều hệ thống sông lớn chảy ra biển",
+      "Do ảnh hưởng của các dãy núi chạy dọc biên giới"
+    ],
+    "answer": "Do có vùng biển Đông rộng lớn, ấm và tương đối kín bao bọc phía đông",
+    "explanation": "Biển Đông là một bể chứa nước khổng lồ tạo nguồn nhiệt ẩm dồi dào. Gió thổi từ biển vào mang theo hơi ẩm làm dịu tính chất khô nóng của khí hậu nội địa, biến nước ta thành một ốc đảo xanh tươi khác hẳn vùng hoang mạc Tây Á cùng vĩ độ."
+  },
+  {
+    "question": "Địa hình vùng núi Trường Sơn Bắc và Trường Sơn Nam nước ta có điểm khác biệt cơ bản nào?",
+    "options": [
+      "Trường Sơn Bắc cao hơn Trường Sơn Nam rất nhiều",
+      "Trường Sơn Bắc gồm các dãy núi song song, Trường Sơn Nam là các khối núi và cao nguyên xếp tầng",
+      "Trường Sơn Bắc có hướng vòng cung, Trường Sơn Nam hướng tây bắc - đông nam",
+      "Trường Sơn Nam thấp và hẹp ngang hơn Trường Sơn Bắc"
+    ],
+    "answer": "Trường Sơn Bắc gồm các dãy núi song song, Trường Sơn Nam là các khối núi và cao nguyên xếp tầng",
+    "explanation": "Trường Sơn Bắc cấu tạo bởi các dãy núi chạy song song và so le nhau theo hướng tây bắc - đông nam. Trường Sơn Nam lại là vùng nâng sụp bất đối xứng, có các khối núi cao phía đông và các cao nguyên đất đỏ ba-zan bằng phẳng xếp tầng ở phía tây."
+  },
+  {
+    "question": "Nguyên nhân chính nào làm cho sông ngòi nước ta có lượng nước dồi dào và hàm lượng phù sa lớn?",
+    "options": [
+      "Địa hình dốc và lòng sông hẹp",
+      "Lượng mưa năm lớn và quá trình xâm thực, xói mòn mạnh ở vùng đồi núi",
+      "Sông ngòi chảy qua các vùng đồng bằng rộng",
+      "Có nhiều hồ đầm điều hòa dòng chảy"
+    ],
+    "answer": "Lượng mưa năm lớn và quá trình xâm thực, xói mòn mạnh ở vùng đồi núi",
+    "explanation": "Mưa lớn và tập trung theo mùa cung cấp khối lượng nước khổng lồ cho sông ngòi. Đồng thời, mưa lớn rơi xuống vùng đồi núi có địa hình dốc, lớp phủ thực vật bị suy giảm gây ra xói mòn mạnh, bào mòn đất đá mang lại lượng phù sa lớn cho dòng sông."
+  },
+  {
+    "question": "Nguyên nhân chủ yếu nào tạo nên sự phân hóa khí hậu rõ rệt giữa miền Bắc và miền Nam nước ta?",
+    "options": [
+      "Do hình dáng lãnh thổ hẹp ngang và giáp biển",
+      "Do tác động của gió mùa Đông Bắc giảm dần từ bắc vào nam kết hợp với sự tăng vĩ độ",
+      "Do sự khác nhau về cấu trúc địa chất và các loại đất",
+      "Do miền Nam có ít sông ngòi lớn hơn miền Bắc"
+    ],
+    "answer": "Do tác động của gió mùa Đông Bắc giảm dần từ bắc vào nam kết hợp với sự tăng vĩ độ",
+    "explanation": "Miền Bắc nằm ở vĩ độ cao hơn và đón nhận trực tiếp, mạnh mẽ nhất các đợt gió mùa Đông Bắc lạnh. Khi di chuyển vào phía Nam, khối khí này bị suy yếu và bị chặn lại bởi dãy Bạch Mã, làm cho miền Nam hầu như không chịu ảnh hưởng của không khí lạnh, quanh năm nóng."
+  },
+  {
+    "question": "Vì sao đất feralit ở vùng đồi núi thấp nước ta thường có màu đỏ vàng đặc trưng?",
+    "options": [
+      "Do chứa nhiều cát và sỏi quặng",
+      "Do quá trình tích tụ mùn diễn ra quá nhanh",
+      "Do có sự tích tụ mạnh mẽ của oxit sắt và oxit nhôm",
+      "Do đất bị ngập nước lâu ngày bị glêi hóa"
+    ],
+    "answer": "Do có sự tích tụ mạnh mẽ của oxit sắt và oxit nhôm",
+    "explanation": "Trong môi trường nhiệt đới ẩm cao, quá trình rửa trôi các chất base dễ tan diễn ra mạnh, trong khi các hợp chất oxit sắt và oxit nhôm ít hòa tan bị tích tụ lại ở tầng đất mặt, tạo nên màu đỏ vàng đặc trưng cho đất feralit."
+  },
+  {
+    "question": "Thời tiết khô nóng, xuất hiện hiện tượng 'gió Lào' gay gắt ở vùng ven biển miền Trung vào đầu mùa hạ do nguyên nhân nào?",
+    "options": [
+      "Gió mùa Đông Bắc thổi qua dãy Trường Sơn",
+      "Gió tây nam từ vịnh Ben-gan vượt qua dãy Trường Sơn bị biến tính phơn",
+      "Khối khí từ lục địa Trung Hoa di chuyển xuống phía nam",
+      "Tác động trực tiếp của dòng biển nóng ven bờ"
+    ],
+    "answer": "Gió tây nam từ vịnh Ben-gan vượt qua dãy Trường Sơn bị biến tính phơn",
+    "explanation": "Đầu mùa hạ, gió tây nam thổi từ vịnh Ben-gan mang theo nhiều hơi ẩm, khi gặp dãy núi Trường Sơn chạy dọc biên giới sẽ sinh mưa ở sườn tây (Lào). Sau khi trút hết mưa, khối khí vượt qua đỉnh núi sang sườn đông (miền Trung Việt Nam) trở nên khô và nóng dữ dội."
+  },
+  {
+    "question": "Tính chất nhiệt đới ẩm gió mùa của sông ngòi nước ta thể hiện rõ nhất qua đặc điểm nào?",
+    "options": [
+      "Sông có hướng chảy chính là hướng tây - đông",
+      "Mạng lưới sông ngòi dày đặc, nhiều nước, nhiều phù sa và chế độ nước theo mùa",
+      "Phần lớn các sông đều là sông ngắn và có độ dốc lớn",
+      "Tất cả các hệ thống sông đều đổ ra Biển Đông"
+    ],
+    "answer": "Mạng lưới sông ngòi dày đặc, nhiều nước, nhiều phù sa và chế độ nước theo mùa",
+    "explanation": "Mưa nhiều tạo ra mạng lưới sông dày đặc và lượng nước dồi dào; mưa tập trung theo mùa làm chế độ nước sông có mùa lũ - mùa cạn trùng với mùa mưa - mùa khô; xâm thực mạnh vùng đồi núi tạo nên lượng phù sa lớn. Đó là biểu hiện trực tiếp của khí hậu lên thủy văn."
+  },
+  {
+    "question": "Tại sao vùng biển miền Trung nước ta có độ mặn của nước biển cao hơn và có nguồn hải sản phong phú hơn các vùng biển khác?",
+    "options": [
+      "Do có rất nhiều hệ thống sông lớn đổ nước ngọt ra biển",
+      "Do mưa nhiều quanh năm và có thềm lục địa rất rộng nông",
+      "Do ít sông lớn đổ ra biển, có hiện tượng nước trồi và các dòng hải lưu luân chuyển",
+      "Do vùng biển này hoàn toàn đóng kín không giao lưu"
+    ],
+    "answer": "Do ít sông lớn đổ ra biển, có hiện tượng nước trồi và các dòng hải lưu luân chuyển",
+    "explanation": "Vùng biển miền Trung có ít hệ thống sông lớn đổ nước ngọt ra nên độ mặn duy trì ở mức cao. Địa hình bờ biển dốc, thềm lục địa hẹp sâu tạo điều kiện xuất hiện dòng nước trồi (nước lạnh từ dưới sâu mang theo nhiều dinh dưỡng lên bề mặt) giúp sinh vật biển phát triển mạnh."
+  },
+  {
+    "question": "Đai cao cận nhiệt đới gió mùa trên núi ở nước ta có đặc điểm thổ nhưỡng và thực vật tiêu biểu nào?",
+    "options": [
+      "Đất feralit có mùn và rừng hỗn hợp cây lá rộng, cây lá kim",
+      "Đất mùn thô và thực vật bụi lùn, rêu",
+      "Đất phù sa cổ và rừng thưa rụng lá",
+      "Đất feralit đỏ vàng và rừng rậm nhiệt đới"
+    ],
+    "answer": "Đất feralit có mùn và rừng hỗn hợp cây lá rộng, cây lá kim",
+    "explanation": "Khi lên cao, nhiệt độ giảm làm giảm tốc độ phân hủy chất hữu cơ, hình thành đất feralit có mùn. Khí hậu mát mẻ thích hợp cho các loài cây lá rộng cận nhiệt và cây lá kim (như thông, pơ-mu) phát triển."
+  },
+  {
+    "question": "Vùng đất dải đồng bằng ven biển miền Trung nước ta có đặc điểm đất đai cơ bản nào?",
+    "options": [
+      "Đất phù sa màu mỡ vô cùng rộng lớn",
+      "Đất chủ yếu là đất cát, nghèo dinh dưỡng, ít phù sa sông",
+      "Đất chủ yếu là đất xám bạc màu trên đá axit",
+      "Đất ba-zan màu mỡ tích tụ từ núi lửa"
+    ],
+    "answer": "Đất chủ yếu là đất cát, nghèo dinh dưỡng, ít phù sa sông",
+    "explanation": "Các đồng bằng miền Trung phần lớn nhỏ hẹp, bị chia cắt bởi các nhánh núi đâm ra biển. Trong quá trình hình thành, biển đóng vai trò chủ đạo hơn sông nên đất đai ở đây có tính chất nhiều cát, nghèo dinh dưỡng."
+  },
+  {
+    "question": "Biên độ nhiệt độ năm ở miền Bắc nước ta cao hơn nhiều so với miền Nam chủ yếu là do nguyên nhân nào?",
+    "options": [
+      "Miền Bắc có vị trí gần xích đạo hơn miền Nam",
+      "Miền Bắc có mùa đông lạnh làm hạ thấp nhiệt độ tuyệt đối, mùa hạ lại có nhiệt độ cao",
+      "Miền Nam chịu ảnh hưởng mạnh của gió mùa Tây Nam quanh năm",
+      "Miền Bắc có diện tích đồng bằng rộng hơn miền Nam"
+    ],
+    "answer": "Miền Bắc có mùa đông lạnh làm hạ thấp nhiệt độ tuyệt đối, mùa hạ lại có nhiệt độ cao",
+    "explanation": "Vào mùa đông, miền Bắc có nhiệt độ giảm sâu do gió mùa Đông Bắc, có tháng dưới 15 độ C; mùa hạ trời lại nắng nóng nhiệt độ trên 30 độ C. Miền Nam quanh năm nóng, nhiệt độ ổn định. Khoảng cách chênh lệch nhiệt độ giữa mùa hạ và mùa đông của miền Bắc lớn nên biên độ nhiệt năm cao."
+  },
+  {
+    "question": "Hạn chế lớn nhất về mặt tự nhiên của vùng đồng bằng sông Cửu Long vào mùa khô là gì?",
+    "options": [
+      "Hiện tượng sương muối và giá rét gây hại cây trồng",
+      "Thiếu nước ngọt nghiêm trọng dẫn đến tình trạng xâm nhập mặn sâu vào đất liền",
+      "Thường xuyên xảy ra động đất và lở đất",
+      "Mưa bão lớn kéo dài gây ngập úng diện rộng"
+    ],
+    "answer": "Thiếu nước ngọt nghiêm trọng dẫn đến tình trạng xâm nhập mặn sâu vào đất liền",
+    "explanation": "Vào mùa khô, lượng mưa ở đồng bằng sông Cửu Long giảm xuống rất thấp, lượng nước từ sông Mê Công đổ về giảm sút, khiến nước biển theo các cửa sông, kênh rạch đẩy sâu vào nội đồng gây nhiễm mặn đất và thiếu nước ngọt."
+  },
+  {
+    "question": "Sự phân hóa thiên nhiên theo chiều Đông - Tây ở nước ta thể hiện rõ nhất qua sự khác biệt giữa hai vùng nào sau đây?",
+    "options": [
+      "Vùng núi Đông Bắc và vùng núi Tây Bắc",
+      "Vùng đồng bằng Bắc Bộ và đồng bằng Nam Bộ",
+      "Vùng biển, thềm lục địa - vùng đồng bằng ven biển - vùng đồi núi",
+      "Tỉnh Hà Giang và tỉnh Cà Mau"
+    ],
+    "answer": "Vùng biển, thềm lục địa - vùng đồng bằng ven biển - vùng đồi núi",
+    "explanation": "Thiên nhiên nước ta phân hóa từ đông sang tây theo không gian địa hình: từ vùng biển và thềm lục địa rộng mở, qua dải đồng bằng ven biển mỏng manh, đến vùng đồi núi đồ sộ phía tây."
+  },
+  {
+    "question": "Đặc điểm cấu trúc địa hình có độ cao giảm dần từ tây bắc xuống đông nam của nước ta được chứng minh rõ nhất qua yếu tố nào?",
+    "options": [
+      "Sự phân bố của các hệ thống vườn quốc gia",
+      "Hướng chảy chủ đạo của các con sông lớn như sông Hồng, sông Đà",
+      "Sự phân bố dân cư tập trung ở vùng ven biển",
+      "Độ mặn của các dòng nước sông tăng dần"
+    ],
+    "answer": "Hướng chảy chủ đạo của các con sông lớn như sông Hồng, sông Đà",
+    "explanation": "Nước chảy từ cao xuống thấp. Hầu hết các con sông lớn ở Bắc Bộ và Bắc Trung Bộ đều bắt nguồn từ vùng núi phía tây bắc và chảy theo hướng tây bắc - đông nam để đổ ra biển Đông, phản ánh chính xác xu hướng dốc của bề mặt địa hình."
+  },
+  {
+    "question": "Việc xây dựng các hệ thống cảng biển nước sâu ở Việt Nam thuận lợi nhất tại khu vực nào?",
+    "options": [
+      "Vùng bờ biển bằng phẳng ở đồng bằng sông Cửu Long",
+      "Vùng bờ biển nhiều vũng vịnh sâu, khúc khuỷu của miền Trung",
+      "Vùng ven bờ nhiều bãi cát mịn ở Hải Phòng",
+      "Vùng bờ biển ngập mặn của tỉnh Cà Mau"
+    ],
+    "answer": "Vũng bờ biển nhiều vũng vịnh sâu, khúc khuỷu của miền Trung",
+    "explanation": "Bờ biển miền Trung khúc khuỷu, có nhiều dãy núi đâm ngang ra biển tạo nên các vũng, vịnh nước sâu, khuất gió, lại gần đường hàng hải quốc tế, là điều kiện tự nhiên lý tưởng để xây cảng nước sâu đón tàu trọng tải lớn."
+  },
+  {
+    "question": "Tác động tiêu cực của gió mùa Đông Bắc đến sản xuất nông nghiệp ở miền Bắc nước ta là gì?",
+    "options": [
+      "Gây ra hiện tượng hạn hán và cháy rừng diện rộng",
+      "Gây ra các đợt rét đậm, rét hại, sương muối làm chết mạ và gia súc",
+      "Làm gia tăng hiện tượng xâm nhập mặn ở các cửa sông",
+      "Làm suy giảm hoàn toàn độ phì nhiêu của đất đai"
+    ],
+    "answer": "Gây ra các đợt rét đậm, rét hại, sương muối làm chết mạ và gia súc",
+    "explanation": "Các đợt gió mùa Đông Bắc mạnh tràn về đột ngột làm nhiệt độ giảm xuống dưới 10 độ C (rét đậm, rét hại), kèm theo sương muối ở vùng núi cao gây thiệt hại lớn cho cây trồng (đặc biệt là lúa mới gieo) và sức khỏe đàn gia súc."
+  },
+  {
+    "question": "Giải pháp nào sau đây là quan trọng nhất để bảo vệ và phát triển rừng phòng hộ đầu nguồn ở nước ta?",
+    "options": [
+      "Khai thác triệt để các cây gỗ cổ thụ để lấy chỗ trồng cây mới",
+      "Giao đất giao rừng cho người dân, kết hợp bảo vệ nghiêm ngặt và trồng mới rừng",
+      "Chuyển đổi toàn bộ rừng phòng hộ sang đất trồng cây ăn quả",
+      "Đóng cửa rừng tuyệt đối không cho bất kỳ ai tiếp cận"
+    ],
+    "answer": "Giao đất giao rừng cho người dân, kết hợp bảo vệ nghiêm ngặt và trồng mới rừng",
+    "explanation": "Bảo vệ rừng đầu nguồn cần sự tham gia của cộng đồng. Việc giao đất giao rừng giúp người dân có sinh kế, gắn trách nhiệm bảo vệ rừng với quyền lợi kinh tế, đảm bảo rừng được chăm sóc lâu dài, chống xói mòn đất."
+  },
+  {
+    "question": "Sự phân hóa của thảm thực vật theo độ cao ở vùng núi Hoàng Liên Sơn nước ta gồm đầy đủ các đai nào?",
+    "options": [
+      "Chỉ có đai nhiệt đới chân núi",
+      "Đai nhiệt đới gió mùa, đai cận nhiệt đới trên núi và đai ôn đới gió mùa trên núi",
+      "Đai cận nhiệt đới và đai hoang mạc núi cao",
+      "Đai xích đạo chân núi và đai ôn đới lá kim"
+    ],
+    "answer": "Đai nhiệt đới gió mùa, đai cận nhiệt đới trên núi và đai ôn đới gió mùa trên núi",
+    "explanation": "Dãy Hoàng Liên Sơn có độ cao trên 3000m, là nơi duy nhất ở Việt Nam có đầy đủ 3 đai cao khí hậu và thực vật, từ rừng nhiệt đới ở chân núi, lên rừng cận nhiệt có mộc bản và trên cùng (trên 2600m) là thảm thực vật ôn đới."
+  },
+  {
+    "question": "Vì sao lượng mưa ở Huế lại lớn bậc nhất nước ta vào các tháng cuối năm?",
+    "options": [
+      "Do Huế nằm sát đường xích đạo",
+      "Do Huế đón nhận trực tiếp gió mùa Đông Bắc đi qua biển kết hợp địa hình chắn gió của dãy Bạch Mã",
+      "Do ảnh hưởng duy nhất của hiện tượng gió Tây Nam",
+      "Do có mạng lưới đầm phá rộng lớn bốc hơi nước"
+    ],
+    "answer": "Do Huế đón nhận trực tiếp gió mùa Đông Bắc đi qua biển kết hợp địa hình chắn gió của dãy Bạch Mã",
+    "explanation": "Vào các tháng 9 đến 12, gió mùa Đông Bắc di chuyển lệch biển mang ẩm lớn kết hợp với các nhiễu động bão, dải hội tụ nhiệt đới đập thẳng vào vùng Thừa Thiên Huế, gặp bức tường thành bọc phía nam là dãy Bạch Mã giữ mây lại gây mưa lớn kéo dài."
+  },
+  {
+    "question": "Tại sao việc xác định đường cơ sở trên biển có ý nghĩa chiến lược quan trọng quốc gia?",
+    "options": [
+      "Để tăng diện tích đất liền của đất nước lên gấp đôi",
+      "Là căn cứ pháp lý để tính chiều rộng các vùng biển thuộc chủ quyền và quyền tài phán quốc gia",
+      "Dùng để ngăn chặn hoàn toàn tất cả các tàu thuyền giao thương qua lại",
+      "Để chia đều Biển Đông cho các nước xung quanh"
+    ],
+    "answer": "Là căn cứ pháp lý để tính chiều rộng các vùng biển thuộc chủ quyền và quyền tài phán quốc gia",
+    "explanation": "Đường cơ sở là vạch xuất phát để từ đó đo ra 12 hải lý cho lãnh hải, 24 hải lý cho vùng tiếp giáp và 200 hải lý cho vùng đặc quyền kinh tế. Không có đường cơ sở chuẩn xác, không thể xác lập ranh giới pháp lý các vùng biển của đất nước."
+  },
+  {
+    "question": "Ý nghĩa kinh tế lớn nhất của vị trí địa lí nước ta là gì?",
+    "options": [
+      "Tạo điều kiện cô lập nền kinh tế để tự cung tự cấp ổn định",
+      "Nằm trên ngã tư đường hàng hải và hàng không quốc tế, thuận lợi hội nhập, thu hút đầu tư và mở rộng giao thương",
+      "Giúp nước ta tránh được tất cả các loại thiên tai toàn cầu",
+      "Làm cho nguồn khoáng sản trở nên vô tận không bao giờ cạn"
+    ],
+    "answer": "Nằm trên ngã tư đường hàng hải và hàng không quốc tế, thuận lợi hội nhập, thu hút đầu tư và mở rộng giao thương",
+    "explanation": "Việt Nam nằm ở trung tâm khu vực Đông Nam Á, là cửa ngõ ra biển của nhiều nước trong lục địa, nằm trên các tuyến hàng hải, hàng không quốc tế sầm uất, tạo cơ hội vàng để mở cửa kinh tế và xây dựng các vùng kinh tế mở."
+  },
+  {
+    "question": "Tại sao thiên nhiên vùng đồi núi Đông Bắc nước ta mang sắc thái cận nhiệt đới độc đáo, khác biệt với vùng núi Tây Bắc?",
+    "options": [
+      "Do Đông Bắc có độ cao địa hình trung bình cao hơn Tây Bắc",
+      "Do Đông Bắc đón các đợt gió mùa Đông Bắc sớm nhất và mạnh nhất nhờ địa hình các cánh cung mở rộng",
+      "Do Đông Bắc nằm gần biển Đông và nhận nhiều mưa hơn",
+      "Do đất đai ở vùng Đông Bắc chủ yếu là đất phù sa cổ"
+    ],
+    "answer": "Do Đông Bắc đón các đợt gió mùa Đông Bắc sớm nhất và mạnh nhất nhờ địa hình các cánh cung mở rộng",
+    "explanation": "Vùng Đông Bắc có các dãy núi hình cánh cung như những chiếc phễu lớn hút gió mùa Đông Bắc lạnh tràn sâu vào đất liền. Điều này làm cho mùa đông ở đây đến sớm, kết thúc muộn và có nhiệt độ thấp nhất cả nước, tạo điều kiện cho các loài cây cận nhiệt phát triển mạnh."
+  },
+  {
+    "question": "Sự phân hóa mùa mưa - khô sâu sắc ở vùng Tây Nguyên và miền Tây Nam Bộ có mối liên hệ mật thiết với nhân tố nào?",
+    "options": [
+      "Sự thay đổi liên tục của các dòng hải lưu ven bờ biển",
+      "Sự hoạt động luân phiên của các khối khí gió mùa kết hợp với hướng của các dãy núi lớn",
+      "Quá trình đô thị hóa làm thay đổi lượng nhiệt của vùng",
+      "Sự thay đổi mực nước của các hồ thủy điện lớn"
+    ],
+    "answer": "Sự hoạt động luân phiên của các khối khí gió mùa kết hợp với hướng của các dãy núi lớn",
+    "explanation": "Vào mùa hạ, gió mùa Tây Nam mang ẩm gây mưa lớn cho Tây Nguyên và Nam Bộ. Đến mùa đông, tín phong bán cầu Bắc thổi hướng đông bắc mang tính chất khô khô hạn tràn qua, làm cho vùng này bước vào một mùa khô khốc liệt, thiếu nước trầm trọng."
+  },
+  {
+    "question": "Sự khác biệt về mùa lũ giữa sông ngòi Bắc Bộ và sông ngòi Trung Bộ nước ta chủ yếu do yếu tố nào quy định?",
+    "options": [
+      "Độ dốc lòng sông và diện tích lưu vực sông",
+      "Sự phân hóa thời gian mùa mưa của khí hậu giữa hai miền",
+      "Số lượng các nhà máy thủy điện xây dựng trên sông",
+      "Độ che phủ rừng ở thượng nguồn các con sông"
+    ],
+    "answer": "Sự phân hóa thời gian mùa mưa của khí hậu giữa hai miền",
+    "explanation": "Chế độ nước sông phụ thuộc chặt chẽ vào chế độ mưa. Bắc Bộ có mùa mưa vào mùa hạ (tháng 5-10) nên mùa lũ sông ngòi vào mùa hạ. Trung Bộ có mùa mưa lùi về thu đông (tháng 9-12) do tác động của gió mùa Đông Bắc và dải hội tụ, nên mùa lũ sông ngòi ở đây cũng diễn ra muộn vào cuối năm."
+  },
+  {
+    "question": "Hiện tượng sạt lở bờ biển nghiêm trọng đang diễn ra ở Đồng bằng sông Cửu Long hiện nay có nguyên nhân chủ yếu từ hoạt động nhân sinh nào?",
+    "options": [
+      "Việc xây dựng quá nhiều nhà cao tầng sát bờ biển",
+      "Khai thác cát sông quá mức làm thiếu hụt bùn cát phù sa và việc phá hủy rừng ngập mặn ven biển",
+      "Hoạt động đánh bắt thủy sản bằng lưới kéo đáy",
+      "Sự gia tăng lượng tàu thuyền đánh cá của ngư dân nước ngoài"
+    ],
+    "answer": "Khai thác cát sông quá mức làm thiếu hụt bùn cát phù sa và việc phá hủy rừng ngập mặn ven biển",
+    "explanation": "Khai thác cát bừa bãi làm thay đổi dòng chảy và làm giảm lượng phù sa di chuyển xuống hạ lưu để bù đắp cho bờ biển. Cộng thêm việc chặt phá rừng ngập mặn để làm đầm nuôi tôm khiến bờ biển mất đi bức tường che chắn tự nhiên trước sóng gió, dẫn đến sạt lở dữ dội."
+  },
+  {
+    "question": "Nếu dòng sông Hồng bị suy giảm nghiêm trọng lượng phù sa bồi đắp hàng năm, hậu quả lâu dài nào đối với địa hình đồng bằng hạ lưu là đáng lo ngại nhất?",
+    "options": [
+      "Đồng bằng sẽ bị biến thành vùng núi cao",
+      "Quá trình biển xâm thực, sạt lở bờ biển lấn sâu và sụt lún đồng bằng sẽ gia tăng mạnh",
+      "Toàn bộ đất phèn sẽ tự động biến mất",
+      "Hệ thống đê ngăn lũ sẽ tự động đổ sập"
+    ],
+    "answer": "Quá trình biển xâm thực, sạt lở bờ biển lấn sâu và sụt lún đồng bằng sẽ gia tăng mạnh",
+    "explanation": "Đồng bằng châu thổ tồn tại bền vững nhờ sự cân bằng giữa lượng phù sa sông bồi đắp và sự bào mòn của sóng biển. Khi các đập thủy điện thượng nguồn giữ lại phù sa, vùng hạ lưu thiếu vật liệu bồi tụ, bờ biển sẽ bị sóng đánh tan và gây sụt lún địa hình đất liền."
+  },
+  {
+    "question": "Một doanh nghiệp muốn phát triển mô hình du lịch sinh thái nghỉ dưỡng núi cao đạt tiêu chuẩn ôn đới quanh năm ở miền Bắc nước ta thì địa điểm nào sau đây là phù hợp nhất?",
+    "options": [
+      "Vùng đồi thấp ven biển tỉnh Quảng Ninh",
+      "Thị xã Sa Pa thuộc tỉnh Lào Cai ở độ cao trên 1500 mét",
+      "Vùng bán bình nguyên thuộc tỉnh Vĩnh Phúc",
+      "Đồng bằng trung tâm tỉnh Hải Dương"
+    ],
+    "answer": "Thị xã Sa Pa thuộc tỉnh Lào Cai ở độ cao trên 1500 mét",
+    "explanation": "Theo quy luật đai cao khí hậu, cứ lên cao 100m nhiệt độ giảm trung bình 0.6 độ C. Ở độ cao trên 1500m như Sa Pa, khí hậu chuyển sang đai cận nhiệt đới và ôn đới núi cao, mát mẻ quanh năm, thích hợp nhất cho loại hình du lịch nghỉ dưỡng xứ lạnh."
+  },
+  {
+    "question": "Để hạn chế tối đa hiện tượng hoang mạc hóa và cát chảy lấn sâu vào đồng ruộng ở vùng ven biển miền Trung, giải pháp lâm nghiệp sinh thái nào cần triển khai cấp bách?",
+    "options": [
+      "Trồng các loại cây ăn quả nhiệt đới trên cát",
+      "Trồng rừng phòng hộ chắn gió, chắn cát bay (như cây phi lao, bần, vẹt)",
+      "Bơm nước ngọt liên tục để làm ướt các đồi cát bãi biển",
+      "Xây dựng các bức tường bê tông kiên cố dọc bờ biển"
+    ],
+    "answer": "Trồng rừng phòng hộ chắn gió, chắn cát bay (như cây phi lao, bần, vẹt)",
+    "explanation": "Rừng phi lao trồng trên các cồn cát ven biển miền Trung có bộ rễ giữ cát chắc chắn, tán cây rậm rạp làm giảm tốc độ gió mậu dịch và gió đất, ngăn không cho cát bị thổi bay và di chuyển lấn sâu vào hủy hoại đất nông nghiệp nội đồng."
+  },
+  {
+    "question": "Sự xuất hiện ngày càng nhiều các hiện tượng thời tiết cực đoan như hạn hán lịch sử ở Tây Nguyên và lũ lụt bất thường ở miền Trung nước ta trong những năm gần đây phản ánh xu hướng toàn cầu nào?",
+    "options": [
+      "Sự dịch chuyển vị trí địa lý của lục địa Á - Âu",
+      "Tác động sâu sắc của biến đổi khí hậu toàn cầu và sự gia tăng tần suất của hiện tượng El Nino, La Nina",
+      "Do sự thay đổi độ nghiêng trục Trái Đất theo chu kỳ",
+      "Do nguồn nước ngầm của Trái Đất đã bị bốc hơi hoàn toàn"
+    ],
+    "answer": "Tác động sâu sắc của biến đổi khí hậu toàn cầu và sự gia tăng tần suất của hiện tượng El Nino, La Nina",
+    "explanation": "Biến đổi khí hậu toàn cầu làm mất tính ổn định quy luật của các khối khí quyển. Hệ quả là làm cực đoan hóa thời tiết tại Việt Nam, khiến mùa khô ở Tây Nguyên kéo dài khốc liệt hơn và các cơn bão, áp thấp đổ bộ vào miền Trung có lượng mưa vượt mọi kỷ lục lịch sử."
+  }
+]

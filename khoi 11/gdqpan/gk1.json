@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Lãnh thổ quốc gia của nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm những bộ phận nào?",
+    "options": [
+      "Vùng đất và vùng biển",
+      "Vùng đất, vùng nước, vùng trời và vùng lòng đất",
+      "Vùng đất nội địa và các hải đảo",
+      "Vùng đất, vùng biển và vùng trời bao quanh"
+    ],
+    "answer": "Vùng đất, vùng nước, vùng trời và vùng lòng đất",
+    "explanation": "Theo Luật Biên giới quốc gia và Luật quốc tế, lãnh thổ quốc gia Việt Nam là một khối thống nhất bao gồm bốn bộ phận cấu thành: vùng đất, vùng nước, vùng trời và vùng lòng đất."
+  },
+  {
+    "question": "Biên giới quốc gia của Việt Nam trên biển được xác định là ranh giới phía ngoài của vùng biển nào?",
+    "options": [
+      "Vùng nội thủy",
+      "Vùng lãnh hải",
+      "Vùng tiếp giáp lãnh hải",
+      "Vùng đặc quyền kinh tế"
+    ],
+    "answer": "Vùng lãnh hải",
+    "explanation": "Theo Luật Biển Việt Nam, biên giới quốc gia trên biển là ranh giới phía ngoài của lãnh hải, ngăn cách lãnh thổ biển quốc gia với biển quốc tế hoặc vùng biển của quốc gia láng giềng."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền quyết định việc bãi bỏ, thay đổi hoặc quy định đường biên giới quốc gia của Việt Nam?",
+    "options": [
+      "Bộ Quốc phòng",
+      "Chính phủ",
+      "Quốc hội",
+      "Chủ tịch nước"
+    ],
+    "answer": "Quốc hội",
+    "explanation": "Theo Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Quốc hội là cơ quan quyền lực nhà nước cao nhất có thẩm quyền quyết định các vấn đề về chiến tranh, hòa bình và ranh giới, biên giới quốc gia."
+  },
+  {
+    "question": "Theo Luật Nghĩa vụ quân sự hiện hành, độ tuổi gọi nhập ngũ trong thời bình của công dân nam là từ bao nhiêu tuổi đến hết bao nhiêu tuổi?",
+    "options": [
+      "Từ đủ 17 tuổi đến hết 25 tuổi",
+      "Từ đủ 18 tuổi đến hết 25 tuổi",
+      "Từ đủ 18 tuổi đến hết 27 tuổi",
+      "Từ đủ 19 tuổi đến hết 30 tuổi"
+    ],
+    "answer": "Từ đủ 18 tuổi đến hết 25 tuổi",
+    "explanation": "Luật Nghĩa vụ quân sự quy định độ tuổi gọi nhập ngũ cơ bản trong thời bình là từ đủ 18 tuổi đến hết 25 tuổi; trường hợp được hoãn học đại học, cao đẳng thì kéo dài đến hết 27 tuổi."
+  },
+  {
+    "question": "Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là bao nhiêu tháng?",
+    "options": [
+      "12 tháng",
+      "18 tháng",
+      "24 tháng",
+      "36 tháng"
+    ],
+    "answer": "24 tháng",
+    "explanation": "Theo Luật Nghĩa vụ quân sự năm 2015, thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là 24 tháng."
+  },
+  {
+    "question": "Công dân nam đăng ký nghĩa vụ quân sự lần đầu vào năm bao nhiêu tuổi?",
+    "options": [
+      "Khi đủ 16 tuổi",
+      "Khi đủ 17 tuổi",
+      "Khi đủ 18 tuổi",
+      "Khi đủ 20 tuổi"
+    ],
+    "answer": "Khi đủ 17 tuổi",
+    "explanation": "Luật Nghĩa vụ quân sự quy định công dân nam đủ 17 tuổi trong năm có trách nhiệm đến cơ quan đăng ký nghĩa vụ quân sự để đăng ký lần đầu."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm trong thực hiện nghĩa vụ quân sự?",
+    "options": [
+      "Trốn tránh, chống đối, cản trở việc thực hiện nghĩa vụ quân sự",
+      "Tự nguyện viết đơn xin nhập ngũ sớm",
+      "Tham gia các hoạt động hướng nghiệp quân sự trong trường học",
+      "Kiểm tra sức khỏe theo đúng lệnh gọi"
+    ],
+    "answer": "Trốn tránh, chống đối, cản trở việc thực hiện nghĩa vụ quân sự",
+    "explanation": "Mọi hành vi trốn tránh, chống đối, cản trở hoặc làm sai lệch kết quả khám sức khỏe nghĩa vụ quân sự đều là hành vi vi phạm pháp luật và bị nghiêm cấm."
+  },
+  {
+    "question": "Tệ nạn xã hội nào sau đây thường có nguy cơ lây lan nhanh chóng và phá hủy nghiêm trọng sức khỏe con người trong học đường?",
+    "options": [
+      "Trốn học đi xem phim",
+      "Ma túy, cờ bạc, bạo lực học đường",
+      "Quên mang sách vở khi đến lớp",
+      "Nói chuyện riêng trong giờ học"
+    ],
+    "answer": "Ma túy, cờ bạc, bạo lực học đường",
+    "explanation": "Ma túy, cờ bạc và bạo lực học đường là những tệ nạn xã hội nguy hiểm, làm suy đồi đạo đức, hủy hoại sức khỏe và gây mất an ninh trật tự trường học."
+  },
+  {
+    "question": "Chất nào sau đây được phân loại là chất ma túy tuyệt đối cấm sử dụng trong đời sống xã hội và y tế thông thường?",
+    "options": [
+      "Heroin",
+      "Caffeine",
+      "Paracetamol",
+      "Vitamin C"
+    ],
+    "answer": "Heroin",
+    "explanation": "Heroin là chất ma túy có tính gây nghiện cực kỳ mạnh, bị pháp luật cấm sản xuất, tàng trữ, vận chuyển, mua bán và sử dụng tuyệt đối dưới mọi hình thức."
+  },
+  {
+    "question": "Một trong những hình thức cờ bạc trực tuyến tinh vi hiện nay là gì?",
+    "options": [
+      "Chơi game giải đố trí tuệ không đổi thưởng",
+      "Cá độ bóng đá, xóc đĩa qua các ứng dụng, website mạng internet trái phép",
+      "Mua vé số do nhà nước phát hành",
+      "Tham gia các cuộc thi kiến thức có giải thưởng của trường"
+    ],
+    "answer": "Cá độ bóng đá, xóc đĩa qua các ứng dụng, website mạng internet trái phép",
+    "explanation": "Cá độ bóng đá hoặc chơi đánh bài ăn tiền qua mạng internet bằng tiền thật hoặc vật phẩm quy đổi là hình thức cờ bạc công nghệ cao bất hợp pháp."
+  },
+  {
+    "question": "Trận đánh nào được coi là chiến dịch tiến công quy mô lớn đầu tiên của Quân đội nhân dân Việt Nam trong kháng chiến chống Pháp?",
+    "options": [
+      "Chiến dịch Việt Bắc thu đông năm 1947",
+      "Chiến dịch Biên giới thu đông năm 1950",
+      "Chiến dịch Điện Biên Phủ năm 1954",
+      "Chiến dịch Thượng Lào năm 1953"
+    ],
+    "answer": "Chiến dịch Biên giới thu đông năm 1950",
+    "explanation": "Chiến dịch Biên giới thu đông 1950 là chiến dịch tiến công lớn đầu tiên của quân đội ta, làm phá sản kế hoạch Rơ-ve của Pháp và mở đường giao thông quốc tế."
+  },
+  {
+    "question": "Trong chiến dịch Điện Biên Phủ năm 1954, vị Đại tướng nào là tổng tư lệnh trực tiếp chỉ huy trận đánh?",
+    "options": [
+      "Đại tướng Văn Tiến Dũng",
+      "Đại tướng Võ Nguyên Giáp",
+      "Đại tướng Nguyễn Chí Thanh",
+      "Đại tướng Lê Trọng Tấn"
+    ],
+    "answer": "Đại tướng Võ Nguyên Giáp",
+    "explanation": "Đại tướng Võ Nguyên Giáp là Bí thư Đảng ủy kiêm Tổng tư lệnh chiến dịch, người đã đưa ra quyết định lịch sử chuyển từ phương châm 'đánh nhanh thắng nhanh' sang 'đánh chắc tiến chắc' tại Điện Biên Phủ."
+  },
+  {
+    "question": "Chiến thắng Điện Biên Phủ năm 1954 của nhân dân Việt Nam đã buộc thực dân Pháp phải ký kết hiệp định nào?",
+    "options": [
+      "Hiệp định sơ bộ",
+      "Hiệp định Giơ-né-vơ",
+      "Hiệp định Pa-ri",
+      "Hiệp định Giáp Ngọ"
+    ],
+    "answer": "Hiệp định Giơ-né-vơ",
+    "explanation": "Thắng lợi vang dội của chiến dịch Điện Biên Phủ trực tiếp dẫn đến việc ký kết Hiệp định Giơ-né-vơ năm 1954, chấm dứt sự chiến tranh độc chiếm của thực dân Pháp tại Đông Dương."
+  },
+  {
+    "question": "Chiến dịch lịch sử nào đã kết thúc hoàn toàn cuộc kháng chiến chống Mỹ cứu nước, giành lại độc lập hoàn toàn cho Việt Nam năm 1975?",
+    "options": [
+      "Chiến dịch Huế - Đà Nẵng",
+      "Chiến dịch Tây Nguyên",
+      "Chiến dịch Hồ Chí Minh",
+      "Chiến dịch Quảng Trị"
+    ],
+    "answer": "Chiến dịch Hồ Chí Minh",
+    "explanation": "Chiến dịch Hồ Chí Minh (từ 26 đến 30 tháng 4 năm 1975) là chiến dịch đỉnh cao, giải phóng Sài Gòn - Gia Định, kết thúc thắng lợi cuộc kháng chiến chống Mỹ."
+  },
+  {
+    "question": "Ngày hội quốc phòng toàn dân của nước Cộng hòa xã hội chủ nghĩa Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 30 tháng 4",
+      "Ngày 2 tháng 9",
+      "Ngày 22 tháng 12",
+      "Ngày 19 tháng 8"
+    ],
+    "answer": "Ngày 22 tháng 12",
+    "explanation": "Ngày 22 tháng 12 hằng năm vừa là ngày thành lập Quân đội nhân dân Việt Nam vừa là Ngày hội quốc phòng toàn dân."
+  },
+  {
+    "question": "Lực lượng nào giữ vai trò nòng cốt trong nhiệm vụ bảo vệ an ninh quốc gia và giữ gìn trật tự an toàn xã hội?",
+    "options": [
+      "Quân đội nhân dân",
+      "Dân quân tự vệ",
+      "Công an nhân dân",
+      "Lực lượng kiểm lâm"
+    ],
+    "answer": "Công an nhân dân",
+    "explanation": "Theo pháp luật Việt Nam, Lực lượng Công an nhân dân giữ vai trò nòng cốt, chủ trì trong sự nghiệp bảo vệ an ninh quốc gia và giữ gìn trật tự an toàn xã hội."
+  },
+  {
+    "question": "Đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam là đường như thế nào?",
+    "options": [
+      "Đường ranh giới bờ biển khi thủy triều lên cao nhất",
+      "Đường thẳng nối liền các điểm nhô ra nhất của bờ biển và các đảo ven bờ",
+      "Đường chạy dọc theo biên giới đất liền",
+      "Đường cách bờ biển cố định đúng 12 hải lý"
+    ],
+    "answer": "Đường thẳng nối liền các điểm nhô ra nhất của bờ biển và các đảo ven bờ",
+    "explanation": "Việt Nam áp dụng hệ thống đường cơ sở thẳng, nối liền các hòn đảo ven bờ và các mũi đất nhô ra xa nhất để làm căn cứ tính chiều rộng các vùng biển thuộc chủ quyền."
+  },
+  {
+    "question": "Vùng biển thuộc chủ quyền hoàn toàn và tuyệt đối của quốc gia ven biển, có trạng thái pháp lý tương tự như đất liền được gọi là gì?",
+    "options": [
+      "Vùng nội thủy",
+      "Vùng tiếp giáp lãnh hải",
+      "Vùng đặc quyền kinh tế",
+      "Thềm lục địa"
+    ],
+    "answer": "Vùng nội thủy",
+    "explanation": "Nội thủy là vùng nước nằm phía trong của đường cơ sở. Tại đây, quốc gia ven biển thực hiện chủ quyền hoàn toàn, tuyệt đối và đầy đủ như trên đất liền."
+  },
+  {
+    "question": "Đâu là một trong những hành vi bạo lực học đường phổ biến hiện nay?",
+    "options": [
+      "Tranh luận sôi nổi về một bài toán khó trên lớp",
+      "Cô lập, xúc phạm danh dự trên mạng xã hội hoặc đánh đập bạn học",
+      "Cùng bạn bè lập nhóm ôn thi tốt nghiệp",
+      "Góp ý thẳng thắn giúp bạn sửa chữa khuyết điểm"
+    ],
+    "answer": "Cô lập, xúc phạm danh dự trên mạng xã hội hoặc đánh đập bạn học",
+    "explanation": "Bạo lực học đường không chỉ là hành vi đánh đập thể xác mà còn bao gồm bạo lực tinh thần như cô lập, bôi nhọ, xúc phạm danh dự của bạn học trực tiếp hoặc qua internet."
+  },
+  {
+    "question": "Trận đánh 'Điện Biên Phủ trên không' năm 1972 là tên gọi quân dân ta dành cho chiến thắng chống lại cuộc tập kích bằng máy bay chiến lược nào của Mỹ?",
+    "options": [
+      "Máy bay ném bom chiến lược B-52",
+      "Máy bay tiêm kích F-4",
+      "Máy bay trinh sát không người lái",
+      "Tàu chiến bắn tên lửa hành trình"
+    ],
+    "answer": "Máy bay ném bom chiến lược B-52",
+    "explanation": "Trận chiến đấu 12 ngày đêm cuối năm 1972 là cuộc đập tan cuộc tập kích chiến lược bằng siêu máy bay ném bom B-52 của đế quốc Mỹ vào Hà Nội, Hải Phòng."
+  },
+  {
+    "question": "Tại sao nói vùng lãnh hải của quốc gia ven biển không phải là vùng đất liền nhưng lại có biên giới quốc gia chạy qua?",
+    "options": [
+      "Vì lãnh hải nằm hoàn toàn trên đất liền",
+      "Vì biên giới quốc gia trên biển chính là ranh giới phía ngoài của lãnh hải, xác định giới hạn tối đa chủ quyền biển của đất nước",
+      "Vì tàu thuyền nước ngoài không bao giờ được phép đi qua vùng này",
+      "Vì lãnh hải có diện tích bằng diện tích vùng đất nội địa"
+    ],
+    "answer": "Vì biên giới quốc gia trên biển chính là ranh giới phía ngoài của lãnh hải, xác định giới hạn tối đa chủ quyền biển của đất nước",
+    "explanation": "Lãnh hải rộng 12 hải lý tính từ đường cơ sở. Ranh giới ngoài của vùng biển này được luật pháp quy định là biên giới quốc gia trên biển, đánh dấu điểm kết thúc chủ quyền hoàn toàn của đất nước."
+  },
+  {
+    "question": "Quy định hoãn gọi nhập ngũ trong thời bình đối với học sinh, sinh viên đang học tập tại các trường đại học, cao đẳng nhằm mục đích gì?",
+    "options": [
+      "Ưu tiên cho những người không muốn tham gia quân đội",
+      "Tạo điều kiện cho công dân tích lũy tri thức, đào tạo nguồn nhân lực chất lượng cao phục vụ đất nước trước khi thực hiện nghĩa vụ",
+      "Vì quân đội không cần người có trình độ học vấn cao",
+      "Để kéo dài thời gian tuyển quân vô thời hạn"
+    ],
+    "answer": "Tạo điều kiện cho công dân tích lũy tri thức, đào tạo nguồn nhân lực chất lượng cao phục vụ đất nước trước khi thực hiện nghĩa vụ",
+    "explanation": "Chính sách tạm hoãn gọi nhập ngũ đối với sinh viên chính quy nhằm đảm bảo việc học tập liên tục, chuẩn bị đội ngũ trí thức trẻ đóng góp cho đất nước, sau đó họ vẫn phải thực hiện nghĩa vụ theo luật định."
+  },
+  {
+    "question": "Vì sao việc tàng trữ, sử dụng thuốc lá điện tử trong trường học hiện nay lại được xem là hành vi dẫn đến nguy cơ sa ngã vào tệ nạn ma túy?",
+    "options": [
+      "Vì thuốc lá điện tử có giá thành rẻ như kẹo",
+      "Vì các đối tượng xấu thường lén lút pha trộn chất ma túy mới, chất hướng thần vào tinh dầu thuốc lá điện tử để dụ dỗ học sinh sử dụng",
+      "Vì thuốc lá điện tử không gây ra bất cứ mùi hôi nào",
+      "Vì thuốc lá điện tử đã được y tế cấp phép sử dụng rộng rãi cho trẻ em"
+    ],
+    "answer": "Vì các đối tượng xấu thường lén lút pha trộn chất ma túy mới, chất hướng thần vào tinh dầu thuốc lá điện tử để dụ dỗ học sinh sử dụng",
+    "explanation": "Thuốc lá điện tử là dung môi nguy hiểm bị kẻ xấu lợi dụng để trộn ma túy tổng hợp thế hệ mới. Học sinh hút thuốc lá điện tử rất dễ vô tình tiếp xúc và nghiện chất ma túy mà không biết."
+  },
+  {
+    "question": "Trong chiến dịch Điện Biên Phủ năm 1954, việc thay đổi phương châm từ 'đánh nhanh thắng nhanh' sang 'đánh chắc tiến chắc' thể hiện tư duy quân sự thiên tài như thế nào?",
+    "options": [
+      "Do quân ta sợ hãi sức mạnh phòng ngự tập đoàn cứ điểm của quân Pháp",
+      "Do nhận thấy quân Pháp đã tăng cường phòng ngự kiên cố, nếu đánh nhanh sẽ tổn thất lớn và không chắc thắng; chuyển sang đánh chắc để bảo toàn lực lượng và tiêu diệt từng cứ điểm",
+      "Do quân ta thiếu lương thực nghiêm trọng nên phải kéo dài thời gian",
+      "Do có sự can thiệp và chỉ đạo trực tiếp từ các nước đồng minh"
+    ],
+    "answer": "Do nhận thấy quân Pháp đã tăng cường phòng ngự kiên cố, nếu đánh nhanh sẽ tổn thất lớn và không chắc thắng; chuyển sang đánh chắc để bảo toàn lực lượng và tiêu diệt từng cứ điểm",
+    "explanation": "Khi phát hiện Pháp biến Điện Biên Phủ thành tập đoàn cứ điểm cực mạnh, phương châm ban đầu không còn khả thi. 'Đánh chắc tiến chắc' giúp bóc gỡ từng lớp phòng ngự, cô lập địch và giành thắng lợi cuối cùng."
+  },
+  {
+    "question": "Sự xuất hiện của tệ nạn cờ bạc trong lứa tuổi học sinh thường dẫn đến chuỗi hệ lụy xấu nào về mặt hành vi?",
+    "options": [
+      "Học sinh chăm chỉ học tập hơn để lấy tiền thưởng",
+      "Thua nợ dẫn đến nói dối cha mẹ, bỏ học, cắm ký tài sản, thậm chí trộm cắp, cướp giật để có tiền gỡ gạc",
+      "Giúp tăng cường tình đoàn kết, gắn bó giữa các thành viên trong lớp học",
+      "Tăng khả năng tư duy toán học và xác suất thống kê nhanh hơn"
+    ],
+    "answer": "Thua nợ dẫn đến nói dối cha mẹ, bỏ học, cắm ký tài sản, thậm chí trộm cắp, cướp giật để có tiền gỡ gạc",
+    "explanation": "Cờ bạc tạo ra tâm lý sát phạt và nợ nần lớn. Để có tiền tiêu xài và trả nợ, người chơi (đặc biệt là học sinh) dễ liều lĩnh thực hiện các hành vi vi phạm pháp luật hình sự như trộm cắp, lừa đảo."
+  },
+  {
+    "question": "Tại sao việc xác định ranh giới thềm lục địa của quốc gia ven biển lại phức tạp hơn so với vùng lãnh hải?",
+    "options": [
+      "Vì thềm lục địa không thuộc các vùng biển quốc gia",
+      "Vì thềm lục địa là phần đáy biển và lòng đất dưới đáy biển, ranh giới phụ thuộc vào kéo dài tự nhiên của rìa lục địa địa chất và giới hạn khoảng cách theo luật pháp quốc tế",
+      "Vì không có thiết bị kỹ thuật nào đo đạc được độ sâu của đáy biển",
+      "Vì thềm lục địa chỉ được tính từ bờ biển của các quốc gia không có đảo"
+    ],
+    "answer": "Vì thềm lục địa là phần đáy biển và lòng đất dưới đáy biển, ranh giới phụ thuộc vào kéo dài tự nhiên của rìa lục địa địa chất và giới hạn khoảng cách theo luật pháp quốc tế",
+    "explanation": "Lãnh hải có khoảng cách cố định (12 hải lý). Thềm lục địa dựa trên cơ sở khoa học địa chất đáy biển và cấu trúc của bờ rìa lục địa, tối thiểu là 200 hải lý và có thể mở rộng tối đa đến 350 hải lý nên việc đo đạc, phân định phức tạp hơn."
+  },
+  {
+    "question": "Người nhiễm ma túy đá (Methamphetamine) thường có biểu hiện rối loạn tâm thần nghiêm trọng nào nguy hiểm cho xã hội?",
+    "options": [
+      "Chỉ thích ngủ suốt ngày và không ăn uống",
+      "Bị ảo giác, hoang tưởng bị hại (ngáo đá), mất kiểm soát hành vi và có thể gây thương tích hoặc giết người vô cớ",
+      "Trở nên thông minh và học tập đạt kết quả vượt trội",
+      "Tự động tránh xa các khu vực có tiếng ồn"
+    ],
+    "answer": "Bị ảo giác, hoang tưởng bị hại (ngáo đá), mất kiểm soát hành vi và có thể gây thương tích hoặc giết người vô cớ",
+    "explanation": "Ma túy đá phá hủy hệ thần kinh trung ương trung khu, gây ra tình trạng ảo giác nặng, người dùng luôn nghĩ có người ám hại mình dẫn đến phản ứng cuồng bạo tấn công những người xung quanh."
+  },
+  {
+    "question": "Chiến dịch Biên giới thu đông 1950 có ý nghĩa bước ngoặt gì đối với cục diện kháng chiến chống Pháp của ta?",
+    "options": [
+      "Đánh bại hoàn toàn ý chí xâm lược của thực dân Pháp",
+      "Giúp ta chuyển từ hình thức tác chiến du kích nhỏ lẻ sang tác chiến chính quy tập trung, giành quyền chủ động chiến lược trên chiến trường chính Bắc Bộ",
+      "Giải phóng hoàn toàn khu vực miền Nam Việt Nam",
+      "Buộc Pháp phải rút toàn bộ quân đội về nước ngay lập tức"
+    ],
+    "answer": "Giúp ta chuyển từ hình thức tác chiến du kích nhỏ lẻ sang tác chiến chính quy tập trung, giành quyền chủ động chiến lược trên chiến trường chính Bắc Bộ",
+    "explanation": "Thắng lợi của Chiến dịch Biên giới 1950 đưa cuộc kháng chiến của ta bước vào giai đoạn mới: ta nắm quyền chủ động tấn công, quân đội trưởng thành vượt bậc về khả năng đánh vận động chiến quy mô lớn."
+  },
+  {
+    "question": "Điểm giống nhau cơ bản về ý nghĩa lịch sử giữa Chiến thắng Điện Biên Phủ (1954) và Chiến dịch Hồ Chí Minh (1975) là gì?",
+    "options": [
+      "Đều kết thúc bằng việc ký kết một hiệp định hòa bình có lợi cho ta",
+      "Đều là những trận quyết chiến chiến lược đỉnh cao, đập tan hoàn toàn bộ máy quân sự bộ xâm lược, giải phóng đất nước",
+      "Đều là những trận đánh diễn ra chủ yếu bằng lực lượng không quân",
+      "Đều diễn ra ở địa hình rừng núi hiểm trở phía Bắc"
+    ],
+    "answer": "Đều là những trận quyết chiến chiến lược đỉnh cao, đập tan hoàn toàn bộ máy quân sự bộ xâm lược, giải phóng đất nước",
+    "explanation": "Cả hai chiến dịch đều đóng vai trò là những đòn quyết chiến chiến lược quyết định số phận của cuộc chiến tranh, đập tan ý chí kháng cự của kẻ thù lớn (Pháp và Mỹ) để giành độc lập."
+  },
+  {
+    "question": "Trong vùng đặc quyền kinh tế rộng 200 hải lý, nước ven biển có quyền hạn cốt lõi gì đối với các nguồn tài nguyên?",
+    "options": [
+      "Có chủ quyền hoàn toàn đối với bầu trời phía trên vùng biển",
+      "Có quyền chủ quyền và quyền tài phán trong việc thăm dò, khai thác, bảo tồn và quản lý các tài nguyên thiên nhiên sinh vật và phi sinh vật",
+      "Cấm tuyệt đối tất cả tàu thuyền nước ngoài đi qua vùng biển này",
+      "Có quyền tịch thu tài sản của bất kỳ quốc gia nào bay qua vùng trời này"
+    ],
+    "answer": "Có quyền chủ quyền và quyền tài phán trong việc thăm dò, khai thác, bảo tồn và quản lý các tài nguyên thiên nhiên sinh vật và phi sinh vật",
+    "explanation": "Vùng đặc quyền kinh tế không phải lãnh hải. Nước ven biển không có chủ quyền tối cao toàn vẹn nhưng có 'quyền chủ quyền' về kinh tế, tức là độc quyền khai thác cá, dầu khí, khoáng sản tại đây."
+  },
+  {
+    "question": "Nếu một người bạn trong lớp rủ em tham gia thử một loại 'bánh lười' hoặc 'nước vui' được quảng cáo là giúp tăng tỉnh táo, em sẽ ứng xử như thế nào?",
+    "options": [
+      "Thử một lần cho biết vì tin tưởng lời quảng cáo của bạn",
+      "Kiên quyết từ chối, giải thích cho bạn biết đó là các dạng ma túy ngụy trang nguy hiểm và báo ngay cho giáo viên hoặc phụ huynh",
+      "Nhận lấy nhưng đem bán lại cho học sinh lớp khác để kiếm lời",
+      "Im lặng không nói gì và rủ thêm các bạn khác cùng thử"
+    ],
+    "answer": "Kiên quyết từ chối, giải thích cho bạn biết đó là các dạng ma túy ngụy trang nguy hiểm và báo ngay cho giáo viên hoặc phụ huynh",
+    "explanation": "Bánh lười, nước vui, trà sữa... bản chất là ma túy tổng hợp ngụy trang dưới dạng thực phẩm. Nhận biết và từ chối, đồng thời báo cáo cơ quan quản lý là cách bảo vệ bản thân và cộng đồng học đường."
+  },
+  {
+    "question": "Khi chứng kiến một nhóm bạn học đang vây quanh, đe dọa và ép buộc một học sinh khác đóng tiền 'bảo kê' ở góc khuất của trường, hành động đúng đắn của em là gì?",
+    "options": [
+      "Lờ đi coi như không thấy để tránh bị nhóm đó thù hằn, trả thù",
+      "Lập tức di chuyển ra vị trí an toàn và thông báo khẩn cấp cho thầy cô giám thị, bảo vệ trường hoặc công an nơi gần nhất",
+      "Xông vào tham gia cùng nhóm bạn kia để thể hiện bản thân",
+      "Đứng lại dùng điện thoại quay phim rồi phát trực tiếp lên mạng xã hội để câu tương tác"
+    ],
+    "answer": "Lập tức di chuyển ra vị trí an toàn và thông báo khẩn cấp cho thầy cô giám thị, bảo vệ trường hoặc công an nơi gần nhất",
+    "explanation": "Bảo vệ nạn nhân bạo lực học đường cần sự can thiệp của người có thẩm quyền. Tự ý xông vào có thể gây nguy hiểm cho bản thân, còn im lặng hay quay phim câu view là vô cảm, vô trách nhiệm."
+  },
+  {
+    "question": "Học sinh A (17 tuổi, học lớp 11) nhận được giấy biên nhận đăng ký nghĩa vụ quân sự của Ban Chỉ huy quân sự cấp huyện. Học sinh A cần có thái độ và trách nhiệm gì?",
+    "options": [
+      "Vứt bỏ giấy đăng ký vì cho rằng mình đang đi học thì không cần quan tâm",
+      "Tự hào, bảo quản cẩn thận giấy chứng nhận và sẵn sàng chấp hành các bước kiểm tra tiếp theo khi có lệnh",
+      "Nhờ người lớn đến xin rút tên ra khỏi danh sách quân sự",
+      "Nghĩ cách giả vờ mắc bệnh hiểm nghèo để được xóa tên"
+    ],
+    "answer": "Tự hào, bảo quản cẩn thận giấy chứng nhận và sẵn sàng chấp hành các bước kiểm tra tiếp theo khi có lệnh",
+    "explanation": "Đăng ký nghĩa vụ quân sự tuổi 17 là nghĩa vụ pháp lý đầu tiên. Học sinh cần thực hiện nghiêm túc, thể hiện trách nhiệm công dân đối với sự nghiệp bảo vệ an ninh Tổ quốc."
+  },
+  {
+    "question": "Một tàu cá nước ngoài tự ý xâm phạm sâu vào vùng nội thủy của Việt Nam để tổ chức đánh bắt hải sản trái phép. Lực lượng chức năng Việt Nam có quyền xử lý như thế nào theo luật pháp quốc tế?",
+    "options": [
+      "Không được can thiệp vì tàu cá có quyền tự do đi lại vô hại",
+      "Có quyền bắt giữ, áp giải tàu về cảng, xử phạt vi phạm hành chính hoặc tịch thu phương tiện theo quy định pháp luật Việt Nam",
+      "Chỉ được đứng từ xa dùng loa nhắc nhở rồi để họ đi tự do",
+      "Bắn chìm tàu cá đó ngay lập tức mà không cần cảnh báo"
+    ],
+    "answer": "Có quyền bắt giữ, áp giải tàu về cảng, xử phạt vi phạm hành chính hoặc tịch thu phương tiện theo quy định pháp luật Việt Nam",
+    "explanation": "Vùng nội thủy thuộc chủ quyền tối cao hoàn toàn của Việt Nam, tàu thuyền nước ngoài vào phải xin phép. Việc xâm phạm đánh bắt lậu là vi phạm nghiêm trọng chủ quyền, Việt Nam có toàn quyền thực thi pháp luật để xử lý."
+  },
+  {
+    "question": "Để phòng chống hiệu quả tệ nạn ma túy xâm nhập vào các câu lạc bộ, hội nhóm học sinh tự phát trong trường học, giải pháp nào mang tính bền vững nhất?",
+    "options": [
+      "Cấm tuyệt đối học sinh không được tham gia bất kỳ hội nhóm ngoại khóa nào",
+      "Đẩy mạnh tuyên truyền kỹ năng nhận biết ma túy mới, xây dựng các hoạt động thể thao, văn nghệ lành mạnh và phát huy vai trò tự quản, giám sát của đoàn trường",
+      "Lắp đặt camera giám sát ở tất cả các phòng học và nhà vệ sinh",
+      "Yêu cầu xét nghiệm chất ma túy ngẫu nhiên toàn bộ học sinh hằng tuần"
+    ],
+    "answer": "Đẩy mạnh tuyên truyền kỹ năng nhận biết ma túy mới, xây dựng các hoạt động thể thao, văn nghệ lành mạnh và phát huy vai trò tự quản, giám sát của đoàn trường",
+    "explanation": "Giải pháp căn cơ nhất là tạo ra bộ lọc đề kháng cho học sinh bằng nhận thức chính xác, kết hợp môi trường sinh hoạt tập thể bổ ích để bài trừ các xu hướng độc hại xâm nhập học đường."
+  },
+  {
+    "question": "Vì sao trong lịch sử kháng chiến chống Mỹ, quân dân ta lại có thể đánh bại được loại máy bay ném bom chiến lược B-52 vốn được mệnh danh là siêu pháo đài bay không thể bất khả chiến bại?",
+    "options": [
+      "Do máy bay B-52 tự động hỏng hóc kỹ thuật khi bay vào vùng trời Việt Nam",
+      "Do quân đội ta đã nghiên cứu kỹ quy luật hoạt động của địch, sáng tạo ra nghệ thuật phòng không nhân dân và sử dụng hiệu quả tên lửa SAM-2, cao xạ",
+      "Do Mỹ sơ suất không trang bị vũ khí bảo vệ cho máy bay B-52",
+      "Do quân ta có số lượng máy bay chiến đấu nhiều gấp mười lần quân Mỹ"
+    ],
+    "answer": "Do quân đội ta đã nghiên cứu kỹ quy luật hoạt động của địch, sáng tạo ra nghệ thuật phòng không nhân dân và sử dụng hiệu quả tên lửa SAM-2, cao xạ",
+    "explanation": "Chiến thắng Điện Biên Phủ trên không 1972 là đỉnh cao của trí tuệ Việt Nam. Ta đã tìm ra cách 'vạch nhiễu tìm thù', tổ chức lưới lửa phòng không ba thứ quân tầm thấp - trung - cao bủa vây khóa chặt mục tiêu B-52."
+  },
+  {
+    "question": "Một người nước ngoài tìm cách bơi qua sông biên giới để vào lãnh thổ Việt Nam mà không qua bất kỳ trạm cửa khẩu kiểm soát nào. Hành vi này vi phạm quy định gì?",
+    "options": [
+      "Vi phạm quy chế quản lý biên giới và hành vi nhập cảnh trái phép",
+      "Chỉ là hành vi vi phạm luật thể dục thể thao dưới nước",
+      "Không vi phạm vì dòng sông là tài sản chung của nhân loại",
+      "Vi phạm luật giao thông đường thủy nội địa"
+    ],
+    "answer": "Vi phạm quy chế quản lý biên giới và hành vi nhập cảnh trái phép",
+    "explanation": "Mọi việc di chuyển qua biên giới quốc gia phải được thực hiện tại các cửa khẩu quy định và có đầy đủ giấy tờ hợp pháp. Việc lén lút vượt biên qua sông là hành vi nhập cảnh bất hợp pháp, vi phạm nghiêm trọng an ninh biên giới."
+  },
+  {
+    "question": "Hành vi lôi kéo, rủ rê người khác cùng tham gia vào các trò chơi cá độ ăn tiền trên mạng xã hội sẽ bị xử lý như thế nào theo quy định pháp luật Việt Nam?",
+    "options": [
+      "Không bị xử lý vì đây chỉ là hình thức giải trí cá nhân trên không gian mạng",
+      "Tùy theo tính chất và số tiền tang vật, có thể bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự về tội tổ chức đánh bạc",
+      "Chỉ bị khóa tài khoản mạng xã hội tạm thời",
+      "Được tuyên dương vì có tinh thần chia sẻ cơ hội làm giàu"
+    ],
+    "answer": "Tùy theo tính chất và số tiền tang vật, có thể bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự về tội tổ chức đánh bạc",
+    "explanation": "Hành vi lôi kéo, rủ rê, lập hội nhóm điều hành cá độ trực tuyến cấu thành hành vi rủ rê, tổ chức đánh bạc. Tội danh này bị xử lý rất nghiêm khắc theo Bộ luật Hình sự Việt Nam."
+  },
+  {
+    "question": "Trong cuộc kháng chiến chống Mỹ, việc xây dựng tuyến đường mòn Hồ Chí Minh (đường Trường Sơn) dọc dãy núi miền Tây mang tầm chiến lược quyết định nào?",
+    "options": [
+      "Để phát triển du lịch sinh thái rừng núi sau chiến tranh",
+      "Là mạch máu giao thông huyết mạch, vận chuyển binh lực, vũ khí vật chất từ hậu phương miền Bắc chi viện cho tiền tuyến miền Nam",
+      "Để quân đội ta có nơi trú ẩn cố định không cần chiến đấu",
+      "Để ngăn chặn hoàn toàn quân đội Mỹ tràn qua biên giới Lào"
+    ],
+    "answer": "Là mạch máu giao thông huyết mạch, vận chuyển binh lực, vũ khí vật chất từ hậu phương miền Bắc chi viện cho tiền tuyến miền Nam",
+    "explanation": "Đường Trường Sơn là chìa khóa chiến lược nối liền hai miền. Nhờ hệ thống đường này, miền Bắc đã dồn toàn lực chi viện sức người sức của liên tục cho miền Nam, tạo thế và lực để giải phóng hoàn toàn đất nước."
+  },
+  {
+    "question": "Khi một học sinh phát hiện bản thân bị các đối tượng xấu ép buộc, tống tiền bằng hình ảnh nhạy cảm và đe dọa bạo lực, phương án xử lý nào là thông minh nhất?",
+    "options": [
+      "Âm thầm lấy tiền của bố mẹ đưa cho chúng để giữ bí mật",
+      "Tuyệt đối không tự giải quyết một mình, lưu giữ chứng cứ âm thanh hình ảnh, báo ngay cho cha mẹ và cơ quan Công an để được bảo vệ",
+      "Rủ một nhóm bạn mang hung khí đi tìm đối tượng để trả thù",
+      "U uất, bỏ học và có ý định tự hủy hoại bản thân"
+    ],
+    "answer": "Tuyệt đối không tự giải quyết một mình, lưu giữ chứng cứ âm thanh hình ảnh, báo ngay cho cha mẹ và cơ quan Công an để được bảo vệ",
+    "explanation": "Việc tống tiền, đe dọa bạo lực là hành vi tội phạm hình sự nguy hiểm. Học sinh không được thỏa hiệp vì đối tượng sẽ tiếp tục tống tiền. Cần sự vào cuộc của gia đình và pháp luật để giải quyết tận gốc."
+  },
+  {
+    "question": "Công dân nam có lệnh gọi nhập ngũ nhưng tự ý trốn tránh không có mặt đúng thời gian quy định mà không có lý do chính đáng thì hành vi đó bị xử lý như thế nào?",
+    "options": [
+      "Chỉ bị nhắc nhở phê bình nhẹ nhàng trước toàn trường",
+      "Bị xử phạt vi phạm hành chính, nếu tiếp tục tái phạm có thể bị truy cứu trách nhiệm hình sự về tội trốn tránh nghĩa vụ quân sự",
+      "Không bị xử lý nếu nộp một khoản tiền phạt thay thế nghĩa vụ",
+      "Bị tước quyền công dân vĩnh viễn"
+    ],
+    "answer": "Bị xử phạt vi phạm hành chính, nếu tiếp tục tái phạm có thể bị truy cứu trách nhiệm hình sự về tội trốn tránh nghĩa vụ quân sự",
+    "explanation": "Trốn nghĩa vụ quân sự là vi phạm Luật Nghĩa vụ quân sự. Lần đầu sẽ bị xử phạt tiền hành chính rất nặng và buộc chấp hành lại, nếu tiếp tục cố tình trốn sẽ bị truy tố hình sự phạt tù theo quy định."
+  },
+  {
+    "question": "Sự khác biệt căn bản về mục tiêu tác chiến giữa chiến dịch tiến công (như chiến dịch Biên giới 1950) và chiến dịch phản công (như chiến dịch Việt Bắc 1947) là gì?",
+    "options": [
+      "Chiến dịch tiến công diễn ra vào ban ngày, chiến dịch phản công diễn ra ban đêm",
+      "Tiến công là chủ động mở cuộc tấn công tiêu diệt địch giành đất; phản công là đánh trả các cuộc tấn công của địch để bảo vệ căn cứ, lực lượng rồi đánh bật chúng ra",
+      "Chiến dịch tiến công sử dụng ít vũ khí hơn chiến dịch phản công",
+      "Phản công chỉ dành cho lực lượng dân quân tự vệ phối hợp"
+    ],
+    "answer": "Tiến công là chủ động mở cuộc tấn công tiêu diệt địch giành đất; phản công là đánh trả các cuộc tấn công của địch để bảo vệ căn cứ, lực lượng rồi đánh bật chúng ra",
+    "explanation": "Sự khác biệt nằm ở thế chủ động ban đầu của chiến dịch. Việt Bắc 1947 là ta bẻ gãy cuộc tấn công càn quét của Pháp vào ATK (phản công). Biên giới 1950 là ta chủ động khai hỏa tấn công hệ thống đồn bốt phòng ngự của Pháp (tiến công)."
+  },
+  {
+    "question": "Một người dân phát hiện cọc dấu mốc biên giới đất liền bị sạt lở nghiêm trọng đổ xuống vực sâu. Người dân đó cần làm gì để thể hiện trách nhiệm bảo vệ biên giới quốc gia?",
+    "options": [
+      "Mặc kệ vì đó là việc của lực lượng bộ đội biên phòng",
+      "Tự ý mua xi măng về đúc lại cọc mốc mới theo ý mình",
+      "Đánh dấu vị trí, giữ nguyên hiện trường và báo ngay cho đồn Biên phòng hoặc Ủy ban nhân dân xã biên giới gần nhất để kịp thời xử lý",
+      "Kêu gọi mọi người đến nhặt mảnh vỡ của cọc mốc về làm kỷ niệm"
+    ],
+    "answer": "Đánh dấu vị trí, giữ nguyên hiện trường và báo ngay cho đồn Biên phòng hoặc Ủy ban nhân dân xã biên giới gần nhất để kịp thời xử lý",
+    "explanation": "Cột mốc biên giới là biểu tượng pháp lý thiêng liêng quốc gia. Khi có sự cố, người dân phải giữ nguyên hiện trạng, báo tin khẩn cấp cho cơ quan chuyên trách xử lý kỹ thuật ngoại giao, không tự ý di dời cắm lại cột mốc."
+  },
+  {
+    "question": "Tại sao việc đấu tranh phòng, chống ma túy trong học đường hiện nay không thể chỉ cậy nhờ vào lực lượng Công an mà cần sự tham gia của toàn diện nhà trường và gia đình?",
+    "options": [
+      "Vì công an không có thẩm quyền vào trong khuôn viên trường học",
+      "Vì ma túy biến tướng tinh vi len lỏi vào đời sống sinh hoạt, tâm lý học sinh; nhà trường và gia đình là nơi gần gũi nhất để kịp thời giáo dục, phát hiện sớm nguy cơ thay đổi hành vi của con em",
+      "Vì gia đình có thể tự bắt giữ các đối tượng buôn bán ma túy",
+      "Vì học sinh chỉ nghe lời cha mẹ chứ không sợ pháp luật"
+    ],
+    "answer": "Vì ma túy biến tướng tinh vi len lỏi vào đời sống sinh hoạt, tâm lý học sinh; nhà trường và gia đình là nơi gần gũi nhất để kịp thời giáo dục, phát hiện sớm nguy cơ thay đổi hành vi của con em",
+    "explanation": "Ma túy học đường núp bóng vô vàn vỏ bọc tinh vi. Công an xử lý phần gốc rễ tội phạm, còn nhà trường và gia đình đóng vai trò chốt chặn giám sát, uốn nắn hành vi hằng ngày của học sinh để phòng ngừa từ xa."
+  },
+  {
+    "question": "Nghệ thuật quân sự 'lấy nhỏ đánh lớn, lấy ít địch nhiều' của dân tộc Việt Nam được phát huy như thế nào trong trận quyết chiến Điện Biên Phủ 1954?",
+    "options": [
+      "Ta dùng số lượng lớn xe tăng hiện đại để áp đảo hoàn toàn công sự Pháp",
+      "Ta dựa vào sức mạnh toàn dân, huy động dân công xe thồ tiếp tế vượt núi, vây lấn bóc gỡ từng cứ điểm, cô lập tập đoàn cứ điểm mạnh của địch",
+      "Ta nhờ quân đội các nước láng giềng sang đánh thay hoàn toàn",
+      "Ta rút toàn bộ quân ra khỏi trận địa để địch tự rút lui vì thiếu lương thực"
+    ],
+    "answer": "Ta dựa vào sức mạnh toàn dân, huy động dân công xe thồ tiếp tế vượt núi, vây lấn bóc gỡ từng cứ điểm, cô lập tập đoàn cứ điểm mạnh của địch",
+    "explanation": "Mặc dù Pháp mạnh về vũ khí, công sự kiên cố có không quân yểm trợ, quân dân ta đã phát huy sức mạnh tổng hợp của cuộc chiến tranh nhân dân, dùng chiến thuật đào hào vây lấn, triệt đường tiếp tế hàng không tạo thành thế trận bao vây tiêu diệt địch."
+  },
+  {
+    "question": "Hành vi lợi dụng quyền tự do ngôn luận để đăng tải các thông tin sai sự thật, bôi nhọ lực lượng vũ trang hoặc xuyên tạc đường lối quốc phòng trên không gian mạng sẽ bị xử phạt như thế nào?",
+    "options": [
+      "Được pháp luật bảo vệ quyền tự do bày tỏ quan điểm cá nhân",
+      "Bị xử phạt hành chính theo Luật An ninh mạng hoặc có thể bị truy cứu trách nhiệm hình sự về tội bôi nhọ, chống phá nhà nước",
+      "Chỉ bị xóa bài viết và không có hình thức xử lý nào khác",
+      "Chỉ bị phạt tiền rất nhẹ dưới 50.000 đồng"
+    ],
+    "answer": "Bị xử phạt hành chính theo Luật An ninh mạng hoặc có thể bị truy cứu trách nhiệm hình sự về tội bôi nhọ, chống phá nhà nước",
+    "explanation": "Không gian mạng không nằm ngoài pháp luật. Hành vi tung tin giả, bôi nhọ danh dự quân đội, công an hay phá hoại khối đại đoàn kết toàn dân tộc sẽ bị trừng trị nghiêm khắc theo Luật An ninh mạng và Bộ luật Hình sự."
+  },
+  {
+    "question": "Việc ký kết các hiệp định phân định biên giới đất liền giữa Việt Nam và các nước láng giềng (Trung Quốc, Lào, Campuchia) có ý nghĩa thực tiễn cốt lõi gì cho việc bảo vệ chủ quyền?",
+    "options": [
+      "Để người dân tự do qua lại biên giới không cần giấy tờ hộ chiếu",
+      "Xây dựng cơ sở pháp lý quốc tế vững chắc, rõ ràng để quản lý, bảo vệ đường biên, xây dựng biên giới hòa bình, hữu nghị lâu dài và ổn định",
+      "Xóa bỏ hoàn toàn sự tồn tại của các đồn biên phòng",
+      "Để bàn giao toàn bộ quyền quản lý các vùng đất tranh chấp cho nước bạn"
+    ],
+    "answer": "Xây dựng cơ sở pháp lý quốc tế vững chắc, rõ ràng để quản lý, bảo vệ đường biên, xây dựng biên giới hòa bình, hữu nghị lâu dài và ổn định",
+    "explanation": "Hiệp định phân định biên giới được quốc tế công nhận là văn bản pháp lý cao nhất để hai nước cùng tuân thủ tôn trọng chủ quyền của nhau, tránh các xung đột va chạm vũ trang đáng tiếc xảy ra tại khu vực biên cảnh."
+  },
+  {
+    "question": "Học sinh B phát hiện một trang web thường xuyên tổ chức cho học sinh trong trường tham gia cá cược trực tuyến bằng tiền thẻ điện thoại. Học sinh B cần xử lý như thế nào?",
+    "options": [
+      "Đăng ký tham gia ngay để kiếm tiền tiêu xài cá nhân",
+      "Báo cáo kín đáo sự việc với Ban Giám hiệu nhà trường hoặc gửi đơn tố giác đến cơ quan Công an có thẩm quyền để kịp thời ngăn chặn trang web lừa đảo",
+      "Rủ các bạn khác cùng tham gia để chia sẻ rủi ro",
+      "Yêu cầu chủ trang web chia lợi nhuận nếu không sẽ đi rêu rao khắp trường"
+    ],
+    "answer": "Báo cáo kín đáo sự việc với Ban Giám hiệu nhà trường hoặc gửi đơn tố giác đến cơ quan Công an có thẩm quyền để kịp thời ngăn chặn trang web lừa đảo",
+    "explanation": "Tố giác tội phạm cờ bạc mạng là trách nhiệm và nghĩa vụ của học sinh để bảo vệ môi trường giáo dục lành mạnh, ngăn chặn các bạn học không bị sa lưới nợ nần dẫn đến tệ nạn phá hủy tương lai."
+  },
+  {
+    "question": "Phân tích vai trò chiến lược của quần đảo Hoàng Sa và quần đảo Trường Sa đối với quốc phòng và an ninh biển đảo của nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
+    "options": [
+      "Chỉ có giá trị đơn thuần về mặt khai thác du lịch tắm biển",
+      "Là tấm lá chắn tiền tiêu vững chắc từ hướng biển bảo vệ lục địa, là căn cứ hậu cần kiểm soát các tuyến hàng hải quốc tế huyết mạch qua Biển Đông",
+      "Không có vai trò gì quan trọng vì hai quần đảo nằm quá xa bờ",
+      "Chỉ dùng làm nơi neo đậu tạm thời cho tàu cá khi có bão lớn xảy ra"
+    ],
+    "answer": "Là tấm lá chắn tiền tiêu vững chắc từ hướng biển bảo vệ lục địa, là căn cứ hậu cần kiểm soát các tuyến hàng hải quốc tế huyết mạch qua Biển Đông",
+    "explanation": "Hoàng Sa và Trường Sa nằm ở vị trí trung tâm Biển Đông, án ngữ các trục giao thông hàng hải, hàng không quốc tế quan trọng. Về mặt quân sự, đây là hệ thống căn cứ phòng thủ chiều sâu từ xa, bảo vệ vững chắc sườn phía Đông của đất nước."
+  },
+  {
+    "question": "Trách nhiệm cao nhất và thiết thực nhất của thế hệ học sinh THPT lớp 11 hiện nay đối với nhiệm vụ bảo vệ chủ quyền lãnh thổ quốc gia là gì?",
+    "options": [
+      "Tự ý tổ chức các đội tuần tra vũ trang tự phát ra vùng biên giới",
+      "Nỗ lực học tập tốt, rèn luyện đạo đức, nâng cao nhận thức pháp luật về quốc phòng an ninh và sẵn sàng lên đường nhập ngũ thực hiện nghĩa vụ khi đến tuổi",
+      "Chỉ cần quan tâm đến các môn học văn hóa để đi du học nước ngoài",
+      "Tham gia bình luận, tranh cãi gay gắt với người nước ngoài trên các diễn đàn mạng xã hội"
+    ],
+    "answer": "Nỗ lực học tập tốt, rèn luyện đạo đức, nâng cao nhận thức pháp luật về quốc phòng an ninh và sẵn sàng lên đường nhập ngũ thực hiện nghĩa vụ khi đến tuổi",
+    "explanation": "Trách nhiệm thiết thực nhất của học sinh là tích lũy tri thức, hoàn thiện thể chất, có tinh thần yêu nước đúng đắn, thượng tôn pháp luật và sẵn sàng đóng góp sức trẻ cho quân đội hoặc sự nghiệp xây dựng bảo vệ Tổ quốc khi đất nước yêu cầu."
+  }
+]

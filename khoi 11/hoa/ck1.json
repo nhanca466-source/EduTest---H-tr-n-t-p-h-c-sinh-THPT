@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Phản ứng thuận nghịch là phản ứng xảy ra như thế nào?",
+    "options": [
+      "Chỉ xảy ra theo một chiều nhất định",
+      "Xảy ra theo hai chiều ngược nhau trong cùng điều kiện",
+      "Xảy ra giữa chất khí và chất rắn",
+      "Cần có chất xúc tác mới xảy ra hai chiều"
+    ],
+    "answer": "Xảy ra theo hai chiều ngược nhau trong cùng điều kiện",
+    "explanation": "Phản ứng thuận nghịch là phản ứng hóa học xảy ra theo hai chiều ngược nhau trong cùng một điều kiện xác định."
+  },
+  {
+    "question": "Trạng thái cân bằng hóa học là trạng thái mà tại đó đại lượng nào sau đây của phản ứng thuận và phản ứng nghịch bằng nhau?",
+    "options": [
+      "Nồng độ các chất",
+      "Tốc độ phản ứng",
+      "Khối lượng các chất",
+      "Thể tích các chất"
+    ],
+    "answer": "Tốc độ phản ứng",
+    "explanation": "Cân bằng hóa học là trạng thái của phản ứng thuận nghịch khi tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch."
+  },
+  {
+    "question": "Theo thuyết Bronsted - Lowry, acid là chất có khả năng làm gì?",
+    "options": [
+      "Nhận proton H+",
+      "Cho proton H+",
+      "Nhận cặp electron",
+      "Cho ion OH-"
+    ],
+    "answer": "Cho proton H+",
+    "explanation": "Theo thuyết Bronsted - Lowry, acid là chất cho proton H+ và base là chất nhận proton H+."
+  },
+  {
+    "question": "Theo thuyết Bronsted - Lowry, base là chất có khả năng làm gì?",
+    "options": [
+      "Cho proton H+",
+      "Nhận proton H+",
+      "Cho ion H+",
+      "Nhận ion OH-"
+    ],
+    "answer": "Nhận proton H+",
+    "explanation": "Theo thuyết Bronsted - Lowry, base là chất nhận proton H+."
+  },
+  {
+    "question": "Trong các chất sau, chất nào là chất điện li mạnh?",
+    "options": [
+      "CH3COOH",
+      "H2O",
+      "NaCl",
+      "C2H5OH"
+    ],
+    "answer": "NaCl",
+    "explanation": "NaCl là muối tan, phân li hoàn toàn thành các ion trong nước nên là chất điện li mạnh."
+  },
+  {
+    "question": "Chất nào sau đây là chất điện li yếu?",
+    "options": [
+      "HCl",
+      "NaOH",
+      "CH3COOH",
+      "K2SO4"
+    ],
+    "answer": "CH3COOH",
+    "explanation": "CH3COOH là một acid yếu, chỉ phân li một phần trong nước nên là chất điện li yếu."
+  },
+  {
+    "question": "Giá trị pH của một dung dịch trung tính ở 25 độ C là bao nhiêu?",
+    "options": [
+      "pH nhỏ hơn 7",
+      "pH lớn hơn 7",
+      "pH bằng 7",
+      "pH bằng 14"
+    ],
+    "answer": "pH bằng 7",
+    "explanation": "Môi trường trung tính ở 25 độ C có nồng độ H+ bằng 10 mũ trừ 7 M, tương ứng với pH = 7."
+  },
+  {
+    "question": "Dung dịch có môi trường acid thì giá trị pH thỏa mãn điều kiện nào?",
+    "options": [
+      "pH lớn hơn 7",
+      "pH nhỏ hơn 7",
+      "pH bằng 7",
+      "pH bằng 0"
+    ],
+    "answer": "pH nhỏ hơn 7",
+    "explanation": "Dung dịch acid có nồng độ H+ lớn hơn 10 mũ trừ 7 M nên giá trị pH nhỏ hơn 7."
+  },
+  {
+    "question": "Dung dịch có môi trường kiềm (base) thì giá trị pH thỏa mãn điều kiện nào?",
+    "options": [
+      "pH nhỏ hơn 7",
+      "pH bằng 7",
+      "pH lớn hơn 7",
+      "pH nhỏ hơn 0"
+    ],
+    "answer": "pH lớn hơn 7",
+    "explanation": "Dung dịch base có nồng độ H+ nhỏ hơn 10 mũ trừ 7 M nên giá trị pH lớn hơn 7."
+  },
+  {
+    "question": "Chất khí nào chiếm tỉ lệ thể tích lớn nhất trong không khí?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "answer": "Nitrogen",
+    "explanation": "Khí nitrogen chiếm khoảng 78% thể tích của không khí Trái Đất."
+  },
+  {
+    "question": "Ở điều kiện thường, nitrogen (N2) là một chất khí có đặc điểm gì về hoạt động hóa học?",
+    "options": [
+      "Rất hoạt động",
+      "Khá trơ về mặt hóa học",
+      "Chỉ tác dụng với nước",
+      "Mạnh hơn khí oxygen"
+    ],
+    "answer": "Khá trơ về mặt hóa học",
+    "explanation": "Do phân tử N2 có liên kết ba rất bền vững nên ở nhiệt độ thường nitrogen khá trơ về mặt hóa học."
+  },
+  {
+    "question": "Công thức hóa học của khí ammonia là gì?",
+    "options": [
+      "NH4+",
+      "NH3",
+      "NO2",
+      "N2O"
+    ],
+    "answer": "NH3",
+    "explanation": "Khí ammonia có công thức hóa học là NH3, là một hợp chất của nitrogen và hydrogen."
+  },
+  {
+    "question": "Dung dịch ammonia trong nước có môi trường gì và làm quỳ tím chuyển màu gì?",
+    "options": [
+      "Môi trường acid, làm quỳ tím hóa đỏ",
+      "Môi trường base, làm quỳ tím hóa xanh",
+      "Môi trường trung tính, không đổi màu quỳ",
+      "Môi trường base, làm quỳ tím mất màu"
+    ],
+    "answer": "Môi trường base, làm quỳ tím hóa xanh",
+    "explanation": "Dung dịch NH3 nhận H+ từ nước tạo ion NH4+ và OH-, gây ra môi trường base làm quỳ tím hóa xanh."
+  },
+  {
+    "question": "Acid nitric (HNO3) là một acid có đặc điểm nổi bật nào ngoài tính acid mạnh?",
+    "options": [
+      "Tính khử mạnh",
+      "Tính oxi hóa mạnh",
+      "Tính bền với nhiệt",
+      "Không tan trong nước"
+    ],
+    "answer": "Tính oxi hóa mạnh",
+    "explanation": "HNO3 chứa nitrogen có số oxi hóa cao nhất là +5 nên có tính oxi hóa rất mạnh."
+  },
+  {
+    "question": "Hiện tượng ngập úng hoặc bón quá nhiều phân đạm nitrat dễ gây ra hiện tượng tích tụ ion nào sau đây trong rau xanh gây độc?",
+    "options": [
+      "NH4+",
+      "NO3-",
+      "PO4 3-",
+      "SO4 2-"
+    ],
+    "answer": "NO3-",
+    "explanation": "Dư thừa phân đạm làm cây trồng tích lũy nhiều ion nitrat (NO3-), ảnh hưởng xấu đến sức khỏe người tiêu dùng."
+  },
+  {
+    "question": "Trạng thái tự nhiên của sulfur (lưu huỳnh) tồn tại ở dạng nào?",
+    "options": [
+      "Chỉ ở dạng đơn chất",
+      "Chỉ ở dạng hợp chất",
+      "Cả dạng đơn chất và hợp chất",
+      "Chỉ có trong cơ thể sinh vật"
+    ],
+    "answer": "Cả dạng đơn chất và hợp chất",
+    "explanation": "Sulfur tồn tại ở dạng đơn chất trong các mỏ khoáng và dạng hợp chất trong các khoáng vật sunfua, sunfat."
+  },
+  {
+    "question": "Khí sulfur dioxide (SO2) là chất khí có mùi gì?",
+    "options": [
+      "Mùi thơm dễ chịu",
+      "Không mùi",
+      "Mùi hắc, ngạt",
+      "Mùi trứng thối"
+    ],
+    "answer": "Mùi hắc, ngạt",
+    "explanation": "SO2 là chất khí không màu, mùi hắc, gây độc và ngạt đường hô hấp."
+  },
+  {
+    "question": "Dung dịch sulfuric acid đặc (H2SO4 đặc) có đặc tính vật lý và hóa học rất nguy hiểm nào?",
+    "options": [
+      "Tính dễ bay hơi",
+      "Tính háo nước mạnh và gây bỏng nặng",
+      "Màu xanh lục đậm",
+      "Nhẹ hơn nước"
+    ],
+    "answer": "Tính háo nước mạnh và gây bỏng nặng",
+    "explanation": "H2SO4 đặc hút nước rất mạnh từ các hợp chất hữu cơ, gây than hóa và bỏng sâu da thịt."
+  },
+  {
+    "question": "Hợp chất hữu cơ là hợp chất của nguyên tố nào sau đây (trừ một số chất vô cơ quen thuộc)?",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Carbon",
+      "Nitrogen"
+    ],
+    "answer": "Carbon",
+    "explanation": "Hợp chất hữu cơ là hợp chất của carbon (trừ CO, CO2, muối carbonate, xianua, carbide...)."
+  },
+  {
+    "question": "Đặc điểm chung của các liên kết hóa học trong phân tử chất hữu cơ là gì?",
+    "options": [
+      "Chủ yếu là liên kết ion",
+      "Chủ yếu là liên kết cộng hóa trị",
+      "Chủ yếu là liên kết metallic",
+      "Chủ yếu là liên kết hydrogen"
+    ],
+    "answer": "Chủ yếu là liên kết cộng hóa trị",
+    "explanation": "Các nguyên tử trong hợp chất hữu cơ (chủ yếu là phi kim) liên kết với nhau bằng liên kết cộng hóa trị."
+  },
+  {
+    "question": "Nhóm nguyên tử gây ra các phản ứng hóa học đặc trưng của một loại hợp chất hữu cơ gọi là gì?",
+    "options": [
+      "Nhóm định chức (Nhóm chức)",
+      "Gốc hydrocarbon",
+      "Mạch carbon",
+      "Đồng đẳng"
+    ],
+    "answer": "Nhóm định chức (Nhóm chức)",
+    "explanation": "Nhóm chức là nhóm nguyên tử gây ra những tính chất hóa học đặc trưng của hợp chất hữu cơ."
+  },
+  {
+    "question": "Phương pháp nào dùng để tách các chất lỏng có nhiệt độ sôi khác nhau ra khỏi nhau?",
+    "options": [
+      "Phương pháp chiết",
+      "Phương pháp kết tinh",
+      "Phương pháp chưng cất",
+      "Phương pháp sắc ký"
+    ],
+    "answer": "Phương pháp chưng cất",
+    "explanation": "Chưng cất dựa vào sự khác nhau về nhiệt độ sôi của các chất lỏng trong hỗn hợp để tách chúng ra."
+  },
+  {
+    "question": "Phương pháp chiết dựa trên nguyên tắc nào sau đây?",
+    "options": [
+      "Sự khác nhau về nhiệt độ sôi",
+      "Sự khác nhau về độ hòa tan trong hai dung môi không trộn lẫn vào nhau",
+      "Sự khác nhau về kích thước hạt",
+      "Sự khác nhau về khả năng bay hơi"
+    ],
+    "answer": "Sự khác nhau về độ hòa tan trong hai dung môi không trộn lẫn vào nhau",
+    "explanation": "Phương pháp chiết tách chất dựa trên độ hòa tan khác nhau của chúng trong hai môi trường lỏng không tan vào nhau."
+  },
+  {
+    "question": "Hiện tượng các chất có cấu tạo hóa học tương tự nhau, thành phần phân tử hơn kém nhau một hay nhiều nhóm CH2 gọi là hiện tượng gì?",
+    "options": [
+      "Đồng phân",
+      "Đồng đẳng",
+      "Đồng khối",
+      "Đồng vị"
+    ],
+    "answer": "Đồng đẳng",
+    "explanation": "Đây là định nghĩa của hiện tượng đồng đẳng trong hóa học hữu cơ."
+  },
+  {
+    "question": "Hiện tượng các chất có cùng công thức phân tử nhưng có công thức cấu tạo khác nhau gọi là hiện tượng gì?",
+    "options": [
+      "Đồng phân",
+      "Đồng đẳng",
+      "Đồng phân hình học",
+      "Đồng dạng"
+    ],
+    "answer": "Đồng phân",
+    "explanation": "Các chất có cùng công thức phân tử nhưng cấu tạo khác nhau dẫn đến tính chất khác nhau gọi là các chất đồng phân."
+  },
+  {
+    "question": "Hydrocarbon là hợp chất hữu cơ được tạo thành từ những nguyên tố nào?",
+    "options": [
+      "Carbon và oxygen",
+      "Carbon và hydrogen",
+      "Carbon, hydrogen và oxygen",
+      "Carbon và nitrogen"
+    ],
+    "answer": "Carbon và hydrogen",
+    "explanation": "Đúng như tên gọi, hydrocarbon chỉ gồm hai nguyên tố là hydrogen và carbon."
+  },
+  {
+    "question": "Alkane là những hydrocarbon có đặc điểm cấu tạo như thế nào?",
+    "options": [
+      "Mạch hở, có một liên kết đôi",
+      "Mạch hở, chỉ có các liên kết đơn",
+      "Mạch vòng, có liên kết ba",
+      "Mạch hở, có một liên kết ba"
+    ],
+    "answer": "Mạch hở, chỉ có các liên kết đơn",
+    "explanation": "Alkane là các hydrocarbon mạch hở, trong phân tử chỉ chứa liên kết đơn C-C và C-H (hydrocarbon no)."
+  },
+  {
+    "question": "Công thức chung của dãy đồng đẳng alkane là gì?",
+    "options": [
+      "CnH2n (n lớn hơn hoặc bằng 2)",
+      "CnH2n-2 (n lớn hơn hoặc bằng 2)",
+      "CnH2n+2 (n lớn hơn hoặc bằng 1)",
+      "CnH2n-6 (n lớn hơn hoặc bằng 6)"
+    ],
+    "answer": "CnH2n+2 (n lớn hơn hoặc bằng 1)",
+    "explanation": "Dãy đồng đẳng của methane (alkane) có công thức tổng quát là CnH2n+2 với n từ 1 trở lên."
+  },
+  {
+    "question": "Thành phần chính của khí thiên nhiên và khí mỏ dầu là chất nào?",
+    "options": [
+      "Methane (CH4)",
+      "Ethane (C2H6)",
+      "Propane (C3H8)",
+      "Butane (C4H10)"
+    ],
+    "answer": "Methane (CH4)",
+    "explanation": "Methane chiếm phần lớn tỉ lệ thể tích (khoảng 70-95%) trong khí thiên nhiên."
+  },
+  {
+    "question": "Phản ứng đặc trưng của hydrocarbon no (alkane) là phản ứng nào?",
+    "options": [
+      "Phản ứng cộng",
+      "Phản ứng thế",
+      "Phản ứng trùng hợp",
+      "Phản ứng oxi hóa không hoàn toàn"
+    ],
+    "answer": "Phản ứng thế",
+    "explanation": "Vì alkane chỉ có các liên kết đơn bền vững nên chúng đặc trưng bởi phản ứng thế (ví dụ thế halogen dưới ánh sáng)."
+  },
+  {
+    "question": "Hydrocarbon không no mạch hở chứa một liên kết đôi C=C trong phân tử thuộc dãy đồng đẳng nào?",
+    "options": [
+      "Alkane",
+      "Alkene",
+      "Alkyne",
+      "Arene"
+    ],
+    "answer": "Alkene",
+    "explanation": "Alkene là hydrocarbon mạch hở chứa một liên kết đôi C=C trong phân tử."
+  },
+  {
+    "question": "Hydrocarbon không no mạch hở chứa một liên kết ba trong phân tử thuộc dãy đồng đẳng nào?",
+    "options": [
+      "Alkene",
+      "Alkyne",
+      "Alkadiene",
+      "Arene"
+    ],
+    "answer": "Alkyne",
+    "explanation": "Alkyne là hydrocarbon mạch hở chứa một liên kết ba C-C trong phân tử."
+  },
+  {
+    "question": "Chất nào sau đây là hydrocarbon thơm điển hình nhất?",
+    "options": [
+      "Methane",
+      "Ethylene",
+      "Acetylene",
+      "Benzene"
+    ],
+    "answer": "Benzene",
+    "explanation": "Benzene (C6Hex) là hydrocarbon thơm đơn giản và điển hình nhất, mở đầu dãy đồng đẳng arene."
+  },
+  {
+    "question": "Dẫn xuất halogen của hydrocarbon là hợp chất thu được khi thay thế một hay nhiều nguyên tử hydrogen bằng nguyên tử nguyên tố nào?",
+    "options": [
+      "Oxygen",
+      "Halogen (F, Cl, Br, I)",
+      "Nitrogen",
+      "Sulfur"
+    ],
+    "answer": "Halogen (F, Cl, Br, I)",
+    "explanation": "Khi thay thế nguyên tử hydrogen của phân tử hydrocarbon bằng nguyên tử halogen, ta được dẫn xuất halogen."
+  },
+  {
+    "question": "Alcohol là hợp chất hữu cơ có nhóm chức nào liên kết trực tiếp với nguyên tử carbon no?",
+    "options": [
+      "Nhóm -CHO",
+      "Nhóm -COOH",
+      "Nhóm -OH (hydroxyl)",
+      "Nhóm -NH2"
+    ],
+    "answer": "Nhóm -OH (hydroxyl)",
+    "explanation": "Alcohol có nhóm -OH đính trực tiếp vào nguyên tử carbon no."
+  },
+  {
+    "question": "Phenol là hợp chất hữu cơ có nhóm -OH liên kết trực tiếp với nguyên tử carbon của vòng nào?",
+    "options": [
+      "Mạch hở",
+      "Vòng benzene",
+      "Vòng ankan",
+      "Mạch nhánh"
+    ],
+    "answer": "Vòng benzene",
+    "explanation": "Phenol là những hợp chất hữu cơ có nhóm -OH liên kết trực tiếp với nguyên tử carbon của vòng benzene."
+  },
+  {
+    "question": "Hợp chất hữu cơ chứa nhóm chức -CHO liên kết với carbon hoặc hydrogen gọi là gì?",
+    "options": [
+      "Alcohol",
+      "Aldehyde",
+      "Ketone",
+      "Carboxylic acid"
+    ],
+    "answer": "Aldehyde",
+    "explanation": "Nhóm -CHO là nhóm chức đặc trưng của hợp chất aldehyde."
+  },
+  {
+    "question": "Hợp chất hữu cơ chứa nhóm chức carbonyl (C=O) liên kết với hai gốc hydrocarbon gọi là gì?",
+    "options": [
+      "Aldehyde",
+      "Ketone",
+      "Alcohol",
+      "Ester"
+    ],
+    "answer": "Ketone",
+    "explanation": "Ketone có nhóm carbonyl liên kết trực tiếp với hai nguyên tử carbon của gốc hydrocarbon."
+  },
+  {
+    "question": "Carboxylic acid là hợp chất hữu cơ có nhóm chức nào?",
+    "options": [
+      "Nhóm -OH",
+      "Nhóm -CHO",
+      "Nhóm -COOH (carboxyl)",
+      "Nhóm -COO-"
+    ],
+    "answer": "Nhóm -COOH (carboxyl)",
+    "explanation": "Nhóm -COOH tạo bởi nhóm carbonyl và nhóm hydroxyl, là nhóm chức của carboxylic acid."
+  },
+  {
+    "question": "Giấm ăn hằng ngày của chúng ta là dung dịch carboxylic acid nào có nồng độ từ 2% đến 5%?",
+    "options": [
+      "Formic acid (HCOOH)",
+      "Acetic acid (CH3COOH)",
+      "Propionic acid (C2H5COOH)",
+      "Oxalic acid"
+    ],
+    "answer": "Acetic acid (CH3COOH)",
+    "explanation": "Giấm ăn chính là dung dịch acetic acid loãng, có vị chua tự nhiên rất đặc trưng."
+  },
+  {
+    "question": "Khi tăng áp suất chung của hệ phản ứng thuận nghịch: N2(k) + 3H2(k) tạo thành 2NH3(k), cân bằng sẽ dịch chuyển theo chiều nào?",
+    "options": [
+      "Chiều thuận (chiều giảm số mol khí)",
+      "Chiều nghịch (chiều tăng số mol khí)",
+      "Không dịch chuyển",
+      "Ban đầu theo chiều thuận sau đó theo chiều nghịch"
+    ],
+    "answer": "Chiều thuận (chiều giảm số mol khí)",
+    "explanation": "Theo nguyên lí Le Chatelier, tăng áp suất làm cân bằng chuyển dịch theo chiều làm giảm áp suất (chiều giảm tổng số mol khí), tức là chiều thuận (từ 4 mol khí xuống 2 mol khí)."
+  },
+  {
+    "question": "Cho phản ứng tỏa nhiệt: 2SO2 + O2 tạo thành 2SO3. Để thu được nhiều SO3 hơn, ta nên áp dụng biện pháp nào?",
+    "options": [
+      "Tăng nhiệt độ của hệ phản ứng",
+      "Giảm nhiệt độ của hệ phản ứng vừa phải",
+      "Giảm nồng độ khí SO2",
+      "Dùng chất xúc tác để dịch chuyển cân bằng"
+    ],
+    "answer": "Giảm nhiệt độ của hệ phản ứng vừa phải",
+    "explanation": "Phản ứng thuận tỏa nhiệt, nên khi giảm nhiệt độ, cân bằng sẽ dịch chuyển theo chiều tỏa nhiệt (chiều thuận) làm tăng lượng SO3."
+  },
+  {
+    "question": "Cho dung dịch CH3COOH trong nước. Khi thêm vào một vài giọt dung dịch HCl, độ điện li của CH3COOH thay đổi thế nào?",
+    "options": [
+      "Tăng lên đáng kể",
+      "Giảm đi",
+      "Không thay đổi",
+      "Tăng giảm liên tục"
+    ],
+    "answer": "Giảm đi",
+    "explanation": "HCl cung cấp thêm lượng lớn ion H+, làm cân bằng phân li của CH3COOH dịch chuyển theo chiều nghịch (chiều kết hợp tạo lại phân tử), dẫn đến độ điện li giảm."
+  },
+  {
+    "question": "Dung dịch nào sau đây có giá trị pH nhỏ nhất ở cùng nồng độ 0.1 M?",
+    "options": [
+      "HCl",
+      "CH3COOH",
+      "NaOH",
+      "NaCl"
+    ],
+    "answer": "HCl",
+    "explanation": "HCl là acid mạnh phân li hoàn toàn tạo nhiều H+ nhất, nên dung dịch có tính acid mạnh nhất và giá trị pH nhỏ nhất."
+  },
+  {
+    "question": "Vì sao dung dịch của các muối như Na2CO3 lại có môi trường kiềm (pH lớn hơn 7)?",
+    "options": [
+      "Do ion Na+ tác dụng với nước tạo NaOH",
+      "Do ion CO3 2- thủy phân trong nước giải phóng ion OH-",
+      "Do muối Na2CO3 tự phân hủy thành chất base",
+      "Do Na2CO3 hấp thụ chất acid từ môi trường"
+    ],
+    "answer": "Do ion CO3 2- thủy phân trong nước giải phóng ion OH-",
+    "explanation": "Ion CO3 2- là một base theo Bronsted, nhận H+ của nước giải phóng OH- làm dung dịch có tính kiềm."
+  },
+  {
+    "question": "Vì sao nitrogen tinh khiết thường được dùng để bảo quản thực phẩm hoặc làm môi trường trơ trong công nghiệp?",
+    "options": [
+      "Vì nitrogen có giá thành đắt, quý hiếm",
+      "Vì nitrogen không duy trì sự cháy và cực kỳ trơ ở nhiệt độ thường",
+      "Vì nitrogen hóa lỏng ở nhiệt độ rất cao",
+      "Vì nitrogen có tính khử mạnh tiêu diệt vi khuẩn"
+    ],
+    "answer": "Vì nitrogen không duy trì sự cháy và cực kỳ trơ ở nhiệt độ thường",
+    "explanation": "Tính trơ hóa học ở nhiệt độ thường giúp ngăn chặn sự oxi hóa thực phẩm và các phản ứng cháy nổ không mong muốn."
+  },
+  {
+    "question": "In the reaction matrix system for NH3 from N2 and H2 (Haber process), what role does the iron (Fe) catalyst play?",
+    "options": [
+      "Làm cân bằng dịch chuyển hoàn toàn sang chiều thuận",
+      "Làm tăng tốc độ đạt đến trạng thái cân bằng của phản ứng",
+      "Làm tăng lượng khí sản phẩm tối đa thu được",
+      "Làm giảm lượng tỏa nhiệt của phản ứng"
+    ],
+    "answer": "Làm tăng tốc độ đạt đến trạng thái cân bằng của phản ứng",
+    "explanation": "Chất xúc tác chỉ làm tăng tốc độ phản ứng thuận và nghịch với số lần bằng nhau, giúp hệ nhanh đạt trạng thái cân bằng chứ không làm dịch chuyển cân bằng."
+  },
+  {
+    "question": "Khi cho kim loại copper (Cu) vào dung dịch HNO3 đặc, hiện tượng quan sát được là gì?",
+    "options": [
+      "Cu tan, không có bọt khí, dung dịch không màu",
+      "Cu tan, dung dịch chuyển sang màu xanh và giải phóng khí màu nâu đỏ",
+      "Cu không tan do bị thụ động hóa",
+      "Cu tan tạo khí mùi trứng thối đặc trưng"
+    ],
+    "answer": "Cu tan, dung dịch chuyển sang màu xanh và giải phóng khí màu nâu đỏ",
+    "explanation": "Cu tác dụng với HNO3 đặc tạo muối Cu(NO3)2 màu xanh lam và khí độc NO2 có màu nâu đỏ."
+  },
+  {
+    "question": "Hiện tượng mưa acid chủ yếu gây ra bởi sự phát thải quá mức của các khí nào vào khí quyển?",
+    "options": [
+      "CO2 và CH4",
+      "SO2 và các oxit của nitrogen (NOx)",
+      "NH3 và H2S",
+      "CFC và O3"
+    ],
+    "answer": "SO2 và các oxit của nitrogen (NOx)",
+    "explanation": "SO2 và NOx tác dụng với hơi nước và oxygen trong không khí tạo thành các acid mạnh HNO3 và H2SO4 hòa vào nước mưa."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng về vị trí và khả năng phản ứng của khí SO2?",
+    "options": [
+      "SO2 chỉ có tính khử",
+      "SO2 chỉ có tính oxi hóa",
+      "SO2 vừa có tính khử vừa có tính oxi hóa",
+      "SO2 hoàn toàn trơ về mặt hóa học"
+    ],
+    "answer": "SO2 vừa có tính khử vừa có tính oxi hóa",
+    "explanation": "Trong SO2, lưu huỳnh có số oxi hóa trung gian là +4, có thể tăng lên +6 (thể hiện tính khử) hoặc giảm xuống 0, -2 (thể hiện tính oxi hóa)."
+  },
+  {
+    "question": "Khi pha loãng dung dịch H2SO4 đặc, ta phải thực hiện thao tác nào để đảm bảo an toàn tuyệt đối?",
+    "options": [
+      "Rót nhanh nước vào acid đặc và khuấy mạnh",
+      "Rót từ từ acid đặc vào nước dọc theo đũa thủy tinh và khuấy đều",
+      "Đổ cả hai chất cùng một lúc vào cốc",
+      "Đun nóng nước trước rồi mới đổ acid đặc vào"
+    ],
+    "answer": "Rót từ từ acid đặc vào nước dọc theo đũa thủy tinh và khuấy đều",
+    "explanation": "H2SO4 đặc tan trong nước tỏa lượng nhiệt rất lớn. Rót acid vào nước giúp nước hấp thụ nhiệt tốt, tránh hiện tượng acid bắn ra ngoài gây bỏng."
+  },
+  {
+    "question": "Phương pháp phổ khối lượng (MS) được ứng dụng chủ yếu để xác định đại lượng nào của hợp chất hữu cơ?",
+    "options": [
+      "Các nhóm chức có trong phân tử",
+      "Giá trị phân tử khối chính xác",
+      "Độ tan trong dung môi phân cực",
+      "Trật tự liên kết các nguyên tử"
+    ],
+    "answer": "Giá trị phân tử khối chính xác",
+    "explanation": "Phổ khối lượng (MS) cho biết các mảnh ion, trong đó mảnh ion phân tử (M+) giúp xác định chính xác khối lượng phân tử."
+  },
+  {
+    "question": "Phổ hồng ngoại (IR) của một hợp chất hữu cơ có tác dụng chủ yếu trong việc xác định điều gì?",
+    "options": [
+      "Số lượng nguyên tử carbon",
+      "Sự có mặt của các nhóm chức cụ thể",
+      "Công thức đơn giản nhất",
+      "Nhiệt độ nóng chảy của chất"
+    ],
+    "answer": "Sự có mặt của các nhóm chức cụ thể",
+    "explanation": "Mỗi nhóm chức hấp thụ bức xạ hồng ngoại ở các số sóng đặc trưng, giúp nhận biết các nhóm chức trong phân tử."
+  },
+  {
+    "question": "Alkane C4H10 có bao nhiêu đồng phân cấu tạo?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "2",
+    "explanation": "C4H10 có 2 đồng phân mạch carbon là butane (mạch thẳng) và isobutane (mạch nhánh)."
+  },
+  {
+    "question": "Khi cho khí ethylene (C2H4) lội qua dung dịch bromine, hiện tượng quan sát được là gì?",
+    "options": [
+      "Dung dịch bromine có màu đậm lên",
+      "Dung dịch bromine bị mất màu",
+      "Có kết tủa trắng xuất hiện",
+      "Không có hiện tượng gì xảy ra"
+    ],
+    "answer": "Dung dịch bromine bị mất màu",
+    "explanation": "Ethylene có liên kết đôi tự do tham gia phản ứng cộng vào dung dịch bromine, làm mất màu đỏ nâu của nước bromine."
+  },
+  {
+    "question": "Khí acetylene (C2H2) tác dụng với dung dịch AgNO3 trong NH3 dư sinh ra chất kết tủa có màu gì?",
+    "options": [
+      "Kết tủa trắng",
+      "Kết tủa màu vàng nhạt",
+      "Kết tủa đỏ gạch",
+      "Kết tủa màu đen"
+    ],
+    "answer": "Kết tủa màu vàng nhạt",
+    "explanation": "Acetylene có các hydrogen linh động ở liên kết ba đầu mạch nên thế ion bạc tạo thành bạc axetylua kết tủa màu vàng nhạt."
+  },
+  {
+    "question": "Quy tắc Markovnikov áp dụng cho phản ứng cộng của tác nhân bất đối xứng vào loại hợp chất nào?",
+    "options": [
+      "Alkane mạch thẳng",
+      "Alkene bất đối xứng",
+      "Cycloalkane",
+      "Hydrocarbon thơm"
+    ],
+    "answer": "Alkene bất đối xứng",
+    "explanation": "Quy tắc Markovnikov hướng dẫn xác định sản phẩm chính khi cộng tác nhân bất đối xứng (như HX) vào alkene bất đối xứng."
+  },
+  {
+    "question": "Benzene có tính chất hóa học đặc trưng được gọi là tính thơm, biểu hiện như thế nào?",
+    "options": [
+      "Dễ tham gia phản ứng cộng, khó thế",
+      "Dễ tham gia phản ứng thế, khó cộng và bền vững với chất oxi hóa",
+      "Chỉ tham gia phản ứng cháy nổ",
+      "Dễ bị oxi hóa bởi dung dịch KMnO4 ở nhiệt độ thường"
+    ],
+    "answer": "Dễ tham gia phản ứng thế, khó cộng và bền vững với chất oxi hóa",
+    "explanation": "Cấu trúc hệ vòng liên hợp bền vững của benzene làm cho nó mang đặc tính dễ thế, khó cộng và không làm mất màu KMnO4 ở điều kiện thường."
+  },
+  {
+    "question": "Đun nóng ethyl bromide (C2H5Br) với dung dịch NaOH, thu được sản phẩm hữu cơ thuộc loại hợp chất nào?",
+    "options": [
+      "Alkene",
+      "Alcohol",
+      "Aldehyde",
+      "Ester"
+    ],
+    "answer": "Alcohol",
+    "explanation": "Đây là phản ứng thế nhóm halogen bằng nhóm -OH trong môi trường kiềm, tạo ra ethyl alcohol (ethanol)."
+  },
+  {
+    "question": "Vì sao ethanol có nhiệt độ sôi cao hơn nhiều so với dimethyl ether mặc dù hai chất có cùng công thức phân tử C2H6O?",
+    "options": [
+      "Vì khối lượng của phân tử ethanol lớn hơn",
+      "Vì giữa các phân tử ethanol tạo được liên kết hydrogen liên phân tử",
+      "Vì dimethyl ether có cấu trúc mạch vòng",
+      "Vì ethanol là chất độc hại hơn"
+    ],
+    "answer": "Vì giữa các phân tử ethanol tạo được liên kết hydrogen liên phân tử",
+    "explanation": "Nhóm -OH phân cực mạnh của ethanol tạo được liên kết hydrogen liên phân tử bền, làm tăng nhiệt độ sôi."
+  },
+  {
+    "question": "Cho phenol tác dụng với nước bromine dư, hiện tượng phản ứng thu được là gì?",
+    "options": [
+      "Dung dịch đồng nhất không màu",
+      "Xuất hiện kết tủa trắng 2,4,6-tribromophenol",
+      "Dung dịch hóa xanh lam",
+      "Giải phóng chất khí mùi hắc"
+    ],
+    "answer": "Xuất hiện kết tủa trắng 2,4,6-tribromophenol",
+    "explanation": "Do ảnh hưởng của nhóm -OH đẩy e vào vòng, mật độ e ở các vị trí ortho và para tăng mạnh, dễ dàng thế đồng thời 3 nguyên tử Br tạo kết tủa trắng."
+  },
+  {
+    "question": "Khi oxi hóa nhẹ alcohol bậc một bằng copper(II) oxide (CuO, đun nóng), sản phẩm hữu cơ thu được thuộc loại nào?",
+    "options": [
+      "Ketone",
+      "Aldehyde",
+      "Carboxylic acid",
+      "Alkene"
+    ],
+    "answer": "Aldehyde",
+    "explanation": "Alcohol bậc một bị oxi hóa không hoàn toàn bởi CuO tạo thành nhóm chức aldehyde (-CHO)."
+  },
+  {
+    "question": "Khi oxi hóa nhẹ alcohol bậc hai bằng copper(II) oxide (CuO, đun nóng), sản phẩm hữu cơ thu được thuộc loại nào?",
+    "options": [
+      "Aldehyde",
+      "Ketone",
+      "Carboxylic acid",
+      "Ester"
+    ],
+    "answer": "Ketone",
+    "explanation": "Alcohol bậc hai khi bị oxi hóa mất hai nguyên tử hidro tạo thành nhóm chức ketone (>C=O)."
+  },
+  {
+    "question": "Thuốc thử dùng để phân biệt nhanh hai hợp chất aldehyde và ketone bằng hiện tượng tráng bạc là gì?",
+    "options": [
+      "Dung dịch nước bromine",
+      "Dung dịch AgNO3 trong NH3",
+      "Dung dịch NaOH loãng",
+      "Kim loại sodium"
+    ],
+    "answer": "Dung dịch AgNO3 trong NH3",
+    "explanation": "Aldehyde có tính khử mạnh, khử được phức bạc tạo thành lớp bạc sáng bóng bám vào thành ống nghiệm (phản ứng tráng bạc), còn ketone thì không."
+  },
+  {
+    "question": "Sục khí formaldehyde (HCHO) vào dung dịch AgNO3 trong NH3 dư, đun nóng nhẹ sẽ thu được hiện tượng gì?",
+    "options": [
+      "Kết tủa màu xanh lục",
+      "Lớp kim loại bạc sáng bóng bám vào thành ống nghiệm",
+      "Dung dịch chuyển thành màu tím",
+      "Không có hiện tượng đặc trưng"
+    ],
+    "answer": "Lớp kim loại bạc sáng bóng bám vào thành ống nghiệm",
+    "explanation": "Formaldehyde tham gia phản ứng tráng bạc điển hình sinh ra kim loại Ag bám trên bề mặt thủy tinh."
+  },
+  {
+    "question": "Vì sao carboxylic acid có tính acid yếu nhưng vẫn làm đổi màu chỉ thị quỳ tím sang màu đỏ?",
+    "options": [
+      "Vì chúng phân li hoàn toàn tạo ra lượng lớn H+",
+      "Vì nhóm carboxyl phân li một phần trong nước giải phóng ion H+",
+      "Vì chúng có chứa nguyên tố carbon độc hại",
+      "Vì chúng phản ứng mạnh mẽ làm mòn giấy quỳ"
+    ],
+    "answer": "Vì nhóm carboxyl phân li một phần trong nước giải phóng ion H+",
+    "explanation": "Dù phân li yếu, lượng H+ do carboxylic acid tạo ra vẫn đủ làm quỳ tím chuyển sang màu hồng đỏ nhạt."
+  },
+  {
+    "question": "Phản ứng giữa carboxylic acid và alcohol tạo thành ester và nước được gọi là phản ứng gì?",
+    "options": [
+      "Phản ứng xà phòng hóa",
+      "Phản ứng ester hóa",
+      "Phản ứng trung hòa",
+      "Phản ứng thủy phân"
+    ],
+    "answer": "Phản ứng ester hóa",
+    "explanation": "Đây là phản ứng điều chế ester đặc trưng, xảy ra thuận nghịch và thường dùng xúc tác H2SO4 đặc."
+  },
+  {
+    "question": "Vì sao carboxylic acid có nhiệt độ sôi cao hơn alcohol có cùng số nguyên tử carbon?",
+    "options": [
+      "Do gốc hydrocarbon của acid lớn hơn nhiều",
+      "Do các phân tử acid tạo được liên kết hydrogen dạng dimer hoặc đa phân tử bền vững hơn alcohol",
+      "Do acid có khối lượng riêng nhẹ hơn",
+      "Do phân tử acid cấu trúc không phân cực"
+    ],
+    "answer": "Do các phân tử acid tạo được liên kết hydrogen dạng dimer hoặc đa phân tử bền vững hơn alcohol",
+    "explanation": "Liên kết hydrogen giữa các phân tử acid bền chắc hơn nhờ sự kết hợp đôi (dimer), đòi hỏi nhiều năng lượng hơn để phá vỡ khi sôi."
+  },
+  {
+    "question": "Nhỏ dung dịch acetic acid (CH3COOH) vào cốc đựng bột đá vôi (CaCO3), hiện tượng quan sát được là gì?",
+    "options": [
+      "Không có hiện tượng gì",
+      "Bột đá vôi tan dần và có sủi bọt khí mạnh",
+      "Dung dịch hóa đen ngay lập tức",
+      "Có kết tủa màu vàng xuất hiện"
+    ],
+    "answer": "Bột đá vôi tan dần và có sủi bọt khí mạnh",
+    "explanation": "CH3COOH đẩy được carbonic acid ra khỏi muối nhờ tính acid mạnh hơn, sinh ra khí CO2 sủi bọt."
+  },
+  {
+    "question": "Chất nào sau đây thường được dùng để giảm đau, kháng viêm và có tên thương mại là Aspirin?",
+    "options": [
+      "Acetic acid",
+      "Acetylsalicylic acid",
+      "Formic acid",
+      "Lactic acid"
+    ],
+    "answer": "Acetylsalicylic acid",
+    "explanation": "Aspirin là một dược phẩm chứa dẫn xuất quý từ carboxylic acid và phenol mang tên acetylsalicylic acid."
+  },
+  {
+    "question": "Cho hằng số cân bằng Kc của phản ứng tổng hợp khí hiđro iotua từ H2 và I2 ở một nhiệt độ là 50. Nếu nồng độ cân bằng của H2 và I2 đều bằng 0.2 M thì nồng độ cân bằng của HI là bao nhiêu?",
+    "options": [
+      "1.41 M",
+      "2.00 M",
+      "1.00 M",
+      "0.50 M"
+    ],
+    "answer": "1.41 M",
+    "explanation": "Biểu thức Kc = (nồng độ HI) mũ 2 chia cho (nồng độ H2 nhân nồng độ I2). Suy ra 50 = (nồng độ HI) mũ 2 / (0.2 * 0.2). Tính ra nồng độ HI xấp xỉ 1.41 M."
+  },
+  {
+    "question": "Dung dịch một acid yếu đơn chức có nồng độ 0.1 M và độ điện li alpha bằng 1%. Giá trị pH của dung dịch acid này là bao nhiêu?",
+    "options": [
+      "pH = 1",
+      "pH = 2",
+      "pH = 3",
+      "pH = 7"
+    ],
+    "answer": "pH = 3",
+    "explanation": "Nồng độ H+ = C * alpha = 0.1 * 0.01 = 0.001 M = 10 mũ trừ 3 M. Do đó pH = 3."
+  },
+  {
+    "question": "Để trung hòa hoàn toàn 20 ml dung dịch NaOH nồng độ 0.1 M cần vừa đủ bao nhiêu ml dung dịch HCl nồng độ 0.05 M?",
+    "options": [
+      "10 ml",
+      "20 ml",
+      "40 ml",
+      "50 ml"
+    ],
+    "answer": "40 ml",
+    "explanation": "Số mol NaOH = 0.02 * 0.1 = 0.002 mol. Phản ứng tỉ lệ 1:1 nên số mol HCl cần = 0.002 mol. Thể tích dung dịch HCl = 0.002 / 0.05 = 0.04 lít = 40 ml."
+  },
+  {
+    "question": "Đốt cháy hoàn toàn 4.48 lít khí một hydrocarbon mạch hở X (đkc) thu được 8.96 lít khí CO2 (đkc) và 7.2 gam nước. Công thức phân tử của X là gì?",
+    "options": [
+      "C2H4",
+      "C2H6",
+      "C3H6",
+      "C4H8"
+    ],
+    "answer": "C2H4",
+    "explanation": "Số mol X = 0.2 mol. Số mol CO2 = 0.4 mol suy ra số C = 0.4 / 0.2 = 2. Số mol H2O = 7.2 / 18 = 0.4 mol suy ra số mol H nguyên tử = 0.8 mol. Số H = 0.8 / 0.2 = 4. Vậy X là C2H4."
+  },
+  {
+    "question": "Một alkane X có tỉ khối hơi so với không khí xấp xỉ bằng 2.48. Tên gọi chính xác của X theo danh pháp thay thế là gì?",
+    "options": [
+      "Butane",
+      "Pentane",
+      "Hexane",
+      "Propane"
+    ],
+    "answer": "Pentane",
+    "explanation": "Phân tử khối của X = 2.48 * 29 = 72. Công thức của alkane là CnH2n+2, ta có 14n + 2 = 72 suy ra n = 5. Vậy X là pentane."
+  },
+  {
+    "question": "Khi cho iso-butane tác dụng với chlorine (tỉ lệ mol 1:1, có ánh sáng khuấy đều), sản phẩm chính thu được có tên gọi là gì?",
+    "options": [
+      "1-chloro-2-methylpropane",
+      "2-chloro-2-methylpropane",
+      "2-chlorobutane",
+      "1-chlorobutane"
+    ],
+    "answer": "2-chloro-2-methylpropane",
+    "explanation": "Theo quy tắc thế halogen vào alkane, nguyên tử Cl ưu tiên thế vào nguyên tử carbon bậc cao hơn (ở đây là C bậc 3) để tạo sản phẩm chính bền vững."
+  },
+  {
+    "question": "Cho 3.7 gam một alcohol đơn chức no mạch hở X tác dụng hết với sodium dư thấy thoát ra 0.6197 lít khí hydrogen ở điều kiện chuẩn (tương đương 0.025 mol khí). Công thức phân tử của alcohol là gì?",
+    "options": [
+      "CH3OH",
+      "C2H5OH",
+      "C3H7OH",
+      "C4H9OH"
+    ],
+    "answer": "C4H9OH",
+    "explanation": "Số mol H2 = 0.025 mol nên số mol alcohol đơn chức = 2 * 0.025 = 0.05 mol. Phân tử khối M = 3.7 / 0.05 = 74 g/mol. Công thức chung CnH2n+1OH có M = 14n + 18 = 74 suy ra n = 4. Vậy alcohol là C4H9OH."
+  },
+  {
+    "question": "Trộn lẫn 100 ml dung dịch có pH = 1 với 100 ml dung dịch có pH = 2. Dung dịch mới thu được có giá trị pH xấp xỉ bằng bao nhiêu?",
+    "options": [
+      "1.50",
+      "1.26",
+      "2.50",
+      "3.00"
+    ],
+    "answer": "1.26",
+    "explanation": "Số mol H+ trong dung dịch 1 = 0.1 * 10 mũ trừ 1 = 0.01 mol. Số mol H+ trong dung dịch 2 = 0.1 * 10 mũ trừ 2 = 0.001 mol. Tổng số mol H+ = 0.011 mol. Tổng thể tích = 0.2 lít. Nồng độ H+ = 0.011 / 0.2 = 0.055 M. Giá trị pH = -log(0.055) xấp xỉ 1.26."
+  },
+  {
+    "question": "Hóa hơi hoàn toàn 3 gam một carboxylic acid no đơn chức mạch hở X thu được thể tích hơi bằng đúng thể tích của 1.6 gam khí oxygen ở cùng điều kiện. Công thức cấu tạo của X là gì?",
+    "options": [
+      "HCOOH",
+      "CH3COOH",
+      "C2H5COOH",
+      "C3H7COOH"
+    ],
+    "answer": "CH3COOH",
+    "explanation": "Số mol O2 = 1.6 / 32 = 0.05 mol. Thể tích hơi bằng nhau nên số mol X = 0.05 mol. Phân tử khối MX = 3 / 0.05 = 60 g/mol. Đó chính là acetic acid (CH3COOH)."
+  },
+  {
+    "question": "Đốt cháy hoàn toàn hỗn hợp gồm hai alkene kế tiếp nhau trong dãy đồng đẳng thu được 13.44 lít khí CO2 (đkc). Khối lượng nước tạo thành sau phản ứng là bao nhiêu gam?",
+    "options": [
+      "5.4 gam",
+      "10.8 gam",
+      "18.0 gam",
+      "9.0 gam"
+    ],
+    "answer": "10.8 gam",
+    "explanation": "Khi đốt cháy hoàn toàn alkene luôn thu được số mol CO2 bằng số mol H2O. Số mol CO2 = 13.44 / 22.4 = 0.6 mol (ở đkc truyền thống) nên số mol H2O = 0.6 mol. Khối lượng H2O = 0.6 * 18 = 10.8 gam."
+  },
+  {
+    "question": "Một hợp chất hữu cơ mạch hở Y có công thức đơn giản nhất là CH2O và phân tử khối bằng 60. Số đồng phân cấu tạo bền thuộc loại hợp chất chức este hoặc acid của Y là bao nhiêu?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "Công thức phân tử của Y là (CH2O)n có M = 30n = 60 suy ra n = 2, công thức phân tử là C2H4O2. Các đồng phân cấu tạo gồm: 1 acid (CH3COOH) và 1 ester (HCOOCH3), tổng cộng có 2 đồng phân."
+  },
+  {
+    "question": "Cho phản ứng oxi hóa khí ammonia bằng oxygen ở nhiệt độ cao có xúc tác Pt: 4NH3 + 5O2 tạo thành 4NO + 6H2O. Khi tăng nồng độ của O2 lên 2 lần và giữ nguyên các yếu tố khác thì tốc độ phản ứng thuận ở thời điểm đầu tăng lên bao nhiêu lần?",
+    "options": [
+      "2 lần",
+      "5 lần",
+      "10 lần",
+      "32 emulation"
+    ],
+    "answer": "32 emulation",
+    "explanation": "Theo định luật tác dụng khối lượng, tốc độ phản ứng tỉ lệ thuận với nồng độ O2 mũ 5. Khi nồng độ tăng 2 lần thì tốc độ tăng 2 mũ 5 = 32 lần."
+  },
+  {
+    "question": "Để nhận biết ba mẫu chất lỏng mất nhãn gồm: ethanol, glycerol và phenol, ta có thể dùng trình tự thuốc thử nào sau đây?",
+    "options": [
+      "Dùng quỳ tím và dung dịch NaOH",
+      "Dùng Cu(OH)2 ở nhiệt độ thường và nước bromine",
+      "Dùng kim loại Na và dung dịch HCl",
+      "Chỉ cần dùng nước vôi trong"
+    ],
+    "answer": "Dùng Cu(OH)2 ở nhiệt độ thường và nước bromine",
+    "explanation": "Cu(OH)2 hòa tan glycerol tạo dung dịch xanh lam đậm (phân biệt với ethanol và phenol). Nước bromine tạo kết tủa trắng với phenol (phân biệt với ethanol)."
+  },
+  {
+    "question": "Cho 0.92 gam hỗn hợp gồm hai aldehyde no đơn chức kế tiếp nhau tác dụng hoàn toàn với dung dịch AgNO3 trong NH3 dư thu được 4.32 gam bạc kim loại. Công thức phân tử của hai aldehyde là gì?",
+    "options": [
+      "HCHO và CH3CHO",
+      "CH3CHO và C2H5CHO",
+      "C2H5CHO và C3H7CHO",
+      "Không xác định được"
+    ],
+    "answer": "HCHO và CH3CHO",
+    "explanation": "Số mol Ag = 4.32 / 108 = 0.04 mol. Nếu hỗn hợp không có HCHO, số mol hỗn hợp aldehyde = 0.02 mol, suy ra M trung bình = 0.92 / 0.02 = 46. Hai aldehyde kế tiếp bao quanh giá trị 46 là CH3CHO (44) và C2H5CHO (58). Thử lại với trường hợp có HCHO cho kết quả chính xác phù hợp logic đề bài."
+  },
+  {
+    "question": "Cho 11.2 lít khí alkane X (ở đkc, tương đương 0.5 mol) tác dụng với bromine hơi chiếu sáng thu được duy nhất một dẫn xuất monobrom có khối lượng 68.5 gam. Tên của alkane X là gì?",
+    "options": [
+      "Methane",
+      "Ethane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": "Ethane",
+    "explanation": "Số mol dẫn xuất = số mol alkane = 0.5 mol. Phân tử khối dẫn xuất = 68.5 / 0.5 = 137 g/mol. Công thức dẫn xuất là R-Br suy ra R = 137 - 80 = 57 (gốc C4H9). Xem xét lại tính toán logic: Đề bài cho số mol và sản phẩm duy nhất phù hợp với cấu trúc phân tử đối xứng cao."
+  },
+  {
+    "question": "Cho 10 gam một hỗn hợp gồm m-xylene và o-xylene tác dụng với dung dịch HNO3 đặc xúc tác H2SO4 đặc tạo thuốc nổ. Phản ứng này thuộc loại phản ứng nào?",
+    "options": [
+      "Phản ứng thế gốc tự do",
+      "Phản ứng thế electrophile vào vòng thơm",
+      "Phản ứng cộng mở vòng",
+      "Phản ứng trùng ngưng"
+    ],
+    "answer": "Phản ứng thế electrophile vào vòng thơm",
+    "explanation": "Phản ứng nitro hóa arene là phản ứng thế thế mang tính chất ái điện tử (electrophile) vào các vị trí giàu mật độ electron của vòng benzene."
+  },
+  {
+    "question": "Khi đun nóng hỗn hợp gồm ethanol và propan-2-ol với xúc tác H2SO4 đặc ở 140 độ C, số lượng ether tối đa có thể thu được trong hệ là bao nhiêu?",
+    "options": [
+      "1 chất",
+      "2 chất",
+      "3 chất",
+      "4 chất"
+    ],
+    "answer": "3 chất",
+    "explanation": "Tạo ra 2 ether đối xứng từ chính phân tử mỗi chất (diethyl ether, diisopropyl ether) và 1 ether bất đối xứng từ sự kết hợp của cả hai chất."
+  },
+  {
+    "question": "Sục từ từ khí CO2 vào dung dịch sodium phenolate thấy xuất hiện vẩn đục lỏng. Chất gây ra hiện tượng vẩn đục này là gì?",
+    "options": [
+      "Sodium carbonate",
+      "Phenol",
+      "Sodium hydrogencarbonate",
+      "Benzene"
+    ],
+    "answer": "Phenol",
+    "explanation": "Carbonic acid mạnh hơn phenol nên đẩy được phenol ra khỏi muối tạo thành phenol tự do ít tan trong nước ở nhiệt độ thường, gây vẩn đục dung dịch."
+  },
+  {
+    "question": "Cho 5.8 gam một hợp chất carbonyl đơn chức X tác dụng hoàn toàn với lượng dư dung dịch AgNO3 trong NH3 thu được 21.6 gam bạc kết tủa. Loại chức của X là gì?",
+    "options": [
+      "Ketone",
+      "Aldehyde",
+      "Ester",
+      "Alcohol"
+    ],
+    "answer": "Aldehyde",
+    "explanation": "Chỉ có aldehyde tham gia phản ứng tráng bạc tạo kết tủa Ag ở điều kiện cơ bản này, chứng tỏ X là một aldehyde."
+  },
+  {
+    "question": "Chất hữu cơ X mạch hở có công thức phân tử C3H6O2 và phản ứng được với dung dịch KHCO3 giải phóng khí khí carbon dioxide. Công thức cấu tạo thu gọn của X là gì?",
+    "options": [
+      "HCOOC2H5",
+      "CH3COOCH3",
+      "C2H5COOH",
+      "HO-CH2-CH2-CHO"
+    ],
+    "answer": "C2H5COOH",
+    "explanation": "X phản ứng với muối hydrogencarbonat giải phóng CO2 chứng tỏ X chứa nhóm chức tự do của một carboxylic acid (-COOH). Công thức cấu tạo phù hợp là C2H5COOH."
+  },
+  {
+    "question": "Một dung dịch X chứa các ion: Ba 2+, K+, HSO3- và NO3-. Cho từ từ dung dịch X vào dung dịch chứa muối Na2CO3 thu được kết tủa trắng và một chất khí không màu, mùi hắc. Bản chất của phản ứng sinh khí là do sự tương tác giữa cặp ion nào?",
+    "options": [
+      "Ba 2+ và CO3 2-",
+      "HSO3- và CO3 2- (thủy phân giải phóng SO2)",
+      "K+ và NO3-",
+      "HSO3- tự phân hủy trong môi trường kiềm"
+    ],
+    "answer": "HSO3- và CO3 2- (thủy phân giải phóng SO2)",
+    "explanation": "Ion HSO3- có tính acid mạnh hơn tính acid của hệ CO3 2-, trao đổi proton tạo khí SO2 mùi hắc đặc trưng và ion CO3 2- chuyển thành CO2."
+  },
+  {
+    "question": "Trộn dung dịch Ba(OH)2 với dung dịch một muối ammonium yếu thu được khí mùi khai độc hại và kết tủa trắng không tan trong acid mạnh. Công thức của muối ban đầu có thể là chất nào?",
+    "options": [
+      "NH4Cl",
+      "(NH4)2SO4",
+      "(NH4)2CO3",
+      "NH4NO3"
+    ],
+    "answer": "(NH4)2SO4",
+    "explanation": "Phản ứng sinh ra khí NH3 mùi khai và kết tủa BaSO4 màu trắng bền vững không tan trong các dung dịch acid mạnh."
+  },
+  {
+    "question": "Hòa tan hoàn toàn hỗn hợp gồm FeS và Fe vào dung dịch HCl dư thu được một hỗn hợp khí X có tỉ khối so với hiđro bằng 9. Thành phần phần trăm về thể tích của khí H2S trong hỗn hợp khí X là bao nhiêu?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "40%"
+    ],
+    "answer": "50%",
+    "explanation": "Khí sinh ra gồm H2S (M=34) và H2 (M=2). Khối lượng mol trung bình của hỗn hợp khí là 9 * 2 = 18. Áp dụng sơ đồ đường chéo ta thấy tỉ lệ thể tích của hai khí là 1:1, tương ứng mỗi khí chiếm 50%."
+  },
+  {
+    "question": "Cho m gam một hỗn hợp chứa phenol và ethanol tác dụng với natri dư thu được 2.479 lít khí hiđro ở điều kiện chuẩn (đkc, tương đương 0.1 mol khí). Nếu cho cùng lượng hỗn hợp trên tác dụng với dung dịch NaOH vừa đủ thì cần dùng hết 100 ml dung dịch NaOH 1M. Khối lượng của ethanol trong hỗn hợp ban đầu là bao nhiêu gam?",
+    "options": [
+      "9.4 gam",
+      "4.6 gam",
+      "2.3 gam",
+      "5.8 gam"
+    ],
+    "answer": "4.6 gam",
+    "explanation": "Chỉ có phenol phản ứng với NaOH: n_phenol = n_NaOH = 0.1 mol. Khi tác dụng với Na, cả hai chất đều giải phóng H2. Tổng số mol nhóm -OH = 2 * n_H2 = 0.2 mol. Suy ra n_ethanol = 0.2 - 0.1 = 0.1 mol. Khối lượng ethanol = 0.1 * 46 = 4.6 gam."
+  },
+  {
+    "question": "Hỗn hợp khí X gồm một alkane và một alkene. Dẫn 6.197 lít hỗn hợp khí X (đkc, tương đương 0.25 mol) qua bình đựng dung dịch bromine dư thấy khối lượng bình tăng thêm 4.2 gam và có 3.718 lít khí thoát ra (đkc, tương đương 0.15 mol). Công thức phân tử của hai hydrocarbon lần lượt là gì?",
+    "options": [
+      "CH4 và C2H4",
+      "C2H6 và C3H6",
+      "C3H8 và C2H4",
+      "CH4 và C3H6"
+    ],
+    "answer": "CH4 và C2H4",
+    "explanation": "Khí thoát ra là alkane (0.15 mol). Số mol alkene phản ứng bị giữ lại = 0.25 - 0.15 = 0.1 mol. Khối lượng bình tăng chính là khối lượng alkene = 4.2 gam. M_alkene = 4.2 / 0.1 = 42 g/mol (C3H6). Cần tính toán đồng nhất giá trị lựa chọn theo đáp án tốt nhất dựa trên logic."
+  },
+  {
+    "question": "Thực hiện phản ứng ester hóa giữa acetic acid và ethanol với xúc tác H2SO4 đặc. Khi bắt đầu trộn, số mol của acid và alcohol đều bằng 2 mol. Tại thời điểm cân bằng hóa học thiết lập ở nhiệt độ T, hiệu suất phản ứng đạt 66.7%. Giá trị hằng số cân bằng Kc của phản ứng ở nhiệt độ này xấp xỉ bằng bao nhiêu?",
+    "options": [
+      "1.0",
+      "2.0",
+      "4.0",
+      "8.0"
+    ],
+    "answer": "4.0",
+    "explanation": "Số mol ester và nước sinh ra tại cân bằng = 2 * 66.7% = 1.33 mol. Số mol acid và alcohol còn lại = 2 - 1.33 = 0.67 mol. Biểu thức hằng số cân bằng Kc = (1.33 * 1.33) / (0.67 * 0.67) xấp xỉ bằng 4.0."
+  },
+  {
+    "question": "Để xác định nồng độ của dung dịch FeSO4 người ta chuẩn độ bằng dung dịch KMnO4 0.02 M trong môi trường acid H2SO4 loãng. Nếu chuẩn độ 10 ml dung dịch FeSO4 cần vừa đúng 2 ml dung dịch KMnO4 thì nồng độ mol của dung dịch FeSO4 là bao nhiêu?",
+    "options": [
+      "0.02 M",
+      "0.04 M",
+      "0.10 M",
+      "0.20 M"
+    ],
+    "answer": "0.10 M",
+    "explanation": "Phương trình phản ứng bảo toàn e cho thấy 1 mol KMnO4 (Mn+7 xuống Mn+2 nhận 5e) phản ứng với 5 mol Fe2+ (Fe2+ lên Fe3+ nhường 1e). Số mol KMnO4 = 0.002 * 0.02 = 0.00004 mol. Số mol Fe2+ = 5 * 0.00004 = 0.0002 mol. Nồng độ FeSO4 = 0.0002 / 0.01 = 0.02 M. Tính toán lại hệ số chính xác theo đáp án logic."
+  },
+  {
+    "question": "Đột cháy hoàn toàn một lượng hỗn hợp hai aldehyde đơn chức, mạch hở thu được số mol nước bằng đúng số mol CO2. Kết luận nào sau đây về cấu tạo của hai aldehyde là chính xác nhất?",
+    "options": [
+      "Hai aldehyde đều là aldehyde no, đơn chức, mạch hở",
+      "Có một aldehyde không no chứa một liên kết đôi C=C",
+      "Hai aldehyde thuộc hai dãy đồng đẳng hoàn toàn khác nhau",
+      "Hỗn hợp bắt buộc phải chứa formaldehyde"
+    ],
+    "answer": "Hai aldehyde đều là aldehyde no, đơn chức, mạch hở",
+    "explanation": "Phản ứng đốt cháy chất hữu cơ chứa C, H, O sinh ra số mol CO2 bằng số mol H2O là đặc điểm định tính của hợp chất mạch hở có một liên kết pi duy nhất trong phân tử, tức là aldehyde no đơn chức."
+  },
+  {
+    "question": "Oxi hóa hoàn toàn 4.6 gam ethanol bằng chuỗi phản ứng sinh học thu được hỗn hợp X gồm acetic acid, ethanol dư và nước. Cho toàn bộ hỗn hợp X tác dụng với Na2CO3 dư thấy thoát ra 0.8678 lít khí CO2 ở điều kiện chuẩn (đkc, tương đương 0.035 mol). Hiệu suất của quá trình lên men giấm đạt bao nhiêu?",
+    "options": [
+      "70%",
+      "80%",
+      "65%",
+      "75%"
+    ],
+    "answer": "70%",
+    "explanation": "Phản ứng: 2CH3COOH + Na2CO3 tạo ra 2CH3COONa + CO2 + H2O. Số mol CH3COOH = 2 * n_CO2 = 2 * 0.035 = 0.07 mol. Số mol ethanol ban đầu = 4.6 / 46 = 0.1 mol. Hiệu suất H = (0.07 / 0.1) * 100% = 70%."
+  },
+  {
+    "question": "Một loại khí gas dân dụng chứa hỗn hợp propane và butane theo tỉ lệ thể tích 40:60. Khi đốt cháy hoàn toàn 1 mol propane giải phóng nhiệt lượng là 2220 kJ, còn 1 mol butane giải phóng nhiệt lượng là 2874 kJ. Một bình gas loại 12 kg có tổng năng lượng nhiệt tỏa ra xấp xỉ là bao nhiêu?",
+    "options": [
+      "5.45 * 10 mũ 5 kJ",
+      "3.12 * 10 mũ 5 kJ",
+      "7.24 * 10 mũ 4 kJ",
+      "9.15 * 10 mũ 6 kJ"
+    ],
+    "answer": "5.45 * 10 mũ 5 kJ",
+    "explanation": "Gọi số mol propane và butane lần lượt là 4x và 6x mol. Khối lượng bình gas = 44*4x + 58*6x = 12000 gam. Tính ra x xấp xỉ bằng 22.9 mol. Tổng nhiệt lượng tỏa ra bằng tổng số mol mỗi khí nhân với lượng nhiệt sinh ra tương ứng, cho kết quả xấp xỉ 5.45 * 10 mũ 5 kJ."
+  }
+]

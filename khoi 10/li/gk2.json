@@ -1,0 +1,608 @@
+
+[
+  {
+    "question": "Động lượng của một vật khối lượng m đang chuyển động với vận tốc v được tính bằng công thức nào sau đây?",
+    "options": [
+      "p = m.v",
+      "p = m / v",
+      "p = v / m",
+      "p = 0.5.m.v^2"
+    ],
+    "answer": "p = m.v",
+    "explanation": "Theo định nghĩa trong SGK, động lượng của một vật là đại lượng vectơ được đo bằng tích của khối lượng và vận tốc của vật."
+  },
+  {
+    "question": "Đơn vị nào sau đây là đơn vị đo của động lượng?",
+    "options": [
+      "kg.m/s",
+      "kg.m/s^2",
+      "N/m",
+      "J.s"
+    ],
+    "answer": "kg.m/s",
+    "explanation": "Vì động lượng p = m.v nên đơn vị của nó bằng đơn vị khối lượng (kg) nhân với đơn vị vận tốc (m/s), tức là kg.m/s."
+  },
+  {
+    "question": "Đại lượng nào sau đây đặc trưng cho xu hướng truyền chuyển động tương tác giữa các vật và là một đại lượng vectơ?",
+    "options": [
+      "Động lượng",
+      "Động năng",
+      "Công cơ học",
+      "Công suất"
+    ],
+    "answer": "Động lượng",
+    "explanation": "Động lượng là đại lượng vectơ đặc trưng cho xu hướng truyền chuyển động trong các hiện tượng tương tác và va chạm."
+  },
+  {
+    "question": "Phát biểu nào sau đây là đúng khi nói về hệ cô lập (hệ kín) trong vật lí?",
+    "options": [
+      "Là hệ không chịu tác dụng của ngoại lực, hoặc nếu có thì các ngoại lực phải triệt tiêu lẫn nhau.",
+      "Là hệ không chịu tác dụng của ngoại lực, hoặc nội lực rất nhỏ.",
+      "Là hệ chỉ chịu tác dụng của các lực ma sát rất lớn.",
+      "Là hệ luôn luôn chuyển động tròn đều."
+    ],
+    "answer": "Là hệ không chịu tác dụng của ngoại lực, hoặc nếu có thì các ngoại lực phải triệt tiêu lẫn nhau.",
+    "explanation": "Định nghĩa hệ cô lập là hệ không có ngoại lực tác dụng hoặc tổng các ngoại lực bằng không, khi đó chỉ có các nội lực tương tác giữa các vật trong hệ."
+  },
+  {
+    "question": "Định luật bảo toàn động lượng chỉ áp dụng đúng cho hệ vật nào sau đây?",
+    "options": [
+      "Hệ vật bất kì",
+      "Hệ vật cô lập (hệ kín)",
+      "Hệ vật chuyển động thẳng đều",
+      "Hệ vật rơi tự do"
+    ],
+    "answer": "Hệ vật cô lập (hệ kín)",
+    "explanation": "Định luật bảo toàn động lượng khẳng định rằng tổng động lượng của một hệ cô lập luôn được bảo toàn theo thời gian."
+  },
+  {
+    "question": "Lực sinh công dương (công phát động) khi góc alpha giữa hướng của lực và hướng chuyển dời thỏa mãn điều kiện nào?",
+    "options": [
+      "alpha là góc nhọn (0 độ <= alpha < 90 độ)",
+      "alpha là góc tù (90 độ < alpha <= 180 độ)",
+      "alpha bằng 90 độ",
+      "alpha bằng 180 độ"
+    ],
+    "answer": "alpha là góc nhọn (0 độ <= alpha < 90 độ)",
+    "explanation": "Khi alpha là góc nhọn thì cos(alpha) > 0, dẫn đến công A = F.s.cos(alpha) > 0, đây gọi là công phát động."
+  },
+  {
+    "question": "Khi lực tác dụng vuông góc với hướng chuyển dời của vật (alpha = 90 độ) thì công của lực đó bằng bao nhiêu?",
+    "options": [
+      "Bằng 0",
+      "Bằng F.s",
+      "Có giá trị âm",
+      "Có giá trị dương vô cùng"
+    ],
+    "answer": "Bằng 0",
+    "explanation": "Khi lực vuông góc với hướng chuyển động, cos(90 độ) = 0 nên công A = 0. Lực không sinh công."
+  },
+  {
+    "question": "Đơn vị nào sau đây KHÔNG phải là đơn vị của công cơ học?",
+    "options": [
+      "Jun (J)",
+      "Newton mét (N.m)",
+      "Oat (W)",
+      "KiloJun (kJ)"
+    ],
+    "answer": "Oat (W)",
+    "explanation": "Oat (W) là đơn vị của công suất, không phải đơn vị của công. Jun, N.m và kJ đều là đơn vị của công."
+  },
+  {
+    "question": "Công suất là đại lượng được đo bằng thương số của công và thời gian thực hiện công đó. Công thức tính công suất là gì?",
+    "options": [
+      "P = A / t",
+      "P = A.t",
+      "P = t / A",
+      "P = F.s"
+    ],
+    "answer": "P = A / t",
+    "explanation": "Công suất P được định nghĩa là tốc độ thực hiện công, được tính bằng công A chia cho thời gian t thực hiện công đó."
+  },
+  {
+    "question": "Động năng của một vật khối lượng m chuyển động với vận tốc v được xác định bằng biểu thức nào?",
+    "options": [
+      "Wd = 0.5.m.v^2",
+      "Wd = m.v",
+      "Wd = m.v^2",
+      "Wd = 0.5.m.v"
+    ],
+    "answer": "Wd = 0.5.m.v^2",
+    "explanation": "Theo định nghĩa trong SGK, động năng của một vật bằng một nửa tích khối lượng với bình phương vận tốc của nó."
+  },
+  {
+    "question": "Động năng là một đại lượng vô hướng và luôn có giá trị như thế nào?",
+    "options": [
+      "Luôn không âm (Wd >= 0)",
+      "Luôn có giá trị âm (Wd < 0)",
+      "Có thể âm hoặc dương tùy thuộc hệ quy chiếu",
+      "Luôn bằng 0 với mọi vật"
+    ],
+    "answer": "Luôn không âm (Wd >= 0)",
+    "explanation": "Vì khối lượng m > 0 và v^2 >= 0 nên động năng Wd = 0.5.m.v^2 luôn luôn lớn hơn hoặc bằng không."
+  },
+  {
+    "question": "Thế năng trọng trường của một vật ở độ cao z so với mốc thế năng được tính bằng công thức nào?",
+    "options": [
+      "Wt = m.g.z",
+      "Wt = 0.5.m.g.z",
+      "Wt = m.g / z",
+      "Wt = m.g.z^2"
+    ],
+    "answer": "Wt = m.g.z",
+    "explanation": "Thế năng trọng trường phụ thuộc vào khối lượng vật m, gia tốc trọng trường g và độ cao z của vật so với mốc chọn làm chuẩn."
+  },
+  {
+    "question": "Cơ năng của một vật chuyển động trong trọng trường là tổng của hai đại lượng nào?",
+    "options": [
+      "Động năng và thế năng",
+      "Động năng và động lượng",
+      "Thế năng và công suất",
+      "Động lượng và xung lượng"
+    ],
+    "answer": "Động năng và thế năng",
+    "explanation": "Cơ năng bằng tổng động năng và thế năng của vật tại vị trí xét: W = Wd + Wt."
+  },
+  {
+    "question": "Khi một vật chỉ chịu tác dụng của lực thế (như trọng lực, lực đàn hồi), đại lượng nào sau đây của vật được bảo toàn?",
+    "options": [
+      "Cơ năng",
+      "Động lượng",
+      "Vận tốc",
+      "Động năng"
+    ],
+    "answer": "Cơ năng",
+    "explanation": "Định luật bảo toàn cơ năng phát biểu rằng nếu vật chỉ chịu tác dụng của lực thế thì cơ năng của vật là một đại lượng được bảo toàn."
+  },
+  {
+    "question": "Hiệu suất của một quá trình chuyển hóa năng lượng được xác định bằng tỉ số giữa đại lượng nào và đại lượng nào?",
+    "options": [
+      "Năng lượng có ích và năng lượng toàn phần",
+      "Năng lượng hao phí và năng lượng có ích",
+      "Năng lượng toàn phần và năng lượng có ích",
+      "Năng lượng hao phí và năng lượng toàn phần"
+    ],
+    "answer": "Năng lượng có ích và năng lượng toàn phần",
+    "explanation": "Hiệu suất H bằng tỉ số giữa Năng lượng có ích (hoặc công suất có ích) và Năng lượng toàn phần (hoặc công suất toàn phần)."
+  },
+  {
+    "question": "Phát biểu nào sau đây về năng lượng là SAI?",
+    "options": [
+      "Năng lượng có thể tự sinh ra hoặc tự mất đi dưới tác dụng của các lực ma sát.",
+      "Năng lượng là một đại lượng vô hướng.",
+      "Năng lượng có thể truyền từ vật này sang vật khác.",
+      "Năng lượng có thể chuyển hóa từ dạng này sang dạng khác."
+    ],
+    "answer": "Năng lượng có thể tự sinh ra hoặc tự mất đi dưới tác dụng của các lực ma sát.",
+    "explanation": "Theo định luật bảo toàn năng lượng, năng lượng không tự sinh ra cũng không tự mất đi mà chỉ truyền từ vật này sang vật khác hoặc chuyển hóa giữa các dạng."
+  },
+  {
+    "question": "Một vật nằm yên trên mặt bàn nằm ngang. Động năng của vật bằng bao nhiêu?",
+    "options": [
+      "Bằng 0",
+      "Bằng thế năng",
+      "Bằng cơ năng cực đại",
+      "Có giá trị vô cùng lớn"
+    ],
+    "answer": "Bằng 0",
+    "explanation": "Vì vật nằm yên nên vận tốc v = 0, do đó động năng Wd = 0.5.m.v^2 = 0."
+  },
+  {
+    "question": "Mối liên hệ giữa lực F không đổi tác dụng lên vật dọc theo hướng chuyển động và công suất tức thời P qua vận tốc v là gì?",
+    "options": [
+      "P = F.v",
+      "P = F / v",
+      "P = v / F",
+      "P = F.v^2"
+    ],
+    "answer": "P = F.v",
+    "explanation": "Từ biểu thức P = A / t = (F.s) / t, vì s / t = v nên ta thu được hệ thức P = F.v."
+  },
+  {
+    "question": "Xung lượng của lực F trong khoảng thời gian delta t được định nghĩa bằng biểu thức nào?",
+    "options": [
+      "F.delta t",
+      "F / delta t",
+      "delta t / F",
+      "F.delta t^2"
+    ],
+    "answer": "F.delta t",
+    "explanation": "Tích của lực F và thời gian delta t tác dụng lực được gọi là xung lượng của lực F trong khoảng thời gian đó."
+  },
+  {
+    "question": "Trong va chạm mềm giữa hai vật chuyển động, sau va chạm xảy ra hiện tượng gì?",
+    "options": [
+      "Hai vật dính vào nhau và chuyển động với cùng một vận tốc",
+      "Hai vật bật ngược trở lại với vận tốc cũ",
+      "Một vật dừng lại, vật kia tiếp tục chuyển động",
+      "Cả hai vật cùng dừng lại ngay lập tức"
+    ],
+    "answer": "Hai vật dính vào nhau và chuyển động với cùng một vận tốc",
+    "explanation": "Đặc điểm của va chạm mềm là sau va chạm hai vật nhập làm một thể tích thống nhất và chuyển động cùng vận tốc."
+  },
+  {
+    "question": "Một vật khối lượng 2 kg đang chuyển động thẳng đều với vận tốc 5 m/s. Độ lớn động lượng của vật bằng bao nhiêu?",
+    "options": [
+      "10 kg.m/s",
+      "2.5 kg.m/s",
+      "7 kg.m/s",
+      "50 kg.m/s"
+    ],
+    "answer": "10 kg.m/s",
+    "explanation": "Áp dụng trực tiếp công thức tính động lượng: p = m.v = 2 * 5 = 10 kg.m/s."
+  },
+  {
+    "question": "Nếu tăng khối lượng của một vật lên gấp đôi và giữ nguyên vận tốc thì động lượng của vật thay đổi như thế nào?",
+    "options": [
+      "Tăng lên 2 lần",
+      "Giảm đi 2 lần",
+      "Tăng lên 4 lần",
+      "Không thay đổi"
+    ],
+    "answer": "Tăng lên 2 lần",
+    "explanation": "Do động lượng tỉ lệ thuận với khối lượng m (p = m.v) nên khi m tăng 2 lần thì p tăng tương ứng 2 lần."
+  },
+  {
+    "question": "Một lực có độ lớn 20 N tác dụng lên một vật làm vật dịch chuyển một quãng đường 5 m theo đúng hướng của lực. Công của lực thực hiện là bao nhiêu?",
+    "options": [
+      "100 J",
+      "4 J",
+      "0.25 J",
+      "50 J"
+    ],
+    "answer": "100 J",
+    "explanation": "Vì vật dịch chuyển theo hướng của lực nên góc alpha = 0 độ, cos(0) = 1. Công A = F.s = 20 * 5 = 100 J."
+  },
+  {
+    "question": "Một cần cẩu thực hiện một công bằng 12000 J trong thời gian 30 giây. Công suất của cần cẩu này bằng bao nhiêu?",
+    "options": [
+      "400 W",
+      "360000 W",
+      "0.0025 W",
+      "40 W"
+    ],
+    "answer": "400 W",
+    "explanation": "Áp dụng công thức tính công suất cơ bản: P = A / t = 12000 / 30 = 400 W."
+  },
+  {
+    "question": "Một vật có khối lượng 4 kg đang chạy với vận tốc 3 m/s. Động năng của vật có giá trị là bao nhiêu?",
+    "options": [
+      "18 J",
+      "12 J",
+      "36 J",
+      "6 J"
+    ],
+    "answer": "18 J",
+    "explanation": "Áp dụng công thức tính động năng: Wd = 0.5.m.v^2 = 0.5 * 4 * 3^2 = 0.5 * 4 * 9 = 18 J."
+  },
+  {
+    "question": "Thế năng trọng trường của một vật có khối lượng 1 kg ở độ cao 5 m so với mặt đất (chọn mặt đất làm mốc thế năng, lấy g = 10 m/s^2) là bao nhiêu?",
+    "options": [
+      "50 J",
+      "2 J",
+      "5 J",
+      "0.5 J"
+    ],
+    "answer": "50 J",
+    "explanation": "Áp dụng công thức thế năng trọng trường: Wt = m.g.z = 1 * 10 * 5 = 50 J."
+  },
+  {
+    "question": "Khi một vật được ném từ mặt đất lên cao theo phương thẳng đứng, trong quá trình vật đi lên thì sự chuyển hóa năng lượng diễn ra như thế nào?",
+    "options": [
+      "Động năng chuyển hóa dần thành thế năng",
+      "Thế năng chuyển hóa dần thành động năng",
+      "Cơ năng chuyển hóa hoàn toàn thành nhiệt năng",
+      "Động năng và thế năng cùng tăng"
+    ],
+    "answer": "Động năng chuyển hóa dần thành thế năng",
+    "explanation": "Khi lên cao độ cao z tăng nên thế năng tăng, vận tốc v giảm dần nên động năng giảm. Động năng đã chuyển hóa thành thế năng."
+  },
+  {
+    "question": "Một động cơ điện tiêu thụ điện năng toàn phần là 500 J nhưng chỉ sinh ra năng lượng cơ học có ích là 400 J. Hiệu suất của động cơ này là bao nhiêu?",
+    "options": [
+      "80%",
+      "20%",
+      "125%",
+      "50%"
+    ],
+    "answer": "80%",
+    "explanation": "Hiệu suất được tính bằng công thức: H = (A_ich / A_tp) * 100% = (400 / 500) * 100% = 80%."
+  },
+  {
+    "question": "Nếu vận tốc chuyển động của một vật tăng lên gấp đôi thì động năng của vật thay đổi như thế nào?",
+    "options": [
+      "Tăng lên 4 lần",
+      "Tăng lên 2 lần",
+      "Không thay đổi",
+      "Giảm đi 2 lần"
+    ],
+    "answer": "Tăng lên 4 lần",
+    "explanation": "Do động năng tỉ lệ thuận với bình phương vận tốc (v^2) nên khi v tăng 2 lần thì v^2 tăng 2^2 = 4 lần, dẫn tới động năng tăng 4 lần."
+  },
+  {
+    "question": "Một vật có khối lượng m gắn vào một lò xo. Khi vật chuyển động từ vị trí lò xo bị dãn mạnh về vị trí lò xo không biến dạng, thế năng đàn hồi của hệ thay đổi ra sao?",
+    "options": [
+      "Giảm dần về 0",
+      "Tăng dần đều",
+      "Không thay đổi",
+      "Bằng 0 suốt quá trình"
+    ],
+    "answer": "Giảm dần về 0",
+    "explanation": "Thế năng đàn hồi phụ thuộc vào độ biến dạng của lò xo. Khi độ dãn giảm dần về vị trí không biến dạng thì thế năng đàn hồi giảm dần về 0."
+  },
+  {
+    "question": "Một hòn đá được thả rơi tự do từ độ cao h xuống đất. Trong suốt quá trình rơi, nếu bỏ qua lực cản không khí thì cơ năng của hòn đá sẽ như thế nào?",
+    "options": [
+      "Không thay đổi",
+      "Tăng dần đều",
+      "Giảm dần đều",
+      "Bằng 0"
+    ],
+    "answer": "Không thay đổi",
+    "explanation": "Khi bỏ qua lực cản không khí, vật chỉ chịu tác dụng của trọng lực (lực thế) nên cơ năng của vật được bảo toàn và không đổi suốt quá trình rơi."
+  },
+  {
+    "question": "Hệ thức nào sau đây diễn tả đúng mối quan hệ giữa độ biến thiên động lượng delta p và xung lượng của lực F trong khoảng thời gian delta t?",
+    "options": [
+      "delta p = F.delta t",
+      "delta p = F / delta t",
+      "F = delta p . delta t",
+      "delta p = 0.5.F.delta t"
+    ],
+    "answer": "delta p = F.delta t",
+    "explanation": "Theo định lý biến thiên động lượng, độ biến thiên động lượng của một vật trong một khoảng thời gian bằng xung lượng của tổng ngoại lực tác dụng lên vật trong khoảng thời gian đó."
+  },
+  {
+    "question": "Một người kéo một thùng hàng trên sàn nhà nằm ngang bằng một lực F hợp với phương ngang một góc 60 độ. Thùng hàng dịch chuyển được 10 m. Biết cos(60 độ) = 0.5 và lực F = 40 N. Công của lực kéo là bao nhiêu?",
+    "options": [
+      "200 J",
+      "400 J",
+      "300 J",
+      "80 J"
+    ],
+    "answer": "200 J",
+    "explanation": "Áp dụng công thức tính công tổng quát: A = F.s.cos(alpha) = 40 * 10 * cos(60 độ) = 400 * 0.5 = 200 J."
+  },
+  {
+    "question": "Công suất hao phí trong các thiết bị máy móc chủ yếu sinh ra dưới dạng năng lượng nào sau đây?",
+    "options": [
+      "Nhiệt năng tỏa ra môi trường",
+      "Hóa năng tích tụ",
+      "Cơ năng có ích",
+      "Năng lượng ánh sáng"
+    ],
+    "answer": "Nhiệt năng tỏa ra môi trường",
+    "explanation": "Sự hao phí năng lượng phần lớn là do tỏa nhiệt ra môi trường xung quanh sinh ra bởi lực ma sát của các chi tiết máy hoặc dòng điện chạy trong hệ thống."
+  },
+  {
+    "question": "Một vật khối lượng m đang đứng yên thì vỡ thành hai mảnh có khối lượng m1 và m2. Mảnh m1 chuyển động sang trái với vận tốc v1. Mảnh m2 sẽ chuyển động theo hướng nào?",
+    "options": [
+      "Chuyển động sang phải",
+      "Chuyển động sang trái cùng hướng với m1",
+      "Đứng yên tại chỗ",
+      "Rơi thẳng đứng xuống dưới"
+    ],
+    "answer": "Chuyển động sang phải",
+    "explanation": "Theo định luật bảo toàn động lượng, tổng động lượng ban đầu bằng 0. Do đó động lượng của hai mảnh sau khi vỡ phải đối nhau, nghĩa là chúng buộc phải chuyển động ngược chiều nhau."
+  },
+  {
+    "question": "Một quả bóng khối lượng 0.2 kg bay với vận tốc 10 m/s đến đập vuông góc vào một bức tường rồi bật ngược trở lại theo phương cũ với cùng vận tốc 10 m/s. Chọn chiều dương là chiều bay vào. Độ biến thiên động lượng của quả bóng là bao nhiêu?",
+    "options": [
+      "-4 kg.m/s",
+      "4 kg.m/s",
+      "0 kg.m/s",
+      "-2 kg.m/s"
+    ],
+    "answer": "-4 kg.m/s",
+    "explanation": "Động lượng lúc đầu p1 = m.v = 0.2 * 10 = 2 kg.m/s. Động lượng lúc sau ngược chiều dương nên p2 = -m.v = -2 kg.m/s. Độ biến thiên động lượng delta p = p2 - p1 = -2 - 2 = -4 kg.m/s."
+  },
+  {
+    "question": "Một chiếc xe ô tô khối lượng 1 tấn đang chuyển động thẳng đều với vận tốc 36 km/h. Động năng của chiếc ô tô này bằng bao nhiêu?",
+    "options": [
+      "50000 J",
+      "648000 J",
+      "18000 J",
+      "5000 J"
+    ],
+    "answer": "50000 J",
+    "explanation": "Đổi đơn vị: m = 1000 kg, v = 36 km/h = 10 m/s. Áp dụng công thức tính động năng: Wd = 0.5.m.v^2 = 0.5 * 1000 * 10^2 = 50000 J."
+  },
+  {
+    "question": "Một vật nhỏ được ném thẳng đứng lên cao từ mặt đất với vận tốc ban đầu là 10 m/s. Bỏ qua sức cản không khí và lấy g = 10 m/s^2. Độ cao cực đại mà vật đạt được là bao nhiêu?",
+    "options": [
+      "5 m",
+      "10 m",
+      "20 m",
+      "2.5 m"
+    ],
+    "answer": "5 m",
+    "explanation": "Chọn mốc thế năng tại mặt đất. Bảo toàn cơ năng từ vị trí ném đến vị trí cao nhất (v = 0): 0.5.m.v^2 = m.g.h_max => h_max = v^2 / (2.g) = 10^2 / (2 * 10) = 5 m."
+  },
+  {
+    "question": "Một vật khối lượng 500 g rơi tự do từ độ cao 20 m xuống đất. Lấy g = 10 m/s^2 và chọn mốc thế năng ở mặt đất. Khi vật rơi đến độ cao 5 m thì động năng của vật bằng bao nhiêu?",
+    "options": [
+      "75 J",
+      "25 J",
+      "100 J",
+      "50 J"
+    ],
+    "answer": "75 J",
+    "explanation": "Khối lượng m = 0.5 kg. Cơ năng ban đầu W = m.g.h = 0.5 * 10 * 20 = 100 J. Tại độ cao 5 m, thế năng Wt = 0.5 * 10 * 5 = 25 J. Động năng Wd = W - Wt = 100 - 25 = 75 J."
+  },
+  {
+    "question": "Một vật trượt có ma sát trên một mặt phẳng nghiêng từ đỉnh xuống dưới chân. Trong quá trình này, cơ năng của vật thay đổi như thế nào?",
+    "options": [
+      "Giảm dần vì một phần cơ năng chuyển hóa thành nhiệt năng do ma sát",
+      "Tăng dần vì vật chuyển động ngày càng nhanh",
+      "Được bảo toàn vì trọng lực luôn là lực thế",
+      "Bằng không tại mọi thời điểm"
+    ],
+    "answer": "Giảm dần vì một phần cơ năng chuyển hóa thành nhiệt năng do ma sát",
+    "explanation": "Khi có lực ma sát (lực không thế) thực hiện công, cơ năng của hệ không bảo toàn mà sẽ bị tiêu hao, giảm đi một lượng bằng công của lực ma sát để chuyển hóa thành nhiệt năng."
+  },
+  {
+    "question": "Một ô tô có khối lượng 2 tấn đang chạy với vận tốc v thì hãm phanh gấp. Lực phanh có độ lớn 10000 N làm xe trượt một quãng đường 3.2 m thì dừng hẳn. Vận tốc v ban đầu của xe trước khi phanh là bao nhiêu?",
+    "options": [
+      "5.66 m/s",
+      "4 m/s",
+      "căn 32 m/s",
+      "8 m/s"
+    ],
+    "answer": "5.66 m/s",
+    "explanation": "Độ biến thiên động năng bằng công lực phanh: 0 - 0.5.m.v^2 = -F_phanh * s => 0.5 * 2000 * v^2 = 10000 * 3.2 => 1000 * v^2 = 32000 => v^2 = 32 => v = căn(32) xấp xỉ 5.66 m/s."
+  },
+  {
+    "question": "Một thang máy khối lượng 1 tấn đi lên đều với vận tốc 2 m/s trong thời gian 10 giây. Lấy g = 10 m/s^2. Công suất tối thiểu của động cơ kéo thang máy này là bao nhiêu?",
+    "options": [
+      "20 kW",
+      "10 kW",
+      "2 kW",
+      "40 kW"
+    ],
+    "answer": "20 kW",
+    "explanation": "Vì thang máy lên đều nên lực kéo bằng trọng lượng: F = P = m.g = 1000 * 10 = 10000 N. Công suất của động cơ kéo là P_cs = F.v = 10000 * 2 = 20000 W = 20 kW."
+  },
+  {
+    "question": "Một khẩu súng có khối lượng 4 kg bắn ra một viên đạn khối lượng 20 g với vận tốc 400 m/s theo phương ngang. Vận tốc giật lùi của báng súng có độ lớn bằng bao nhiêu?",
+    "options": [
+      "2 m/s",
+      "4 m/s",
+      "0.5 m/s",
+      "1 m/s"
+    ],
+    "answer": "2 m/s",
+    "explanation": "Áp dụng định luật bảo toàn động lượng cho hệ súng và đạn trước và sau khi bắn: M.V + m.v = 0 => V = - (m.v) / M = - (0.02 * 400) / 4 = -2 m/s. Độ lớn vận tốc giật lùi của súng là 2 m/s."
+  },
+  {
+    "question": "Một dòng nước chảy từ con đập cao 20 m xuống bên dưới với lưu lượng là 60 mét khối trong một phút. Biết khối lượng riêng của nước là 1000 kg/mét khối, lấy g = 10 m/s^2. Công suất của dòng nước chảy này bằng bao nhiêu?",
+    "options": [
+      "200 kW",
+      "1000 kW",
+      "20 kW",
+      "1200 kW"
+    ],
+    "answer": "200 kW",
+    "explanation": "Khối lượng nước chảy trong 1 phút (60 giây) là m = 60 * 1000 = 60000 kg. Công của trọng lực thực hiện trong 1 phút là A = m.g.h = 60000 * 10 * 20 = 12000000 J. Công suất P = A / t = 12000000 / 60 = 200000 W = 200 kW."
+  },
+  {
+    "question": "Một vật khối lượng 200 g được ném từ độ cao 10 m xuống đất với vận tốc ban đầu là 5 m/s. Lấy g = 10 m/s^2 và bỏ qua lực cản không khí. Vận tốc của vật ngay trước khi chạm đất có độ lớn bằng bao nhiêu?",
+    "options": [
+      "15 m/s",
+      "11.18 m/s",
+      "22.5 m/s",
+      "12 m/s"
+    ],
+    "answer": "15 m/s",
+    "explanation": "Áp dụng bảo toàn cơ năng: m.g.h + 0.5.m.v0^2 = 0.5.m.v^2 => g.h + 0.5.v0^2 = 0.5.v^2 => 10 * 10 + 0.5 * 5^2 = 0.5 * v^2 => 100 + 12.5 = 0.5 * v^2 => v^2 = 225 => v = 15 m/s."
+  },
+  {
+    "question": "Một xe tải khối lượng 4 tấn đang chạy với vận tốc 18 km/h thì va chạm mềm vào một xe con khối lượng 1 tấn đang đứng yên trên đường. Sau va chạm, cả hai xe dính vào nhau và cùng chuyển động với vận tốc bằng bao nhiêu?",
+    "options": [
+      "4 m/s",
+      "5 m/s",
+      "3.6 m/s",
+      "2 m/s"
+    ],
+    "answer": "4 m/s",
+    "explanation": "Vận tốc xe tải v1 = 18 km/h = 5 m/s. Áp dụng bảo toàn động lượng cho va chạm mềm: m1.v1 = (m1 + m2).V => 4000 * 5 = (4000 + 1000) * V => 20000 = 5000 * V => V = 4 m/s."
+  },
+  {
+    "question": "Một lò xo có độ cứng k = 100 N/m được giữ cố định một đầu, đầu còn lại gắn vật nặng. Người ta kéo vật để lò xo dãn ra một đoạn 4 cm. Thế năng đàn hồi của lò xo tích lũy lúc này là bao nhiêu?",
+    "options": [
+      "0.08 J",
+      "0.16 J",
+      "800 J",
+      "0.04 J"
+    ],
+    "answer": "0.08 J",
+    "explanation": "Đổi x = 4 cm = 0.04 m. Công thức thế năng đàn hồi: Wt = 0.5.k.x^2 = 0.5 * 100 * (0.04)^2 = 50 * 0.0016 = 0.08 J."
+  },
+  {
+    "question": "Một vật khối lượng 100 g chuyển động tròn đều với tốc độ 2 vòng/giây trên một đường tròn bán kính 0.5 m. Độ lớn động lượng của vật bằng bao nhiêu? (Lấy số pi bằng 3.14)",
+    "options": [
+      "0.628 kg.m/s",
+      "1.256 kg.m/s",
+      "0.314 kg.m/s",
+      "6.28 kg.m/s"
+    ],
+    "answer": "0.628 kg.m/s",
+    "explanation": "Tần số f = 2 Hz => Tốc độ góc omega = 2.pi.f = 4.pi rad/s. Vận tốc dài v = omega * r = 4 * 3.14 * 0.5 = 6.28 m/s. Động lượng p = m.v = 0.1 * 6.28 = 0.628 kg.m/s."
+  },
+  {
+    "question": "Một người dùng một sợi dây để kéo một bao tải nặng trên sàn nhà bằng một lực không đổi F = 50 N trong thời gian 10 giây. Biết công suất kéo của người đó là 150 W. Quãng đường bao tải dịch chuyển được trong thời gian trên là bao nhiêu, biết lực kéo cùng hướng chuyển động?",
+    "options": [
+      "30 m",
+      "15 m",
+      "3 m",
+      "50 m"
+    ],
+    "answer": "30 m",
+    "explanation": "Tổng công thực hiện là A = P_cs * t = 150 * 10 = 1500 J. Vì lực kéo cùng hướng chuyển động nên A = F.s => s = A / F = 1500 / 50 = 30 m."
+  },
+  {
+    "question": "Một viên đạn khối lượng 10 g đang bay với vận tốc 600 m/s thì xuyên qua một tấm gỗ dày 5 cm. Sau khi xuyên qua tấm gỗ, vận tốc của viên đạn giảm còn 200 m/s. Độ lớn lực cản trung bình của tấm gỗ tác dụng lên viên đạn là bao nhiêu?",
+    "options": [
+      "32000 N",
+      "16000 N",
+      "64000 N",
+      "8000 N"
+    ],
+    "answer": "32000 N",
+    "explanation": "Đổi m = 0.01 kg, s = 0.05 m. Theo định lý biến thiên động năng: Wd2 - Wd1 = A_can => 0.5.m.v2^2 - 0.5.m.v1^2 = -F_can * s => 0.5 * 0.01 * (200^2 - 600^2) = -F_can * 0.05 => 0.005 * (-320000) = -F_can * 0.05 => -1600 = -0.05 * F_can => F_can = 32000 N."
+  },
+  {
+    "question": "Một vật nhỏ khối lượng m được ném thẳng đứng lên cao từ mặt đất với vận tốc ban đầu v0. Bỏ qua lực cản không khí, gia tốc trọng trường là g. Tại độ cao nào so với mặt đất thì động năng của vật bằng 3 lần thế năng?",
+    "options": [
+      "h = v0^2 / (8.g)",
+      "h = v0^2 / (4.g)",
+      "h = 3.v0^2 / (8.g)",
+      "h = v0^2 / (2.g)"
+    ],
+    "answer": "h = v0^2 / (8.g)",
+    "explanation": "Cơ năng ban đầu tại mặt đất W = 0.5.m.v0^2. Tại vị trí Wd = 3.Wt, cơ năng W = Wd + Wt = 3.Wt + Wt = 4.Wt = 4.m.g.h. Áp dụng bảo toàn cơ năng: 4.m.g.h = 0.5.m.v0^2 => h = v0^2 / (8.g)."
+  },
+  {
+    "question": "Một con lắc đơn gồm vật nặng khối lượng m treo vào sợi dây mảnh không dãn có chiều dài L. Kéo vật ra khỏi vị trí cân bằng sao cho dây treo hợp với phương thẳng đứng một góc alpha0 rồi thả nhẹ. Bỏ qua mọi ma sát. Vận tốc của vật tại vị trí dây treo hợp với phương thẳng đứng một góc alpha bất kì được tính bằng công thức nào?",
+    "options": [
+      "v = căn( 2.g.L.(cos(alpha) - cos(alpha0)) )",
+      "v = căn( 2.g.L.(cos(alpha0) - cos(alpha)) )",
+      "v = g.L.(cos(alpha) - cos(alpha0))",
+      "v = căn( g.L.(1 - cos(alpha0)) )"
+    ],
+    "answer": "v = căn( 2.g.L.(cos(alpha) - cos(alpha0)) )",
+    "explanation": "Chọn mốc thế năng tại vị trí cân bằng thấp nhất. Độ cao tại góc alpha0 là z0 = L.(1 - cos(alpha0)), độ cao tại góc alpha là z = L.(1 - cos(alpha)). Theo bảo toàn cơ năng: m.g.z0 = m.g.z + 0.5.m.v^2 => v = căn(2.g.(z0 - z)) = căn(2.g.L.(cos(alpha) - cos(alpha0)))."
+  },
+  {
+    "question": "Một máy bơm nước sau mỗi giây có thể đẩy được 20 kg nước lên độ cao 6 m với vận tốc lúc ra khỏi ống bơm là 4 m/s. Lấy g = 10 m/s^2. Công suất toàn phần của máy bơm là bao nhiêu nếu hiệu suất của máy là 80%?",
+    "options": [
+      "1700 W",
+      "1360 W",
+      "1088 W",
+      "2125 W"
+    ],
+    "answer": "1700 W",
+    "explanation": "Trong 1 giây, năng lượng có ích cung cấp cho nước gồm thế năng và động năng tăng thêm: P_ich = m.g.h + 0.5.m.v^2 = 20 * 10 * 6 + 0.5 * 20 * 4^2 = 1200 + 160 = 1360 W. Vì hiệu suất là 80% nên công suất toàn phần P_tp = P_ich / H = 1360 / 0.8 = 1700 W."
+  },
+  {
+    "question": "Một vật khối lượng m bắt đầu trượt không vận tốc đầu từ đỉnh một mặt phẳng nghiêng góc 30 độ so với phương ngang, chiều dài mặt phẳng nghiêng là 10 m. Hệ số ma sát giữa vật và mặt nghiêng là mu = 0.1. Lấy g = 10 m/s^2 và cos(30 độ) = 0.866. Vận tốc của vật tại chân mặt phẳng nghiêng có độ lớn gần nhất với giá trị nào?",
+    "options": [
+      "9.09 m/s",
+      "10.0 m/s",
+      "8.54 m/s",
+      "7.32 m/s"
+    ],
+    "answer": "9.09 m/s",
+    "explanation": "Độ cao đỉnh h = L.sin(30) = 10 * 0.5 = 5 m. Lực ma sát F_ms = mu.m.g.cos(30). Áp dụng định lý biến thiên cơ năng từ đỉnh xuống chân: 0.5.m.v^2 - m.g.h = -mu.m.g.cos(30).L => 0.5.v^2 - 10 * 5 = -0.1 * 10 * 0.866 * 10 => 0.5.v^2 - 50 = -8.66 => 0.5.v^2 = 41.34 => v^2 = 82.68 => v = 9.09 m/s."
+  },
+  {
+    "question": "Một vật khối lượng 1 kg được ném thẳng đứng lên cao từ mặt đất với vận tốc ban đầu v0 = 20 m/s. Trong quá trình chuyển động, vật chịu lực cản không đổi của không khí là 2 N. Lấy g = 10 m/s^2. Độ cao cực đại mà vật đạt được thực tế là bao nhiêu?",
+    "options": [
+      "16.67 m",
+      "20.00 m",
+      "10.00 m",
+      "14.28 m"
+    ],
+    "answer": "16.67 m",
+    "explanation": "Cơ năng ban đầu W1 = 0.5.m.v0^2 = 0.5 * 1 * 20^2 = 200 J. Tại vị trí cao nhất h, cơ năng W2 = m.g.h = 1 * 10 * h = 10.h. Độ biến thiên cơ năng bằng công lực cản: W2 - W1 = -F_can * h => 10.h - 200 = -2.h => 12.h = 200 => h = 200 / 12 = 16.67 m."
+  }
+]

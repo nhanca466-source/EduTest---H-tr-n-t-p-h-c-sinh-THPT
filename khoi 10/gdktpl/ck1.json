@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Trong nền kinh tế thị trường, hoạt động nào sau đây giữ vai trò là cầu nối giữa sản xuất và tiêu dùng?",
+    "options": [
+      "Hoạt động phân phối và trao đổi",
+      "Hoạt động đầu tư và tích lũy",
+      "Hoạt động tiêu dùng sản phẩm",
+      "Hoạt động quản lý ngân sách"
+    ],
+    "answer": "Hoạt động phân phối và trao đổi",
+    "explanation": "Phân phối và trao đổi đóng vai trò trung gian, gắn kết người sản xuất với người tiêu dùng."
+  },
+  {
+    "question": "Các hoạt động tạo ra sản phẩm vật chất và tinh thần nhằm thỏa mãn nhu cầu của con người được gọi là gì?",
+    "options": [
+      "Hoạt động sản xuất",
+      "Hoạt động tiêu dùng",
+      "Hoạt động phân phối",
+      "Hoạt động trao đổi"
+    ],
+    "answer": "Hoạt động sản xuất",
+    "explanation": "Hoạt động sản xuất là hoạt động con người sử dụng các yếu tố đầu vào để tạo ra sản phẩm thỏa mãn nhu cầu."
+  },
+  {
+    "question": "Chủ thể nào sau đây đóng vai trò quyết định trong việc định hướng, quản lý và điều tiết nền kinh tế vĩ mô?",
+    "options": [
+      "Chủ thể nhà nước",
+      "Chủ thể tiêu dùng",
+      "Chủ thể sản xuất",
+      "Chủ thể trung gian"
+    ],
+    "answer": "Chủ thể nhà nước",
+    "explanation": "Nhà nước thực hiện quản lý nền kinh tế thông qua các chính sách để ổn định và phát triển kinh tế."
+  },
+  {
+    "question": "Ai là người trực tiếp sử dụng các sản phẩm, dịch vụ để thỏa mãn các nhu cầu sinh hoạt, đời sống cá nhân?",
+    "options": [
+      "Chủ thể tiêu dùng",
+      "Chủ thể sản xuất",
+      "Chủ thể nhà nước",
+      "Chủ thể môi giới"
+    ],
+    "answer": "Chủ thể tiêu dùng",
+    "explanation": "Chủ thể tiêu dùng là người mua và sử dụng hàng hóa, dịch vụ để phục vụ nhu cầu của mình."
+  },
+  {
+    "question": "Thị trường là nơi diễn ra các hoạt động nào sau đây giữa các chủ thể kinh tế?",
+    "options": [
+      "Mua bán, trao đổi hàng hóa",
+      "Tổ chức bầu cử hội đồng",
+      "Tranh chấp quyền lực chính trị",
+      "Sản xuất khép kín tại gia đình"
+    ],
+    "answer": "Mua bán, trao đổi hàng hóa",
+    "explanation": "Thị trường là tổng hòa các mối quan hệ mua bán, trao đổi hàng hóa, dịch vụ và xác định giá cả."
+  },
+  {
+    "question": "Yếu tố nào sau đây không phải là chức năng cơ bản của thị trường?",
+    "options": [
+      "Chức năng cưỡng chế tư pháp",
+      "Chức năng thông tin",
+      "Chức năng thừa nhận giá trị hàng hóa",
+      "Chức năng điều tiết sản xuất"
+    ],
+    "answer": "Chức năng cưỡng chế tư pháp",
+    "explanation": "Cưỡng chế tư pháp là chức năng của cơ quan pháp luật, không phải chức năng của thị trường."
+  },
+  {
+    "question": "Cơ chế thị trường là hệ thống các quan hệ kinh tế tự điều tiết dưới tác động của các yếu tố nào?",
+    "options": [
+      "Các quy luật kinh tế",
+      "Mệnh lệnh của cơ quan hành chính",
+      "Các kế hoạch tập trung tuyệt đối",
+      "Sự tự phát của một cá nhân"
+    ],
+    "answer": "Các quy luật kinh tế",
+    "explanation": "Cơ chế thị trường vận hành tự động dưới sự tác động của quy luật giá trị, cung cầu, cạnh tranh."
+  },
+  {
+    "question": "Sự chênh lệch giữa doanh thu và chi phí sản xuất kinh doanh được gọi là gì?",
+    "options": [
+      "Lợi nhuận",
+      "Vốn điều lệ",
+      "Chi phí cố định",
+      "Giá vốn hàng bán"
+    ],
+    "answer": "Lợi nhuận",
+    "explanation": "Lợi nhuận là phần tiền chênh lệch dương khi lấy tổng doanh thu trừ đi tổng chi phí."
+  },
+  {
+    "question": "Giá cả thị trường là số tiền phải trả cho một đơn vị hàng hóa hoặc dịch vụ khi thực hiện điều gì?",
+    "options": [
+      "Mua bán, trao đổi",
+      "Tặng cho miễn phí",
+      "Kê biên tài sản",
+      "Đấu thầu dự án nhà nước"
+    ],
+    "answer": "Mua bán, trao đổi",
+    "explanation": "Giá cả thị trường là giá mua bán hàng hóa, dịch vụ được hình thành trên thị trường."
+  },
+  {
+    "question": "Một trong những ưu điểm nổi bật của cơ chế thị trường là gì?",
+    "options": [
+      "Kích thích đổi mới công nghệ và tăng năng suất",
+      "Xóa bỏ hoàn toàn khoảng cách giàu nghèo",
+      "Triệt tiêu hiện tượng lạm phát",
+      "Bảo vệ tuyệt đối môi trường tự nhiên"
+    ],
+    "answer": "Kích thích đổi mới công nghệ và tăng năng suất",
+    "explanation": "Cạnh tranh trong cơ chế thị trường buộc các doanh nghiệp phải cải tiến kỹ thuật để giảm chi phí."
+  },
+  {
+    "question": "Ngân sách nhà nước là hệ thống các khoản thu, chi của nhà nước được dự toán và thực hiện trong khoảng thời gian bao lâu?",
+    "options": [
+      "Một năm",
+      "Năm năm",
+      "Mười năm",
+      "Một quý"
+    ],
+    "answer": "Một năm",
+    "explanation": "Ngân sách nhà nước được quyết định bởi Quốc hội và thực hiện trong chu kỳ một năm."
+  },
+  {
+    "question": "Nguồn thu chính và quan trọng nhất của Ngân sách nhà nước đến từ đâu?",
+    "options": [
+      "Thuế",
+      "Phí và lệ phí",
+      "Vay nợ nước ngoài",
+      "Viện trợ không hoàn lại"
+    ],
+    "answer": "Thuế",
+    "explanation": "Thuế là nguồn thu lớn nhất, chiếm tỷ trọng chủ yếu trong cơ cấu thu ngân sách nhà nước."
+  },
+  {
+    "question": "Khoản chi nào sau đây thuộc nhóm chi thường xuyên của Ngân sách nhà nước?",
+    "options": [
+      "Chi hoạt động của bộ máy nhà nước",
+      "Chi đầu tư xây dựng cao tốc",
+      "Chi hỗ trợ doanh nghiệp quốc tế",
+      "Chi mua lại các tập đoàn nước ngoài"
+    ],
+    "answer": "Chi hoạt động của bộ máy nhà nước",
+    "explanation": "Chi thường xuyên bao gồm chi cho giáo dục, y tế, quản lý nhà nước, quốc phòng an ninh hằng năm."
+  },
+  {
+    "question": "Thuế là một khoản nộp mang tính chất gì đối với các tổ chức, cá nhân theo quy định của pháp luật?",
+    "options": [
+      "Bắt buộc",
+      "Tự nguyện",
+      "Thỏa thuận",
+      "Đóng góp tùy tâm"
+    ],
+    "answer": "Bắt buộc",
+    "explanation": "Thuế là nghĩa vụ bắt buộc của mọi công dân và tổ chức khi có đủ điều kiện theo luật định."
+  },
+  {
+    "question": "Loại thuế nào sau đây được tính trực tiếp trên thu nhập hoặc tài sản của người nộp thuế?",
+    "options": [
+      "Thuế trực thu",
+      "Thuế gián thu",
+      "Thuế giá trị gia tăng",
+      "Thuế tiêu thụ đặc biệt"
+    ],
+    "answer": "Thuế trực thu",
+    "explanation": "Thuế trực thu là thuế mà người nộp thuế cũng chính là người chịu thuế, ví dụ như thuế thu nhập cá nhân."
+  },
+  {
+    "question": "Thuế giá trị gia tăng (VAT) thuộc loại thuế nào sau đây?",
+    "options": [
+      "Thuế gián thu",
+      "Thuế trực thu",
+      "Thuế thu nhập doanh nghiệp",
+      "Thuế tài sản cố định"
+    ],
+    "answer": "Thuế gián thu",
+    "explanation": "Thuế gián thu là thuế cấu thành vào giá cả hàng hóa, người tiêu dùng là người thực tế chịu thuế."
+  },
+  {
+    "question": "Sản xuất kinh doanh là hoạt động làm ra sản phẩm, dịch vụ nhằm mục đích chính là gì?",
+    "options": [
+      "Đáp ứng nhu cầu thị trường và thu lợi nhuận",
+      "Tích trữ làm tài sản gia đình",
+      "Phục vụ sở thích cá nhân chủ doanh nghiệp",
+      "Nâng cao uy tín chính trị cá nhân"
+    ],
+    "answer": "Đáp ứng nhu cầu thị trường và thu lợi nhuận",
+    "explanation": "Mục tiêu cốt lõi của hoạt động sản xuất kinh doanh là tạo ra lợi nhuận thông qua việc bán sản phẩm."
+  },
+  {
+    "question": "Mô hình kinh tế nào được tổ chức theo hình thức kinh tế gia đình, dựa trên lao động của các thành viên?",
+    "options": [
+      "Kinh tế hộ gia đình",
+      "Hợp tác xã toàn quốc",
+      "Doanh nghiệp nhà nước",
+      "Tập đoàn đa quốc gia"
+    ],
+    "answer": "Kinh tế hộ gia đình",
+    "explanation": "Kinh tế hộ gia đình có quy mô nhỏ, sử dụng nguồn lực và lao động của chính gia đình đó."
+  },
+  {
+    "question": "Hợp tác xã là tổ chức kinh tế tập thể, đồng sở hữu, có tư cách pháp nhân và do ít nhất bao nhiêu thành viên tự nguyện thành lập?",
+    "options": [
+      "Do nhiều người tự nguyện thành lập theo luật",
+      "Chỉ duy nhất một cá nhân",
+      "Phải do Chính phủ chỉ định",
+      "Bắt buộc từ 100 người trở lên"
+    ],
+    "answer": "Do many người tự nguyện thành lập theo luật",
+    "explanation": "Hợp tác xã hình thành trên nguyên tắc tự nguyện, cùng hợp tác giữa các thành viên có nhu cầu chung."
+  },
+  {
+    "question": "Doanh nghiệp là tổ chức kinh tế có tên riêng, có tài sản, có trụ sở giao dịch và được thành lập nhằm mục đích gì?",
+    "options": [
+      "Kinh doanh",
+      "Làm từ thiện toàn thời gian",
+      "Quản lý hành chính nhà nước",
+      "Nghiên cứu khoa học thuần túy"
+    ],
+    "answer": "Kinh doanh",
+    "explanation": "Mục đích thành lập và hoạt động chủ yếu của doanh nghiệp là thực hiện các hoạt động kinh doanh kiếm lời."
+  },
+  {
+    "question": "Khái niệm tín dụng dùng để chỉ mối quan hệ kinh tế dựa trên nguyên tắc nào?",
+    "options": [
+      "Vay mượn có hoàn trả cả gốc lẫn lãi",
+      "Cho và nhận không điều kiện",
+      "Mua đứt bán đoạn ngay lập tức",
+      "Cưỡng chế chuyển giao tài sản"
+    ],
+    "answer": "Vay mượn có hoàn trả cả gốc lẫn lãi",
+    "explanation": "Mối quan hệ tín dụng dựa trên sự tin tưởng, chuyển giao quyền sử dụng vốn có thời hạn và có hoàn trả."
+  },
+  {
+    "question": "Một trong những đặc điểm cơ bản của tín dụng là gì?",
+    "options": [
+      "Có tính hoàn trả",
+      "Tính vĩnh viễn không thời hạn",
+      "Tính miễn phí tiền lãi",
+      "Không cần hợp đồng pháp lý"
+    ],
+    "answer": "Có tính hoàn trả",
+    "explanation": "Người vay bắt buộc phải hoàn trả vốn gốc và lãi suất đúng hạn như đã cam kết."
+  },
+  {
+    "question": "Hình thức tín dụng phát sinh giữa các ngân hàng, tổ chức tín dụng với các chủ thể kinh tế được gọi là gì?",
+    "options": [
+      "Tín dụng ngân hàng",
+      "Tín dụng thương mại",
+      "Tín dụng nhà nước",
+      "Tín dụng nội bộ"
+    ],
+    "answer": "Tín dụng ngân hàng",
+    "explanation": "Tín dụng ngân hàng là hình thức tín dụng chủ yếu, do ngân hàng làm chủ thể cho vay."
+  },
+  {
+    "question": "Dịch vụ tín dụng nào cho phép người dùng chi tiêu trước, trả tiền sau trong một hạn mức nhất định?",
+    "options": [
+      "Thẻ tín dụng",
+      "Thẻ ghi nợ nội địa",
+      "Rút tiền mặt ATM",
+      "Chuyển khoản trực tuyến"
+    ],
+    "answer": "Thẻ tín dụng",
+    "explanation": "Thẻ tín dụng (Credit Card) là công cụ cho vay tuần hoàn ngắn hạn của ngân hàng dành cho cá nhân."
+  },
+  {
+    "question": "Kế hoạch tài chính cá nhân là tập hợp các hành động nhằm đạt được mục tiêu tài chính nào?",
+    "options": [
+      "Của cá nhân trong ngắn hạn hoặc dài hạn",
+      "Of các tập đoàn kinh tế lớn",
+      "Của toàn bộ nền kinh tế quốc gia",
+      "Của các tổ chức từ thiện"
+    ],
+    "answer": "Của cá nhân trong ngắn hạn hoặc dài hạn",
+    "explanation": "Kế hoạch tài chính cá nhân giúp quản lý dòng tiền, chi tiêu và tiết kiệm của riêng một người."
+  },
+  {
+    "question": "Hiến pháp là văn bản pháp luật có giá trị pháp lý như thế nào trong hệ thống pháp luật Việt Nam?",
+    "options": [
+      "Cao nhất",
+      "Thấp nhất",
+      "Tương đương nghị định",
+      "Chỉ có tính tham khảo"
+    ],
+    "answer": "Cao nhất",
+    "explanation": "Hiến pháp là luật cơ bản của Nhà nước, có hiệu lực pháp lý cao nhất, mọi văn bản khác không được trái Hiến pháp."
+  },
+  {
+    "question": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam hiện hành được ban hành vào năm nào?",
+    "options": [
+      "Năm 2013",
+      "Năm 1992",
+      "Năm 2020",
+      "Năm 1946"
+    ],
+    "answer": "Năm 2013",
+    "explanation": "Hiến pháp hiện hành là Hiến pháp năm 2013, được Quốc hội khóa XIII thông qua ngày 28/11/2013."
+  },
+  {
+    "question": "Theo Hiến pháp 2013, bản chất của Nhà nước Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của ai, do ai, vì ai?",
+    "options": [
+      "Của nhân dân, do nhân dân, vì nhân dân",
+      "Của giai cấp tư sản",
+      "Của riêng các cơ quan nhà nước",
+      "Của các tổ chức quốc tế"
+    ],
+    "answer": "Của nhân dân, do nhân dân, vì nhân dân",
+    "explanation": "Điều 2 Hiến pháp 2013 khẳng định quyền lực nhà nước thuộc về nhân dân mà nền tảng là liên minh công - nông - trí thức."
+  },
+  {
+    "question": "Cơ quan nào có quyền lực cao nhất và là cơ quan duy nhất có quyền lập hiến và lập pháp tại Việt Nam?",
+    "options": [
+      "Quốc hội",
+      "Chính phủ",
+      "Tòa án nhân dân tối cao",
+      "Viện kiểm sát nhân dân tối cao"
+    ],
+    "answer": "Quốc hội",
+    "explanation": "Quốc hội là cơ quan đại biểu cao nhất của nhân dân, cơ quan quyền lực nhà nước cao nhất."
+  },
+  {
+    "question": "Ai là người đứng đầu Nhà nước, thay mặt nước Cộng hòa xã hội chủ nghĩa Việt Nam về đối nội và đối ngoại?",
+    "options": [
+      "Chủ tịch nước",
+      "Thủ tướng Chính phủ",
+      "Chủ tịch Quốc hội",
+      "Chánh án Tòa án nhân dân tối cao"
+    ],
+    "answer": "Chủ tịch nước",
+    "explanation": "Theo Hiến pháp, Chủ tịch nước là người đứng đầu Nhà nước, đại diện cho quốc gia."
+  },
+  {
+    "question": "Chính phủ là cơ quan hành chính nhà nước cao nhất, thực hiện quyền lực nào sau đây?",
+    "options": [
+      "Quyền hành pháp",
+      "Quyền tư pháp",
+      "Quyền lập pháp",
+      "Quyền giám sát tối cao"
+    ],
+    "answer": "Quyền hành pháp",
+    "explanation": "Chính phủ là cơ quan chấp hành của Quốc hội, thực hiện quản lý, điều hành đất nước (hành pháp)."
+  },
+  {
+    "question": "Cơ quan nào sau đây thực hiện quyền tư pháp, có nhiệm vụ xét xử tại nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
+    "options": [
+      "Tòa án nhân dân",
+      "Viện kiểm sát nhân dân",
+      "Bộ Tư pháp",
+      "Ủy ban nhân dân"
+    ],
+    "answer": "Tòa án nhân dân",
+    "explanation": "Tòa án nhân dân là cơ quan xét xử của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền tư pháp."
+  },
+  {
+    "question": "Viện kiểm sát nhân dân thực hiện chức năng nào sau đây theo quy định của Hiến pháp?",
+    "options": [
+      "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
+      "Xét xử các vụ án dân sự và hình sự",
+      "Ban hành các luật và nghị quyết",
+      "Thi hành các bản án đã có hiệu lực"
+    ],
+    "answer": "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
+    "explanation": "Chức năng hiến định của Viện kiểm sát nhân dân là thực hành quyền công tố, kiểm sát tính hợp pháp của các hoạt động tư pháp."
+  },
+  {
+    "question": "Chính quyền địa phương ở Việt Nam được tổ chức ở những đơn vị hành chính nào?",
+    "options": [
+      "Các cấp tỉnh, huyện, xã",
+      "Chỉ ở cấp trung ương",
+      "Tại các đại sứ quán nước ngoài",
+      "Tại các khu kinh tế tự do"
+    ],
+    "answer": "Các cấp tỉnh, huyện, xã",
+    "explanation": "Chính quyền địa phương gồm Hội đồng nhân dân và Ủy ban nhân dân tổ chức ở các đơn vị hành chính cấp tỉnh, huyện, xã."
+  },
+  {
+    "question": "Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa phương, do ai bầu ra?",
+    "options": [
+      "Nhân dân địa phương",
+      "Thủ tướng Chính phủ bổ nhiệm",
+      "Chủ tịch nước chỉ định",
+      "Hội đồng nhân dân cấp trên cấp phép"
+    ],
+    "answer": "Nhân dân địa phương",
+    "explanation": "Hội đồng nhân dân do cử cử tri (nhân dân) ở địa phương bầu ra, đại diện cho ý chí, nguyện vọng của nhân dân."
+  },
+  {
+    "question": "Ủy ban nhân dân là cơ quan như thế nào đối với Hội đồng nhân dân cùng cấp?",
+    "options": [
+      "Cơ quan chấp hành",
+      "Cơ quan lập pháp",
+      "Cơ quan giám sát",
+      "Cơ quan xét xử độc lập"
+    ],
+    "answer": "Cơ quan chấp hành",
+    "explanation": "Ủy ban nhân dân là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương."
+  },
+  {
+    "question": "Theo Hiến pháp 2013, công dân có nghĩa vụ gì đối với Tổ quốc?",
+    "options": [
+      "Trung thành và bảo vệ Tổ quốc",
+      "Chỉ cần đóng thuế đầy đủ",
+      "Đi du lịch nước ngoài hằng năm",
+      "Không cần thực hiện nghĩa vụ quân sự"
+    ],
+    "answer": "Trung thành và bảo vệ Tổ quốc",
+    "explanation": "Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý của mỗi công dân Việt Nam."
+  },
+  {
+    "question": "Quyền nào sau đây thuộc nhóm quyền chính trị của công dân theo Hiến pháp 2013?",
+    "options": [
+      "Quyền bầu cử và ứng cử",
+      "Quyền tự do kinh doanh",
+      "Quyền được bảo vệ sức khỏe",
+      "Quyền nghiên cứu khoa học"
+    ],
+    "answer": "Quyền bầu cử và ứng cử",
+    "explanation": "Quyền bầu cử và ứng cử là quyền chính trị cơ bản thể hiện quyền làm chủ của công dân với đất nước."
+  },
+  {
+    "question": "Mọi người có quyền tự do kinh doanh trong những ngành nghề mà pháp luật quy định như thế nào?",
+    "options": [
+      "Không cấm",
+      "Cho phép bằng văn bản riêng",
+      "Bắt buộc phải làm",
+      "Do xã hội yêu cầu"
+    ],
+    "answer": "Không cấm",
+    "explanation": "Hiến pháp quy định công dân có quyền tự do kinh doanh những ngành nghề mà luật không cấm."
+  },
+  {
+    "question": "Trẻ em được Nhà nước, gia đình và xã hội bảo vệ, chăm sóc và làm gì?",
+    "options": [
+      "Giáo dục",
+      "Cho đi làm sớm",
+      "Miễn trừ mọi luật lệ",
+      "Tự do tuyệt đối ngoài đường"
+    ],
+    "answer": "Giáo dục",
+    "explanation": "Trẻ em có quyền được bảo vệ, chăm sóc, nuôi dưỡng và học tập, giáo dục đầy đủ."
+  },
+  {
+    "question": "Mối quan hệ giữa sản xuất và tiêu dùng biểu hiện như thế nào trong nền kinh tế?",
+    "options": [
+      "Sản xuất quyết định tiêu dùng, tiêu dùng là mục đích của sản xuất",
+      "Sản xuất và tiêu dùng hoàn toàn độc lập",
+      "Tiêu dùng quyết định quy mô sản xuất tuyệt đối",
+      "Sản xuất chỉ phục vụ tích lũy chứ không phục vụ tiêu dùng"
+    ],
+    "answer": "Sản xuất quyết định tiêu dùng, tiêu dùng là mục đích của sản xuất",
+    "explanation": "Sản xuất tạo ra sản phẩm để tiêu dùng, ngược lại nhu cầu tiêu dùng thúc đẩy sản xuất phát triển."
+  },
+  {
+    "question": "Khi người tiêu dùng tẩy chay các sản phẩm kém chất lượng, họ đang thực hiện chức năng gì của chủ thể tiêu dùng?",
+    "options": [
+      "Định hướng và điều tiết sản xuất thông qua lựa chọn",
+      "Tăng chi phí cho nhà sản xuất",
+      "Giúp nhà nước thu thuế nhiều hơn",
+      "Thay thế vai trò quản lý của tòa án"
+    ],
+    "answer": "Định hướng và điều tiết sản xuất thông qua lựa chọn",
+    "explanation": "Sự lựa chọn của người tiêu dùng gửi tín hiệu đến thị trường, buộc nhà sản xuất thay đổi chất lượng."
+  },
+  {
+    "question": "Tại sao nhà nước cần phải điều tiết nền kinh tế thị trường bằng các chính sách vĩ mô?",
+    "options": [
+      "Để khắc phục những khuyết tật và hạn chế của cơ chế thị trường",
+      "Để độc quyền toàn bộ hoạt động mua bán",
+      "Để triệt tiêu quyền tự do kinh doanh của cá nhân",
+      "Để loại bỏ hoàn toàn các doanh nghiệp tư nhân"
+    ],
+    "answer": "Để khắc phục những khuyết tật và hạn chế của cơ chế thị trường",
+    "explanation": "Thị trường tự do có lỗi hệ thống như ô nhiễm, lạm phát, phân hóa giàu nghèo, cần nhà nước can thiệp điều hòa."
+  },
+  {
+    "question": "Giá cả thị trường tăng cao có tác động như thế nào đến tâm lý và hành vi của người sản xuất?",
+    "options": [
+      "Kích thích mở rộng quy mô sản xuất để tăng lợi nhuận",
+      "Thu hẹp sản xuất vì sợ rủi ro",
+      "Chuyển sang tiêu dùng hàng hóa đó",
+      "Ngừng hoạt động để chờ giá giảm xuống"
+    ],
+    "answer": "Kích thích mở rộng quy mô sản xuất để tăng lợi nhuận",
+    "explanation": "Giá tăng đồng nghĩa biên lợi nhuận tăng, thôi thúc các nhà kinh doanh tăng nguồn cung."
+  },
+  {
+    "question": "Khi cung lớn hơn cầu một cách rõ rệt trên thị trường, giá cả hàng hóa thường có xu hướng thay đổi thế nào?",
+    "options": [
+      "Giảm xuống",
+      "Tăng mạnh",
+      "Giữ nguyên ổn định tuyệt đối",
+      "Biến động không thể dự báo"
+    ],
+    "answer": "Giảm xuống",
+    "explanation": "Hàng hóa dư thừa buộc người bán cạnh tranh giảm giá để tiêu thụ sản phẩm."
+  },
+  {
+    "question": "Nội dung nào sau đây phản ánh đúng tính chất không hoàn trả trực tiếp của thuế?",
+    "options": [
+      "Người nộp thuế không được nhà nước trả lại một lợi ích trực tiếp tương đương ngay lập tức",
+      "Nhà nước sẽ trả lại tiền thuế khi người dân về hưu",
+      "Thuế là khoản vay ngắn hạn của chính phủ đối với người dân",
+      "Người dân có thể đòi lại thuế nếu không sử dụng dịch vụ công"
+    ],
+    "answer": "Người nộp thuế không được nhà nước trả lại một lợi ích trực tiếp tương đương ngay lập tức",
+    "explanation": "Thuế nộp vào ngân sách chung, nhà nước dùng chi cho lợi ích công cộng chứ không hoàn trả riêng cho cá nhân nộp."
+  },
+  {
+    "question": "Sự khác biệt cốt lõi giữa thuế trực thu và thuế gián thu là gì?",
+    "options": [
+      "Người nộp thuế có đồng thời là người thực tế gánh chịu khoản thuế đó hay không",
+      "Mức độ phạt khi trốn thuế",
+      "Thẩm quyền thu thuế thuộc trung ương hay địa phương",
+      "Phương thức thanh toán bằng tiền mặt hay chuyển khoản"
+    ],
+    "answer": "Người nộp thuế có đồng thời là người thực tế gánh chịu khoản thuế đó hay không",
+    "explanation": "Thuế trực thu đánh thẳng vào thu nhập chủ thể; thuế gián thu cộng vào giá bán, chuyển sang người mua chịu."
+  },
+  {
+    "question": "Tại sao việc lập kế hoạch tài chính cá nhân lại giúp giảm thiểu rủi ro tài chính?",
+    "options": [
+      "Giúp chủ động kiểm soát chi tiêu và chuẩn bị quỹ dự phòng cho tình huống bất ngờ",
+      "Đảm bảo thu nhập cá nhân luôn tự động tăng lên",
+      "Giúp loại bỏ hoàn toàn các loại thuế phải nộp",
+      "Giúp người đó không bao giờ phải mua hàng hóa trên thị trường"
+    ],
+    "answer": "Giúp chủ động kiểm soát chi tiêu và chuẩn bị quỹ dự phòng cho tình huống bất ngờ",
+    "explanation": "Kế hoạch rõ ràng giúp phân bổ ngân sách hợp lý và xây dựng khoản tài chính phòng vệ khi gặp sự cố."
+  },
+  {
+    "question": "Ý nghĩa lớn nhất của việc tham gia mô hình hợp tác xã đối với các hộ sản xuất nhỏ lẻ là gì?",
+    "options": [
+      "Liên kết sức mạnh, chia sẻ rủi ro và tăng khả năng cạnh tranh trên thị trường",
+      "Trở thành doanh nghiệp nhà nước nắm độc quyền",
+      "Được miễn trừ hoàn toàn trách nhiệm pháp lý",
+      "Không cần phải sử dụng vốn đầu tư ban đầu"
+    ],
+    "answer": "Liên kết sức mạnh, chia sẻ rủi ro và tăng khả năng cạnh tranh trên thị trường",
+    "explanation": "Hợp tác xã tập hợp các nguồn lực nhỏ để tạo lợi thế quy mô về thu mua vật tư và tiêu thụ sản phẩm."
+  },
+  {
+    "question": "Bản chất kinh tế của tín dụng thương mại là gì?",
+    "options": [
+      "Quan hệ mua bán chịu hàng hóa giữa các doanh nghiệp",
+      "Quan hệ cho vay tiền mặt của ngân hàng thương mại",
+      "Chính sách trợ cấp không hoàn trả của nhà nước",
+      "Hoạt động phát hành cổ phiếu ra công chúng"
+    ],
+    "answer": "Quan hệ mua bán chịu hàng hóa giữa các doanh nghiệp",
+    "explanation": "Tín dụng thương mại diễn ra dưới hình thức mua bán trả chậm, hoãn thanh toán giữa các nhà doanh nghiệp."
+  },
+  {
+    "question": "Quy định mọi văn bản pháp luật không được trái với Hiến pháp thể hiện đặc điểm nào của Hiến pháp?",
+    "options": [
+      "Hiến pháp có hiệu lực pháp lý cao nhất",
+      "Hiến pháp mang tính tạm thời",
+      "Hiến pháp có thể thay đổi tùy ý bởi các bộ",
+      "Hiến pháp chỉ áp dụng cho cơ quan nhà nước"
+    ],
+    "answer": "Hiến pháp có hiệu lực pháp lý cao nhất",
+    "explanation": "Vì là luật cơ bản, Hiến pháp là nền tảng hình thành các luật khác; các quy định trái Hiến pháp đều vô hiệu."
+  },
+  {
+    "question": "Việc Hiến pháp quy định về quyền con người, quyền công dân thể hiện mục tiêu cốt lõi nào của Nhà nước pháp quyền?",
+    "options": [
+      "Ghi nhận, tôn trọng, bảo vệ và bảo đảm quyền lợi chính đáng của con người",
+      "Hạn chế quyền lực tối đa của công dân",
+      "Mở rộng quyền lực tuyệt đối cho các quan chức",
+      "Tách rời nghĩa vụ công dân ra khỏi quyền lợi"
+    ],
+    "answer": "Ghi nhận, tôn trọng, bảo vệ và bảo đảm quyền lợi chính đáng của con người",
+    "explanation": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam coi con người là trung tâm, bảo vệ quyền lợi hợp pháp của công dân."
+  },
+  {
+    "question": "Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân nhằm mục đích gì?",
+    "options": [
+      "Bảo đảm cho pháp luật được chấp hành nghiêm chỉnh và thống nhất",
+      "Thay thế Tòa án ra phán quyết xử phạt công dân",
+      "Tự mình trực tiếp điều tra toàn bộ các vụ án nhỏ lẻ",
+      "Soạn thảo văn bản pháp luật giao cho Chính phủ"
+    ],
+    "answer": "Bảo đảm cho pháp luật được chấp hành nghiêm chỉnh và thống nhất",
+    "explanation": "Kiểm sát tư pháp giúp phát hiện sai sót, vi phạm của cơ quan điều tra, xét xử, thi hành án để xử lý kịp thời."
+  },
+  {
+    "question": "Sự phân chia quyền lực nhà nước ở Việt Nam giữa ba quyền lập pháp, hành pháp và tư pháp được thực hiện theo nguyên tắc nào?",
+    "options": [
+      "Phân công, phối hợp và kiểm soát lẫn nhau",
+      "Độc lập tuyệt đối không liên quan đến nhau",
+      "Tập trung toàn bộ vào một cá nhân duy nhất",
+      "Do tổ chức nước ngoài giám sát hoạt động"
+    ],
+    "answer": "Phân công, phối hợp và kiểm soát lẫn nhau",
+    "explanation": "Quyền lực nhà nước là thống nhất, có sự phân công rạch ròi, phối hợp chặt chẽ và kiểm soát giữa các cơ quan."
+  },
+  {
+    "question": "Tại sao Quốc hội được gọi là cơ quan đại biểu cao nhất của Nhân dân?",
+    "options": [
+      "Vì các đại biểu Quốc hội do cử tri cả nước bầu ra theo nguyên tắc phổ thông đầu phiếu",
+      "Vì Quốc hội có số lượng nhân viên đông nhất đất nước",
+      "Vì Quốc hội trực tiếp quản lý tất cả các nhà máy, xí nghiệp",
+      "Vì Quốc hội ban hành các quyết định hành chính hàng ngày"
+    ],
+    "answer": "Vì các đại biểu Quốc hội do cử tri cả nước bầu ra theo nguyên tắc phổ thông đầu phiếu",
+    "explanation": "Quốc hội nhận ủy quyền quyền lực từ nhân dân qua bầu cử dân chủ, đại diện cho tiếng nói nhân dân."
+  },
+  {
+    "question": "Mối quan hệ giữa Hội đồng nhân dân và Ủy ban nhân dân ở địa phương được thể hiện như thế nào?",
+    "options": [
+      "Hội đồng nhân dân quyết nghị đường lối, Ủy ban nhân dân tổ chức thi hành",
+      "Ủy ban nhân dân có quyền bãi miễn các đại biểu Hội đồng nhân dân",
+      "Hai cơ quan hoạt động hoàn toàn song song không báo cáo nhau",
+      "Hội đồng nhân dân là cấp dưới trực thuộc của Ủy ban nhân dân"
+    ],
+    "answer": "Hội đồng nhân dân quyết nghị đường lối, Ủy ban nhân dân tổ chức thi hành",
+    "explanation": "HĐND quyết định chủ trương, UBND là cơ quan chấp hành, thực hiện các nghị quyết của HĐND."
+  },
+  {
+    "question": "Hành vi trốn thuế của doanh nghiệp gây ra hậu quả xấu gì nghiêm trọng nhất cho xã hội?",
+    "options": [
+      "Làm thất thu ngân sách nhà nước, ảnh hưởng đến các dự án phúc lợi công cộng",
+      "Làm tăng giá thành sản phẩm đột biến",
+      "Khiến doanh nghiệp bị mất quyền sở hữu thương hiệu",
+      "Gây ra hiện tượng thiếu hụt lao động tạm thời"
+    ],
+    "answer": "Làm thất thu ngân sách nhà nước, ảnh hưởng đến các dự án phúc lợi công cộng",
+    "explanation": "Trốn thuế trực tiếp bòn rút nguồn lực tài chính công phục vụ y tế, giáo dục, hạ tầng giao thông."
+  },
+  {
+    "question": "Quyền tự do ngôn luận của công dân được Hiến pháp bảo đảm không có nghĩa là được thực hiện hành vi nào?",
+    "options": [
+      "Xuyên tạc bôi nhọ danh dự người khác hoặc gây nguy hại an ninh quốc gia",
+      "Bày tỏ quan điểm đóng góp xây dựng chính sách",
+      "Viết bài phê bình các tệ nạn xã hội trên báo chí",
+      "Phát biểu ý kiến trong các cuộc họp cơ quan"
+    ],
+    "answer": "Xuyên tạc bôi nhọ danh dự người khác hoặc gây nguy hại an ninh quốc gia",
+    "explanation": "Quyền tự do phải trong khuôn khổ pháp luật, không được xâm phạm lợi ích nhà nước, quyền lợi người khác."
+  },
+  {
+    "question": "Khi một người đủ 18 tuổi tham gia bỏ phiếu bầu cử Quốc hội, họ đang thực hiện quyền gì và nghĩa vụ gì?",
+    "options": [
+      "Quyền chính trị và trách nhiệm công dân cơ bản",
+      "Quyền dân sự thông thường và sở thích cá nhân",
+      "Nghĩa vụ kinh tế bắt buộc thu phí",
+      "Hoạt động hành chính mang tính chất nội bộ"
+    ],
+    "answer": "Quyền chính trị và trách nhiệm công dân cơ bản",
+    "explanation": "Bầu cử vừa là quyền lợi chính trị vừa là trách nhiệm xây dựng bộ máy quyền lực nhà nước."
+  },
+  {
+    "question": "Nội dung nào sau đây thể hiện việc thực hiện đúng quyền học tập của công dân?",
+    "options": [
+      "Mọi công dân đều có cơ hội học tập bình đẳng, không bị phân biệt đối xử",
+      "Chỉ có học sinh giỏi mới được quyền đi học",
+      "Học sinh có quyền từ chối kiểm tra định kỳ",
+      "Nhà trường bắt buộc phải miễn học phí cho toàn bộ học sinh"
+    ],
+    "answer": "Mọi công dân đều có cơ hội học tập bình đẳng, không bị phân biệt đối xử",
+    "explanation": "Công dân có quyền học không hạn chế, học từ thấp đến cao, học bằng nhiều hình thức một cách bình đẳng."
+  },
+  {
+    "question": "Tác động tiêu cực của độc quyền trong nền kinh tế thị trường là gì?",
+    "options": [
+      "Thao túng giá cả thị trường và kìm hãm động lực đổi mới công nghệ",
+      "Thúc đẩy cạnh tranh công bằng giữa các bên",
+      "Giúp tối ưu hóa lợi ích cho toàn bộ người tiêu dùng",
+      "Xóa bỏ triệt để hiện tượng gian lận thương mại"
+    ],
+    "answer": "Thao túng giá cả thị trường và kìm hãm động lực đổi mới công nghệ",
+    "explanation": "Chủ thể độc quyền áp đặt giá cao, không có áp lực cạnh tranh nên không mặn mà cải tiến sản phẩm."
+  },
+  {
+    "question": "Vai trò của thị trường lao động trong nền kinh tế thị trường là gì?",
+    "options": [
+      "Kết nối cung cầu về sức lao động, giúp phân bổ nguồn nhân lực hợp lý",
+      "Định giá cố định tiền lương cho toàn bộ công dân",
+      "Bảo đảm mọi người dân đều có chức vụ quản lý",
+      "Cung cấp các công cụ máy móc tự động hóa"
+    ],
+    "answer": "Kết nối cung cầu về sức lao động, giúp phân bổ nguồn nhân lực hợp lý",
+    "explanation": "Thị trường lao động là nơi người lao động gặp người sử dụng lao động để thỏa thuận việc làm và tiền lương."
+  },
+  {
+    "question": "Khi lạm phát xảy ra với mức độ cao, giá trị của đồng nội tệ sẽ biến động như thế nào?",
+    "options": [
+      "Sụt giảm mạnh, sức mua của tiền tệ giảm đi",
+      "Tăng lên đáng kể, mua được nhiều hàng hóa hơn",
+      "Giữ vững độ ổn định tuyệt đối so với vàng",
+      "Trở nên vô giá trị hoàn toàn ngay lập tức"
+    ],
+    "answer": "Sụt giảm mạnh, sức mua của tiền tệ giảm đi",
+    "explanation": "Lạm phát là hiện tượng mức giá chung tăng liên tục, đồng nghĩa tiền tệ bị mất giá, giảm sức mua."
+  },
+  {
+    "question": "Thị trường tiền tệ là nơi diễn ra các giao dịch về loại tài sản nào?",
+    "options": [
+      "Các khoản vốn ngắn hạn và các phương tiện thanh toán ngắn hạn",
+      "Bất động sản nhà đất có giá trị lớn",
+      "Sức lao động của công nhân kỹ thuật cao",
+      "Bản quyền công nghệ và sở hữu trí tuệ"
+    ],
+    "answer": "Các khoản vốn ngắn hạn và các phương tiện thanh toán ngắn hạn",
+    "explanation": "Thị trường tiền tệ tập trung mua bán các công cụ tài chính ngắn hạn, có tính thanh khoản cao."
+  },
+  {
+    "question": "Chính sách an sinh xã hội của nhà nước Việt Nam được xây dựng nhằm hướng tới mục tiêu gì?",
+    "options": [
+      "Hỗ trợ người dân giảm thiểu rủi ro trước các biến cố đời sống, kinh tế",
+      "Cung cấp lợi nhuận cao cho các tập đoàn tài chính tư nhân",
+      "Ép buộc mọi cá nhân phải có mức thu nhập bằng nhau",
+      "Thay thế hoàn toàn thu nhập từ tiền lương lao động"
+    ],
+    "answer": "Hỗ trợ người dân giảm thiểu rủi ro trước các biến cố đời sống, kinh tế",
+    "explanation": "An sinh xã hội giúp đỡ đối tượng yếu thế, người gặp rủi ro mất sức lao động, thất nghiệp ổn định cuộc sống."
+  },
+  {
+    "question": "Ý nghĩa kinh tế của việc mở rộng thị trường quốc tế là gì?",
+    "options": [
+      "Giúp đa dạng hóa thị trường tiêu thụ và tận dụng lợi thế so sánh",
+      "Đóng cửa nền kinh tế tự cung tự cấp",
+      "Hạn chế sự xâm nhập của công nghệ nước ngoài",
+      "Loại bỏ hoàn toàn vai trò của các doanh nghiệp trong nước"
+    ],
+    "answer": "Giúp đa dạng hóa thị trường tiêu thụ và tận dụng lợi thế so sánh",
+    "explanation": "Thương mại quốc tế giúp các quốc gia xuất khẩu sản phẩm thế mạnh và nhập khẩu hàng hóa chi phí thấp hơn."
+  },
+  {
+    "question": "Bảo hiểm xã hội bắt buộc ở Việt Nam áp dụng cho đối tượng nào?",
+    "options": [
+      "Người lao động và người sử dụng lao động theo quy định pháp luật lao động",
+      "Chỉ dành riêng cho học sinh, sinh viên cấp tiểu học",
+      "Toàn bộ khách du lịch nước ngoài tại Việt Nam",
+      "Những người không tham gia hoạt động kinh tế"
+    ],
+    "answer": "Người lao động và người sử dụng lao động theo quy định pháp luật lao động",
+    "explanation": "Bảo hiểm xã hội bắt buộc yêu cầu cả người lao động và chủ sử dụng đóng góp theo tỷ lệ lương quy định."
+  },
+  {
+    "question": "Nội dung nào thể hiện quyền tự do dân chủ trực tiếp của công dân?",
+    "options": [
+      "Tham gia thảo luận và biểu quyết các vấn đề chung của thôn, xóm",
+      "Ủy quyền toàn bộ việc quyết định cuộc sống cho người thân",
+      "Chia sẻ thông tin chưa kiểm chứng lên mạng xã hội",
+      "Khiếu nại vượt cấp lên cơ quan quốc tế"
+    ],
+    "answer": "Tham gia thảo luận và biểu quyết các vấn đề chung của thôn, xóm",
+    "explanation": "Dân chủ trực tiếp là công dân tự mình bày tỏ ý chí, biểu quyết trực tiếp không qua người đại diện."
+  },
+  {
+    "question": "Sự giám sát của nhân dân đối với hoạt động của bộ máy nhà nước có ý nghĩa gì?",
+    "options": [
+      "Giúp phòng chống tham nhũng, lãng phí và xây dựng chính quyền trong sạch",
+      "Làm đình trệ các quyết định quản lý hành chính",
+      "Gây áp lực ép buộc cán bộ phải từ chức vô cớ",
+      "Thay thế quyền lực ban hành quyết định tư pháp"
+    ],
+    "answer": "Giúp phòng chống tham nhũng, lãng phí và xây dựng chính quyền trong sạch",
+    "explanation": "Nhân dân giám sát giúp kịp thời phát hiện sai phạm, nâng cao trách nhiệm giải trình của cán bộ nhà nước."
+  },
+  {
+    "question": "Việc bảo vệ môi trường theo quy định của Hiến pháp 2013 là trách nhiệm của ai?",
+    "options": [
+      "Của cơ quan, tổ chức, hộ gia đình và mọi công dân",
+      "Chỉ của riêng Bộ Tài nguyên và Môi trường",
+      "Chỉ của các doanh nghiệp sản xuất hóa chất",
+      "Chỉ của những người sống ở khu vực đô thị"
+    ],
+    "answer": "Của cơ quan, tổ chức, hộ gia đình và mọi công dân",
+    "explanation": "Bảo vệ môi trường là sự nghiệp của toàn dân, mọi cá nhân, tổ chức đều có nghĩa vụ giữ gìn môi trường sạch."
+  },
+  {
+    "question": "Doanh nghiệp A chủ động đầu tư dây chuyền sản xuất tự động hóa hiện đại để giảm một nửa thời gian chế tạo. Doanh nghiệp A đang thực hiện tốt kỹ năng kinh tế nào?",
+    "options": [
+      "Cải tiến công nghệ nâng cao năng suất để tăng lợi thế cạnh tranh",
+      "Thao túng giá cả thị trường độc quyền",
+      "Sản xuất tự cung tự cấp khép kín",
+      "Hạn chế chi phí bảo hộ lao động"
+    ],
+    "answer": "Cải tiến công nghệ nâng cao năng suất để tăng lợi thế cạnh tranh",
+    "explanation": "Ứng dụng kỹ thuật tiên tiến giúp cắt giảm hao phí lao động cá biệt, hạ giá thành để thắng thế trên thị trường."
+  },
+  {
+    "question": "Biết tin giá thịt lợn chuẩn bị tăng mạnh vào dịp Tết, bà M quyết định chuyển một phần diện tích chuồng trại sang nuôi gà xuất bán sớm. Bà M đã vận dụng yếu tố nào của cơ chế thị trường?",
+    "options": [
+      "Giá cả thị trường điều tiết hướng đầu tư sản xuất",
+      "Sự cưỡng chế hành chính của ban quản lý chợ",
+      "Quy luật độc quyền nhóm trong chăn nuôi",
+      "Chính sách trợ giá của ngân hàng nông nghiệp"
+    ],
+    "answer": "Giá cả thị trường điều tiết hướng đầu tư sản xuất",
+    "explanation": "Sự biến động giá cả định hướng người sản xuất chuyển dịch cơ cấu cây trồng, vật nuôi sang mặt hàng lợi thế hơn."
+  },
+  {
+    "question": "Anh K có thu nhập hằng tháng là 20 triệu đồng. Anh dành 10 triệu cho sinh hoạt, 4 triệu tiết kiệm dài hạn, số còn lại đầu tư học tập nâng cao kỹ năng. Kế hoạch chi tiêu của anh K thuộc loại nào?",
+    "options": [
+      "Kế hoạch tài chính cá nhân hợp lý, cân đối giữa tích lũy và phát triển",
+      "Kế hoạch tài chính ngắn hạn mang tính mạo hiểm cao",
+      "Sự lãng phí tiền bạc vào các dịch vụ không thiết thực",
+      "Chi tiêu tự phát không kiểm soát được dòng tiền"
+    ],
+    "answer": "Kế hoạch tài chính cá nhân hợp lý, cân đối giữa tích lũy và phát triển",
+    "explanation": "Anh K phân bổ tiền rõ ràng cho nhu cầu thiết yếu, tiết kiệm phòng hờ và đầu tư vào bản thân bền vững."
+  },
+  {
+    "question": "Do dịch bệnh, công ty may mặc B gặp khó khăn tạm thời về dòng tiền. Giám đốc B nên lựa chọn giải pháp tín dụng nào phù hợp nhất để trả lương công nhân?",
+    "options": [
+      "Vay ngắn hạn ngân hàng có phương án hoàn trả khả thi",
+      "Vay nặng lãi từ các tổ chức tín dụng đen trên mạng",
+      "Yêu cầu công nhân tự ứng tiền túi cho công ty vay lại",
+      "Ngừng hoạt động hoàn toàn và tuyên bố phá sản ngay"
+    ],
+    "answer": "Vay ngắn hạn ngân hàng có phương án hoàn trả khả thi",
+    "explanation": "Vay ngân hàng chính thống giúp doanh nghiệp tiếp cận nguồn vốn hợp pháp, lãi suất ổn định vượt qua khủng hoảng dòng tiền."
+  },
+  {
+    "question": "Chị H nhận thấy các hộ nông dân trồng cam ở địa phương thường bị thương lái ép giá. Chị nên tư vấn cho họ mô hình tổ chức sản xuất nào để bảo vệ quyền lợi?",
+    "options": [
+      "Thành lập hợp tác xã sản xuất và tiêu thụ cam",
+      "Tự phát đóng cửa vườn không bán cho bất kỳ ai",
+      "Chuyển sang mở công ty cổ phần đa quốc gia ngay lập tức",
+      "Thuê lực lượng bảo vệ cưỡng ép thương lái mua giá cao"
+    ],
+    "answer": "Thành lập hợp tác xã sản xuất và tiêu thụ cam",
+    "explanation": "Hợp tác xã giúp liên kết nông dân, tạo khối lượng sản phẩm lớn và nâng cao năng lực đàm phán giá bán với thị trường."
+  },
+  {
+    "question": "Ông T phát hiện một cơ sở sản xuất nước giải khát cạnh nhà có hành vi xả trực tiếp nước thải chưa xử lý ra dòng kênh chung. Ông T nên hành xử như thế nào để đúng quy định pháp luật?",
+    "options": [
+      "Gửi đơn tố cáo kèm minh chứng tới Ủy ban nhân dân hoặc Phòng Tài nguyên và Môi trường cấp huyện",
+      "Giữ im lặng coi như không biết để tránh rắc rối cho gia đình",
+      "Rủ thêm người thân đến đập phá trang thiết bị của cơ sở đó",
+      "Yêu cầu chủ cơ sở phải nộp tiền mặt riêng cho ông để bỏ qua vụ việc"
+    ],
+    "answer": "Gửi đơn tố cáo kèm minh chứng tới Ủy ban nhân dân hoặc Phòng Tài nguyên và Môi trường cấp huyện",
+    "explanation": "Tố cáo hành vi phá hoại môi trường đến cơ quan thẩm quyền địa phương là quyền và nghĩa vụ công dân bảo vệ pháp luật."
+  },
+  {
+    "question": "Bạn học sinh X (16 tuổi) muốn kiếm thêm thu nhập mua sách vở bằng cách làm đồ thủ công bán vào thời gian rảnh. Hành vi của X được pháp luật khuyến khích theo quyền nào?",
+    "options": [
+      "Quyền tự do lao động và tham gia hoạt động kinh tế phù hợp lứa tuổi",
+      "Quyền tự ý bỏ học để đi làm toàn thời gian",
+      "Quyền thành lập tập đoàn tài chính tư nhân độc lập",
+      "Quyền miễn trừ mọi nghĩa vụ nộp thuế xã hội"
+    ],
+    "answer": "Quyền tự do lao động và tham gia hoạt động kinh tế phù hợp lứa tuổi",
+    "explanation": "Pháp luật bảo hộ quyền lao động, tự tạo việc làm chân chính phù hợp với độ tuổi và năng lực của công dân."
+  },
+  {
+    "question": "Ủy ban nhân dân xã Y tổ chức lấy ý kiến nhân dân về phương án bồi thường giải phóng mặt bằng làm đường nông thôn mới. Việc làm này của UBND xã thực hiện đúng phương châm nào?",
+    "options": [
+      "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng",
+      "Dân phải tuân thủ tuyệt đối không được thảo luận",
+      "Cấp trên chỉ định phương án, cấp dưới áp đặt thực hiện",
+      "Chỉ lấy ý kiến các hộ gia đình giàu có trong xã"
+    ],
+    "answer": "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng",
+    "explanation": "Tổ chức lấy ý kiến dân cư về hạ tầng địa phương thể hiện dân chủ cơ sở, phát huy vai trò làm chủ của nhân dân."
+  },
+  {
+    "question": "Khi thấy bạn mình chia sẻ một bài viết có nội dung bôi nhọ, xúc phạm danh dự một người khác trên mạng xã hội, em nên làm gì?",
+    "options": [
+      "Khuyên bạn xóa bài viết và giải thích rằng hành vi đó vi phạm pháp luật bảo vệ danh dự nhân phẩm",
+      "Nhấn thích và chia sẻ tiếp bài viết đó để ủng hộ bạn mình",
+      "Coi như không thấy vì đó là trang cá nhân riêng của bạn",
+      "Tẩy chay, rủ các bạn khác lập hội nói xấu lại bạn đó"
+    ],
+    "answer": "Khuyên bạn xóa bài viết và giải thích rằng hành vi đó vi phạm pháp luật bảo vệ danh dự nhân phẩm",
+    "explanation": "Công dân có trách nhiệm tôn trọng danh dự người khác và định hướng bạn bè tránh vi phạm pháp luật an ninh mạng."
+  },
+  {
+    "question": "Anh D trúng cử đại biểu Hội đồng nhân dân cấp huyện. Anh cần thực hiện hành động nào hằng năm để làm tròn trách nhiệm với cử tri?",
+    "options": [
+      "Tiếp xúc cử tri, lắng nghe tâm tư nguyện vọng và báo cáo hoạt động trước cử tri",
+      "Chỉ tập trung làm công việc kinh doanh riêng của gia đình mình",
+      "Từ chối tham gia các kỳ họp nếu bận việc cá nhân",
+      "Yêu cầu cử tri phải tặng quà lưu niệm trước mỗi buổi gặp mặt"
+    ],
+    "answer": "Tiếp xúc cử tri, lắng nghe tâm tư nguyện vọng và báo cáo hoạt động trước cử tri",
+    "explanation": "Đại biểu HĐND có nghĩa vụ liên hệ chặt chẽ, thu thập phản ánh ý kiến cử tri đến cơ quan quyền lực nhà nước."
+  },
+  {
+    "question": "Gia đình ông V mở rộng sản xuất mặt hàng nông sản sấy khô xuất khẩu nhưng chưa hiểu rõ về thủ tục đăng ký thuế. Ông V nên khuyên gia đình làm gì?",
+    "options": [
+      "Đến Chi cục Thuế địa phương để được hướng dẫn đăng ký mã số thuế doanh nghiệp theo đúng quy định",
+      "Cứ tiến hành sản xuất kinh doanh âm thầm, khi nào bị kiểm tra mới tính",
+      "Thuê người làm giả giấy tờ chứng nhận nộp thuế để tiết kiệm chi phí",
+      "Chuyển toàn bộ xưởng sản xuất sang địa bàn hẻo lánh nhằm trốn tránh"
+    ],
+    "answer": "Đến Chi cục Thuế địa phương để được hướng dẫn đăng ký mã số thuế doanh nghiệp theo đúng quy định",
+    "explanation": "Đăng ký thuế công khai, tuân thủ hướng dẫn cơ quan chuyên môn giúp kinh doanh hợp pháp, bền vững."
+  },
+  {
+    "question": "Nhà nước thực hiện chương trình cấp thẻ bảo hiểm y tế miễn phí cho người nghèo và đồng bào dân tộc thiểu số vùng khó khăn. Việc làm này thể hiện vai trò gì của Nhà nước?",
+    "options": [
+      "Sử dụng ngân sách nhà nước điều tiết, bảo đảm an sinh xã hội và công bằng",
+      "Ưu ái không công bằng cho một nhóm đối tượng cụ thể",
+      "Ép buộc người giàu phải đóng góp từ thiện vô điều kiện",
+      "Triệt tiêu động lực phấn đấu thoát nghèo của người dân"
+    ],
+    "answer": "Sử dụng ngân sách nhà nước điều tiết, bảo đảm an sinh xã hội và công bằng",
+    "explanation": "Nhà nước dùng quỹ công tài trợ y tế cho người nghèo nhằm giảm gánh nặng chi phí, thực hiện tiến bộ xã hội."
+  },
+  {
+    "question": "Cửa hàng ăn uống của bà Tân bị một nhóm người đến quấy phá, đe dọa không cho khách vào ăn. Bà Tân nên sử dụng quyền pháp lý nào?",
+    "options": [
+      "Trình báo, yêu cầu cơ quan Công an xã/phường can thiệp bảo vệ an ninh trật tự và tài sản",
+      "Thuê nhóm giang hồ khác đến đánh trả để trả thù",
+      "Đóng cửa tiệm chịu lỗ mà không phản kháng",
+      "Chửi bới, xúc phạm công khai nhóm người đó trên mạng xã hội"
+    ],
+    "answer": "Trình báo, yêu cầu cơ quan Công an xã/phường can thiệp bảo vệ an ninh trật tự và tài sản",
+    "explanation": "Yêu cầu cơ quan bảo vệ pháp luật can thiệp là cách thức đúng đắn để bảo vệ quyền tự do kinh doanh chính đáng."
+  },
+  {
+    "question": "Anh S (19 tuổi) nhận được lệnh gọi nhập ngũ thực hiện nghĩa vụ quân sự. Tuy nhiên, anh S đang làm việc tại một nhà máy có thu nhập tốt. Anh S nên lựa chọn cách ứng xử nào?",
+    "options": [
+      "Gác lại công việc, nghiêm chỉnh chấp hành lệnh nhập ngũ để thực hiện nghĩa vụ bảo vệ Tổ quốc",
+      "Tìm cách giả bệnh để xin hoãn nghĩa vụ quân sự trái quy định",
+      "Bỏ trốn khỏi địa phương đến nơi khác làm việc cắt liên lạc",
+      "Yêu cầu chủ doanh nghiệp viết đơn xin miễn nghĩa vụ vĩnh viễn cho mình"
+    ],
+    "answer": "Gác lại công việc, nghiêm chỉnh chấp hành lệnh nhập ngũ để thực hiện nghĩa vụ bảo vệ Tổ quốc",
+    "explanation": "Nghĩa vụ quân sự là nghĩa vụ bắt buộc, thiêng liêng của công dân nam trong độ tuổi theo Luật Nghĩa vụ quân sự."
+  },
+  {
+    "question": "Trường Trung học phổ thông X tổ chức cuộc thi 'Tìm hiểu về Hiến pháp Việt Nam'. Học sinh tham gia hoạt động này nhằm mục đích gì?",
+    "options": [
+      "Nâng cao hiểu biết pháp luật, ý thức thượng tôn Hiến pháp và sống có trách nhiệm",
+      "Chỉ để lấy điểm cộng thi đua cho lớp rồi quên ngay",
+      "Thay thế cho việc học các môn khoa học tự nhiên khác",
+      "Trở thành luật sư chuyên nghiệp ngay sau khi cuộc thi kết thúc"
+    ],
+    "answer": "Nâng cao hiểu biết pháp luật, ý thức thượng tôn Hiến pháp và sống có trách nhiệm",
+    "explanation": "Tìm hiểu Hiến pháp giúp học sinh hiểu rõ quyền và nghĩa vụ cá nhân, hình thành lối sống tuân thủ pháp luật từ ghế nhà trường."
+  },
+  {
+    "question": "Doanh nghiệp xăng dầu tư nhân X tự ý đầu cơ găm hàng, đóng cửa trạm bơm không bán cho người dân để chờ nhà nước tăng giá xăng. Hành vi này vi phạm quy định nào?",
+    "options": [
+      "Vi phạm đạo đức kinh doanh và quy định pháp luật về quản lý giá thị trường",
+      "Thực hiện đúng quyền tự do định đoạt hàng hóa cá nhân",
+      "Chiến lược kinh doanh thông minh cần nhân rộng",
+      "Quy luật cung cầu tự nhiên không đáng bị xử lý"
+    ],
+    "answer": "Vi phạm đạo đức kinh doanh và quy định pháp luật về quản lý giá thị trường",
+    "explanation": "Găm hàng trục lợi gây lũng đoạn thị trường, thiếu hụt giả tạo năng lượng bị pháp luật nghiêm cấm."
+  },
+  {
+    "question": "Gia gia đình bạn N muốn vay vốn tại Ngân hàng Chính sách xã hội để nuôi bò, phát triển kinh tế hộ gia đình thoát nghèo. Bạn N nên tư vấn cho bố mẹ chuẩn bị điều gì quan trọng nhất?",
+    "options": [
+      "Xây dựng phương án chăn nuôi khả thi và cam kết sử dụng vốn đúng mục đích, hoàn trả đúng hạn",
+      "Tìm người có chức vụ cao đến gây áp lực cho ngân hàng",
+      "Hỏi mượn các giấy tờ giả để chứng minh tài sản khổng lồ",
+      "Hứa hẹn chia một nửa số tiền giải ngân cho nhân viên ngân hàng"
+    ],
+    "answer": "Xây dựng phương án chăn nuôi khả thi và cam kết sử dụng vốn đúng mục đích, hoàn trả đúng hạn",
+    "explanation": "Tín dụng ưu đãi đòi hỏi hồ sơ trung thực, phương án sản xuất rõ ràng để bảo đảm dòng vốn phát huy hiệu quả kinh tế."
+  },
+  {
+    "question": "Công ty cổ phần nhựa M nhận thấy thị trường đang ưu chuộng các sản phẩm bao bì thân thiện với môi trường làm từ tinh bột ngô. Ban giám đốc công ty nên quyết định thế nào?",
+    "options": [
+      "Chuyển dịch một phần nguồn lực nghiên cứu và sản xuất bao bì sinh học tự hủy đáp ứng thị hiếu mới",
+      "Tăng cường quảng cáo sản phẩm nhựa cũ để ép người tiêu dùng mua",
+      "Hạ giá thành sản phẩm nhựa xuống mức cực thấp chấp nhận lỗ để xả hàng",
+      "Kêu gọi nhà nước cấm các loại bao bì thân thiện môi trường nhập khẩu"
+    ],
+    "answer": "Chuyển dịch một phần nguồn lực nghiên cứu và sản xuất bao bì sinh học tự hủy đáp ứng thị hiếu mới",
+    "explanation": "Vận dụng linh hoạt tín hiệu thị trường giúp doanh nghiệp chiếm lĩnh thị phần xanh, bắt kịp xu thế phát triển bền vững."
+  },
+  {
+    "question": "Bà V làm nghề kinh doanh tạp hóa, hằng tháng bà đều chủ động tính toán doanh thu để nộp thuế môn bài và thuế giá trị gia tăng đúng hạn. Hành vi của bà V là minh chứng cho điều gì?",
+    "options": [
+      "Ý thức tự giác chấp hành nghĩa vụ tài chính đối với đất nước của công dân",
+      "Sự thiếu hiểu biết khi không tìm cách giảm bớt tiền nộp",
+      "Hành động bắt buộc do bị cưỡng chế phong tỏa tài sản liên tục",
+      "Sơ thích cá nhân không liên quan đến quy định pháp luật"
+    ],
+    "answer": "Ý thức tự giác chấp hành nghĩa vụ tài chính đối với đất nước của công dân",
+    "explanation": "Chủ động thực hiện nghĩa vụ nộp thuế là biểu hiện của người kinh doanh văn minh, đóng góp xây dựng quốc gia."
+  },
+  {
+    "question": "Khi tham gia thảo luận quy chế văn hóa học đường của trường, học sinh có quyền ứng xử như thế nào để thể hiện quyền làm chủ?",
+    "options": [
+      "Mạnh dạn phát biểu ý kiến mang tính xây dựng và tôn trọng sự điều hành của thầy cô",
+      "Im lặng tuyệt đối vì việc lớn là của ban giám hiệu quyết định",
+      "Đưa ra các yêu sách vô lý, kích động các bạn bỏ học để phản đối",
+      "Chỉ đồng ý với ý kiến của các bạn thân thiết với mình"
+    ],
+    "answer": "Mạnh dạn phát biểu ý kiến mang tính xây dựng và tôn trọng sự điều hành của thầy cô",
+    "explanation": "Đóng góp ý kiến ôn hòa, khoa học thể hiện năng lực làm chủ học đường phù hợp với quyền tham gia của học sinh."
+  },
+  {
+    "question": "Trong bối cảnh nền kinh tế đối mặt với lạm phát phi mã do giá nguyên liệu nhập khẩu tăng cao, Chính phủ phối hợp cùng Ngân hàng Trung ương thực hiện tổng hòa giải pháp nào tối ưu?",
+    "options": [
+      "Thắt chặt tiền tệ, giảm chi tiêu công kết hợp kiểm soát giá các mặt hàng chiến lược và hỗ trợ thuế",
+      "In thêm một lượng lớn tiền mặt đưa vào lưu thông để hỗ trợ người dân",
+      "Đóng cửa biên giới cấm hoàn toàn hoạt động xuất nhập khẩu hàng hóa",
+      "Ấn định giá trần tối đa cho toàn bộ mọi hàng hóa dịch vụ tư nhân"
+    ],
+    "answer": "Thắt chặt tiền tệ, giảm chi tiêu công kết hợp kiểm soát giá các mặt hàng chiến lược và hỗ trợ thuế",
+    "explanation": "Kiềm chế lạm phát chi phí đẩy cần giảm lượng tiền lưu thông, giảm cầu tổng thể đồng thời hạ nhiệt giá đầu vào bằng công cụ tài khóa."
+  },
+  {
+    "question": "Doanh nghiệp dệt may X đứng trước nguy cơ phá sản do mất đơn hàng xuất khẩu từ thị trường truyền thống châu Âu. Ban quản trị cần đưa ra quyết định tái cấu trúc chiến lược nào mang tính đột phá?",
+    "options": [
+      "Đa dạng hóa sản phẩm, số hóa quy trình quản lý, chuyển hướng khai thác thị trường nội địa và các nước thuộc hiệp định thương mại tự do mới",
+      "Cắt giảm toàn bộ chi phí tiền lương công nhân xuống dưới mức tối thiểu vùng để bù lỗ",
+      "Tiếp tục sản xuất số lượng lớn hàng cũ tích kho chờ thị trường tự phục hồi trở lại",
+      "Gửi đơn cầu cứu yêu cầu nhà nước cấp kinh phí bao cấp vô điều kiện hằng tháng"
+    ],
+    "answer": "Đa dạng hóa sản phẩm, số hóa quy trình quản lý, chuyển hướng khai thác thị trường nội địa và các nước thuộc hiệp định thương mại tự do mới",
+    "explanation": "Khủng hoảng thị trường buộc doanh nghiệp phải linh hoạt chuỗi cung ứng, tinh gọn bộ máy và chuyển dịch phân khúc để tự cứu mình."
+  },
+  {
+    "question": "Để giải quyết căn bản bài toán 'được mùa mất giá' của nông sản vùng đồng bằng sông Cửu Long, cơ quan quản lý vĩ mô cùng các địa phương cần triển khai đồng bộ chuỗi giải pháp nào?",
+    "options": [
+      "Xây dựng quy hoạch vùng trồng gắn với công nghiệp chế biến sâu, hoàn thiện chuỗi logistics và xúc tiến thương mại chính ngạch",
+      "Yêu cầu nông dân lập tức chặt bỏ toàn bộ cây trồng cũ để chuyển sang trồng cây công nghiệp",
+      "Bắt buộc các siêu thị trong nước phải thu mua nông sản với giá cao hơn giá thị trường 3 lần",
+      "Cấp ngân sách mua lại toàn bộ nông sản tươi của người dân đem đi tiêu hủy để giữ giá"
+    ],
+    "answer": "Xây dựng quy hoạch vùng trồng gắn với công nghiệp chế biến sâu, hoàn thiện chuỗi logistics và xúc tiến thương mại chính ngạch",
+    "explanation": "Giải quyết tận gốc thừa cung nông sản thô cần nâng cao giá trị gia tăng qua chế biến, bảo quản tốt và kết nối đầu ra chính thống ổn định."
+  },
+  {
+    "question": "Sinh viên tốt nghiệp đại học ngành công nghệ thông tin tên T quyết định từ bỏ cơ hội làm thuê lương cao để cùng nhóm bạn khởi nghiệp phát triển ứng dụng nông nghiệp thông minh. Quyết định của T thể hiện tư duy đột phá nào?",
+    "options": [
+      "Khả năng tạo lập mô hình kinh tế mới sáng tạo, gắn liền khoa học công nghệ với nhu cầu thực tiễn xã hội",
+      "Sự bồng bột mạo hiểm không tính toán kỹ rủi ro tài chính cá nhân",
+      "Hành vi lãng phí chất xám và nguồn lực đào tạo của gia đình",
+      "Tư tưởng muốn làm chủ để không phải tuân thủ kỷ luật lao động"
+    ],
+    "answer": "Khả năng tạo lập mô hình kinh tế mới sáng tạo, gắn liền khoa học công nghệ với nhu cầu thực tiễn xã hội",
+    "explanation": "Khởi nghiệp công nghệ trong nông nghiệp là sự kết hợp trình độ cao, tạo ra chuỗi giá trị mới đáp ứng hiện đại hóa đất nước."
+  },
+  {
+    "question": "Một người dùng thẻ tín dụng ngân hàng chi tiêu quá hạn mức, không thể hoàn trả nợ gốc và lãi đúng hạn suốt 6 tháng, dẫn đến bị nhóm nợ xấu nhóm 5 (nợ có khả năng mất vốn) trên hệ thống CIC. Hậu quả sâu rộng nhất của việc này là gì?",
+    "options": [
+      "Bị mất hoàn toàn uy tín tín dụng cá nhân, không thể tiếp cận bất kỳ nguồn vốn vay hợp pháp nào từ các tổ chức tài chính trong tương lai gần",
+      "Chỉ bị ngân hàng nhắc nhở qua điện thoại và không ảnh hưởng gì khác",
+      "Bị cơ quan công an tịch thu toàn bộ tài sản hiện có ngay lập tức",
+      "Được ngân hàng tự động xóa nợ hoàn toàn coi như khoản chi khuyến mãi"
+    ],
+    "answer": "Bị mất hoàn toàn uy tín tín dụng cá nhân, không thể tiếp cận bất kỳ nguồn vốn vay hợp pháp nào từ các tổ chức tài chính trong tương lai gần",
+    "explanation": "Lịch sử tín dụng xấu nhóm 5 lưu vết trên trung tâm thông tin tín dụng quốc gia khiến mọi tổ chức tài chính từ chối cấp tín dụng mới."
+  },
+  {
+    "question": "Phát hiện Chủ tịch Ủy ban nhân dân xã có dấu hiệu sai phạm, cố ý làm trái quy định về quản lý đất đai gây thất thoát đất công ích của địa phương, người dân cần thực hiện quy trình giám sát và đấu tranh nào đúng pháp luật?",
+    "options": [
+      "Thu thập chứng cứ xác thực, gửi đơn khiếu nại/tố cáo đến Ủy ban nhân dân cấp huyện hoặc Cơ quan Thanh tra nhà nước cấp huyện",
+      "Tổ chức tuần hành, căng băng rôn chặn lối vào trụ sở xã nhằm đình trệ hoạt động chính quyền",
+      "Đăng tải bài viết giật gân, xúc phạm gia đình vị Chủ tịch đó lên các hội nhóm mạng xã hội",
+      "Im lặng lập nhóm riêng tự ý chia nhau phần đất công ích còn lại để bù đắp thiệt hại"
+    ],
+    "answer": "Thu thập chứng cứ xác thực, gửi đơn khiếu nại/tố cáo đến Ủy ban nhân dân cấp huyện hoặc Cơ quan Thanh tra nhà nước cấp huyện",
+    "explanation": "Đấu tranh chống tiêu cực phải tuân thủ trình tự Luật Tố cáo, sử dụng định chế thanh tra, tư pháp cấp trên quản lý trực tiếp địa phương."
+  },
+  {
+    "question": "Anh H muốn xây dựng một kế hoạch tài chính cá nhân hướng tới mục tiêu độc lập tài chính và nghỉ hưu sớm trước tuổi 45. Anh cần thực hiện kỷ luật tài chính nghiêm ngặt theo công thức cốt lõi nào?",
+    "options": [
+      "Gia tăng tối đa nguồn thu nhập, tối giản chi tiêu thiết yếu, duy trì tỷ lệ tiết kiệm đầu tư trên 50% thu nhập vào các kênh tài sản an toàn bền vững",
+      "Chấp nhận vay nợ lớn để đầu tư vào các mã chứng khoán mạo hiểm hoặc tiền ảo với mong muốn giàu nhanh",
+      "Nghỉ việc ngay lập tức để tiết kiệm chi phí đi lại và sống dựa vào tiền hỗ trợ của bố mẹ",
+      "Chỉ chi tiêu cho sở thích cá nhân, không cần mua bảo hiểm hay lập quỹ dự phòng y tế"
+    ],
+    "answer": "Gia tăng tối đa nguồn thu nhập, tối giản chi tiêu thiết yếu, duy trì tỷ lệ tiết kiệm đầu tư trên 50% thu nhập vào các kênh tài sản an toàn bền vững",
+    "explanation": "Độc lập tài chính sớm đòi hỏi tối ưu dòng tiền thặng dư lớn để đầu tư tích lũy tài sản sinh dòng tiền thụ động thay thế lương."
+  },
+  {
+    "question": "Để giảm thiểu tác động phân hóa giàu nghèo và bảo đảm công bằng xã hội trong nền kinh tế thị trường định hướng xã hội chủ nghĩa, giải pháp tài khóa mang tính căn cơ của nhà nước là gì?",
+    "options": [
+      "Hoàn thiện hệ thống thuế thu nhập lũy tiến điều tiết bớt thu nhập cao, đồng thời mở rộng chi an sinh xã hội nâng cao năng lực cho người nghèo",
+      "Tịch thu toàn bộ tài sản của tầng lớp thượng lưu để phân phát đều cho người dân",
+      "Tuyên bố miễn toàn bộ các loại thuế cho tất cả các doanh nghiệp và cá nhân trong nước",
+      "Ấn định mức thu nhập bằng nhau tuyệt đối cho mọi ngành nghề vị trí trong xã hội"
+    ],
+    "answer": "Hoàn thiện hệ thống thuế thu nhập lũy tiến điều tiết bớt thu nhập cao, đồng thời mở rộng chi an sinh xã hội nâng cao năng lực cho người nghèo",
+    "explanation": "Điều tiết thu nhập qua thuế lũy tiến kết hợp chi công cho giáo dục, y tế là giải pháp phân phối lại khoa học giúp thu hẹp khoảng cách giàu nghèo."
+  },
+  {
+    "question": "Khi tham gia các hiệp định thương mại tự do thế hệ mới (như CPTPP, EVFTA), các doanh nghiệp Việt Nam đối mặt với thách thức khốc liệt nào về mặt pháp lý và tiêu chuẩn kỹ thuật?",
+    "options": [
+      "Các hàng rào kỹ thuật khắt khe về môi trường, lao động, xuất xứ hàng hóa và sở hữu trí tuệ từ các nước nhập khẩu",
+      "Việc các nước đối tác cấm hoàn toàn hàng hóa Việt Nam bước vào thị trường của họ",
+      "Yêu cầu bắt buộc doanh nghiệp Việt Nam phải đổi tên thương hiệu theo ngôn ngữ nước sở tại",
+      "Phải nộp toàn bộ doanh thu bán hàng cho ban quản lý hiệp định quốc tế"
+    ],
+    "answer": "Các hàng rào kỹ thuật khắt khe về môi trường, lao động, xuất xứ hàng hóa và sở hữu trí tuệ từ các nước nhập khẩu",
+    "explanation": "FTA thế hệ mới cắt giảm thuế quan nhưng nâng cao tiêu chuẩn phi thuế quan buộc doanh nghiệp phải minh bạch hóa chuỗi sản xuất chuẩn quốc tế."
+  },
+  {
+    "question": "Trước hiện tượng tin giả, thông tin sai sự thật lan truyền phức tạp trên không gian mạng gây hoang mang dư luận xã hội, mỗi công dân cần xây dựng năng lực cốt lõi nào để bảo vệ bản thân và cộng đồng?",
+    "options": [
+      "Tư duy phản biện, kỹ năng kiểm chứng thông tin từ nguồn chính thống, không chia sẻ tin chưa rõ thực hư và tuân thủ Luật An ninh mạng",
+      "Ngừng sử dụng hoàn toàn mạng internet và tất cả các thiết bị điện tử thông minh",
+      "Tin tưởng tuyệt đối vào mọi thông tin có nhiều lượt thích và bình luận trên mạng",
+      "Tự lập tài khoản ẩn danh để tranh cãi quyết liệt với tất cả các tài khoản tung tin giả"
+    ],
+    "answer": "Tư duy phản biện, kỹ năng kiểm chứng thông tin từ nguồn chính thống, không chia sẻ tin chưa rõ thực hư và tuân thủ Luật An ninh mạng",
+    "explanation": "Năng lực số và trách nhiệm công dân đòi hỏi sự tỉnh táo lọc thông tin, sử dụng cổng thông tin chính thống để đối chiếu trước khi tiếp nhận."
+  }
+]

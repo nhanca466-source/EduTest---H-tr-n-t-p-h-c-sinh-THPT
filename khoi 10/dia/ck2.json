@@ -1,0 +1,555 @@
+[
+  {
+    "question": "Thành phần nào sau đây thuộc nhóm dân số hoạt động kinh tế?",
+    "options": [
+      "Những người đang có việc làm ổn định",
+      "Những người nội trợ trong gia đình",
+      "Học sinh và sinh viên đang đi học",
+      "Người mất khả năng lao động vĩnh viễn"
+    ],
+    "answer": "Những người đang có việc làm ổn định",
+    "explanation": "Theo SGK Địa lí 10, dân số hoạt động kinh tế bao gồm những người đang có việc làm hoặc có nhu cầu lao động nhưng đang tìm việc."
+  },
+  {
+    "question": "Cơ cấu dân số theo tuổi thể hiện điều nào sau đây?",
+    "options": [
+      "Sự phân chia dân số theo các nhóm tuổi",
+      "Tỉ lệ giữa số nam và số nữ trong dân số",
+      "Trình độ học vấn trung bình của người dân",
+      "Sự phân bố dân cư giữa nông thôn và thành thị"
+    ],
+    "answer": "Sự phân chia dân số theo các nhóm tuổi",
+    "explanation": "Cơ cấu dân số theo tuổi là sự tập hợp các nhóm tuổi lại với nhau, thường chia thành ba nhóm: dưới tuổi lao động, trong tuổi lao động và trên tuổi lao động."
+  },
+  {
+    "question": "Hiện tượng đô thị hóa là quá trình mang đặc điểm nào sau đây?",
+    "options": [
+      "Sự tăng nhanh số lượng và quy mô các thành phố",
+      "Sự gia tăng tỉ lệ dân số sống ở nông thôn",
+      "Sự thu hẹp không gian của các vùng đô thị",
+      "Sự giảm sút vai trò của ngành công nghiệp"
+    ],
+    "answer": "Sự tăng nhanh số lượng và quy mô các thành phố",
+    "explanation": "Đô thị hóa là quá trình kinh tế xã hội, biểu hiện là sự tăng số lượng, quy mô điểm dân cư đô thị và tỉ lệ dân thành thị."
+  },
+  {
+    "question": "Nguồn lực nào sau đây được xếp vào nhóm nguồn lực tự nhiên?",
+    "options": [
+      "Khoáng sản và khí hậu",
+      "Lao động và nguồn vốn",
+      "Đường lối và chính sách",
+      "Thị trường và công nghệ"
+    ],
+    "answer": "Khoáng sản và khí hậu",
+    "explanation": "Nguồn lực tự nhiên bao gồm đất, khí hậu, nước, khoáng sản, sinh vật phục vụ cho sản xuất."
+  },
+  {
+    "question": "Cơ cấu ngành kinh tế của một quốc gia bao gồm các bộ phận nào?",
+    "options": [
+      "Nông lâm thủy sản, công nghiệp xây dựng và dịch vụ",
+      "Kinh tế nhà nước và kinh tế tư nhân",
+      "Kinh tế trong nước và kinh tế nước ngoài",
+      "Kinh tế trung ương và kinh tế địa phương"
+    ],
+    "answer": "Nông lâm thủy sản, công nghiệp xây dựng và dịch vụ",
+    "explanation": "Cơ cấu ngành kinh tế là tập hợp tất cả các ngành phân chia thành 3 khu vực: khu vực một, khu vực hai và khu vực ba."
+  },
+  {
+    "question": "Đặc điểm nào sau đây là đặc điểm quan trọng nhất của sản xuất nông nghiệp?",
+    "options": [
+      "Đất trồng là tư liệu sản xuất chủ yếu",
+      "Hoàn toàn không phụ thuộc vào tự nhiên",
+      "Chỉ tập trung sản xuất ở vùng thành thị",
+      "Máy móc thay thế được toàn bộ cây trồng"
+    ],
+    "answer": "Đất trồng là tư liệu sản xuất chủ yếu",
+    "explanation": "Trong nông nghiệp, đất trồng là tư liệu sản xuất chủ yếu và không thể thay thế, sinh vật là đối tượng sản xuất."
+  },
+  {
+    "question": "Cây lương thực nào sau đây ưa khí hậu nóng ẩm, đất phù sa và cần nhiều nước?",
+    "options": [
+      "Lúa gạo",
+      "Lúa mì",
+      "Ngô",
+      "Lúa mạch"
+    ],
+    "answer": "Lúa gạo",
+    "explanation": "Lúa gạo là cây lương thực miền nhiệt đới, đòi hỏi điều kiện nhiệt độ cao, độ ẩm lớn và đất phù sa ngập nước."
+  },
+  {
+    "question": "Ngành lâm nghiệp bao gồm các hoạt động chủ yếu nào?",
+    "options": [
+      "Trồng rừng, bảo vệ rừng và khai thác gỗ",
+      "Nuôi trồng và đánh bắt thủy hải sản",
+      "Chăn nuôi gia súc lớn và gia cầm",
+      "Chế biến lương thực và thực phẩm"
+    ],
+    "answer": "Trồng rừng, bảo vệ rừng và khai thác gỗ",
+    "explanation": "Lâm nghiệp gồm hai hoạt động cơ bản là quản lý, bảo vệ, trồng rừng và khai thác, chế biến lâm sản."
+  },
+  {
+    "question": "Ngành thủy sản được chia thành hai nhóm hoạt động chính là gì?",
+    "options": [
+      "Nuôi trồng thủy sản và khai thác thủy sản",
+      "Đánh bắt gần bờ và chế biến nước mắm",
+      "Nuôi cá nước ngọt và xuất khẩu tôm đông lạnh",
+      "Khai thác ngọc trai và làm muối ven biển"
+    ],
+    "answer": "Nuôi trồng thủy sản và khai thác thủy sản",
+    "explanation": "Ngành thủy sản bao gồm hoạt động khai thác (đánh bắt) và hoạt động nuôi trồng các loài thủy hải sản."
+  },
+  {
+    "question": "Đặc điểm sản xuất nào sau đây phân biệt rõ rệt ngành công nghiệp với nông nghiệp?",
+    "options": [
+      "Có tính chất tập trung cao độ và bao gồm nhiều giai đoạn",
+      "Phụ thuộc hoàn toàn vào điều kiện thời tiết",
+      "Đối tượng sản xuất là các cơ thể sống",
+      "Sản xuất mang tính thời vụ rất cao"
+    ],
+    "answer": "Có tính chất tập trung cao độ và bao gồm nhiều giai đoạn",
+    "explanation": "Sản xuất công nghiệp có tính chất tập trung cao độ về tư liệu, lao động và quy trình gồm nhiều giai đoạn công nghệ nối tiếp."
+  },
+  {
+    "question": "Ngành công nghiệp nào sau đây được coi là tiền đề của tiến bộ khoa học kỹ thuật?",
+    "options": [
+      "Công nghiệp năng lượng",
+      "Công nghiệp dệt may",
+      "Công nghiệp thực phẩm",
+      "Công nghiệp sản xuất hàng tiêu dùng"
+    ],
+    "answer": "Công nghiệp năng lượng",
+    "explanation": "Năng lượng (điện, dầu khí) là ngành cơ bản, đi trước một bước và là động lực của toàn bộ nền kinh tế và khoa học."
+  },
+  {
+    "question": "Ngành công nghiệp điện tử tin học có đặc điểm nổi bật nào?",
+    "options": [
+      "Yêu cầu cao về trình độ công nghệ và lao động kỹ thuật",
+      "Tiêu thụ lượng kim loại và nguyên liệu thô rất lớn",
+      "Gây ô nhiễm môi trường nặng nề nhất",
+      "Chỉ phân bố ở những vùng nông thôn nghèo"
+    ],
+    "answer": "Yêu cầu cao về trình độ công nghệ và lao động kỹ thuật",
+    "explanation": "Công nghiệp điện tử tin học là ngành công nghệ cao, ít tốn nguyên liệu nhưng đòi hỏi chất lượng lao động cực cao."
+  },
+  {
+    "question": "Sản phẩm của ngành dịch vụ có đặc điểm nào sau đây?",
+    "options": [
+      "Phần lớn là các sản phẩm phi vật thể",
+      "Có hình dáng và kích thước rõ ràng",
+      "Có thể lưu kho và bảo quản lâu dài",
+      "Chỉ tiêu dùng sau khi sản xuất nhiều năm"
+    ],
+    "answer": "Phần lớn là các sản phẩm phi vật thể",
+    "explanation": "Sản phẩm dịch vụ thường không có hình thái vật chất cụ thể (phi vật thể), quá trình sản xuất và tiêu dùng diễn ra đồng thời."
+  },
+  {
+    "question": "Ngành giao thông vận tải có vai trò chủ yếu nào sau đây?",
+    "options": [
+      "Vận chuyển hàng hóa và hành khách giữa các vùng",
+      "Trực tiếp làm thay đổi cấu trúc của gen cây trồng",
+      "Sản xuất ra các loại máy móc cơ khí cỡ lớn",
+      "Cung cấp phân bón hóa học cho nông nghiệp"
+    ],
+    "answer": "Vận chuyển hàng hóa và hành khách giữa các vùng",
+    "explanation": "Giao thông vận tải làm nhiệm vụ vận chuyển, giúp kết nối cung cầu, phục vụ nhu cầu đi lại và giao thương sản xuất."
+  },
+  {
+    "question": "Kênh đào Xu-ê nối liền hai biển và đại dương nào sau đây?",
+    "options": [
+      "Địa Trung Hải và Biển Đỏ",
+      "Đại Tây Dương và Thái Bình Dương",
+      "Biển Bắc và Biển Baltic",
+      "Ấn Độ Dương và Thái Bình Dương"
+    ],
+    "answer": "Địa Trung Hải và Biển Đỏ",
+    "explanation": "Kênh đào Xu-ê cắt ngang eo đất Xu-ê của Ai Cập, thông từ Địa Trung Hải sang Biển Đỏ, rút ngắn đường biển từ châu Âu sang châu Á."
+  },
+  {
+    "question": "Thị trường được hiểu một cách cơ bản là gì?",
+    "options": [
+      "Nơi diễn ra các hoạt động mua bán và trao đổi",
+      "Nơi chỉ diễn ra hoạt động sản xuất chế biến",
+      "Nơi lưu trữ tất cả các bí mật công nghệ",
+      "Nơi quản lý hộ khẩu của người dân thành thị"
+    ],
+    "answer": "Nơi diễn ra các hoạt động mua bán và trao đổi",
+    "explanation": "Thị trường là nơi diễn ra các quan hệ mua bán, trao đổi hàng hóa và dịch vụ giữa người mua và người bán."
+  },
+  {
+    "question": "Hoạt động nội thương là hoạt động thương mại diễn ra ở phạm vi nào?",
+    "options": [
+      "Trong phạm vi một quốc gia",
+      "Giữa hai quốc gia khác nhau",
+      "Giữa các khối kinh tế thế giới",
+      "Trên phạm vi toàn cầu"
+    ],
+    "answer": "Trong phạm vi một quốc gia",
+    "explanation": "Nội thương là việc trao đổi hàng hóa, dịch vụ diễn ra trong ranh giới lãnh thổ của một đất nước."
+  },
+  {
+    "question": "Tài nguyên thiên nhiên nào sau đây thuộc nhóm tài nguyên có thể bị hao kiệt và không thể phục hồi?",
+    "options": [
+      "Khoáng sản",
+      "Năng lượng mặt trời",
+      "Sức gió",
+      "Nước sông"
+    ],
+    "answer": "Khoáng sản",
+    "explanation": "Khoáng sản mất hàng triệu năm để hình thành, khi con người khai thác hết thì không thể tự tái tạo lại trong thời gian ngắn."
+  },
+  {
+    "question": "Phát triển bền vững là sự phát triển nhằm đáp ứng nhu cầu của thế hệ hiện tại mà không làm tổn hại đến yếu tố nào?",
+    "options": [
+      "Khả năng đáp ứng nhu cầu của các thế hệ tương lai",
+      "Tốc độ tăng trưởng của ngành khai khoáng",
+      "Sự phát triển của các vũ khí công nghệ cao",
+      "Quy mô dân số của các nước phát triển"
+    ],
+    "answer": "Khả năng đáp ứng nhu cầu của các thế hệ tương lai",
+    "explanation": "Định nghĩa chuẩn của phát triển bền vững là phát triển kinh tế xã hội đi đôi với bảo vệ môi trường, bảo toàn nguồn lực cho tương lai."
+  },
+  {
+    "question": "Môi trường nhân tạo bao gồm các yếu tố nào do con người tạo ra?",
+    "options": [
+      "Các thành phố, nhà máy, đường giao thông",
+      "Các dòng sông, biển, đại dương tự nhiên",
+      "Các loài động thực vật hoang dã trong rừng",
+      "Các tầng khí quyển bao quanh Trái Đất"
+    ],
+    "answer": "Các thành phố, nhà máy, đường giao thông",
+    "explanation": "Môi trường nhân tạo gồm các kết quả lao động của con người, tồn tại hoàn toàn phụ thuộc vào sự chăm sóc của con người."
+  },
+  {
+    "question": "Tại sao các nước đang phát triển thường có tỉ lệ gia tăng dân số cơ học thấp hoặc âm?",
+    "options": [
+      "Do có dòng người xuất cư sang các nước phát triển để tìm việc làm",
+      "Do tỉ lệ sinh ở các nước này giảm mạnh xuống mức tối thiểu",
+      "Do chính sách cấm người nước ngoài nhập cảnh cư trú",
+      "Do điều kiện sống quá cao thu hút dòng người giàu"
+    ],
+    "answer": "Do có dòng người xuất cư sang các nước phát triển để tìm việc làm",
+    "explanation": "Gia tăng cơ học phụ thuộc vào xuất cư và nhập cư. Nước đang phát triển có xu hướng xuất khẩu lao động sang nước phát triển nên gia tăng cơ học thường âm."
+  },
+  {
+    "question": "Cơ cấu dân số theo giới mang ý nghĩa chiến lược nào sau đây đối với một quốc gia?",
+    "options": [
+      "Ảnh hưởng đến việc tổ chức đời sống và hoạch định chính sách phát triển lao động",
+      "Quyết định tổng diện tích đất nông nghiệp của quốc gia đó",
+      "Quy định hướng chảy của các con sông lớn vùng biên giới",
+      "Là nhân tố duy nhất làm thay đổi khí hậu toàn cầu"
+    ],
+    "answer": "Ảnh hưởng đến việc tổ chức đời sống và hoạch định chính sách phát triển lao động",
+    "explanation": "Biết rõ tỉ lệ nam, nữ giúp nhà nước bố trí việc làm, quy hoạch các ngành nghề phù hợp với đặc điểm sinh lí, xã hội của mỗi giới."
+  },
+  {
+    "question": "Tại sao đô thị hóa tự phát (đô thị hóa vượt quá tầm kiểm soát) lại gây áp lực lớn cho các thành phố?",
+    "options": [
+      "Gây ra tình trạng thiếu việc làm, quá tải hạ tầng và ô nhiễm môi trường",
+      "Làm giảm sút nhanh chóng diện tích các sa mạc",
+      "Khiến giá cả hàng hóa giảm sâu do quá nhiều người mua",
+      "Làm cho nguồn nước sông tự động sạch hơn bình thường"
+    ],
+    "answer": "Gây ra tình trạng thiếu việc làm, quá tải hạ tầng và ô nhiễm môi trường",
+    "explanation": "Dân số nông thôn đổ ra thành thị quá nhanh vượt khả năng đáp ứng của bệnh viện, trường học, nhà ở và kinh tế đô thị gây tệ nạn và ô nhiễm."
+  },
+  {
+    "question": "Yếu tố nào đóng vai trò quyết định đến xu hướng phát triển và sự dịch chuyển cơ cấu ngành kinh tế?",
+    "options": [
+      "Sự phát triển của lực lượng sản xuất và khoa học công nghệ",
+      "Sự thay đổi độ nghiêng trục quay của Trái Đất",
+      "Tổng số lượng các hang động tự nhiên trong khu vực",
+      "Độ mặn trung bình của nước ở các đại dương lớn"
+    ],
+    "answer": "Sự phát triển của lực lượng sản xuất và khoa học công nghệ",
+    "explanation": "Khoa học công nghệ giúp tạo ra ngành mới, tăng năng suất, giảm tỉ trọng khu vực nông nghiệp và tăng nhanh khu vực dịch vụ, công nghiệp."
+  },
+  {
+    "question": "Tại sao ngành chăn nuôi ở các nước phát triển thường chiếm tỉ trọng cao hơn ngành trồng trọt?",
+    "options": [
+      "Do trình độ sản xuất cao, áp dụng công nghiệp và nhu cầu tiêu dùng lớn",
+      "Do các nước này hoàn toàn không có đất để trồng trọt",
+      "Do người dân các nước phát triển không ăn thực vật",
+      "Do khí hậu các nước này không cho phép cây cỏ phát triển"
+    ],
+    "answer": "Do trình độ sản xuất cao, áp dụng công nghiệp và nhu cầu tiêu dùng lớn",
+    "explanation": "Các nước phát triển có nền nông nghiệp hiện đại, chăn nuôi theo lối công nghiệp, kết hợp mức sống cao nên nhu cầu thịt sữa lớn."
+  },
+  {
+    "question": "Nhân tố tự nhiên nào quyết định đến sự phân bố và tính mùa vụ của sản xuất nông nghiệp?",
+    "options": [
+      "Khí hậu và nguồn nước",
+      "Khoáng sản lòng đất",
+      "Địa hình núi cao",
+      "Đá mẹ vùng thềm lục địa"
+    ],
+    "answer": "Khí hậu và nguồn nước",
+    "explanation": "Khí hậu (nhiệt độ, ánh sáng, mưa) quy định loại cây trồng, vật nuôi thích hợp và thời gian sinh trưởng tạo nên tính mùa vụ."
+  },
+  {
+    "question": "Tại sao các nhà máy thủy điện lớn thường được xây dựng ở vùng trung du và miền núi?",
+    "options": [
+      "Vì địa hình dốc tạo ra độ chênh lệch dòng nước lớn, sông có trữ năng thủy điện cao",
+      "Vì vùng núi có mật độ dân cư đông đúc tiêu thụ điện nhiều",
+      "Vì đây là nơi duy nhất có các mỏ sắt để làm tuabin",
+      "Vì vùng đồng bằng không bao giờ có mưa để tích nước"
+    ],
+    "answer": "Vì địa hình dốc tạo ra độ chênh lệch dòng nước lớn, sông có trữ năng thủy điện cao",
+    "explanation": "Trữ năng thủy điện phụ thuộc vào lưu lượng nước và độ dốc lòng sông. Vùng núi dốc giúp tạo ra sức nước mạnh để quay tuabin điện."
+  },
+  {
+    "question": "Các ngành công nghiệp dệt may, giày dép, chế biến thực phẩm thường phân bố ở những nơi có đặc điểm nào?",
+    "options": [
+      "Có nguồn lao động dồi dào và thị trường tiêu thụ rộng lớn",
+      "Gần các mỏ khoáng sản kim loại màu quy mô lớn",
+      "Nằm sâu trong các hang động để bảo quản sản phẩm",
+      "Nơi có nguồn năng lượng gió mạnh quanh năm"
+    ],
+    "answer": "Có nguồn lao động dồi dào và thị trường tiêu thụ rộng lớn",
+    "explanation": "Các ngành này sử dụng rất nhiều lao động thủ công và sản xuất hàng tiêu dùng trực tiếp cho người dân nên cần gần nguồn lao động và thị trường."
+  },
+  {
+    "question": "Sự phân bố của các trung tâm dịch vụ lớn trên thế giới phụ thuộc chặt chẽ vào yếu tố nào?",
+    "options": [
+      "Quy mô dân số, trình độ phát triển kinh tế và mạng lưới đô thị",
+      "Tổng diện tích rừng ngập mặn ven biển của quốc gia",
+      "Trữ lượng dầu mỏ còn lại dưới lòng thềm lục địa",
+      "Sự xuất hiện của các dòng biển lạnh ngoài khơi"
+    ],
+    "answer": "Quy mô dân số, trình độ phát triển kinh tế và mạng lưới đô thị",
+    "explanation": "Dịch vụ phục vụ con người và sản xuất. Nơi đông dân, kinh tế phát triển và đô thị lớn sẽ phát sinh nhu cầu dịch vụ đa dạng, cao cấp."
+  },
+  {
+    "question": "Ưu điểm nổi bật nhất của ngành vận tải đường sắt so với vận tải đường ô tô là gì?",
+    "options": [
+      "Khả năng vận chuyển hàng nặng đi đường xa với giá rẻ và tốc độ ổn định",
+      "Sự cơ động, dễ dàng len lỏi vào các ngõ ngách",
+      "Không cần xây dựng hệ thống đường ray chuyên dụng",
+      "Vận tốc di chuyển nhanh nhất trong tất cả các ngành"
+    ],
+    "answer": "Khả năng vận chuyển hàng nặng đi đường xa với giá rẻ và tốc độ ổn định",
+    "explanation": "Đường sắt vận chuyển tải trọng lớn trên quãng đường dài, chạy trên ray riêng nên ít bị ảnh hưởng bởi thời tiết và kẹt xe."
+  },
+  {
+    "question": "Tại sao ngành vận tải đường biển chiếm tỉ trọng lớn nhất trong khối lượng luân chuyển hàng hóa quốc tế?",
+    "options": [
+      "Do năng lực vận tải cực lớn, giá thành rẻ trên các tuyến đường xa liên lục địa",
+      "Do tốc độ di chuyển của tàu biển nhanh hơn máy bay",
+      "Do mạng lưới đường biển có thể tự động thay đổi theo ý muốn",
+      "Do đường biển không chịu bất kỳ tác động nào của thiên tai"
+    ],
+    "answer": "Do năng lực vận tải cực lớn, giá thành rẻ trên các tuyến đường xa liên lục địa",
+    "explanation": "Tàu biển chở được hàng vạn tấn, đi qua các đại dương nối liền các đại lục với chi phí thấp hơn nhiều so với các loại hình khác."
+  },
+  {
+    "question": "Tình trạng nhập siêu của một quốc gia xảy ra khi có điều kiện nào sau đây?",
+    "options": [
+      "Giá trị hàng hóa nhập khẩu lớn hơn giá trị hàng hóa xuất khẩu",
+      "Tổng thu ngân sách nhà nước lớn hơn chi ngân sách",
+      "Quốc gia đó không thực hiện bất kỳ giao dịch mua bán nào",
+      "Giá trị xuất khẩu vượt trội so với nhập khẩu"
+    ],
+    "answer": "Giá trị hàng hóa nhập khẩu lớn hơn giá trị hàng hóa xuất khẩu",
+    "explanation": "Cán cân thương mại âm (nhập siêu) khi số tiền chi ra để mua hàng nước ngoài (nhập khẩu) lớn hơn số tiền thu về từ bán hàng (xuất khẩu)."
+  },
+  {
+    "question": "Việc ký kết các hiệp định thương mại tự do (FTA) nhằm mục đích chủ yếu nào?",
+    "options": [
+      "Giảm thuế quan, rào cản và thúc đẩy giao thương giữa các nước",
+      "Cấm hoàn toàn việc lưu thông hàng hóa qua biên giới",
+      "Tăng cường thu phí bảo hộ của các doanh nghiệp nhà nước",
+      "Độc quyền hóa toàn bộ các mặt hàng nông sản toàn cầu"
+    ],
+    "answer": "Giảm thuế quan, rào cản và thúc đẩy giao thương giữa các nước",
+    "explanation": "Các hiệp định tự do thương mại tạo không gian kinh tế mở, giảm thuế để các quốc gia thành viên dễ dàng xuất nhập khẩu hàng hóa của nhau."
+  },
+  {
+    "question": "Sự phân biệt giữa môi trường tự nhiên và môi trường nhân tạo dựa vào tiêu chí nào?",
+    "options": [
+      "Nguồn gốc hình thành và sự xuất hiện tác động của con người",
+      "Độ dày của lớp vật chất hữu cơ bề mặt",
+      "Thời gian tồn tại của các hạt phân tử khí",
+      "Khả năng hấp thụ tia cực tím từ mặt trời"
+    ],
+    "answer": "Nguồn gốc hình thành và sự xuất hiện tác động của con người",
+    "explanation": "Môi trường tự nhiên xuất hiện tự động không phụ thuộc con người; môi trường nhân tạo do con người tạo ra, nếu không có con người sẽ bị hủy hoại."
+  },
+  {
+    "question": "Biện pháp nào sau đây giúp hạn chế tình trạng cạn kiệt tài nguyên thiên nhiên tái sinh?",
+    "options": [
+      "Khai thác hợp lý đi đôi với bảo vệ, phục hồi và tái tạo",
+      "Khai thác triệt để trong thời gian ngắn nhất có thể",
+      "Thay thế toàn bộ bằng các tài nguyên không tái sinh",
+      "Cấm hoàn toàn việc sử dụng tài nguyên trong đời sống"
+    ],
+    "answer": "Khai thác hợp lý đi đôi với bảo vệ, phục hồi và tái tạo",
+    "explanation": "Tài nguyên tái sinh (như rừng, nước, đất) có thể tự phục hồi nếu con người sử dụng ở mức độ vừa phải và có kế hoạch chăm sóc nuôi dưỡng."
+  },
+  {
+    "question": "Cho bảng số liệu về dân số một thành phố: Số dân năm 2020 là 1 triệu người. Số dân năm 2025 là 1.1 triệu người. Tốc độ tăng trưởng dân số giai đoạn này là bao nhiêu phần trăm?",
+    "options": [
+      "10 phần trăm",
+      "11 phần trăm",
+      "1 phần trăm",
+      "20 phần trăm"
+    ],
+    "answer": "10 phần trăm",
+    "explanation": "Cách tính tốc độ tăng trưởng: Lấy số dân năm 2025 chia cho số dân năm 2020 rồi nhân với 100, sau đó trừ đi 100. Cụ thể: (1.1 chia 1.0) nhân 100 trừ 100 bằng 10 phần trăm."
+  },
+  {
+    "question": "Một quốc gia có diện tích là 100 nghìn km2, tổng số dân là 20 triệu người. Mật độ dân số trung bình của quốc gia đó là bao nhiêu?",
+    "options": [
+      "200 người trên một km2",
+      "20 người trên một km2",
+      "2000 người trên một km2",
+      "5 người trên một km2"
+    ],
+    "answer": "200 người trên một km2",
+    "explanation": "Mật độ dân số bằng tổng số dân chia cho diện tích. Ta lấy 20 triệu người chia cho 100 nghìn km2 bằng 200 người trên một km2."
+  },
+  {
+    "question": "Tại sao các nước phát triển như Nhật Bản, Đức lại phải thực hiện các chính sách khuyến khích sinh và thu hút lao động nước ngoài?",
+    "options": [
+      "Do già hóa dân số nghiêm trọng dẫn đến nguy cơ thiếu hụt lao động",
+      "Do diện tích đất hoang còn quá nhiều cần người khai phá",
+      "Do tỉ lệ thất nghiệp trong nước đang ở mức quá cao",
+      "Do muốn thay đổi toàn bộ ngôn ngữ giao tiếp quốc gia"
+    ],
+    "answer": "Do già hóa dân số nghiêm trọng dẫn đến nguy cơ thiếu hụt lao động",
+    "explanation": "Tỉ suất sinh thấp kéo dài khiến tháp dân số thu hẹp ở đáy, người già chiếm tỉ lệ cao, thiếu nguồn lao động bổ sung cho các ngành kinh tế."
+  },
+  {
+    "question": "Sự khác biệt lớn nhất về biểu hiện của đô thị hóa giữa các nước phát triển và các nước đang phát triển là gì?",
+    "options": [
+      "Nước phát triển đô thị hóa gắn với công nghiệp hóa, nước đang phát triển nhiều nơi đô thị hóa tự phát",
+      "Nước đang phát triển có tỉ lệ dân thành thị cao hơn nước phát triển",
+      "Nước phát triển không còn các thành phố lớn quy mô triệu dân",
+      "Nước đang phát triển có hệ thống hạ tầng đô thị hoàn thiện hơn"
+    ],
+    "answer": "Nước phát triển đô thị hóa gắn với công nghiệp hóa, nước đang phát triển nhiều nơi đô thị hóa tự phát",
+    "explanation": "Ở nước phát triển, đô thị hóa là kết quả của phát triển công nghiệp và dịch vụ. Ở nước đang phát triển, dân nghèo đổ về thành phố tìm việc tạo nên đô thị hóa tự phát khi kinh tế chưa kịp đáp ứng."
+  },
+  {
+    "question": "Tại sao việc đẩy mạnh thâm canh trong trồng trọt lại giúp giải quyết bài toán an ninh lương thực mà không cần mở rộng diện tích đất?",
+    "options": [
+      "Vì thâm canh tăng năng suất cây trồng trên cùng một đơn vị diện tích",
+      "Vì thâm canh làm cho cây trồng tự động chín nhanh hơn gấp mười lần",
+      "Vì thâm canh biến các loại đất cát thành đất phù sa màu mỡ",
+      "Vì thâm canh loại bỏ hoàn toàn các loại sâu bệnh gây hại"
+    ],
+    "answer": "Vì thâm canh tăng năng suất cây trồng trên cùng một đơn vị diện tích",
+    "explanation": "Thâm canh là đầu tư phân bón, giống tốt, kỹ thuật để thu được nhiều sản lượng hơn trên một mảnh đất cố định, giúp tăng sản lượng tổng thể."
+  },
+  {
+    "question": "Ngành nuôi trồng thủy sản nước ngọt ở vùng đồng bằng sông Cửu Long của Việt Nam phát triển mạnh chủ yếu dựa trên lợi thế nào?",
+    "options": [
+      "Mạng lưới sông ngòi, kênh rạch chằng chịt và diện tích mặt nước lớn",
+      "Hệ thống núi cao che chắn các đợt gió bão nguy hiểm",
+      "Nguồn nước ngầm nằm sâu dưới các lớp đá granite cổ",
+      "Khí hậu có mùa đông lạnh phù hợp cho các loài cá xứ hàn"
+    ],
+    "answer": "Mạng lưới sông ngòi, kênh rạch chằng chịt và diện tích mặt nước lớn",
+    "explanation": "Đồng bằng sông Cửu Long có hệ thống sông Tiền, sông Hậu cùng kênh rạch dày đặc, cung cấp không gian nuôi cá tra, cá ba sa lý tưởng."
+  },
+  {
+    "question": "Tại sao việc chuyển dịch cơ cấu cây trồng từ cây lương thực sang cây công nghiệp lâu năm lại mang lại hiệu quả kinh tế cao cho các vùng đồi núi?",
+    "options": [
+      "Cây công nghiệp lâu năm có giá trị kinh tế cao trên thị trường và giúp bảo vệ đất dốc",
+      "Cây công nghiệp lâu năm không cần nước và phân bón vẫn sinh trưởng tốt",
+      "Cây công nghiệp lâu năm cho thu hoạch ngay sau khi gieo hạt một ngày",
+      "Cây công nghiệp lâu năm tự động xua đuổi các loài thú hoang phá hoại"
+    ],
+    "answer": "Cây công nghiệp lâu năm có giá trị kinh tế cao trên thị trường và giúp bảo vệ đất dốc",
+    "explanation": "Các sản phẩm như cà phê, chè, cao su có giá trị xuất khẩu lớn, rễ cây lâu năm giữ đất dốc tốt hơn cây lương thực ngắn ngày."
+  },
+  {
+    "question": "Nguyên nhân chính khiến ngành công nghiệp khai thác than có xu hướng giảm tỉ trọng trong cơ cấu năng lượng thế giới hiện nay là gì?",
+    "options": [
+      "Do ô nhiễm môi trường nghiêm trọng và sự phát triển của năng lượng tái tạo",
+      "Do toàn bộ các mỏ than trên Trái Đất đã bị khai thác hết sạch",
+      "Do con người không còn nhu cầu sử dụng dòng điện trong sinh hoạt",
+      "Do giá thành khai thác than rẻ hơn các nguồn năng lượng khác"
+    ],
+    "answer": "Do ô nhiễm môi trường nghiêm trọng và sự phát triển của năng lượng tái tạo",
+    "explanation": "Đốt than phát thải nhiều khí nhà kính gây biến đổi khí hậu, thế giới đang chuyển sang dùng điện gió, điện mặt trời để bảo vệ môi trường."
+  },
+  {
+    "question": "Tại sao các nhà máy chế biến nông sản, thực phẩm thường được xây dựng gần vùng nguyên liệu?",
+    "options": [
+      "Do sản phẩm nông nghiệp dễ hư hỏng, cồng kềnh, cần chế biến ngay để giảm chi phí",
+      "Do vùng nguyên liệu luôn có sẵn nguồn điện cao thế giá rẻ",
+      "Do luật pháp quy định không được vận chuyển nông sản tươi ra khỏi vùng",
+      "Do công nhân chế biến chỉ thích sống ở những vùng nông thôn sâu"
+    ],
+    "answer": "Do sản phẩm nông nghiệp dễ hư hỏng, cồng kềnh, cần chế biến ngay để giảm chi phí",
+    "explanation": "Nông sản như trái cây, sữa, thủy sản tươi sống nếu vận chuyển xa chưa chế biến sẽ dễ thối hỏng và tốn chi phí vận chuyển khối lượng thô."
+  },
+  {
+    "question": "Sự phát triển mạnh mẽ của mạng lưới internet và điện thoại thông minh đã làm thay đổi ngành bưu chính viễn thông như thế nào?",
+    "options": [
+      "Chuyển mạnh từ chuyển phát thư từ giấy sang dịch vụ số và truyền tải dữ liệu tốc độ cao",
+      "Làm giảm hoàn toàn nhu cầu giao tiếp từ xa của con người",
+      "Khiến người dân phải quay lại sử dụng hệ thống điện tín cổ điển",
+      "Làm tăng thời gian vận chuyển một bức thư lên nhiều tuần"
+    ],
+    "answer": "Chuyển mạnh từ chuyển phát thư từ giấy sang dịch vụ số và truyền tải dữ liệu tốc độ cao",
+    "explanation": "Công nghệ số hóa giúp thông tin truyền đi tức thời qua mạng, ngành viễn thông tập trung phát triển hạ tầng mạng 4G, 5G và dịch vụ số."
+  },
+  {
+    "question": "Tại sao các nước phát triển lại chú trọng xuất khẩu các sản phẩm công nghệ cao và dịch vụ tài chính?",
+    "options": [
+      "Vì các mặt hàng này có hàm lượng tri thức lớn, mang lại giá trị gia tăng cực cao",
+      "Vì họ không có khả năng sản xuất các mặt hàng nông sản thông thường",
+      "Vì các nước đang phát triển không biết sử dụng các thiết bị công nghệ",
+      "Vì các sản phẩm này hoàn toàn không tốn bất kỳ chi phí đầu tư nào"
+    ],
+    "answer": "Vì các mặt hàng này có hàm lượng tri thức lớn, mang lại giá trị gia tăng cực cao",
+    "explanation": "Sản phẩm công nghệ cao (phần mềm, chip, máy bay) và dịch vụ tài chính thu lợi nhuận khổng lồ nhờ độc quyền công nghệ và chất lượng xám."
+  },
+  {
+    "question": "Tác động tiêu cực lớn nhất của việc lạm dụng túi nilon và đồ nhựa dùng một lần đối với môi trường là gì?",
+    "options": [
+      "Thời gian phân hủy rất lâu gây ô nhiễm đất, nguồn nước và hệ sinh thái biển",
+      "Làm tăng nhanh tần suất xuất hiện các vụ động đất sóng thần",
+      "Hút hết toàn bộ lượng oxy có trong bầu khí quyển đối lưu",
+      "Làm cho nhiệt độ của lớp vỏ Trái Đất bị giảm đi đột ngột"
+    ],
+    "answer": "Thời gian phân hủy rất lâu gây ô nhiễm đất, nguồn nước và hệ sinh thái biển",
+    "explanation": "Nhựa mất hàng trăm năm để rã nhỏ, gây nghẹt lòng đất, hạt vi nhựa lọt vào chuỗi thức ăn của sinh vật biển và con người."
+  },
+  {
+    "question": "Mối quan hệ giữa sự gia tăng dân số quá nhanh và việc bảo vệ môi trường ở các nước đang phát triển thể hiện như thế nào?",
+    "options": [
+      "Dân số tăng nhanh tạo áp lực khai thác tài nguyên, xả thải vượt khả năng tự làm sạch",
+      "Dân số đông giúp môi trường tự động cân bằng mà không cần xử lý",
+      "Gia tăng dân số làm giảm lượng rác thải sinh hoạt ra ngoài tự nhiên",
+      "Dân số tăng nhanh khiến tài nguyên khoáng sản tự động sinh ra nhiều hơn"
+    ],
+    "answer": "Dân số tăng nhanh tạo áp lực khai thác tài nguyên, xả thải vượt khả năng tự làm sạch",
+    "explanation": "Nhiều người hơn đồng nghĩa với nhu cầu đất ở, thức ăn, năng lượng tăng, dẫn đến phá rừng, khai thác quá mức và lượng chất thải vượt ngưỡng xử lý của tự nhiên."
+  },
+  {
+    "question": "Việc các nước nghèo chấp nhận nhập khẩu công nghệ lạc hậu, cũ kỹ từ các nước giàu sẽ dẫn đến hậu quả lâu dài nào?",
+    "options": [
+      "Trở thành bãi thải công nghệ và chịu ô nhiễm môi trường nặng nề",
+      "Nhanh chóng bắt kịp trình độ phát triển của các nước tiên tiến",
+      "Giảm tối đa chi phí xử lý chất thải sinh hoạt tại các đô thị",
+      "Làm tăng giá trị của đồng nội tệ trên thị trường tài chính quốc tế"
+    ],
+    "answer": "Trở thành bãi thải công nghệ và chịu ô nhiễm môi trường nặng nề",
+    "explanation": "Máy móc cũ tiêu tốn nhiều năng lượng, hiệu suất thấp và phát thải lớn, biến nước nhập khẩu thành nơi chứa chất thải và tụt hậu công nghệ."
+  },
+  {
+    "question": "Tại sao việc phát triển các phương tiện giao thông công cộng sử dụng năng lượng sạch (xe buýt điện, tàu điện) lại là chìa khóa cho đô thị bền vững?",
+    "options": [
+      "Giảm ùn tắc giao thông và cắt giảm lượng khí thải gây hiệu ứng nhà kính trong thành phố",
+      "Làm cho tất cả người dân không cần phải di chuyển ra khỏi nhà",
+      "Tăng doanh thu từ việc bán xăng dầu cho các tập đoàn quốc gia",
+      "Giúp các con đường tự động mở rộng diện tích mà không cần giải tỏa"
+    ],
+    "answer": "Giảm ùn tắc giao thông và cắt giảm lượng khí thải gây hiệu ứng nhà kính trong thành phố",
+    "explanation": "Phương tiện công cộng chở được nhiều người thay thế xe cá nhân giúp giảm kẹt xe, năng lượng điện không phát thải khói bụi giúp không khí đô thị trong lành."
+  }
+]
+
+
+

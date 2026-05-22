@@ -1,0 +1,555 @@
+
+[
+  {
+    "question": "Đối tượng nghiên cứu của Vật lí gồm các dạng vận động của vật chất và năng lượng. Nhận định này đúng hay sai?",
+    "options": [
+      "Đúng",
+      "Sai",
+      "Chỉ đúng với cơ học",
+      "Chỉ đúng với điện học"
+    ],
+    "answer": "Đúng",
+    "explanation": "Theo sách giáo khoa, đối tượng nghiên cứu của Vật lí gồm các dạng vận động của vật chất và năng lượng."
+  },
+  {
+    "question": "Lĩnh vực nào sau đây không thuộc đối tượng nghiên cứu của Vật lí?",
+    "options": [
+      "Cơ học, nhiệt học",
+      "Điện học, quang học",
+      "Sự thay đổi tính chất hóa học của các chất khi kết hợp với nhau",
+      "Vật lí hạt nhân, vũ trụ học"
+    ],
+    "answer": "Sự thay đổi tính chất hóa học của các chất khi kết hợp với nhau",
+    "explanation": "Sự thay đổi tính chất hóa học của các chất khi kết hợp với nhau thuộc đối tượng nghiên cứu của Hóa học."
+  },
+  {
+    "question": "Phương pháp nghiên cứu cốt lõi của Vật lí gồm những phương pháp nào?",
+    "options": [
+      "Phương pháp thực nghiệm và phương pháp mô hình",
+      "Phương pháp quan sát và phương pháp suy luận",
+      "Phương pháp phân tích và phương pháp tổng hợp",
+      "Phương pháp toán học và phương pháp thống kê"
+    ],
+    "answer": "Phương pháp thực nghiệm và phương pháp mô hình",
+    "explanation": "Hai phương pháp nghiên cứu cốt lõi của Vật lí là phương pháp thực nghiệm và phương pháp mô hình."
+  },
+  {
+    "question": "Hành động nào sau đây không đảm bảo an toàn khi sử dụng thiết bị thí nghiệm trong phòng thực hành Vật lí?",
+    "options": [
+      "Đọc kỹ hướng dẫn trước khi sử dụng thiết bị",
+      "Rút phích cắm điện bằng cách giật mạnh dây điện",
+      "Kiểm tra cẩn thận các kết nối mạch điện trước khi bật nguồn",
+      "Tắt công tắc nguồn điện sau khi kết thúc thí nghiệm"
+    ],
+    "answer": "Rút phích cắm điện bằng cách giật mạnh dây điện",
+    "explanation": "Giật mạnh dây điện có thể làm hỏng dây hoặc gây chập điện, mất an toàn."
+  },
+  {
+    "question": "Biển báo có hình tam giác viền đen hoặc đỏ, nền vàng, bên trong có hình vẽ màu đen là loại biển báo gì?",
+    "options": [
+      "Biển báo cấm",
+      "Biển báo cảnh báo nguy hiểm",
+      "Biển báo bắt buộc thực hiện",
+      "Biển báo chỉ dẫn"
+    ],
+    "answer": "Biển báo cảnh báo nguy hiểm",
+    "explanation": "Biển báo hình tam giác màu vàng là biển báo cảnh báo các nguy cơ gây nguy hiểm."
+  },
+  {
+    "question": "Sai số ngẫu nhiên là gì?",
+    "options": [
+      "Sai số do dụng cụ đo gây ra và có tính quy luật",
+      "Sai số do cấu tạo dụng cụ làm kết quả luôn lớn hơn hoặc nhỏ hơn giá trị thực",
+      "Sai số do các yếu tố ngẫu nhiên bên ngoài hoặc do giác quan người đo tác động không ổn định",
+      "Sai số luôn có thể loại bỏ hoàn toàn bằng cách hiệu chỉnh dụng cụ"
+    ],
+    "answer": "Sai số do các yếu tố ngẫu nhiên bên ngoài hoặc do giác quan người đo tác động không ổn định",
+    "explanation": "Sai số ngẫu nhiên xuất hiện do các tác động ngẫu nhiên, không ổn định đổi hướng và độ lớn từ môi trường hoặc người đo."
+  },
+  {
+    "question": "Độ dịch chuyển là một đại lượng vectơ cho biết điều gì?",
+    "options": [
+      "Quãng đường dài nhất mà vật đi được",
+      "Độ lớn và hướng của sự thay đổi vị trí của vật",
+      "Tốc độ di chuyển nhanh hay chậm của vật",
+      "Thời gian vật thực hiện chuyển động"
+    ],
+    "answer": "Độ lớn và hướng của sự thay đổi vị trí của vật",
+    "explanation": "Độ dịch chuyển là đại lượng vectơ nối vị trí đầu và vị trí cuối của chuyển động, cho biết hướng và độ lớn của sự thay đổi vị trí."
+  },
+  {
+    "question": "Khi nào độ lớn của độ dịch chuyển bằng quãng đường đi được của vật?",
+    "options": [
+      "Khi vật chuyển động thẳng và không đổi chiều",
+      "Khi vật chuyển động tròn đều",
+      "Khi vật chuyển động thẳng và có đổi chiều",
+      "Khi vật chuyển động cong bất kỳ"
+    ],
+    "answer": "Khi vật chuyển động thẳng và không đổi chiều",
+    "explanation": "Chỉ khi vật chuyển động thẳng và không đổi chiều thì chiều dài quỹ đạo (quãng đường) mới bằng độ lớn độ dịch chuyển."
+  },
+  {
+    "question": "Công thức tính tốc độ trung bình của một vật chuyển động là gì?",
+    "options": [
+      "v = s / t",
+      "v = d / t",
+      "v = s * t",
+      "v = d * t"
+    ],
+    "answer": "v = s / t",
+    "explanation": "Tốc độ trung bình được tính bằng quãng đường đi được s chia cho khoảng thời gian t."
+  },
+  {
+    "question": "Vận tốc trung bình được xác định bằng công thức nào?",
+    "options": [
+      "v = s / t",
+      "v = d / t",
+      "v = d * t",
+      "v = delta x / delta t"
+    ],
+    "answer": "v = d / t",
+    "explanation": "Vận tốc trung bình bằng độ dịch chuyển d chia cho thời gian dịch chuyển t."
+  },
+  {
+    "question": "Đồ thị độ dịch chuyển - thời gian của một vật chuyển động thẳng đều có dạng như thế nào?",
+    "options": [
+      "Một đường thẳng đi qua gốc tọa độ",
+      "Một đường thẳng song song với trục thời gian",
+      "Một đoạn đường thẳng xiên góc",
+      "Một đường cong parabol"
+    ],
+    "answer": "Một đoạn đường thẳng xiên góc",
+    "explanation": "Trong chuyển động thẳng đều, độ dịch chuyển tỉ lệ thuận với thời gian nên đồ thị d - t là một đường thẳng xiên góc."
+  },
+  {
+    "question": "Gia tốc là đại lượng đặc trưng cho tính chất nào của chuyển động?",
+    "options": [
+      "Độ nhanh hay chậm của chuyển động",
+      "Sự thay đổi hướng của chuyển động nhanh hay chậm",
+      "Sự thay đổi nhanh hay chậm của vận tốc",
+      "Quãng đường dài hay ngắn của chuyển động"
+    ],
+    "answer": "Sự thay đổi nhanh hay chậm của vận tốc",
+    "explanation": "Gia tốc là đại lượng đo bằng thương số giữa độ biến thiên vận tốc và khoảng thời gian xảy ra sự biến thiên đó, đặc trưng cho sự thay đổi nhanh chậm của vận tốc."
+  },
+  {
+    "question": "Trong chuyển động thẳng nhanh dần đều, vectơ gia tốc và vectơ vận tốc có đặc điểm gì?",
+    "options": [
+      "Ngược chiều nhau",
+      "Cùng chiều nhau",
+      "Vuông góc với nhau",
+      "Hợp với nhau một góc tù"
+    ],
+    "answer": "Cùng chiều nhau",
+    "explanation": "Chuyển động thẳng nhanh dần đều có tích v*a > 0 nên gia tốc luôn cùng chiều với vận tốc."
+  },
+  {
+    "question": "Công thức liên hệ giữa gia tốc a, vận tốc đầu v0, vận tốc cuối v và độ dịch chuyển d trong chuyển động thẳng biến đổi đều là gì?",
+    "options": [
+      "v^2 - v0^2 = 2 * a * d",
+      "v - v0 = 2 * a * d",
+      "v^2 + v0^2 = 2 * a * d",
+      "v^2 - v0^2 = a * d"
+    ],
+    "answer": "v^2 - v0^2 = 2 * a * d",
+    "explanation": "Đây là hệ thức độc lập với thời gian trong chuyển động thẳng biến đổi đều."
+  },
+  {
+    "question": "Sự rơi tự do là chuyển động của một vật dưới tác dụng của lực nào?",
+    "options": [
+      "Lực cản của không khí",
+      "Chỉ chịu tác dụng của trọng lực",
+      "Lực đẩy Archimedes",
+      "Lực ma sát"
+    ],
+    "answer": "Chỉ chịu tác dụng của trọng lực",
+    "explanation": "Sự rơi tự do là sự rơi của các vật chỉ dưới tác dụng của trọng lực."
+  },
+  {
+    "question": "Tại một nơi trên Trái Đất, các vật rơi tự do có đặc điểm gì về gia tốc?",
+    "options": [
+      "Vật nặng rơi với gia tốc lớn hơn vật nhẹ",
+      "Vật nhẹ rơi với gia tốc lớn hơn vật nặng",
+      "Mọi vật đều rơi với cùng một gia tốc g",
+      "Gia tốc phụ thuộc vào kích thước của vật"
+    ],
+    "answer": "Mọi vật đều rơi với cùng một gia tốc g",
+    "explanation": "Ở cùng một nơi trên Trái Đất, mọi vật rơi tự do đều có cùng một gia tốc rơi tự do g."
+  },
+  {
+    "question": "Khi một vật bị ném ngang từ độ cao h, chuyển động của vật theo phương thẳng đứng là chuyển động gì?",
+    "options": [
+      "Chuyển động thẳng đều",
+      "Chuyển động rơi tự do",
+      "Chuyển động thẳng chậm dần đều",
+      "Chuyển động tròn đều"
+    ],
+    "answer": "Chuyển động rơi tự do",
+    "explanation": "Theo phương thẳng đứng, vật ném ngang không có vận tốc đầu và chỉ chịu tác dụng của trọng lực nên là chuyển động rơi tự do."
+  },
+  {
+    "question": "Tổng hợp lực là phép toán tìm ra một lực có tác dụng như thế nào đối với vật?",
+    "options": [
+      "Thay thế các lực tác dụng đồng thời vào vật sao cho tác dụng vẫn không thay đổi",
+      "Làm cho vật đứng yên",
+      "Làm giảm bớt các lực tác dụng lên vật",
+      "Tăng cường độ của các lực thành phần"
+    ],
+    "answer": "Thay thế các lực tác dụng đồng thời vào vật sao cho tác dụng vẫn không thay đổi",
+    "explanation": "Tổng hợp lực là thay thế nhiều lực tác dụng đồng thời vào một vật bằng một lực duy nhất có tác dụng giống hệt các lực ấy."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng với định luật 1 Newton?",
+    "options": [
+      "Mọi vật đều có xu hướng bảo toàn vận tốc của mình",
+      "Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng 0 thì vật giữ nguyên trạng thái đứng yên hoặc chuyển động thẳng đều",
+      "Lực là nguyên nhân duy nhất duy trì chuyển động của vật",
+      "Khi không còn lực tác dụng, vật sẽ dừng lại ngay lập tức"
+    ],
+    "answer": "Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng 0 thì vật giữ nguyên trạng thái đứng yên hoặc chuyển động thẳng đều",
+    "explanation": "Đây là nội dung cơ bản của định luật 1 Newton, còn gọi là định luật quán tính."
+  },
+  {
+    "question": "Đại lượng nào đặc trưng cho mức độ quán tính của một vật?",
+    "options": [
+      "Vận tốc",
+      "Gia tốc",
+      "Khối lượng",
+      "Lực"
+    ],
+    "answer": "Khối lượng",
+    "explanation": "Khối lượng là đại lượng đặc trưng cho mức độ quán tính của vật. Vật có khối lượng càng lớn thì mức độ quán tính càng lớn."
+  },
+  {
+    "question": "Một người dùng thước dây đo chiều dài của một chiếc bàn, kết quả thu được là 120,5 cm. Lần thứ hai đo được 120,7 cm. Sai số ngẫu nhiên tuyệt đối của phép đo chiều dài chiếc bàn từ hai lần đo này là bao nhiêu?",
+    "options": [
+      "0,1 cm",
+      "0,2 cm",
+      "0,5 cm",
+      "0,6 cm"
+    ],
+    "answer": "0,1 cm",
+    "explanation": "Giá trị trung bình = (120,5 + 120,7) / 2 = 120,6 cm. Sai số của lần 1 = |120,6 - 120,5| = 0,1 cm. Sai số của lần 2 = |120,6 - 120,7| = 0,1 cm. Sai số ngẫu nhiên trung bình bằng 0,1 cm."
+  },
+  {
+    "question": "Một chiếc thuyền đi xuôi dòng sông từ bến A đến bến B với vận tốc của thuyền đối với nước là 5 m/s, vận tốc của nước đối với bờ là 2 m/s. Vận tốc của thuyền đối với bờ bằng bao nhiêu?",
+    "options": [
+      "3 m/s",
+      "7 m/s",
+      "2,5 m/s",
+      "10 m/s"
+    ],
+    "answer": "7 m/s",
+    "explanation": "Khi xuôi dòng, vận tốc tổng hợp v = v12 + v23 = 5 + 2 = 7 m/s."
+  },
+  {
+    "question": "Một người đi xe đạp đi nửa đoạn đường đầu với tốc độ 12 km/h và nửa đoạn đường sau với tốc độ 20 km/h. Tốc độ trung bình trên cả quãng đường là bao nhiêu?",
+    "options": [
+      "16 km/h",
+      "15 km/h",
+      "14 km/h",
+      "18 km/h"
+    ],
+    "answer": "15 km/h",
+    "explanation": "Công thức tốc độ trung bình khi chia nửa quãng đường: v = (2 * v1 * v2) / (v1 + v2) = (2 * 12 * 20) / (12 + 20) = 480 / 32 = 15 km/h."
+  },
+  {
+    "question": "Đồ thị độ dịch chuyển - thời gian của một chiếc xe là một đường thẳng đi lên xiên góc. Trong khoảng thời gian từ t1 = 2 s đến t2 = 5 s, độ dịch chuyển tăng từ d1 = 4 m đến d2 = 10 m. Vận tốc của chiếc xe bằng bao nhiêu?",
+    "options": [
+      "2 m/s",
+      "3 m/s",
+      "1,5 m/s",
+      "4 m/s"
+    ],
+    "answer": "2 m/s",
+    "explanation": "Vận tốc bằng hệ số góc của đồ thị: v = (d2 - d1) / (t2 - t1) = (10 - 4) / (5 - 2) = 6 / 3 = 2 m/s."
+  },
+  {
+    "question": "Một đoàn tàu đang chạy với vận tốc 36 km/h thì hãm phanh chuyển động chậm dần đều, sau 10 s thì dừng hẳn. Gia tốc của đoàn tàu có độ lớn bằng bao nhiêu?",
+    "options": [
+      "1 m/s^2",
+      "3,6 m/s^2",
+      "0,5 m/s^2",
+      "2 m/s^2"
+    ],
+    "answer": "1 m/s^2",
+    "explanation": "Đổi v0 = 36 km/h = 10 m/s. Khi dừng hẳn v = 0. Gia tốc a = (v - v0) / t = (0 - 10) / 10 = -1 m/s^2. Độ lớn gia tốc là 1 m/s^2."
+  },
+
+
+  {
+    "question": "Một ô tô tăng tốc đều từ trạng thái đứng yên, sau 5 giây đạt vận tốc 10 m/s. Quãng đường ô tô đi được trong 5 giây này là bao nhiêu?",
+    "options": [
+      "50 m",
+      "25 m",
+      "12,5 m",
+      "20 m"
+    ],
+    "answer": "25 m",
+    "explanation": "Gia tốc a = (10 - 0) / 5 = 2 m/s^2. Quãng đường s = 0,5 * a * t^2 = 0,5 * 2 * 5^2 = 25 m."
+  },
+  {
+    "question": "Một vật rơi tự do không vận tốc đầu từ độ cao 20 m xuống đất. Lấy g = 10 m/s^2. Thời gian rơi của vật là bao nhiêu?",
+    "options": [
+      "2 s",
+      "4 s",
+      "1 s",
+      "1,41 s"
+    ],
+    "answer": "2 s",
+    "explanation": "Công thức thời gian rơi tự do: t = căn bậc hai của (2 * h / g) = căn((2 * 20) / 10) = căn(4) = 2 s."
+  },
+  {
+    "question": "Một quả bóng được thả rơi tự do từ một độ cao nhất định. Trong giây cuối cùng trước khi chạm đất, nó rơi được quãng đường 15 m. Lấy g = 10 m/s^2. Tính vận tốc của quả bóng ngay khi chạm đất.",
+    "options": [
+      "15 m/s",
+      "20 m/s",
+      "10 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s",
+    "explanation": "Quãng đường rơi trong giây cuối: delta s = 0,5 * g * t^2 - 0,5 * g * (t - 1)^2 = 10 * t - 5 = 15 => t = 2 s. Vận tốc chạm đất: v = g * t = 10 * 2 = 20 m/s."
+  },
+  {
+    "question": "Một vật được ném ngang từ độ cao 45 m với vận tốc ban đầu v0 = 20 m/s. Lấy g = 10 m/s^2. Tầm xa của vật đạt được là bao nhiêu?",
+    "options": [
+      "60 m",
+      "45 m",
+      "90 m",
+      "30 m"
+    ],
+    "answer": "60 m",
+    "explanation": "Thời gian rơi: t = căn(2 * h / g) = căn(2 * 45 / 10) = 3 s. Tầm xa L = v0 * t = 20 * 3 = 60 m."
+  },
+  {
+    "question": "Hai lực thành phần có độ lớn lần lượt là F1 = 6 N và F2 = 8 N tác dụng vào cùng một vật. Hợp lực của hai lực này không thể có độ lớn nào sau đây?",
+    "options": [
+      "2 N",
+      "10 N",
+      "14 N",
+      "15 N"
+    ],
+    "answer": "15 N",
+    "explanation": "Độ lớn hợp lực luôn nằm trong khoảng từ |F1 - F2| đến (F1 + F2), tức là từ 2 N đến 14 N. Do đó hợp lực không thể bằng 15 N."
+  },
+  {
+    "question": "Một lực có độ lớn 10 N tác dụng lên một vật có khối lượng 2 kg đang đứng yên. Gia tốc mà vật thu được có độ lớn là bao nhiêu?",
+    "options": [
+      "5 m/s^2",
+      "20 m/s^2",
+      "2 m/s^2",
+      "0,2 m/s^2"
+    ],
+    "answer": "5 m/s^2",
+    "explanation": "Theo định luật 2 Newton: a = F / m = 10 / 2 = 5 m/s^2."
+  },
+  {
+    "question": "Một chiếc ô tô có khối lượng 1000 kg đang chuyển động với vận tốc 10 m/s thì hãm phanh dừng lại sau 5 s. Độ lớn của lực hãm phanh trung bình bằng bao nhiêu?",
+    "options": [
+      "2000 N",
+      "5000 N",
+      "1000 N",
+      "2500 N"
+    ],
+    "answer": "2000 N",
+    "explanation": "Gia tốc a = (0 - 10) / 5 = -2 m/s^2. Lực hãm F = m * |a| = 1000 * 2 = 2000 N."
+  },
+  {
+    "question": "Khi một người cưỡi ngựa đang phi nhanh mà con ngựa dừng lại đột ngột thì người cưỡi ngựa sẽ có xu hướng như thế nào?",
+    "options": [
+      "Ngả người về phía sau",
+      "Bị ngã chúi đầu về phía trước",
+      "Nghiêng sang bên trái",
+      "Nghiêng sang bên phải"
+    ],
+    "answer": "Bị ngã chúi đầu về phía trước",
+    "explanation": "Do quán tính, khi ngựa dừng lại đột ngột, phần thân trên của người vẫn có xu hướng giữ nguyên vận tốc cũ nên bị lao về phía trước."
+  },
+  {
+    "question": "Cặp lực và phản lực trong định luật 3 Newton có đặc điểm nào sau đây?",
+    "options": [
+      "Tác dụng vào hai vật khác nhau, cùng giá, cùng độ lớn nhưng ngược chiều",
+      "Tác dụng vào cùng một vật nên cân bằng nhau",
+      "Xuất hiện độc lập và không cùng bản chất",
+      "Lực xuất hiện trước, phản lực xuất hiện sau"
+    ],
+    "answer": "Tác dụng vào hai vật khác nhau, cùng giá, cùng độ lớn nhưng ngược chiều",
+    "explanation": "Lực và phản lực là hai lực trực đối, tác dụng lên hai vật khác nhau nên không thể cân bằng nhau."
+  },
+  {
+    "question": "Một vật có khối lượng 5 kg đặt trên mặt sàn nằm ngang. Hệ số ma sát trượt giữa vật và mặt sàn là 0,2. Lấy g = 10 m/s^2. Lực ma sát trượt tác dụng lên vật khi vật bị kéo trượt bằng bao nhiêu?",
+    "options": [
+      "10 N",
+      "1 N",
+      "5 N",
+      "2 N"
+    ],
+    "answer": "10 N",
+    "explanation": "Áp lực N = P = m * g = 5 * 10 = 50 N. Lực ma sát trượt Fms = mu * N = 0,2 * 50 = 10 N."
+  },
+  {
+    "question": "Một chiếc xe chuyển động thẳng đều trên quãng đường s trong thời gian t. Nếu ta tăng quãng đường đi được lên 3 lần và giảm thời gian đi 2 lần thì tốc độ của xe thay đổi như thế nào?",
+    "options": [
+      "Tăng 6 lần",
+      "Giảm 6 lần",
+      "Tăng 1,5 lần",
+      "Giảm 1,5 lần"
+    ],
+    "answer": "Tăng 6 lần",
+    "explanation": "Ta có v = s / t. Khi s' = 3*s và t' = t/2 thì v' = (3*s) / (t/2) = 6 * (s/t) = 6*v."
+  },
+  {
+    "question": "Một canô chạy xuôi dòng từ A đến B mất 2 giờ, khi chạy ngược dòng từ B về A mất 3 giờ. Biết vận tốc của nước đối với bờ là 4 km/h. Khoảng cách giữa hai bến A và B là bao nhiêu?",
+    "options": [
+      "48 km",
+      "24 km",
+      "36 km",
+      "60 km"
+    ],
+    "answer": "48 km",
+    "explanation": "Gọi v là vận tốc canô đối với nước. Ta có: AB = (v + 4)*2 và AB = (v - 4)*3. Giải hệ ta được v = 20 km/h, suy ra AB = (20 + 4)*2 = 48 km."
+  },
+  {
+    "question": "Một vật chuyển động thẳng biến đổi đều có đồ thị vận tốc - thời gian là một đường thẳng đi qua gốc tọa độ O. Tại thời điểm t = 4 s, vận tốc của vật đạt 8 m/s. Quãng đường vật đi được từ t = 0 đến t = 4 s bằng bao nhiêu?",
+    "options": [
+      "16 m",
+      "32 m",
+      "8 m",
+      "64 m"
+    ],
+    "answer": "16 m",
+    "explanation": "Quãng đường bằng diện tích tam giác giới hạn bởi đồ thị v-t: s = 0,5 * đáy * cao = 0,5 * 4 * 8 = 16 m."
+  },
+  {
+    "question": "Một vật bắt đầu chuyển động thẳng nhanh dần đều với gia tốc 2 m/s^2. Quãng đường vật đi được trong giây thứ 3 kể từ lúc khởi hành là bao nhiêu?",
+    "options": [
+      "5 m",
+      "9 m",
+      "4 m",
+      "6 m"
+    ],
+    "answer": "5 m",
+    "explanation": "Quãng đường đi trong 3 giây đầu: s3 = 0,5 * 2 * 3^2 = 9 m. Quãng đường đi trong 2 giây đầu: s2 = 0,5 * 2 * 2^2 = 4 m. Quãng đường trong giây thứ 3: delta s = s3 - s2 = 9 - 4 = 5 m."
+  },
+  {
+    "question": "Một ô tô đang chạy với tốc độ v0 thì người lái xe hãm phanh. Ô tô chuyển động chậm dần đều và đi được 20 m thì dừng lại. Nếu tốc độ ban đầu tăng lên gấp đôi là 2*v0 thì quãng đường từ lúc hãm phanh đến khi dừng lại là bao nhiêu? (Giả sử gia tốc hãm không đổi)",
+    "options": [
+      "40 m",
+      "80 m",
+      "60 m",
+      "160 m"
+    ],
+    "answer": "80 m",
+    "explanation": "Từ công thức v^2 - v0^2 = 2*a*s với v = 0 => s = v0^2 / (-2*a). Khi v0 tăng 2 lần thì s tăng 4 lần: 20 * 4 = 80 m."
+  },
+  {
+    "question": "Từ một độ cao h so với mặt đất, một vật được thả rơi tự do. Thời gian vật rơi đến đất là t. Thời gian để vật rơi được nửa độ cao đầu tiên (h/2) là bao nhiêu?",
+    "options": [
+      "t / 2",
+      "t / căn(2)",
+      "t * căn(2)",
+      "t / 4"
+    ],
+    "answer": "t / căn(2)",
+    "explanation": "Ta có h = 0,5 * g * t^2 và h/2 = 0,5 * g * t1^2. Lập tỉ số suy ra t1^2 / t^2 = 1/2 => t1 = t / căn(2)."
+  },
+  {
+    "question": "Một vật rơi tự do tại nơi có g = 10 m/s^2. Tỉ số giữa quãng đường vật rơi được trong giây thứ nhất và giây thứ hai lần lượt là bao nhiêu?",
+    "options": [
+      "1 : 2",
+      "1 : 3",
+      "1 : 4",
+      "2 : 3"
+    ],
+    "answer": "1 : 3",
+    "explanation": "Quãng đường giây thứ nhất s1 = 0,5 * 10 * 1^2 = 5 m. Quãng đường giây thứ hai s2 = (0,5 * 10 * 2^2) - 5 = 15 m. Tỉ số s1 / s2 = 5 / 15 = 1 / 3."
+  },
+  {
+    "question": "Một vật được ném ngang từ độ cao h với vận tốc ban đầu v0. Khi chạm đất, vectơ vận tốc của vật hợp với phương ngang một góc 45 độ. Mối liên hệ giữa v0 và độ cao h là gì? (Lấy gia tốc trọng trường là g)",
+    "options": [
+      "v0 = căn(2 * g * h)",
+      "v0 = g * h",
+      "v0 = căn(g * h)",
+      "v0 = 2 * g * h"
+    ],
+    "answer": "v0 = căn(2 * g * h)",
+    "explanation": "Góc 45 độ nghĩa là thành phần vận tốc thẳng đứng vy bằng vận tốc ngang vx. Mà vx = v0, vy = căn(2 * g * h). Do đó v0 = căn(2 * g * h)."
+  },
+  {
+    "question": "Hai lực thành phần có cùng độ lớn F và vuông góc với nhau. Độ lớn hợp lực của chúng bằng bao nhiêu?",
+    "options": [
+      "2 * F",
+      "F * căn(2)",
+      "F",
+      "F / căn(2)"
+    ],
+    "answer": "F * căn(2)",
+    "explanation": "Khi hai lực vuông góc, theo định lí Pitago: Fhl = căn(F^2 + F^2) = F * căn(2)."
+  },
+  {
+    "question": "Một vật có khối lượng m = 2 kg chịu tác dụng của hai lực cùng phương, ngược chiều có độ lớn F1 = 10 N và F2 = 4 N. Độ lớn gia tốc của vật bằng bao nhiêu?",
+    "options": [
+      "7 m/s^2",
+      "3 m/s^2",
+      "5 m/s^2",
+      "2 m/s^2"
+    ],
+    "answer": "3 m/s^2",
+    "explanation": "Hợp lực do hai lực ngược chiều: F = |F1 - F2| = |10 - 4| = 6 N. Gia tốc a = F / m = 6 / 2 = 3 m/s^2."
+  },
+  {
+    "question": "Một khinh khí cầu đang bay thẳng đứng lên trên với vận tốc không đổi là 5 m/s. Từ khinh khí cầu, người ta thả nhẹ một vật nhỏ rơi xuống. Đối với một người đứng cố định dưới mặt đất, ngay sau khi thả, vật nhỏ chuyển động như thế nào?",
+    "options": [
+      "Rơi tự do ngay lập tức xuống phía dưới",
+      "Đi thẳng lên trên một đoạn ngắn rồi mới dừng lại và rơi xuống",
+      "Chuyển động ngang một đoạn rồi rơi xuống",
+      "Đứng yên lơ lửng tại vị trí thả một lúc"
+    ],
+    "answer": "Đi thẳng lên trên một đoạn ngắn rồi mới dừng lại và rơi xuống",
+    "explanation": "Do quán tính, ngay sau khi thả, vật vẫn giữ nguyên vận tốc 5 m/s hướng lên của khí cầu. Dưới tác dụng của trọng lực, vật sẽ chuyển động chậm dần đều đi lên một đoạn ngắn trước khi đạt vận tốc bằng 0 và quay đầu rơi xuống."
+  },
+  {
+    "question": "Một xe ô tô khối lượng 2 tấn đang chuyển động thẳng đều với vận tốc 72 km/h thì hãm phanh. Ô tô đi được quãng đường 50 m từ lúc hãm phanh đến khi dừng lại hẳn. Độ lớn lực hãm tác dụng lên xe bằng bao nhiêu?",
+    "options": [
+      "8000 N",
+      "4000 N",
+      "16000 N",
+      "2000 N"
+    ],
+    "answer": "8000 N",
+    "explanation": "Đổi v0 = 72 km/h = 20 m/s; m = 2000 kg. Ta có v^2 - v0^2 = 2*a*s => 0 - 20^2 = 2 * a * 50 => a = -4 m/s^2. Lực hãm F = m * |a| = 2000 * 4 = 8000 N."
+  },
+  {
+    "question": "Một vật khối lượng m được kéo trượt trên mặt sàn nằm ngang bởi một lực kéo F hợp với phương ngang một góc alpha. Công thức tính độ lớn lực ma sát trượt tác dụng lên vật là gì? (Biết hệ số ma sát trượt là mu, hướng của F hướng chếch lên trên)",
+    "options": [
+      "Fms = mu * m * g",
+      "Fms = mu * (m * g - F * sin(alpha))",
+      "Fms = mu * (m * g + F * sin(alpha))",
+      "Fms = mu * F * cos(alpha)"
+    ],
+    "answer": "Fms = mu * (m * g - F * sin(alpha))",
+    "explanation": "Theo phương thẳng đứng, các lực cân bằng: N + F*sin(alpha) = P = m*g => N = m*g - F*sin(alpha). Lực ma sát trượt Fms = mu * N = mu * (m*g - F*sin(alpha))."
+  },
+  {
+    "question": "Hai vật được thả rơi tự do đồng thời từ hai độ cao h1 và h2 khác nhau. Biết thời gian rơi của vật thứ nhất gấp đôi thời gian rơi của vật thứ hai. Tỉ số giữa hai độ cao h1 / h2 là bao nhiêu?",
+    "options": [
+      "2",
+      "4",
+      "0,5",
+      "0,25"
+    ],
+    "answer": "4",
+    "explanation": "Ta có h tỉ lệ với t^2. Vì t1 = 2 * t2 nên t1^2 / t2^2 = 4. Do đó h1 / h2 = 4."
+  },
+  {
+    "question": "Một vật nhỏ khối lượng 500 g được ném xiên từ mặt đất với vận tốc ban đầu v0 hợp với phương ngang một góc 30 độ. Tầm cao cực đại mà vật đạt được là 5 m. Lấy g = 10 m/s^2, bỏ qua lực cản không khí. Vận tốc ban đầu v0 của vật bằng bao nhiêu?",
+    "options": [
+      "20 m/s",
+      "10 m/s",
+      "14,14 m/s",
+      "40 m/s"
+    ],
+    "answer": "20 m/s",
+    "explanation": "Công thức tầm cao cực đại: H = (v0 * sin(alpha))^2 / (2 * g) => 5 = (v0 * sin(30))^2 / 20 => (v0 * 0,5)^2 = 100 => v0 * 0,5 = 10 => v0 = 20 m/s."
+  }
+]

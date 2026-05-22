@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Súng tiểu liên AK cỡ bao nhiêu mm?",
+    "options": [
+      "5.56 mm",
+      "7.62 mm",
+      "9.00 mm",
+      "12.7 mm"
+    ],
+    "answer": "7.62 mm",
+    "explanation": "Theo sách giáo khoa, súng tiểu liên AK do Liên Xô chế tạo sử dụng cỡ đạn chuẩn là 7.62 mm."
+  },
+  {
+    "question": "Hộp tiếp đạn của súng tiểu liên AK chứa được tối đa bao nhiêu viên đạn?",
+    "options": [
+      "20 viên",
+      "30 viên",
+      "40 viên",
+      "50 viên"
+    ],
+    "answer": "30 viên",
+    "explanation": "Hộp tiếp đạn tiêu chuẩn đi kèm của súng tiểu liên AK có sức chứa tối đa là 30 viên đạn."
+  },
+  {
+    "question": "Tầm bắn hiệu quả của súng tiểu liên AK đối với mục tiêu mặt đất là bao nhiêu mét?",
+    "options": [
+      "400 mét",
+      "800 mét",
+      "1000 mét",
+      "1500 mét"
+    ],
+    "answer": "400 mét",
+    "explanation": "Mặc dù thước ngắm ghi đến 800 mét hoặc 1000 mét, tầm bắn hiệu quả nhất được tính toán trên thực địa đối với mục tiêu mặt đất là 400 mét."
+  },
+  {
+    "question": "Súng tiểu liên AK có mấy bộ phận chính khi tháo lắp thông thường?",
+    "options": [
+      "7 bộ phận",
+      "9 bộ phận",
+      "11 bộ phận",
+      "13 bộ phận"
+    ],
+    "answer": "11 bộ phận",
+    "explanation": "Khi tháo và lắp súng AK thông thường để lau chùi bảo dưỡng, súng bao gồm 11 bộ phận chính."
+  },
+  {
+    "question": "Trọng lượng của khẩu súng tiểu liên AK thường khi không có đạn là bao nhiêu kg?",
+    "options": [
+      "3.8 kg",
+      "4.3 kg",
+      "3.1 kg",
+      "4.8 kg"
+    ],
+    "answer": "3.8 kg",
+    "explanation": "Trọng lượng của súng AK cải tiến là 3.1 kg, còn súng AK thường khi chưa lắp hộp tiếp đạn nặng 3.8 kg."
+  },
+  {
+    "question": "Tốc độ đầu của đầu đạn súng tiểu liên AK thường là bao nhiêu mét trên giây?",
+    "options": [
+      "710 mét trên giây",
+      "715 mét trên giây",
+      "725 mét trên giây",
+      "735 mét trên giây"
+    ],
+    "answer": "710 mét trên giây",
+    "explanation": "Vận tốc ban đầu của đầu đạn súng tiểu liên AK khi rời khỏi nòng súng đạt mức 710 mét trên giây."
+  },
+  {
+    "question": "Lựu đạn phi 1 là loại lựu đạn dùng cho mục đích nào chủ yếu?",
+    "options": [
+      "Phòng ngự",
+      "Tấn công",
+      "Luyện tập",
+      "Khói độc"
+    ],
+    "answer": "Phòng ngự",
+    "explanation": "Lựu đạn phi 1 là loại lựu đạn phòng ngự, do có bán kính sát thương của mảnh văng lớn hơn bán kính ném."
+  },
+  {
+    "question": "Bán kính sát thương của lựu đạn phi 1 là bao nhiêu mét?",
+    "options": [
+      "5 mét",
+      "10 mét",
+      "15 mét",
+      "20 mét"
+    ],
+    "answer": "20 mét",
+    "explanation": "Theo thông số kỹ thuật, lựu đạn phòng ngự phi 1 có bán kính sát thương bằng các mảnh gang vụn lên tới 20 mét."
+  },
+  {
+    "question": "Thời gian cháy nổ chậm của ngòi nổ lựu đạn phi 1 kể từ khi giật chốt là khoảng bao lâu?",
+    "options": [
+      "1 đến 2 giây",
+      "3.2 đến 4.2 giây",
+      "5 đến 6 giây",
+      "7 đến 8 giây"
+    ],
+    "answer": "3.2 đến 4.2 giây",
+    "explanation": "Thời gian giữ chậm từ khi cần bẩy bật ra cho đến khi kíp nổ kích hoạt lựu đạn phi 1 là từ 3.2 đến 4.2 giây."
+  },
+  {
+    "question": "Trọng lượng toàn bộ của quả lựu đạn phi 1 là bao nhiêu gam?",
+    "options": [
+      "300 gam",
+      "450 gam",
+      "600 gam",
+      "750 gam"
+    ],
+    "answer": "450 gam",
+    "explanation": "Một quả lựu đạn phi 1 hoàn chỉnh bao gồm cả thân vỏ và ngòi nổ có trọng lượng là 450 gam."
+  },
+  {
+    "question": "Loại lựu đạn chày thường có phần vỏ được làm bằng chất liệu gì?",
+    "options": [
+      "Nhôm nhẹ",
+      "Gang hoặc sắt",
+      "Nhựa dẻo",
+      "Đồng thau"
+    ],
+    "answer": "Gang hoặc sắt",
+    "explanation": "Thân lựu đạn chày được làm bằng gang hoặc sắt, bên trong nhồi thuốc nổ để tạo mảnh văng khi phát nổ."
+  },
+  {
+    "question": "Có mấy tư thế, động tác cơ bản khi ném lựu đạn?",
+    "options": [
+      "2 tư thế",
+      "3 tư thế",
+      "4 tư thế",
+      "5 tư thế"
+    ],
+    "answer": "3 tư thế",
+    "explanation": "Trong huấn luyện chiến đấu, học sinh được học 3 tư thế ném lựu đạn cơ bản gồm: Đứng ném, quỳ ném và nằm ném."
+  },
+  {
+    "question": "Động tác đi khom thường được áp dụng trong điều kiện địa hình như thế nào?",
+    "options": [
+      "Địa hình bằng phẳng, trống trải",
+      "Địa hình có vật che khuất, che đỡ cao ngang tầm ngực",
+      "Địa hình có cỏ rậm rạp cao ngang đầu",
+      "Khi hành quân ban đêm trên đường quốc lộ"
+    ],
+    "answer": "Địa hình có vật che khuất, che đỡ cao ngang tầm ngực",
+    "explanation": "Đi khom được dùng khi gần địch, nơi có địa hình che khuất, che đỡ cao ngang tầm ngực hoặc tầm bụng."
+  },
+  {
+    "question": "Khi thực hiện động tác bò cao, người chiến sĩ có thể mang theo vũ khí bằng cách nào?",
+    "options": [
+      "Súng đeo sau lưng",
+      "Súng sẵn sàng trên tay hoặc đặt trên cẳng tay",
+      "Súng cắm dưới đất",
+      "Súng tháo rời cất vào ba lô"
+    ],
+    "answer": "Súng sẵn sàng trên tay hoặc đặt trên cẳng tay",
+    "explanation": "Khi bò cao, súng thường được đặt trên cẳng tay hoặc cầm tay để sẵn sàng xử lý các tình huống bất ngờ."
+  },
+  {
+    "question": "Động tác lê thường được sử dụng khi người chiến sĩ cần di chuyển trong trạng thái nào?",
+    "options": [
+      "Cần di chuyển nhanh, gấp gáp",
+      "Cần áp sát địch thật êm, chiều cao vật che khuất thấp",
+      "Khi vượt qua chướng ngại vật cao",
+      "Khi vận chuyển thương binh ở bãi trống"
+    ],
+    "answer": "Cần áp sát địch thật êm, chiều cao vật che khuất thấp",
+    "explanation": "Động tác lê áp dụng khi gần địch, cần di chuyển nhẹ nhàng, bí mật, tận dụng địa hình thấp."
+  },
+  {
+    "question": "Trong các tư thế vận động, động tác trườn thường dùng để làm gì?",
+    "options": [
+      "Vượt qua bãi mìn, hàng rào dây kẽm gai thấp của địch",
+      "Chạy nhanh đánh chiếm mục tiêu",
+      "Rút lui khi bị bao vây",
+      "Hành quân đường dài"
+    ],
+    "answer": "Vượt qua bãi mìn, hàng rào dây kẽm gai thấp của địch",
+    "explanation": "Động tác trườn (bò sấp) giúp thu nhỏ tối đa diện tích cơ thể, thường dùng để chui qua hàng rào kẽm gai hoặc bãi vật cản thấp."
+  },
+  {
+    "question": "Mục đích chính của việc học các tư thế, động tác cơ bản trong chiến đấu là gì?",
+    "options": [
+      "Rèn luyện thể lực đơn thuần",
+      "Để biểu diễn trong các ngày lễ lớn",
+      "Giúp chiến sĩ di chuyển bí mật, an toàn và tiêu diệt địch hiệu quả",
+      "Để học thuộc lòng lý thuyết quân sự"
+    ],
+    "answer": "Giúp chiến sĩ di chuyển bí mật, an toàn và tiêu diệt địch hiệu quả",
+    "explanation": "Các động tác này đúc kết từ thực tiễn chiến đấu nhằm bảo vệ tính mạng chiến sĩ và tiếp cận tiêu diệt địch."
+  },
+  {
+    "question": "Quân đội nhân dân Việt Nam gồm có mấy quân chủng?",
+    "options": [
+      "2 quân chủng",
+      "3 quân chủng",
+      "4 quân chủng",
+      "5 quân chủng"
+    ],
+    "answer": "3 quân chủng",
+    "explanation": "Quân đội nhân dân Việt Nam có 3 quân chủng là: Lục quân, Hải quân và Phòng không - Không quân."
+  },
+  {
+    "question": "Lực lượng nào giữ vai trò nòng cốt trong quản lý, bảo vệ chủ quyền biển đảo của Tổ quốc?",
+    "options": [
+      "Quân chủng Lục quân",
+      "Quân chủng Hải quân",
+      "Bộ đội Biên phòng",
+      "Dân quân tự vệ biển"
+    ],
+    "answer": "Quân chủng Hải quân",
+    "explanation": "Quân chủng Hải quân là lực lượng nòng cốt trong sự nghiệp quản lý và bảo vệ chủ quyền biển, đảo, thềm lục địa của Việt Nam."
+  },
+  {
+    "question": "Ngày truyền thống của Quân đội nhân dân Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 30 tháng 4",
+      "Ngày 2 tháng 9",
+      "Ngày 22 tháng 12",
+      "Ngày 19 tháng 8"
+    ],
+    "answer": "Ngày 22 tháng 12",
+    "explanation": "Ngày 22 tháng 12 năm 1944 là ngày thành lập Đội Việt Nam Tuyên truyền Giải phóng quân, nay là Ngày truyền thống Quân đội nhân dân Việt Nam."
+  },
+  {
+    "question": "Tại sao súng tiểu liên AK lại có tên gọi là AK-47?",
+    "options": [
+      "Vì súng nặng 4.7 kg",
+      "Vì súng được thiết kế hoàn thành vào năm 1947",
+      "Vì súng có tầm bắn hiệu quả là 470 mét",
+      "Vì súng sử dụng loại đạn có mã số 47"
+    ],
+    "answer": "Vì súng được thiết kế hoàn thành vào năm 1947",
+    "explanation": "AK-47 viết tắt của Avtomat Kalashnikova mẫu năm 1947, là năm nhà thiết kế Mikhail Kalashnikov hoàn thiện khẩu súng này."
+  },
+  {
+    "question": "Điểm khác biệt cơ bản về nguyên lý sát thương giữa lựu đạn phi 1 và lựu đạn tấn công là gì?",
+    "options": [
+      "Lựu đạn phi 1 sát thương chủ yếu bằng sóng xung kích thuốc nổ",
+      "Lựu đạn phi 1 sát thương chủ yếu bằng các mảnh văng của vỏ gang",
+      "Lựu đạn tấn công có trọng lượng nặng hơn rất nhiều",
+      "Lựu đạn phi 1 không sử dụng kíp nổ cháy chậm"
+    ],
+    "answer": "Lựu đạn phi 1 sát thương chủ yếu bằng các mảnh văng của vỏ gang",
+    "explanation": "Lựu đạn phòng ngự (phi 1) tạo ra rất nhiều mảnh gang nhỏ có tính sát thương cao trong phạm vi rộng, yêu cầu người ném phải ở trong công sự bảo vệ."
+  },
+  {
+    "question": "Khi tháo súng tiểu liên AK, bước đầu tiên bắt buộc phải thực hiện để đảm bảo an toàn là gì?",
+    "options": [
+      "Tháo nắp hộp khóa nòng",
+      "Khám súng (kiểm tra đạn trong buồng đạn)",
+      "Tháo hộp tiếp đạn",
+      "Tháo thông nòng"
+    ],
+    "answer": "Tháo hộp tiếp đạn",
+    "explanation": "Quy tắc an toàn tối cao khi tháo súng là phải tháo hộp tiếp đạn ra trước, sau đó mới kéo bệ khóa nòng để khám súng nhằm tránh cướp cò."
+  },
+  {
+    "question": "Tại sao khi ném lựu đạn phi 1, người ném lại cần phải đứng sau vật che đỡ hoặc ở trong công sự?",
+    "options": [
+      "Vì lựu đạn phi 1 quá nặng không thể ném xa",
+      "Vì bán kính sát thương của mảnh văng lớn hơn khoảng cách ném thông thường",
+      "Vì lựu đạn phi 1 khi nổ tạo ra khói độc độc hại",
+      "Vì tiếng nổ của lựu đạn phi 1 có thể làm điếc tai người ném"
+    ],
+    "answer": "Vì bán kính sát thương của mảnh văng lớn hơn khoảng cách ném thông thường",
+    "explanation": "Lựu đạn phi 1 có bán kính sát thương mảnh lên đến 20 mét. Người ném thông thường chỉ ném được tầm 25 đến 30 mét, nên phải ẩn nấp để tránh bị mảnh văng ngược lại trúng bản thân."
+  },
+  {
+    "question": "Sự khác nhau giữa thước ngắm chữ P (hoặc số 3) và các thước ngắm khác trên súng AK là gì?",
+    "options": [
+      "Thước ngắm chữ P chỉ dùng để bắn ban đêm",
+      "Thước ngắm chữ P tương đương với thước ngắm tầm bắn thẳng (thường tương đương thước ngắm 3)",
+      "Thước ngắm chữ P là chế độ bắn không cần ngắm",
+      "Thước ngắm chữ P chỉ dùng cho đạn vạch đường"
+    ],
+    "answer": "Thước ngắm chữ P tương đương với thước ngắm tầm bắn thẳng (thường tương đương thước ngắm 3)",
+    "explanation": "Thước ngắm P (thường gọi là thước ngắm chiến đấu) tương ứng với tầm bắn thẳng đối với các mục tiêu cao ngang tầm người mà không cần thay đổi thước ngắm liên tục."
+  },
+  {
+    "question": "Khi ngắm bắn, nếu người bắn chọn sai đường ngắm cơ bản (ví dụ đầu ngắm lệch sang phải) thì kết quả phát bắn sẽ thế nào?",
+    "options": [
+      "Đạn vẫn trúng tâm do súng tự điều hướng",
+      "Điểm chạm của đạn trên mục tiêu sẽ bị lệch sang bên phải",
+      "Điểm chạm của đạn trên mục tiêu sẽ bị lệch sang bên trái",
+      "Đạn sẽ bay vọt lên cao"
+    ],
+    "answer": "Điểm chạm của đạn trên mục tiêu sẽ bị lệch sang bên phải",
+    "explanation": "Đầu ngắm lệch về bên nào so với khe ngắm thì điểm chạm của đạn trên mục tiêu sẽ bị lệch về phía bên đó."
+  },
+  {
+    "question": "Động tác 'vọt tiến' trong chiến đấu thường được áp dụng trong tình huống nào dưới đây?",
+    "options": [
+      "Khi cần di chuyển bí mật qua bãi cỏ thấp",
+      "Khi địch đang ngừng bắn hoặc bắn bắn không chính xác, cần nhanh chóng vượt qua một khoảng địa hình trống trải",
+      "Khi hành quân đêm qua rừng rậm",
+      "Khi đang rút lui để bảo toàn lực lượng"
+    ],
+    "answer": "Khi địch đang ngừng bắn hoặc bắn bắn không chính xác, cần nhanh chóng vượt qua một khoảng địa hình trống trải",
+    "explanation": "Vọt tiến là động tác chạy nhanh, chớp thời cơ địch đang sơ hở hoặc hỏa lực yếu để chiếm lĩnh vị trí có lợi một cách nhanh nhất."
+  },
+  {
+    "question": "Khi thực hiện động tác đi khom cao, tư thế của hai chân như thế nào?",
+    "options": [
+      "Hai chân thẳng đứng, bước đi bình thường",
+      "Hai chân hơi chùng xuống, bước đi nhẹ nhàng, trọng tâm hạ thấp",
+      "Hai chân bắt chéo nhau khi di chuyển",
+      "Nhảy lò cò từng bước một"
+    ],
+    "answer": "Hai chân hơi chùng xuống, bước đi nhẹ nhàng, trọng tâm hạ thấp",
+    "explanation": "Đi khom yêu cầu hai gối chùng xuống để hạ thấp chiều cao cơ thể, giúp tận dụng vật che khuất che đỡ trên đường di chuyển."
+  },
+  {
+    "question": "Điểm cốt lõi để phân biệt động tác 'lê' và động tác 'trườn' là gì?",
+    "options": [
+      "Động tác lê sử dụng khi mang lựu đạn, trườn sử dụng khi mang súng",
+      "Động tác lê người chiến sĩ nghiêng sườn sang một bên, còn trườn là nằm sấp áp bụng xuống đất",
+      "Động tác lê di chuyển nhanh hơn động tác trườn rất nhiều",
+      "Động tác trườn chỉ dùng khi đi lùi"
+    ],
+    "answer": "Động tác lê người chiến sĩ nghiêng sườn sang một bên, còn trườn là nằm sấp áp bụng xuống đất",
+    "explanation": "Lê là động tác nghiêng người sang một bên, dùng một tay và một chân để đẩy cơ thể tiến lên. Trườn (bò sấp) đòi hỏi áp sát toàn bộ bụng và ngực xuống mặt đất."
+  },
+  {
+    "question": "Tại sao khi di chuyển bằng động tác chạy khom, người chiến sĩ không được ngẩng cao đầu?",
+    "options": [
+      "Để tránh bị mỏi cổ khi di chuyển xa",
+      "Để tránh làm rơi mũ bảo hiểm quân trang",
+      "Để không vượt quá chiều cao của vật che khuất, tránh bị địch phát hiện và bắn trúng",
+      "Để dễ dàng nhìn thấy chướng ngại vật dưới chân"
+    ],
+    "answer": "Để không vượt quá chiều cao của vật che khuất, tránh bị địch phát hiện và bắn trúng",
+    "explanation": "Mục đích của đi khom hay chạy khom là tận dụng vật che đỡ. Nếu ngẩng cao đầu sẽ làm lộ vị trí trước tầm nhìn của kẻ địch."
+  },
+  {
+    "question": "Lực lượng nào không thuộc cơ cấu thành phần quân chủng của Quân đội nhân dân Việt Nam nhưng trực thuộc Bộ Quốc phòng?",
+    "options": [
+      "Bộ đội Biên phòng",
+      "Cảnh sát biển Việt Nam",
+      "Quân chủng Hải quân",
+      "Cả Bộ đội Biên phòng và Cảnh sát biển Việt Nam"
+    ],
+    "answer": "Cả Bộ đội Biên phòng và Cảnh sát biển Việt Nam",
+    "explanation": "Bộ đội Biên phòng và Cảnh sát biển là các lực lượng chuyên trách của Bộ Quốc phòng, không nằm trong 3 quân chủng (Lục quân, Hải quân, Phòng không - Không quân)."
+  },
+  {
+    "question": "Chức năng quản lý nhà nước về an ninh quốc gia, trật tự an toàn xã hội thuộc về bộ nào?",
+    "options": [
+      "Bộ Quốc phòng",
+      "Bộ Công an",
+      "Bộ Tư pháp",
+      "Bộ Ngoại giao"
+    ],
+    "answer": "Bộ Công an",
+    "explanation": "Bộ Công an có chức năng tham mưu cho Đảng và Nhà nước về quản lý an ninh quốc gia, giữ gìn trật tự an toàn xã hội."
+  },
+  {
+    "question": "Hệ thống học viện, trường đại học trong quân đội tuyển sinh đối tượng nào?",
+    "options": [
+      "Chỉ tuyển sinh quân nhân đang tại ngũ",
+      "Tuyển sinh cả nam thanh niên ngoài quân đội và quân nhân tại ngũ nếu đủ tiêu chuẩn",
+      "Chỉ tuyển sinh con em của cán bộ ngành quân đội",
+      "Chỉ tuyển sinh học sinh giỏi quốc gia"
+    ],
+    "answer": "Tuyển sinh cả nam thanh niên ngoài quân đội và quân nhân tại ngũ nếu đủ tiêu chuẩn",
+    "explanation": "Các trường quân đội tuyển sinh rộng rãi công dân nam, nữ ngoại ngũ (theo chỉ tiêu) và hạ sĩ quan, binh sĩ đang phục vụ tại ngũ đáp ứng đủ điều kiện quy định."
+  },
+  {
+    "question": "Bộ phận nào của súng tiểu liên AK có tác dụng đẩy bệ khóa nòng và khóa nòng về phía trước?",
+    "options": [
+      "Bộ phận cò",
+      "Bộ phận đẩy về (lò xo đẩy về)",
+      "Ống dẫn thoi và ốp lót tay",
+      "Thoạt nhìn là nòng súng"
+    ],
+    "answer": "Bộ phận đẩy về (lò xo đẩy về)",
+    "explanation": "Bộ phận đẩy về chứa lò xo có nhiệm vụ đẩy bệ khóa nòng và khóa nòng về phía trước sau khi súng lùi hết cỡ, giúp nạp viên đạn tiếp theo vào buồng đạn."
+  },
+  {
+    "question": "Ngòi nổ của lựu đạn phi 1 hoạt động dựa trên nguyên lý nào khi ta rút chốt an toàn và buông cần bẩy?",
+    "options": [
+      "Kim hỏa đập vào hạt lửa dưới tác dụng của lò xo kim hỏa, đốt cháy thuốc cháy chậm",
+      "Lựu đạn tự kích nổ bằng sóng vô tuyến",
+      "Thuốc nổ tự kích hoạt khi tiếp xúc với không khí bên ngoài",
+      "Ma sát sinh nhiệt khi quả lựu đạn xoay vòng trên không"
+    ],
+    "answer": "Kim hỏa đập vào hạt lửa dưới tác dụng của lò xo kim hỏa, đốt cháy thuốc cháy chậm",
+    "explanation": "Khi cần bẩy bật ra, lò xo đẩy kim hỏa chọc vào hạt lửa làm phát lửa, bắt vào thuốc cháy chậm, sau vài giây thuốc cháy hết sẽ kích nổ kíp và làm nổ lựu đạn."
+  },
+  {
+    "question": "Trong bài thực hành bắn súng tiểu liên AK, tư thế nằm bắn có bệ tì giúp ích gì cho học sinh?",
+    "options": [
+      "Giúp tăng tốc độ bắn nhanh hơn gấp đôi",
+      "Giúp súng ổn định, giảm rung lắc, nâng cao độ chính xác khi ngắm trúng mục tiêu",
+      "Giúp người bắn không bị giật lùi về phía sau",
+      "Giúp súng tự động ngắm trúng hồng tâm"
+    ],
+    "answer": "Giúp súng ổn định, giảm rung lắc, nâng cao độ chính xác khi ngắm trúng mục tiêu",
+    "explanation": "Tư thế nằm bắn có bệ tì cung cấp điểm tựa vững chắc cho tay đỡ súng, hạn chế tối đa sự rung động của cơ thể lên đường ngắm."
+  },
+  {
+    "question": "Khi đang bò tiến sát công sự địch, nếu phát hiện địch ném một quả lựu đạn về phía mình, hành động nào sau đây là đúng kỹ thuật nhất?",
+    "options": [
+      "Đứng thẳng dậy và bỏ chạy thật nhanh ngược lại",
+      "Nhanh chóng nằm sấp hướng đỉnh đầu về phía quả lựu đạn, hai tay ôm đầu, nhắm mắt, mở miệng",
+      "Cố gắng nhặt quả lựu đạn ném trả lại ngay lập tức",
+      "Nằm ngửa ra nhìn xem lựu đạn nổ như thế nào"
+    ],
+    "answer": "Nhanh chóng nằm sấp hướng đỉnh đầu về phía quả lựu đạn, hai tay ôm đầu, nhắm mắt, mở miệng",
+    "explanation": "Nằm sấp hướng đỉnh đầu về phía lựu đạn giúp giảm diện tích tiếp xúc của cơ thể với mảnh văng. Há miệng giúp cân bằng áp lực màng nhĩ khi sóng xung kích nổ ập đến."
+  },
+  {
+    "question": "Tại sao khi tập ném lựu đạn xa trúng đích, người ném cần phải phối hợp lực của toàn thân (chân, lườn, tay) chứ không chỉ dùng lực của cánh tay?",
+    "options": [
+      "Để động tác trông đẹp mắt và uyển chuyển hơn",
+      "Để tận dụng tối đa lực quán tính toàn thân, giúp lựu đạn bay đi xa hơn và chuẩn xác hơn",
+      "Vì luật quy định bắt buộc phải làm như vậy",
+      "Để tránh tiếng động lớn phát ra từ cơ bắp"
+    ],
+    "answer": "Để tận dụng tối đa lực quán tính toàn thân, giúp lựu đạn bay đi xa hơn và chuẩn xác hơn",
+    "explanation": "Ném lựu đạn yêu cầu lực tổng hợp từ chân đẩy, xoay lườn kết thúc bằng sức rướn của cánh tay và cổ tay để đạt tầm bay xa tối đa."
+  },
+  {
+    "question": "Khi thực hiện động tác lăn ngắn trên chiến trường, vũ khí phải được giữ như thế nào?",
+    "options": [
+      "Đeo súng chéo sau lưng, hai tay thả tự do để lăn",
+      "Súng kẹp dọc theo thân người, tay giữ súng cố định để tránh va đập và sẵn sàng chiến đấu",
+      "Giơ súng lên cao bằng cả hai tay trong suốt quá trình lăn",
+      "Để súng lại vị trí cũ, lăn xong quay lại lấy"
+    ],
+    "answer": "Súng kẹp dọc theo thân người, tay giữ súng cố định để tránh va đập và sẵn sàng chiến đấu",
+    "explanation": "Khi lăn, phải ôm súng sát thân mình để tránh súng bị va đập mạnh dính đất cát vào bộ phận chuyển động, đồng thời đảm bảo không bị vướng khi lăn."
+  },
+  {
+    "question": "Điểm giống nhau cơ bản giữa động tác 'lê cao' và 'lê thấp' là gì?",
+    "options": [
+      "Đều phải sử dụng cả hai tay để đẩy cơ thể",
+      "Đều di chuyển bằng cách nghiêng sườn, lấy một tay và một chân làm trụ lực",
+      "Đều phải áp sát toàn bộ ngực bụng xuống mặt bùn",
+      "Đều chỉ được thực hiện khi lùi về phía sau"
+    ],
+    "answer": "Đều di chuyển bằng cách nghiêng sườn, lấy một tay và một chân làm trụ lực",
+    "explanation": "Cả hai hình thức lê cao và lê thấp đều sử dụng một bên sườn làm hướng tiếp xúc chính, dùng tay và chân của bên đó để nâng đẩy cơ thể tiến lên."
+  },
+  {
+    "question": "Khi bò qua khu vực có nhiều dây cây gai chằng chịt tầm thấp, người chiến sĩ nên ưu tiên sử dụng động tác nào?",
+    "options": [
+      "Vọt tiến nhanh",
+      "Trườn (bò sấp)",
+      "Đi khom cao",
+      "Chạy ziczac"
+    ],
+    "answer": "Trườn (bò sấp)",
+    "explanation": "Trườn giúp hạ thấp cơ thể xuống sát mặt đất nhất, giúp lọt qua các khoảng trống dưới các tán cây gai hoặc hàng rào dây kẽm gai một cách bí mật."
+  },
+  {
+    "question": "Để trở thành một Sĩ quan Quân đội nhân dân Việt Nam, học sinh trung học phổ thông cần con đường nào phổ biến nhất?",
+    "options": [
+      "Đăng ký đi làm nghĩa vụ quân sự tự nguyện suốt đời",
+      "Thi đỗ và tốt nghiệp các trường Học viện, Đại học thuộc hệ thống Quân đội",
+      "Tham gia các câu lạc bộ súng sơn tại địa phương",
+      "Học hết đại học dân sự rồi nộp đơn xin cấp hàm sĩ quan"
+    ],
+    "answer": "Thi đỗ và tốt nghiệp các trường Học viện, Đại học thuộc hệ thống Quân đội",
+    "explanation": "Con đường chính quy và phổ biến nhất là đăng ký tuyển sinh quân sự, thi đỗ và hoàn thành chương trình đào tạo tại các trường sĩ quan, học viện quân đội."
+  },
+  {
+    "question": "Sự khác biệt về quyền hạn xử lý vi phạm trật tự an toàn xã hội giữa Bộ đội Biên phòng và lực lượng Công an nhân dân là gì?",
+    "options": [
+      "Bộ đội Biên phòng xử lý trên phạm vi toàn quốc, Công an xử lý ở biên giới",
+      "Bộ đội Biên phòng chủ trì chuyên trách ở khu vực biên giới, hải đảo; Công an phụ trách nội địa và toàn diện xã hội",
+      "Công an không có quyền bắt giữ tội phạm ma túy",
+      "Bộ đội Biên phòng có quyền xét xử thay tòa án ở vùng sâu vùng xa"
+    ],
+    "answer": "Bộ đội Biên phòng chủ trì chuyên trách ở khu vực biên giới, hải đảo; Công an phụ trách nội địa và toàn diện xã hội",
+    "explanation": "Biên phòng là lực lượng chuyên trách quản lý bảo vệ chủ quyền biên giới quốc gia. Công an quản lý toàn diện về an ninh trật tự trong phạm vi toàn quốc, đặc biệt là khu vực nội địa."
+  },
+  {
+    "question": "Tại sao nói lực lượng Dân quân tự vệ là lực lượng vũ trang quần chúng không thoát ly sản xuất?",
+    "options": [
+      "Vì họ không được cấp phát bất kỳ loại vũ khí nào khi làm nhiệm vụ",
+      "Vì họ vừa tham gia lao động, học tập, sản xuất tại địa phương, vừa sẵn sàng chiến đấu khi có lệnh kích hoạt",
+      "Vì họ chỉ làm việc vào ban đêm, ban ngày được nghỉ ngơi hoàn toàn",
+      "Vì họ là lực lượng quân đội chính quy đóng quân tại các nhà máy"
+    ],
+    "answer": "Vì họ vừa tham gia lao động, học tập, sản xuất tại địa phương, vừa sẵn sàng chiến đấu khi có lệnh kích hoạt",
+    "explanation": "Dân quân tự vệ là lực lượng vũ trang quần chúng bảo vệ địa phương, cơ quan nhưng vẫn duy trì công việc dân sự bình thường (không thoát ly sản xuất)."
+  },
+  {
+    "question": "Khi bắn súng tiểu liên AK, nếu người bắn nghe thấy tiếng nổ nhỏ khác thường, khói bốc ra nhiều từ bệ khóa nòng và đạn không chu chuyển, họ nên làm gì?",
+    "options": [
+      "Tiếp tục bóp cò liên tục xem súng có bắn được tiếp không",
+      "Ngừng bắn ngay lập tức, giữ nguyên hướng súng về mục tiêu, báo cáo giáo viên để kiểm tra vì có thể đạn bị kẹt hoặc kẹt đầu đạn trong nòng",
+      "Dùng tay đập mạnh vào hộp tiếp đạn để đẩy đạn lên",
+      "Nhìn trực diện từ phía trước nòng súng xem đạn có bị kẹt bên trong hay không"
+    ],
+    "answer": "Ngừng bắn ngay lập tức, giữ nguyên hướng súng về mục tiêu, báo cáo giáo viên để kiểm tra vì có thể đạn bị kẹt hoặc kẹt đầu đạn trong nòng",
+    "explanation": "Hiện tượng nổ nhỏ khác thường có thể do đạn thối hoặc thiếu thuốc nổ khiến đầu đạn chưa ra khỏi nòng. Nếu bắn tiếp phát sau sẽ gây nổ nòng súng, cực kỳ nguy hiểm."
+  },
+  {
+    "question": "Giả sử bạn đang ngắm một mục tiêu ở khoảng cách 300 mét với thước ngắm số 3. Nếu gió tạt mạnh từ trái sang phải, bạn cần xử lý đường ngắm như thế nào để đạn trúng đích?",
+    "options": [
+      "Ngắm lệch sang bên phải mục tiêu một chút",
+      "Ngắm lệch sang bên trái mục tiêu một chút để bù trừ độ dạt của gió",
+      "Giữ nguyên tâm ngắm cũ vì gió không ảnh hưởng tới đạn AK",
+      "Hạ thước ngắm xuống số 1"
+    ],
+    "answer": "Ngắm lệch sang bên trái mục tiêu một chút để bù trừ độ dạt của gió",
+    "explanation": "Gió thổi từ trái sang phải sẽ đẩy đầu đạn dạt sang phải. Do đó người bắn phải chủ động dịch điểm ngắm sang bên trái mục tiêu để khi đạn bị dạt là vừa vặn trúng đích."
+  },
+  {
+    "question": "Trong tình huống tiếp cận một ngôi nhà có địch đang cố thủ, cửa sổ cao ngang ngực và xung quanh có nhiều bờ tường đổ nát cao tầm 1 mét, chuỗi động tác di chuyển phối hợp nào là hợp lý nhất?",
+    "options": [
+      "Trườn sấp qua bãi đất trống, sau đó đi khom tận dụng bờ tường đổ, rồi vọt tiến áp sát",
+      "Đứng thẳng chạy nhanh qua bãi trống, rồi bò cao qua tường đổ",
+      "Lê thấp toàn bộ quãng đường bất chấp chiều cao vật cản",
+      "Lăn ngắn liên tục từ vị trí xuất phát cho đến khi chạm cửa sổ ngôi nhà"
+    ],
+    "answer": "Trườn sấp qua bãi đất trống, sau đó đi khom tận dụng bờ tường đổ, rồi vọt tiến áp sát",
+    "explanation": "Sự kết hợp này tuân thủ nguyên tắc: Địa hình trống trải thấp phải trườn để giấu mình, địa hình có bờ tường cao 1 mét dùng đi khom để di chuyển nhanh mà vẫn được che khuất, cuối cùng dùng vọt tiến để áp sát nhanh chóng."
+  },
+  {
+    "question": "Một người chiến sĩ nhận nhiệm vụ ném lựu đạn tiêu diệt một ổ súng máy của địch trong lô cốt. Khoảng cách từ vị trí ẩn nấp đến mục tiêu là 35 mét, phía trước không có vật che đỡ cao. Tư thế ném nào là tối ưu và an toàn nhất?",
+    "options": [
+      "Đứng ném ngay tại chỗ trống để lấy lực khỏe nhất",
+      "Nằm ném bí mật tại chỗ ẩn nấp, tận dụng tối đa sự che chở của nền đất để tránh hỏa lực quét từ ổ súng máy",
+      "Quỳ ném giữa bãi trống để ném được cao hơn",
+      "Vừa chạy vừa ném lựu đạn giống như ném bóng rổ"
+    ],
+    "answer": "Nằm ném bí mật tại chỗ ẩn nấp, tận dụng tối đa sự che chở của nền đất để tránh hỏa lực quét từ ổ súng máy",
+    "explanation": "Ổ súng máy địch có hỏa lực rất mạnh quét tầm thấp và trung. Việc đứng hay quỳ ở nơi không có che đỡ cao sẽ khiến chiến sĩ trúng đạn ngay lập tức. Nằm ném giúp bảo vệ an toàn tối đa cho chiến sĩ."
+  },
+  {
+    "question": "Trong xu hướng xây dựng Quân đội nhân dân Việt Nam hiện nay, những lực lượng nào được xác định tiến thẳng lên hiện đại?",
+    "options": [
+      "Toàn bộ tất cả các lực lượng trong quân đội không ngoại trừ lực lượng nào",
+      "Các lực lượng như Hải quân, Phòng không - Không quân, Thông tin liên lạc, Tác chiến điện tử, Tình báo",
+      "Chỉ duy nhất lực lượng Lục quân bộ binh",
+      "Chỉ các trường đại học và học viện quân đội"
+    ],
+    "answer": "Các lực lượng như Hải quân, Phòng không - Không quân, Thông tin liên lạc, Tác chiến điện tử, Tình báo",
+    "explanation": "Theo nghị quyết của Đảng và Nhà nước, một số quân binh chủng kỹ thuật cao, có vai trò bảo vệ không gian chủ quyền cốt lõi sẽ được đầu tư ưu tiên tiến thẳng lên hiện đại trước."
+  },
+  {
+    "question": "Khi phân tích về mối quan hệ giữa quốc phòng và an ninh, nhận định nào sau đây phản ánh chính xác nhất bản chất khoa học quân sự Việt Nam?",
+    "options": [
+      "Quốc phòng và an ninh là hai nhiệm vụ hoàn toàn độc lập, không liên quan đến nhau",
+      "Quốc phòng tập trung đối phó ngoại xâm bảo vệ lãnh thổ; an ninh tập trung giữ gìn trật tự nội địa; hai yếu tố này gắn kết khăng khít, tạo nền tảng vững chắc cho nhau",
+      "Chỉ cần làm tốt công tác an ninh nội địa thì không cần quan tâm đến công tác quốc phòng",
+      "Quốc phòng có vai trò quyết định hoàn toàn và thay thế luôn cho vai trò của lực lượng an ninh"
+    ],
+    "answer": "Quốc phòng tập trung đối phó ngoại xâm bảo vệ lãnh thổ; an ninh tập trung giữ gìn trật tự nội địa; hai yếu tố này gắn kết khăng khít, tạo nền tảng vững chắc cho nhau",
+    "explanation": "Quốc phòng bảo vệ mặt ngoài (chủ quyền, toàn vẹn lãnh thổ), an ninh ổn định mặt trong (trật tự xã hội). Một đất nước nội địa bất ổn không thể có quốc phòng mạnh, ngược lại quốc phòng yếu sẽ khiến an ninh quốc gia bị đe dọa từ bên ngoài."
+  }
+]

@@ -1,0 +1,553 @@
+
+[
+  {
+    "question": "Theo tiêu chí nguồn gốc hình thành, rừng được chia thành những loại nào?",
+    "options": [
+      "Rừng tự nhiên và rừng trồng",
+      "Rừng phòng hộ và rừng đặc dụng",
+      "Rừng lá rộng và rừng lá kim",
+      "Rừng tre nứa và rừng hỗn giao"
+    ],
+    "answer": "Rừng tự nhiên và rừng trồng",
+    "explanation": "Dựa vào nguồn gốc hình thành, rừng được phân chia thành hai loại chính là rừng tự nhiên (hình thành tự nhiên) và rừng trồng (do con người trồng)."
+  },
+  {
+    "question": "Loại rừng nào sau đây được thành lập chủ yếu để bảo tồn thiên nhiên, mẫu chuẩn hệ sinh thái rừng của quốc gia?",
+    "options": [
+      "Rừng sản xuất",
+      "Rừng phòng hộ",
+      "Rừng đặc dụng",
+      "Rừng phòng hộ đầu nguồn"
+    ],
+    "answer": "Rừng đặc dụng",
+    "explanation": "Rừng đặc dụng được sử dụng chủ yếu để bảo tồn thiên nhiên, mẫu chuẩn hệ sinh thái rừng của quốc gia, nguồn gen sinh vật rừng, nghiên cứu khoa học."
+  },
+  {
+    "question": "Nhiệm vụ chính của rừng phòng hộ là gì?",
+    "options": [
+      "Cung cấp gỗ và lâm sản ngoài gỗ",
+      "Bảo vệ nguồn nước, bảo vệ đất, chống xói mòn, hạn chế thiên tai",
+      "Phục vụ nghiên cứu khoa học và tham quan du lịch",
+      "Cung cấp nguyên liệu cho công nghiệp chế biến giấy"
+    ],
+    "answer": "Bảo vệ nguồn nước, bảo vệ đất, chống xói mòn, hạn chế thiên tai",
+    "explanation": "Rừng phòng hộ được sử dụng chủ yếu để bảo vệ nguồn nước, bảo vệ đất, chống xói mòn, sạt lở, lũ lụt, chắn cát bay, chắn sóng, điều hòa khí hậu."
+  },
+  {
+    "question": "Thời gian chiếu sáng tối thiểu trong ngày để cây công nghiệp dài ngày giai đoạn vườn ươm phát triển tốt là bao nhiêu?",
+    "options": [
+      "2 đến 3 giờ",
+      "4 đến 6 giờ",
+      "8 đến 10 giờ",
+      "12 đến 14 giờ"
+    ],
+    "answer": "4 đến 6 giờ",
+    "explanation": "Ở giai đoạn vườn ươm, cây con thường cần bóng râm che bớt, thời gian chiếu sáng hữu hiệu thích hợp chỉ cần từ 4 đến 6 giờ mỗi ngày."
+  },
+  {
+    "question": "Trong công tác trồng rừng, việc dọn sạch thực bì quanh hố trồng thường được thực hiện với đường kính khoảng bao nhiêu?",
+    "options": [
+      "20 đến 30 cm",
+      "40 đến 50 cm",
+      "80 đến 100 cm",
+      "150 đến 200 cm"
+    ],
+    "answer": "80 đến 100 cm",
+    "explanation": "Để tránh sự cạnh tranh dinh dưỡng và ánh sáng của cỏ dại, người ta thường dọn sạch thực bì xung quanh hố trồng với đường kính từ 80 đến 100 cm."
+  },
+  {
+    "question": "Hoạt động nào sau đây thuộc khâu chăm sóc rừng trồng?",
+    "options": [
+      "Khảo sát thực địa bãi trồng",
+      "Phát hoang thực bì và làm cỏ, xới đất quanh gốc cây",
+      "Chặt hạ và vận chuyển gỗ xuất bán",
+      "Thiết kế mật độ hàng cây trên bản đồ"
+    ],
+    "answer": "Phát hoang thực bì và làm cỏ, xới đất quanh gốc cây",
+    "explanation": "Làm cỏ, xới đất quanh gốc và phát hoang thực bì cạnh tranh là các biện pháp kỹ thuật cơ bản trong chăm sóc rừng trồng những năm đầu."
+  },
+  {
+    "question": "Kỹ thuật bứng cây con rễ trần từ luống ươm đi trồng cần chú ý điều gì để bảo vệ rễ?",
+    "options": [
+      "Tưới nước đẫm trước khi bứng và giữ lại tối đa rễ cơ bản",
+      "Cắt bỏ toàn bộ hệ thống rễ để cây mọc rễ mới",
+      "Phơi nắng rễ cây 2 tiếng trước khi đem ra đồi trồng",
+      "Nhổ mạnh trực tiếp khi đất đang khô cứng"
+    ],
+    "answer": "Tưới nước đẫm trước khi bứng và giữ lại tối đa rễ cơ bản",
+    "explanation": "Tưới đẫm nước giúp đất mềm, dễ bứng, hạn chế làm đứt, tổn thương hệ thống rễ cám và rễ cọc của cây con."
+  },
+  {
+    "question": "Trong bảo vệ rừng, hành vi nào sau đây bị nghiêm cấm tuyệt đối theo Luật Lâm nghiệp?",
+    "options": [
+      "Trồng xen canh cây nông nghiệp ngắn ngày khi rừng chưa khép tán",
+      "Tận thu củi khô rơi rụng làm chất đốt sinh hoạt",
+      "Hủy hoại tài nguyên rừng, săn bắt động vật hoang dã trái phép",
+      "Thuê chuyên gia tư vấn lập phương án quản lý rừng bền vững"
+    ],
+    "answer": "Hủy hoại tài nguyên rừng, săn bắt động vật hoang dã trái phép",
+    "explanation": "Hủy hoại rừng, khai thác và săn bắt động vật hoang dã trái phép là các hành vi xâm hại nghiêm trọng bị pháp luật nghiêm cấm."
+  },
+  {
+    "question": "Để phòng cháy cho rừng trồng vào mùa khô, biện pháp kỹ thuật nào thường được áp dụng ở đường ranh giới?",
+    "options": [
+      "Trồng các dải cây xanh dễ cháy",
+      "Thiết kế các băng xanh hoặc băng trắng cản lửa",
+      "Tích trữ củi khô dọc theo lối đi",
+      "Đốt toàn bộ cỏ ven rừng mà không giám sát"
+    ],
+    "answer": "Thiết kế các băng xanh hoặc băng trắng cản lửa",
+    "explanation": "Băng trắng (dọn sạch thực bì) hoặc băng xanh (trồng cây chịu lửa, mọng nước) giúp ngăn chặn lửa cháy lan khi có sự cố hỏa hoạn."
+  },
+  {
+    "question": "Đâu là một loại lâm sản ngoài gỗ có giá trị kinh tế cao ở Việt Nam?",
+    "options": [
+      "Gỗ lim xanh",
+      "Gỗ bạch đàn",
+      "Măng, nấm hương, quế, hồi",
+      "Gỗ keo lai"
+    ],
+    "answer": "Măng, nấm hương, quế, hồi",
+    "explanation": "Lâm sản ngoài gỗ bao gồm các sản phẩm có nguồn gốc sinh vật ngoại trừ gỗ, như dược liệu, tinh dầu (quế, hồi), thực phẩm (măng, nấm)."
+  },
+  {
+    "question": "Mục đích chính của việc tỉa cành cho cây rừng trong giai đoạn đầu là gì?",
+    "options": [
+      "Kích thích cây ra nhiều nhánh phụ từ gốc",
+      "Giúp thân cây phát triển thẳng, giảm khuyết tật mắt gỗ, tăng chất lượng gỗ",
+      "Lấy cành lá ép làm phân xanh đại trà",
+      "Làm giảm chiều cao của cây để dễ thu hoạch"
+    ],
+    "answer": "Giúp thân cây phát triển thẳng, giảm khuyết tật mắt gỗ, tăng chất lượng gỗ",
+    "explanation": "Tỉa bớt cành sát gốc giúp cây tập trung dinh dưỡng nuôi thân chính phát triển chiều cao, thân thẳng và thớ gỗ đều đẹp, ít mắt."
+  },
+  {
+    "question": "Đối tượng nuôi thủy sản nào sau đây thuộc nhóm thủy sản nước ngọt phổ biến?",
+    "options": [
+      "Cá song (cá mú)",
+      "Tôm hùm bông",
+      "Cá tra, cá rô phi",
+      "Cá hồng mỹ"
+    ],
+    "answer": "Cá tra, cá rô phi",
+    "explanation": "Cá tra và cá rô phi là những loài cá nuôi thích nghi tốt và phát triển mạnh trong môi trường nước ngọt."
+  },
+  {
+    "question": "Loại thức ăn nào được gọi là thức ăn tươi sống trong nuôi trồng thủy sản?",
+    "options": [
+      "Thức ăn viên công nghiệp dạng nổi",
+      "Cám gạo phối trộn bột cá băm nhỏ",
+      "Các loài động thực vật phù du, trùn chỉ, Artemia",
+      "Phế phụ phẩm nông nghiệp đã ủ chua"
+    ],
+    "answer": "Các loài động thực vật phù du, trùn chỉ, Artemia",
+    "explanation": "Thức ăn tươi sống là các sinh vật còn sống, chứa hàm lượng dinh dưỡng cao phù hợp cho giai đoạn con non của thủy sản."
+  },
+  {
+    "question": "Yếu tố môi trường nào quyết định trực tiếp đến hàm lượng oxygen hòa tan trong ao nuôi thủy sản?",
+    "options": [
+      "Độ trong của nước và hoạt động của máy quạt nước",
+      "Độ sâu của tầng bùn đáy ao",
+      "Màu sắc của bờ ao nuôi",
+      "Tỷ lệ cát trong đất làm ao"
+    ],
+    "answer": "Độ trong của nước và hoạt động của máy quạt nước",
+    "explanation": "Máy quạt nước giúp xáo trộn dòng nước tăng khuếch tán oxy từ không khí, độ trong liên quan đến mật độ tảo quang hợp tạo oxy."
+  },
+  {
+    "question": "Hành vi nào sau đây góp phần bảo vệ nguồn lợi thủy sản tự nhiên?",
+    "options": [
+      "Sử dụng lưới có kích thước mắt lưới cực nhỏ để thu hoạch tận diệt",
+      "Dùng xung điện công suất lớn để đánh bắt ở các con sông",
+      "Thả cá giống tái tạo nguồn lợi thủy sản vào các dòng sông, hồ tự nhiên",
+      "Xả trực tiếp nước thải sinh hoạt chưa xử lý vào vùng ven bờ"
+    ],
+    "answer": "Thả cá giống tái tạo nguồn lợi thủy sản vào các dòng sông, hồ tự nhiên",
+    "explanation": "Thả cá giống là hoạt động nhân văn và kỹ thuật giúp phục hồi mật độ quần thể các loài thủy sản đang bị suy giảm trong tự nhiên."
+  },
+  {
+    "question": "Độ pH thích hợp nhất cho hầu hết các loài thủy sản kinh tế phát triển tốt là bao nhiêu?",
+    "options": [
+      "3.5 đến 5.0",
+      "6.5 đến 8.5",
+      "9.0 đến 11.0",
+      "1.0 đến 3.0"
+    ],
+    "answer": "6.5 đến 8.5",
+    "explanation": "Khoảng pH từ 6.5 đến 8.5 là môi trường trung tính đến kiềm nhẹ, tối ưu cho các hoạt động sinh lý và trao đổi chất của thủy sản."
+  },
+  {
+    "question": "Trong nuôi tôm công nghiệp, máy quạt nước thường được vận hành chủ yếu vào thời điểm nào trong ngày để chống ngạt cho tôm?",
+    "options": [
+      "Từ 10 giờ sáng đến 12 giờ trưa",
+      "Từ 23 giờ đêm đến 5 giờ sáng hôm sau",
+      "Từ 14 giờ chiều đến 16 giờ chiều",
+      "Chỉ bật khi trời có mưa lớn vào ban ngày"
+    ],
+    "answer": "Từ 23 giờ đêm đến 5 giờ sáng hôm sau",
+    "explanation": "Vào ban đêm, quá trình quang hợp dừng lại, cả tảo và tôm đều hô hấp tiêu thụ oxy khiến hàm lượng oxy hòa tan xuống thấp nhất vào rạng sáng."
+  },
+  {
+    "question": "Bệnh nào sau đây ở thủy sản do virus gây ra và có tốc độ lây lan rất nhanh?",
+    "options": [
+      "Bệnh đốm trắng ở tôm",
+      "Bệnh trùng bánh xe ở cá",
+      "Bệnh nấm mang ở cá trắm",
+      "Bệnh lở loét do vi khuẩn ăn mòn"
+    ],
+    "answer": "Bệnh đốm trắng ở tôm",
+    "explanation": "Bệnh đốm trắng (WSSV) là bệnh truyền nhiễm nguy hiểm do virus gây ra trên tôm, có thể gây chết hàng loạt trong thời gian ngắn."
+  },
+  {
+    "question": "Khi phát hiện thủy sản nuôi bị bệnh dịch nguy hiểm, người nuôi cần làm gì đầu tiên?",
+    "options": [
+      "Xả toàn bộ nước ao nhiễm bệnh ra kênh rạch công cộng",
+      "Bán tống bán tháo số thủy sản bệnh ra thị trường",
+      "Cách ly ao bệnh, báo cáo cán bộ thú y địa phương để hướng dẫn xử lý",
+      "Mặc kệ chờ dịch tự qua đi"
+    ],
+    "answer": "Cách ly ao bệnh, báo cáo cán bộ thú y địa phương để hướng dẫn xử lý",
+    "explanation": "Cách ly ao bệnh nhằm tránh lây lan chéo sang các ao xung quanh và tuân thủ hướng dẫn của cơ quan chuyên môn để dập dịch an toàn."
+  },
+  {
+    "question": "Việc sử dụng chế phẩm sinh học (probiotics) trong ao nuôi thủy sản nhằm mục đích gì?",
+    "options": [
+      "Diệt trừ toàn bộ các loài vi sinh vật trong ao",
+      "Phân hủy chất hữu cơ dư thừa, ức chế vi khuẩn có hại, cải thiện chất lượng nước",
+      "Làm cho nước ao biến đổi màu liên tục",
+      "Thay thế hoàn toàn thức ăn viên công nghiệp"
+    ],
+    "answer": "Phân hủy chất hữu cơ dư thừa, ức chế vi khuẩn có hại, cải thiện chất lượng nước",
+    "explanation": "Chế phẩm sinh học chứa các vi khuẩn có lợi giúp phân hủy mùn bã hữu cơ, làm sạch đáy ao và cạnh tranh vị trí bám với vi khuẩn gây bệnh."
+  },
+  {
+    "question": "Tại sao việc bón phân chuồng chưa ủ hoai xuống ao nuôi thủy sản lại gây hại cho môi trường nước?",
+    "options": [
+      "Làm nước ao quá trong cây thủy sinh không mọc được",
+      "Phân hủy tiêu tốn lượng lớn oxygen, sinh khí độc và mang nhiều mầm bệnh",
+      "Làm tăng độ mặn của nước ao đột ngột",
+      "Khiến cá ăn quá nhiều dẫn đến bội thực"
+    ],
+    "answer": "Phân hủy tiêu tốn lượng lớn oxygen, sinh khí độc và mang nhiều mầm bệnh",
+    "explanation": "Phân chưa hoai chứa nhiều vi khuẩn và hữu cơ phức tạp. Khi vào ao, quá trình phân hủy sinh học sẽ hút cạn oxy hòa tan và giải phóng H2S, NH3 độc hại."
+  },
+  {
+    "question": "Biện pháp nào sau đây giúp điều chỉnh độ trong của nước ao nuôi thủy sản hiệu quả và an toàn?",
+    "options": [
+      "Nhuộm màu công nghiệp cho nước ao",
+      "Quản lý lượng thức ăn hợp lý kết hợp định lượng thay nước, bón vôi",
+      "Thả thật nhiều đất sét mịn xuống ao",
+      "Tắt toàn bộ hệ thống sục khí dòng chảy"
+    ],
+    "answer": "Quản lý lượng thức ăn hợp lý kết hợp định lượng thay nước, bón vôi",
+    "explanation": "Độ trong phụ thuộc vào chất lơ lửng và mật độ tảo. Quản lý thức ăn tốt giúp hạn chế dư thừa chất dinh dưỡng, kiểm soát sự phát triển quá mức của tảo."
+  },
+  {
+    "question": "Ý nghĩa kinh tế của việc áp dụng tiêu chuẩn VietGAP trong nuôi trồng thủy sản là gì?",
+    "options": [
+      "Giúp hạ giá thành sản phẩm xuống mức thấp nhất",
+      "Nâng cao chất lượng, an toàn thực phẩm, tăng khả năng cạnh tranh và xuất khẩu",
+      "Giảm bớt thời gian nuôi đi một nửa so với thông thường",
+      "Không cần phải ghi chép nhật ký nuôi trồng phức tạp"
+    ],
+    "answer": "Nâng cao chất lượng, an toàn thực phẩm, tăng khả năng cạnh tranh và xuất khẩu",
+    "explanation": "VietGAP đảm bảo sản phẩm thủy sản sạch, không tồn dư kháng sinh, đáp ứng các tiêu chuẩn khắt khe của thị trường tiêu dùng hiện đại và xuất khẩu."
+  },
+  {
+    "question": "Ứng dụng công nghệ nano trong nuôi trồng thủy sản thường được dùng vào việc gì?",
+    "options": [
+      "Chế tạo các loại lưới đánh bắt cá ngoài khơi xa",
+      "Khử trùng nguồn nước, tăng hiệu quả hấp thu thuốc và dinh dưỡng",
+      "Sản xuất các loại thuyền gỗ nuôi cá bè",
+      "Đông lạnh cá nguyên con ở nhiệt độ âm"
+    ],
+    "answer": "Khử trùng nguồn nước, tăng hiệu quả hấp thu thuốc và dinh dưỡng",
+    "explanation": "Các hạt nano bạc hoặc vật liệu nano giúp diệt khuẩn, nấm trong nước cực mạnh ở nồng độ thấp và tăng tính sinh khả dụng của dưỡng chất."
+  },
+  {
+    "question": "Loại cây trồng lâm nghiệp nào sau đây thường được trồng phổ biến để làm nguyên liệu giấy và gỗ dăm ở nước ta?",
+    "options": [
+      "Cây hoàng đàn",
+      "Cây keo tai tượng, bạch đàn",
+      "Cây sến mật",
+      "Cây sưa đỏ"
+    ],
+    "answer": "Cây keo tai tượng, bạch đàn",
+    "explanation": "Keo tai tượng và bạch đàn là những cây lâm nghiệp sinh trưởng nhanh, thích nghi rộng, sinh khối lớn, phù hợp làm nguyên liệu giấy và dăm gỗ."
+  },
+  {
+    "question": "Tại sao phải tiến hành đảo bầu đất cho cây con ở vườn ươm trước khi đem đi trồng rừng?",
+    "options": [
+      "Để rễ cây ăn sâu xuống lòng đất bên dưới luống",
+      "Đứt rễ cọc đâm ra ngoài, kích thích ra rễ cám mới và giúp cây không bị sốc khi di chuyển",
+      "Để thay thế vỏ bầu bằng một lớp vỏ nhựa dày hơn",
+      "Làm giảm bớt khối lượng đất để dễ khuân vác"
+    ],
+    "answer": "Đứt rễ cọc đâm ra ngoài, kích thích ra rễ cám mới và giúp cây không bị sốc khi di chuyển",
+    "explanation": "Đảo bầu giúp cắt đứt những rễ đâm xuyên qua đáy bầu, kích thích cây sinh thêm rễ con trong bầu, khi mang đi trồng cây không bị đứt rễ đột ngột nên tỷ lệ sống cao."
+  },
+  {
+    "question": "Đặc điểm nào sau đây là ưu điểm nổi bật của phương pháp nhân giống cây lâm nghiệp bằng công nghệ nuôi cấy mô tế bào?",
+    "options": [
+      "Chi phí đầu tư trang thiết bị ban đầu rất rẻ",
+      "Tạo ra số lượng lớn cây con đồng đều, giữ nguyên đặc tính di truyền tốt của cây mẹ và sạch bệnh",
+      "Cây con tạo ra có khả năng biến đổi gen liên tục",
+      "Kỹ thuật thực hiện cực kỳ đơn giản, ai cũng làm được tại nhà"
+    ],
+    "answer": "Tạo ra số lượng lớn cây con đồng đều, giữ nguyên đặc tính di truyền tốt của cây mẹ và sạch bệnh",
+    "explanation": "Nuôi cấy mô là phương pháp nhân giống vô tính trong điều kiện vô trùng, giúp nhân nhanh sinh khối cây con đồng nhất về mặt di truyền từ một mẫu mô ưu việt."
+  },
+  {
+    "question": "Mục đích của việc kiểm tra mật độ và trồng dặm cây lâm nghiệp sau khi trồng từ 1 đến 2 tháng là gì?",
+    "options": [
+      "Để chặt bớt những cây phát triển quá nhanh",
+      "Thay thế những cây bị chết, đảm bảo mật độ rừng trồng theo thiết kế ban đầu",
+      "Bón thêm phân đạm liều lượng cao vào gốc cây sinh trưởng kém",
+      "Phun thuốc kích thích ra hoa đồng loạt"
+    ],
+    "answer": "Thay thế những cây bị chết, đảm bảo mật độ rừng trồng theo thiết kế ban đầu",
+    "explanation": "Trồng dặm kịp thời vào những vị trí cây chết giúp đảm bảo độ che phủ và mật độ cây trên một đơn vị diện tích đúng kỹ thuật quy định."
+  },
+  {
+    "question": "Trong các mô hình sau, mô hình nào thể hiện đúng bản chất của phương thức lâm nghiệp đô thị?",
+    "options": [
+      "Trồng rừng phòng hộ đầu nguồn ở các tỉnh miền núi",
+      "Phát triển hệ thống cây xanh công viên, dải mảng xanh ven đường và các khu sinh thái trong thành phố",
+      "Khai thác gỗ quy mô lớn tại các công ty lâm nghiệp nhà nước",
+      "Trồng rừng ngập mặn chắn sóng ven biển duyên hải"
+    ],
+    "answer": "Phát triển hệ thống cây xanh công viên, dải mảng xanh ven đường và các khu sinh thái trong thành phố",
+    "explanation": "Lâm nghiệp đô thị tập trung vào thiết kế, trồng và quản lý cây xanh ở khu vực đô thị nhằm cải thiện cảnh quan, điều hòa vi khí hậu và giảm ô nhiễm khói bụi."
+  },
+  {
+    "question": "Đâu là nguyên tắc cốt lõi của việc khai thác rừng bền vững?",
+    "options": [
+      "Khai thác triệt để toàn bộ lâm sản trong một lần duy nhất",
+      "Lượng khai thác không vượt quá lượng tăng trưởng tự nhiên của rừng và kết hợp tái sinh rừng",
+      "Chỉ khai thác những cây có tuổi thọ dưới 2 năm",
+      "Ưu tiên khai thác rừng đặc dụng trước vì có nhiều gỗ quý"
+    ],
+    "answer": "Lượng khai thác không vượt quá lượng tăng trưởng tự nhiên của rừng và kết hợp tái sinh rừng",
+    "explanation": "Khai thác bền vững yêu cầu sản lượng chặt hạ phải nhỏ hơn hoặc bằng sản lượng sinh khối tăng trưởng hàng năm của rừng để không làm suy kiệt trữ lượng tài nguyên."
+  },
+  {
+    "question": "Hệ thống nuôi thủy sản tuần hoàn (RAS) mang lại lợi ích môi trường lớn nhất ở điểm nào?",
+    "options": [
+      "Sử dụng lượng nước sông tự nhiên vô hạn không cần lọc",
+      "Tái sử dụng nước thông qua hệ thống lọc cơ học và sinh học, giảm tối đa nước thải ra môi trường",
+      "Loại bỏ hoàn toàn nhu cầu sử dụng điện năng",
+      "Giúp thủy sản không cần ăn vẫn phát triển tốt"
+    ],
+    "answer": "Tái sử dụng nước thông qua hệ thống lọc cơ học và sinh học, giảm tối đa nước thải ra môi trường",
+    "explanation": "RAS lọc sạch các chất thải, ammonia độc hại trong nước nuôi rồi quay vòng tái sử dụng, giúp tiết kiệm nước và bảo vệ nguồn nước tự nhiên khỏi ô nhiễm."
+  },
+  {
+    "question": "Sự cố lật nước (anoxic event) trong ao nuôi thủy sản thường xảy ra sau hiện tượng nào?",
+    "options": [
+      "Khi mực nước ao dâng cao do triều cường",
+      "Hiện tượng tảo nở hoa (tảo tàn) đột ngột làm phân hủy hữu cơ tăng mạnh",
+      "Sau khi bón một lượng vôi nông nghiệp vừa phải",
+      "Khi thả thêm cá con vào ao nuôi"
+    ],
+    "answer": "Hiện tượng tảo nở hoa (tảo tàn) đột ngột làm phân hủy hữu cơ tăng mạnh",
+    "explanation": "Khi tảo chết hàng loạt (tảo tàn), vi khuẩn dị dưỡng tăng hoành hành phân hủy xác tảo, quá trình này tiêu thụ lượng lớn oxy hòa tan, sinh ra nhiều khí độc khiến cá tôm ngạt thở."
+  },
+  {
+    "question": "Tại sao người ta thường thả cá mè hoa để cải thiện môi trường nước ở các hồ chứa?",
+    "options": [
+      "Vì cá mè hoa chuyên ăn các loại cá con của loài khác",
+      "Cá mè hoa có tập tính ăn sinh vật phù du và tảo, giúp kiểm soát hiện tượng phú dưỡng",
+      "Loài cá này thích đào hang làm sạch bùn đáy",
+      "Cá mè hoa sinh trưởng tốt trong môi trường nước có tính acid cực mạnh"
+    ],
+    "answer": "Cá mè hoa có tập tính ăn sinh vật phù du và tảo, giúp kiểm soát hiện tượng phú dưỡng",
+    "explanation": "Cá mè hoa có cơ quan lọc mang phát triển thích hợp ăn thực vật phù du và tảo, nhờ đó làm giảm mật độ tảo, hạn chế ô nhiễm hữu cơ và hiện tượng phú dưỡng."
+  },
+  {
+    "question": "Yếu tố nào sau đây là nguyên nhân chính gây ra bệnh phát sáng ở tôm nuôi nước lợ?",
+    "options": [
+      "Do ký sinh trùng chân chèo bám vào vỏ tôm",
+      "Do vi khuẩn thuộc chi Vibrio (như Vibrio harveyi) phát triển mạnh khi môi trường ô nhiễm",
+      "Do tôm ăn phải các loại lá cây rụng xuống ao",
+      "Do nhiệt độ nước ao xuống quá thấp dưới 15 độ C"
+    ],
+    "answer": "Do vi khuẩn thuộc chi Vibrio (như Vibrio harveyi) phát triển mạnh khi môi trường ô nhiễm",
+    "explanation": "Vi khuẩn Vibrio harveyi có khả năng phát quang sinh học. Khi mật độ vi khuẩn này trong nước ao và đường ruột tôm tăng cao sẽ gây ra bệnh phát sáng nguy hiểm."
+  },
+  {
+    "question": "Trong quy trình ươm nuôi cá tra giống, việc bón phân gây màu nước trước khi thả cá bột nhằm mục đích gì?",
+    "options": [
+      "Làm cho cá bột không nhìn thấy nhau để tránh cắn nhau",
+      "Kích thích sự phát triển của hệ động thực vật phù du làm thức ăn tự nhiên dồi dào cho cá bột",
+      "Tăng độ mặn cho nước ao nuôi",
+      "Làm nước ao ấm lên nhanh chóng"
+    ],
+    "answer": "Kích thích sự phát triển của hệ động thực vật phù du làm thức ăn tự nhiên dồi dào cho cá bột",
+    "explanation": "Cá bột có kích thước miệng rất nhỏ, chỉ ăn được các sinh vật phù du (luân trùng, rận nước). Gây màu nước chính là nuôi dưỡng nguồn thức ăn tự nhiên quý giá này."
+  },
+  {
+    "question": "Ứng dụng của công nghệ cảm biến (sensor) trong các trang trại nuôi tôm thông minh là gì?",
+    "options": [
+      "Tự động bắt tôm lên cân đo trọng lượng hàng ngày",
+      "Theo dõi liên tục và tự động các chỉ số pH, nhiệt độ, oxy hòa tan để truyền về điện thoại",
+      "Thay thế hoàn toàn màng lót đáy ao nuôi",
+      "Xua đuổi các loài chim săn mồi bay quanh ao"
+    ],
+    "answer": "Theo dõi liên tục và tự động các chỉ số pH, nhiệt độ, oxy hòa tan để truyền về điện thoại",
+    "explanation": "Cảm biến đo đạc tự động giúp người nuôi cập nhật dữ liệu môi trường nước theo thời gian thực (real-time), từ đó đưa ra quyết định xử lý chính xác, kịp thời."
+  },
+  {
+    "question": "Sự khác biệt cơ bản giữa rừng tự nhiên và rừng trồng là gì?",
+    "options": [
+      "Rừng tự nhiên luôn có diện tích nhỏ hơn rừng trồng",
+      "Rừng tự nhiên có tính đa dạng sinh học cao hơn và cấu trúc tầng tán phức tạp hơn rừng trồng",
+      "Rừng trồng không có khả năng sinh sản tự nhiên",
+      "Rừng tự nhiên không có cây thân gỗ phát triển"
+    ],
+    "answer": "Rừng tự nhiên có tính đa dạng sinh học cao hơn và cấu trúc tầng tán phức tạp hơn rừng trồng",
+    "explanation": "Rừng tự nhiên diễn thế qua hàng trăm năm nên có sự đa dạng loài phong phú và cấu trúc nhiều tầng tán (tầng vượt tán, tầng tán chính, tầng dưới tán, tầng thảm tươi) rõ rệt so với sự đồng đều đơn điệu của rừng trồng."
+  },
+  {
+    "question": "Một kiểm lâm viên phát hiện một nhóm người đang dựng lán trại trái phép và có mùi khói trong khu vực rừng đặc dụng nghiêm ngặt. Hành động xử lý nào sau đây thể hiện đúng chức trách và kỹ năng ứng phó?",
+    "options": [
+      "Bỏ qua vì cho rằng họ chỉ vào rừng nghỉ ngơi qua đêm",
+      "Tiếp cận yêu cầu dập tắt lửa, kiểm tra giấy tờ, lập biên bản vi phạm và yêu cầu rời khỏi phân khu nghiêm ngặt",
+      "Ngay lập tức sử dụng vũ khí tấn công mà không cần hỏi lý do",
+      "Chờ khi họ rời đi mới đến dọn dẹp lán trại"
+    ],
+    "answer": "Tiếp cận yêu cầu dập tắt lửa, kiểm tra giấy tờ, lập biên bản vi phạm và yêu cầu rời khỏi phân khu nghiêm ngặt",
+    "explanation": "Phân khu bảo vệ nghiêm ngặt của rừng đặc dụng cấm các hành vi xâm nhập, lưu trú và sử dụng lửa trái phép. Kiểm lâm cần ngăn chặn nguy cơ cháy rừng và lập hồ sơ xử lý theo luật."
+  },
+  {
+    "question": "Tại sao việc trồng rừng bằng cây con có bầu đất lại đạt tỷ lệ sống cao hơn rõ rệt so với cây con rễ trần?",
+    "options": [
+      "Vì bầu đất làm cho cây con nặng hơn nên không bị gió thổi bay",
+      "Bầu đất bảo vệ nguyên vẹn hệ rễ, giữ độ ẩm và chất dinh dưỡng giúp cây không bị sốc khi chuyển môi trường",
+      "Cây con rễ trần không có khả năng quang hợp sau khi trồng",
+      "Bầu đất chứa các chất hóa học làm cho sâu bệnh không dám tấn công cành lá"
+    ],
+    "answer": "Bầu đất bảo vệ nguyên vẹn hệ rễ, giữ độ ẩm và chất dinh dưỡng giúp cây không bị sốc khi chuyển môi trường",
+    "explanation": "Cây con có bầu đất có bộ rễ được bọc trong giá thể giàu dinh dưỡng và đủ ẩm, không bị đứt rễ cám khi bứng và trồng, giúp cây bám đất và sinh trưởng ngay lập tức."
+  },
+  {
+    "question": "Khi lập kế hoạch trồng rừng trên một vùng đất đồi dốc bị xói mòn mạnh, thứ tự triển khai các biện pháp kỹ thuật nào sau đây là hợp lý nhất?",
+    "options": [
+      "Trồng cây -> Đào hố thẳng hàng dọc -> Phát quang sạch bụi rậm",
+      "Phát quang theo băng -> Đào hố theo đường đồng mức -> Trồng cây kết hợp bón lót phân hữu cơ",
+      "Đốt sạch toàn bộ đồi -> Đào hố ngẫu nhiên -> Thả hạt giống tự do",
+      "Cuốc toàn bộ bề mặt đồi tạo độ phẳng -> Đào hố sâu 1 mét -> Trồng cây"
+    ],
+    "answer": "Phát quang theo băng -> Đào hố theo đường đồng mức -> Trồng cây kết hợp bón lót phân hữu cơ",
+    "explanation": "Trên đất dốc, phát quang theo băng và đào hố theo đường đồng mức giúp giữ đất, hạn chế dòng chảy tràn gây xói mòn trôi bầu đất, bón lót giúp cung cấp dinh dưỡng ban đầu cho đất nghèo."
+  },
+  {
+    "question": "Trong một mô hình nông lâm kết hợp, người ta trồng xen cây cà phê dưới tán cây muồng đen. Vai trò sinh thái cốt lõi của cây muồng đen ở đây là gì?",
+    "options": [
+      "Làm cây che bóng, điều hòa vi khí hậu, chắn gió và bộ rễ cố định nitrogen cải tạo đất cho cà phê",
+      "Cạnh tranh chất dinh dưỡng để cà phê không phát triển quá cao",
+      "Thu hút toàn bộ sâu bệnh từ cây cà phê sang cây muồng đen",
+      "Lấy gỗ làm củi đốt phục vụ việc sấy quả cà phê"
+    ],
+    "answer": "Làm cây che bóng, điều hòa vi khí hậu, chắn gió và bộ rễ cố định nitrogen cải tạo đất cho cà phê",
+    "explanation": "Muồng đen là cây thân gỗ có tán lá rộng phù hợp che bớt ánh nắng gắt cho cà phê, đồng thời thuộc họ Đậu giúp cố định đạm, làm giàu dinh dưỡng cho tầng đất mặt."
+  },
+  {
+    "question": "Một chủ vườn ươm keo lai bằng phương pháp giâm cành nhận thấy tỷ lệ ra rễ của đợt cành này rất thấp, gốc cành bị thối đen. Nguyên nhân kỹ thuật nào sau đây có khả năng cao nhất gây ra hiện tượng này?",
+    "options": [
+      "Sử dụng nồng độ chất kích thích ra rễ quá cao kết hợp giá thể quá ẩm, sũng nước gây ngạt và nhiễm nấm",
+      "Thời gian chiếu sáng cho luống giâm quá nhiều",
+      "Giá thể cát sạch quá thông thoáng",
+      "Cắt bỏ bớt diện tích phiến lá của cành giâm trước khi cắm"
+    ],
+    "answer": "Sử dụng nồng độ chất kích thích ra rễ quá cao kết hợp giá thể quá ẩm, sũng nước gây ngạt và nhiễm nấm",
+    "explanation": "Nồng độ chất kích thích (như IAA, NAA) quá liều sẽ gây ngộ độc tế bào vùng gốc cành. Cộng thêm độ ẩm giá thể quá cao gây thiếu oxy, tạo điều kiện cho nấm bệnh tấn công làm thối gốc."
+  },
+  {
+    "question": "Tại sao việc xả nước đáy từ các ao nuôi tôm thâm canh trực tiếp ra sông rạch tự nhiên mà không qua ao lắng xử lý lại bị coi là hành vi hủy hoại môi trường?",
+    "options": [
+      "Vì nước thải này làm cho dòng sông chảy xiết hơn",
+      "Nước thải chứa hàm lượng cực cao chất hữu cơ dư thừa, ammonia, hóa chất tồn dư gây phú dưỡng và lây lan mầm bệnh",
+      "Làm cho nguồn nước sông trở nên quá ngọt",
+      "Gây hiện tượng bồi lấp làm cạn kiệt nguồn nước của con sông"
+    ],
+    "answer": "Nước thải chứa hàm lượng cực cao chất hữu cơ dư thừa, ammonia, hóa chất tồn dư gây phú dưỡng và lây lan mầm bệnh",
+    "explanation": "Nước thải ao tôm thâm canh chứa đầy phân tôm, thức ăn thừa, hóa chất xử lý. Khi đổ thẳng ra sông sẽ làm bùng phát tảo độc, cạn kiệt oxy sông và reo rắc mầm bệnh cho các vùng nuôi xung quanh."
+  },
+  {
+    "question": "Một kỹ sư thủy sản kiểm tra ao nuôi tôm thẻ chân trắng vào lúc 6 giờ sáng, thấy tôm kéo đàn nổi đầu hàng loạt trên mặt nước, râu và đuôi tôm có xu hướng chuyển màu đỏ. Phương án xử lý cấp bách và chính xác nhất là gì?",
+    "options": [
+      "Đánh thuốc diệt khuẩn liều cao ngay lập tức vào ao",
+      "Bật tối đa tất cả hệ thống quạt nước, sục khí oxy viên cấp thiết và tiến hành cấp thêm nước sạch",
+      "Xả bớt nước ao để giảm áp lực cho tôm",
+      "Tăng cường lượng thức ăn viên giàu đạm để tôm có sức khỏe"
+    ],
+    "answer": "Bật tối đa tất cả hệ thống quạt nước, sục khí oxy viên cấp thiết và tiến hành cấp thêm nước sạch",
+    "explanation": "Hiện tượng tôm nổi đầu vào sáng sớm là dấu hiệu điển hình của việc thiếu hụt oxy hòa tan nghiêm trọng trong ao. Cần cấp cứu bằng cách tăng cường sục khí và quạt nước tối đa để hòa tan oxy kịp thời cứu tôm."
+  },
+  {
+    "question": "Trong hệ sinh thái ao nuôi thủy sản hỗn hợp nhiều loài (cá trắm cỏ, cá mè, cá chép, cá rô phi), loài nào đóng vai trò chính trong việc dọn dẹp mùn bã hữu cơ và chất thải ở tầng đáy?",
+    "options": [
+      "Cá trắm cỏ",
+      "Cá mè hoa",
+      "Cá chép",
+      "Cá rô phi đơn tính"
+    ],
+    "answer": "Cá chép",
+    "explanation": "Cá chép có tập tính kiếm mồi ở tầng đáy, chúng lật xới bùn tìm kiếm ấu trùng và ăn các mảnh vụn hữu cơ, mùn bã lắng tụ, đóng vai trò như 'máy lọc đáy' sinh học."
+  },
+  {
+    "question": "Tại sao việc duy trì và phát triển diện tích rừng ngập mặn ven biển lại có ý nghĩa sống còn đối với ngành nuôi trồng thủy sản vùng duyên hải?",
+    "options": [
+      "Rừng ngập mặn cung cấp toàn bộ gỗ để làm lồng bè nuôi cá",
+      "Là bãi đẻ, nơi trú ẩn, cung cấp chuỗi thức ăn tự nhiên phong phú và làm sạch môi trường nước ven bờ",
+      "Ngăn chặn hoàn toàn hiện tượng triều cường dâng cao",
+      "Làm giảm độ mặn của nước biển giúp nuôi được các loài cá nước ngọt"
+    ],
+    "answer": "Là bãi đẻ, nơi trú ẩn, cung cấp chuỗi thức ăn tự nhiên phong phú và làm sạch môi trường nước ven bờ",
+    "explanation": "Rừng ngập mặn là hệ sinh thái có năng suất sinh học cao, hệ rễ chằng chịt giữ phù sa, lọc sạch kim loại nặng, chất ô nhiễm và là 'nhà trẻ' an toàn cho ấu trùng các loài tôm, cua, cá tự nhiên."
+  },
+  {
+    "question": "Nghiên cứu một vùng đất cát ven biển miền Trung thường xuyên bị khô hạn, gió bão và hiện tượng cát bay xâm lấn đồng ruộng. Loại rừng nào cần được ưu tiên đầu tư phát triển nhất và loài cây nào phù hợp nhất?",
+    "options": [
+      "Rừng đặc dụng - Cây sến, gụ",
+      "Rừng phòng hộ chắn cát - Cây phi lao (dương liễu)",
+      "Rừng sản xuất - Cây keo tai tượng",
+      "Rừng ngập mặn - Cây đước"
+    ],
+    "answer": "Rừng phòng hộ chắn cát - Cây phi lao (dương liễu)",
+    "explanation": "Mục tiêu ở đây là chống cát bay, cát lấn nên cần rừng phòng hộ chắn cát. Cây phi lao có bộ rễ sâu chịu hạn, chịu mặn tốt, tán lá cản gió cát hiệu quả là lựa chọn tối ưu cho vùng cát ven biển."
+  },
+  {
+    "question": "Một dự án trồng rừng sản xuất bằng cây keo lai có diện tích 100 ha nằm trên vùng đồi núi dốc đứng. Để đạt chứng chỉ quản lý rừng bền vững (FSC) nhằm xuất khẩu gỗ sang châu Âu, chủ dự án KHÔNG ĐƯỢC PHÉP thực hiện hành vi nào sau đây?",
+    "options": [
+      "Khai thác trắng toàn bộ 100 ha cùng một lúc và đốt sạch thực bì sau khai thác",
+      "Thuê lao động địa phương và trang bị đầy đủ bảo hộ lao động cho họ",
+      "Để lại các dải rừng tự nhiên dọc theo các khe suối trong khu vực dự án",
+      "Lập sổ sách theo dõi nguồn gốc cây giống rõ ràng"
+    ],
+    "answer": "Khai thác trắng toàn bộ 100 ha cùng một lúc và đốt sạch thực bì sau khai thác",
+    "explanation": "Tiêu chuẩn FSC nghiêm cấm việc khai thác trắng diện tích lớn trên đất dốc vì gây xói mòn nghiêm trọng và cấm đốt thực bì hủy hoại vi sinh vật đất, làm mất cân bằng sinh thái."
+  },
+  {
+    "question": "Một cơ sở nuôi tôm áp dụng mô hình công nghệ cao Biofloc. Bản chất của công nghệ này là gì và người nuôi cần quản lý yếu tố nào khắt khe nhất?",
+    "options": [
+      "Nuôi tảo độc để làm thức ăn cho tôm; quản lý độ trong của nước ao",
+      "Duy trì tỷ lệ Carbon/Nitrogen (C/N) hợp lý để phát triển khối vi khuẩn dị dưỡng có lợi nhằm tự làm sạch nước và làm thức ăn cho tôm; quản lý sục khí liên tục",
+      "Sử dụng các chất hóa học cực mạnh để diệt khuẩn định kỳ; quản lý liều lượng thuốc",
+      "Nuôi tôm kết hợp thả cá lóc để ăn tôm yếu; quản lý mật độ cá lóc"
+    ],
+    "answer": "Duy trì tỷ lệ Carbon/Nitrogen (C/N) hợp lý để phát triển khối vi khuẩn dị dưỡng có lợi nhằm tự làm sạch nước và làm thức ăn cho tôm; quản lý sục khí liên tục",
+    "explanation": "Biofloc là các khối kết tụ của vi khuẩn dị dưỡng, hạt hữu cơ. Bằng cách thêm nguồn carbon (như mật đường), vi khuẩn chuyển hóa chất thải ammonia thành protein sinh khối làm thức ăn cho tôm. Mô hình này đòi hỏi lượng oxy cực lớn để vi khuẩn và tôm hô hấp."
+  },
+  {
+    "question": "Tại vùng Đồng bằng sông Cửu Long, mô hình 'xen canh tôm - rừng ngập mặn' được đánh giá là mô hình thích ứng thông minh với biến đổi khí hậu. Lập luận nào sau đây giải thích đúng nhất cho nhận định này?",
+    "options": [
+      "Mô hình này giúp triệt tiêu hoàn toàn tác động của nước biển dâng",
+      "Rừng ngập mặn giúp điều hòa nhiệt độ nước ao, giảm stress cho tôm khi thời tiết cực đoan, đồng thời duy trì sinh kế bền vững không dùng hóa chất",
+      "Cây rừng tiết ra các chất kháng sinh tự nhiên giúp diệt trừ mọi mầm bệnh cho tôm",
+      "Nuôi tôm dưới tán rừng giúp tôm lớn nhanh gấp ba lần so với nuôi công nghiệp"
+    ],
+    "answer": "Rừng ngập mặn giúp điều hòa nhiệt độ nước ao, giảm stress cho tôm khi thời tiết cực đoan, đồng thời duy trì sinh kế bền vững không dùng hóa chất",
+    "explanation": "Tán rừng ngập mặn che mát giữ nhiệt độ nước ổn định trước các đợt nắng nóng gay gắt do biến đổi khí hậu. Sự kết hợp này tạo ra sản phẩm tôm sinh thái sạch, bảo vệ rừng và giữ vững hệ sinh thái ven bờ."
+  }
+]

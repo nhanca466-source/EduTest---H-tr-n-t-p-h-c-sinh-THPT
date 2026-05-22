@@ -1,0 +1,609 @@
+[
+  {
+    "question": "Phương pháp biểu hiện nào sau đây thường được dùng để thể hiện các đối tượng địa lí phân bố theo những điểm cụ thể?",
+    "options": [
+      "Phương pháp kí hiệu",
+      "Phương pháp bản đồ - biểu đồ",
+      "Phương pháp kí hiệu đường chuyển động",
+      "Phương pháp chấm điểm"
+    ],
+    "answer": "Phương pháp kí hiệu",
+    "explanation": "Theo SGK Địa lí 10, phương pháp kí hiệu dùng để biểu hiện các đối tượng địa lí phân bố theo những điểm cụ thể như các nhà máy, mỏ khoáng sản, thủ đô."
+  },
+  {
+    "question": "Để thể hiện hướng di chuyển của các luồng gió hoặc luồng di dân trên bản đồ, người ta dùng phương pháp nào?",
+    "options": [
+      "Phương pháp kí hiệu đường chuyển động",
+      "Phương pháp kí hiệu",
+      "Phương pháp chấm điểm",
+      "Phương pháp khoanh vùng"
+    ],
+    "answer": "Phương pháp kí hiệu đường chuyển động",
+    "explanation": "Phương pháp kí hiệu đường chuyển động thể hiện sự di chuyển của các đối tượng địa lí về hướng đường đi, khối lượng hoặc tốc độ."
+  },
+  {
+    "question": "Trái Đất tự quay quanh trục theo hướng nào sau đây?",
+    "options": [
+      "Từ Tây sang Đông",
+      "Từ Đông sang Tây",
+      "Từ Bắc xuống Nam",
+      "Từ Nam lên Bắc"
+    ],
+    "answer": "Từ Tây sang Đông",
+    "explanation": "Trái Đất tự quay quanh trục hệ mặt trời theo hướng ngược chiều kim đồng hồ nếu nhìn từ cực Bắc, tức là từ Tây sang Đông."
+  },
+  {
+    "question": "Vỏ Trái Đất được chia thành hai kiểu cấu tạo chính là gì?",
+    "options": [
+      "Vỏ lục địa và vỏ đại dương",
+      "Vỏ lục địa và thạch quyển",
+      "Vỏ đại dương và manti",
+      "Vỏ lục địa và nhân Trái Đất"
+    ],
+    "answer": "Vỏ lục địa và vỏ đại dương",
+    "explanation": "Vỏ Trái Đất là lớp ngoài cùng, cấu tạo gồm hai kiểu chính là vỏ lục địa và vỏ đại dương."
+  },
+  {
+    "question": "Tác nhân nào sau đây được xếp vào nhóm nguồn nội lực?",
+    "options": [
+      "Năng lượng từ trong lòng Trái Đất",
+      "Năng lượng mặt trời",
+      "Tác động của nước chảy",
+      "Sức gió thổi"
+    ],
+    "answer": "Năng lượng từ trong lòng Trái Đất",
+    "explanation": "Nội lực là lực sinh ra ở bên trong Trái Đất, nguồn năng lượng chủ yếu là từ lòng đất."
+  },
+  {
+    "question": "Quá trình nào sau đây làm cho các đá và khoáng vật bị phá hủy, biến đổi về kích thước và thành phần hóa học?",
+    "options": [
+      "Quá trình phong hóa",
+      "Quá trình bóc mòn",
+      "Quá trình vận chuyển",
+      "Quá trình bồi tụ"
+    ],
+    "answer": "Quá trình phong hóa",
+    "explanation": "Phong hóa là quá trình phá hủy và làm biến đổi đá, khoáng vật do tác động của sự thay đổi nhiệt độ, nước, sinh vật."
+  },
+  {
+    "question": "Tầng khí quyển nào nằm sát mặt đất và tập trung phần lớn khối lượng không khí?",
+    "options": [
+      "Tầng đối lưu",
+      "Tầng bình lưu",
+      "Tầng giữa",
+      "Tầng ion"
+    ],
+    "answer": "Tầng đối lưu",
+    "explanation": "Tầng đối lưu là tầng dày từ khoảng 8 đến 16 km sát mặt đất, chứa khoảng 80 phần trăm khối lượng không khí và hầu hết hơi nước."
+  },
+  {
+    "question": "Trên bề mặt Trái Đất, các đai áp cao và áp thấp phân bố như thế nào?",
+    "options": [
+      "Xen kẽ và đối xứng qua đai áp thấp xích đạo",
+      "Chỉ xuất hiện ở hai vùng cực",
+      "Phân bố hoàn toàn ngẫu nhiên không đều",
+      "Tập trung hết ở vùng vĩ độ trung bình"
+    ],
+    "answer": "Xen kẽ và đối xứng qua đai áp thấp xích đạo",
+    "explanation": "Các đai khí áp thấp và áp cao trên Trái Đất được bố trí xen kẽ nhau và đối xứng qua đai áp thấp xích đạo."
+  },
+  {
+    "question": "Loại gió thổi quanh năm từ các đai áp cao chí tuyến về đai áp thấp xích đạo gọi là gió gì?",
+    "options": [
+      "Gió Mậu dịch",
+      "Gió Tây ôn đới",
+      "Gió Đông cực",
+      "Gió đất gió biển"
+    ],
+    "answer": "Gió Mậu dịch",
+    "explanation": "Gió Mậu dịch (hay gió Tín phong) hoạt động thường xuyên thổi từ áp cao chí tuyến về áp thấp xích đạo."
+  },
+  {
+    "question": "Khối khí có đặc tính rất lạnh và khô ký hiệu là gì?",
+    "options": [
+      "Khối khí cực (A)",
+      "Khối khí ôn đới (P)",
+      "Khối khí chí tuyến (T)",
+      "Khối khí xích đạo (E)"
+    ],
+    "answer": "Khối khí cực (A)",
+    "explanation": "Khối khí cực hình thành ở vùng vĩ độ rất cao nên có tính chất rất lạnh."
+  },
+  {
+    "question": "Nguồn cung cấp nước chính cho các sông ở vùng khí ngoại chí tuyến, băng giá quanh năm là từ đâu?",
+    "options": [
+      "Băng tuyết tan",
+      "Nước mưa",
+      "Nước ngầm",
+      "Nước từ các đầm lầy"
+    ],
+    "answer": "Băng tuyết tan",
+    "explanation": "Sông ở vùng cận cực hoặc núi cao có nguồn tiếp nước chủ yếu do băng tuyết tan vào mùa xuân hè."
+  },
+  {
+    "question": "Độ muối trung bình của nước đại dương thế giới là bao nhiêu?",
+    "options": [
+      "35 phần nghìn",
+      "25 phần nghìn",
+      "45 phần nghìn",
+      "15 phần nghìn"
+    ],
+    "answer": "35 phần nghìn",
+    "explanation": "Độ muối trung bình của nước biển và đại dương được xác định là khoảng 35 phần nghìn."
+  },
+  {
+    "question": "Thủy triều là hiện tượng chuyển động của nước biển do lực hút của thực thể nào gây ra chủ yếu?",
+    "options": [
+      "Mặt Trăng và Mặt Trời",
+      "Các cơn gió đông",
+      "Động đất dưới đáy biển",
+      "Sự tự quay của Trái Đất"
+    ],
+    "answer": "Mặt Trăng và Mặt Trời",
+    "explanation": "Thủy triều hình thành do lực hấp dẫn của Mặt Trăng, Mặt Trời tác động lên lớp nước của Trái Đất."
+  },
+  {
+    "question": "Lớp vật chất tơi xốp nằm trên bề mặt lục địa, được đặc trưng bởi độ phì gọi là gì?",
+    "options": [
+      "Đất (Thổ nhưỡng)",
+      "Thạch quyển",
+      "Đá granite",
+      "Phù sa cổ"
+    ],
+    "answer": "Đất (Thổ nhưỡng)",
+    "explanation": "Định nghĩa SGK: Đất là lớp vật chất tơi xốp nằm trên bề mặt các lục địa, có khả năng cung cấp nước, chất dinh dưỡng cho thực vật (độ phì)."
+  },
+  {
+    "question": "Nhân tố nào đóng vai trò chủ đạo trong việc cung cấp chất hữu cơ cho đất?",
+    "options": [
+      "Sinh vật",
+      "Đá mẹ",
+      "Địa hình",
+      "Thời gian"
+    ],
+    "answer": "Sinh vật",
+    "explanation": "Sinh vật đóng vai trò chủ đạo trong sự hình thành đất: thực vật cung cấp chất hữu cơ, vi sinh vật phân giải chất hữu cơ."
+  },
+  {
+    "question": "Giới hạn của sinh quyển bao gồm phần nào của các quyển thành phần?",
+    "options": [
+      "Toàn bộ thủy quyển, phần thấp của khí quyển và phần trên của thạch quyển",
+      "Chỉ bao gồm toàn bộ tầng đối lưu",
+      "Toàn bộ thạch quyển và đại dương",
+      "Chỉ nằm ở những vùng rừng rậm nhiệt đới"
+    ],
+    "answer": "Toàn bộ thủy quyển, phần thấp của khí quyển và phần trên của thạch quyển",
+    "explanation": "Giới hạn sinh quyển bao gồm toàn bộ thủy quyển, lớp vỏ phong hóa của thạch quyển và tầng đối lưu của khí quyển."
+  },
+  {
+    "question": "Quy luật địa đới là sự thay đổi đều đặn của các thành phần địa lí theo yếu tố nào?",
+    "options": [
+      "Vĩ độ địa lí",
+      "Độ cao địa hình",
+      "Kinh độ địa lí",
+      "Khoảng cách ra biển"
+    ],
+    "answer": "Vĩ độ địa lí",
+    "explanation": "Quy luật địa đới là sự thay đổi đều đặn đồng loạt của các đối tượng tự nhiên từ Xích đạo về hai cực (theo vĩ độ)."
+  },
+  {
+    "question": "Sự thay đổi của các thảm thực vật theo độ cao của địa hình là biểu hiện của quy luật nào?",
+    "options": [
+      "Quy luật đai cao",
+      "Quy luật địa đới",
+      "Quy luật địa ô",
+      "Quy luật thống nhất"
+    ],
+    "answer": "Quy luật đai cao",
+    "explanation": "Biểu hiện rõ rệt nhất của quy luật phi địa đới theo độ cao là quy luật đai cao (thay đổi nhiệt ẩm theo độ cao kéo theo thay đổi thực vật)."
+  },
+  {
+    "question": "Vùng nằm giữa hai đường chí tuyến Bắc và chí tuyến Nam được gọi là vùng gì?",
+    "options": [
+      "Vùng nhiệt đới (nội chí tuyến)",
+      "Vùng ôn đới",
+      "Vùng hàn đới",
+      "Vùng cận cực"
+    ],
+    "answer": "Vùng nhiệt đới (nội chí tuyến)",
+    "explanation": "Khu vực nằm giữa chí tuyến Bắc và chí tuyến Nam nhận được góc chiếu sáng lớn quanh năm gọi là vùng nhiệt đới."
+  },
+  {
+    "question": "Thủy quyển là quyển chứa toàn bộ dạng nước nào trên Trái Đất?",
+    "options": [
+      "Nước ở các trạng thái lỏng, rắn và hơi",
+      "Chỉ bao gồm nước ở các đại dương",
+      "Chỉ bao gồm nước sông và nước ngầm",
+      "Chỉ bao gồm băng tuyết ở hai cực"
+    ],
+    "answer": "Nước ở các trạng thái lỏng, rắn và hơi",
+    "explanation": "Thủy quyển bao gồm toàn bộ nước ở trạng thái lỏng, rắn và hơi ở đại dương, lục địa và khí quyển."
+  },
+  {
+    "question": "Tại sao hệ thống Định vị toàn cầu (GPS) cần tối thiểu 4 vệ tinh để xác định vị trí một điểm trên mặt đất?",
+    "options": [
+      "Để xác định chính xác 3 tọa độ không gian và sai số thời gian",
+      "Vì mỗi vệ tinh chỉ quét được một góc nhỏ",
+      "Để dự phòng trường hợp có vệ tinh bị hỏng",
+      "Nhằm tăng cường độ sáng cho tín hiệu thu nhận"
+    ],
+    "answer": "Để xác định chính xác 3 tọa độ không gian và sai số thời gian",
+    "explanation": "Để tính toán được kinh độ, vĩ độ, độ cao hình học và sửa sai số đồng hồ máy thu, GPS cần nhận tín hiệu từ ít nhất 4 vệ tinh."
+  },
+  {
+    "question": "Khi ở Việt Nam (múi giờ số 7) đang là 14 giờ ngày 20 tháng 10 thì ở Luân Đôn (múi giờ số 0) là mấy giờ?",
+    "options": [
+      "7 giờ cùng ngày",
+      "21 giờ cùng ngày",
+      "7 giờ ngày hôm sau",
+      "14 giờ ngày hôm trước"
+    ],
+    "answer": "7 giờ cùng ngày",
+    "explanation": "Luân Đôn muộn hơn Việt Nam 7 giờ. Lấy 14 giờ trừ đi 7 giờ bằng 7 giờ cùng ngày."
+  },
+  {
+    "question": "Nguyên nhân chính tạo nên sự luân phiên ngày và đêm liên tục trên Trái Đất là gì?",
+    "options": [
+      "Trái Đất có hình cầu và tự quay quanh trục",
+      "Trái Đất chuyển động quanh Mặt Trời theo hình elip",
+      "Trục Trái Đất luôn giữ nguyên độ nghiêng",
+      "Ánh sáng Mặt Trời không chiếu tới được các cực"
+    ],
+    "answer": "Trái Đất có hình cầu và tự quay quanh trục",
+    "explanation": "Do hình cầu nên Trái Đất luôn có một nửa được chiếu sáng, một nửa tối. Nhờ tự quay quanh trục nên mọi nơi đều lần lượt có ngày đêm luân phiên."
+  },
+  {
+    "question": "Hiện tượng mùa trong năm xảy ra trên Trái Đất chủ yếu do yếu tố nào tạo nên?",
+    "options": [
+      "Trái Đất chuyển động quanh Mặt Trời với trục nghiêng không đổi hướng",
+      "Vận tốc tự quay của Trái Đất thay đổi liên tục",
+      "Khoảng cách từ Trái Đất đến Mặt Trời biến động quá lớn",
+      "Sự di chuyển của các địa mảng trên bề mặt vỏ đất"
+    ],
+    "answer": "Trái Đất chuyển động quanh Mặt Trời với trục nghiêng không đổi hướng",
+    "explanation": "Khi chuyển động quanh Mặt Trời với trục nghiêng không đổi hướng, các bán cầu Bắc và Nam lần lượt ngả về phía Mặt Trời, làm thay đổi thời gian chiếu sáng và lượng nhiệt nhận được."
+  },
+  {
+    "question": "Các địa mảng kiến tạo có thể di chuyển được trên bề mặt Trái Đất là nhờ lớp vật chất nào?",
+    "options": [
+      "Lớp vật chất quánh dẻo ở phần trên của manti (bao manti)",
+      "Lớp vỏ granite cứng cáp dưới lục địa",
+      "Lực ly tâm sinh ra do Trái Đất tự quay tốc độ cao",
+      "Nước ở các đại dương bôi trơn hệ thống đáy"
+    ],
+    "answer": "Lớp vật chất quánh dẻo ở phần trên của manti (bao manti)",
+    "explanation": "Các mảng kiến tạo nhẹ, cứng và nổi trên lớp vật chất quánh dẻo của bao manti trên, nhờ các dòng đối lưu nhiệt nên chúng có thể dịch chuyển."
+  },
+  {
+    "question": "Kết quả của hiện tượng hai mảng kiến tạo xô húc trực tiếp vào nhau thường hình thành nên địa hình nào?",
+    "options": [
+      "Các dãy núi uốn nếp đồ sộ",
+      "Các thung lũng sụt lún tách giãn",
+      "Các đồng bằng phù sa rộng lớn",
+      "Các sống núi ngầm giữa đại dương"
+    ],
+    "answer": "Các dãy núi uốn nếp đồ sộ",
+    "explanation": "Khi hai mảng kiến tạo xô vào nhau, lớp đá ở rìa mảng bị nén ép, uốn nếp và đẩy lên cao tạo thành các hệ thống núi cao lớn (ví dụ Himalaya)."
+  },
+  {
+    "question": "Tại sao quá trình phong hóa hóa học lại diễn ra mạnh mẽ nhất ở các vùng có khí hậu nhiệt đới ẩm?",
+    "options": [
+      "Vì có nhiệt độ cao và lượng mưa lớn thúc đẩy các phản ứng hóa học",
+      "Vì có nhiều đá vôi phân bố trên diện rộng",
+      "Vì biên độ nhiệt độ ngày đêm ở đây rất lớn làm đá nứt vỡ",
+      "Vì không có tuyết che phủ bề mặt đá"
+    ],
+    "answer": "Vì có nhiệt độ cao và lượng mưa lớn thúc đẩy các phản ứng hóa học",
+    "explanation": "Nhiệt độ cao kết hợp với nước dồi dào là môi trường lý tưởng nhất để các phản ứng hòa tan, rửa trôi, oxy hóa khoáng vật diễn ra nhanh chóng."
+  },
+  {
+    "question": "Địa hình cacxtơ (hang động đá vôi) đặc trưng là kết quả chủ yếu của quá trình nào?",
+    "options": [
+      "Phong hóa hóa học do nước hòa tan đá vôi",
+      "Phong hóa lý học do sự thay đổi nhiệt độ đột ngột",
+      "Bóc mòn do tác động thổi mòn của gió",
+      "Bồi tụ của các dòng sông lớn"
+    ],
+    "answer": "Phong hóa hóa học do nước hòa tan đá vôi",
+    "explanation": "Nước chứa khí cacbonic hòa tan đá vôi tạo nên địa hình hang động độc đáo, đây là biểu hiện điển hình của phong hóa hóa học."
+  },
+  {
+    "question": "Tại sao các vùng hoang mạc khô hạn lại có quá trình phong hóa lí học diễn ra mạnh hơn phong hóa hóa học?",
+    "options": [
+      "Biên độ nhiệt ngày đêm rất lớn và điều kiện cực kỳ thiếu nước",
+      "Có nhiều loài sinh vật sinh sống đào hang",
+      "Địa hình bằng phẳng đón nhiều ánh sáng mặt trời",
+      "Tác động phá hủy liên tục của băng hà tích tụ"
+    ],
+    "answer": "Biên độ nhiệt ngày đêm rất lớn và điều kiện cực kỳ thiếu nước",
+    "explanation": "Hoang mạc thiếu nước nên phong hóa hóa học kém. Ngược lại, ngày nắng nóng tối lạnh buốt khiến đá giãn nở co rút liên tục, gây vỡ vụn lý học."
+  },
+  {
+    "question": "Sự hình thành các cồn cát, bãi cát ở các hoang mạc là kết quả trực tiếp của quá trình nào?",
+    "options": [
+      "Quá trình bồi tụ do gió",
+      "Quá trình bóc mòn do dòng nước",
+      "Quá trình phong hóa sinh học",
+      "Quá trình vận chuyển của sóng biển"
+    ],
+    "answer": "Quá trình bồi tụ do gió",
+    "explanation": "Gió mang các hạt cát đi, khi tốc độ gió giảm hoặc gặp chướng ngại vật, cát bị hạ xuống tích tụ lại thành các cồn cát (bồi tụ do gió)."
+  },
+  {
+    "question": "Sự xuất hiện của gió đất và gió biển ở vùng ven bờ đại dương là do yếu tố nào quyết định?",
+    "options": [
+      "Sự hấp thụ và tỏa nhiệt khác nhau giữa đất liền và biển",
+      "Sự thay đổi khí áp theo độ cao địa hình ven bờ",
+      "Sự dịch chuyển của dải hội tụ nhiệt đới theo mùa",
+      "Tác động dòng biển nóng chạy qua"
+    ],
+    "answer": "Sự hấp thụ và tỏa nhiệt khác nhau giữa đất liền và biển",
+    "explanation": "Đất liền nóng lên nhanh và nguội đi nhanh hơn nước biển, tạo ra chênh lệch khí áp giữa đất và biển thay đổi theo ngày đêm sinh ra gió đất, biển."
+  },
+  {
+    "question": "Tại sao lượng mưa ở vùng vĩ độ xích đạo lại lớn nhất trên bề mặt Trái Đất?",
+    "options": [
+      "Nhiệt độ cao, áp thấp hoạt động mạnh và diện tích đại dương lớn",
+      "Có gió Tây ôn đới thổi liên tục quanh năm",
+      "Nằm hoàn toàn trong vùng có áp cao thống trị",
+      "Địa hình có nhiều hệ thống núi cao chắn gió"
+    ],
+    "answer": "Nhiệt độ cao, áp thấp hoạt động mạnh và diện tích đại dương lớn",
+    "explanation": "Xích đạo nóng quanh năm, dòng không khí bốc lên cao tạo đai áp thấp bốc hơi nước mạnh, bốc lên ngưng tụ thành mưa nhiều."
+  },
+  {
+    "question": "Đặc điểm nào sau đây phân biệt rõ rệt nhất dòng biển nóng và dòng biển lạnh?",
+    "options": [
+      "Nhiệt độ nước của dòng biển so với khối nước xung quanh",
+      "Vận tốc chảy của dòng biển ngoài đại dương",
+      "Độ sâu phân bố dưới đáy đại dương rộng",
+      "Màu sắc bên ngoài của lớp nước bề mặt"
+    ],
+    "answer": "Nhiệt độ nước của dòng biển so với khối nước xung quanh",
+    "explanation": "Dòng biển nóng có nhiệt độ nước cao hơn nước xung quanh, dòng biển lạnh có nhiệt độ thấp hơn nước của vùng vĩ độ đó."
+  },
+  {
+    "question": "Đá mẹ đóng vai trò quyết định đến tính chất nào sau đây của đất?",
+    "options": [
+      "Thành phần cơ giới và thành phần khoáng vật",
+      "Hàm lượng mùn hữu cơ trong đất",
+      "Độ dày tổng thể của toàn bộ các tầng đất",
+      "Các hoạt động sinh học của vi sinh vật đất"
+    ],
+    "answer": "Thành phần cơ giới và thành phần khoáng vật",
+    "explanation": "Đá mẹ cung cấp vật chất vô cơ cho đất, quy định thành phần khoáng vật, cấu trúc cơ giới (đất cát, đất sét hay đất thịt)."
+  },
+  {
+    "question": "Mối quan hệ giữa sự phân bố lượng mưa và sự phân bố các thảm thực vật thể hiện rõ nhất ở đặc điểm nào?",
+    "options": [
+      "Nơi mưa nhiều thường có rừng rậm, nơi mưa ít là hoang mạc, xavan",
+      "Cây cối chỉ phát triển được ở nơi có tuyết tan",
+      "Chiều cao của cây phụ thuộc vào áp suất không khí",
+      "Thực vật hoàn toàn không chịu tác động của chế độ nước"
+    ],
+    "answer": "Nơi mưa nhiều thường có rừng rậm, nơi mưa ít là hoang mạc, xavan",
+    "explanation": "Nước và nhiệt độ quyết định sự sống thực vật. Mưa nhiều sinh rừng rậm, mưa trung bình sinh đồng cỏ, mưa quá ít hình thành hoang mạc."
+  },
+  {
+    "question": "Các hiện tượng sạt lở đất, lũ quét thường xảy ra ở vùng núi có đặc điểm nhân tác nào sau đây?",
+    "options": [
+      "Rừng đầu nguồn bị chặt phá nghiêm trọng",
+      "Xây dựng nhiều bậc ruộng bậc thang trồng lúa",
+      "Khoanh nuôi và bảo vệ tốt các loại cây bụi",
+      "Mật độ dân cư sinh sống thưa thớt"
+    ],
+    "answer": "Rừng đầu nguồn bị chặt phá nghiêm trọng",
+    "explanation": "Rừng bị mất làm mất lớp thảm phủ giữ đất, giữ nước. Khi có mưa lớn, nước trôi tự do gây ra lũ quét và sạt lở mạnh ở địa hình dốc."
+  },
+  {
+    "question": "Khi đi từ xích đạo về phía hai cực, ta sẽ gặp các đai thực vật thay đổi tuần tự. Đây là biểu hiện của quy luật nào?",
+    "options": [
+      "Quy luật địa đới",
+      "Quy luật đai cao",
+      "Quy luật địa ô",
+      "Quy luật thống nhất"
+    ],
+    "answer": "Quy luật địa đới",
+    "explanation": "Thực vật thay đổi từ xích đạo về cực do lượng bức xạ mặt trời giảm dần theo vĩ độ, đây là biểu hiện cốt lõi của quy luật địa đới."
+  },
+  {
+    "question": "Biên độ nhiệt độ năm (chênh lệch nhiệt độ giữa tháng nóng nhất và tháng lạnh nhất) lớn nhất ở vùng nào?",
+    "options": [
+      "Sâu trong lòng các lục địa ở vĩ độ cao",
+      "Ven biển thuộc khu vực sát xích đạo",
+      "Các đảo nhỏ giữa đại dương nhiệt đới",
+      "Vùng mặt biển ở quanh các chí tuyến"
+    ],
+    "answer": "Sâu trong lòng các lục địa ở vĩ độ cao",
+    "explanation": "Sâu trong lục địa vĩ độ cao chịu tính chất lục địa hóa mạnh: mùa hè nóng, mùa đông lạnh sâu do góc chiếu mặt trời đổi nhiều, dẫn đến biên độ nhiệt năm rất lớn."
+  },
+  {
+    "question": "Nhân tố địa hình ảnh hưởng đến sự hình thành đất rõ rệt nhất qua đặc điểm nào?",
+    "options": [
+      "Độ dốc làm thay đổi độ dày của tầng đất và sự rửa trôi",
+      "Đá mẹ bị phong hóa nhanh hay chậm",
+      "Khả năng hấp thụ chất mùn vô cơ của rễ cây",
+      "Thời gian hình thành các hạt đất mịn"
+    ],
+    "answer": "Độ dốc làm thay đổi độ dày của tầng đất và sự rửa trôi",
+    "explanation": "Nơi dốc bị xâm thực rửa trôi mạnh nên tầng đất mỏng. Nơi bằng phẳng, trũng tích tụ tốt nên tầng đất dày và phì nhiêu hơn."
+  },
+  {
+    "question": "Trong một lưu vực sông, nếu rừng đầu nguồn bị tàn phá thì chế độ nước sông sẽ thay đổi như thế nào?",
+    "options": [
+      "Mùa lũ nước sông lên nhanh và cao hơn, mùa cạn sông cạn kiệt hơn",
+      "Lượng nước sông sẽ ổn định quanh năm suốt tháng",
+      "Sông sẽ hoàn toàn không còn nước chảy vào mùa khô",
+      "Nước sông luôn duy trì ở mức báo động lũ nguy hiểm"
+    ],
+    "answer": "Mùa lũ nước sông lên nhanh và cao hơn, mùa cạn sông cạn kiệt hơn",
+    "explanation": "Mất rừng làm giảm khả năng thấm giữ nước ngầm. Mùa mưa nước tràn nhanh xuống sông gây lũ lớn, mùa khô không có nguồn nước ngầm điều tiết nên sông kiệt quệ."
+  },
+  {
+    "question": "Một tàu cá xuất phát từ vùng biển có kinh độ 105 độ Đông. Sau khi chạy liên tục theo hướng Đông sang Tây qua 15 độ kinh tuyến thì tàu đang ở khu vực có múi giờ số mấy?",
+    "options": [
+      "Múi giờ số 6",
+      "Múi giờ số 7",
+      "Múi giờ số 8",
+      "Múi giờ số 5"
+    ],
+    "answer": "Múi giờ số 6",
+    "explanation": "Tàu ở 105 độ Đông (múi giờ 7). Đi từ Đông sang Tây qua 15 độ kinh tuyến (tương đương 1 múi giờ về phía Tây), lấy 105 - 15 = 90 độ Đông. 90 chia 15 bằng múi giờ số 6."
+  },
+  {
+    "question": "Tại sao các dòng sông chảy theo hướng Bắc - Nam ở Bán cầu Bắc thường có xu hướng bị sạt lở mạnh ở bờ bên phải theo hướng chuyển động?",
+    "options": [
+      "Do tác động của lực Côriôlit làm lệch hướng chuyển động sang phải",
+      "Do gió mùa thổi lệch cấu trúc dòng chảy",
+      "Do bờ bên phải luôn có cấu trúc đá mềm hơn bờ trái",
+      "Do ảnh hưởng của lực hút từ Mặt Trăng lệch hướng"
+    ],
+    "answer": "Do tác động của lực Côriôlit làm lệch hướng chuyển động sang phải",
+    "explanation": "Lực Côriôlit sinh ra do Trái Đất tự quay làm các vật thể chuyển động ở bán cầu Bắc bị lệch về bên phải theo hướng chuyển động, ép dòng nước bào mòn bờ phải."
+  },
+  {
+    "question": "Sự hình thành địa hình đồi núi mọc lởm chởm ở các vùng trung du kết hợp với các rãnh nông nông sâu đan xen là biểu hiện của sự kết hợp giữa các quá trình nào?",
+    "options": [
+      "Phong hóa lí học và bóc mòn do nước chảy tràn",
+      "Nội lực nâng cao đất kết hợp với bồi tụ bãi bồi",
+      "Gió thổi mòn bề mặt kết hợp sóng biển đánh phá",
+      "Băng hà dịch chuyển khoét mòn đá gốc lục địa"
+    ],
+    "answer": "Phong hóa lí học và bóc mòn do nước chảy tràn",
+    "explanation": "Đá bị phong hóa làm vụn bở bám trên bề mặt, khi có mưa, dòng nước chảy tràn bóc mòn cuốn trôi vật chất tạo ra các rãnh xói mòn và đồi núi trọc."
+  },
+  {
+    "question": "Vào mùa đông ở Việt Nam, loại gió nào từ áp cao Xi-bia thổi đến làm hạ thấp nhiệt độ miền Bắc một cách đột ngột theo từng đợt?",
+    "options": [
+      "Gió mùa Đông Bắc",
+      "Gió Mậu dịch Bắc bán cầu",
+      "Gió Tây ôn đới",
+      "Gió phơn Tây Nam"
+    ],
+    "answer": "Gió mùa Đông Bắc",
+    "explanation": "Gió mùa Đông Bắc xuất phát từ khối khí cực lục địa châu Á (áp cao Xi-bia) di chuyển xuống phía nam mang theo không khí lạnh giá theo từng đợt gió mùa."
+  },
+  {
+    "question": "Tại sao ở sườn đón gió của các dãy núi cao thường có lượng mưa lớn, nhưng khi gió vượt qua đỉnh sang sườn bên kia lại trở nên khô và rất nóng?",
+    "options": [
+      "Do hiệu ứng không khí giảm ẩm ngưng tụ ở sườn đón và tăng nhiệt do nén khí khi xuống núi",
+      "Do sườn bên kia gần các nguồn hoang mạc khô cằn",
+      "Do áp suất ở sườn khuất gió luôn duy trì mức cực cao",
+      "Do thảm thực vật ở sườn khuất gió hút hết hơi ẩm"
+    ],
+    "answer": "Do hiệu ứng không khí giảm ẩm ngưng tụ ở sườn đón và tăng nhiệt do nén khí khi xuống núi",
+    "explanation": "Khi lên núi sườn đón gió, không khí giảm nhiệt ngưng tụ gây mưa. Khi xuống núi sườn khuất, hơi nước đã cạn, không khí khô bị nén tăng nhiệt nhanh (gọi là hiệu ứng Phơn)."
+  },
+  {
+    "question": "Nhận định nào sau đây giải thích đúng nhất hiện tượng dòng biển lạnh làm cho khí hậu các vùng ven bờ nơi chúng đi qua trở nên khô hạn, hình thành hoang mạc?",
+    "options": [
+      "Nước biển lạnh làm không khí phía trên không bốc hơi lên cao được, khó gây mưa",
+      "Dòng biển lạnh ngăn chặn hoàn toàn gió từ đại dương thổi vào",
+      "Nước biển lạnh chứa hàm lượng muối quá lớn làm triệt tiêu mây",
+      "Dòng lạnh đẩy các khối mây mưa di chuyển ngược ra lòng đại dương"
+    ],
+    "answer": "Nước biển lạnh làm không khí phía trên không bốc hơi lên cao được, khó gây mưa",
+    "explanation": "Không khí trên dòng biển lạnh có nhiệt độ thấp, nặng, khó bốc lên cao để ngưng tụ tạo mây, nên vùng ven bờ có dòng lạnh đi qua cực kỳ ít mưa và khô cằn."
+  },
+  {
+    "question": "Sự phân bố của đất và sinh vật vòng quanh Trái Đất bị gián đoạn, thay đổi từ đông sang tây chủ yếu do yếu tố phi địa đới nào?",
+    "options": [
+      "Sự phân bố đan xen giữa lục địa và đại dương",
+      "Góc chiếu của ánh sáng mặt trời thay đổi",
+      "Lực hút ly tâm tại vùng xích đạo quá mạnh",
+      "Sự xuất hiện của các loài động vật di cư"
+    ],
+    "answer": "Sự phân bố đan xen giữa lục địa và đại dương",
+    "explanation": "Sự phân bố đất, sinh vật thay đổi từ ven biển vào sâu nội địa (từ Đông sang Tây) chịu ảnh hưởng của sự phân bố lục địa, đại dương tạo nên quy luật địa ô."
+  },
+  {
+    "question": "Khi bón quá nhiều phân hóa học liên tục trong nhiều năm mà không cải tạo, đất trồng sẽ xảy ra hiện tượng tiêu cực nào?",
+    "options": [
+      "Đất bị chua hóa, mất kết cấu tơi xốp và nghèo kiệt vi sinh vật có ích",
+      "Đất tự động chuyển hóa thành lớp đá mẹ cứng cáp",
+      "Độ phì nhiêu của đất sẽ tăng lên mức tối đa vĩnh viễn",
+      "Tầng đất bị dày lên nhanh chóng do phân tích tụ"
+    ],
+    "answer": "Đất bị chua hóa, mất kết cấu tơi xốp và nghèo kiệt vi sinh vật có ích",
+    "explanation": "Lạm dụng chất hóa học làm thay đổi độ pH của đất (gây chua), hủy hoại môi trường sống của các sinh vật đất, khiến đất bị chai cứng."
+  },
+  {
+    "question": "Hiện tượng xâm nhập mặn ở các đồng bằng ven biển diễn ra nghiêm trọng nhất vào mùa nào trong năm?",
+    "options": [
+      "Mùa khô, khi lượng dòng chảy từ sông đổ ra biển giảm sút mạnh",
+      "Mùa mưa lũ, khi nước sông dâng cao tràn bờ",
+      "Mùa xuân, khi băng tuyết ở các đỉnh núi cao bắt đầu tan",
+      "Vào bất kể thời gian nào không phụ thuộc thời tiết"
+    ],
+    "answer": "Mùa khô, khi lượng dòng chảy từ sông đổ ra biển giảm sút mạnh",
+    "explanation": "Mùa khô sông cạn nước, áp lực nước ngọt đẩy ra biển yếu, tạo điều kiện cho nước biển theo dòng thủy triều lấn sâu vào đất liền gây xâm nhập mặn."
+  },
+  {
+    "question": "Mối quan hệ giữa thạch quyển, khí quyển và thủy quyển trong việc hình thành địa hình cacxtơ thể hiện ở điểm nào?",
+    "options": [
+      "Khí quyển cung cấp khí cacbonic, thủy quyển hòa tan khí và thạch quyển cung cấp đá vôi chịu tác động",
+      "Thạch quyển tự biến đổi cấu trúc không cần khí và thủy quyển",
+      "Khí quyển làm lạnh nước thủy quyển đóng băng phá hủy đá vôi",
+      "Thủy quyển bốc hơi làm thạch quyển khô nứt tạo hang động"
+    ],
+    "answer": "Khí quyển cung cấp khí cacbonic, thủy quyển hòa tan khí và thạch quyển cung cấp đá vôi chịu tác động",
+    "explanation": "Đây là biểu hiện của quy luật thống nhất: Nước (thủy quyển) hòa tan khí CO2 (khí quyển) tạo ra axit yếu, tác dụng hóa học hòa tan đá vôi (thạch quyển) tạo hang động."
+  },
+  {
+    "question": "Giả sử một ngọn núi có độ cao tuyệt đối là 3000 mét. Ở chân núi (độ cao 0 mét) có nhiệt độ đo được là 26 độ C. Theo quy luật đai cao thông thường, nhiệt độ ở đỉnh núi này vào cùng thời điểm là bao nhiêu?",
+    "options": [
+      "8 độ C",
+      "14 độ C",
+      "20 độ C",
+      "0 độ C"
+    ],
+    "answer": "8 độ C",
+    "explanation": "Theo quy luật giảm nhiệt theo độ cao trong tầng đối lưu: cứ lên cao 100 mét nhiệt độ giảm 0.6 độ C. Lên cao 3000 mét nhiệt độ giảm: (3000 / 100) * 0.6 = 18 độ C. Nhiệt độ đỉnh núi là: 26 - 18 = 8 độ C."
+  },
+  {
+    "question": "Tại sao các vùng có khí áp cao (như các vĩ độ chí tuyến) trên Trái Đất thường là nơi có lượng mưa rất ít, thậm chí hình thành những hoang mạc khổng lồ?",
+    "options": [
+      "Do dòng không khí chỉ chuyển động đi xuống nén khí, không tạo mây gây mưa được",
+      "Do gió từ đại dương không thể thổi vào vùng áp cao",
+      "Do nhiệt độ ở các đai áp cao luôn luôn dưới 0 độ C",
+      "Do áp cao đẩy toàn bộ hơi nước thoát ra ngoài không gian"
+    ],
+    "answer": "Do dòng không khí chỉ chuyển động đi xuống nén khí, không tạo mây gây mưa được",
+    "explanation": "Ở đai áp cao, không khí bị nén và đẩy từ trên cao xuống thấp, nhiệt độ tăng lên nên không khí không thể ngưng tụ tạo thành mây để gây mưa."
+  },
+  {
+    "question": "Nếu Trái Đất không tự quay quanh trục mà chỉ chuyển động quanh Mặt Trời thì trên bề mặt Trái Đất sẽ xảy ra hiện tượng nào sau đây?",
+    "options": [
+      "Một năm chỉ có một ngày và một đêm kéo dài 6 tháng mỗi chu kỳ",
+      "Sẽ hoàn toàn không còn sự phân chia các mùa trong năm",
+      "Hiện tượng ngày đêm luân phiên diễn ra liên tục cứ sau 24 giờ",
+      "Lực Côriôlit làm lệch hướng các dòng sông sẽ tăng lên gấp đôi"
+    ],
+    "answer": "Một năm chỉ có một ngày và một đêm kéo dài 6 tháng mỗi chu kỳ",
+    "explanation": "Nếu không tự quay, khi đi quanh Mặt Trời, nửa hướng về Mặt Trời sẽ là ban ngày liên tục trong nửa năm, nửa quay đi là ban đêm suốt nửa năm còn lại."
+  },
+  {
+    "question": "Tại sao lưu lượng nước của sông Mê Công (đoạn chảy qua Việt Nam) lại có sự phân mùa lũ - cạn vô cùng sâu sắc và rõ rệt?",
+    "options": [
+      "Do nguồn cấp nước chính của sông phụ thuộc hoàn toàn vào chế độ mưa gió mùa",
+      "Do thượng nguồn của sông có hệ thống đập thủy điện xả nước ngẫu nhiên",
+      "Do hiện tượng thủy triều biển Đông thay đổi thất thường theo tháng",
+      "Do diện tích rừng ở hạ lưu sông phân bố không đồng đều giữa các tỉnh"
+    ],
+    "answer": "Do nguồn cấp nước chính của sông phụ thuộc hoàn toàn vào chế độ mưa gió mùa",
+    "explanation": "Sông Mê Công nằm trong vùng khí hậu gió mùa. Mùa mưa trùng mùa lũ (nước sông dâng cao dồi dào), mùa khô ít mưa trùng mùa cạn (sông kiệt nước)."
+  },
+  {
+    "question": "Việc xây dựng các hồ thủy điện quy mô lớn ở thượng lưu các dòng sông sẽ gây ra tác động dây chuyền nào đến môi trường địa lí ở vùng hạ lưu?",
+    "options": [
+      "Giảm lượng phù sa bồi đắp, thay đổi dòng chảy tự nhiên và gia tăng xâm nhập mặn",
+      "Làm cho hạ lưu hoàn toàn không bao giờ xảy ra hiện tượng lũ lụt",
+      "Tăng lượng cá tự nhiên và làm màu mỡ thêm các đồng bằng ven bờ",
+      "Khiến khí hậu vùng hạ lưu chuyển hẳn sang kiểu khí hậu khô hạn hoang mạc"
+    ],
+    "answer": "Giảm lượng phù sa bồi đắp, thay đổi dòng chảy tự nhiên và gia tăng xâm nhập mặn",
+    "explanation": "Hồ thủy điện giữ lại bùn cát phù sa, làm giảm phù sa hạ lưu. Việc điều tiết nước làm thay đổi sinh thái dòng chảy, mùa khô xả ít có thể khiến mặn xâm nhập sâu hơn vào nội đồng."
+  }
+]
+
+

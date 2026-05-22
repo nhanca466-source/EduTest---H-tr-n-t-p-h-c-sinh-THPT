@@ -1,0 +1,171 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+
+<title>EduTest - Hỗ trợ ôn tập học sinh THPT</title>
+
+<link rel="stylesheet"
+href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Chúc bạn ôn tập tốt</h1>
+
+<!-- KHỐI -->
+
+<select id="grade">
+
+<option value="">
+-- Chọn khối --
+</option>
+
+<option value="khoi 10">
+Khối 10
+</option>
+
+<option value="khoi 11">
+Khối 11
+</option>
+
+<option value="khoi 12">
+Khối 12
+</option>
+
+</select>
+
+<!-- MÔN -->
+
+<select id="subject">
+
+<option value="">
+-- Chọn môn --
+</option>
+
+<option value="toan">
+Toán
+</option>
+
+<option value="van">
+Ngữ Văn
+</option>
+
+<option value="anhvan">
+Anh Văn
+</option>
+
+<option value="li">
+Vật Lí
+</option>
+
+<option value="hoa">
+Hóa Học
+</option>
+
+<option value="sinh">
+Sinh Học
+</option>
+
+<option value="su">
+Lịch Sử
+</option>
+
+<option value="dia">
+Địa Lí
+</option>
+
+<option value="tin">
+Tin Học
+</option>
+
+<option value="gdktpl">
+Giáo dục kinh tế và pháp luật
+</option>
+
+<option value="gdqpan">
+Giáo dục quốc phòng và an ninh
+</option>
+
+<option value="cnnn">
+Công Nghệ Nông Nghiệp
+</option>
+
+<option value="cncn">
+Công Nghệ Công Nghiệp
+</option>
+
+</select>
+
+<!-- KỲ THI -->
+
+<select id="exam">
+
+<option value="">
+-- Chọn kỳ thi --
+</option>
+
+<option value="gk1">
+Giữa  kì 1
+</option>
+
+<option value="gk2">
+Giữa kì 2
+</option>
+
+<option value="ck1">
+Cuối kì 1
+</option>
+
+<option value="ck2">
+Cuối kì 2
+</option>
+
+</select>
+
+<button onclick="startExam()">
+
+Bắt đầu thi
+
+</button>
+
+<div class="timer"
+id="timer">
+</div>
+
+<div id="result">
+</div>
+
+<button
+id="submitBtn"
+style="display:none;"
+onclick="submitExam()">
+
+Nộp bài
+
+</button>
+
+<div
+class="score"
+id="score">
+</div>
+
+</div>
+
+<script src="script.js">
+</script>
+
+</body>
+
+</html>

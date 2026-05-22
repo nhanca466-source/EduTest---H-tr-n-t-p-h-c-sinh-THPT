@@ -1,0 +1,553 @@
+
+[
+  {
+    "question": "Theo mô hình động học phân tử, các lực tương tác giữa các phân tử ở thể nào là mạnh nhất?",
+    "options": [
+      "Thể khí",
+      "Thể lỏng",
+      "Thể rắn",
+      "Thể plasma"
+    ],
+    "answer": "Thể rắn",
+    "explanation": "Ở thể rắn, các phân tử ở rất gần nhau và tương tác mạnh mẽ với nhau, giữ cho chúng có vị trí cố định."
+  },
+  {
+    "question": "Nội năng của một vật phụ thuộc vào những yếu tố nào sau đây?",
+    "options": [
+      "Nhiệt độ và thể tích",
+      "Vận tốc và khối lượng",
+      "Độ cao và vận tốc",
+      "Áp suất và khối lượng"
+    ],
+    "answer": "Nhiệt độ và thể tích",
+    "explanation": "Nội năng gồm tổng động năng (phụ thuộc nhiệt độ) và thế năng tương tác (phụ thuộc thể tích và khoảng cách phân tử) của các phân tử cấu tạo nên vật."
+  },
+  {
+    "question": "Công thức biểu diễn định luật I của nhiệt động lực học là gì?",
+    "options": [
+      "U = Q + A",
+      "delta U = Q + A",
+      "delta U = Q - A",
+      "U = Q - A"
+    ],
+    "answer": "delta U = Q + A",
+    "explanation": "Định luật I nhiệt động lực học phát biểu độ biến thiên nội năng delta U bằng tổng công A và nhiệt lượng Q mà hệ nhận được."
+  },
+  {
+    "question": "Quy ước dấu nào sau đây là đúng trong định luật I nhiệt động lực học khi hệ nhận công?",
+    "options": [
+      "A > 0",
+      "A < 0",
+      "A = 0",
+      "A có thể âm hoặc dương tuỳ trường hợp"
+    ],
+    "answer": "A > 0",
+    "explanation": "Theo quy ước, khi hệ nhận công từ bên ngoài thì A > 0, còn khi hệ sinh công ra bên ngoài thì A < 0."
+  },
+  {
+    "question": "Nhiệt độ không tuyệt đối (0 Kelvin) tương ứng với bao nhiêu độ Celsius?",
+    "options": [
+      "-273,15 độ C",
+      "0 độ C",
+      "100 độ C",
+      "273,15 độ C"
+    ],
+    "answer": "-273,15 độ C",
+    "explanation": "Thang đo Kelvin và Celsius liên hệ với nhau qua hệ thức T = t + 273,15. Khi T = 0 K thì t = -273,15 độ C."
+  },
+  {
+    "question": "Đơn vị của nhiệt dung riêng trong hệ SI là gì?",
+    "options": [
+      "J/kg",
+      "J/kg.K",
+      "J/K",
+      "Calo/g"
+    ],
+    "answer": "J/kg.K",
+    "explanation": "Nhiệt dung riêng c được tính bằng công thức c = Q / (m * delta T), do đó đơn vị là Joule trên kilôgam Kelvin (J/kg.K)."
+  },
+  {
+    "question": "Nhiệt nóng chảy riêng là nhiệt lượng cần thiết để làm nóng chảy hoàn toàn bao nhiêu kg chất rắn ở nhiệt độ nóng chảy?",
+    "options": [
+      "0,5 kg",
+      "1 kg",
+      "10 kg",
+      "Mọi khối lượng của chất rắn"
+    ],
+    "answer": "1 kg",
+    "explanation": "Nhiệt nóng chảy riêng lamda là nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn 1 kg chất rắn ở nhiệt độ nóng chảy."
+  },
+  {
+    "question": "Hiện tượng một chất chuyển từ thể lỏng sang thể hơi gọi là gì?",
+    "options": [
+      "Sự nóng chảy",
+      "Sự đông đặc",
+      "Sự hóa hơi",
+      "Sự ngưng tụ"
+    ],
+    "answer": "Sự hóa hơi",
+    "explanation": "Sự hóa hơi là quá trình chuyển từ thể lỏng sang thể hơi (gồm sự bay hơi và sự sôi)."
+  },
+  {
+    "question": "Định luật Boyle phát biểu về mối quan hệ giữa áp suất và thể tích của một lượng khí xác định ở nhiệt độ không đổi như thế nào?",
+    "options": [
+      "Áp suất tỉ lệ thuận với thể tích",
+      "Áp suất tỉ lệ nghịch với thể tích",
+      "Áp suất bình phương với thể tích",
+      "Áp suất không phụ thuộc vào thể tích"
+    ],
+    "answer": "Áp suất tỉ lệ nghịch với thể tích",
+    "explanation": "Định luật Boyle khẳng định ở nhiệt độ không đổi, áp suất p tỉ lệ nghịch với thể tích V của một khối khí xác định (p.V = hằng số)."
+  },
+  {
+    "question": "Đường biểu diễn quá trình đẳng nhiệt trong hệ tọa độ (p, V) có dạng là đường gì?",
+    "options": [
+      "Đường thẳng đi qua gốc tọa độ",
+      "Đường parabol",
+      "Đường hyperbol",
+      "Đường thẳng song song với trục p"
+    ],
+    "answer": "Đường hyperbol",
+    "explanation": "Vì p.V = hằng số nên p = hằng số / V, đồ thị của hàm số này trong hệ (p,V) có dạng đường hyperbol."
+  },
+  {
+    "question": "Quá trình đẳng tích là quá trình biến đổi trạng thái của một khối khí khi yếu tố nào sau đây được giữ không đổi?",
+    "options": [
+      "Áp suất",
+      "Nhiệt độ",
+      "Thể tích",
+      "Khối lượng và áp suất"
+    ],
+    "answer": "Thể tích",
+    "explanation": "Đẳng tích có nghĩa là thể tích của khối khí được giữ nguyên không thay đổi trong suốt quá trình biến đổi trạng thái."
+  },
+  {
+    "question": "Theo định luật Charles, khi thể tích của một khối khí xác định không đổi, áp suất tỉ lệ thuận với yếu tố nào?",
+    "options": [
+      "Nhiệt độ Celsius",
+      "Nhiệt độ tuyệt đối",
+      "Khối lượng phân tử",
+      "Mật độ phân tử khí"
+    ],
+    "answer": "Nhiệt độ tuyệt đối",
+    "explanation": "Định luật Charles phát biểu: Với một khối khí xác định có thể tích không đổi, áp suất p tỉ lệ thuận với nhiệt độ tuyệt đối T (p/T = hằng số)."
+  },
+  {
+    "question": "Phương trình trạng thái của khí lí tưởng đối với một lượng khí xác định được viết dưới dạng nào?",
+    "options": [
+      "p.V/T = hằng số",
+      "p.T/V = hằng số",
+      "V.T/p = hằng số",
+      "p.V.T = hằng số"
+    ],
+    "answer": "p.V/T = hằng số",
+    "explanation": "Phương trình trạng thái Claperon khẳng định tích áp suất và thể tích chia cho nhiệt độ tuyệt đối của một lượng khí xác định là một hằng số."
+  },
+  {
+    "question": "Hằng số khí lí tưởng R trong hệ SI có giá trị xấp xỉ bằng bao nhiêu?",
+    "options": [
+      "8,31 J/mol.K",
+      "0,082 J/mol.K",
+      "6,02 * 10^23 J/mol.K",
+      "1,38 * 10^-23 J/mol.K"
+    ],
+    "answer": "8,31 J/mol.K",
+    "explanation": "Hằng số khí lí tưởng R có giá trị tiêu chuẩn trong hệ SI là 8,31 J/(mol.K)."
+  },
+  {
+    "question": "Khí lí tưởng là chất khí trong đó các phân tử được coi là các chất điểm và chỉ tương tác với nhau khi nào?",
+    "options": [
+      "Ở khoảng cách xa",
+      "Khi va chạm với nhau",
+      "Khi ở nhiệt độ thấp",
+      "Liên tục tương tác trong mọi điều kiện"
+    ],
+    "answer": "Khi va chạm với nhau",
+    "explanation": "Theo định nghĩa, phân tử khí lí tưởng chỉ tương tác khi va chạm, bình thường lực tương tác giữa chúng là không đáng kể."
+  },
+  {
+    "question": "Áp suất mà khí lí tưởng tác dụng lên thành bình chứa phụ thuộc vào yếu tố nào của các phân tử?",
+    "options": [
+      "Khối lượng phân tử và bình phương tốc độ trung bình phân tử",
+      "Hình dạng phân tử khí",
+      "Màu sắc của các phân tử khí",
+      "Thể tích riêng của từng phân tử"
+    ],
+    "answer": "Khối lượng phân tử và bình phương tốc độ trung bình phân tử",
+    "explanation": "Áp suất khí lí tưởng tỉ lệ thuận với động năng tịnh tiến trung bình của các phân tử, tức phụ thuộc khối lượng m và bình phương tốc độ trung bình phân tử."
+  },
+  {
+    "question": "Động năng tịnh tiến trung bình của các phân tử khí lí tưởng tỉ lệ thuận với yếu tố nào?",
+    "options": [
+      "Thể tích khí",
+      "Áp suất khí",
+      "Nhiệt độ tuyệt đối của khí",
+      "Khối lượng của toàn bộ khối khí"
+    ],
+    "answer": "Nhiệt độ tuyệt đối của khí",
+    "explanation": "Động năng tịnh tiến trung bình của phân tử khí lí tưởng tỉ lệ thuận với nhiệt độ tuyệt đối T theo công thức Ed = (3/2)*k*T."
+  },
+  {
+    "question": "Hằng số Boltzmann (k) liên hệ giữa hằng số khí lí tưởng R và số Avogadro (N_A) qua biểu thức nào?",
+    "options": [
+      "k = R / N_A",
+      "k = R * N_A",
+      "k = N_A / R",
+      "k = R + N_A"
+    ],
+    "answer": "k = R / N_A",
+    "explanation": "Hằng số Boltzmann k bằng hằng số khí R chia cho số Avogadro N_A, có giá trị khoảng 1,38 * 10^-23 J/K."
+  },
+  {
+    "question": "Thiết bị dùng để đo nhiệt độ của vật gọi là gì?",
+    "options": [
+      "Áp kế",
+      "Nhiệt kế",
+      "Lực kế",
+      "Oát kế"
+    ],
+    "answer": "Nhiệt kế",
+    "explanation": "Nhiệt kế là dụng cụ phổ biến dùng để đo nhiệt độ của các vật hoặc môi trường."
+  },
+  {
+    "question": "Khi một vật tỏa nhiệt lượng ra môi trường xung quanh mà không sinh công thì nội năng của vật biến đổi như thế nào?",
+    "options": [
+      "Tăng lên",
+      "Giảm đi",
+      "Không đổi",
+      "Tăng rồi giảm"
+    ],
+    "answer": "Giảm đi",
+    "explanation": "Khi tỏa nhiệt (Q < 0) và không nhận hay sinh công (A = 0) thì delta U = Q < 0, dẫn đến nội năng của vật giảm đi."
+  },
+  {
+    "question": "Khi đun nóng một miếng đồng, miếng đồng nở dài ra. Tại sao nội năng của miếng đồng lại thay đổi?",
+    "options": [
+      "Chỉ do động năng của các phân tử đồng tăng",
+      "Chỉ do thế năng tương tác giữa các phân tử đồng thay đổi",
+      "Do cả động năng tăng và thế năng tương tác giữa các phân tử thay đổi",
+      "Nội năng của miếng đồng không hề thay đổi"
+    ],
+    "answer": "Do cả động năng tăng và thế năng tương tác giữa các phân tử thay đổi",
+    "explanation": "Khi nhiệt độ tăng, tốc độ chuyển động nhiệt tăng làm động năng tăng. Đồng thời miếng đồng nở ra làm khoảng cách giữa các phân tử thay đổi, dẫn đến thế năng tương tác thay đổi."
+  },
+  {
+    "question": "Một hệ nhận một nhiệt lượng 500 J và sinh một công 300 J. Độ biến thiên nội năng của hệ bằng bao nhiêu?",
+    "options": [
+      "800 J",
+      "200 J",
+      "-200 J",
+      "500 J"
+    ],
+    "answer": "200 J",
+    "explanation": "Hệ nhận nhiệt nên Q = +500 J. Hệ sinh công nên A = -300 J. Độ biến thiên nội năng: delta U = Q + A = 500 - 300 = 200 J."
+  },
+  {
+    "question": "Khi dùng tay chà xát liên tục một đồng xu lên mặt bàn, đồng xu nóng lên. Đây là kết quả của quá trình biến đổi nội năng nào?",
+    "options": [
+      "Truyền nhiệt",
+      "Thực hiện công",
+      "Vừa thực hiện công vừa truyền nhiệt từ bàn sang",
+      "Tự phát tăng nội năng"
+    ],
+    "answer": "Thực hiện công",
+    "explanation": "Lực ma sát thực hiện công lên đồng xu, cơ năng chuyển hóa thành nội năng làm đồng xu nóng lên."
+  },
+  {
+    "question": "Tại sao khi một khối khí dãn nở sinh công trong một xilanh cách nhiệt tuyệt đối, nhiệt độ của khối khí lại giảm?",
+    "options": [
+      "Vì hệ nhận nhiệt từ bên ngoài",
+      "Vì nội năng của hệ giảm do phải tiêu tốn năng lượng để thực hiện công",
+      "Vì các phân tử khí va chạm mạnh hơn",
+      "Vì thể tích khí tăng làm tăng động năng phân tử"
+    ],
+    "answer": "Vì nội năng của hệ giảm do phải tiêu tốn năng lượng để thực hiện công",
+    "explanation": "Xilanh cách nhiệt nên Q = 0. Khí dãn nở sinh công nên A < 0. Do đó delta U = A < 0, nội năng giảm dẫn đến nhiệt độ giảm."
+  },
+  {
+    "question": "Nhiệt độ của cơ thể người bình thường là 37 độ C. Nhiệt độ này tương ứng với bao nhiêu Kelvin?",
+    "options": [
+      "310,15 K",
+      "236,15 K",
+      "37 K",
+      "273,15 K"
+    ],
+    "answer": "310,15 K",
+    "explanation": "Áp dụng hệ thức: T = t + 273,15 = 37 + 273,15 = 310,15 K."
+  },
+  {
+    "question": "Nhiệt hóa hơi riêng của nước lớn hơn nhiều so với nhiệt nóng chảy riêng của đá. Điều này có ý nghĩa vật lí gì?",
+    "options": [
+      "Cần nhiều năng lượng hơn để bẻ gãy hoàn toàn các liên kết phân tử khi chuyển từ lỏng sang hơi so với từ rắn sang lỏng",
+      "Nước sôi ở nhiệt độ thấp hơn đá nóng chảy",
+      "Phân tử nước ở thể hơi chuyển động chậm hơn ở thể lỏng",
+      "Đá dễ bay hơi hơn nước"
+    ],
+    "answer": "Cần nhiều năng lượng hơn để bẻ gãy hoàn toàn các liên kết phân tử khi chuyển từ lỏng sang hơi so với từ rắn sang lỏng",
+    "explanation": "Sự hóa hơi yêu cầu phá vỡ hầu như hoàn toàn lực liên kết giữa các phân tử chất lỏng để chúng trở nên tự do, cần năng lượng lớn hơn nhiều so với việc chỉ làm lỏng cấu trúc rắn."
+  },
+  {
+    "question": "Một khối khí lí tưởng xác định đang ở trạng thái có áp suất p. Nếu giữ nguyên nhiệt độ và giảm thể tích của khối khí đi một nửa, áp suất mới của khối khí sẽ như thế nào?",
+    "options": [
+      "Giảm đi một nửa",
+      "Tăng lên gấp đôi",
+      "Không thay đổi",
+      "Tăng lên gấp bốn lần"
+    ],
+    "answer": "Tăng lên gấp đôi",
+    "explanation": "Theo định luật Boyle, khi nhiệt độ không đổi, áp suất tỉ lệ nghịch với thể tích. Thể tích giảm một nửa thì áp suất tăng gấp đôi."
+  },
+  {
+    "question": "Hiện tượng nào sau đây có thể giải thích bằng định luật Charles?",
+    "options": [
+      "Quả bóng bàn bị bẹp nhúng vào nước nóng lại phồng lên",
+      "Bơm xe đạp thấy lốp căng lên",
+      "Hút sữa từ hộp bằng ống hút",
+      "Nén khí trong xilanh của động cơ diesel"
+    ],
+    "answer": "Quả bóng bàn bị bẹp nhúng vào nước nóng lại phồng lên",
+    "explanation": "Khi nhúng vào nước nóng, nhiệt độ không khí bên trong bóng tăng lên, dẫn đến áp suất tăng và đẩy vỏ bóng phồng trở lại (gần đúng quá trình đẳng tích khi chưa phồng hoàn toàn)."
+  },
+  {
+    "question": "Đồ thị biểu diễn quá trình đẳng tích của một lượng khí lí tưởng trong hệ tọa độ (p, T) là gì?",
+    "options": [
+      "Đường thẳng song song với trục hoành T",
+      "Đường thẳng kéo dài đi qua gốc tọa độ O",
+      "Đường hyperbol",
+      "Đường thẳng song song với trục tung p"
+    ],
+    "answer": "Đường thẳng kéo dài đi qua gốc tọa độ O",
+    "explanation": "Trong hệ tọa độ (p, T), mối quan hệ p = hằng số * T là một hàm số bậc nhất có đồ thị là đường thẳng có đường kéo dài đi qua gốc tọa độ."
+  },
+  {
+    "question": "Nếu nhiệt độ tuyệt đối của một khối khí lí tưởng tăng lên 3 lần và thể tích tăng lên 3 lần thì áp suất của khối khí sẽ thay đổi như thế nào?",
+    "options": [
+      "Tăng 9 lần",
+      "Giảm 9 lần",
+      "Không thay đổi",
+      "Tăng 3 lần"
+    ],
+    "answer": "Không thay đổi",
+    "explanation": "Từ phương trình trạng thái p1*V1/T1 = p2*V2/T2. Khi V2 = 3*V1 và T2 = 3*T3 thì p2 = p1*(V1/V2)*(T2/T1) = p1*(1/3)*3 = p1."
+  },
+  {
+    "question": "Nhận xét nào sau đây về mật độ phân tử khí lí tưởng là đúng?",
+    "options": [
+      "Khi thể tích khối khí giảm ở nhiệt độ không đổi, mật độ phân tử tăng lên",
+      "Mật độ phân tử không phụ thuộc vào thể tích bình chứa",
+      "Khi nhiệt độ tăng, mật độ phân tử luôn giảm",
+      "Mật độ phân tử bằng số Avogadro trong mọi thể tích"
+    ],
+    "answer": "Khi thể tích khối khí giảm ở nhiệt độ không đổi, mật độ phân tử tăng lên",
+    "explanation": "Mật độ phân tử n = N/V. Khi số phân tử N giữ nguyên và thể tích V giảm thì mật độ phân tử n tăng lên."
+  },
+  {
+    "question": "Tại sao áp suất khí quyển lại giảm khi chúng ta lên cao?",
+    "options": [
+      "Vì càng lên cao nhiệt độ càng tăng mạnh",
+      "Vì trọng lực làm mật độ các phân tử không khí đậm đặc hơn ở gần mặt đất, càng lên cao không khí càng loãng",
+      "Càng lên cao không khí chuyển động nhanh hơn",
+      "Do từ trường Trái Đất đẩy các phân tử khí lên cao"
+    ],
+    "answer": "Vì trọng lực làm mật độ các phân tử không khí đậm đặc hơn ở gần mặt đất, càng lên cao không khí càng loãng",
+    "explanation": "Do tác dụng của trọng lực, các phân tử không khí tập trung nhiều ở tầng thấp. Càng lên cao, mật độ phân tử khí giảm dẫn đến số va chạm giảm, làm áp suất giảm."
+  },
+  {
+    "question": "Khi nhiệt độ tuyệt đối của khí lí tưởng tăng gấp đôi, tốc độ căn quân phương (tốc độ trung bình bình phương) của các phân tử khí thay đổi như thế nào?",
+    "options": [
+      "Tăng gấp đôi",
+      "Tăng căn 2 lần",
+      "Giảm đi một nửa",
+      "Tăng gấp bốn lần"
+    ],
+    "answer": "Tăng căn 2 lần",
+    "explanation": "Động năng tịnh tiến trung bình tỉ lệ thuận với T và tỉ lệ thuận với bình phương tốc độ trung bình, do đó tốc độ trung bình tỉ lệ thuận với căn bậc hai của T."
+  },
+  {
+    "question": "Một bình kín chứa khí ôxi ở nhiệt độ 27 độ C. Để động năng tịnh tiến trung bình của các phân tử khí ôxi tăng lên gấp đôi thì nhiệt độ của khối khí phải bằng bao nhiêu?",
+    "options": [
+      "54 độ C",
+      "600 độ C",
+      "327 độ C",
+      "150 độ C"
+    ],
+    "answer": "327 độ C",
+    "explanation": "T1 = 27 + 273 = 300 K. Để động năng tăng gấp đôi thì nhiệt độ tuyệt đối T2 = 2 * T1 = 600 K. Đổi ra độ C: t2 = 600 - 273 = 327 độ C."
+  },
+  {
+    "question": "Trong các chất sau đây, chất nào có nhiệt dung riêng lớn nhất ở điều kiện thường, giúp nó được ứng dụng làm chất làm mát trong lò sưởi hoặc động cơ ô tô?",
+    "options": [
+      "Sắt",
+      "Đồng",
+      "Nước",
+      "Rượu"
+    ],
+    "answer": "Nước",
+    "explanation": "Nước có nhiệt dung riêng rất lớn (khoảng 4180 J/kg.K), có khả năng hấp thụ hoặc tỏa nhiệt lượng lớn mà ít thay đổi nhiệt độ đột ngột."
+  },
+  {
+    "question": "Người ta cung cấp cho khí trong xilanh một nhiệt lượng 200 J. Khí nở ra đẩy pit-tông lên thực hiện một công 120 J. Tính độ biến thiên nội năng của khối khí.",
+    "options": [
+      "320 J",
+      "80 J",
+      "-80 J",
+      "200 J"
+    ],
+    "answer": "80 J",
+    "explanation": "Khí nhận nhiệt nên Q = 200 J. Khí thực hiện công nên A = -120 J. Độ biến thiên nội năng: delta U = Q + A = 200 - 120 = 80 J."
+  },
+  {
+    "question": "Cần cung cấp một nhiệt lượng bao nhiêu để làm nóng chảy hoàn toàn 2 kg nước đá đang ở nhiệt độ 0 độ C? Biết nhiệt nóng chảy riêng của nước đá là 3,4 * 10^5 J/kg.",
+    "options": [
+      "6,8 * 10^5 J",
+      "1,7 * 10^5 J",
+      "3,4 * 10^5 J",
+      "5,4 * 10^5 J"
+    ],
+    "answer": "6,8 * 10^5 J",
+    "explanation": "Áp dụng công thức tính nhiệt lượng nóng chảy: Q = lamda * m = 3,4 * 10^5 * 2 = 6,8 * 10^5 J."
+  },
+  {
+    "question": "Tính nhiệt lượng cần thiết để làm cho 0,5 kg nước ở nhiệt độ 25 độ C sôi hoàn toàn ở 100 độ C. Biết nhiệt dung riêng của nước là 4200 J/kg.K.",
+    "options": [
+      "157500 J",
+      "315000 J",
+      "210000 J",
+      "52500 J"
+    ],
+    "answer": "157500 J",
+    "explanation": "Nhiệt lượng cần cung cấp: Q = m * c * delta t = 0,5 * 4200 * (100 - 25) = 0,5 * 4200 * 75 = 157500 J."
+  },
+  {
+    "question": "Một lượng khí ở nhiệt độ 18 độ C có thể tích 2 lít và áp suất 1 atm. Khi nén đẳng nhiệt khối khí này đến thể tích 0,5 lít thì áp suất của khối khí lúc này bằng bao nhiêu?",
+    "options": [
+      "2 atm",
+      "3 atm",
+      "4 atm",
+      "0,25 atm"
+    ],
+    "answer": "4 atm",
+    "explanation": "Áp dụng định luật Boyle cho quá trình đẳng nhiệt: p1*V1 = p2*V2 => 1 * 2 = p2 * 0,5 => p2 = 4 atm."
+  },
+  {
+    "question": "Một săm xe máy được bơm căng không khí ở nhiệt độ 20 độ C đến áp suất 2 atm. Nếu để xe ngoài nắng có nhiệt độ lên tới 50 độ C thì áp suất khí trong săm lúc này là bao nhiêu (coi thể tích săm biến đổi không đáng kể)?",
+    "options": [
+      "5 atm",
+      "2,2 atm",
+      "1,8 atm",
+      "3,1 atm"
+    ],
+    "answer": "2,2 atm",
+    "explanation": "T1 = 20 + 273 = 293 K; T2 = 50 + 273 = 323 K. Quá trình đẳng tích: p1/T1 = p2/T2 => p2 = p1 * (T2/T1) = 2 * (323/293) xấp xỉ 2,2 atm."
+  },
+  {
+    "question": "Một khối khí lí tưởng có thể tích 6 lít ở nhiệt độ 27 độ C và áp suất 1 atm. Biến đổi khối khí đến trạng thái mới có nhiệt độ 127 độ C và thể tích 4 lít thì áp suất lúc này bằng bao nhiêu?",
+    "options": [
+      "2 atm",
+      "1,5 atm",
+      "3 atm",
+      "2,5 atm"
+    ],
+    "answer": "2 atm",
+    "explanation": "T1 = 300 K, T2 = 400 K. Áp dụng phương trình trạng thái khí lí tưởng: p1*V1/T1 = p2*V2/T2 => 1 * 6 / 300 = p2 * 4 / 400 => 0,02 = p2 * 0,01 => p2 = 2 atm."
+  },
+  {
+    "question": "Một bình chứa 2 mol khí heli ở nhiệt độ 27 độ C. Hãy tính thể tích của khối khí này biết áp suất khí trong bình là 1,2 atm (lấy hằng số khí R = 0,082 atm.lít/mol.K).",
+    "options": [
+      "41 lít",
+      "24,6 lít",
+      "12,3 lít",
+      "50 lít"
+    ],
+    "answer": "41 lít",
+    "explanation": "T = 27 + 273 = 300 K. Áp dụng phương trình Mendeleev-Clapeyron: p.V = n.R.T => V = n.R.T / p = 2 * 0,082 * 300 / 1,2 = 41 lít."
+  },
+  {
+    "question": "Một bình kín có thể tích không đổi chứa khí lí tưởng ở áp suất 100 kPa. Khi nhiệt độ tăng từ 300 K lên 450 K thì áp suất khí tăng thêm một lượng bằng bao nhiêu?",
+    "options": [
+      "150 kPa",
+      "50 kPa",
+      "200 kPa",
+      "25 kPa"
+    ],
+    "answer": "50 kPa",
+    "explanation": "Quá trình đẳng tích: p1/T1 = p2/T2 => 100/300 = p2/450 => p2 = 150 kPa. Áp suất tăng thêm: delta p = p2 - p1 = 150 - 100 = 50 kPa."
+  },
+  {
+    "question": "Khi đun nóng một khối lượng khí trong bình kín thêm 1 độ C thì áp suất khí tăng thêm 1/300 áp suất ban đầu. Tính nhiệt độ ban đầu của khối khí.",
+    "options": [
+      "300 độ C",
+      "27 độ C",
+      "300 K",
+      "273 K"
+    ],
+    "answer": "300 K",
+    "explanation": "Đẳng tích: delta p / p1 = delta T / T1 => 1/300 = 1 / T1 => T1 = 300 K (tương ứng với 27 độ C)."
+  },
+  {
+    "question": "Biết khối lượng mol của khí ôxi là 32 g/mol. Hãy tính mật độ khối lượng (khối lượng riêng) của khí ôxi ở điều kiện tiêu chuẩn (nhiệt độ 0 độ C, áp suất 1 atm, thể tích 1 mol khí là 22,4 lít).",
+    "options": [
+      "1,43 g/lít",
+      "1,43 kg/lít",
+      "0,71 g/lít",
+      "32 g/lít"
+    ],
+    "answer": "1,43 g/lít",
+    "explanation": "Khối lượng riêng ro = m / V. Ở ĐKTC, 1 mol ôxi nặng 32 g chiếm thể tích 22,4 lít => ro = 32 / 22,4 = 1,43 g/lít."
+  },
+  {
+    "question": "Một xilanh nằm ngang cách nhiệt được chia làm hai phần bằng nhau bởi một pit-tông cách nhiệt. Mỗi phần có thể tích V0 chứa một lượng khí lí tưởng ở nhiệt độ T0 và áp suất p0. Người ta đun nóng một bên khí lên nhiệt độ T1 trong khi bên kia giữ cố định nhiệt độ T0. Pit-tông dịch chuyển làm thể tích bên đun nóng tăng lên. Tìm áp suất p của khí khi pit-tông đã dừng lại.",
+    "options": [
+      "p = p0 * (T1 + T0) / (2 * T0)",
+      "p = 2 * p0 * T1 / (T1 + T0)",
+      "p = p0 * (T1 + T0) / T0",
+      "p = p0 * T1 / T0"
+    ],
+    "answer": "p = 2 * p0 * T1 / (T1 + T0)",
+    "explanation": "Khi cân bằng, áp suất hai bên bằng nhau và bằng p. Tổng thể tích không đổi: V1 + V2 = 2*V0. Áp dụng pt trạng thái cho mỗi bên: V1 = p0*V0*T1/(p*T0), V2 = p0*V0*T0/(p*T0). Cộng lại ta được p = 2*p0*T1 / (T1 + T0)."
+  },
+  {
+    "question": "Để xác định nhiệt hóa hơi riêng của nước, người ta dẫn luồng hơi nước ở 100 độ C vào một nhiệt lượng kế chứa 0,5 kg nước ở 20 độ C. Khi nhiệt độ đạt 40 độ C thì khối lượng nước tăng thêm 0,016 kg. Biết nhiệt dung riêng của nước là 4200 J/kg.K, bỏ qua nhiệt dung của nhiệt lượng kế. Tính nhiệt hóa hơi riêng của nước thu được từ thí nghiệm này.",
+    "options": [
+      "2,3 * 10^6 J/kg",
+      "2,26 * 10^6 J/kg",
+      "2,5 * 10^6 J/kg",
+      "1,9 * 10^6 J/kg"
+    ],
+    "answer": "2,26 * 10^6 J/kg",
+    "explanation": "Nhiệt lượng nước thu vào: Qthu = m_nuoc * c * (40 - 20) = 0,5 * 4200 * 20 = 42000 J. Nhiệt lượng hơi nước tỏa ra khi ngưng tụ và giảm nhiệt độ: Qtoa = m_hoi * L + m_hoi * c * (100 - 40) = 0,016 * L + 0,016 * 4200 * 60 = 0,016 * L + 4032. Cân bằng nhiệt: Qthu = Qtoa => 42000 = 0,016 * L + 4032 => L = 2260500 J/kg xấp xỉ 2,26 * 10^6 J/kg."
+  },
+  {
+    "question": "Một bình dung tích 20 lít chứa khí ôxi ở áp suất 100 atm và nhiệt độ 27 độ C. Người ta dùng khí này để bơm vào các quả bóng bay sao cho mỗi quả bóng sau khi bơm có thể tích 2 lít, áp suất 1 atm và nhiệt độ 7 độ C. Tính số lượng quả bóng tối đa có thể bơm được, biết rằng bình khí không thể xả hết khí ra ngoài mà dừng lại khi áp suất trong bình hạ xuống bằng áp suất khí trong bóng (1 atm) ở nhiệt độ phòng (27 độ C).",
+    "options": [
+      "1015 quả",
+      "990 quả",
+      "1000 quả",
+      "975 quả"
+    ],
+    "answer": "990 quả",
+    "explanation": "Số mol khí ban đầu: n1 = p1*V1 / (R*T1) = 100 * 20 / (R * 300) = 2000 / (300*R). Số mol khí còn lại trong bình: n2 = 1 * 20 / (R * 300) = 20 / (300*R). Số mol khí dùng để bơm bóng: delta n = n1 - n2 = 1980 / (300*R). Số mol khí cần cho 1 quả bóng: n_bong = 1 * 2 / (R * 280) = 2 / (280*R). Số quả bóng là N = delta n / n_bong = (1980 / 300) / (2 / 280) = 6,6 * 140 = 990 quả."
+  },
+  {
+    "question": "Một bơm xe đạp có chiều dài xi lanh là 40 cm, đường kính trong là 3 cm. Người ta dùng bơm này để bơm không khí vào một bánh xe máy có thể tích không đổi là 3 lít. Ban đầu áp suất khí trong bánh xe là 1 atm. Cần phải bơm bao nhiêu lần để áp suất trong bánh xe tăng lên đến 3 atm? Coi nhiệt độ không đổi trong suốt quá trình bơm và mỗi lần bơm đều đẩy được hết không khí trong xi lanh vào bánh xe.",
+    "options": [
+      "21 lần",
+      "22 lần",
+      "15 lần",
+      "30 lần"
+    ],
+    "answer": "22 lần",
+    "explanation": "Diện tích tiết diện xi lanh bơm: S = pi * d^2 / 4 = 3,14 * 3^2 / 4 = 7,065 cm^2. Thể tích mỗi lần bơm: V_bơm = S * h = 7,065 * 40 = 282,6 cm^2 = 0,2826 lít. Áp dụng định luật Boyle cho lượng khí tăng thêm: p_khí * (N * V_bơm) = delta p * V_bánh_xe => 1 * N * 0,2826 = (3 - 1) * 3 => 0,2826 * N = 6 => N xấp xỉ 21,2 lần. Vì vậy cần ít nhất 22 lần bơm để đạt áp suất lớn hơn hoặc bằng 3 atm."
+  },
+  {
+    "question": "Một khối khí lí tưởng thực hiện một chu trình biến đổi trạng thái khép kín gồm 3 quá trình: Đẳng áp từ trạng thái 1 sang trạng thái 2 (V2 = 2*V1), đẳng tích từ trạng thái 2 sang trạng thái 3 sao cho nhiệt độ T3 = T1, và đẳng nhiệt từ trạng thái 3 trở về trạng thái 1. Nếu áp suất ở trạng thái 1 là p1, hãy tính áp suất ở trạng thái 3 theo p1.",
+    "options": [
+      "p3 = p1 / 2",
+      "p3 = 2 * p1",
+      "p3 = p1",
+      "p3 = p1 / 4"
+    ],
+    "answer": "p3 = p1 / 2",
+    "explanation": "Từ 1 sang 2 đẳng áp: V2/T2 = V1/T1 => T2 = 2*T1 (vì V2=2*V1) và p2 = p1. Từ 2 sang 3 đẳng tích: V3 = V2 = 2*V1 và p3/T3 = p2/T2. Vì T3 = T1 nên p3/T1 = p1/(2*T1) => p3 = p1 / 2."
+  }
+]

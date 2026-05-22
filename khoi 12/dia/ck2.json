@@ -1,0 +1,554 @@
+[
+  {
+    "question": "Nước ta nằm trong vùng nội chí tuyến nên có đặc điểm khí hậu nào sau đây?",
+    "options": [
+      "Nhiệt độ trung bình năm cao.",
+      "Chịu ảnh hưởng sâu sắc của biển.",
+      "Lượng mưa phân hóa theo mùa.",
+      "Có mùa đông lạnh toàn lãnh thổ."
+    ],
+    "answer": "Nhiệt độ trung bình năm cao.",
+    "explanation": "Vị trí nội chí tuyến quy định tính chất nhiệt đới của khí hậu nước ta, biểu hiện rõ nhất là nhiệt độ trung bình năm cao, lượng bức xạ lớn."
+  },
+  {
+    "question": "Loại hình vận tải nào sau đây có vai trò quan trọng nhất trong vận tải hành khách quốc tế của nước ta hiện nay?",
+    "options": [
+      "Đường hàng không.",
+      "Đường sắt.",
+      "Đường ô tô.",
+      "Đường sông."
+    ],
+    "answer": "Đường hàng không.",
+    "explanation": "Đường hàng không có ưu thế về tốc độ và khoảng cách dài, là loại hình chủ lực trong vận chuyển hành khách quốc tế."
+  },
+  {
+    "question": "Trung tâm du lịch quốc gia nào sau đây thuộc vùng Duyên hải Nam Trung Bộ?",
+    "options": [
+      "Đà Nẵng.",
+      "Nha Trang.",
+      "Huế.",
+      "Cần Thơ."
+    ],
+    "answer": "Đà Nẵng.",
+    "explanation": "Theo chương trình Địa lí 12, Đà Nẵng là trung tâm du lịch quốc gia, đóng vai trò hạt nhân của vùng Duyên hải Nam Trung Bộ."
+  },
+  {
+    "question": "Vùng kinh tế trọng điểm nào sau đây của nước ta có số lượng tỉnh và thành phố nhiều nhất?",
+    "options": [
+      "Vùng kinh tế trọng điểm Bắc Bộ.",
+      "Vùng kinh tế trọng điểm Miền Trung.",
+      "Vùng kinh tế trọng điểm Phía Nam.",
+      "Vùng kinh tế trọng điểm Vùng Đồng bằng sông Cửu Long."
+    ],
+    "answer": "Vùng kinh tế trọng điểm Phía Nam.",
+    "explanation": "Vùng kinh tế trọng điểm Phía Nam gồm 8 tỉnh, thành phố, có quy mô và số lượng thành viên lớn nhất cả nước."
+  },
+  {
+    "question": "Cây công nghiệp lâu năm chủ lực của vùng Tây Nguyên là cây nào sau đây?",
+    "options": [
+      "Cà phê.",
+      "Chè.",
+      "Cao su.",
+      "Điều."
+    ],
+    "answer": "Cà phê.",
+    "explanation": "Tây Nguyên là vùng trồng cà phê lớn nhất nước ta nhờ có diện tích đất đỏ ba dan tập trung với quy mô lớn."
+  },
+  {
+    "question": "Tỉnh nào sau đây không thuộc vùng Trung du và miền núi Bắc Bộ?",
+    "options": [
+      "Thanh Hóa.",
+      "Lạng Sơn.",
+      "Sơn La.",
+      "Cao Bằng."
+    ],
+    "answer": "Thanh Hóa.",
+    "explanation": "Thanh Hóa là tỉnh thuộc vùng Bắc Trung Bộ, không thuộc Trung du và miền núi Bắc Bộ."
+  },
+  {
+    "question": "Khoáng sản nào sau đây có trữ lượng lớn nhất ở vùng Đồng bằng sông Hồng?",
+    "options": [
+      "Than nâu.",
+      "Than đá.",
+      "Bô-xit.",
+      "Sắt."
+    ],
+    "answer": "Than nâu.",
+    "explanation": "Đồng bằng sông Hồng sở hữu bể than nâu có trữ lượng dự báo rất lớn, phân bố chủ yếu ở lòng đất của vùng."
+  },
+  {
+    "question": "Di sản văn hóa thế giới nào sau đây thuộc vùng Bắc Trung Bộ?",
+    "options": [
+      "Cố đô Huế.",
+      "Phố cổ Hội An.",
+      "Thánh địa Mỹ Sơn.",
+      "Hoàng thành Thăng Long."
+    ],
+    "answer": "Cố đô Huế.",
+    "explanation": "Cố đô Huế thuộc tỉnh Thừa Thiên Huế, nằm trong vùng kinh tế - xã hội Bắc Trung Bộ."
+  },
+  {
+    "question": "Nhà máy thủy điện có công suất lớn nhất đang hoạt động ở vùng Trung du và miền núi Bắc Bộ là nhà máy nào?",
+    "options": [
+      "Sơn La.",
+      "Hòa Bình.",
+      "Lai Châu.",
+      "Tuyên Quang."
+    ],
+    "answer": "Sơn La.",
+    "explanation": "Thủy điện Sơn La trên sông Đà hiện là nhà máy thủy điện có công suất lớn nhất Việt Nam và Đông Nam Á."
+  },
+  {
+    "question": "Vùng Đông Nam Bộ dẫn đầu cả nước về sản lượng loại cây công nghiệp lâu năm nào sau đây?",
+    "options": [
+      "Cao su.",
+      "Chè.",
+      "Cà phê.",
+      "Dừa."
+    ],
+    "answer": "Cao su.",
+    "explanation": "Đông Nam Bộ có diện tích và sản lượng cao su lớn nhất cả nước nhờ đất xám, đất đỏ ba dan và điều kiện khí hậu phù hợp."
+  },
+  {
+    "question": "Ngành lâm nghiệp của nước ta hiện nay bao gồm các hoạt động chủ yếu nào?",
+    "options": [
+      "Lâm sinh, khai thác và chế biến lâm sản.",
+      "Trồng rừng và bảo vệ động vật hoang dã.",
+      "Khai thác gỗ và làm đồ mỹ nghệ.",
+      "Phát triển du lịch sinh thái rừng."
+    ],
+    "answer": "Lâm sinh, khai thác và chế biến lâm sản.",
+    "explanation": "Theo cấu trúc ngành, lâm nghiệp nước ta bao gồm hoạt động lâm sinh (trồng, chăm sóc, bảo vệ rừng) và khai thác, chế biến lâm sản."
+  },
+  {
+    "question": "Cửa khẩu quốc tế nào sau đây nằm trên đường biên giới Việt Nam - Lào thuộc tỉnh Quảng Trị?",
+    "options": [
+      "Lao Bảo.",
+      "Cầu Treo.",
+      "Cha Lo.",
+      "Bờ Y."
+    ],
+    "answer": "Lao Bảo.",
+    "explanation": "Cửa khẩu quốc tế Lao Bảo thuộc tỉnh Quảng Trị, nằm trên hành lang kinh tế Đông - Tây kết nối với Lào."
+  },
+  {
+    "question": "Đặc điểm nổi bật của ngành ngoại thương nước ta từ sau khi gia nhập WTO là gì?",
+    "options": [
+      "Thị trường buôn bán được mở rộng toàn cầu.",
+      "Luôn trong tình trạng nhập siêu kéo dài.",
+      "Chỉ buôn bán với các nước trong khu vực.",
+      "Sản phẩm xuất khẩu hoàn toàn là thô."
+    ],
+    "answer": "Thị trường buôn bán được mở rộng toàn cầu.",
+    "explanation": "Sau khi gia nhập WTO, nước ta đã đa phương hóa, đa dạng hóa thị trường, mở rộng quan hệ buôn bán với hầu hết các quốc gia trên thế giới."
+  },
+  {
+    "question": "Vùng nuôi trồng thủy sản lớn nhất nước ta hiện nay là vùng nào?",
+    "options": [
+      "Đồng bằng sông Cửu Long.",
+      "Đồng bằng sông Hồng.",
+      "Duyên hải Nam Trung Bộ.",
+      "Bắc Trung Bộ."
+    ],
+    "answer": "Đồng bằng sông Cửu Long.",
+    "explanation": "Đồng bằng sông Cửu Long chiếm hơn 50% diện tích và sản lượng nuôi trồng thủy sản của cả nước nhờ hệ thống sông ngòi, kênh rạch chằng chịt."
+  },
+  {
+    "question": "Hai trung tâm công nghiệp lớn nhất nước ta hiện nay là gì?",
+    "options": [
+      "Hà Nội và Thành phố Hồ Chí Minh.",
+      "Hà Nội và Hải Phòng.",
+      "Thành phố Hồ Chí Minh và Bình Dương.",
+      "Đà Nẵng và Cần Thơ."
+    ],
+    "answer": "Hà Nội và Thành phố Hồ Chí Minh.",
+    "explanation": "Hà Nội và Thành phố Hồ Chí Minh là hai trung tâm kinh tế, công nghiệp có quy mô lớn nhất và đa dạng ngành nhất cả nước."
+  },
+  {
+    "question": "Tuyến đường sắt dài nhất nước ta hiện nay là tuyến đường nào?",
+    "options": [
+      "Thống Nhất (Hà Nội - Thành phố Hồ Chí Minh).",
+      "Hà Nội - Hải Phòng.",
+      "Hà Nội - Lào Cai.",
+      "Hà Nội - Lạng Sơn."
+    ],
+    "answer": "Thống Nhất (Hà Nội - Thành phố Hồ Chí Minh).",
+    "explanation": "Tuyến đường sắt Thống Nhất có chiều dài hơn 1700 km, chạy dọc theo chiều dài đất nước, kết nối hai miền Nam - Bắc."
+  },
+  {
+    "question": "Huyện đảo Hoàng Sa trực thuộc tỉnh hoặc thành phố nào của nước ta?",
+    "options": [
+      "Thành phố Đà Nẵng.",
+      "Tỉnh Khánh Hòa.",
+      "Tỉnh Quảng Ngãi.",
+      "Tỉnh Bình Thuận."
+    ],
+    "answer": "Thành phố Đà Nẵng.",
+    "explanation": "Về mặt hành chính, huyện đảo Hoàng Sa được tổ chức trực thuộc Ủy ban nhân dân Thành phố Đà Nẵng."
+  },
+  {
+    "question": "Ngành công nghiệp nào sau đây được coi là ngành công nghiệp trọng điểm của nước ta hiện nay?",
+    "options": [
+      "Chế biến lương thực, thực phẩm.",
+      "Sản xuất hàng gốm sứ.",
+      "Khai thác quặng kim loại màu.",
+      "Sản xuất thủ công mỹ nghệ."
+    ],
+    "answer": "Chế biến lương thực, thực phẩm.",
+    "explanation": "Công nghiệp chế biến lương thực, thực phẩm là ngành trọng điểm nhờ có thế mạnh lâu dài (nguyên liệu, lao động) và mang lại hiệu quả kinh tế cao."
+  },
+  {
+    "question": "Vùng nào sau đây có mật độ dân số cao nhất nước ta?",
+    "options": [
+      "Đồng bằng sông Hồng.",
+      "Đồng bằng sông Cửu Long.",
+      "Đông Nam Bộ.",
+      "Trung du và miền núi Bắc Bộ."
+    ],
+    "answer": "Đồng bằng sông Hồng.",
+    "explanation": "Đồng bằng sông Hồng có mật độ dân số cao nhất cả nước do lịch sử khai thác lãnh thổ lâu đời và nền kinh tế phát triển mạnh."
+  },
+  {
+    "question": "Tỉnh nào sau đây thuộc vùng kinh tế trọng điểm miền Trung?",
+    "options": [
+      "Thừa Thiên Huế.",
+      "Nghệ An.",
+      "Phú Yên.",
+      "Khánh Hòa."
+    ],
+    "answer": "Thừa Thiên Huế.",
+    "explanation": "Vùng kinh tế trọng điểm miền Trung gồm các tỉnh/thành: Thừa Thiên Huế, Đà Nẵng, Quảng Nam, Quảng Ngãi, Bình Định."
+  },
+  {
+    "question": "Tại sao giao thông vận tải đường bộ nước ta có khối lượng vận chuyển hàng hóa lớn nhất?",
+    "options": [
+      "Có tính cơ động cao, thích nghi tốt với các dạng địa hình.",
+      "Giá thành vận chuyển rẻ nhất trong các loại hình.",
+      "Tốc độ vận chuyển nhanh nhất, an toàn tuyệt đối.",
+      "Không bị ảnh hưởng bởi các yếu tố thiên tai, thời tiết."
+    ],
+    "answer": "Có tính cơ động cao, thích nghi tốt với các dạng địa hình.",
+    "explanation": "Đường bộ (ô tô) có tính tiện lợi, cơ động, giao nhận hàng tận nơi và phối hợp tốt với các loại hình vận tải khác nên khối lượng vận chuyển lớn nhất."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng về sự chuyển dịch cơ cấu ngành kinh tế của nước ta hiện nay?",
+    "options": [
+      "Tăng tỷ trọng dịch vụ, giảm tỷ trọng nông lâm thủy sản.",
+      "Tăng tỷ trọng nông lâm thủy sản, giảm tỷ trọng công nghiệp.",
+      "Tỷ trọng công nghiệp giảm, tỷ trọng dịch vụ tăng rất nhanh.",
+      "Cơ cấu ngành ổn định, không có sự thay đổi đáng kể."
+    ],
+    "answer": "Tăng tỷ trọng dịch vụ, giảm tỷ trọng nông lâm thủy sản.",
+    "explanation": "Xu hướng chuyển dịch cơ cấu ngành kinh tế nước ta là công nghiệp hóa, hiện đại hóa: giảm tỷ trọng nông lâm thủy sản, tăng tỷ trọng công nghiệp - xây dựng và dịch vụ."
+  },
+  {
+    "question": "Yếu tố tự nhiên nào sau đây là khó khăn lớn nhất đối với việc phát triển giao thông vận tải đường sắt và đường bộ theo hướng Bắc - Nam ở nước ta?",
+    "options": [
+      "Địa hình có nhiều dãy núi đâm ngang ra sát biển.",
+      "Mạng lưới sông ngòi quá dày đặc ở các đồng bằng.",
+      "Khí hậu nhiệt đới ẩm gió mùa có một mùa đông lạnh.",
+      "Sự phân hóa đất đai theo độ cao địa hình."
+    ],
+    "answer": "Địa hình có nhiều dãy núi đâm ngang ra sát biển.",
+    "explanation": "Các dãy núi đâm ngang ra biển (như Hoành Sơn, Bạch Mã) tạo ra các rào cản địa hình lớn, đòi hỏi phải xây dựng nhiều hầm, đèo phức tạp cho giao thông Bắc - Nam."
+  },
+  {
+    "question": "Ý nghĩa chiến lược về mặt an ninh quốc phòng của các đảo và quần đảo nước ta là gì?",
+    "options": [
+      "Làm căn cứ để tiến ra đại dương và bảo vệ chủ quyền vùng biển.",
+      "Là nơi tập trung hầu hết các căn cứ hải quân lớn nhất.",
+      "Tạo điều kiện để giao lưu văn hóa với các nước láng giềng.",
+      "Là tấm bia chắn hoàn toàn mọi thiên tai từ biển đông vào."
+    ],
+    "answer": "Làm căn cứ để tiến ra đại dương và bảo vệ chủ quyền vùng biển.",
+    "explanation": "Các đảo và quần đảo tạo thành hệ thống tiền tiêu bảo vệ đất liền, là cơ sở pháp lý và thực địa quan trọng để khẳng định và bảo vệ chủ quyền biển đảo."
+  },
+  {
+    "question": "Tại sao việc phát triển các ngành dịch vụ ở vùng Đồng bằng sông Hồng lại diễn ra mạnh mẽ nhất cả nước?",
+    "options": [
+      "Có thị trường tiêu thụ rộng lớn, kinh tế phát triển năng động.",
+      "Sở hữu nguồn tài nguyên khoáng sản dồi dào, đa dạng.",
+      "Là vùng duy nhất có mối liên kết quốc tế qua đường biển.",
+      "Được thiên nhiên ưu đãi, không xảy ra thiên tai nguy hiểm."
+    ],
+    "answer": "Có thị trường tiêu thụ rộng lớn, kinh tế phát triển năng động.",
+    "explanation": "Dịch vụ phát triển dựa trên nhu cầu sản xuất và tiêu dùng. Đồng bằng sông Hồng có dân số đông, thu nhập ngày càng tăng và kinh tế phát triển mạnh nên cầu dịch vụ rất lớn."
+  },
+  {
+    "question": "Giải pháp chủ yếu để nâng cao giá trị sản phẩm cây công nghiệp lâu năm ở vùng Tây Nguyên là gì?",
+    "options": [
+      "Đẩy mạnh công nghiệp chế biến và mở rộng thị trường.",
+      "Tăng cường bón phân hóa học và thuốc bảo vệ thực vật.",
+      "Thay thế toàn bộ diện tích rừng tự nhiên bằng cây công nghiệp.",
+      "Chỉ tập trung vào xuất khẩu sản phẩm dạng thô."
+    ],
+    "answer": "Đẩy mạnh công nghiệp chế biến và mở rộng thị trường.",
+    "explanation": "Đẩy mạnh chế biến giúp tăng hàm lượng công nghệ, kéo dài thời gian bảo quản và nâng giá trị sản phẩm; mở rộng thị trường giúp tiêu thụ sản phẩm ổn định."
+  },
+  {
+    "question": "Mục đích chính của việc hình thành các khu kinh tế ven biển ở vùng Duyên hải Nam Trung Bộ là gì?",
+    "options": [
+      "Thu hút đầu tư trong và ngoài nước, thúc đẩy công nghiệp hóa.",
+      "Giải quyết triệt đề vấn đề việc làm cho lao động nông thôn.",
+      "Thay đổi hoàn toàn địa hình và khí hậu của khu vực ven biển.",
+      "Tập trung phát triển chuyên sâu ngành trồng cây lương thực."
+    ],
+    "answer": "Thu hút đầu tư trong và ngoài nước, thúc đẩy công nghiệp hóa.",
+    "explanation": "Các khu kinh tế ven biển (Chu Lai, Dung Quất, Nhơn Hội, Vân Phong) tận dụng lợi thế cảng biển sâu để thu hút vốn, công nghệ, tạo động lực phát triển công nghiệp vùng."
+  },
+  {
+    "question": "Tại sao việc bảo vệ rừng ở vùng thượng nguồn các sông thuộc Tây Nguyên có ý nghĩa sống còn đối với các vùng hạ lưu?",
+    "options": [
+      "Giúp điều tiết nguồn nước, hạn chế lũ lụt và thiếu nước mùa khô.",
+      "Cung cấp toàn bộ gỗ xây dựng cho các vùng đồng bằng phía dưới.",
+      "Ngăn chặn triệt để hiện tượng xâm nhập mặn ở các cửa sông.",
+      "Giữ gìn không khí mát mẻ cho toàn bộ khu vực Nam Bộ."
+    ],
+    "answer": "Giúp điều tiết nguồn nước, hạn chế lũ lụt và thiếu nước mùa khô.",
+    "explanation": "Tây Nguyên là nơi bắt nguồn của nhiều hệ thống sông lớn đổ về duyên hải miền Trung và Nam Bộ. Rừng thượng nguồn giúp giữ nước, điều tiết dòng chảy mùa mưa và mùa khô."
+  },
+  {
+    "question": "Khó khăn lớn nhất về mặt tự nhiên đối với sản xuất nông nghiệp ở vùng Đồng bằng sông Cửu Long vào mùa khô là gì?",
+    "options": [
+      "Thiếu nước ngọt trầm trọng dẫn đến xâm nhập mặn sâu.",
+      "Hiện tượng sương muối và rét đậm gây chết cây trồng.",
+      "Địa hình bị chia cắt mạnh bởi các dãy núi cao.",
+      "Đất đai bị xói mòn và bạc màu do mưa lớn kéo dài."
+    ],
+    "answer": "Thiếu nước ngọt trầm trọng dẫn đến xâm nhập mặn sâu.",
+    "explanation": "Vào mùa khô, lượng mưa giảm sút, mực nước sông Mekong xuống thấp khiến nước biển lấn sâu vào nội đồng, gây thiếu nước ngọt và nhiễm mặn diện tích lớn."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng về thực trạng khai thác dầu khí ở vùng Đông Nam Bộ hiện nay?",
+    "options": [
+      "Khai thác chủ yếu ở thềm lục địa và đem lại nguồn thu lớn.",
+      "Sản lượng khai thác đang giảm mạnh do cạn kiệt tài nguyên.",
+      "Toàn bộ dầu thô khai thác đều được tiêu thụ ở thị trường nội địa.",
+      "Chưa có hệ thống đường ống dẫn khí vào đất liền."
+    ],
+    "answer": "Khai thác chủ yếu ở thềm lục địa và đem lại nguồn thu lớn.",
+    "explanation": "Công nghiệp khai thác dầu khí Đông Nam Bộ diễn ra tại các bể trầm tích thềm lục địa (Cửu Long, Nam Côn Sơn), đóng góp tỷ trọng lớn vào kim ngạch xuất khẩu và GDP."
+  },
+  {
+    "question": "Sự phát triển mạnh mẽ của ngành bưu chính viễn thông nước ta hiện nay chủ yếu dựa vào yếu tố nào?",
+    "options": [
+      "Ứng dụng công nghệ hiện đại và đón đầu tiến bộ kỹ thuật.",
+      "Sử dụng mạng lưới bưu cục thủ công rộng khắp các xã.",
+      "Chỉ tập trung phục vụ cho các doanh nghiệp nước ngoài.",
+      "Sự bao cấp hoàn toàn từ nguồn ngân sách nhà nước."
+    ],
+    "answer": "Ứng dụng công nghệ hiện đại và đón đầu tiến bộ kỹ thuật.",
+    "explanation": "Ngành viễn thông nước ta có bước nhảy vọt nhờ chiến lược số hóa, ứng dụng công nghệ viễn thông tiên tiến (4G, 5G, sợi quang, vệ tinh) vượt trội so với công nghệ cũ."
+  },
+  {
+    "question": "Sự phân hóa lãnh thổ du lịch nước ta phụ thuộc nhiều nhất vào yếu tố nào sau đây?",
+    "options": [
+      "Sự phân bố của tài nguyên du lịch và cơ sở hạ tầng.",
+      "Sự phân bố các cơ sở sản xuất công nghiệp nặng.",
+      "Mật độ các tuyến đường sắt và đường sông trong vùng.",
+      "Sự khác biệt về phong tục tập quán của các dân tộc."
+    ],
+    "answer": "Sự phân bố của tài nguyên du lịch và cơ sở hạ tầng.",
+    "explanation": "Nơi nào có tài nguyên du lịch (tự nhiên, nhân văn) phong phú kết hợp với cơ sở hạ tầng giao thông, lưu trú tốt thì nơi đó sẽ hình thành các trung tâm du lịch lớn."
+  },
+  {
+    "question": "Việc đẩy mạnh nuôi trồng thủy sản sản lượng cao ở vùng Bắc Trung Bộ nhằm mục đích chủ yếu nào?",
+    "options": [
+      "Tạo ra nhiều sản phẩm hàng hóa, tăng thu nhập cho ngư dân.",
+      "Thay thế hoàn toàn ngành đánh bắt hải sản xa bờ.",
+      "Hạn chế tối đa tác động của bão và áp thấp nhiệt đới.",
+      "Cung cấp thức ăn cho các vườn quốc gia trong vùng."
+    ],
+    "answer": "Tạo ra nhiều sản phẩm hàng hóa, tăng thu nhập cho ngư dân.",
+    "explanation": "Phát triển nuôi trồng (đặc biệt là tôm thẻ, tôm sú vùng bãi triều, đầm phá) giúp chuyển dịch cơ cấu nông thôn ven biển, tạo hàng hóa giá trị cao, nâng cao đời sống."
+  },
+  {
+    "question": "Ý nghĩa kinh tế chủ yếu của việc nâng cấp các tuyến đường bộ chạy theo hướng Đông - Tây ở vùng Trung du và miền núi Bắc Bộ là gì?",
+    "options": [
+      "Tăng cường liên kết các tỉnh, thúc đẩy giao thương với cửa khẩu.",
+      "Phục vụ riêng cho mục đích khai thác khoáng sản sắt, thiếc.",
+      "Hạn chế hiện tượng lũ quét và sạt lở đất vào mùa mưa.",
+      "Phát triển mạnh các vùng chuyên canh cây lúa nước."
+    ],
+    "answer": "Tăng cường liên kết các tỉnh, thúc đẩy giao thương với cửa khẩu.",
+    "explanation": "Các tuyến đường Đông - Tây (như Quốc lộ 4, Quốc lộ 279) giúp kết nối các thung lũng, đô thị vùng nội địa với các cửa khẩu biên giới, thúc đẩy kinh tế mậu dịch."
+  },
+  {
+    "question": "Yếu tố nào sau đây đóng vai trò chủ đạo làm cho cơ cấu ngành công nghiệp của vùng Đồng bằng sông Hồng trở nên đa dạng?",
+    "options": [
+      "Nguồn lao động có kỹ thuật và cơ sở hạ tầng phát triển tốt.",
+      "Sự phân bố đồng đều của các loại khoáng sản kim loại.",
+      "Vùng có diện tích đất nông nghiệp lớn nhất cả nước.",
+      "Khí hậu có một mùa đông lạnh thích hợp chế biến nông sản."
+    ],
+    "answer": "Nguồn lao động có kỹ thuật và cơ sở hạ tầng phát triển tốt.",
+    "explanation": "Đồng bằng sông Hồng thu hút nhiều ngành công nghiệp công nghệ cao, công nghiệp chế tạo nhờ hạ tầng đồng bộ (giao thông, điện, thông tin) và lao động có tay nghề cao."
+  },
+  {
+    "question": "Biện pháp chủ yếu để ứng phó với tình trạng hạn hán và thiếu nước vào mùa khô ở vùng Đông Nam Bộ là gì?",
+    "options": [
+      "Xây dựng các công trình thủy lợi, hồ chứa nước hợp lý.",
+      "Ngừng toàn bộ hoạt động sản xuất công nghiệp vào mùa khô.",
+      "Chuyển toàn bộ đất trồng cây công nghiệp sang trồng lúa.",
+      "Khoan giếng ngầm tự phát với số lượng lớn ở khắp nơi."
+    ],
+    "answer": "Xây dựng các công trình thủy lợi, hồ chứa nước hợp lý.",
+    "explanation": "Các hồ chứa nước (như hồ Dầu Tiếng, Thác Mơ, Trị An) đóng vai trò điều tiết dòng chảy, cung cấp nước tưới cho cây công nghiệp và sinh hoạt trong những tháng khô hạn."
+  },
+  {
+    "question": "Tác động lớn nhất của việc phát triển các tuyến đường cao tốc ở nước ta hiện nay đối với ngành dịch vụ là gì?",
+    "options": [
+      "Rút ngắn thời gian vận chuyển, kết nối nhanh các trung tâm kinh tế.",
+      "Làm giảm số lượng các phương tiện giao thông công cộng.",
+      "Tập trung dòng khách du lịch chỉ đổ về một vài thành phố lớn.",
+      "Loại bỏ hoàn toàn các phương thức vận tải truyền thống khác."
+    ],
+    "answer": "Rút ngắn thời gian vận chuyển, kết nối nhanh các trung tâm kinh tế.",
+    "explanation": "Đường cao tốc giúp tối ưu hóa thời gian lưu thông hàng hóa và hành khách, giảm chi phí logistics và tăng tính liên kết vùng mạnh mẽ."
+  },
+  {
+    "question": "Phát biểu nào sau đây phản ánh đúng xu hướng phát triển nông nghiệp ở vùng Đồng bằng sông Cửu Long hiện nay?",
+    "options": [
+      "Chuyển từ tư duy sản xuất nông nghiệp sang kinh tế nông nghiệp.",
+      "Tăng tối đa sản lượng bằng mọi giá không cần chất lượng.",
+      "Mở rộng diện tích trồng lúa bằng cách lấp các nhánh sông.",
+      "Cấm hoàn toàn việc ứng dụng công nghệ sinh học vào sản xuất."
+    ],
+    "answer": "Chuyển từ tư duy sản xuất nông nghiệp sang kinh tế nông nghiệp.",
+    "explanation": "Vùng đang chuyển đổi theo hướng thuận thiên, chú trọng chất lượng, giá trị kinh tế, xây dựng chuỗi giá trị và thích ứng với biến đổi khí hậu thay vì chạy theo số lượng thô."
+  },
+  {
+    "question": "Mục đích lớn nhất của việc đẩy mạnh liên kết vùng giữa Đông Nam Bộ và các vùng lân cận là gì?",
+    "options": [
+      "Phát huy thế mạnh tổng hợp, mở rộng không gian phát triển.",
+      "Dịch chuyển toàn bộ các nhà máy ô nhiễm sang vùng khác.",
+      "Hạn chế sự di cư của lao động từ Đông Nam Bộ ra bên ngoài.",
+      "Tìm kiếm nguồn tài nguyên khoáng sản kim loại quý hiếm."
+    ],
+    "answer": "Phát huy thế mạnh tổng hợp, mở rộng không gian phát triển.",
+    "explanation": "Liên kết vùng giúp Đông Nam Bộ giải quyết bài toán quá tải hạ tầng, tận dụng nguyên liệu, năng lượng từ Tây Nguyên, Duyên hải Nam Trung Bộ và Đồng bằng sông Cửu Long."
+  },
+  {
+    "question": "Yếu tố nào sau đây tạo điều kiện thuận lợi nhất cho vùng Duyên hải Nam Trung Bộ phát triển ngành tổng hợp kinh tế biển?",
+    "options": [
+      "Đường bờ biển dài, nhiều vũng vịnh sâu và gần đường hàng hải quốc tế.",
+      "Có nhiều con sông lớn với lưu lượng nước dồi dào quanh năm.",
+      "Thềm lục địa rất rộng và nông, chứa trữ lượng dầu khí lớn nhất.",
+      "Địa hình bằng phẳng trải dài từ tây sang đông thuận lợi giao thông."
+    ],
+    "answer": "Đường bờ biển dài, nhiều vũng vịnh sâu và gần đường hàng hải quốc tế.",
+    "explanation": "Địa hình ven biển của vùng có nhiều vịnh kín gió thích hợp làm cảng sâu, bãi biển đẹp cho du lịch, thềm lục địa sâu thích hợp đánh bắt và gần tuyến hàng hải quốc tế."
+  },
+  {
+    "question": "Cho biểu đồ về sản lượng thủy sản nuôi trồng của nước ta qua các năm, nhận xét nào sau đây phản ánh đúng động thái phát triển của đối tượng này?",
+    "options": [
+      "Sản lượng nuôi trồng tăng liên tục nhờ mở rộng diện tích và công nghệ.",
+      "Sản lượng nuôi trồng biến động thất thường do ảnh hưởng của thiên tai.",
+      "Sản lượng luôn thấp hơn sản lượng thủy sản khai thác tự nhiên.",
+      "Sản lượng nuôi trồng có xu hướng giảm nhẹ trong giai đoạn gần đây."
+    ],
+    "answer": "Sản lượng nuôi trồng tăng liên tục nhờ mở rộng diện tích và công nghệ.",
+    "explanation": "Do nhu cầu thị trường lớn và sự chủ động trong con giống, thức ăn kỹ thuật, sản lượng thủy sản nuôi trồng nước ta tăng trưởng liên tục và vượt khai thác."
+  },
+  {
+    "question": "Cơ cấu hàng xuất khẩu của nước ta hiện nay có sự chuyển dịch rõ rệt theo hướng nào?",
+    "options": [
+      "Tăng tỷ trọng hàng công nghiệp chế biến, giảm hàng thô thô.",
+      "Tăng tỷ trọng nông sản thô, giảm tỷ trọng hàng công nghệ cao.",
+      "Chỉ tập trung xuất khẩu các loại khoáng sản và tài nguyên thô.",
+      "Tỷ trọng hàng dệt may thủ công tăng nhanh vượt nhóm điện tử."
+    ],
+    "answer": "Tăng tỷ trọng hàng công nghiệp chế biến, giảm hàng thô thô.",
+    "explanation": "Để nâng cao giá trị kim ngạch, nước ta giảm dần tỷ trọng khoáng sản thô, nông sản chưa chế biến và tăng nhanh tỷ trọng hàng công nghiệp chế biến, chế tạo, điện tử."
+  },
+  {
+    "question": "Khó khăn lớn nhất đối với việc phát triển công nghiệp điện gió và điện mặt trời ở nước ta hiện nay là gì?",
+    "options": [
+      "Chi phí đầu tư ban đầu cao và công nghệ lưu trữ, truyền tải chưa đồng bộ.",
+      "Nước ta hoàn toàn không có tiềm năng về nắng và gió.",
+      "Sự phản đối của người dân do ô nhiễm môi trường đất nghiêm trọng.",
+      "Thiếu không gian mặt bằng để lắp đặt các thiết bị thu năng lượng."
+    ],
+    "answer": "Chi phí đầu tư ban đầu cao và công nghệ lưu trữ, truyền tải chưa đồng bộ.",
+    "explanation": "Năng lượng tái tạo phụ thuộc thời tiết, đòi hỏi nguồn vốn lớn để xây dựng hệ thống pin lưu trữ và lưới điện truyền tải thông minh nhằm tránh quá tải hệ thống."
+  },
+  {
+    "question": "Việc chuyển dịch cơ cấu cây trồng ở vùng Đồng bằng sông Hồng cần dựa trên nguyên tắc chủ yếu nào sau đây?",
+    "options": [
+      "Gắn liền với nhu cầu thị trường và thích ứng với biến đổi khí hậu.",
+      "Tập trung trồng duy nhất một loại cây độc canh trên diện rộng.",
+      "Phá bỏ toàn bộ đê sông để lấy nước ngọt phù sa tràn vào tự do.",
+      "Chỉ lựa chọn các giống cây nhập khẩu từ các nước ôn đới lạnh."
+    ],
+    "answer": "Gắn liền với nhu cầu thị trường và thích ứng với biến đổi khí hậu.",
+    "explanation": "Chuyển dịch cơ cấu cây trồng phải đem lại hiệu quả kinh tế (thị trường tiêu thụ) đồng thời phải bền vững trước các hiện tượng thời tiết cực đoan như hạn hán, xâm nhập mặn vùng ven biển."
+  },
+  {
+    "question": "Giải pháp nào sau đây có ý nghĩa chiến lược nhằm hạn chế thiệt hại do thiên tai bão, lũ quét gây ra ở vùng Bắc Trung Bộ?",
+    "options": [
+      "Trồng và bảo vệ rừng phòng hộ (đầu nguồn và ven biển), xây hồ thủy lợi.",
+      "Xây dựng tường bê tông kiên cố dọc theo toàn bộ đường bờ biển.",
+      "Sơ tán toàn bộ dân cư vùng miền núi và ven biển sang vùng khác sinh sống.",
+      "Hạ thấp độ cao các dãy núi để giảm sức cản và tích tụ của mây bão."
+    ],
+    "answer": "Trồng và bảo vệ rừng phòng hộ (đầu nguồn và ven biển), xây hồ thủy lợi.",
+    "explanation": "Rừng đầu nguồn giảm lũ quét, sạt lở đất ở miền núi; rừng ven biển (ngập mặn, chắn cát) giảm sức tàn phá của sóng, bão. Hồ thủy lợi giúp cắt lũ mùa mưa."
+  },
+  {
+    "question": "Tại sao ngành khai thác hải sản xa bờ ở vùng Duyên hải Nam Trung Bộ lại phát triển mạnh hơn vùng Bắc Trung Bộ?",
+    "options": [
+      "Gần các ngư trường lớn, có nhiều vũng vịnh sâu neo đậu tàu công suất lớn.",
+      "Hoàn toàn không chịu ảnh hưởng của các cơn bão nhiệt đới.",
+      "Người dân có trình độ học vấn cao vượt trội so với các vùng khác.",
+      "Được thiên nhiên cấp sẵn hệ thống tàu thuyền hiện đại miễn phí."
+    ],
+    "answer": "Gần các ngư trường lớn, có nhiều vũng vịnh sâu neo đậu tàu công suất lớn.",
+    "explanation": "Duyên hải Nam Trung Bộ có vị trí kề cận ngư trường lớn Hoàng Sa - Trường Sa, Ninh Thuận - Bình Thuận, kết hợp hạ tầng cảng cá, dịch vụ nghề cá và đội tàu công suất lớn mạnh hơn."
+  },
+  {
+    "question": "Ý nghĩa chủ yếu của việc phát triển kinh tế trang trại trong nông nghiệp nước ta hiện nay là gì?",
+    "options": [
+      "Thúc đẩy nông nghiệp hàng hóa, tích tụ đất đai và sử dụng hiệu quả nguồn lực.",
+      "Xóa bỏ hoàn toàn mô hình kinh tế hộ gia đình quy mô nhỏ.",
+      "Đảm bảo tất cả nông sản đều được tiêu thụ hết sạch tại chỗ.",
+      "Biến nước ta thành quốc gia thuần nông không cần phát triển công nghiệp."
+    ],
+    "answer": "Thúc đẩy nông nghiệp hàng hóa, tích tụ đất đai và sử dụng hiệu quả nguồn lực.",
+    "explanation": "Kinh tế trang trại có quy mô lớn, giúp đưa khoa học kỹ thuật vào sản xuất, nâng cao năng suất, tạo khối lượng nông sản hàng hóa lớn tập trung để phục vụ chế biến và xuất khẩu."
+  },
+  {
+    "question": "Tác động tiêu cực lớn nhất của việc phát triển đô thị hóa tự phát, thiếu quy hoạch ở vùng Đông Nam Bộ là gì?",
+    "options": [
+      "Gây áp lực nặng nề lên hạ tầng, môi trường ô nhiễm và tệ nạn xã hội.",
+      "Làm giảm tốc độ tăng trưởng kinh tế chung của toàn bộ vùng.",
+      "Khiến cho dòng vốn đầu tư nước ngoài rút hoàn toàn khỏi khu vực.",
+      "Làm thu hẹp tuyệt đối diện tích đất dành cho công nghiệp nặng."
+    ],
+    "answer": "Gây áp lực nặng nề lên hạ tầng, môi trường ô nhiễm và tệ nạn xã hội.",
+    "explanation": "Đô thị hóa quá nhanh vượt khả năng đáp ứng của hạ tầng dẫn đến kẹt xe, ngập nước, ô nhiễm nguồn nước/không khí và tạo gánh nặng về quản lý xã hội, an ninh trật tự."
+  },
+  {
+    "question": "Việc đa dạng hóa các sản phẩm du lịch ở vùng Tây Nguyên (như du lịch sinh thái, du lịch văn hóa cồng chiêng) nhằm mục đích chủ yếu nào?",
+    "options": [
+      "Kéo dài thời gian lưu trú, tăng chi tiêu của du khách và phát triển bền vững.",
+      "Thay thế hoàn toàn ngành du lịch nghỉ dưỡng ở vùng biển.",
+      "Tăng số lượng khách tham quan cơ học mà không cần quan tâm đến doanh thu.",
+      "Hạn chế sự giao lưu văn hóa giữa các dân tộc thiểu số trong vùng."
+    ],
+    "answer": "Kéo dài thời gian lưu trú, tăng chi tiêu của du khách và phát triển bền vững.",
+    "explanation": "Đa dạng hóa sản phẩm tạo sự hấp dẫn, mới lạ, khiến du khách ở lại lâu hơn để trải nghiệm, từ đó chi tiêu nhiều hơn cho các dịch vụ phụ trợ, tăng nguồn thu kinh tế."
+  },
+  {
+    "question": "Mối quan hệ hữu cơ giữa việc phát triển công nghiệp chế biến nông sản và việc hình thành các vùng chuyên canh cây công nghiệp ở nước ta là gì?",
+    "options": [
+      "Công nghiệp chế biến tạo đầu ra ổn định, thúc đẩy vùng chuyên canh mở rộng.",
+      "Vùng chuyên canh chỉ phát triển khi công nghiệp chế biến bị đình trệ.",
+      "Hai ngành này hoạt động hoàn toàn độc lập, không có sự tác động qua lại.",
+      "Công nghiệp chế biến làm giảm chất lượng sản phẩm của vùng chuyên canh."
+    ],
+    "answer": "Công nghiệp chế biến tạo đầu ra ổn định, thúc đẩy vùng chuyên canh mở rộng.",
+    "explanation": "Công nghiệp chế biến tiêu thụ sản phẩm của vùng chuyên canh, biến nông sản thô thành hàng hóa có thể bảo quản lâu dài, kích thích người dân mở rộng diện tích sản xuất ổn định."
+  }
+]
+
+

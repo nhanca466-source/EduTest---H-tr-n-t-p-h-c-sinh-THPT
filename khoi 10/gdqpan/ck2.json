@@ -1,0 +1,555 @@
+[
+  {
+    "question": "Mục đích đầu tiên và quan trọng nhất của việc băng vết thương là gì?",
+    "options": [
+      "Bảo vệ vết thương khỏi bị ô nhiễm, cầm máu một phần và giảm đau đớn.",
+      "Làm cho vết thương mau lành và không để lại sẹo xấu.",
+      "Giúp người bị thương có thể tiếp tục tham gia chiến đấu ngay lập tức.",
+      "Che giấu vết thương để người xung quanh không hoảng sợ."
+    ],
+    "answer": "Bảo vệ vết thương khỏi bị ô nhiễm, cầm máu một phần và giảm đau đớn.",
+    "explanation": "Băng vết thương có tác dụng che chở, ngăn vi khuẩn từ môi trường xâm nhập, hỗ trợ ép chặt để cầm máu và cố định phần mềm giảm đau."
+  },
+  {
+    "question": "Loại băng nào được sử dụng phổ biến nhất trong cấp cứu ban đầu tại trường học và đời sống?",
+    "options": [
+      "Băng cuộn vải gạc.",
+      "Băng cá nhân có keo dán sẵn.",
+      "Băng thun co giãn.",
+      "Băng tam giác."
+    ],
+    "answer": "Băng cuộn vải gạc.",
+    "explanation": "Băng cuộn làm bằng vải gạc sạch là loại thông dụng, rẻ tiền, dễ sử dụng cho nhiều kiểu băng ở các vị trí khác nhau trên cơ thể."
+  },
+  {
+    "question": "Biện pháp cầm máu tạm thời nào được áp dụng cho vết thương nhỏ, chảy máu ít ở mao mạch?",
+    "options": [
+      "Băng ép thông thường.",
+      "Đặt garo cầm máu.",
+      "Ấn động mạch chủ.",
+      "Kẹp mạch máu bằng panh y tế."
+    ],
+    "answer": "Băng ép thông thường.",
+    "explanation": "Với vết thương mao mạch nhỏ, máu chảy rỉ rả thì chỉ cần đặt một miếng gạc sạch và băng ép chặt vừa phải là đủ để cầm máu."
+  },
+  {
+    "question": "Khi bị gãy xương đùi, việc đầu tiên cần làm trước khi di chuyển nạn nhân là gì?",
+    "options": [
+      "Cố định xương gãy bằng nẹp.",
+      "Cho nạn nhân uống thật nhiều nước.",
+      "Cố gắng kéo thẳng chân nạn nhân ra.",
+      "Cõng nạn nhân chạy ngay đến bệnh viện."
+    ],
+    "answer": "Cố định xương gãy bằng nẹp.",
+    "explanation": "Nguyên tắc tối cao khi sơ cứu gãy xương là phải cố định tạm thời bằng nẹp để giảm đau và tránh đầu xương gãy đâm rách mạch máu, dây thần kinh khi di chuyển."
+  },
+  {
+    "question": "Tệ nạn xã hội nào dưới đây được coi là con đường ngắn nhất dẫn đến việc lây nhiễm căn bệnh HIV/AIDS?",
+    "options": [
+      "Tệ nạn ma túy.",
+      "Tệ nạn cờ bạc.",
+      "Tệ nạn mê tín dị đoan.",
+      "Nghiện trò chơi điện tử trực tuyến."
+    ],
+    "answer": "Tệ nạn ma túy.",
+    "explanation": "Người nghiện ma túy thường sử dụng chung bơm kim tiêm không tiệt trùng, đây là con đường lây truyền trực tiếp và nhanh chóng của virus HIV."
+  },
+  {
+    "question": "Chất ma túy nào sau đây thuộc nhóm chất ma túy cực kỳ nguy hiểm có nguồn gốc tự nhiên từ cây thuốc phiện?",
+    "options": [
+      "Hê-rô-in (Heroin).",
+      "Thuốc lắc (MDMA).",
+      "Ma túy đá (Methamphetamine).",
+      "Cỏ Mỹ."
+    ],
+    "answer": "Hê-rô-in (Heroin).",
+    "explanation": "Heroin là chất ma túy bán tổng hợp được chiết xuất từ moocphin có trong nhựa của cây thuốc phiện, có tính gây nghiện cực mạnh."
+  },
+  {
+    "question": "Theo quy định của Luật An ninh mạng Việt Nam, hành vi nào sau đây bị nghiêm cấm trên không gian mạng?",
+    "options": [
+      "Đăng tải thông tin sai sự thật, xúc phạm danh dự nhân phẩm của người khác.",
+      "Chia sẻ các bài viết học tập bổ ích từ các trang báo chính thống.",
+      "Tham gia các nhóm học tập giải bài tập trực tuyến cùng bạn bè.",
+      "Tìm kiếm tài liệu tham khảo cho các môn học trên internet."
+    ],
+    "answer": "Đăng tải thông tin sai sự thật, xúc phạm danh dự nhân phẩm của người khác.",
+    "explanation": "Luật An ninh mạng nghiêm cấm việc xuyên tạc lịch sử, xúc phạm tôn giáo, tung tin giả mạo, vu khống hạ uy tín cá nhân, tổ chức."
+  },
+  {
+    "question": "Khái niệm 'Không gian mạng' được hiểu đơn giản là gì?",
+    "options": [
+      "Mạng lưới kết nối các thiết bị công nghệ thông tin toàn cầu để truyền tải thông tin.",
+      "Một phòng máy tính có kết nối mạng internet của nhà trường.",
+      "Các vệ tinh nhân tạo đang bay quanh Trái Đất.",
+      "Hệ thống dây cáp quang ngầm dưới đáy biển."
+    ],
+    "answer": "Mạng lưới kết nối các thiết bị công nghệ thông tin toàn cầu để truyền tải thông tin.",
+    "explanation": "Không gian mạng là môi trường nhân tạo được tạo nên bởi hệ thống mạng máy tính, viễn thông và internet để con người chia sẻ, tương tác dữ liệu."
+  },
+  {
+    "question": "Trong đội ngũ tiểu đội, người tiểu đội trưởng đứng ở vị trí nào khi tiểu đội tập hợp hàng ngang?",
+    "options": [
+      "Đứng bên phải đội hình của tiểu đội.",
+      "Đứng bên trái đội hình của tiểu đội.",
+      "Đứng ở chính giữa đội hình tiểu đội.",
+      "Đứng ở phía sau hàng của tiểu đội."
+    ],
+    "answer": "Đứng bên phải đội hình của tiểu đội.",
+    "explanation": "Khi tập hợp hàng ngang, tiểu đội trưởng là người đứng đầu hàng phía bên phải để làm chuẩn cho các chiến sĩ còn lại đứng về phía bên trái mình."
+  },
+  {
+    "question": "Khẩu lệnh nào dưới đây dùng để giải tán đội hình tiểu đội đang tập hợp?",
+    "options": [
+      "'Giải tán'.",
+      "'Thôi'.",
+      "'Nghỉ'.",
+      "'Cất bước'."
+    ],
+    "answer": "'Giải tán'.",
+    "explanation": "Khẩu lệnh chỉ có dự lệnh và động lệnh gộp làm một là 'Giải tán', dùng khi kết thúc buổi tập hoặc chuyển sang làm việc khác."
+  },
+  {
+    "question": "Khi nghe khẩu lệnh 'Đi đều... Bước!', người chiến sĩ bước chân nào lên trước đầu tiên?",
+    "options": [
+      "Chân trái.",
+      "Chân phải.",
+      "Chân nào thuận thì bước.",
+      "Bật nhảy bằng cả hai chân."
+    ],
+    "answer": "Chân trái.",
+    "explanation": "Theo điều lệnh đội ngũ, tất cả các động tác hành tiến (đi đều, đi nghiêm, chạy đều) đều phải bắt đầu bước bằng chân trái."
+  },
+  {
+    "question": "Động tác tiến, lùi, qua phải, qua trái của tiểu đội dùng để làm gì?",
+    "options": [
+      "Để dịch chuyển vị trí đội hình trong phạm vi ngắn (từ 5 bước trở xuống).",
+      "Để di chuyển đội hình hành quân đường dài trên đường lộ.",
+      "Để thay đổi hoàn toàn hướng mặt của toàn tiểu đội.",
+      "Để giãn rộng khoảng cách giữa các chiến sĩ ra xa nhau."
+    ],
+    "answer": "Để dịch chuyển vị trí đội hình trong phạm vi ngắn (từ 5 bước trở xuống).",
+    "explanation": "Các động tác dịch đội hình tiến, lùi, qua trái, qua phải chỉ dùng để điều chỉnh vị trí hàng ngũ ở cự ly rất ngắn, thông thường dưới 5 bước."
+  },
+  {
+    "question": "Tư thế, động tác vận động nào thường được sử dụng khi di chuyển qua địa hình trống trải, bằng phẳng, tầm nhìn thông thoáng?",
+    "options": [
+      "Đi khom hoặc chạy.",
+      "Trườn sấp sát đất.",
+      "Lê người bằng mông.",
+      "Bò cao dùng tay và đầu gối."
+    ],
+    "answer": "Đi khom hoặc chạy.",
+    "explanation": "Khi địa hình bằng phẳng hoặc cần cơ động nhanh chóng chiếm lĩnh trận địa, chiến sĩ thường đi khom thấp người hoặc chạy nhanh để hạn chế thời gian lộ diện trước hỏa lực."
+  },
+  {
+    "question": "Động tác 'Trườn sấp' trên chiến trường thường được áp dụng khi nào?",
+    "options": [
+      "Khi di chuyển qua nơi địa hình rất thấp, hỏa lực địch bắn phá dữ dội sát mặt đất.",
+      "Khi hành quân ban đêm trên đường quốc lộ thông thoáng.",
+      "Khi cần vượt qua chướng ngại vật cao như hàng rào tường nhà.",
+      "Khi di chuyển qua vùng ngập nước sâu đến ngực."
+    ],
+    "answer": "Khi di chuyển qua nơi địa hình rất thấp, hỏa lực địch bắn phá dữ dội sát mặt đất.",
+    "explanation": "Trườn sấp giúp hạ thấp tối đa chiều cao cơ thể bám sát mặt đất, tận dụng các rãnh nhỏ, mô đất thấp để tránh mảnh đạn khi hỏa lực quét sát đất."
+  },
+  {
+    "question": "Khi bò cao qua địa hình nhiều cây bụi, người chiến sĩ phải chú ý điều gì để đảm bảo bí mật?",
+    "options": [
+      "Không làm rung động cành cây và không gây ra tiếng động lớn.",
+      "Phải ngẩng cao đầu để nhìn đường cho rõ.",
+      "Vừa đi vừa bẻ cành cây để đánh dấu đường về.",
+      "Hô to để các đồng đội xung quanh biết vị trí của mình."
+    ],
+    "answer": "Không làm rung động cành cây và không gây ra tiếng động lớn.",
+    "explanation": "Mọi sự rung động bất thường của bụi cây hay tiếng sột soạt đều có thể làm lộ vị trí ẩn nấp trước sự quan sát của kính trinh sát địch."
+  },
+  {
+    "question": "Hành vi nào sau đây được coi là sử dụng mạng xã hội thông minh và an toàn?",
+    "options": [
+      "Bảo mật thông tin cá nhân và kiểm chứng thông tin trước khi chia sẻ.",
+      "Kết bạn với tất cả những người lạ gửi lời mời kết bạn.",
+      "Chia sẻ số căn cước công dân và mật khẩu tài khoản lên trang cá nhân.",
+      "Nhấp vào tất cả các đường link nhận được từ tin nhắn người lạ."
+    ],
+    "answer": "Bảo mật thông tin cá nhân và kiểm chứng thông tin trước khi chia sẻ.",
+    "explanation": "Sử dụng mạng an toàn yêu cầu giữ bí mật thông tin riêng để tránh bị lừa đảo và không lan truyền các tin tức độc hại, chưa kiểm chứng."
+  },
+  {
+    "question": "Tác hại nghiêm trọng nhất của việc nghiện trò chơi điện tử (game bạo lực) đối với học sinh là gì?",
+    "options": [
+      "Sa sút học tập, tổn hại sức khỏe tâm thần và dễ dẫn đến hành vi lệch lạc.",
+      "Làm hỏng bàn phím và chuột của máy tính nhanh hơn.",
+      "Khiến cho học sinh tiêu tốn nhiều dung lượng mạng internet của gia đình.",
+      "Làm cho học sinh biết thêm nhiều thuật ngữ tiếng Anh chuyên ngành."
+    ],
+    "answer": "Sa sút học tập, tổn hại sức khỏe tâm thần và dễ dẫn đến hành vi lệch lạc.",
+    "explanation": "Nghiện game bạo lực dài ngày làm suy giảm trí nhớ, bỏ bê học hành, ảo tưởng thế giới ảo và có xu hướng giải quyết mâu thuẫn đời thực bằng bạo lực."
+  },
+  {
+    "question": "Khi phát hiện một người bạn cùng lớp có biểu hiện uể oải, hay ngủ trong giờ, thường xuyên xin tiền và có dấu hiệu dùng thử ma túy, em nên làm gì?",
+    "options": [
+      "Báo cáo ngay với thầy cô chủ nhiệm hoặc cha mẹ bạn để kịp thời giúp đỡ.",
+      "Im lặng và tránh xa bạn vì sợ bị trả thù.",
+      "Tò mò xin bạn cho dùng thử xem cảm giác thế nào.",
+      "Tụ tập các bạn khác lại để tẩy chay và chế giễu bạn."
+    ],
+    "answer": "Báo cáo ngay với thầy cô chủ nhiệm hoặc cha mẹ bạn để kịp thời giúp đỡ.",
+    "explanation": "Việc báo cho người lớn (thầy cô, gia đình) là cách tốt nhất để can thiệp y tế và tâm lý kịp thời, cứu bạn khỏi sự lệ thuộc vào ma túy."
+  },
+  {
+    "question": "Một trong những kỹ năng cơ bản để phòng chống tội phạm công nghệ cao lừa đảo chiếm đoạt tài sản là gì?",
+    "options": [
+      "Không cung cấp mã OTP ngân hàng hay thông tin mật cho bất kỳ ai gọi điện yêu cầu.",
+      "Chuyển ngay tiền khi có người xưng là công an gọi điện đe dọa.",
+      "Tải các phần mềm lạ theo hướng dẫn của người không quen biết.",
+      "Tin tưởng tuyệt đối vào các chương trình trúng thưởng lớn trên mạng."
+    ],
+    "answer": "Không cung cấp mã OTP ngân hàng hay thông tin mật cho bất kỳ ai gọi điện yêu cầu.",
+    "explanation": "Mã OTP là chìa khóa cuối cùng bảo vệ tài sản, các cơ quan chức năng không bao giờ yêu cầu người dân cung cấp mã này qua điện thoại."
+  },
+  {
+    "question": "Trong bài tập băng bó, kiểu băng vòng xoắn thường được áp dụng cho bộ phận nào trên cơ thể?",
+    "options": [
+      "Các bộ phận có kích thước đều nhau như cánh tay, cẳng chân.",
+      "Các vùng có khớp co duỗi như khớp gối, khớp khuỷu tay.",
+      "Các vùng có hình dạng phức tạp như đầu, vai.",
+      "Băng cho phần ngực và bụng."
+    ],
+    "answer": "Các bộ phận có kích thước đều nhau như cánh tay, cẳng chân.",
+    "explanation": "Băng vòng xoắn là kiểu băng mà vòng sau đè lên một phần vòng trước theo hình xoắn ốc, thích hợp cho các đoạn chi tròn đều."
+  },
+  {
+    "question": "Tại sao khi sơ cứu vết thương chảy máu động mạch, người ta phải dùng biện pháp ấn động mạch hoặc đặt garo thay vì chỉ băng ép thông thường?",
+    "options": [
+      "Vì áp lực máu ở động mạch rất lớn, băng ép thông thường không đủ sức ngăn máu trào ra ngoài.",
+      "Vì máu động mạch là máu độc cần phải xả bớt ra ngoài cơ thể.",
+      "Vì băng ép thông thường sẽ làm xương bên trong bị gãy thêm.",
+      "Vì đặt garo giúp vết thương mát hơn và giảm đau tốt hơn."
+    ],
+    "answer": "Vì áp lực máu ở động mạch rất lớn, băng ép thông thường không đủ sức ngăn máu trào ra ngoài.",
+    "explanation": "Động mạch mang máu từ tim đi với áp lực rất cao. Khi bị đứt, máu sẽ phun thành tia mạnh, bắt buộc phải ấn chặn đường đi của mạch hoặc thắt garo phía trên vết thương để chặn dòng chảy."
+  },
+  {
+    "question": "Điểm khác nhau cơ bản giữa kiểu băng vòng xoắn và kiểu băng số 8 là gì?",
+    "options": [
+      "Băng vòng xoắn dùng cho đoạn chi thẳng đều; băng số 8 dùng cho vùng khớp hoặc đoạn chi không đều nhau.",
+      "Băng vòng xoắn tốn nhiều băng hơn băng số 8 rất nhiều.",
+      "Băng số 8 chỉ dùng cho vùng đầu, không dùng cho tay chân.",
+      "Băng vòng xoắn dễ bị tuột hơn băng số 8 khi cử động."
+    ],
+    "answer": "Băng vòng xoắn dùng cho đoạn chi thẳng đều; băng số 8 dùng cho vùng khớp hoặc đoạn chi không đều nhau.",
+    "explanation": "Băng số 8 bắt chéo hai vòng băng hình chữ X (giống số 8), ôm khít được các vùng lồi lõm hoặc co duỗi như khớp gối, cổ tay mà không làm lỏng băng khi cử động."
+  },
+  {
+    "question": "Tại sao quy trình đặt garo cầm máu bắt buộc phải có bước 'nới garo' sau mỗi khoảng thời gian nhất định (thông thường 60 phút)?",
+    "options": [
+      "Để máu lưu thông xuống nuôi dưỡng phần chi phía dưới, tránh bị hoại tử do thiếu máu quá lâu.",
+      "Để kiểm tra xem vết thương đã tự lành hẳn chưa.",
+      "Để người bị thương đỡ cảm thấy ngứa ngáy ở chỗ thắt băng.",
+      "Để tiết kiệm độ co giãn cho dây garo."
+    ],
+    "answer": "Để máu lưu thông xuống nuôi dưỡng phần chi phía dưới, tránh bị hoại tử do thiếu máu quá lâu.",
+    "explanation": "Garo chặn toàn bộ mạch máu nuôi chi. Nếu thắt liên tục quá lâu (trên 1.5 đến 2 tiếng), phần chi bên dưới sẽ chết (hoại tử) dẫn đến phải cắt cụt chi. Do đó phải nới garo định kỳ cho máu xuống nuôi dưỡng vài phút."
+  },
+  {
+    "question": "Vì sao học sinh trung học phổ thông lại là đối tượng mà tội phạm ma túy thường xuyên nhắm tới để dụ dỗ, lôi kéo?",
+    "options": [
+      "Do tâm lý lứa tuổi tò mò, thích thể hiện bản thân, nhận thức pháp luật và xã hội chưa đầy đủ.",
+      "Do học sinh THPT có nhiều tiền tài sản cá nhân hơn người lớn.",
+      "Do học sinh bắt buộc phải sử dụng ma túy thì mới học giỏi được môn sinh học.",
+      "Do ma túy giúp tăng chiều cao nhanh chóng cho tuổi dậy thì."
+    ],
+    "answer": "Do tâm lý lứa tuổi tò mò, thích thể hiện bản thân, nhận thức pháp luật và xã hội chưa đầy đủ.",
+    "explanation": "Tuổi trẻ THPT dễ bị kích động, muốn thử cảm giác lạ và dễ tin lời dụ dỗ 'chơi cái này không nghiện đâu' của kẻ xấu do thiếu kiến thức phòng ngừa."
+  },
+  {
+    "question": "Hành vi cho người khác mượn tài khoản mạng xã hội cá nhân của mình để đăng tải các bài viết kích động bạo lực sẽ bị xử lý như thế nào?",
+    "options": [
+      "Chủ tài khoản vẫn phải chịu trách nhiệm liên đới trước pháp luật vì không quản lý thông tin của mình.",
+      "Chủ tài khoản hoàn toàn vô tội vì không phải tự tay mình viết bài.",
+      "Chỉ người mượn tài khoản bị xử phạt, còn chủ tài khoản được khen thưởng.",
+      "Mạng xã hội sẽ tự động xóa tài khoản mà không cần pháp luật can thiệp."
+    ],
+    "answer": "Chủ tài khoản vẫn phải chịu trách nhiệm liên đới trước pháp luật vì không quản lý thông tin của mình.",
+    "explanation": "Mỗi cá nhân phải tự chịu trách nhiệm bảo mật và quản lý tài khoản số của mình. Để người khác dùng tài khoản làm điều phạm pháp thì chủ sở hữu sẽ bị xem xét trách nhiệm liên đới."
+  },
+  {
+    "question": "Tại sao việc cài đặt mật khẩu máy tính, điện thoại bằng các dãy số như '123456' hay 'abcdef' lại cực kỳ nguy hiểm?",
+    "options": [
+      "Vì đây là các mật khẩu quá phổ biến, dễ dàng bị các phần mềm dò quét bẻ khóa trong vài giây.",
+      "Vì các dãy số này làm máy tính bị chạy chậm đi rất nhiều.",
+      "Vì bàn phím dễ bị mờ các phím số này do bấm quá nhiều lần.",
+      "Vì nhà mạng sẽ khóa tài khoản nếu phát hiện mật khẩu ngắn."
+    ],
+    "answer": "Vì đây là các mật khẩu quá phổ biến, dễ dàng bị các phần mềm dò quét bẻ khóa trong vài giây.",
+    "explanation": "Đây gọi là mật khẩu yếu (Weak password). Hacker sử dụng phương pháp tấn công từ điển (Brute-force) chứa các chuỗi phổ biến để bẻ khóa tài khoản một cách dễ dàng."
+  },
+  {
+    "question": "Khi nhận được lệnh 'Nhìn bên phải... Chào!', các chiến sĩ trong hàng ngũ tiểu đội thực hiện cử động đầu như thế nào?",
+    "options": [
+      "Đồng loạt quay mặt về hướng bên phải một góc 45 độ và nhìn vào người nhận chào.",
+      "Quay đầu nhìn sang trái xem có ai làm giống mình không.",
+      "Cúi đầu nhìn xuống mũi bàn chân của mình.",
+      "Ngửa mặt nhìn lên trời để thể hiện sự trang nghiêm."
+    ],
+    "answer": "Đồng loạt quay mặt về hướng bên phải một góc 45 độ và nhìn vào người nhận chào.",
+    "explanation": "Động lệnh 'Chào' yêu cầu các chiến sĩ thực hiện động tác quay mặt sang hướng người nhận chào (ở đây là bên phải) để thể hiện sự tôn trọng, mắt nhìn thẳng vào người đó."
+  },
+  {
+    "question": "Trong động tác tập hợp tiểu đội hàng dọc, tại sao các chiến sĩ đứng sau phải nhìn thẳng vào giữa gáy của người đứng trước?",
+    "options": [
+      "Để đảm bảo hàng dọc đứng thẳng hàng, không bị lệch sang hai bên.",
+      "Để người đứng trước che bớt nắng cho người đứng sau.",
+      "Để dễ dàng trò chuyện thì thầm mà không bị tiểu đội trưởng phát hiện.",
+      "Đây là thói quen đứng tự nhiên không có quy định bắt buộc."
+    ],
+    "answer": "Để đảm bảo hàng dọc đứng thẳng hàng, không bị lệch sang hai bên.",
+    "explanation": "Việc căn thẳng điểm giữa gáy người phía trước giúp giấu đi các lệch bước sang trái hay phải, giữ cho toàn bộ trục hàng dọc thẳng tắp từ người đầu đến người cuối."
+  },
+  {
+    "question": "Sự khác biệt về mục đích giữa động tác 'Đi khom cao' và 'Đi khom thấp' trên chiến trường là gì?",
+    "options": [
+      "Đi khom thấp dùng khi vật che khuất, che đỡ thấp hơn; đi khom cao dùng khi vật che khuất cao hơn.",
+      "Đi khom thấp dùng khi đi ban ngày; đi khom cao dùng khi đi ban đêm.",
+      "Đi khom cao giúp chiến sĩ chạy nhanh hơn đi khom thấp rất nhiều.",
+      "Đi khom thấp chỉ áp dụng cho những chiến sĩ có chiều cao hạn chế."
+    ],
+    "answer": "Đi khom thấp dùng khi vật che khuất, che đỡ thấp hơn; đi khom cao dùng khi vật che khuất cao hơn.",
+    "explanation": "Nguyên tắc vận động là phải điều chỉnh độ cao cơ thể phù hợp với chiều cao của vật che khuất (bờ ruộng, gốc cây, bức tường trống) để địch không nhìn thấy."
+  },
+  {
+    "question": "Tại sao khi thực hiện động tác 'Lê' trên chiến trường, chiến sĩ không được để súng chạm đất hoặc va đập mạnh?",
+    "options": [
+      "Để tránh đất cát chui vào nòng súng gây kẹt đạn và tránh tiếng động làm lộ bí mật.",
+      "Vì súng chạm đất sẽ bị bẩn làm mất thẩm mỹ trang phục.",
+      "Vì đất cát làm trọng lượng của khẩu súng nặng lên rất nhiều.",
+      "Vì súng chạm đất sẽ bị giảm tầm bắn của đạn."
+    ],
+    "answer": "Để tránh đất cát chui vào nòng súng gây kẹt đạn và tránh tiếng động làm lộ bí mật.",
+    "explanation": "Nòng súng bám bùn đất khi bắn rất dễ gây nổ nòng, nguy hiểm cho chiến sĩ. Đồng thời, tiếng va lách cách của kim loại với sỏi đá sẽ đánh động lính trinh sát đối phương."
+  },
+  {
+    "question": "Vì sao khi bò qua hàng rào dây kẽm gai của địch, chiến sĩ thường dùng một chiếc gậy nhỏ hoặc dùng tay nâng nhẹ sợi dây lên?",
+    "options": [
+      "Để tránh gai cào rách áo, xước da rỉ máu làm lộ vị trí hoặc vướng vào trang bị gây tiếng động.",
+      "Để kiểm tra xem dây kẽm gai có phải làm bằng nhựa giả hay không.",
+      "Để lấy đà bật nhảy qua hàng rào cho nhanh.",
+      "Để phá hủy hoàn toàn hệ thống hàng rào của đối phương."
+    ],
+    "answer": "Để tránh gai cào rách áo, xước da rỉ máu làm lộ vị trí hoặc vướng vào trang bị gây tiếng động.",
+    "explanation": "Hàng rào gai rất dễ móc vào quần áo, ba lô. Nếu kéo giật mạnh sẽ làm rung cả hệ thống chuông cảnh báo hoặc mìn bẫy treo trên hàng rào."
+  },
+  {
+    "question": "Khi một người bị bong gân cổ chân do đá bóng, hành động sơ cứu nào sau đây là hoàn toàn SAI?",
+    "options": [
+      "Xoa bóp ngay bằng dầu nóng hoặc rượu thuốc để máu mau lưu thông.",
+      "Chườm đá lạnh lên vùng cổ chân bị sưng nề.",
+      "Băng cố định cổ chân bằng băng thun co giãn.",
+      "Hạn chế đi lại và kê cao chân bị đau lên gối mềm."
+    ],
+    "answer": "Xoa bóp ngay bằng dầu nóng hoặc rượu thuốc để máu mau lưu thông.",
+    "explanation": "Bong gân là tổn thương đứt/giãn dây chằng, gây chảy máu ngầm bên trong. Xoa dầu nóng làm mạch mãu giãn thêm, khiến vùng tổn thương sưng to, chảy máu nhiều và đau đớn hơn. Cần phải chườm lạnh để co mạch."
+  },
+  {
+    "question": "Trên không gian mạng, hình thức lừa dối giả mạo các trang web của ngân hàng để chiếm đoạt mật khẩu được gọi là gì?",
+    "options": [
+      "Tấn công giả mạo (Phishing).",
+      "Phát tán mã độc (Malware).",
+      "Tấn công từ chối dịch vụ (DDoS).",
+      "Đánh cắp bản quyền mạng."
+    ],
+    "answer": "Tấn công giả mạo (Phishing).",
+    "explanation": "Phishing là phương thức dùng giao diện web giống hệt trang thật (như ngân hàng, facebook) nhằm đánh lừa người dùng tự nhập tên và mật khẩu vào để đánh cắp."
+  },
+  {
+    "question": "Khi tiểu đội đang đi đều, muốn dừng lại, tiểu đội trưởng phải hô khẩu lệnh 'Đứng lại... Đứng!' rơi vào chân nào?",
+    "options": [
+      "Động lệnh 'Đứng' rơi vào chân phải.",
+      "Động lệnh 'Đứng' rơi vào chân trái.",
+      "Hô vào chân nào cũng được.",
+      "Hô khi cả hai gót chân cùng chạm đất."
+    ],
+    "answer": "Động lệnh 'Đứng' rơi vào chân phải.",
+    "explanation": "Mục đích hô động lệnh 'Đứng' vào chân phải để chiến sĩ bước thêm một bước chân trái lên phía trước, sau đó thu chân phải về khép lại tư thế nghiêm một cách nhịp nhàng."
+  },
+  {
+    "question": "Tại sao khi đi trong đêm tối ở vùng chiến sự, chiến sĩ phải tuyệt đối giữ nghiêm lệnh 'không tiếng động, không ánh sáng'?",
+    "options": [
+      "Vì ánh sáng và tiếng động nhỏ cũng giúp thiết bị hồng ngoại và trinh sát địch định vị tọa độ trận địa.",
+      "Vì bóng tối giúp chiến sĩ nhìn rõ các chướng ngại vật hơn ánh sáng.",
+      "Để tiết kiệm pin đèn pin và giữ sức không phải nói chuyện.",
+      "Vì ban đêm tiếng nói con người truyền đi chậm hơn ban ngày."
+    ],
+    "answer": "Vì ánh sáng và tiếng động nhỏ cũng giúp thiết bị hồng ngoại và trinh sát địch định vị tọa độ trận địa.",
+    "explanation": "Trong đêm tối tĩnh mịch, một đốm lửa thuốc lá hay một tiếng ho có thể truyền đi rất xa, làm lộ toàn bộ đội hình hành quân trước thiết bị viễn thám của địch."
+  },
+  {
+    "question": "Nếu vô tình phát hiện một phần mềm lạ tự động cài đặt vào điện thoại và liên tục gửi vị trí định vị của em ra ngoài, em đang đối mặt với nguy cơ gì?",
+    "options": [
+      "Điện thoại đã bị nhiễm mã độc gián điệp đánh cắp thông tin riêng tư.",
+      "Điện thoại đang tự động cập nhật hệ điều hành phiên bản mới.",
+      "Nhà mạng đang khuyến mãi dung lượng 4G miễn phí cho em.",
+      "Pin điện thoại đang được tối ưu hóa để dùng lâu hơn."
+    ],
+    "answer": "Điện thoại đã bị nhiễm mã độc gián điệp đánh cắp thông tin riêng tư.",
+    "explanation": "Các ứng dụng chạy ẩn, tự thu thập dữ liệu định vị, tin nhắn, danh bạ gửi về máy chủ lạ là biểu hiện rõ ràng của phần mềm gián điệp (Spyware)."
+  },
+  {
+    "question": "Khi gặp một người bị điện giật đang co giật dính chặt vào dây điện, hành động sơ cứu dũng cảm và chính xác nhất là gì?",
+    "options": [
+      "Ngắt ngay nguồn điện (cầu dao) hoặc dùng cây gỗ khô gạt dây điện ra khỏi người nạn nhân.",
+      "Lao vào dùng tay không kéo mạnh nạn nhân ra ngoài.",
+      "Dùng một thanh sắt dài để gạt sợi dây điện ra.",
+      "Đổ một xô nước sạch vào người nạn nhân để làm mát."
+    ],
+    "answer": "Ngắt ngay nguồn điện (cầu dao) hoặc dùng cây gỗ khô gạt dây điện ra khỏi người nạn nhân.",
+    "explanation": "Phải tuyệt đối cách ly nguồn điện bằng vật cách điện (gỗ khô, nhựa) hoặc ngắt mạch. Tay không hoặc thanh sắt, nước đều dẫn điện sẽ khiến người cứu bị giật theo."
+  },
+  {
+    "question": "Trong đội ngũ tiểu đội hàng ngang, khi nghe khẩu lệnh 'Điểm số!', chiến sĩ số 1 làm động tác gì?",
+    "options": [
+      "Quay mặt sang trái hô 'Một', rồi quay mặt trở lại đứng nghiêm.",
+      "Đứng nghiêm hô 'Một' rồi ngồi xuống đất.",
+      "Hô 'Một' và giơ tay phải lên cao.",
+      "Quay mặt ra phía sau hô 'Một'."
+    ],
+    "answer": "Quay mặt sang trái hô 'Một', rồi quay mặt trở lại đứng nghiêm.",
+    "explanation": "Chiến sĩ số 1 quay đầu sang trái hô to số của mình cho người số 2 nghe thấy, sau đó quay mặt về hướng cũ ngay để giữ tư thế nghiêm."
+  },
+  {
+    "question": "Tại sao khi di chuyển bằng tư thế 'Lăn' trên chiến trường, chiến sĩ phải ôm súng sát dọc theo thân mình?",
+    "options": [
+      "Để thu hẹp tiết diện cơ thể, bảo vệ súng không vướng bám vào chướng ngại vật và lăn đều hơn.",
+      "Để khẩu súng không bị trầy xước lớp sơn bảo vệ bên ngoài.",
+      "Để súng đỡ bị nóng khi tiếp xúc với ánh nắng mặt trời.",
+      "Để người chiến sĩ có cảm giác ấm áp hơn khi lăn trên nền đất lạnh."
+    ],
+    "answer": "Để thu hẹp tiết diện cơ thể, bảo vệ súng không vướng bám vào chướng ngại vật và lăn đều hơn.",
+    "explanation": "Động tác lăn yêu cầu thân người thành một khối trụ tròn. Khóa súng sát người giúp súng không bị văng ra đập vào đá, không cản trở vòng lăn của cơ thể."
+  },
+  {
+    "question": "Biểu hiện nào sau đây chứng tỏ một học sinh đang có nguy cơ cao bị lôi kéo vào tệ nạn cá độ bóng đá qua mạng?",
+    "options": [
+      "Thường xuyên mượn tiền bạn bè, cầm cố đồ đạc, lén lút vào các trang web có bảng tỷ lệ kèo.",
+      "Chăm chỉ tập luyện thể thao và xem các trận đấu bóng đá quốc tế cùng gia đình.",
+      "Mua một quả bóng đá mới để rèn luyện sức khỏe cuối tuần.",
+      "Thường xuyên thảo luận về chiến thuật của các đội bóng nổi tiếng."
+    ],
+    "answer": "Thường xuyên mượn tiền bạn bè, cầm cố đồ đạc, lén lút vào các trang web có bảng tỷ lệ kèo.",
+    "explanation": "Nhu cầu tiền bạc bất thường, giấu diếm hành vi và quan tâm quá mức đến tỷ số cá cược là những dấu hiệu điển hình của việc sa ngã vào cờ bạc đỏ đen."
+  },
+  {
+    "question": "Bạn học N nhận được một tin nhắn từ người lạ tự xưng là cán bộ điều tra, dọa rằng tài khoản của bạn liên quan đến vụ án ma túy lớn và yêu cầu chuyển 20 triệu đồng để kiểm tra. N nên làm gì?",
+    "options": [
+      "Tuyệt đối không chuyển tiền, báo ngay với cha mẹ và cơ quan công an nơi gần nhất để trình báo.",
+      "Lo sợ và bí mật trộm tiền của bố mẹ chuyển ngay cho đối tượng.",
+      "Nhắn tin xin lỗi đối tượng và hứa sẽ đi đầu thú.",
+      "Chia sẻ số điện thoại của đối tượng lên nhóm lớp để rủ các bạn cùng trêu chọc."
+    ],
+    "answer": "Tuyệt đối không chuyển tiền, báo ngay với cha mẹ và cơ quan công an nơi gần nhất để trình báo.",
+    "explanation": "Đây là kịch bản lừa đảo mạo danh cơ quan pháp luật rất phổ biến. Công an không bao giờ làm việc, đe dọa hay yêu cầu chuyển tiền qua điện thoại mạng xã hội."
+  },
+  {
+    "question": "Trong lúc thực hành di chuyển trên bãi tập, bạn K thấy đất cát bám đầy vào các bộ phận chuyển động của khẩu súng mô hình nhưng vẫn lờ đi và tiếp tục kéo bệ khóa nòng mạnh. Em có lời khuyên gì cho K?",
+    "options": [
+      "Nên dừng lại, lau sạch cát vì cát hạt sạn bám vào sẽ làm kẹt, xước mòn các chi tiết máy súng và hỏng súng.",
+      "Khuyên K nên đổ thêm nước vào để cát trôi đi nhanh hơn.",
+      "Động viên K cứ kéo mạnh hơn nữa để cát tự bị nghiền nát.",
+      "Khuyên K đổi sang tư thế chạy nhảy để cát tự rơi ra ngoài."
+    ],
+    "answer": "Nên dừng lại, lau sạch cát vì cát hạt sạn bám vào sẽ làm kẹt, xước mòn các chi tiết máy súng và hỏng súng.",
+    "explanation": "Cát bụi là kẻ thù của các thiết bị cơ khí chính xác. Cố tình vận hành súng khi dính cát sẽ gây ra hiện tượng mài mòn cưỡng bức, làm kẹt cứng và hỏng hóc vũ khí."
+  },
+  {
+    "question": "Trong hội thao quốc phòng học đường, tiểu đội của em bị ban giám khảo trừ điểm rất nặng ở phần đi đều do hàng ngang luôn bị lượn sóng, mất thẳng hàng. Nguyên nhân chính do đâu?",
+    "options": [
+      "Do các chiến sĩ không giữ đúng cự ly hàng ngang và không liếc mắt căn chỉnh theo người làm chuẩn.",
+      "Do tốc độ bước đi của tiểu đội trưởng quá chậm so với quy định.",
+      "Do bãi tập có nhiều gió thổi ngược hướng đi của tiểu đội.",
+      "Do các chiến sĩ không giơ tay cao bằng nhau khi đánh tay."
+    ],
+    "answer": "Do các chiến sĩ không giữ đúng cự ly hàng ngang và không liếc mắt căn chỉnh theo người làm chuẩn.",
+    "explanation": "Để giữ hàng ngang thẳng khi đi đều, các thành viên phải dùng mắt liếc nhẹ (không quay đầu) căn theo người làm chuẩn bên cạnh, giữ khoảng cách vai đều nhau."
+  },
+  {
+    "question": "Khi di chuyển trinh sát qua một khu vực tường đổ nát có nhiều mảnh kính, gạch vỡ lởm chởm, tư thế vận động nào dưới đây là thích hợp nhất?",
+    "options": [
+      "Bò cao (dùng bàn tay, bàn chân hoặc đầu gối nâng người cao khỏi mặt đất).",
+      "Trườn sấp ép bụng xuống mặt đất.",
+      "Lăn liên tục qua các đống gạch vỡ.",
+      "Đi nghiêm trang, ngẩng cao đầu bước qua."
+    ],
+    "answer": "Bò cao (dùng bàn tay, bàn chân hoặc đầu gối nâng người cao khỏi mặt đất).",
+    "explanation": "Địa hình có nhiều vật sắc nhọn lởm chởm nếu trườn sấp sẽ gây chấn thương rách da bụng, ngực. Bò cao giúp nâng phần thân lên, chỉ tiếp xúc đất ở các điểm chai dày (bàn tay/chân) nên an toàn hơn."
+  },
+  {
+    "question": "Một người bị tai nạn giao thông gãy hở xương cẳng chân, đầu xương đâm thủng da lộ ra ngoài và đang chảy máu xối xả. Em chọn phương án sơ cứu nào đúng trình tự?",
+    "options": [
+      "Băng ép cầm máu vết thương trước, sau đó đặt gạc sạch bảo vệ đầu xương rồi tiến hành nẹp cố định chi gãy.",
+      "Dùng tay ấn mạnh đầu xương gãy chui vào trong da rồi mới băng bó.",
+      "Nẹp cố định chân thật chặt trước rồi mới quay lại tìm cách cầm máu sau.",
+      "Rửa vết thương bằng nước xà phòng thật mạnh trực tiếp lên đầu xương lộ ra."
+    ],
+    "answer": "Băng ép cầm máu vết thương trước, sau đó đặt gạc sạch bảo vệ đầu xương rồi tiến hành nẹp cố định chi gãy.",
+    "explanation": "Chảy máu ồ ạt nguy hiểm đến tính mạng tức thì nên phải ưu tiên cầm máu trước. Tuyệt đối không ấn đầu xương gãy vào trong vì sẽ đem vi khuẩn vào sâu gây nhiễm trùng xương nặng."
+  },
+  {
+    "question": "Tại sao các trang web độc hại thường gắn các quảng cáo cá độ, cờ bạc kèm theo các hình ảnh phần thưởng rất lớn nhắm vào tài khoản của học sinh?",
+    "options": [
+      "Đánh vào lòng tham, sự tò mò của học sinh để dẫn dụ các em nạp tiền tham gia rồi chiếm đoạt bằng thuật toán lập trình sẵn.",
+      "Vì các chủ trang web muốn tặng tiền thật giúp đỡ học sinh nghèo vượt khó.",
+      "Để kiểm tra trí thông minh của học sinh xem có biết cách nhận thưởng không.",
+      "Đây là các quảng cáo trò chơi giải trí lành mạnh đã được cấp phép."
+    ],
+    "answer": "Đánh vào lòng tham, sự tò mò của học sinh để dẫn dụ các em nạp tiền tham gia rồi chiếm đoạt bằng thuật toán lập trình sẵn.",
+    "explanation": "Cờ bạc trực tuyến sử dụng phần mềm điều khiển tỷ lệ thắng thua. Ban đầu chúng cho thắng nhỏ để kích thích nạp thêm tiền, sau đó sẽ khóa tài khoản hoặc cho thua sạch."
+  },
+  {
+    "question": "Học sinh T phát hiện mật khẩu wifi nhà mình bị một nhóm người lạ bẻ khóa và dùng để truy cập vào hệ thống máy tính nội bộ của gia đình. T nên tư vấn cho bố mẹ xử lý thế nào để bảo mật?",
+    "options": [
+      "Thay đổi ngay mật khẩu wifi với độ dài trên 8 ký tự gồm chữ hoa, chữ thường, số, ký tự đặc biệt và ẩn tên mạng wifi (SSID).",
+      "Cứ để nguyên vì wifi dùng chung không ảnh hưởng đến dữ liệu máy tính.",
+      "Tắt router wifi đi và không bao giờ sử dụng internet nữa.",
+      "Mua một chiếc máy tính mới hoàn toàn để thay thế máy cũ."
+    ],
+    "answer": "Thay đổi ngay mật khẩu wifi với độ dài trên 8 ký tự gồm chữ hoa, chữ thường, số, ký tự đặc biệt và ẩn tên mạng wifi (SSID).",
+    "explanation": "Mật khẩu phức tạp ngăn chặn các ứng dụng dò mật khẩu (WPA tester). Việc ẩn SSID giúp người lạ xung quanh không nhìn thấy tên mạng wifi để tìm cách kết nối."
+  },
+  {
+    "question": "Tại sao khi tiểu đội trưởng hô khẩu lệnh 'Nhìn trước... Thẳng!', người chiến sĩ đứng sau cùng của hàng dọc lại KHÔNG làm động tác quay đầu nhìn người phía trước?",
+    "options": [
+      "Vì phía sau họ không còn ai đứng nữa nên họ đứng nghiêm làm chuẩn khóa đuôi cho hàng thẳng.",
+      "Vì người đứng sau cùng không cần phải nghe theo khẩu lệnh của tiểu đội trưởng.",
+      "Do người đứng sau cùng bận quan sát phía sau lưng tiểu đội.",
+      "Vì người đứng sau cùng có chiều cao lớn nhất tiểu đội."
+    ],
+    "answer": "Vì phía sau họ không còn ai đứng nữa nên họ đứng nghiêm làm chuẩn khóa đuôi cho hàng thẳng.",
+    "explanation": "Động tác quay đầu nhìn gáy người trước để người phía sau gióng hàng theo mình. Người cuối hàng không có ai gióng theo nên chỉ cần đứng nghiêm giữ vị trí chốt đuôi của đường thẳng."
+  },
+  {
+    "question": "Trên chiến trường, khi đang hành tiến bằng tư thế đi khom dưới sự che đỡ của một bờ đất dài, bất ngờ địch bắn pháo sáng rực trời ngay trên đầu, chiến sĩ cần phản ứng thế nào?",
+    "options": [
+      "Ngay lập tức nằm sấp bất động sát mặt đất, tận dụng bóng tối của bờ đất, tuyệt đối không di động hay ngước nhìn đèn pháo.",
+      "Đứng thẳng người lên và chạy thật nhanh về phía trước để tìm hầm trú ẩn.",
+      "Bật đèn pin cá nhân lên để soi đường chạy cho khỏi vấp ngã.",
+      "Giơ súng lên bắn liên tiếp vào chiếc ô pháo sáng đang bay."
+    ],
+    "answer": "Ngay lập tức nằm sấp bất động sát mặt đất, tận dụng bóng tối của bờ đất, tuyệt đối không di động hay ngước nhìn đèn pháo.",
+    "explanation": "Pháo sáng giúp địch phát hiện các mục tiêu chuyển động. Nằm im biến chiến sĩ thành một vật thể tĩnh hòa lẫn vào địa hình. Việc nhìn lên pháo sáng sẽ làm lóa mắt, mất khả năng quan sát trong đêm."
+  },
+  {
+    "question": "Em hãy phân tích tính đúng đắn của nhận định: 'An toàn thông tin trên không gian mạng là một phần then chốt cấu thành nên an ninh quốc gia trong kỷ nguyên số'.",
+    "options": [
+      "Đúng, vì hệ thống tài chính, năng lượng, quốc phòng đều vận hành trên mạng; nếu bị tấn công sẽ gây tê liệt toàn bộ đất nước.",
+      "Sai, vì không gian mạng chỉ là thế giới ảo, không ảnh hưởng đến đời sống vật chất thực tế của quốc gia.",
+      "Nhận định này chỉ đúng với các quốc gia phát triển, chưa đúng với thực tế Việt Nam.",
+      "Sai, vì việc bảo vệ đất nước chỉ cần lực lượng quân đội cầm súng bảo vệ ngoài biên giới biên thùy."
+    ],
+    "answer": "Đúng, vì hệ thống tài chính, năng lượng, quốc phòng đều vận hành trên mạng; nếu bị tấn công sẽ gây tê liệt toàn bộ đất nước.",
+    "explanation": "Chiến tranh mạng (Cyber warfare) có thể phá hủy hạ tầng trọng yếu (nhà máy điện, sân bay, ngân hàng) của một quốc gia từ xa mà không cần tiếng súng. Do đó, bảo vệ không gian mạng là bảo vệ chủ quyền quốc gia số."
+  }
+]
+
+
+

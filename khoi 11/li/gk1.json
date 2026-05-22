@@ -1,0 +1,553 @@
+
+[
+  {
+    "question": "Chuyển động nào sau đây là một ví dụ về dao động cơ tuần hoàn?",
+    "options": [
+      "Chuyển động qua lại của một con lắc đồng hồ quả lắc đang chạy ổn định.",
+      "Chuyển động của cành cây đu đưa qua lại khi có gió thổi mạnh.",
+      "Chuyển động của một chiếc lá rụng từ trên cây xuống mặt đất.",
+      "Chuyển động của xe máy đi lại trên một đoạn đường thẳng."
+    ],
+    "answer": "Chuyển động qua lại của một con lắc đồng hồ quả lắc đang chạy ổn định.",
+    "explanation": "Dao động cơ tuần hoàn là dao động mà sau những khoảng thời gian bằng nhau vật trở lại vị trí cũ theo hướng cũ. Con lắc đồng hồ đáp ứng đúng định nghĩa này."
+  },
+  {
+    "question": "Dao động điều hòa là một dao động cơ tuần hoàn mà li độ của vật được mô tả dưới dạng hàm số nào theo thời gian?",
+    "options": [
+      "Hàm sin hoặc hàm cosin.",
+      "Hàm bậc nhất hoặc hàm bậc hai.",
+      "Hàm mũ hoặc hàm logarit.",
+      "Hàm tang hoặc hàm côtang."
+    ],
+    "answer": "Hàm sin hoặc hàm cosin.",
+    "explanation": "Theo định nghĩa trong sách giáo khoa, dao động điều hòa là dao động trong đó li độ của vật là một hàm cosin (hoặc sin) của thời gian."
+  },
+  {
+    "question": "Trong phương trình dao động điều hòa x = A cos(wt + b), đại lượng x được gọi là gì?",
+    "options": [
+      "Li độ dao động.",
+      "Biên độ dao động.",
+      "Tần số góc dao động.",
+      "Pha ban đầu của dao động."
+    ],
+    "answer": "Li độ dao động.",
+    "explanation": "Trong phương trình dao động điều hòa, x là độ lệch của vật khỏi vị trí cân bằng, được gọi là li độ."
+  },
+  {
+    "question": "Trong phương trình dao động điều hòa x = A cos(wt + b), biên độ A luôn luôn có đặc điểm gì?",
+    "options": [
+      "Là một hằng số dương.",
+      "Là một hằng số âm.",
+      "Có giá trị thay đổi theo thời gian.",
+      "Có thể nhận giá trị bằng không bất kỳ lúc nào."
+    ],
+    "answer": "Là một hằng số dương.",
+    "explanation": "Biên độ A là độ lệch cực đại của vật so với vị trí cân bằng, do đó nó luôn là một hằng số dương."
+  },
+  {
+    "question": "Chu kỳ của dao động điều hòa được định nghĩa là gì?",
+    "options": [
+      "Khoảng thời gian để vật thực hiện được một dao động toàn phần.",
+      "Số dao động toàn phần mà vật thực hiện được trong thời gian một giây.",
+      "Khoảng thời gian ngắn nhất giữa hai lần vật đi qua vị trí cân bằng.",
+      "Tốc độ thay đổi pha của dao động theo thời gian."
+    ],
+    "answer": "Khoảng thời gian để vật thực hiện được một dao động toàn phần.",
+    "explanation": "Chu kỳ T là khoảng thời gian để vật thực hiện một dao động toàn phần, đơn vị tính bằng giây."
+  },
+  {
+    "question": "Tần số của dao động điều hòa được định nghĩa là gì?",
+    "options": [
+      "Số dao động toàn phần mà vật thực hiện được trong thời gian một giây.",
+      "Khoảng thời gian để vật thực hiện được một dao động toàn phần.",
+      "Tốc độ chuyển động của vật khi đi qua vị trí cân bằng.",
+      "Pha ban đầu của dao động tại thời điểm gốc."
+    ],
+    "answer": "Số dao động toàn phần mà vật thực hiện được trong thời gian một giây.",
+    "explanation": "Tần số f là số dao động toàn phần vật thực hiện được trong một đơn vị thời gian (1 giây)."
+  },
+  {
+    "question": "Đơn vị đo chuẩn của tần số góc trong hệ SI là gì?",
+    "options": [
+      "Radian trên giây (rad/s).",
+      "Vòng trên phút (vòng/phút).",
+      "Héc (Hz).",
+      "Giây (s)."
+    ],
+    "answer": "Radian trên giây (rad/s).",
+    "explanation": "Tần số góc w có đơn vị đo chuẩn trong hệ SI là radian trên giây (rad/s)."
+  },
+  {
+    "question": "Khi nói về vận tốc của một vật dao động điều hòa, nhận định nào sau đây là đúng về pha so với li độ?",
+    "options": [
+      "Vận tốc biến thiên điều hòa sớm pha pi/2 so với li độ.",
+      "Vận tốc biến thiên điều hòa trễ pha pi/2 so với li độ.",
+      "Vận tốc biến thiên điều hòa ngược pha so với li độ.",
+      "Vận tốc biến thiên điều hòa cùng pha so với li độ."
+    ],
+    "answer": "Vận tốc biến thiên điều hòa sớm pha pi/2 so với li độ.",
+    "explanation": "Vận tốc biến thiên điều hòa sớm pha pi/2 (hoặc vuông pha) so với li độ x."
+  },
+  {
+    "question": "Khi nói về gia tốc của một vật dao động điều hòa, nhận định nào sau đây là đúng về pha so với li độ?",
+    "options": [
+      "Gia tốc biến thiên điều hòa ngược pha so với li độ.",
+      "Gia tốc biến thiên điều hòa cùng pha so với li độ.",
+      "Gia tốc biến thiên điều hòa sớm pha pi/2 so với li độ.",
+      "Gia tốc biến thiên điều hòa trễ pha pi/2 so với li độ."
+    ],
+    "answer": "Gia tốc biến thiên điều hòa ngược pha so với li độ.",
+    "explanation": "Gia tốc luôn trái dấu và biến thiên ngược pha hoàn toàn so với li độ x."
+  },
+  {
+    "question": "Khi vật dao động điều hòa đi qua vị trí cân bằng, các đại lượng vận tốc và gia tốc có độ lớn như thế nào?",
+    "options": [
+      "Vận tốc có độ lớn cực đại, gia tốc có độ lớn bằng không.",
+      "Vận tốc có độ lớn bằng không, gia tốc có độ lớn cực đại.",
+      "Cả vận tốc và gia tốc đều có độ lớn bằng không.",
+      "Cả vận tốc và gia tốc đều có độ lớn cực đại."
+    ],
+    "answer": "Vận tốc có độ lớn cực đại, gia tốc có độ lớn bằng không.",
+    "explanation": "Tại vị trí cân bằng li độ x = 0 nên gia tốc bằng 0, còn vận tốc của vật đạt giá trị độ lớn cực đại."
+  },
+  {
+    "question": "Khi vật dao động điều hòa ở hai vị trí biên, độ lớn của vận tốc và gia tốc thay đổi như thế nào?",
+    "options": [
+      "Vận tốc có độ lớn bằng không, gia tốc có độ lớn cực đại.",
+      "Vận tốc có độ lớn cực đại, gia tốc có độ lớn bằng không.",
+      "Cả vận tốc và gia tốc đều có độ lớn bằng không.",
+      "Cả vận tốc và gia tốc đều có độ lớn cực đại."
+    ],
+    "answer": "Vận tốc có độ lớn bằng không, gia tốc có độ lớn cực đại.",
+    "explanation": "Tại hai biên vật đổi chiều chuyển động nên vận tốc bằng 0, li độ có độ lớn cực đại dẫn đến gia tốc có độ lớn cực đại."
+  },
+  {
+    "question": "Động năng của một vật dao động điều hòa phụ thuộc vào những đại lượng nào của vật?",
+    "options": [
+      "Khối lượng và tốc độ chuyển động của vật.",
+      "Khối lượng và gia tốc chuyển động của vật.",
+      "Li độ vị trí và tần số góc của vật.",
+      "Chiều dài dây treo và biên độ góc."
+    ],
+    "answer": "Khối lượng và tốc độ chuyển động của vật.",
+    "explanation": "Động năng được tính bằng một nửa tích khối lượng với bình phương tốc độ của vật chuyển động."
+  },
+  {
+    "question": "Thế năng của một vật dao động điều hòa đạt giá trị lớn nhất khi vật ở vị trí nào?",
+    "options": [
+      "Tại các vị trí biên.",
+      "Tại vị trí cân bằng.",
+      "Tại vị trí có vận tốc cực đại.",
+      "Tại vị trí bất kỳ cách đều vị trí cân bằng và vị trí biên."
+    ],
+    "answer": "Tại các vị trí biên.",
+    "explanation": "Thế năng phụ thuộc vào độ lệch li độ x, đạt cực đại khi vật ở vị trí xa vị trí cân bằng nhất (vị trí biên)."
+  },
+  {
+    "question": "Trong quá trình dao động điều hòa của một vật, cơ năng của vật có đặc điểm gì nếu bỏ qua mọi lực cản và ma sát?",
+    "options": [
+      "Là một đại lượng bảo toàn và không thay đổi theo thời gian.",
+      "Biến thiên điều hòa cùng chu kỳ với động năng.",
+      "Tăng liên tục khi vật chuyển động từ biên về vị trí cân bằng.",
+      "Giảm liên tục khi vật chuyển động từ biên về vị trí cân bằng."
+    ],
+    "answer": "Là một đại lượng bảo toàn và không thay đổi theo thời gian.",
+    "explanation": "Nếu bỏ qua lực ma sát và lực cản, cơ năng tổng hợp luôn luôn được bảo toàn giữ nguyên giá trị."
+  },
+  {
+    "question": "Dao động tắt dần là dao động có đại lượng nào sau đây giảm dần liên tục theo thời gian?",
+    "options": [
+      "Biên độ và cơ năng.",
+      "Chu kỳ và tần số.",
+      "Li độ và vận tốc.",
+      "Vận tốc và gia tốc."
+    ],
+    "answer": "Biên độ và cơ năng.",
+    "explanation": "Theo định nghĩa SGK, dao động tắt dần là dao động có biên độ và cơ năng giảm dần theo thời gian."
+  },
+  {
+    "question": "Nguyên nhân chính dẫn đến hiện tượng dao động tắt dần trong hệ cơ học thực tế là gì?",
+    "options": [
+      "Do sự xuất hiện của lực cản, lực ma sát của môi trường.",
+      "Do khối lượng của vật dao động quá lớn.",
+      "Do vật không được kích thích bằng một ngoại lực ban đầu đủ mạnh.",
+      "Do tần số góc của hệ thay đổi liên tục theo thời gian."
+    ],
+    "answer": "Do sự xuất hiện của lực cản, lực ma sát của môi trường.",
+    "explanation": "Lực cản môi trường làm tiêu hao năng lượng dưới dạng nhiệt, khiến hệ mất dần biên độ."
+  },
+  {
+    "question": "Dao động cưỡng bức là dao động của một hệ dưới tác dụng của đại lượng nào?",
+    "options": [
+      "Một ngoại lực tuần hoàn biến đổi theo thời gian.",
+      "Một lực cản không đổi của môi trường.",
+      "Một lực đàn hồi tỉ lệ thuận với li độ vật.",
+      "Một xung lực tác dụng duy nhất một lần ban đầu."
+    ],
+    "answer": "Một ngoại lực tuần hoàn biến đổi theo thời gian.",
+    "explanation": "Dao động cưỡng bức xảy ra khi có một ngoại lực tuần hoàn liên tục tác dụng và duy trì dao động cho hệ."
+  },
+  {
+    "question": "Khi hệ dao động cưỡng bức đã đi vào trạng thái ổn định, tần số của dao động cưỡng bức bằng đại lượng nào?",
+    "options": [
+      "Tần số của ngoại lực tuần hoàn tác dụng lên hệ.",
+      "Tần số dao động riêng ban đầu của hệ.",
+      "Trung bình cộng của tần số riêng và tần số ngoại lực.",
+      "Hiệu số giữa tần số riêng và tần số ngoại lực."
+    ],
+    "answer": "Tần số của ngoại lực tuần hoàn tác dụng lên hệ.",
+    "explanation": "Khi ổn định, tần số của hệ dao động cưỡng bức luôn bị bắt buộc tuân theo tần số của ngoại lực."
+  },
+  {
+    "question": "Hiện tượng cộng hưởng xảy ra trong dao động cưỡng bức khi có điều kiện nào sau đây?",
+    "options": [
+      "Tần số của ngoại lực cưỡng bức bằng hoặc rất gần với tần số riêng của hệ.",
+      "Biên độ của ngoại lực cưỡng bức đạt giá trị lớn nhất có thể.",
+      "Lực ma sát và cản của môi trường bằng không.",
+      "Pha ban đầu của ngoại lực bằng với pha ban đầu của hệ."
+    ],
+    "answer": "Tần số của ngoại lực cưỡng bức bằng hoặc rất gần với tần số riêng của hệ.",
+    "explanation": "Cộng hưởng xảy ra khi tần số lực cưỡng bức bằng tần số riêng, làm biên độ dao động vọt lên cực đại."
+  },
+  {
+    "question": "Để khắc phục sự tắt dần trong chiếc đồng hồ quả lắc, người ta thường áp dụng biện pháp nào?",
+    "options": [
+      "Cung cấp thêm năng lượng cho hệ sau mỗi chu kỳ bằng cơ cấu thích hợp.",
+      "Tăng khối lượng của quả lắc đồng hồ lên thật lớn.",
+      "Đặt đồng hồ vào môi trường chân không tuyệt đối.",
+      "Thay đổi hình dạng quả lắc liên tục khi chạy."
+    ],
+    "answer": "Cung cấp thêm năng lượng cho hệ sau mỗi chu kỳ bằng cơ cấu thích hợp.",
+    "explanation": "Hệ thống bổ sung năng lượng tiêu hao sau từng chu kỳ mà không đổi chu kỳ riêng được gọi là dao động duy trì."
+  },
+  {
+    "question": "Một vật dao động điều hòa dọc theo trục Ox quanh vị trí cân bằng O. Khi vật đi từ vị trí biên dương về vị trí cân bằng thì trạng thái chuyển động của vật ra sao?",
+    "options": [
+      "Vật chuyển động nhanh dần theo chiều âm.",
+      "Vật chuyển động chậm dần theo chiều âm.",
+      "Vật chuyển động nhanh dần theo chiều dương.",
+      "Vật chuyển động chậm dần theo chiều dương."
+    ],
+    "answer": "Vật chuyển động nhanh dần theo chiều âm.",
+    "explanation": "Vật đi từ biên dương về vị trí cân bằng là đi ngược chiều dương nên vận tốc có giá trị âm, đồng thời tốc độ tăng từ 0 lên cực đại nên là chuyển động nhanh dần."
+  },
+  {
+    "question": "Một vật dao động điều hòa có phương trình li độ dạng x = 5 cos(10 pi t + pi/3) cm. Hãy xác định pha ban đầu của dao động này.",
+    "options": [
+      "pi/3 rad",
+      "10 pi rad",
+      "5 rad",
+      "10 pi t + pi/3 rad"
+    ],
+    "answer": "pi/3 rad",
+    "explanation": "Pha ban đầu là hằng số góc đứng độc lập trong hàm cosin của phương trình dao động, ở đây là pi/3."
+  },
+  {
+    "question": "Một điểm trên pít-tông của động cơ dao động điều hòa trên một đoạn thẳng dài tổng cộng 12 cm. Biên độ dao động của điểm này bằng bao nhiêu?",
+    "options": [
+      "6 cm",
+      "12 cm",
+      "24 cm",
+      "3 cm"
+    ],
+    "answer": "6 cm",
+    "explanation": "Chiều dài quỹ đạo của vật dao động bằng hai lần biên độ (L = 2A). Suy ra biên độ A = 12 / 2 = 6 cm."
+  },
+  {
+    "question": "Một con lắc thực hiện được 20 dao động toàn phần trong khoảng thời gian đúng bằng 10 giây. Tần số dao động của con lắc này có giá trị là bao nhiêu?",
+    "options": [
+      "2 Hz",
+      "0.5 Hz",
+      "10 Hz",
+      "20 Hz"
+    ],
+    "answer": "2 Hz",
+    "explanation": "Tần số f bằng số dao động chia cho khoảng thời gian thực hiện: f = 20 / 10 = 2 Hz."
+  },
+  {
+    "question": "Khi tần số góc của một vật dao động điều hòa tăng lên gấp 2 lần trong khi biên độ dao động được giữ nguyên thì tốc độ cực đại của vật thay đổi như thế nào?",
+    "options": [
+      "Tăng lên gấp 2 lần.",
+      "Giảm đi 2 lần.",
+      "Tăng lên gấp 4 lần.",
+      "Không thay đổi."
+    ],
+    "answer": "Tăng lên gấp 2 lần.",
+    "explanation": "Tốc độ cực đại bằng tích tần số góc và biên độ. Biên độ giữ nguyên, tần số góc tăng 2 lần thì tốc độ cực đại tăng 2 lần."
+  },
+  {
+    "question": "Đối với một vật dao động điều hòa, mối quan hệ về hướng giữa lực kéo về tác dụng lên vật và li độ của vật tuân theo quy luật nào?",
+    "options": [
+      "Lực kéo về luôn ngược hướng với li độ và hướng về vị trí cân bằng.",
+      "Lực kéo về luôn cùng hướng với li độ của vật.",
+      "Lực kéo về chỉ hướng về vị trí cân bằng khi vật ở biên.",
+      "Lực kéo về có hướng vuông góc với li độ của vật."
+    ],
+    "answer": "Lực kéo về luôn ngược hướng với li độ và hướng về vị trí cân bằng.",
+    "explanation": "Lực kéo về có biểu thức tỉ lệ đối nghịch dấu với li độ, nên luôn ngược hướng với li độ và xu hướng kéo vật về lại O."
+  },
+  {
+    "question": "Trong một dao động điều hòa, khi động năng của vật đang giảm dần từ giá trị cực đại xuống bằng không thì thế năng của vật đang biến đổi ra sao?",
+    "options": [
+      "Thế năng đang tăng dần từ giá trị bằng không lên cực đại.",
+      "Thế năng đang giảm dần từ cực đại xuống bằng không.",
+      "Thế năng luôn giữ một giá trị không đổi cố định.",
+      "Thế năng cũng giảm đồng thời cùng động năng."
+    ],
+    "answer": "Thế năng đang tăng dần từ giá trị bằng không lên cực đại.",
+    "explanation": "Do tổng cơ năng bảo toàn, khi động năng giảm dần (vật đi từ vị trí cân bằng ra biên) thì thế năng phải tăng dần tương ứng từ không lên cực đại."
+  },
+  {
+    "question": "Một vật có khối lượng m dao động điều hòa với tần số góc w và biên độ A. Đại lượng cơ năng toàn phần của vật tỉ lệ thuận với đại lượng nào sau đây?",
+    "options": [
+      "Bình phương của biên độ dao động.",
+      "Biên độ dao động bậc nhất.",
+      "Căn bậc hai của biên độ dao động.",
+      "Nghịch đảo của biên độ dao động."
+    ],
+    "answer": "Bình phương của biên độ dao động.",
+    "explanation": "Công thức cơ năng bằng một nửa tích khối lượng, bình phương tần số góc và bình phương biên độ. Vì vậy nó tỉ lệ với bình phương biên độ."
+  },
+  {
+    "question": "Một vật dao động cưỡng bức ổn định dưới tác dụng của một ngoại lực tuần hoàn. Nếu ta thay đổi biên độ của ngoại lực cưỡng bức tăng lên thì biên độ dao động ổn định của hệ sẽ biến đổi thế nào?",
+    "options": [
+      "Tăng lên.",
+      "Giảm đi.",
+      "Không đổi vì tần số không đổi.",
+      "Giảm về bằng không."
+    ],
+    "answer": "Tăng lên.",
+    "explanation": "Biên độ của hệ dao động cưỡng bức phụ thuộc trực tiếp và tỉ lệ thuận với biên độ của ngoại lực kích thích bên ngoài."
+  },
+  {
+    "question": "Hiện tượng cộng hưởng cơ học có thể gây ra hậu quả nguy hại nào sau đây trong đời sống và kỹ thuật?",
+    "options": [
+      "Làm gãy sập các công trình cầu đường hoặc tòa nhà khi có sóng chấn động trùng tần số riêng.",
+      "Làm cho các vật dao động tắt dần nhanh hơn bình thường.",
+      "Làm giảm đi hiệu suất hoạt động của các hộp cộng hưởng nhạc cụ.",
+      "Làm cho thiết bị tiêu hao năng lượng điện nhiều hơn."
+    ],
+    "answer": "Làm gãy sập các công trình cầu đường hoặc tòa nhà khi có sóng chấn động trùng tần số riêng.",
+    "explanation": "Cộng hưởng làm biên độ dao động tăng đột biến, nếu vượt quá giới hạn chịu lực của vật liệu sẽ làm sụp đổ công trình."
+  },
+  {
+    "question": "Một vật dao động điều hòa dọc trục Ox với tần số 5 Hz. Khoảng thời gian ngắn nhất giữa hai lần liên tiếp vật đi qua vị trí cân bằng là bao nhiêu?",
+    "options": [
+      "0.1 giây",
+      "0.2 giây",
+      "0.5 giây",
+      "0.05 giây"
+    ],
+    "answer": "0.1 giây",
+    "explanation": "Chu kỳ T = 1 / f = 1 / 5 = 0.2 giây. Khoảng thời gian giữa hai lần liên tiếp vật qua vị trí cân bằng là nửa chu kỳ: 0.2 / 2 = 0.1 giây."
+  },
+  {
+    "question": "Hai dao động điều hòa cùng phương, cùng tần số được gọi là ngược pha với nhau khi độ lệch pha giữa chúng thỏa mãn điều kiện nào?",
+    "options": [
+      "Bằng một số lẻ lần pi.",
+      "Bằng một số chẵn lần pi.",
+      "Bằng một số lẻ lần pi/2.",
+      "Bằng không."
+    ],
+    "answer": "Bằng một số lẻ lần pi.",
+    "explanation": "Hai dao động ngược hướng nhau hoàn toàn khi góc lệch pha của chúng tương ứng với các số lẻ lần giá trị pi."
+  },
+  {
+    "question": "Khi một vật dao động điều hòa từ biên âm sang biên dương, đồ thị biểu diễn mối quan hệ giữa gia tốc a và li độ x có dạng hình học nào?",
+    "options": [
+      "Một đoạn thẳng đi qua gốc tọa độ có hệ số góc âm.",
+      "Một đường thẳng song song với trục hoành.",
+      "Một đường cong parabol hướng lên trên.",
+      "Một đường tròn tâm tại gốc tọa độ."
+    ],
+    "answer": "Một đoạn thẳng đi qua gốc tọa độ có hệ số góc âm.",
+    "explanation": "Do hệ thức a = - (w bình phương) * x biểu diễn mối quan hệ bậc nhất ngược dấu, đồ thị giới hạn trong khoảng biên độ là một đoạn thẳng có hướng đi xuống qua gốc O."
+  },
+  {
+    "question": "Một hệ dao động có tần số riêng là 10 Hz. Người ta đặt vào hệ các ngoại lực cưỡng bức có tần số lần lượt là f1 = 8 Hz, f2 = 12 Hz, f3 = 9.5 Hz, f4 = 11 Hz. Ngoại lực nào làm hệ dao động với biên độ lớn nhất?",
+    "options": [
+      "Ngoại lực có tần số f3 = 9.5 Hz.",
+      "Ngoại lực có tần số f1 = 8 Hz.",
+      "Ngoại lực có tần số f2 = 12 Hz.",
+      "Ngoại lực có tần số f4 = 11 Hz."
+    ],
+    "answer": "Ngoại lực có tần số f3 = 9.5 Hz.",
+    "explanation": "Biên độ dao động cưỡng bức đạt giá trị lớn hơn khi tần số ngoại lực tiến sát về gần tần số riêng (10 Hz). Ở đây 9.5 Hz là gần nhất."
+  },
+  {
+    "question": "Trong dao động điều hòa của một con lắc lò xo, nếu tăng khối lượng của vật nặng lên gấp 4 lần và giữ nguyên độ cứng lò xo thì tần số góc của hệ thay đổi như thế nào?",
+    "options": [
+      "Giảm đi 2 lần.",
+      "Tăng lên 2 lần.",
+      "Giảm đi 4 lần.",
+      "Tăng lên 4 lần."
+    ],
+    "answer": "Giảm đi 2 lần.",
+    "explanation": "Tần số góc tính bằng căn bậc hai của độ cứng chia khối lượng m. Khối lượng tăng 4 lần thì nằm trong căn sẽ làm tần số góc giảm đi 2 lần."
+  },
+  {
+    "question": "Một vật dao động điều hòa với phương trình li độ x = A cos(wt). Hãy tìm thời điểm đầu tiên vật qua vị trí cân bằng kể từ lúc bắt đầu khảo sát thời gian.",
+    "options": [
+      "Một phần tư chu kỳ.",
+      "Một nửa chu kỳ.",
+      "Một chu kỳ toàn phần.",
+      "Một phần tám chu kỳ."
+    ],
+    "answer": "Một phần tư chu kỳ.",
+    "explanation": "Tại thời điểm ban đầu t = 0, vật đang ở vị trí biên dương. Thời gian ngắn nhất để vật đi từ biên dương đến vị trí cân bằng bằng một phần tư chu kỳ (T/4)."
+  },
+  {
+    "question": "Một vật dao động điều hòa có biên độ bằng 8 cm. Khi li độ của vật là x = 4 cm thì tỉ số giữa động năng và thế năng của vật bằng bao nhiêu?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "0.33"
+    ],
+    "answer": "3",
+    "explanation": "Thế năng tỉ lệ với x bình phương (4 bình phương = 16). Cơ năng tỉ lệ với A bình phương (8 bình phương = 64). Động năng bằng cơ năng trừ thế năng (64 - 16 = 48). Tỉ số giữa động năng và thế năng bằng 48 / 16 = 3."
+  },
+  {
+    "question": "Một vật dao động điều hòa với phương trình x = 6 cos(5t) cm. Tốc độ cực đại của vật đạt được trong quá trình dao động là bao nhiêu?",
+    "options": [
+      "30 cm/s",
+      "6 cm/s",
+      "5 cm/s",
+      "1.2 cm/s"
+    ],
+    "answer": "30 cm/s",
+    "explanation": "Tốc độ cực đại v = w * A. Thay số vào ta được v = 5 * 6 = 30 cm/s."
+  },
+  {
+    "question": "Một vật dao động điều hòa với chu kỳ T = 2 giây. Gia tốc của vật đạt giá trị cực đại bằng 40 cm/s^2. Hãy xác định biên độ dao động của vật (lấy pi bình phương bằng 10).",
+    "options": [
+      "4 cm",
+      "2 cm",
+      "8 cm",
+      "10 cm"
+    ],
+    "answer": "4 cm",
+    "explanation": "Tần số góc w = 2 pi / T = pi (rad/s). Gia tốc cực đại bằng bình phương tần số góc nhân biên độ (pi bình phương * A = 10 * A = 40). Tính ra A = 4 cm."
+  },
+  {
+    "question": "Một con lắc lò xo dao động điều hòa. Khi vật đi qua vị trí có li độ bằng nửa biên độ thì động năng chiếm bao nhiêu phần trăm so với cơ năng toàn phần của hệ?",
+    "options": [
+      "75 phần trăm",
+      "25 phần trăm",
+      "50 phần trăm",
+      "86.6 phần trăm"
+    ],
+    "answer": "75 phần trăm",
+    "explanation": "Li độ x = A / 2 thì thế năng bằng 1/4 cơ năng toàn phần. Do đó lượng năng lượng còn lại của động năng chiếm 3/4 cơ năng, tức là 75 phần trăm."
+  },
+  {
+    "question": "Một vật khối lượng 100 gram dao động điều hòa với phương trình x = 4 cos(10t) cm. Tính lực kéo về cực đại tác dụng lên vật nặng này.",
+    "options": [
+      "0.4 N",
+      "4 N",
+      "40 N",
+      "0.04 N"
+    ],
+    "answer": "0.4 N",
+    "explanation": "Đổi đơn vị m = 0.1 kg, A = 0.04 m. Lực cực đại bằng tích khối lượng nhân bình phương tần số góc nhân biên độ: F = 0.1 * (10 bình phương) * 0.04 = 0.4 N."
+  },
+  {
+    "question": "Một vật dao động điều hòa thực hiện được 5 dao động toàn phần mất 2 giây. Biên độ dao động là 5 cm. Quãng đường tổng cộng vật đi được trong khoảng thời gian 1 giây kể từ lúc bắt đầu dao động là bao nhiêu?",
+    "options": [
+      "50 cm",
+      "25 cm",
+      "20 cm",
+      "10 cm"
+    ],
+    "answer": "50 cm",
+    "explanation": "Chu kỳ T = 2 / 5 = 0.4 giây. Trong thời gian 1 giây vật thực hiện được 1 / 0.4 = 2.5 chu kỳ. Một chu kỳ đi được quãng đường 4A = 20 cm. Vậy tổng quãng đường là 2.5 * 20 = 50 cm."
+  },
+  {
+    "question": "Một chất điểm dao động điều hòa trên trục Ox. Khi chất điểm có li độ x1 = 3 cm thì vận tốc của nó là v1 = 40 cm/s. Khi chất điểm có li độ x2 = 4 cm thì vận tốc của nó là v2 = 30 cm/s. Tính biên độ dao động A của chất điểm.",
+    "options": [
+      "5 cm",
+      "7 cm",
+      "25 cm",
+      "3.5 cm"
+    ],
+    "answer": "5 cm",
+    "explanation": "Sử dụng công thức liên hệ độc lập thời gian giữa li độ và vận tốc cho hai trạng thái, giải hệ phương trình tìm được tần số góc bằng 10 rad/s và biên độ A bằng 5 cm."
+  },
+  {
+    "question": "Một con lắc lò xo gồm lò xo có độ cứng k = 50 N/m dao động điều hòa. Biết cơ năng toàn phần của con lắc thu được là W = 0.04 J. Biên độ dao động của con lắc bằng bao nhiêu?",
+    "options": [
+      "4 cm",
+      "2 cm",
+      "40 cm",
+      "1.6 cm"
+    ],
+    "answer": "4 cm",
+    "explanation": "Từ hệ thức cơ năng W = 0.5 * k * A^2, thay số ta có 0.04 = 0.5 * 50 * A^2 dẫn đến A^2 = 0.0016. Rút căn thu được A = 0.04 m, tương ứng đổi ra bằng 4 cm."
+  },
+  {
+    "question": "Một vật dao động điều hòa dọc theo trục Ox. Biết khoảng thời gian giữa hai lần liên tiếp vật đạt tốc độ cực đại là 0.5 giây. Tần số góc của dao động này có giá trị bằng bao nhiêu?",
+    "options": [
+      "2 pi rad/s",
+      "pi rad/s",
+      "4 pi rad/s",
+      "0.5 pi rad/s"
+    ],
+    "answer": "2 pi rad/s",
+    "explanation": "Vật đạt tốc độ cực đại tại vị trí cân bằng. Thời gian giữa hai lần liên tiếp qua vị trí cân bằng là nửa chu kỳ (T/2 = 0.5 s), suy ra chu kỳ T = 1 s. Tần số góc w = 2 pi / T = 2 pi rad/s."
+  },
+  {
+    "question": "Một con lắc lò xo dao động điều hòa trên trục ngang. Khi vật nặng đi qua vị trí cân bằng thì người ta giữ cố định một điểm chính giữa của lò xo lại. Trạng thái dao động của vật sau đó sẽ thay đổi như thế nào về tần số góc?",
+    "options": [
+      "Tần số góc tăng lên căn 2 lần.",
+      "Tần số góc giảm đi 2 lần.",
+      "Tần số góc tăng lên 2 lần.",
+      "Tần số góc không thay đổi."
+    ],
+    "answer": "Tần số góc tăng lên căn 2 lần.",
+    "explanation": "Khi giữ điểm chính giữa, chiều dài lò xo hoạt động giảm đi một nửa nên độ cứng tăng lên gấp 2 lần. Do tần số góc tỉ lệ với căn bậc hai của độ cứng lò xo nên giá trị mới sẽ tăng lên căn 2 lần."
+  },
+  {
+    "question": "Một vật dao động điều hòa có phương trình li độ x = 5 cos(4 pi t - pi/6) cm. Xác định thời điểm thứ hai vật đi qua vị trí x = 2.5 cm theo chiều dương kể từ thời điểm t = 0.",
+    "options": [
+      "0.50 giây",
+      "0.25 giây",
+      "0.75 giây",
+      "1.00 giây"
+    ],
+    "answer": "0.50 giây",
+    "explanation": "Chu kỳ dao động T = 2 pi / 4 pi = 0.5 giây. Phân tích trạng thái pha trên đường tròn lượng giác cho thấy khoảng thời gian từ lúc bắt đầu dao động đến khi vật gặp lại đúng trạng thái đó lần thứ hai (cùng vị trí và cùng chiều dương) mất đúng bằng một chu kỳ tròn, tức là 0.50 giây."
+  },
+  {
+    "question": "Một chất điểm dao động điều hòa có đồ thị vận tốc hình sin. Biết vận tốc cực đại của vật là 20 pi cm/s và gia tốc cực đại đo được là 200 pi bình phương cm/s^2. Tính biên độ dao động A.",
+    "options": [
+      "2 cm",
+      "4 cm",
+      "5 cm",
+      "10 cm"
+    ],
+    "answer": "2 cm",
+    "explanation": "Tần số góc w bằng gia tốc cực đại chia cho vận tốc cực đại: 200 pi bình phương / 20 pi = 10 pi rad/s. Biên độ A bằng vận tốc cực đại chia tần số góc: 20 pi / 10 pi = 2 cm."
+  },
+  {
+    "question": "Một con lắc lò xo gồm vật nặng m và lò xo độ cứng k đang dao động với chu kỳ T. Nếu cắt bớt lò xo chỉ giữ lại một phần ba chiều dài ban đầu rồi nối lại vào vật m thì chu kỳ dao động mới thay đổi thế nào?",
+    "options": [
+      "Giảm đi căn 3 lần.",
+      "Tăng lên 3 lần.",
+      "Giảm đi 3 lần.",
+      "Tăng lên căn 3 lần."
+    ],
+    "answer": "Giảm đi căn 3 lần.",
+    "explanation": "Chiều dài giảm 3 lần khiến độ cứng lò xo k tăng lên gấp 3 lần. Vì chu kỳ tỉ lệ nghịch với căn bậc hai của độ cứng lò xo nên chu kỳ dao động mới sẽ giảm đi căn 3 lần."
+  },
+  {
+    "question": "Một vật thực hiện đồng thời hai dao động điều hòa cùng phương cùng tần số có biên độ tương ứng lần lượt là A1 = 6 cm và A2 = 8 cm. Biết hai dao động này vuông pha với nhau. Biên độ dao động tổng hợp của vật có giá trị là bao nhiêu?",
+    "options": [
+      "10 cm",
+      "14 cm",
+      "2 cm",
+      "4.8 cm"
+    ],
+    "answer": "10 cm",
+    "explanation": "Áp dụng công thức tổng hợp dao động cho trường hợp đặc biệt hai thành phần lệch pha nhau góc vuông, biên độ tổng hợp bằng căn bậc hai của tổng các bình phương biên độ thành phần: căn của (6 bình phương + 8 bình phương) = 10 cm."
+  }
+]

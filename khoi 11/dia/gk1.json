@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Các quốc gia trên thế giới được chia thành hai nhóm nước nào sau đây?",
+    "options": [
+      "Nhóm nước phát triển và nhóm nước đang phát triển",
+      "Nhóm nước công nghiệp và nhóm nước nông nghiệp",
+      "Nhóm nước nội địa và nhóm nước hải đảo",
+      "Nhóm nước xuất khẩu và nhóm nước nhập khẩu"
+    ],
+    "answer": "Nhóm nước phát triển và nhóm nước đang phát triển",
+    "explanation": "Dựa vào các chỉ số kinh tế xã hội, Liên hợp quốc và các tổ chức quốc tế phân chia các quốc gia trên thế giới thành hai nhóm nước chính là nhóm nước phát triển và nhóm nước đang phát triển."
+  },
+  {
+    "question": "Chỉ số nào sau đây được sử dụng làm tiêu chuẩn để đánh giá trình độ phát triển người dân của một quốc gia?",
+    "options": [
+      "Chỉ số phát triển con người HDI",
+      "Tổng sản phẩm trong nước GDP",
+      "Tỉ suất sinh thô hàng năm",
+      "Cán cân xuất nhập khẩu quốc gia"
+    ],
+    "answer": "Chỉ số phát triển con người HDI",
+    "explanation": "Chỉ số phát triển con người HDI là thước đo tổng hợp về các mặt sức khỏe, giáo dục và thu nhập, dùng để đánh giá chất lượng cuộc sống và sự phát triển con người."
+  },
+  {
+    "question": "Nhóm nước phát triển thường có đặc điểm nào sau đây về cơ cấu kinh tế?",
+    "options": [
+      "Tỉ trọng ngành dịch vụ rất cao trong GDP",
+      "Tỉ trọng ngành nông nghiệp chiếm đa số",
+      "Ngành khai thác khoáng sản đóng vai trò chủ đạo",
+      "Công nghiệp sơ chế thô chiếm tỉ lệ lớn nhất"
+    ],
+    "answer": "Tỉ trọng ngành dịch vụ rất cao trong GDP",
+    "explanation": "Các nước phát triển đã trải qua quá trình công nghiệp hóa và đang tiến vào nền kinh tế tri thức, vì vậy ngành dịch vụ chiếm tỉ trọng áp đảo trong cơ cấu kinh tế."
+  },
+  {
+    "question": "Tổ chức thương mại thế giới được viết tắt bằng cụm từ nào sau đây?",
+    "options": [
+      "WTO",
+      "IMF",
+      "WB",
+      "ASEAN"
+    ],
+    "answer": "WTO",
+    "explanation": "WTO là tên viết tắt tiếng Anh của Tổ chức Thương mại Thế giới, có vai trò giám sát và tự do hóa thương mại toàn cầu."
+  },
+  {
+    "question": "Biểu hiện nào sau đây chứng minh cho xu hướng toàn cầu hóa kinh tế?",
+    "options": [
+      "Các dòng vốn đầu tư quốc tế tăng trưởng nhanh chóng",
+      "Mỗi quốc gia tự đóng cửa thị trường nội địa",
+      "Việc thắt chặt biên giới hàng hóa giữa các vùng",
+      "Các nước chỉ giao thương với quốc gia lân cận"
+    ],
+    "answer": "Các dòng vốn đầu tư quốc tế tăng trưởng nhanh chóng",
+    "explanation": "Toàn cầu hóa kinh tế thể hiện ở sự tăng trưởng mạnh mẽ của thương mại quốc tế, dòng vốn đầu tư nước ngoài, thị trường tài chính quốc tế và vai trò của các công ty đa quốc gia."
+  },
+  {
+    "question": "Hiện tượng gia tăng nhiệt độ trung bình của Trái Đất do khí thải nhà kính được gọi là gì?",
+    "options": [
+      "Biến đổi khí hậu toàn cầu",
+      "Hiện tượng động đất sóng thần",
+      "Quá trình sa mạc hóa cục bộ",
+      "Sự suy giảm đa dạng sinh học"
+    ],
+    "answer": "Biến đổi khí hậu toàn cầu",
+    "explanation": "Sự gia tăng lượng khí thải nhà kính từ các hoạt động sản xuất làm giữ nhiệt ở khí quyển, dẫn đến hiện tượng nóng lên toàn cầu và biến đổi khí hậu."
+  },
+  {
+    "question": "Khu vực Mỹ La-tinh nằm chủ yếu ở bán cầu nào và tiếp giáp với hai đại dương lớn nào?",
+    "options": [
+      "Bán cầu Tây, tiếp giáp Đại Tây Dương và Thái Bình Dương",
+      "Bán cầu Đông, tiếp giáp Ấn Độ Dương và Đại Tây Dương",
+      "Bán cầu Bắc, tiếp giáp Bắc Băng Dương và Thái Bình Dương",
+      "Bán cầu Nam, tiếp giáp Ấn Độ Dương và Thái Bình Dương"
+    ],
+    "answer": "Bán cầu Tây, tiếp giáp Đại Tây Dương và Thái Bình Dương",
+    "explanation": "Mỹ La-tinh nằm hoàn toàn ở bán cầu Tây, trải dài từ phía nam nước Mỹ đến tận cùng Nam Mỹ, bao quanh bởi Đại Tây Dương ở phía đông và Thái Bình Dương ở phía tây."
+  },
+  {
+    "question": "Dạng địa hình nào sau đây chiếm diện tích lớn và có ý nghĩa quan trọng ở phía đông lãnh thổ Mỹ La-tinh?",
+    "options": [
+      "Các sơn nguyên và đồng bằng rộng lớn",
+      "Hệ thống núi trẻ cao và đồ sộ",
+      "Các hoang mạc cát có cao độ lớn",
+      "Vùng trũng thấp ngập nước quanh năm"
+    ],
+    "answer": "Các sơn nguyên và đồng bằng rộng lớn",
+    "explanation": "Địa hình Mỹ La-tinh phân hóa rõ rệt, phía tây là miền núi trẻ An-đét cao vút, còn phía đông là các đồng bằng lớn như A-ma-zôn và các sơn nguyên như Bra-xin."
+  },
+  {
+    "question": "Hệ thống núi trẻ đồ sộ nhất nằm ở phía tây khu vực Mỹ La-tinh có tên là gì?",
+    "options": [
+      "Dãy An-đét",
+      "Dãy Hi-ma-lay-a",
+      "Dãy An-pơ",
+      "Dãy A-pa-lat"
+    ],
+    "answer": "Dãy An-đét",
+    "explanation": "Dãy An-đét là chuỗi núi ven biển dài nhất thế giới, chạy dọc theo bờ phía tây của lục địa Nam Mỹ thuộc khu vực Mỹ La-tinh."
+  },
+  {
+    "question": "Đồng bằng nào sau đây có diện tích lớn nhất khu vực Mỹ La-tinh và thế giới?",
+    "options": [
+      "Đồng bằng A-ma-zôn",
+      "Đồng bằng La Pla-ta",
+      "Đồng bằng Pam-pa",
+      "Đồng bằng Ô-ri-nô-cô"
+    ],
+    "answer": "Đồng bằng A-ma-zôn",
+    "explanation": "Đồng bằng A-ma-zôn nằm ở trung tâm Nam Mỹ, là đồng bằng châu thổ có diện tích rộng lớn nhất hành tinh với mạng lưới sông ngòi dày đặc."
+  },
+  {
+    "question": "Loại đất nào sau đây chiếm diện tích lớn trên các sơn nguyên của Mỹ La-tinh, thuận lợi cho trồng cây công nghiệp?",
+    "options": [
+      "Đất phèn đất mặn ven biển",
+      "Đất cát nghèo dinh dưỡng",
+      "Đất đỏ ba-zan và đất feralit",
+      "Đất đài nguyên băng giá"
+    ],
+    "answer": "Đất đỏ ba-zan và đất feralit",
+    "explanation": "Các sơn nguyên rộng lớn ở Mỹ La-tinh có nguồn gốc núi lửa hoặc phong hóa lâu đời, tạo nên các dải đất đỏ ba-zan và feralit màu mỡ."
+  },
+  {
+    "question": "Khu vực Mỹ La-tinh sở hữu loại rừng nào có diện tích lớn nhất thế giới, được mệnh danh là lá phổi xanh của hành tinh?",
+    "options": [
+      "Rừng nhiệt đới A-ma-zôn",
+      "Rừng lá kim Taiga",
+      "Rừng ngập mặn ven Địa Trung Hải",
+      "Rừng thưa xavan nửa khô hạn"
+    ],
+    "answer": "Rừng nhiệt đới A-ma-zôn",
+    "explanation": "Rừng rậm nhiệt đới vùng A-ma-zôn là thảm rừng nhiệt đới lớn nhất hành tinh, đóng vai trò điều hòa khí hậu toàn cầu ổn định."
+  },
+  {
+    "question": "Tình trạng người dân nông thôn di cư tự do vào các thành phố lớn ở Mỹ La-tinh dẫn đến hiện tượng gì?",
+    "options": [
+      "Đô thị hóa tự phát",
+      "Đô thị hóa bền vững",
+      "Giảm quy mô dân số thành thị",
+      "Hiện tượng nông thôn hóa đô thị"
+    ],
+    "answer": "Đô thị hóa tự phát",
+    "explanation": "Do kinh tế nông thôn khó khăn, người dân nghèo kéo ra thành phố tìm việc làm, đẩy tỉ lệ dân thành thị tăng rất nhanh nhưng không gắn liền với công nghiệp hóa, gọi là đô thị hóa tự phát."
+  },
+  {
+    "question": "Quốc gia nào sau đây được xếp vào nhóm nước phát triển?",
+    "options": [
+      "Nhật Bản",
+      "Ấn Độ",
+      "Cu-ba",
+      "Nam Phi"
+    ],
+    "answer": "Nhật Bản",
+    "explanation": "Nhật Bản là cường quốc kinh tế ở châu Á, có thu nhập bình quân đầu người cao, công nghệ tiên tiến và chỉ số HDI thuộc nhóm rất cao nên là nước phát triển."
+  },
+  {
+    "question": "Một trong những biểu hiện của xu hướng khu vực hóa kinh tế là sự xuất hiện của tổ chức nào?",
+    "options": [
+      "Các liên minh kinh tế khu vực",
+      "Các quốc gia hoàn toàn biệt lập",
+      "Hệ thống tiền tệ toàn cầu thống nhất",
+      "Thị trường lao động không biên giới"
+    ],
+    "answer": "Các liên minh kinh tế khu vực",
+    "explanation": "Khu vực hóa kinh tế dẫn tới sự hình thành các tổ chức liên kết kinh tế đặc thù theo khu vực địa lí như EU, ASEAN, MERCOSUR."
+  },
+  {
+    "question": "Vấn đề an ninh nào sau đây liên quan trực tiếp đến việc đảm bảo đủ nguồn lương thực, thực phẩm cho người dân tránh bị đói?",
+    "options": [
+      "An ninh lương thực",
+      "An ninh năng lượng",
+      "An ninh nguồn nước",
+      "An ninh không gian mạng"
+    ],
+    "answer": "An ninh lương thực",
+    "explanation": "An ninh lương thực là việc đảm bảo mọi người dân có quyền tiếp cận nguồn lương thực đầy đủ, an toàn và dinh dưỡng để duy trì cuộc sống khỏe mạnh."
+  },
+  {
+    "question": "Loại khoáng sản kim loại nào có trữ lượng đặc biệt lớn tại vùng núi An-đét của Mỹ La-tinh?",
+    "options": [
+      "Đồng và dầu mỏ",
+      "Than đá và quặng sắt",
+      "Đồng, chì, kẽm, bạc",
+      "U-ra-ni-um và phốt-phát"
+    ],
+    "answer": "Đồng, chì, kẽm, bạc",
+    "explanation": "Vùng núi trẻ An-đét hình thành trên ranh giới kiến tạo tích tụ lượng khoáng sản kim loại màu cực kỳ dồi dào như đồng, chì, kẽm và bạc."
+  },
+  {
+    "question": "Ngôn ngữ chủ yếu được sử dụng ở phần lớn các quốc gia khu vực Mỹ La-tinh hiện nay là gì?",
+    "options": [
+      "Tiếng Tây Ban Nha và tiếng Bồ Đào Nha",
+      "Tiếng Anh và tiếng Pháp bản địa",
+      "Tiếng Ả-rập và tiếng Hin-di",
+      "Tiếng Nga và tiếng Trung Quốc"
+    ],
+    "answer": "Tiếng Tây Ban Nha và tiếng Bồ Đào Nha",
+    "explanation": "Do lịch sử thuộc địa lâu dài bởi Tây Ban Nha và Bồ Đào Nha, các cư dân Mỹ La-tinh hiện nay sử dụng chủ yếu hệ ngôn ngữ La-tinh này."
+  },
+  {
+    "question": "Thành phần dân cư chiếm tỉ lệ lớn nhất trong cơ cấu dân tộc của Mỹ La-tinh là gì?",
+    "options": [
+      "Người lai",
+      "Người da đen gốc Phi",
+      "Người da vàng bản địa",
+      "Người da trắng thuần chủng"
+    ],
+    "answer": "Người lai",
+    "explanation": "Sự hòa huyết lâu đời giữa người bản địa da đỏ, người gốc châu Âu và người gốc châu Phi tạo nên một cộng đồng người lai chiếm ưu thế lớn tại Mỹ La-tinh."
+  },
+  {
+    "question": "Vấn đề an ninh mạng toàn cầu hướng tới mục đích cốt lõi nào sau đây?",
+    "options": [
+      "Bảo vệ hệ thống dữ liệu, thông tin và internet tránh bị tấn công",
+      "Ngăn chặn hoàn toàn sự phát triển của công nghệ máy tính",
+      "Cấm người dân truy cập mạng xã hội ở các châu lục",
+      "Tăng giá cước sử dụng internet trên phạm vi toàn cầu"
+    ],
+    "answer": "Bảo vệ hệ thống dữ liệu, thông tin và internet tránh bị tấn công",
+    "explanation": "An ninh mạng là tổng hợp các biện pháp bảo vệ hệ thống mạng máy tính, thiết bị, phần mềm và dữ liệu quốc gia trước các đe dọa xâm nhập trái phép."
+  },
+  {
+    "question": "Sự khác biệt rõ nét nhất về chỉ số GNI bình quân đầu người giữa nhóm nước phát triển và đang phát triển là gì?",
+    "options": [
+      "Nhóm nước phát triển có GNI bình quân đầu người cao gấp nhiều lần nhóm đang phát triển",
+      "Nhóm nước đang phát triển có thu nhập vượt trội so với nhóm phát triển",
+      "Chỉ số thu nhập của hai nhóm nước hoàn toàn bằng nhau tại mọi thời điểm",
+      "Nhóm nước phát triển không tính chỉ số thu nhập này vào tài khoản kinh tế"
+    ],
+    "answer": "Nhóm nước phát triển có GNI bình quân đầu người cao gấp nhiều lần nhóm đang phát triển",
+    "explanation": "Các nước phát triển có quy mô kinh tế lớn, công nghệ cao nên GNI bình quân đầu người ở mức rất cao, trong khi các nước đang phát triển ở mức trung bình hoặc thấp."
+  },
+  {
+    "question": "Tại sao các công ty đa quốc gia được xem là động lực thúc đẩy mạnh mẽ xu hướng toàn cầu hóa kinh tế?",
+    "options": [
+      "Vì họ sở hữu nguồn vốn lớn, mạng lưới sản xuất và chi nhánh xuyên quốc gia",
+      "Vì các công ty này chỉ hoạt động kinh doanh trong phạm vi một tỉnh lẻ",
+      "Vì họ ngăn cản việc chuyển giao công nghệ giữa các châu lục",
+      "Vì họ yêu cầu các nước giữ nguyên mô hình kinh tế bao cấp tự cấp"
+    ],
+    "answer": "Vì họ sở hữu nguồn vốn lớn, mạng lưới sản xuất và chi nhánh xuyên quốc gia",
+    "explanation": "Các công ty đa quốc gia kết nối các chuỗi cung ứng sản xuất trên toàn cầu, thúc đẩy dòng chảy vốn, nhân lực và hàng hóa giữa các quốc gia diễn ra liên tục."
+  },
+  {
+    "question": "Hệ quả tiêu cực lớn nhất của khu vực hóa kinh tế đối với các nước có nền kinh tế yếu kém là gì?",
+    "options": [
+      "Nguy cơ bị tụt hậu, mất quyền tự chủ kinh tế nếu không thích ứng được áp lực cạnh tranh",
+      "Làm cho nguồn tài nguyên thiên nhiên của quốc gia đó tự động tăng lên",
+      "Khiến tất cả người dân phải di cư ra nước ngoài sinh sống ngay lập tức",
+      "Làm mất đi vĩnh viễn vị trí địa lí tự nhiên vốn có của quốc gia"
+    ],
+    "answer": "Nguy cơ bị tụt hậu, mất quyền tự chủ kinh tế nếu không thích ứng được áp lực cạnh tranh",
+    "explanation": "Khi gia nhập vào các khối kinh tế khu vực, các nước phải mở cửa thị trường. Nền kinh tế yếu kém nếu không tự đổi mới sẽ bị hàng hóa nước ngoài lấn lướt, dẫn đến phụ thuộc."
+  },
+  {
+    "question": "Tại sao khủng hoảng an ninh năng lượng tại một khu vực lại nhanh chóng tác động đến toàn cầu?",
+    "options": [
+      "Vì các nền kinh tế thế giới phụ thuộc lẫn nhau và dầu mỏ có tính thương mại toàn cầu cao",
+      "Vì tất cả các dòng sông trên thế giới đều bắt nguồn chung từ một nhà máy",
+      "Vì năng lượng mặt trời chỉ chiếu sáng vào một quốc gia duy nhất",
+      "Vì các nước nghèo không có nhu cầu sử dụng năng lượng cho cuộc sống"
+    ],
+    "answer": "Vì các nền kinh tế thế giới phụ thuộc lẫn nhau và dầu mỏ có tính thương mại toàn cầu cao",
+    "explanation": "Năng lượng là đầu vào của mọi hoạt động sản xuất. Sự gián đoạn nguồn cung (như dầu mỏ, khí đốt) ở một nơi sẽ đẩy giá năng lượng thế giới tăng vọt, gây lạm phát toàn cầu."
+  },
+  {
+    "question": "Đặc điểm khí hậu nào sau đây của khu vực Mỹ La-tinh chiếm diện tích lớn nhất, ảnh hưởng lớn đến cảnh quan rừng?",
+    "options": [
+      "Khí hậu nhiệt đới ẩm và xích đạo nóng ẩm quanh năm",
+      "Khí hậu ôn đới hải dương quanh năm băng giá lạnh sâu",
+      "Khí hậu hoang mạc khô cằn hoàn toàn không có mưa",
+      "Khí hậu cận cực lục địa có mùa đông kéo dài mười tháng"
+    ],
+    "answer": "Khí hậu nhiệt đới ẩm and xích đạo nóng ẩm quanh năm",
+    "explanation": "Mỹ La-tinh có phần lớn diện tích nằm trong vùng nội chí tuyến, chịu ảnh hưởng mạnh của các khối khí đại dương mang lại mưa lớn, hình thành kiểu khí hậu xích đạo và nhiệt đới ẩm."
+  },
+  {
+    "question": "Tại sao lưu vực sông A-ma-zôn lại có mật độ dân cư rất thấp dù địa hình bằng phẳng?",
+    "options": [
+      "Khí hậu xích đạo nóng ẩm, rừng rậm rạp dày đặc gây khó khăn cho cư trú",
+      "Do lòng sông hoàn toàn không có nước ngọt để người dân ăn uống",
+      "Do chính phủ cấm con người bước chân vào khu vực đồng bằng này",
+      "Vì vùng đất này thường xuyên xảy ra bão tuyết và đóng băng mặt đất"
+    ],
+    "answer": "Khí hậu xích đạo nóng ẩm, rừng rậm rạp dày đặc gây khó khăn cho cư trú",
+    "explanation": "Đồng bằng A-ma-zôn có địa hình bằng phẳng nhưng khí hậu quá nóng ẩm, rừng rậm rạp che phủ diện tích lớn, môi trường phát sinh nhiều dịch bệnh, không thuận lợi cho việc định cư con người."
+  },
+  {
+    "question": "Nguyên nhân chính nào làm cho một số quốc gia Mỹ La-tinh có tỉ lệ dân thành thị cao bất thường trên tám mươi phần trăm?",
+    "options": [
+      "Do quá trình đô thị hóa tự phát, dân nghèo mất đất ở nông thôn tràn ra thành phố",
+      "Do các thành phố này có nền công nghiệp hiện đại đứng đầu toàn cầu",
+      "Do chính phủ thu hồi toàn bộ diện tích đất ở vùng nông thôn để giữ rừng",
+      "Do người dân thành thị sinh con nhiều gấp hàng chục lần người nông thôn"
+    ],
+    "answer": "Do quá trình đô thị hóa tự phát, dân nghèo mất đất ở nông thôn tràn ra thành phố",
+    "explanation": "Tỉ lệ dân thành thị cao ở Mỹ La-tinh không phản ánh đúng trình độ phát triển kinh tế mà là kết quả của dòng người nghèo di cư tự phát từ nông thôn ra thành thị để tìm sinh kế."
+  },
+  {
+    "question": "Xu hướng già hóa dân số ở nhóm nước phát triển mang lại thách thức lớn nhất nào sau đây?",
+    "options": [
+      "Thiếu hụt nguồn lao động trong tương lai và gia tăng chi phí phúc lợi xã hội",
+      "Làm giảm tốc độ đô thị hóa một cách nghiêm trọng ở các thành phố lớn",
+      "Làm cạn kiệt toàn bộ nguồn tài nguyên khoáng sản trong lòng đất",
+      "Khiến cho người dân không muốn sử dụng các thiết bị công nghệ thông minh"
+    ],
+    "answer": "Thiếu hụt nguồn lao động trong tương lai và gia tăng chi phí phúc lợi xã hội",
+    "explanation": "Già hóa dân số đồng nghĩa tỉ lệ người trong độ tuổi lao động giảm đi, trong khi nhu cầu chi trả lương hưu và chăm sóc sức khỏe cho người già tăng cao, đè nặng lên ngân sách."
+  },
+  {
+    "question": "Biểu hiện nào sau đây cho thấy vai trò của cuộc cách mạng khoa học công nghệ hiện đại đối với nền kinh tế tri thức?",
+    "options": [
+      "Tri thức trở thành yếu tố đóng góp quan trọng nhất trong sự tăng trưởng kinh tế",
+      "Cơ bắp con người vẫn là lực lượng duy nhất quyết định năng suất nhà máy",
+      "Mọi hoạt động sản xuất nông nghiệp đều quay lại thời kỳ nguyên thủy",
+      "Việc tiêu thụ tài nguyên khoáng sản thô tăng mạnh gấp nhiều lần trước đây"
+    ],
+    "answer": "Tri thức trở thành yếu tố đóng góp quan trọng nhất trong sự tăng trưởng kinh tế",
+    "explanation": "Trong nền kinh tế tri thức, tài sản trí tuệ, công nghệ thông tin và chất xám của con người đóng vai trò cốt lõi làm tăng giá trị sản phẩm, thay vì chỉ dựa vào vốn hay tài nguyên thô."
+  },
+  {
+    "question": "Vì sao các quốc gia đang phát triển thường nỗ lực thu hút dòng vốn đầu tư trực tiếp nước ngoài FDI?",
+    "options": [
+      "Để giải quyết thiếu hụt vốn nội địa, tiếp thu công nghệ và tạo việc làm",
+      "Để biến quốc gia mình thành thuộc địa kiểu mới của các tập đoàn nước ngoài",
+      "Để đóng cửa toàn bộ các doanh nghiệp sản xuất truyền thống trong nước",
+      "Để giảm bớt quy mô dân số và hạn chế việc người dân đi học tập"
+    ],
+    "answer": "Để giải quyết thiếu hụt vốn nội địa, tiếp thu công nghệ và tạo việc làm",
+    "explanation": "Dòng vốn FDI mang lại nguồn tài chính lớn, đi kèm với đó là công nghệ quản lý hiện đại và dây chuyền sản xuất mới, giúp giải quyết việc làm cho lao động tại chỗ."
+  },
+  {
+    "question": "Nền kinh tế của nhiều quốc gia Mỹ La-tinh chuyển biến chậm và phụ thuộc nước ngoài chủ yếu do nguyên nhân nào?",
+    "options": [
+      "Duy trì mô hình kinh tế thuộc địa kéo dài, cải cách ruộng đất không triệt để",
+      "Thiếu hoàn toàn nguồn tài nguyên thiên nhiên và khoáng sản để phát triển",
+      "Người dân địa phương hoàn toàn từ chối tham gia các hoạt động giao thương",
+      "Vị trí địa lí nằm quá biệt lập giữa các đại dương không thể kết nối đường biển"
+    ],
+    "answer": "Duy trì mô hình kinh tế thuộc địa kéo dài, cải cách ruộng đất không triệt để",
+    "explanation": "Lịch sử Mỹ La-tinh chịu ảnh hưởng sâu sắc từ chế độ đại điền trang thời thuộc địa. Việc phân phối đất đai không đều và phụ thuộc vào tư bản nước ngoài làm cho kinh tế thiếu tính tự chủ."
+  },
+  {
+    "question": "Việc phân bố dân cư không đều ở Mỹ La-tinh thể hiện ở việc dân cư tập trung đông đúc ở vùng nào?",
+    "options": [
+      "Vùng ven biển và các vùng đô thị, sơn nguyên có khí hậu mát mẻ",
+      "Sâu trong lòng rừng rậm nhiệt đới ẩm vùng đồng bằng A-ma-zôn",
+      "Trên các đỉnh núi cao hiểm trở có tuyết phủ quanh năm của dãy An-đét",
+      "Giữa các hoang mạc khô cằn hoàn toàn không có nguồn nước mặt"
+    ],
+    "answer": "Vùng ven biển và các vùng đô thị, sơn nguyên có khí hậu mát mẻ",
+    "explanation": "Dân cư Mỹ La-tinh tập trung chủ yếu ở vùng ven biển đại dương thuận lợi giao thương, hoặc các sơn nguyên cao có khí hậu mát mẻ ôn hòa hơn vùng đồng bằng nóng ẩm."
+  },
+  {
+    "question": "Tại sao việc bảo vệ rừng A-ma-zôn không chỉ là nhiệm vụ riêng của khu vực Mỹ La-tinh mà mang tính toàn cầu?",
+    "options": [
+      "Vì rừng A-ma-zôn điều hòa khí hậu toàn cầu và lưu trữ đa dạng sinh học lớn",
+      "Vì toàn bộ gỗ từ rừng này được dùng làm nguyên liệu xây nhà cho mọi quốc gia",
+      "Vì nếu rừng biến mất thì toàn bộ nước biển trên thế giới sẽ bốc hơi hết",
+      "Vì đây là nơi duy nhất con người có thể tìm thấy các mỏ dầu thô lớn"
+    ],
+    "answer": "Vì rừng A-ma-zôn điều hòa khí hậu toàn cầu và lưu trữ đa dạng sinh học lớn",
+    "explanation": "Rừng A-ma-zôn hấp thụ lượng lớn khí CO2 và nhả khí O2 cho Trái Đất, là lá phổi xanh điều hòa khí quyển chung của nhân loại và bảo tồn hàng triệu loài sinh vật quý hiếm."
+  },
+  {
+    "question": "Một trong những rủi ro lớn nhất từ vấn đề an ninh lương thực toàn cầu đối với các nước nghèo là gì?",
+    "options": [
+      "Nguy cơ suy dinh dưỡng, đói nghèo diện rộng gây mất ổn định an ninh chính trị",
+      "Làm cho giá các mặt hàng đồ điện tử thông minh tăng lên nhanh chóng",
+      "Khiến cho lượng nước mưa đổ xuống quốc gia đó bị suy giảm nghiêm trọng",
+      "Làm mất đi toàn bộ hệ thống đường biên giới quốc gia trên đất liền"
+    ],
+    "answer": "Nguy cơ suy dinh dưỡng, đói nghèo diện rộng gây mất ổn định an ninh chính trị",
+    "explanation": "Thiếu lương thực gây ra nạn đói, suy giảm sức khỏe cộng đồng, dẫn tới bất ổn xã hội, bạo loạn và xung đột nội bộ nghiêm trọng ở các quốc gia kém phát triển."
+  },
+  {
+    "question": "Đặc điểm tự nhiên nào của miền tây Mỹ La-tinh ảnh hưởng lớn nhất đến sự phát triển giao thông vận tải kết nối đông tây?",
+    "options": [
+      "Địa hình núi trẻ An-đét cao, hiểm trở, chia cắt mạnh bờ biển phía tây",
+      "Hệ thống sông ngòi nước ngọt quá dày đặc làm sạt lở đường bộ",
+      "Sự bao phủ của các dải sa mạc cát di động theo hướng gió mùa",
+      "Hiện tượng đóng băng kéo dài quanh năm của hệ thống hồ trên núi"
+    ],
+    "answer": "Địa hình núi trẻ An-đét cao, hiểm trở, chia cắt mạnh bờ biển phía tây",
+    "explanation": "Dãy An-đét như một bức tường thành đồ sộ chạy dọc phía tây, gây trở ngại vô cùng lớn cho việc xây dựng đường giao thông kết nối các vùng kinh tế phía đông và phía tây."
+  },
+  {
+    "question": "Ý nghĩa kinh tế lớn nhất của các hiệp định thương mại tự do FTA mang lại cho các nước thành viên là gì?",
+    "options": [
+      "Xóa bỏ rào cản thuế quan, mở rộng thị trường xuất nhập khẩu hàng hóa",
+      "Ngăn cấm hoàn toàn dòng vốn đầu tư từ các quốc gia bên ngoài khối",
+      "Đồng loạt tăng thuế suất lên mức tối đa đối với mọi mặt hàng tiêu dùng",
+      "Xóa bỏ hoàn toàn đơn vị tiền tệ riêng biệt của từng quốc gia thành viên"
+    ],
+    "answer": "Xóa bỏ rào cản thuế quan, mở rộng thị trường xuất nhập khẩu hàng hóa",
+    "explanation": "Các hiệp định FTA cắt giảm hoặc xóa bỏ thuế quan giữa các nước thành viên, giúp hàng hóa lưu thông dễ dàng, thúc đẩy kim ngạch xuất nhập khẩu phát triển mạnh."
+  },
+  {
+    "question": "Để khắc phục tình trạng nợ nước ngoài cao, nhiều quốc gia Mỹ La-tinh cần ưu tiên giải pháp cấu trúc nào?",
+    "options": [
+      "Cơ cấu lại nền kinh tế, tăng cường tự chủ và đẩy mạnh xuất khẩu hàng chế biến",
+      "Tiếp tục vay thêm các khoản nợ mới với lãi suất cao để chi tiêu tiêu dùng",
+      "Tuyên bố đóng cửa nền kinh tế, ngừng toàn bộ hoạt động giao thương quốc tế",
+      "Biến toàn bộ đất canh tác thành các khu vui chơi giải trí để thu phí"
+    ],
+    "answer": "Cơ cấu lại nền kinh tế, tăng cường tự chủ và đẩy mạnh xuất khẩu hàng chế biến",
+    "explanation": "Để thoát bẫy nợ, các nước Mỹ La-tinh cần giảm phụ thuộc vào hàng thô, nâng cao hàm lượng công nghệ sản xuất trong nước, kiểm soát chi tiêu công ngân sách hiệu quả."
+  },
+  {
+    "question": "Tại sao các quốc gia phát triển thường có tỉ lệ đóng góp của ngành công nghiệp tri thức, công nghệ cao vào GDP rất lớn?",
+    "options": [
+      "Do họ sở hữu đội ngũ lao động trình độ cao và đầu tư lớn cho nghiên cứu",
+      "Do các nước này có diện tích đất nông nghiệp lớn nhất thế giới",
+      "Do họ nhập khẩu toàn bộ sức lao động chân tay thô sơ từ các hành tinh khác",
+      "Do chính phủ cấm người dân làm việc trong các ngành dịch vụ truyền thống"
+    ],
+    "answer": "Do họ sở hữu đội ngũ lao động trình độ cao và đầu tư lớn cho nghiên cứu",
+    "explanation": "Các nước phát triển có hệ thống giáo dục tiên tiến, tiềm lực tài chính dồi dào để đầu tư cho các trung tâm nghiên cứu phát triển R và D, làm chủ các công nghệ lõi độc quyền."
+  },
+  {
+    "question": "Hệ quả tích cực của việc toàn cầu hóa đối với thị trường lao động ở các nước đang phát triển là gì?",
+    "options": [
+      "Tạo cơ hội tiếp cận việc làm quốc tế và nâng cao trình độ tay nghề lao động",
+      "Làm giảm tiền lương cơ bản của toàn bộ công nhân trong nhà máy xuống tối thiểu",
+      "Khiến người lao động không cần phải học tập hay đào tạo chuyên môn nữa",
+      "Xóa bỏ hoàn toàn nhu cầu sử dụng nhân lực trong mọi hoạt động sản xuất"
+    ],
+    "answer": "Tạo cơ hội tiếp cận việc làm quốc tế và nâng cao trình độ tay nghề lao động",
+    "explanation": "Toàn cầu hóa mở ra thị trường lao động tự do, các doanh nghiệp nước ngoài yêu cầu tiêu chuẩn cao buộc lao động địa phương phải tự học tập nâng cao năng lực để thích ứng."
+  },
+  {
+    "question": "Biện pháp bền vững nhất giúp các nước giải quyết xung đột về an ninh nguồn nước trên các dòng sông liên quốc gia là gì?",
+    "options": [
+      "Ký kết các hiệp định, điều ước quốc tế về chia sẻ và quản lý hợp lý nguồn nước",
+      "Xây dựng đập chắn nước lớn ở khu vực biên giới để giữ riêng nguồn nước",
+      "Đổ các chất hóa học xuống dòng sông để ngăn nước chảy sang nước láng giềng",
+      "Sử dụng các biện pháp quân sự để kiểm soát toàn bộ lưu vực con sông"
+    ],
+    "answer": "Ký kết các hiệp định, điều ước quốc tế về chia sẻ và quản lý hợp lý nguồn nước",
+    "explanation": "Sông liên quốc gia cần sự đồng thuận quản lý của mọi nước thuộc lưu vực. Việc hợp tác đa phương thông qua các ủy ban sông quốc tế là con đường duy nhất tránh xung đột và bảo vệ tài nguyên nước."
+  },
+  {
+    "question": "Đặc điểm nào của mạng lưới sông ngòi Mỹ La-tinh tạo điều kiện lý tưởng cho phát triển công nghiệp thủy điện?",
+    "options": [
+      "Sông ngòi có lưu lượng nước lớn, chảy qua địa hình dốc của sơn nguyên, miền núi",
+      "Các dòng sông đều ngắn, dốc và hoàn toàn khô cạn nước vào mùa hè",
+      "Nước sông chảy rất chậm trên các đồng bằng bằng phẳng ven biển đại dương",
+      "Hệ thống sông chỉ hình thành từ nguồn nước đóng băng ở khu vực đài nguyên"
+    ],
+    "answer": "Sông ngòi có lưu lượng nước lớn, chảy qua địa hình dốc của sơn nguyên, miền núi",
+    "explanation": "Khí hậu mưa nhiều làm sông ngòi Mỹ La-tinh (như sông Pa-ra-na, A-ma-zôn) có lượng nước dồi dào, khi chảy từ các sơn nguyên cao xuống tạo ra trữ năng thủy điện vô cùng lớn."
+  },
+  {
+    "question": "Vì sao cuộc cải cách ruộng đất không triệt để ở Mỹ La-tinh lại cản trở sự phát triển nông nghiệp?",
+    "options": [
+      "Đất canh tác tập trung trong tay các đại điền chủ, người nông dân thiếu đất sản xuất",
+      "Do toàn bộ diện tích đất nông nghiệp đã bị biến thành hoang mạc cát hóa",
+      "Do người dân không biết cách sử dụng các loại nông cụ thô sơ để cày cấy",
+      "Do chính phủ quy định mỗi người dân chỉ được sở hữu tối đa một mét vuông đất"
+    ],
+    "answer": "Đất canh tác tập trung trong tay các đại điền chủ, người nông dân thiếu đất sản xuất",
+    "explanation": "Đất đai chủ yếu thuộc sở hữu của các chủ trang trại lớn (latifundium) nhưng họ lại canh tác theo lối quảng canh kém hiệu quả, trong khi đa số nông dân nghèo không có đất làm cản trở động lực sản xuất."
+  },
+  {
+    "question": "Tại sao các nước đang phát triển cần thận trọng trước làn sóng chuyển giao công nghệ cũ từ các nước phát triển?",
+    "options": [
+      "Công nghệ lạc hậu gây nguy cơ ô nhiễm môi trường và tiêu tốn nhiều năng lượng",
+      "Công nghệ cũ sẽ làm cho sản phẩm làm ra có chất lượng quá cao không ai mua",
+      "Vì các thiết bị cũ tự động làm tăng quy mô dân số của nước nhập khẩu",
+      "Vì sử dụng máy móc cũ sẽ khiến đất đai tự động bị sụt lún xuống biển"
+    ],
+    "answer": "Công nghệ lạc hậu gây nguy cơ ô nhiễm môi trường và tiêu tốn nhiều năng lượng",
+    "explanation": "Các nước phát triển có xu hướng đẩy công nghệ cũ, thâm dụng năng lượng và gây ô nhiễm sang các nước đang phát triển. Nếu không sàng lọc, các nước nhận đầu tư sẽ phải trả giá đắt về môi trường."
+  },
+  {
+    "question": "Một quốc gia muốn nâng cao chỉ số phát triển con người HDI một cách bền vững cần ưu tiên đầu tư vào những lĩnh vực nào?",
+    "options": [
+      "Y tế, giáo dục và cải thiện thu nhập bình quân của người dân",
+      "Xây dựng thật nhiều các khu vui chơi giải trí cao cấp ở đô thị",
+      "Khai thác tối đa nguồn khoáng sản thô để bán ra thị trường nước ngoài",
+      "Gia tăng các khoản vay nợ dài hạn từ các tổ chức tài chính quốc tế"
+    ],
+    "answer": "Y tế, giáo dục và cải thiện thu nhập bình quân của người dân",
+    "explanation": "Ba trụ cột cấu thành nên chỉ số HDI là Tuổi thọ trung bình (Y tế), Số năm đi học trung bình (Giáo dục) và GNI bình quân đầu người (Thu nhập). Do đó đầu tư vào ba mảng này là chìa khóa tăng HDI."
+  },
+  {
+    "question": "Hệ quả nào sau đây của biến đổi khí hậu ảnh hưởng trực tiếp và nghiêm trọng nhất đến các đảo quốc và vùng đồng bằng ven biển thế giới?",
+    "options": [
+      "Băng tan ở hai cực làm mực nước biển dâng cao gây ngập lụt diện rộng",
+      "Làm cho độ sâu của các rãnh đại dương sâu thêm hàng ngàn mét",
+      "Khiến cho lớp vỏ Trái Đất bị nứt nẻ và tạo ra các hoang mạc mới trên biển",
+      "Làm ngưng trệ hoàn toàn hoạt động của các dòng hải lưu nóng ngoài khơi"
+    ],
+    "answer": "Băng tan ở hai cực làm mực nước biển dâng cao gây ngập lụt diện rộng",
+    "explanation": "Trái Đất nóng lên khiến băng ở Nam Cực và Greenland tan chảy, thể tích nước biển giãn nở làm mực nước biển dâng, đe dọa trực tiếp đến sự tồn tại của các vùng đất thấp ven biển."
+  },
+  {
+    "question": "Tại sao việc khai thác tài nguyên khoáng sản ở khu vực Mỹ La-tinh hiện nay chưa mang lại hiệu quả kinh tế tối ưu cho người dân bản địa?",
+    "options": [
+      "Chủ yếu xuất khẩu khoáng sản thô giá trị thấp và phần lớn lợi nhuận thuộc về tư bản nước ngoài",
+      "Do hàm lượng kim loại trong các mỏ khoáng sản tại đây quá thấp dưới một phần trăm",
+      "Do người dân địa phương không được phép làm việc trong các khu mỏ khai khoáng",
+      "Do chi phí vận chuyển khoáng sản bằng đường biển cao hơn giá trị của khoáng sản"
+    ],
+    "answer": "Chủ yếu xuất khẩu khoáng sản thô giá trị thấp và phần lớn lợi nhuận thuộc về tư bản nước ngoài",
+    "explanation": "Mỹ La-tinh giàu khoáng sản nhưng công nghiệp chế biến sâu chưa phát triển, chủ yếu khai thác xuất thô thô sơ. Thêm vào đó, nhiều mỏ lớn do tập đoàn nước ngoài nắm giữ nên lợi nhuận chảy ra nước ngoài."
+  },
+  {
+    "question": "Tác động tiêu cực lớn nhất của xu hướng toàn cầu hóa đối với bản sắc văn hóa dân tộc của các nước đang phát triển là gì?",
+    "options": [
+      "Nguy cơ xói mòn, đánh mất các giá trị văn hóa truyền thống trước sự xâm nhập của văn hóa ngoại lai",
+      "Làm cho các di tích lịch sử tự động biến mất và không thể phục dựng lại",
+      "Khiến cho người dân không thể sử dụng tiếng mẹ đẻ trong sinh hoạt hàng ngày",
+      "Làm tăng chi phí tổ chức các lễ hội văn hóa dân gian ở làng quê"
+    ],
+    "answer": "Nguy cơ xói mòn, đánh mất các giá trị văn hóa truyền thống trước sự xâm nhập của văn hóa ngoại lai",
+    "explanation": "Sự giao thoa văn hóa quá nhanh qua internet và truyền thông toàn cầu dễ khiến giới trẻ ở các nước đang phát triển chạy theo lối sống phương Tây, lãng quên các giá trị cốt lõi, phong tục truyền thống của dân tộc."
+  },
+  {
+    "question": "Một doanh nghiệp muốn thành lập trang trại chăn nuôi gia súc lớn theo hướng hiện đại ở Mỹ La-tinh nên lựa chọn vị trí địa lí nào?",
+    "options": [
+      "Vùng thảo nguyên Pam-pa hoặc các sơn nguyên có đồng cỏ rộng lớn",
+      "Sâu trong hoang mạc A-ta-ca-ma khô cằn hoàn toàn không có cỏ mọc",
+      "Trên các vách đá dốc đứng phía tây vùng núi cao An-đét",
+      "Vùng đầm lầy ngập nước quanh năm ven cửa sông A-ma-zôn"
+    ],
+    "answer": "Vùng thảo nguyên Pam-pa hoặc các sơn nguyên có đồng cỏ rộng lớn",
+    "explanation": "Thảo nguyên Pam-pa (Ác-hên-ti-na) và các sơn nguyên ở Bra-xin có khí hậu ôn hòa hoặc nhiệt đới xavan, tạo nên những đồng cỏ tự nhiên xanh tốt rộng mênh mông, cực kỳ thích hợp cho chăn nuôi đại gia súc lấy thịt, sữa."
+  },
+  {
+    "question": "Hiện tượng bẫy thu nhập trung bình ở một số quốc gia Mỹ La-tinh được hiểu là tình trạng kinh tế nào sau đây?",
+    "options": [
+      "Kinh tế đạt đến mức thu nhập trung bình nhưng chững lại, không thể bứt phá thành nước phát triển",
+      "Thu nhập của toàn bộ người dân đột ngột giảm xuống mức nghèo đói cùng cực",
+      "Chính phủ cấm mức thu nhập của người lao động vượt quá mức trung bình thế giới",
+      "Nền kinh tế hoàn toàn biến mất các hoạt động sản xuất công nghiệp và dịch vụ"
+    ],
+    "answer": "Kinh tế đạt đến mức thu nhập trung bình nhưng chững lại, không thể bứt phá thành nước phát triển",
+    "explanation": "Bẫy thu nhập trung bình xảy ra khi một nước thoát nghèo thành công nhờ lợi thế lao động rẻ, tài nguyên thô nhưng khi chi phí tăng lên, họ không cạnh tranh được với nước nghèo khác, lại chưa đủ công nghệ để cạnh tranh với nước giàu, khiến tăng trưởng trì trệ dài hạn."
+  },
+  {
+    "question": "Hậu quả môi trường lâu dài nguy hiểm nhất của việc xây dựng các tuyến đường xuyên đại lộ qua rừng rậm A-ma-zôn là gì?",
+    "options": [
+      "Chia cắt hệ sinh thái, gia tăng tốc độ phá rừng, mất đa dạng sinh học và mất cân bằng sinh thái",
+      "Làm cho hệ thống sông ngòi xung quanh khu vực tự động đảo ngược dòng chảy ra biển",
+      "Khiến cho lượng khoáng sản kim loại màu dưới lòng đất tự động bốc hơi biến mất",
+      "Làm tăng tần suất xuất hiện của các trận bão tuyết cực đoan ở vùng nội chí tuyến"
+    ],
+    "answer": "Chia cắt hệ sinh thái, gia tăng tốc độ phá rừng, mất đa dạng sinh học và mất cân bằng sinh thái",
+    "explanation": "Xây đường xuyên qua rừng nguyên sinh làm xé nhỏ không gian sống của các loài động thực vật, tạo đường thuận lợi cho lâm tặc vào khai thác gỗ trái phép, đẩy nhanh tốc độ hủy hoại rừng và làm biến đổi khí hậu khu vực sâu sắc."
+  }
+]

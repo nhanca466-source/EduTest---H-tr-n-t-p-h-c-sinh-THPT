@@ -1,0 +1,553 @@
+[
+  {
+    "question": "Dao động cơ là gì?",
+    "options": [
+      "Chuyển động của một vật dưới tác dụng của trọng lực.",
+      "Chuyển động có giới hạn trong không gian, lặp đi lặp lại quanh một vị trí cân bằng.",
+      "Chuyển động thẳng đều.",
+      "Chuyển động tròn đều."
+    ],
+    "answer": "Chuyển động có giới hạn trong không gian, lặp đi lặp lại quanh một vị trí cân bằng.",
+    "explanation": "Theo định nghĩa dao động cơ, vật chuyển động qua lại quanh vị trí cân bằng."
+  },
+  {
+    "question": "Trong phương trình dao động điều hoà x = A cos(ωt + φ), đại lượng A được gọi là gì?",
+    "options": [
+      "Tần số góc.",
+      "Chu kì.",
+      "Biên độ dao động.",
+      "Pha ban đầu."
+    ],
+    "answer": "Biên độ dao động.",
+    "explanation": "Trong phương trình li độ, A là biên độ dao động, thể hiện độ lệch cực đại so với vị trí cân bằng."
+  },
+  {
+    "question": "Đơn vị của chu kì dao động trong hệ SI là gì?",
+    "options": [
+      "Hertz (Hz).",
+      "Giây (s).",
+      "Rad/s.",
+      "Mét (m)."
+    ],
+    "answer": "Giây (s).",
+    "explanation": "Chu kì là khoảng thời gian vật thực hiện một dao động toàn phần nên đơn vị là giây."
+  },
+  {
+    "question": "Tần số f và chu kì T có mối liên hệ nào sau đây?",
+    "options": [
+      "f = 1/T.",
+      "f = T.",
+      "f = 2πT.",
+      "f = T/2π."
+    ],
+    "answer": "f = 1/T.",
+    "explanation": "Tần số là số dao động vật thực hiện được trong một giây, nghịch đảo với chu kì."
+  },
+  {
+    "question": "Hiện tượng cộng hưởng xảy ra khi nào?",
+    "options": [
+      "Khi vật dao động với biên độ giảm dần.",
+      "Khi tần số của ngoại lực cưỡng bức bằng tần số dao động riêng của hệ.",
+      "Khi lực ma sát của môi trường triệt tiêu.",
+      "Khi ngoại lực tác dụng lên vật không đổi."
+    ],
+    "answer": "Khi tần số của ngoại lực cưỡng bức bằng tần số dao động riêng của hệ.",
+    "explanation": "Cộng hưởng là hiện tượng biên độ dao động cưỡng bức tăng đến giá trị cực đại khi tần số ngoại lực bằng tần số dao động riêng."
+  },
+  {
+    "question": "Sóng cơ là gì?",
+    "options": [
+      "Sự lan truyền dao động cơ trong một môi trường đàn hồi.",
+      "Chuyển động của các hạt vật chất trong môi trường.",
+      "Sự dịch chuyển của dòng điện trong dây dẫn.",
+      "Chuyển động của vật ném ngang."
+    ],
+    "answer": "Sự lan truyền dao động cơ trong một môi trường đàn hồi.",
+    "explanation": "Sóng cơ là sự lan truyền của dao động qua các phần tử môi trường vật chất."
+  },
+  {
+    "question": "Sóng ngang là sóng có phương dao động của các phần tử môi trường như thế nào so với phương truyền sóng?",
+    "options": [
+      "Trùng với phương truyền sóng.",
+      "Vuông góc với phương truyền sóng.",
+      "Nằm ngang.",
+      "Thẳng đứng."
+    ],
+    "answer": "Vuông góc với phương truyền sóng.",
+    "explanation": "Đây là đặc điểm định nghĩa sóng ngang."
+  },
+  {
+    "question": "Sóng dọc là sóng có phương dao động của các phần tử môi trường như thế nào so với phương truyền sóng?",
+    "options": [
+      "Trùng với phương truyền sóng.",
+      "Vuông góc với phương truyền sóng.",
+      "Luôn hướng lên trên.",
+      "Luôn hướng xuống dưới."
+    ],
+    "answer": "Trùng với phương truyền sóng.",
+    "explanation": "Đây là đặc điểm định nghĩa sóng dọc."
+  },
+  {
+    "question": "Bước sóng λ được tính bằng công thức nào?",
+    "options": [
+      "λ = v.T.",
+      "λ = v/T.",
+      "λ = T/v.",
+      "λ = v + T."
+    ],
+    "answer": "λ = v.T.",
+    "explanation": "Bước sóng là quãng đường sóng truyền được trong một chu kì."
+  },
+  {
+    "question": "Đơn vị của tần số là gì?",
+    "options": [
+      "Giây (s).",
+      "Mét (m).",
+      "Hertz (Hz).",
+      "Rad/s."
+    ],
+    "answer": "Hertz (Hz).",
+    "explanation": "Đơn vị đo tần số theo chuẩn quốc tế là Hertz."
+  },
+  {
+    "question": "Đại lượng nào sau đây đặc trưng cho tính tuần hoàn của dao động theo thời gian?",
+    "options": [
+      "Biên độ.",
+      "Tần số góc.",
+      "Li độ.",
+      "Chu kì."
+    ],
+    "answer": "Chu kì.",
+    "explanation": "Chu kì là khoảng thời gian ngắn nhất để trạng thái dao động lặp lại."
+  },
+  {
+    "question": "Điện trường là gì?",
+    "options": [
+      "Dạng vật chất bao quanh điện tích.",
+      "Một loại dòng điện.",
+      "Chuyển động của các electron.",
+      "Sự tương tác của nam châm."
+    ],
+    "answer": "Dạng vật chất bao quanh điện tích.",
+    "explanation": "Điện trường là dạng vật chất bao quanh các điện tích và truyền tương tác giữa chúng."
+  },
+  {
+    "question": "Cường độ dòng điện được đo bằng đại lượng nào?",
+    "options": [
+      "Ampe (A).",
+      "Volt (V).",
+      "Ohm (Ω).",
+      "Joule (J)."
+    ],
+    "answer": "Ampe (A).",
+    "explanation": "Cường độ dòng điện là đại lượng đo bằng Ampe kế, đơn vị là Ampe."
+  },
+  {
+    "question": "Đơn vị của điện trở là gì?",
+    "options": [
+      "Ampe (A).",
+      "Volt (V).",
+      "Ohm (Ω).",
+      "Watt (W)."
+    ],
+    "answer": "Ohm (Ω).",
+    "explanation": "Điện trở biểu thị khả năng cản trở dòng điện, đơn vị là Ohm."
+  },
+  {
+    "question": "Trong mạch điện, nguồn điện có chức năng gì?",
+    "options": [
+      "Tiêu thụ điện năng.",
+      "Duy trì hiệu điện thế để tạo ra dòng điện.",
+      "Làm tăng điện trở của dây dẫn.",
+      "Đo cường độ dòng điện."
+    ],
+    "answer": "Duy trì hiệu điện thế để tạo ra dòng điện.",
+    "explanation": "Nguồn điện cung cấp năng lượng và duy trì hiệu điện thế để dòng điện chạy trong mạch."
+  },
+  {
+    "question": "Định luật Ohm cho toàn mạch liên hệ giữa các đại lượng nào?",
+    "options": [
+      "I, R, P.",
+      "E, r, R, I.",
+      "U, I, P.",
+      "E, I, P."
+    ],
+    "answer": "E, r, R, I.",
+    "explanation": "Định luật Ohm toàn mạch là I = E / (R + r)."
+  },
+  {
+    "question": "Công suất điện của một đoạn mạch được tính bằng công thức nào?",
+    "options": [
+      "P = U.I.",
+      "P = U/I.",
+      "P = I.R.",
+      "P = U^2.I."
+    ],
+    "answer": "P = U.I.",
+    "explanation": "Công suất điện tiêu thụ bằng tích của hiệu điện thế và cường độ dòng điện."
+  },
+  {
+    "question": "Tụ điện có tác dụng gì trong mạch điện?",
+    "options": [
+      "Tích và phóng điện.",
+      "Tạo ra từ trường.",
+      "Tăng cường độ dòng điện.",
+      "Chuyển hóa điện năng thành cơ năng."
+    ],
+    "answer": "Tích và phóng điện.",
+    "explanation": "Tụ điện là linh kiện có khả năng tích trữ và phóng điện."
+  },
+  {
+    "question": "Đơn vị của điện thế là gì?",
+    "options": [
+      "Ohm.",
+      "Ampe.",
+      "Volt.",
+      "Joule."
+    ],
+    "answer": "Volt.",
+    "explanation": "Điện thế đặc trưng cho khả năng sinh công của điện trường tại một điểm, đơn vị là Volt."
+  },
+  {
+    "question": "Phát biểu nào sau đây về dao động tắt dần là đúng?",
+    "options": [
+      "Là dao động có biên độ không đổi.",
+      "Là dao động có tần số thay đổi.",
+      "Là dao động có biên độ giảm dần theo thời gian.",
+      "Là dao động có chu kì tăng dần."
+    ],
+    "answer": "Là dao động có biên độ giảm dần theo thời gian.",
+    "explanation": "Dao động tắt dần xảy ra do ma sát hoặc lực cản môi trường làm năng lượng giảm."
+  },
+  {
+    "question": "Một vật dao động điều hoà với phương trình x = 5 cos(10t + π/3) (cm). Tần số góc của dao động là bao nhiêu?",
+    "options": [
+      "5 rad/s.",
+      "10 rad/s.",
+      "π/3 rad/s.",
+      "10t rad/s."
+    ],
+    "answer": "10 rad/s.",
+    "explanation": "Dựa vào phương trình dạng x = A cos(ωt + φ), ta thấy ω = 10 rad/s."
+  },
+  {
+    "question": "Vận tốc của vật dao động điều hoà tại vị trí cân bằng có đặc điểm gì?",
+    "options": [
+      "Bằng 0.",
+      "Đạt giá trị cực đại.",
+      "Đạt giá trị cực tiểu.",
+      "Bằng biên độ."
+    ],
+    "answer": "Đạt giá trị cực đại.",
+    "explanation": "Khi qua vị trí cân bằng, li độ x = 0, vận tốc đạt cực đại v = ωA."
+  },
+  {
+    "question": "Tại vị trí biên, gia tốc của vật dao động điều hoà có độ lớn như thế nào?",
+    "options": [
+      "Bằng 0.",
+      "Đạt cực tiểu.",
+      "Đạt cực đại.",
+      "Bằng vận tốc."
+    ],
+    "answer": "Đạt cực đại.",
+    "explanation": "Tại biên, độ lớn li độ cực đại nên gia tốc a = -ω^2x cũng đạt độ lớn cực đại."
+  },
+  {
+    "question": "Khi sóng truyền từ môi trường này sang môi trường khác, đại lượng nào sau đây không đổi?",
+    "options": [
+      "Tần số.",
+      "Bước sóng.",
+      "Vận tốc.",
+      "Biên độ."
+    ],
+    "answer": "Tần số.",
+    "explanation": "Tần số của sóng chỉ phụ thuộc vào nguồn sóng nên không đổi khi truyền giữa các môi trường."
+  },
+  {
+    "question": "Một vật dao động điều hoà có chu kì T = 2s. Tần số của dao động là bao nhiêu?",
+    "options": [
+      "1 Hz.",
+      "0,5 Hz.",
+      "2 Hz.",
+      "4 Hz."
+    ],
+    "answer": "0,5 Hz.",
+    "explanation": "f = 1/T = 1/2 = 0,5 Hz."
+  },
+  {
+    "question": "Hai nguồn sóng kết hợp là hai nguồn có đặc điểm gì?",
+    "options": [
+      "Cùng biên độ.",
+      "Cùng tần số và độ lệch pha không đổi theo thời gian.",
+      "Cùng vận tốc truyền sóng.",
+      "Cùng bước sóng nhưng khác tần số."
+    ],
+    "answer": "Cùng tần số và độ lệch pha không đổi theo thời gian.",
+    "explanation": "Điều kiện để có giao thoa sóng là hai nguồn phải kết hợp."
+  },
+  {
+    "question": "Điện trường đều có đặc điểm gì?",
+    "options": [
+      "Có cường độ tại mọi điểm bằng nhau cả về hướng và độ lớn.",
+      "Có cường độ giảm dần theo khoảng cách.",
+      "Có hướng thay đổi liên tục.",
+      "Chỉ tồn tại xung quanh điện tích dương."
+    ],
+    "answer": "Có cường độ tại mọi điểm bằng nhau cả về hướng và độ lớn.",
+    "explanation": "Điện trường đều có cường độ điện trường giống nhau tại mọi điểm."
+  },
+  {
+    "question": "Công thức tính điện trở của dây dẫn hình trụ là R = ρ.l/S. Trong đó ρ là gì?",
+    "options": [
+      "Chiều dài dây.",
+      "Tiết diện dây.",
+      "Điện trở suất.",
+      "Cường độ dòng điện."
+    ],
+    "answer": "Điện trở suất.",
+    "explanation": "ρ là điện trở suất đặc trưng cho vật liệu làm dây dẫn."
+  },
+  {
+    "question": "Theo định luật Ohm cho đoạn mạch chỉ có điện trở R, nếu hiệu điện thế U tăng gấp đôi thì cường độ dòng điện I thay đổi thế nào?",
+    "options": [
+      "Không đổi.",
+      "Tăng gấp đôi.",
+      "Giảm một nửa.",
+      "Tăng gấp bốn."
+    ],
+    "answer": "Tăng gấp đôi.",
+    "explanation": "Vì I = U/R, nên khi U tăng gấp đôi thì I cũng tăng gấp đôi."
+  },
+  {
+    "question": "Tại sao năng lượng của con lắc lò xo không được bảo toàn trong thực tế?",
+    "options": [
+      "Vì có lực cản môi trường làm tiêu hao cơ năng.",
+      "Vì lò xo không đàn hồi tốt.",
+      "Vì trọng lực không thay đổi.",
+      "Vì biên độ dao động quá lớn."
+    ],
+    "answer": "Vì có lực cản môi trường làm tiêu hao cơ năng.",
+    "explanation": "Ma sát và lực cản biến một phần cơ năng thành nhiệt năng."
+  },
+  {
+    "question": "Một vật dao động điều hoà với biên độ A = 4cm. Quãng đường vật đi được trong một chu kì là bao nhiêu?",
+    "options": [
+      "4 cm.",
+      "8 cm.",
+      "12 cm.",
+      "16 cm."
+    ],
+    "answer": "16 cm.",
+    "explanation": "Trong một chu kì, vật đi được quãng đường là 4A = 4 * 4 = 16 cm."
+  },
+  {
+    "question": "Trong hiện tượng giao thoa sóng, tại những điểm có biên độ cực đại, hiệu đường đi của hai sóng từ hai nguồn đến đó là gì?",
+    "options": [
+      "Là một số nguyên lần bước sóng (d2 - d1 = k.λ).",
+      "Là một số bán nguyên lần bước sóng (d2 - d1 = (k+0,5).λ).",
+      "Luôn bằng 0.",
+      "Là một số chẵn lần bước sóng."
+    ],
+    "answer": "Là một số nguyên lần bước sóng (d2 - d1 = k.λ).",
+    "explanation": "Điều kiện cực đại giao thoa là hiệu đường đi bằng số nguyên lần bước sóng."
+  },
+  {
+    "question": "Một sóng truyền trên mặt nước với bước sóng λ = 2m. Khoảng cách giữa hai đỉnh sóng liên tiếp là bao nhiêu?",
+    "options": [
+      "1 m.",
+      "2 m.",
+      "4 m.",
+      "0,5 m."
+    ],
+    "answer": "2 m.",
+    "explanation": "Bước sóng là khoảng cách giữa hai đỉnh sóng liên tiếp."
+  },
+  {
+    "question": "Khi mắc hai điện trở R1 và R2 nối tiếp, điện trở tương đương của mạch là gì?",
+    "options": [
+      "R = R1.R2 / (R1+R2).",
+      "R = R1 + R2.",
+      "R = 1/R1 + 1/R2.",
+      "R = R1 - R2."
+    ],
+    "answer": "R = R1 + R2.",
+    "explanation": "Đối với đoạn mạch nối tiếp, điện trở tương đương bằng tổng các điện trở thành phần."
+  },
+  {
+    "question": "Đơn vị của công suất điện là gì?",
+    "options": [
+      "Volt (V).",
+      "Ampe (A).",
+      "Ohm (Ω).",
+      "Watt (W)."
+    ],
+    "answer": "Watt (W).",
+    "explanation": "Công suất được đo bằng Watt."
+  },
+  {
+    "question": "Một con lắc lò xo dao động với phương trình x = 10cos(2πt) (cm). Vận tốc cực đại của vật là bao nhiêu?",
+    "options": [
+      "10 cm/s.",
+      "20 cm/s.",
+      "20π cm/s.",
+      "10π cm/s."
+    ],
+    "answer": "20π cm/s.",
+    "explanation": "Vận tốc cực đại v_max = ωA = 2π * 10 = 20π (cm/s)."
+  },
+  {
+    "question": "Hai dao động cùng pha có độ lệch pha là bao nhiêu?",
+    "options": [
+      "0.",
+      "π/2.",
+      "π.",
+      "2π."
+    ],
+    "answer": "0.",
+    "explanation": "Hai dao động cùng pha khi độ lệch pha là một số chẵn lần π (k2π)."
+  },
+  {
+    "question": "Sóng dừng xảy ra trên dây đàn khi nào?",
+    "options": [
+      "Sóng truyền đi không trở lại.",
+      "Sóng tới và sóng phản xạ chồng chất lên nhau tạo thành các nút và bụng.",
+      "Dây đàn không dao động.",
+      "Sóng truyền trong chân không."
+    ],
+    "answer": "Sóng tới và sóng phản xạ chồng chất lên nhau tạo thành các nút và bụng.",
+    "explanation": "Sóng dừng là kết quả của sự giao thoa giữa sóng tới và sóng phản xạ."
+  },
+  {
+    "question": "Trong mạch điện kín, nếu điện trở mạch ngoài R tăng lên, thì cường độ dòng điện I thay đổi thế nào (giả sử E, r không đổi)?",
+    "options": [
+      "Tăng.",
+      "Giảm.",
+      "Không đổi.",
+      "Tăng rồi giảm."
+    ],
+    "answer": "Giảm.",
+    "explanation": "I = E / (R+r), khi mẫu số (R+r) tăng thì I giảm."
+  },
+  {
+    "question": "Năng lượng của một tụ điện có điện dung C tích điện U được tính bằng công thức nào?",
+    "options": [
+      "W = C.U.",
+      "W = 0,5.C.U^2.",
+      "W = C.U^2.",
+      "W = 0,5.C.U."
+    ],
+    "answer": "W = 0,5.C.U^2.",
+    "explanation": "Công thức năng lượng tụ điện là W = 1/2 * C * U^2."
+  },
+  {
+    "question": "Một vật dao động điều hoà có phương trình x = 5cos(2πt + π/2) (cm). Tại thời điểm t = 0,5s, li độ của vật là bao nhiêu?",
+    "options": [
+      "0 cm.",
+      "2,5 cm.",
+      "5 cm.",
+      "-5 cm."
+    ],
+    "answer": "0 cm.",
+    "explanation": "Tại t = 0,5s, pha là 2π*0,5 + π/2 = π + π/2 = 3π/2. cos(3π/2) = 0 nên x = 0."
+  },
+  {
+    "question": "Hai nguồn sóng kết hợp A, B cách nhau 20cm dao động với bước sóng 4cm. Số điểm cực đại giao thoa trên đoạn AB là bao nhiêu?",
+    "options": [
+      "9.",
+      "10.",
+      "11.",
+      "5."
+    ],
+    "answer": "9.",
+    "explanation": "Số điểm cực đại là số k nguyên thoả mãn: -AB/λ < k < AB/λ => -5 < k < 5. Có các giá trị k từ -4 đến 4, tổng cộng 9 giá trị."
+  },
+  {
+    "question": "Một vật thực hiện dao động cưỡng bức dưới tác dụng của ngoại lực biến thiên. Khi tần số ngoại lực tăng từ rất nhỏ đến rất lớn, biên độ dao động của vật sẽ:",
+    "options": [
+      "Tăng liên tục.",
+      "Giảm liên tục.",
+      "Tăng rồi giảm.",
+      "Giảm rồi tăng."
+    ],
+    "answer": "Tăng rồi giảm.",
+    "explanation": "Biên độ dao động cưỡng bức đạt cực đại khi tần số ngoại lực bằng tần số riêng."
+  },
+  {
+    "question": "Trên một sợi dây có sóng dừng, khoảng cách giữa một nút và một bụng liên tiếp là bao nhiêu?",
+    "options": [
+      "λ.",
+      "λ/2.",
+      "λ/4.",
+      "2λ."
+    ],
+    "answer": "λ/4.",
+    "explanation": "Khoảng cách giữa nút và bụng liên tiếp là một phần tư bước sóng."
+  },
+  {
+    "question": "Một pin điện hoá có suất điện động E = 1,5V, điện trở trong r = 1Ω. Mắc pin này với điện trở R = 4Ω. Cường độ dòng điện qua mạch là bao nhiêu?",
+    "options": [
+      "1,5 A.",
+      "0,3 A.",
+      "0,5 A.",
+      "0,75 A."
+    ],
+    "answer": "0,3 A.",
+    "explanation": "I = E / (R+r) = 1,5 / (4+1) = 1,5 / 5 = 0,3 A."
+  },
+  {
+    "question": "Vật dao động điều hoà với A=5cm, chu kì T=2s. Tại t=0 vật ở biên dương. Phương trình dao động là gì?",
+    "options": [
+      "x = 5cos(πt) cm.",
+      "x = 5cos(πt + π/2) cm.",
+      "x = 5cos(2πt) cm.",
+      "x = 5cos(πt + π) cm."
+    ],
+    "answer": "x = 5cos(πt) cm.",
+    "explanation": "ω = 2π/T = π. Tại t=0, x=A => cos(φ) = 1 => φ=0. Vậy x = 5cos(πt)."
+  },
+  {
+    "question": "Trong thí nghiệm giao thoa sóng, tại trung điểm của hai nguồn kết hợp cùng pha, biên độ sóng tổng hợp là gì?",
+    "options": [
+      "Cực đại.",
+      "Cực tiểu.",
+      "Bằng 0.",
+      "Không xác định."
+    ],
+    "answer": "Cực đại.",
+    "explanation": "Tại trung điểm, hiệu đường đi bằng 0, là cực đại cùng pha."
+  },
+  {
+    "question": "Một vật dao động điều hoà đi từ biên dương về vị trí cân bằng hết thời gian là 0,5s. Chu kì dao động là bao nhiêu?",
+    "options": [
+      "0,5 s.",
+      "1 s.",
+      "2 s.",
+      "0,25 s."
+    ],
+    "answer": "2 s.",
+    "explanation": "Thời gian từ biên về vị trí cân bằng là T/4 = 0,5s. Vậy T = 2s."
+  },
+  {
+    "question": "Để tăng công suất toả nhiệt của một vật dẫn điện có điện trở R lên gấp 4 lần mà vẫn giữ nguyên điện áp U, ta phải làm gì?",
+    "options": [
+      "Giảm điện trở R xuống còn R/4.",
+      "Giảm điện trở R xuống còn R/2.",
+      "Tăng điện trở R lên 2R.",
+      "Tăng điện trở R lên 4R."
+    ],
+    "answer": "Giảm điện trở R xuống còn R/4.",
+    "explanation": "P = U^2/R. Để P tăng gấp 4, R phải giảm đi 4 lần."
+  },
+  {
+    "question": "Một hệ dao động có tần số riêng f0 = 2Hz. Hệ chịu tác dụng của lực cưỡng bức F = F0cos(4πt). Hiện tượng gì xảy ra?",
+    "options": [
+      "Dao động tắt dần.",
+      "Cộng hưởng.",
+      "Dao động cưỡng bức với biên độ nhỏ.",
+      "Hệ đứng yên."
+    ],
+    "answer": "Cộng hưởng.",
+    "explanation": "Tần số lực cưỡng bức f = ω/2π = 4π/2π = 2Hz = f0. Xảy ra cộng hưởng."
+  }
+]
+

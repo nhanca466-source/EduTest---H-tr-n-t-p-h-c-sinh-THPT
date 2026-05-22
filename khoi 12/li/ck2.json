@@ -1,0 +1,554 @@
+
+[
+  {
+    "question": "Từ trường là dạng vật chất tồn tại xung quanh hạt mang điện nào sau đây?",
+    "options": [
+      "Hạt mang điện đứng yên.",
+      "Hạt mang điện chuyển động.",
+      "Hạt trung hòa về điện.",
+      "Hạt có khối lượng rất nhỏ."
+    ],
+    "answer": "Hạt mang điện chuyển động.",
+    "explanation": "Theo định nghĩa, từ trường tồn tại xung quanh các điện tích chuyển động (dòng điện hoặc hạt mang điện chuyển động)."
+  },
+  {
+    "question": "Đường sức từ của từ trường xung quanh một dòng điện thẳng dài có hình dạng như thế nào?",
+    "options": [
+      "Các đường thẳng song song với dòng điện.",
+      "Các đường tròn đồng tâm có tâm nằm trên dòng điện và vuông góc với dòng điện.",
+      "Các đường elip bao quanh dòng điện.",
+      "Các đường parabol đối xứng qua dòng điện."
+    ],
+    "answer": "Các đường tròn đồng tâm có tâm nằm trên dòng điện và vuông góc với dòng điện.",
+    "explanation": "Đường sức từ của dòng điện thẳng dài là các đường tròn đồng tâm nằm trong mặt phẳng vuông góc với dòng điện, tâm nằm trên dây dẫn."
+  },
+  {
+    "question": "Đơn vị của cảm ứng từ trong hệ SI là gì?",
+    "options": [
+      "Tesla (T)",
+      "Weber (Wb)",
+      "Amper (A)",
+      "Volt (V)"
+    ],
+    "answer": "Tesla (T)",
+    "explanation": "Cảm ứng từ B có đơn vị đo chuẩn trong hệ SI là Tesla, kí hiệu là T."
+  },
+  {
+    "question": "Lực từ tác dụng lên một đoạn dây dẫn thẳng có dòng điện chạy qua đặt trong từ trường đều có phương như thế nào?",
+    "options": [
+      "Trùng với phương của dòng điện.",
+      "Trùng với phương của cảm ứng từ.",
+      "Vuông góc với cả mặt phẳng chứa dòng điện và cảm ứng từ.",
+      "Song song với các đường sức từ."
+    ],
+    "answer": "Vuông góc với cả mặt phẳng chứa dòng điện và cảm ứng từ.",
+    "explanation": "Theo quy tắc bàn tay trái, lực từ luôn vuông góc với mặt phẳng chứa đoạn dây dẫn và vectơ cảm ứng từ B."
+  },
+  {
+    "question": "Hiện tượng cảm ứng điện từ là hiện tượng xuất hiện dòng điện cảm ứng trong mạch kín khi nào?",
+    "options": [
+      "Mạch điện có một nguồn điện mạnh.",
+      "Từ thông qua mạch kín biến thiên theo thời gian.",
+      "Mạch điện đặt trong một từ trường đều đứng yên.",
+      "Diện tích của mạch kín được giữ cố định."
+    ],
+    "answer": "Từ thông qua mạch kín biến thiên theo thời gian.",
+    "explanation": "Dòng điện cảm ứng chỉ xuất hiện trong mạch kín khi và chỉ khi từ thông xuyên qua mạch kín đó biến thiên theo thời gian."
+  },
+  {
+    "question": "Đơn vị của từ thông trong hệ SI là gì?",
+    "options": [
+      "Tesla (T)",
+      "Weber (Wb)",
+      "Henry (H)",
+      "Farad (F)"
+    ],
+    "answer": "Weber (Wb)",
+    "explanation": "Từ thông có đơn vị đo trong hệ SI là Weber, kí hiệu là Wb."
+  },
+  {
+    "question": "Định luật Lenz về chiều của dòng điện cảm ứng cho biết dòng điện cảm ứng có chiều sao cho từ trường do nó sinh ra có tác dụng gì?",
+    "options": [
+      "Luôn cùng chiều với từ trường ngoài.",
+      "Luôn ngược chiều với từ trường ngoài.",
+      "Chống lại nguyên nhân sinh ra nó.",
+      "Tăng cường tác dụng của từ trường ngoài."
+    ],
+    "answer": "Chống lại nguyên nhân sinh ra nó.",
+    "explanation": "Định luật Lenz khẳng định dòng điện cảm ứng phải có chiều sao cho từ trường cảm ứng có tác dụng chống lại sự biến thiên của từ thông sinh ra nó."
+  },
+  {
+    "question": "Đơn vị của độ tự cảm trong hệ SI là gì?",
+    "options": [
+      "Weber (Wb)",
+      "Tesla (T)",
+      "Henry (H)",
+      "Amper (A)"
+    ],
+    "answer": "Henry (H)",
+    "explanation": "Độ tự cảm L của ống dây có đơn vị trong hệ SI là Henry, kí hiệu là H."
+  },
+  {
+    "question": "Hạt nhân nguyên tử được cấu tạo từ các hạt nào sau đây?",
+    "options": [
+      "Electron và proton.",
+      "Proton và neutron.",
+      "Electron và neutron.",
+      "Chỉ có các proton."
+    ],
+    "answer": "Proton và neutron.",
+    "explanation": "Hạt nhân nguyên tử được cấu tạo từ hai loại hạt là proton và neutron, gọi chung là các nucleon."
+  },
+  {
+    "question": "Kí hiệu hạt nhân nguyên tử là X với hai chỉ số Z và A. Trong đó, Z đại diện cho đại lượng nào?",
+    "options": [
+      "Số khối của hạt nhân.",
+      "Số neutron có trong hạt nhân.",
+      "Số proton (hay số hiệu nguyên tử).",
+      "Tổng số nucleon."
+    ],
+    "answer": "Số proton (hay số hiệu nguyên tử).",
+    "explanation": "Chỉ số Z ở phía dưới là số hiệu nguyên tử, đại diện cho số lượng hạt proton có trong hạt nhân."
+  },
+  {
+    "question": "Các nguyên tử được gọi là đồng vị khi hạt nhân của chúng có đặc điểm nào?",
+    "options": [
+      "Cùng số khối A nhưng khác số proton Z.",
+      "Cùng số proton Z nhưng khác số neutron N.",
+      "Cùng số neutron N nhưng khác số proton Z.",
+      "Cùng tổng số nucleon."
+    ],
+    "answer": "Cùng số proton Z nhưng khác số neutron N.",
+    "explanation": "Đồng vị là các nguyên tử có cùng số proton Z (cùng vị trí trong bảng tuần hoàn) nhưng có số neutron N khác nhau."
+  },
+  {
+    "question": "Lực gắn kết các nucleon lại với nhau trong hạt nhân nguyên tử được gọi là lực gì?",
+    "options": [
+      "Lực hấp dẫn.",
+      "Lực điện từ.",
+      "Lực tương tác mạnh (lực hạt nhân).",
+      "Lực cơ học."
+    ],
+    "answer": "Lực tương tác mạnh (lực hạt nhân).",
+    "explanation": "Lực hạt nhân (lực tương tác mạnh) là lực gắn kết các nucleon trong phạm vi kích thước hạt nhân, không phụ thuộc vào điện tích của hạt."
+  },
+  {
+    "question": "Độ hụt khối của một hạt nhân được định nghĩa là gì?",
+    "options": [
+      "Khối lượng của hạt nhân lớn hơn tổng khối lượng các nucleon cấu thành.",
+      "Hiệu số giữa tổng khối lượng các nucleon riêng rẽ cấu thành hạt nhân và khối lượng của chính hạt nhân đó.",
+      "Khối lượng bị mất đi khi hạt nhân phân rã hoàn toàn thành electron.",
+      "Khối lượng của các electron ở vỏ nguyên tử."
+    ],
+    "answer": "Hiệu số giữa tổng khối lượng các nucleon riêng rẽ cấu thành hạt nhân và khối lượng của chính hạt nhân đó.",
+    "explanation": "Độ hụt khối delta m bằng tổng khối lượng các proton và neutron đứng riêng rẽ trừ đi khối lượng thực tế của hạt nhân đó."
+  },
+  {
+    "question": "Hiện tượng một hạt nhân không bền vững tự động phát ra các tia phóng xạ và biến đổi thành hạt nhân khác được gọi là gì?",
+    "options": [
+      "Sự hạt nhân hóa.",
+      "Hiện tượng phóng xạ.",
+      "Phản ứng phân hạch.",
+      "Phản ứng nhiệt hạch."
+    ],
+    "answer": "Hiện tượng phóng xạ.",
+    "explanation": "Phóng xạ là quá trình phân rã tự phát mang tính ngẫu nhiên của một hạt nhân không bền vững, kèm theo sự phát ra các bức xạ hạt nhân."
+  },
+  {
+    "question": "Tia phóng xạ alpha bản chất là dòng của các hạt nào?",
+    "options": [
+      "Dòng các hạt nhân Helium-4.",
+      "Dòng các electron tự do.",
+      "Dòng các photon có năng lượng cao.",
+      "Dòng các hạt neutron."
+    ],
+    "answer": "Dòng các hạt nhân Helium-4.",
+    "explanation": "Tia phóng xạ alpha có bản chất là dòng các hạt nhân nguyên tử Helium-4 chuyển động với tốc độ cao thoát ra từ hạt nhân mẹ."
+  },
+  {
+    "question": "Tia phóng xạ beta trừ bản chất là dòng của các hạt nào?",
+    "options": [
+      "Hạt proton.",
+      "Hạt electron.",
+      "Hạt positron.",
+      "Hạt neutron."
+    ],
+    "answer": "Hạt electron.",
+    "explanation": "Tia phóng xạ beta trừ có bản chất là dòng các hạt electron chuyển động với vận tốc cực lớn phát ra từ hạt nhân."
+  },
+  {
+    "question": "Tia gamma có bản chất là gì?",
+    "options": [
+      "Dòng các hạt mang điện tích dương.",
+      "Sóng điện từ có bước sóng cực ngắn (photon năng lượng cao).",
+      "Dòng các hạt mang điện tích âm.",
+      "Dòng các hạt có khối lượng bằng hạt proton."
+    ],
+    "answer": "Sóng điện từ có bước sóng cực ngắn (photon năng lượng cao).",
+    "explanation": "Tia gamma là bức xạ điện từ (dòng các photon) có bước sóng vô cùng ngắn, năng lượng cực cao và không mang điện tích."
+  },
+  {
+    "question": "Chu kì bán rã của một chất phóng xạ là khoảng thời gian để làm gì?",
+    "options": [
+      "Chất phóng xạ đó phân rã hoàn toàn.",
+      "Một nửa số hạt nhân của chất phóng xạ biến đổi thành chất khác.",
+      "Khối lượng chất phóng xạ tăng lên gấp đôi.",
+      "Tia phóng xạ truyền đi được khoảng cách tối đa."
+    ],
+    "answer": "Một nửa số hạt nhân của chất phóng xạ biến đổi thành chất khác.",
+    "explanation": "Chu kì bán rã T là thời gian cần thiết để một nửa số lượng hạt nhân phóng xạ hiện tại bị phân rã biến đổi."
+  },
+  {
+    "question": "Phản ứng phân hạch là quá trình như thế nào?",
+    "options": [
+      "Hai hạt nhân rất nhẹ kết hợp lại thành một hạt nhân nặng hơn.",
+      "Một hạt nhân rất nặng hấp thụ một neutron và vỡ thành hai hạt nhân trung bình.",
+      "Một hạt nhân tự phát ra tia phóng xạ alpha.",
+      "Các nucleon kết hợp lại tạo thành hạt nhân."
+    ],
+    "answer": "Một hạt nhân rất nặng hấp thụ một neutron và vỡ thành hai hạt nhân trung bình.",
+    "explanation": "Phân hạch là phản ứng trong đó một hạt nhân có số khối lớn (như Uranium, Plutonium) hấp thụ một hạt neutron chậm rồi vỡ ra thành các hạt nhân có khối lượng trung bình."
+  },
+  {
+    "question": "Phản ứng nhiệt hạch là quá trình như thế nào?",
+    "options": [
+      "Một hạt nhân nặng vỡ đôi ở nhiệt độ rất cao.",
+      "Hai hạt nhân rất nhẹ kết hợp lại thành hạt nhân nặng hơn ở nhiệt độ cực cao.",
+      "Sự phóng xạ tia gamma kèm theo tỏa nhiệt lớn.",
+      "Sự đốt cháy nhiên liệu hạt nhân bằng ngọn lửa thông thường."
+    ],
+    "answer": "Hai hạt nhân rất nhẹ kết hợp lại thành hạt nhân nặng hơn ở nhiệt độ cực cao.",
+    "explanation": "Phản ứng nhiệt hạch là phản ứng tổng hợp hai hay nhiều hạt nhân nhẹ (như các đồng vị của Hydrogen) thành hạt nhân nặng hơn dưới điều kiện nhiệt độ cực cao lên tới hàng triệu độ."
+  },
+  {
+    "question": "Khi cho một ống dây dẫn có dòng điện chạy qua lại gần một vòng dây kim loại kín, trong vòng dây xuất hiện dòng điện cảm ứng. Lực tương tác giữa ống dây và vòng dây có xu hướng như thế nào?",
+    "options": [
+      "Luôn hút nhau.",
+      "Luôn đẩy nhau.",
+      "Đẩy nhau khi chúng lại gần nhau và hút nhau khi chúng ra xa nhau.",
+      "Không tương tác với nhau."
+    ],
+    "answer": "Đẩy nhau khi chúng lại gần nhau và hút nhau khi chúng ra xa nhau.",
+    "explanation": "Theo định luật Lenz, dòng điện cảm ứng sinh ra chống lại nguyên nhân sinh ra nó. Khi tiến lại gần hệ sẽ đẩy nhau, khi lùi ra xa hệ sẽ hút nhau để cản trở chuyển động tương đối."
+  },
+  {
+    "question": "Một dây dẫn thẳng có dòng điện chạy qua được đặt song song với các đường sức từ của một từ trường đều. Lực từ tác dụng lên dây dẫn này có giá trị bằng bao nhiêu?",
+    "options": [
+      "Bằng không.",
+      "Đạt giá trị cực đại.",
+      "Bằng tích của cường độ dòng điện và chiều dài dây.",
+      "Phụ thuộc vào màu sắc vỏ dây dẫn."
+    ],
+    "answer": "Bằng không.",
+    "explanation": "Công thức lực từ F = B * I * L * sin(alpha). Khi dây dẫn đặt song song với đường sức từ thì góc alpha bằng 0 độ hoặc 180 độ, suy ra sin(alpha) = 0 nên lực từ F = 0."
+  },
+  {
+    "question": "Nếu tăng cường độ dòng điện chạy qua một dây dẫn thẳng dài lên 2 lần và giảm khoảng cách từ điểm khảo sát đến dây dẫn đi 2 lần thì cảm ứng từ tại điểm đó thay đổi như thế nào?",
+    "options": [
+      "Không thay đổi.",
+      "Tăng lên 2 lần.",
+      "Tăng lên 4 lần.",
+      "Giảm đi 4 lần."
+    ],
+    "answer": "Tăng lên 4 lần.",
+    "explanation": "Cảm ứng từ của dòng điện thẳng tỉ lệ thuận với cường độ dòng điện I và tỉ lệ nghịch với khoảng cách r. I tăng 2 kết hợp r giảm 2 làm cho B tăng tổng cộng 2 * 2 = 4 lần."
+  },
+  {
+    "question": "Hiện tượng tự cảm trong một mạch điện kín xảy ra khi có sự biến thiên của đại lượng nào sau đây?",
+    "options": [
+      "Từ thông qua mạch do chính dòng điện trong mạch đó gây ra.",
+      "Từ trường của một nam châm đặt ở bên ngoài mạch.",
+      "Diện tích của khung dây do lực kéo cơ học bên ngoài.",
+      "Nhiệt độ của môi trường xung quanh mạch điện."
+    ],
+    "answer": "Từ thông qua mạch do chính dòng điện trong mạch đó gây ra.",
+    "explanation": "Hiện tượng tự cảm là hiện tượng cảm ứng điện từ xảy ra trong một mạch có dòng điện khi cường độ dòng điện trong chính mạch đó biến đổi, làm từ thông của mạch tự biến thiên."
+  },
+  {
+    "question": "Tại sao các nucleon trong hạt nhân lại có thể liên kết chặt chẽ với nhau mặc dù giữa các proton có lực đẩy tĩnh điện rất lớn?",
+    "options": [
+      "Vì lực hấp dẫn giữa các nucleon rất mạnh.",
+      "Vì lực hạt nhân là lực tương tác mạnh, có cường độ lớn hơn nhiều so với lực đẩy tĩnh điện trong phạm vi hạt nhân.",
+      "Vì các neutron mang điện tích âm làm trung hòa lực đẩy.",
+      "Vì kích thước hạt nhân rất lớn."
+    ],
+    "answer": "Vì lực hạt nhân là lực tương tác mạnh, có cường độ lớn hơn nhiều so với lực đẩy tĩnh điện trong phạm vi hạt nhân.",
+    "explanation": "Lực hạt nhân thuộc loại tương tác mạnh, có tầm tác dụng rất ngắn (khoảng 10^-15 m) nhưng cường độ siêu lớn, hoàn toàn thắng được lực đẩy Coulomb giữa các proton mang điện dương."
+  },
+  {
+    "question": "Hạt nhân X có số khối A và số hiệu Z. Số neutron N trong hạt nhân này được tính bằng công thức nào?",
+    "options": [
+      "N = Z",
+      "N = A + Z",
+      "N = A - Z",
+      "N = A * Z"
+    ],
+    "answer": "N = A - Z",
+    "explanation": "Số khối A bằng tổng số proton (Z) và số neutron (N). Do đó, số lượng hạt neutron là N = A - Z."
+  },
+  {
+    "question": "Đại lượng nào sau đây đặc trưng cho mức độ bền vững của một hạt nhân nguyên tử?",
+    "options": [
+      "Năng lượng liên kết.",
+      "Năng lượng liên kết riêng.",
+      "Độ hụt khối.",
+      "Số khối A."
+    ],
+    "answer": "Năng lượng liên kết riêng.",
+    "explanation": "Năng lượng liên kết riêng (năng lượng liên kết tính trung bình trên từng hạt nucleon) là đại lượng quyết định tính bền vững của hạt nhân. Càng lớn hạt nhân càng bền."
+  },
+  {
+    "question": "Nhóm hạt nhân nào sau đây có tính chất bền vững nhất trong tự nhiên?",
+    "options": [
+      "Các hạt nhân rất nhẹ như H1, He4.",
+      "Các hạt nhân rất nặng như U235, Pu239.",
+      "Các hạt nhân có số khối trung bình nằm trong khoảng từ 50 đến 80.",
+      "Các hạt nhân có số proton bằng số neutron."
+    ],
+    "answer": "Các hạt nhân có số khối trung bình nằm trong khoảng từ 50 đến 80.",
+    "explanation": "Các hạt nhân nằm ở giữa bảng tuần hoàn có số khối trung bình (như Fe, Cu, Ni...) có năng lượng liên kết riêng lớn nhất (khoảng 8.8 MeV/nucleon) nên bền vững nhất."
+  },
+  {
+    "question": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm của quá trình phóng xạ?",
+    "options": [
+      "Là một quá trình hoàn toàn tự phát và không thể điều khiển.",
+      "Tốc độ phóng xạ phụ thuộc rất lớn vào nhiệt độ và áp suất môi trường bên ngoài.",
+      "Là một quá trình mang tính ngẫu nhiên đối với từng hạt nhân riêng lẻ.",
+      "Luôn đi kèm với sự tỏa năng lượng."
+    ],
+    "answer": "Tốc độ phóng xạ phụ thuộc rất lớn vào nhiệt độ và áp suất môi trường bên ngoài.",
+    "explanation": "Hiện tượng phóng xạ hoàn toàn do cấu trúc nội tại hạt nhân quyết định, không phụ thuộc vào bất kì yếu tố tác động vật lí hay hóa học bên ngoài nào như nhiệt độ hay áp suất."
+  },
+  {
+    "question": "In phóng xạ beta cộng, hạt nhân mẹ biến đổi thành hạt nhân con có vị trí như thế nào so với hạt nhân mẹ trong bảng tuần hoàn?",
+    "options": [
+      "Lùi một ô.",
+      "Tiến một ô.",
+      "Lùi hai ô.",
+      "Giữ nguyên vị trí."
+    ],
+    "answer": "Lùi một ô.",
+    "explanation": "Phóng xạ beta cộng phát ra một positron (+1, 0), theo định luật bảo toàn điện tích, số hiệu Z của hạt nhân con giảm đi 1 đơn vị (Z-1), tức là lùi 1 ô so với vị trí hạt nhân mẹ."
+  },
+  {
+    "question": "Khi nói về khả năng đâm xuyên của các tia phóng xạ, thứ tự sắp xếp từ khả năng đâm xuyên yếu nhất đến mạnh nhất là gì?",
+    "options": [
+      "Alpha, Beta, Gamma.",
+      "Gamma, Beta, Alpha.",
+      "Beta, Alpha, Gamma.",
+      "Alpha, Gamma, Beta."
+    ],
+    "answer": "Alpha, Beta, Gamma.",
+    "explanation": "Tia alpha có khối lượng lớn nên đâm xuyên kém nhất (bị cản bởi tờ giấy). Tia beta đâm xuyên trung bình (qua được lá nhôm mỏng). Tia gamma không mang điện, đâm xuyên mạnh nhất (cần tấm chì dày)."
+  },
+  {
+    "question": "Tại sao phản ứng phân hạch thường tạo ra một chuỗi các phản ứng tiếp theo gọi là phản ứng dây chuyền?",
+    "options": [
+      "Vì mỗi phân hạch tỏa ra một lượng nhiệt cực lớn kích thích hạt nhân bên cạnh.",
+      "Vì mỗi phân hạch giải phóng ra các tia gamma làm mồi cho phản ứng sau.",
+      "Vì mỗi phân hạch giải phóng ra từ 2 đến 3 neutron mới, các neutron này tiếp tục kích thích các hạt nhân nặng khác phân hạch.",
+      "Vì Uranium tự động hút các hạt nhân khác lại gần."
+    ],
+    "answer": "Vì mỗi phân hạch giải phóng ra từ 2 đến 3 neutron mới, các neutron này tiếp tục kích thích các hạt nhân nặng khác phân hạch.",
+    "explanation": "Các hạt neutron nhanh giải phóng ra từ phản ứng trước sẽ làm mồi để kích hoạt các hạt nhân Uranium kế cận tiếp tục phân hạch, sinh ra cấp số nhân dòng phản ứng."
+  },
+  {
+    "question": "Điều kiện cốt lõi để xảy ra phản ứng nhiệt hạch là gì?",
+    "options": [
+      "Nhiên liệu phải được làm lạnh xuống gần độ không tuyệt đối.",
+      "Hỗn hợp nhiên liệu phải được đưa lên nhiệt độ cực cao (hàng chục triệu độ) và có mật độ đủ lớn.",
+      "Phải có sự xuất hiện của dòng hạt alpha cường độ mạnh làm chất xúc tác.",
+      "Môi trường phản ứng phải là chân không tuyệt đối."
+    ],
+    "answer": "Hỗn hợp nhiên liệu phải được đưa lên nhiệt độ cực cao (hàng chục triệu độ) và có mật độ đủ lớn.",
+    "explanation": "Để các hạt nhân nhẹ thắng được lực đẩy tĩnh điện Coulomb và tiến vào vùng tác dụng của lực hạt nhân, chúng cần có động năng cực kì lớn, tương ứng với mức nhiệt độ hàng chục triệu độ."
+  },
+  {
+    "question": "Trong các nhà máy điện hạt nhân hiện nay trên thế giới, năng lượng điện được sản xuất dựa vào loại phản ứng hạt nhân nào?",
+    "options": [
+      "Phản ứng nhiệt hạch.",
+      "Phản ứng phân hạch có kiểm soát.",
+      "Phản ứng phóng xạ tự nhiên của Radium.",
+      "Phản ứng hóa học đốt cháy Uranium."
+    ],
+    "answer": "Phản ứng phân hạch có kiểm soát.",
+    "explanation": "Các lò phản ứng hạt nhân thương mại hiện nay đều vận hành dựa trên nguyên lí điều khiển mật độ dòng neutron để duy trì phản ứng phân hạch ở mức độ an toàn ổn định."
+  },
+  {
+    "question": "Để bảo vệ con người khỏi tác hại của tia phóng xạ gamma trong y tế và công nghiệp, người ta thường dùng vật liệu bảo vệ nào sau đây làm tường chắn?",
+    "options": [
+      "Tấm gỗ dày.",
+      "Tấm nhựa mỏng.",
+      "Lớp chì dày hoặc bê tông dày.",
+      "Lớp vải bảo hộ thông thường."
+    ],
+    "answer": "Lớp chì dày hoặc bê tông dày.",
+    "explanation": "Tia gamma có khả năng đâm xuyên rất mạnh, cần các vật liệu có mật độ vật chất lớn và độ dày cao như chì (Pb) hoặc bê tông cốt thép đặc để hấp thụ triệt để dòng bức xạ."
+  },
+  {
+    "question": "Một khung dây phẳng có diện tích 20 cm2 gồm 50 vòng dây đặt trong từ trường đều có cảm ứng từ B = 0.05 T. Mặt phẳng khung dây vuông góc với các đường sức từ. Tính từ thông xuyên qua khung dây này.",
+    "options": [
+      "0.005 Wb",
+      "0.05 Wb",
+      "0.5 Wb",
+      "5 Wb"
+    ],
+    "answer": "0.005 Wb",
+    "explanation": "Đổi S = 20 cm2 = 0.002 m2. Mặt phẳng vuông góc đường sức từ thì góc hợp bởi pháp tuyến và B là 0 độ, cos(0) = 1. Áp dụng Phi = N * B * S * cos(0) = 50 * 0.05 * 0.002 = 0.005 Wb."
+  },
+  {
+    "question": "Một dây dẫn thẳng dài đặt trong không khí có dòng điện cường độ 5 A chạy qua. Cảm ứng từ tại một điểm cách dây dẫn một khoảng 4 cm có giá trị bằng bao nhiêu?",
+    "options": [
+      "2.5 * 10^-5 T",
+      "5.0 * 10^-5 T",
+      "1.25 * 10^-5 T",
+      "2.0 * 10^-5 T"
+    ],
+    "answer": "2.5 * 10^-5 T",
+    "explanation": "Đổi khoảng cách r = 4 cm = 0.04 m. Áp dụng công thức tính cảm ứng từ dòng điện thẳng: B = 2 * 10^-7 * I / r = 2 * 10^-7 * 5 / 0.04 = 2.5 * 10^-5 T."
+  },
+  {
+    "question": "Một đoạn dây dẫn thẳng dài 20 cm mang dòng điện 2 A đặt trong từ trường đều có cảm ứng từ B = 0.4 T. Biết dây dẫn vuông góc với các đường sức từ. Lực từ tác dụng lên đoạn dây có độ lớn bằng bao nhiêu?",
+    "options": [
+      "0.16 N",
+      "1.6 N",
+      "0.08 N",
+      "0.32 N"
+    ],
+    "answer": "0.16 N",
+    "explanation": "Đổi chiều dài L = 20 cm = 0.2 m. Góc vuông góc nên alpha = 90 độ, sin(90) = 1. Áp dụng lực từ F = B * I * L * sin(alpha) = 0.4 * 2 * 0.2 * 1 = 0.16 N."
+  },
+  {
+    "question": "Một khung dây phẳng có từ thông biến thiên đều đặn từ giá trị 0.08 Wb xuống 0.02 Wb trong khoảng thời gian 0.03 giây. Độ lớn suất điện động cảm ứng xuất hiện trong khung dây là bao nhiêu?",
+    "options": [
+      "2 V",
+      "0.002 V",
+      "6 V",
+      "0.5 V"
+    ],
+    "answer": "2 V",
+    "explanation": "Độ lớn suất điện động cảm ứng e = |delta Phi| / delta t = |0.02 - 0.08| / 0.03 = 0.06 / 0.03 = 2 V."
+  },
+  {
+    "question": "Hạt nhân C14 là một chất phóng xạ có chu kì bán rã là 5730 năm. Nếu ban đầu có 100 gam chất này thì sau 11460 năm, khối lượng C14 còn lại là bao nhiêu?",
+    "options": [
+      "50 gam",
+      "25 gam",
+      "12.5 gam",
+      "0 gam"
+    ],
+    "answer": "25 gam",
+    "explanation": "Thời gian t = 11460 năm đúng bằng 2 lần chu kì bán rã T (11460 / 5730 = 2). Sau chu kì đầu tiên còn lại 50 gam, sau chu kì thứ hai giảm một nửa tiếp còn lại 25 gam."
+  },
+  {
+    "question": "Hạt nhân nguyên tử Carbon C (Z=6, A=12) có khối lượng m = 12.0000 u. Biết khối lượng proton m_p = 1.0073 u và khối lượng neutron m_n = 1.0087 u. Tính độ hụt khối của hạt nhân này.",
+    "options": [
+      "0.0960 u",
+      "0.0000 u",
+      "0.0480 u",
+      "0.1200 u"
+    ],
+    "answer": "0.0960 u",
+    "explanation": "Hạt nhân C12 có 6 proton và 6 neutron. Tổng khối lượng các nucleon đứng riêng lẻ bằng 6 * 1.0073 + 6 * 1.0087 = 12.0960 u. Độ hụt khối delta m = 12.0960 - 12.0000 = 0.0960 u."
+  },
+  {
+    "question": "Biết một hạt nhân có độ hụt khối là 0.2 u. Tính năng lượng liên kết của hạt nhân này theo đơn vị MeV (lấy 1 u = 931.5 MeV/c2).",
+    "options": [
+      "186.3 MeV",
+      "93.15 MeV",
+      "465.75 MeV",
+      "372.6 MeV"
+    ],
+    "answer": "186.3 MeV",
+    "explanation": "Năng lượng liên kết được tính bằng công thức Einstein giải phóng: E_lk = delta m * c2 = 0.2 * 931.5 MeV = 186.3 MeV."
+  },
+  {
+    "question": "Trong một phản ứng hạt nhân, tổng khối lượng các hạt trước phản ứng là 235.0439 u và tổng khối lượng các hạt sau phản ứng là 234.9328 u. Nhận xét nào sau đây là đúng về phản ứng này?",
+    "options": [
+      "Phản ứng thu năng lượng là 103.5 MeV.",
+      "Phản ứng tỏa năng lượng là 103.5 MeV.",
+      "Phản ứng không tỏa cũng không thu năng lượng.",
+      "Phản ứng làm tăng khối lượng của hệ."
+    ],
+    "answer": "Phản ứng tỏa năng lượng là 103.5 MeV.",
+    "explanation": "Khối lượng trước lớn hơn khối lượng sau nên đây là phản ứng tỏa năng lượng. Độ chênh lệch khối lượng là 235.0439 - 234.9328 = 0.1111 u. Năng lượng tỏa ra bằng 0.1111 * 931.5 = 103.5 MeV."
+  },
+  {
+    "question": "Hạt nhân Uranium U238 thực hiện một chuỗi phóng xạ biến đổi thành hạt nhân Chì Pb206. Hãy cho biết chuỗi này gồm bao nhiêu phân rã alpha và bao nhiêu phân rã beta trừ?",
+    "options": [
+      "8 alpha và 6 beta trừ.",
+      "6 alpha và 8 beta trừ.",
+      "4 alpha và 4 beta trừ.",
+      "8 alpha và 8 beta trừ."
+    ],
+    "answer": "8 alpha và 6 beta trừ.",
+    "explanation": "Độ giảm số khối: 238 - 206 = 32 đơn vị. Số hạt alpha bằng 32 / 4 = 8 hạt. 8 hạt alpha làm điện tích giảm 8 * 2 = 16 đơn vị. Điện tích thực tế chỉ giảm 92 - 82 = 10 đơn vị, suy ra phải có 6 phân rã beta trừ để bù lại (-16 + 6 = -10)."
+  },
+  {
+    "question": "Một ống dây hình trụ dài 50 cm gồm 1000 vòng dây mang dòng điện cường độ 2 A chạy qua. Tính cảm ứng từ bên trong lòng ống dây (coi là từ trường đều).",
+    "options": [
+      "5.03 * 10^-3 T",
+      "1.26 * 10^-3 T",
+      "2.51 * 10^-3 T",
+      "6.28 * 10^-3 T"
+    ],
+    "answer": "5.03 * 10^-3 T",
+    "explanation": "Đổi chiều dài L = 50 cm = 0.5 m. Áp dụng công thức cảm ứng từ trong lòng ống dây: B = 4 * 3.14 * 10^-7 * N * I / L = 4 * 3.14 * 10^-7 * 1000 * 2 / 0.5 = 5.03 * 10^-3 T."
+  },
+  {
+    "question": "Một hạt mang điện tích q = 3.2 * 10^-19 C, khối lượng m = 6.64 * 10^-27 kg bay vào một vùng từ trường đều có cảm ứng từ B = 0.5 T với vận tốc v = 10^6 m/s theo phương vuông góc với các đường sức từ. Tính bán kính quỹ đạo tròn của hạt chuyển động trong từ trường.",
+    "options": [
+      "0.0415 m",
+      "0.4150 m",
+      "0.0830 m",
+      "0.8300 m"
+    ],
+    "answer": "0.0415 m",
+    "explanation": "Lực Lorentz đóng vai trò lực hướng tâm: |q|*v*B = m*v^2 / R. Suy ra R = m*v / (|q|*B) = (6.64 * 10^-27 * 10^6) / (3.2 * 10^-19 * 0.5) = 0.0415 m (hay 4.15 cm)."
+  },
+  {
+    "question": "Hạt nhân Poloni Po210 là chất phóng xạ alpha và biến đổi thành hạt nhân Chì Pb206. Ban đầu mẫu Poloni nguyên chất. Tại thời điểm t1, tỉ số giữa số hạt nhân Chì sinh ra và số hạt nhân Poloni còn lại là 3. Tại thời điểm t2 = t1 + 276 ngày, tỉ số này là 15. Hãy xác định chu kì bán rã của Poloni.",
+    "options": [
+      "138 ngày",
+      "69 ngày",
+      "276 ngày",
+      "552 ngày"
+    ],
+    "answer": "138 ngày",
+    "explanation": "Tỉ số hạt sinh ra trên hạt còn lại bằng 2^(t/T) - 1. Ở t1: 2^(t1/T) - 1 = 3 suy ra t1 = 2T. Ở t2: 2^(t2/T) - 1 = 15 suy ra t2 = 4T. Khoảng thời gian t2 - t1 = 4T - 2T = 2T = 276 ngày, suy ra T = 138 ngày."
+  },
+  {
+    "question": "Một ống dây có độ tự cảm L = 0.05 H. Khi dòng điện qua ống dây giảm đều từ giá trị cực đại I0 xuống 0 trong khoảng thời gian 0.01 giây thì suất điện động tự cảm xuất hiện có độ lớn là 10 V. Tính năng lượng từ trường tích lũy trong ống dây lúc dòng điện đạt cực đại I0.",
+    "options": [
+      "0.1 J",
+      "0.2 J",
+      "0.05 J",
+      "0.4 J"
+    ],
+    "answer": "0.1 J",
+    "explanation": "Ta có e = L * I0 / delta t => 10 = 0.05 * I0 / 0.01 => I0 = 2 A. Năng lượng từ trường tích lũy cực đại: W = 0.5 * L * I0^2 = 0.5 * 0.05 * 2^2 = 0.1 J."
+  },
+  {
+    "question": "Xét phản ứng nhiệt hạch tổng hợp hai hạt nhân Deuterium D2 (khối lượng 2.0135 u) tạo thành hạt nhân Helium He3 (khối lượng 3.0149 u) và một hạt neutron (khối lượng 1.0087 u). Cho biết năng lượng tỏa ra khi tổng hợp hoàn toàn 1 gam khí Deuterium là bao nhiêu? Biết số Avogadro N_A = 6.02 * 10^23 hạt/mol.",
+    "options": [
+      "5.12 * 10^23 MeV",
+      "2.56 * 10^23 MeV",
+      "1.02 * 10^24 MeV",
+      "1.28 * 10^23 MeV"
+    ],
+    "answer": "2.56 * 10^23 MeV",
+    "explanation": "Độ hụt khối phản ứng: delta m = 2 * 2.0135 - (3.0149 + 1.0087) = 0.0034 u. Năng lượng một phản ứng: E = 0.0034 * 931.5 = 3.1671 MeV. Số hạt D trong 1g là N = (1/2)*N_A = 3.01 * 10^23 hạt. Cần 2 hạt D cho 1 phản ứng nên số phản ứng bằng N/2. Tổng năng lượng = (N/2) * E = 2.56 * 10^23 MeV."
+  },
+  {
+    "question": "Một bệnh nhân cần được điều trị bằng tia phóng xạ từ một nguồn đồng vị. Kể từ lúc sản xuất nguồn đến lúc điều trị là 2 chu kì bán rã. Lúc mới sản xuất, nguồn có hoạt độ phóng xạ là 20 Curie. Biết thời gian chiếu xạ điều trị tiêu chuẩn là 30 phút khi nguồn mới sản xuất để bệnh nhân nhận đủ liều. Hỏi ở thời điểm điều trị hiện tại, để nhận cùng một liều bức xạ như vậy, thời gian chiếu xạ phải kéo dài bao lâu?",
+    "options": [
+      "120 phút",
+      "60 phút",
+      "90 phút",
+      "240 phút"
+    ],
+    "answer": "120 phút",
+    "explanation": "Sau 2 chu kì bán rã, hoạt độ phóng xạ giảm đi 2^2 = 4 lần. Để nhận cùng một tổng số hạt phân rã (liều lượng), thời gian chiếu phải tăng tỉ lệ nghịch lên 4 lần: 30 phút * 4 = 120 phút."
+  }
+]
+

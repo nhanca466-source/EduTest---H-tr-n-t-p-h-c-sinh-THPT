@@ -1,0 +1,554 @@
+[
+  {
+    "question": "Các nước phát triển thường có đặc điểm nào sau đây về chỉ số phát triển con người (HDI)?",
+    "options": [
+      "Ở mức rất cao",
+      "Ở mức trung bình",
+      "Ở mức thấp",
+      "Ở mức rất thấp"
+    ],
+    "answer": "Ở mức rất cao",
+    "explanation": "Theo SGK Địa lí 11, các nước phát triển có thu nhập cao, chất lượng cuộc sống tốt nên chỉ số phát triển con người (HDI) thường ở mức rất cao (từ 0.800 trở lên)."
+  },
+  {
+    "question": "Cơ cấu kinh tế của các nước đang phát triển hiện nay đang chuyển dịch theo hướng nào?",
+    "options": [
+      "Tăng tỉ trọng công nghiệp và dịch vụ",
+      "Tăng tỉ trọng nông nghiệp độc canh",
+      "Giảm toàn bộ ngành dịch vụ cao cấp",
+      "Chỉ tập trung vào khai thác khoáng sản thô"
+    ],
+    "answer": "Tăng tỉ trọng công nghiệp và dịch vụ",
+    "explanation": "Các nước đang phát triển đang tiến hành công nghiệp hóa, hiện đại hóa nên cơ cấu kinh tế dịch chuyển theo hướng tăng tỉ trọng công nghiệp và dịch vụ, giảm tỉ trọng nông nghiệp."
+  },
+  {
+    "question": "Biểu hiện nào sau đây là của toàn cầu hóa kinh tế?",
+    "options": [
+      "Các dòng vốn đầu tư quốc tế tăng nhanh",
+      "Sự thu hẹp của các công ty đa quốc gia",
+      "Mỗi quốc gia tự sản xuất mọi mặt hàng",
+      "Đóng cửa hoàn toàn thị trường tài chính"
+    ],
+    "answer": "Các dòng vốn đầu tư quốc tế tăng nhanh",
+    "explanation": "Toàn cầu hóa kinh tế biểu hiện ở sự tăng trưởng mạnh mẽ của thương mại quốc tế, các dòng vốn đầu tư nước ngoài (FDI) và vai trò ngày càng lớn của các công ty đa quốc gia."
+  },
+  {
+    "question": "Hệ quả tiêu cực của khu vực hóa kinh tế là gì?",
+    "options": [
+      "Có thể làm xuất hiện các rào cản thương mại đối với nước ngoài khối",
+      "Làm triệt tiêu hoàn toàn quan hệ ngoại giao",
+      "Khiến các nước trong khối không thể trao đổi hàng hóa",
+      "Làm giảm tốc độ tăng trưởng kinh tế tổng thể"
+    ],
+    "answer": "Có thể làm xuất hiện các rào cản thương mại đối với nước ngoài khối",
+    "explanation": "Khu vực hóa kinh tế ưu tiên ưu đãi thương mại nội khối, dễ dẫn đến việc thiết lập rào cản mang tính bảo hộ đối với các quốc gia nằm ngoài tổ chức đó."
+  },
+  {
+    "question": "Vấn đề nào sau đây thuộc an ninh truyền thống?",
+    "options": [
+      "Xung đột quân sự giữa các quốc gia",
+      "Biến đổi khí hậu toàn cầu",
+      "An ninh mạng và tội phạm công nghệ",
+      "Khủng hoảng lương thực và nước sạch"
+    ],
+    "answer": "Xung đột quân sự giữa các quốc gia",
+    "explanation": "An ninh truyền thống liên quan chủ yếu đến các mối đe dọa quân sự quân đội trực tiếp xâm phạm chủ quyền lãnh thổ quốc gia."
+  },
+  {
+    "question": "Khu vực Mỹ La-tinh tiếp giáp với hai đại dương lớn nào sau đây?",
+    "options": [
+      "Đại Tây Dương và Thái Bình Dương",
+      "Ấn Độ Dương và Bắc Băng Dương",
+      "Đại Tây Dương và Ấn Độ Dương",
+      "Thái Bình Dương và Bắc Băng Dương"
+    ],
+    "answer": "Đại Tây Dương và Thái Bình Dương",
+    "explanation": "Phía Tây của khu vực Mỹ La-tinh tiếp giáp Thái Bình Dương, phía Đông tiếp giáp Đại Tây Dương."
+  },
+  {
+    "question": "Loại cảnh quan nào chiếm diện tích lớn nhất ở vùng đồng bằng A-ma-gôn?",
+    "options": [
+      "Rừng nhiệt đới ẩm",
+      "Hoang mạc và bán hoang mạc",
+      "Thảo nguyên xavan khô hạn",
+      "Đài nguyên băng giá"
+    ],
+    "answer": "Rừng nhiệt đới ẩm",
+    "explanation": "Đồng bằng A-ma-gôn nằm trong khí hậu xích đạo và nhiệt đới ẩm, tạo điều kiện cho rừng nhiệt đới lớn nhất thế giới phát triển."
+  },
+  {
+    "question": "Phần lớn lãnh thổ Mỹ La-tinh nằm trong đới khí hậu nào?",
+    "options": [
+      "Đới khí hậu nhiệt đới",
+      "Đới khí hậu ôn đới",
+      "Đới khí hậu hàn đới",
+      "Đới khí hậu cận cực"
+    ],
+    "answer": "Đới khí hậu nhiệt đới",
+    "explanation": "Do vị trí kéo dài từ khoảng vĩ độ 30 độ Bắc đến 56 độ Nam, phần lớn diện tích Mỹ La-tinh nằm trong vùng nội chí tuyến thuộc đới nóng."
+  },
+  {
+    "question": "Dân cư Mỹ La-tinh có đặc điểm nổi bật nào sau đây?",
+    "options": [
+      "Tỉ lệ người lai tương đối cao",
+      "Dân số đang giảm sút nhanh chóng",
+      "Thành phần chủng tộc hoàn toàn thuần nhất",
+      "Hầu hết dân cư theo Phật giáo"
+    ],
+    "answer": "Tỉ lệ người lai tương đối cao",
+    "explanation": "Lịch sử nhập cư lâu đời giữa người bản địa da đỏ, người gốc châu Âu và người gốc châu Phi đã tạo nên sự hòa huyết, làm tăng tỉ lệ người lai ở Mỹ La-tinh."
+  },
+  {
+    "question": "Quốc gia nào sau đây có diện tích và quy mô dân số lớn nhất khu vực Mỹ La-tinh?",
+    "options": [
+      "Bra-xin",
+      "Mê-hi-cô",
+      "Ác-hăng-ti-na",
+      "Chi-lê"
+    ],
+    "answer": "Bra-xin",
+    "explanation": "Bra-xin là đất nước lớn nhất khu vực Mỹ La-tinh cả về diện tích tự nhiên lẫn số dân."
+  },
+  {
+    "question": "Hiện nay, các nước Mỹ La-tinh đang tập trung phát triển ngành kinh tế nào để xuất khẩu?",
+    "options": [
+      "Nông sản nhiệt đới và khoáng sản",
+      "Công nghiệp điện tử lõi cao cấp",
+      "Dịch vụ tài chính hàng đầu thế giới",
+      "Chế tạo máy bay và tàu vũ trụ"
+    ],
+    "answer": "Nông sản nhiệt đới và khoáng sản",
+    "explanation": "Thế mạnh kinh tế truyền thống và chủ đạo để xuất khẩu của các nước Mỹ La-tinh vẫn là các sản phẩm khai khoáng và nông sản như cà phê, chuối, thịt bò."
+  },
+  {
+    "question": "Liên minh Châu Âu (EU) được thành lập chính thức vào năm nào sau khi Hiệp ước Ma-xtrích có hiệu lực?",
+    "options": [
+      "Năm 1993",
+      "Năm 1957",
+      "Năm 2000",
+      "Năm 1945"
+    ],
+    "answer": "Năm 1993",
+    "explanation": "Hiệp ước Ma-xtrích ký kết năm 1991 và chính thức có hiệu lực vào ngày 1 tháng 11 năm 1993, đánh dấu sự ra đời của Liên minh Châu Âu."
+  },
+  {
+    "question": "Đồng tiền chung được sử dụng tại nhiều quốc gia thành viên EU gọi là gì?",
+    "options": [
+      "Ơ-rô (Euro)",
+      "Đô-la (USD)",
+      "Bảng Anh",
+      "Yên"
+    ],
+    "answer": "Ơ-rô (Euro)",
+    "explanation": "Đồng Ơ-rô là đồng tiền chung của Liên minh Châu Âu, được đưa vào sử dụng chính thức trong giao dịch từ năm 1999."
+  },
+  {
+    "question": "Cơ quan nào sau đây đại diện cho tiếng nói và quyền lợi của công dân các nước thành viên EU?",
+    "options": [
+      "Nghị viện Châu Âu",
+      "Hội đồng Châu Âu",
+      "Ủy ban Châu Âu",
+      "Tòa án Công lí EU"
+    ],
+    "answer": "Nghị viện Châu Âu",
+    "explanation": "Nghị viện Châu Âu là cơ quan lập pháp của EU, do các cử tri công dân EU trực tiếp bầu ra theo nhiệm kỳ."
+  },
+  {
+    "question": "Đặc điểm nào sau đây đúng với vị thế kinh tế của EU trên thế giới?",
+    "options": [
+      "Là một trong những trung tâm kinh tế lớn toàn cầu",
+      "Có nền kinh tế hoàn toàn phụ thuộc nước ngoài",
+      "Chỉ phát triển các ngành nông nghiệp truyền thống",
+      "Không tham gia vào hoạt động thương mại quốc tế"
+    ],
+    "answer": "Là một trong những trung tâm kinh tế lớn toàn cầu",
+    "explanation": "EU là một trung tâm kinh tế, tài chính và thương mại hàng đầu thế giới, có quy mô tổng sản phẩm lớn."
+  },
+  {
+    "question": "Thị trường chung châu Âu cho phép tự do lưu thông các yếu tố nào sau đây?",
+    "options": [
+      "Hàng hóa, dịch vụ, con người, tiền vốn",
+      "Chỉ tự do lưu thông các loại hàng hóa thô",
+      "Chỉ cho phép lao động nông nghiệp di chuyển",
+      "Hàng hóa quân sự và các vũ khí hạng nặng"
+    ],
+    "answer": "Hàng hóa, dịch vụ, con người, tiền vốn",
+    "explanation": "Bốn mặt tự do lưu thông cốt lõi của thị trường chung EU bao gồm tự do di chuyển hàng hóa, dịch vụ, con người và tiền vốn giữa các nước thành viên."
+  },
+  {
+    "question": "Tổ chức thương mại thế giới được viết tắt là gì?",
+    "options": [
+      "WTO",
+      "IMF",
+      "WB",
+      "ASEAN"
+    ],
+    "answer": "WTO",
+    "explanation": "WTO là tên viết tắt của World Trade Organization (Tổ chức Thương mại Thế giới)."
+  },
+  {
+    "question": "Sự hợp tác sản xuất máy bay Airbus là minh chứng cho sự liên kết của tổ chức nào?",
+    "options": [
+      "Liên minh Châu Âu (EU)",
+      "Hiệp hội các quốc gia Đông Nam Á",
+      "Diễn đàn hợp tác Á - Phi",
+      "Khối thị trường chung Nam Mỹ"
+    ],
+    "answer": "Liên minh Châu Âu (EU)",
+    "explanation": "Tập đoàn Airbus là kết quả hợp tác công nghệ và sản xuất đỉnh cao giữa các quốc gia thành viên EU như Pháp, Đức, Anh, Tây Ban Nha."
+  },
+  {
+    "question": "Nội dung nào sau đây là biểu hiện của an ninh năng lượng toàn cầu?",
+    "options": [
+      "Đảm bảo nguồn cung năng lượng ổn định với giá cả hợp lí",
+      "Cấm sử dụng hoàn toàn năng lượng điện mặt trời",
+      "Tăng cường khai thác cạn kiệt các mỏ dầu mỏ thô",
+      "Chỉ sử dụng năng lượng thô từ than đá cũ"
+    ],
+    "answer": "Đảm bảo nguồn cung năng lượng ổn định với giá cả hợp lí",
+    "explanation": "An ninh năng lượng là việc đảm bảo đầy đủ, liên tục nguồn năng lượng phục vụ phát triển với mức giá có thể chấp nhận được."
+  },
+  {
+    "question": "Nước nào sau đây đã chính thức rời khỏi Liên minh Châu Âu (sự kiện Brexit)?",
+    "options": [
+      "Anh",
+      "Pháp",
+      "Đức",
+      "Ý"
+    ],
+    "answer": "Anh",
+    "explanation": "Vương quốc Liên hợp Anh và Bắc Ai-len đã tổ chức trưng cầu dân ý và chính thức rời khỏi EU vào đầu năm 2020."
+  },
+  {
+    "question": "Tại sao các công ty đa quốc gia lại đóng vai trò là động lực mạnh mẽ của quá trình toàn cầu hóa kinh tế?",
+    "options": [
+      "Kiểm soát nguồn vốn lớn, công nghệ cao và mạng lưới sản xuất toàn cầu",
+      "Do họ chỉ hoạt động sản xuất ở một thành phố duy nhất",
+      "Họ giúp các quốc gia đóng cửa thị trường để tự cung tự cấp",
+      "Họ ngăn cản sự di chuyển lao động kỹ thuật qua biên giới"
+    ],
+    "answer": "Kiểm soát nguồn vốn lớn, công nghệ cao và mạng lưới sản xuất toàn cầu",
+    "explanation": "Các công ty đa quốc gia sở hữu lượng tài sản khổng lồ, chi phối nhiều ngành kinh tế và thiết lập chuỗi cung ứng xuyên biên giới, thúc đẩy giao thương toàn cầu."
+  },
+  {
+    "question": "Khu vực hóa kinh tế đem lại lợi ích chủ yếu nào sau đây cho các nước thành viên tham gia khối?",
+    "options": [
+      "Mở rộng thị trường, tăng cường chuyên môn hóa và thu hút đầu tư nội khối",
+      "Hạn chế hoàn toàn việc trao đổi khoa học công nghệ",
+      "Giúp quốc gia hoàn toàn độc lập không cần giao thương bên ngoài",
+      "Làm giảm cạnh tranh giữa các doanh nghiệp trong vùng"
+    ],
+    "answer": "Mở rộng thị trường, tăng cường chuyên môn hóa và thu hút đầu tư nội khối",
+    "explanation": "Khi tham gia tổ chức khu vực, các rào cản thuế quan giảm xuống giúp thị trường tiêu thụ chung mở rộng, tạo sức hút đầu tư mạnh mẽ."
+  },
+  {
+    "question": "Tại sao tình trạng biến đổi khí hậu toàn cầu lại đòi hỏi giải pháp mang tính toàn cầu chứ không thể giải quyết đơn lẻ bởi một quốc gia?",
+    "options": [
+      "Khí thải khuếch tán tự do trong khí quyển toàn cầu, tác động đến mọi nơi",
+      "Do các nước nghèo không chịu tác động của hiện tượng này",
+      "Vì biến đổi khí hậu chỉ xảy ra ở các vùng biển quốc tế",
+      "Do các quốc gia đã ký cam kết xóa bỏ hoàn toàn ngành công nghiệp"
+    ],
+    "answer": "Khí quyển khuếch tán tự do trong khí quyển toàn cầu, tác động đến mọi nơi",
+    "explanation": "Bầu khí quyển là chung, ô nhiễm và khí nhà kính từ một quốc gia có thể di chuyển và gây hiệu ứng ấm lên cho toàn bộ bề mặt Trái Đất, đòi hỏi mọi nước cùng hợp tác."
+  },
+  {
+    "question": "Nguyên nhân chính dẫn đến an ninh lương thực bị đe dọa tại nhiều quốc gia châu Phi hiện nay là gì?",
+    "options": [
+      "Thiên tai hạn hán kéo dài, xung đột nội bộ và kỹ thuật canh tác lạc hậu",
+      "Do người dân châu Phi không có nhu cầu sử dụng lương thực",
+      "Do diện tích đất nông nghiệp bị ngập sâu dưới nước biển hoàn toàn",
+      "Do các nước phát triển cấm xuất khẩu gạo sang khu vực này"
+    ],
+    "answer": "Thiên tai hạn hán kéo dài, xung đột nội bộ và kỹ thuật canh tác lạc hậu",
+    "explanation": "Khí hậu khô hạn khắc nghiệt kết hợp với bất ổn chính trị nội bộ và sản xuất nông nghiệp lạc hậu khiến nguồn cung lương thực tại đây luôn bấp bênh."
+  },
+  {
+    "question": "Hệ quả xã hội nghiêm trọng nhất của nạn dịch bệnh toàn cầu đối với lực lượng sản xuất là gì?",
+    "options": [
+      "Làm suy giảm nghiêm trọng số lượng và chất lượng nguồn lao động",
+      "Khiến giá trị của các đồng tiền điện tử sụt giảm nhanh chóng",
+      "Làm tăng diện tích các khu bảo tồn thiên nhiên hoang dã",
+      "Ngăn chặn hoàn toàn quá trình tự động hóa máy móc"
+    ],
+    "answer": "Làm suy giảm nghiêm trọng số lượng và chất lượng nguồn lao động",
+    "explanation": "Dịch bệnh lớn làm nhiều người tử vong hoặc mất sức lao động, gây gián đoạn chuỗi cung ứng và ảnh hưởng trực tiếp đến nhân lực sản xuất."
+  },
+  {
+    "question": "Sự tương phản về trình độ phát triển kinh tế giữa nhóm nước phát triển và đang phát triển thể hiện rõ nhất qua chỉ số nào?",
+    "options": [
+      "Tổng sản phẩm trong nước bình quân đầu người (GDP trên người)",
+      "Tổng diện tích đất đai tự nhiên của toàn quốc gia",
+      "Số lượng các con sông lớn chảy qua vùng thủ đô",
+      "Tổng lượng mưa trung bình ghi nhận được trong năm"
+    ],
+    "answer": "Tổng sản phẩm trong nước bình quân đầu người (GDP trên người)",
+    "explanation": "GDP bình quân đầu người phản ánh năng suất lao động và độ giàu có của nền kinh tế, chỉ số này ở nước phát triển cao gấp nhiều lần nước đang phát triển."
+  },
+  {
+    "question": "Tại sao các nước Mỹ La-tinh sở hữu tài nguyên khoáng sản phong phú nhưng nền kinh tế phát triển chưa ổn định?",
+    "options": [
+      "Do phụ thuộc nhiều vào vốn nước ngoài và tình hình chính trị thiếu ổn định",
+      "Do thiếu hụt hoàn toàn lực lượng lao động trong độ tuổi",
+      "Do các mỏ khoáng sản nằm ở độ sâu không thể khai thác",
+      "Do người dân không chấp nhận sử dụng máy móc công nghiệp"
+    ],
+    "answer": "Do phụ thuộc nhiều vào vốn nước ngoài và tình hình chính trị thiếu ổn định",
+    "explanation": "Nhiều nước Mỹ La-tinh từng nợ nước ngoài cao, tốc độ tăng trưởng bấp bênh do chính sách kinh tế thay đổi liên tục theo các cuộc khủng hoảng chính trị."
+  },
+  {
+    "question": "Hệ quả tiêu cực của quá trình đô thị hóa tự phát tại các thành phố lớn ở Mỹ La-tinh là gì?",
+    "options": [
+      "Hình thành các khu ổ chuột, mất mỹ quan và gia tăng tệ nạn xã hội",
+      "Làm cho giá bất động sản ở vùng nông thôn tăng cao đột biến",
+      "Khiến cho toàn bộ người dân thành thị chuyển sang làm nông nghiệp",
+      "Làm sạch nguồn nước thải sinh hoạt một cách tự nhiên"
+    ],
+    "answer": "Hình thành các khu ổ chuột, mất mỹ quan và gia tăng tệ nạn xã hội",
+    "explanation": "Dân nghèo nông thôn đổ ra thành phố không có việc làm, tạo nên các khu nhà tạm bợ (khu ổ chuột) thiếu thốn hạ tầng và dễ phát sinh tội phạm."
+  },
+  {
+    "question": "Việc thiết lập không gian tự do vùng Schengen trong EU mang lại ý nghĩa trực tiếp nào?",
+    "options": [
+      "Bãi bỏ kiểm soát biên giới nội bộ, giúp người dân đi lại tự do thuận tiện",
+      "Bắt buộc mọi công dân phải thay đổi quốc tịch gốc của mình",
+      "Cấm người dân các nước thành viên di chuyển ra nước ngoài",
+      "Yêu cầu phải có thị thực đặc biệt khi đi qua mỗi thành phố"
+    ],
+    "answer": "Bãi bỏ kiểm soát biên giới nội bộ, giúp người dân đi lại tự do thuận tiện",
+    "explanation": "Hiệp ước Schengen xóa bỏ thủ tục kiểm tra hộ chiếu tại biên giới giữa các nước tham gia, tạo điều kiện thuận lợi tối đa cho đi lại, du lịch và làm việc."
+  },
+  {
+    "question": "Tại sao việc sử dụng đồng tiền chung Euro lại giúp EU nâng cao năng lực cạnh tranh kinh tế?",
+    "options": [
+      "Xóa bỏ rủi ro tỷ giá, giảm chi phí chuyển đổi tiền tệ trong giao dịch nội khối",
+      "Làm tăng giá thành của toàn bộ hàng hóa xuất khẩu ra bên ngoài",
+      "Ngăn cản các nước ngoài EU đầu tư vào thị trường châu Âu",
+      "Giúp các ngân hàng không cần quản lý tiền mặt nữa"
+    ],
+    "answer": "Xóa bỏ rủi ro tỷ giá, giảm chi phí chuyển đổi tiền tệ trong giao dịch nội khối",
+    "explanation": "Sử dụng chung một đồng tiền giúp doanh nghiệp dễ tính toán chi phí, không tốn phí đổi tiền khi mua bán qua lại giữa các nước thành viên, thúc đẩy thương mại."
+  },
+  {
+    "question": "Nhân tố tự nhiên nào tạo điều kiện thuận lợi nhất để Mỹ La-tinh phát triển nền nông nghiệp nhiệt đới quy mô lớn?",
+    "options": [
+      "Các đồng bằng rộng lớn và đất feralit, đất phù sa màu mỡ",
+      "Mạng lưới sông ngòi đóng băng quanh năm ở phía nam",
+      "Hệ thống núi cao An-đét dốc đứng hiểm trở",
+      "Các hoang mạc khô cằn xuất hiện ven biển phía tây"
+    ],
+    "answer": "Các đồng bằng rộng lớn và đất feralit, đất phù sa màu mỡ",
+    "explanation": "Các đồng bằng lớn như A-ma-gôn, Pam-pa cùng đất đai màu mỡ và khí hậu nóng ẩm rất thích hợp lập đồn điền trồng cây công nghiệp và chăn nuôi gia súc."
+  },
+  {
+    "question": "Nguyên nhân chính khiến rừng nhiệt đới A-ma-gôn bị suy giảm diện tích nghiêm trọng trong những thập kỷ qua là gì?",
+    "options": [
+      "Khai hoang đất sản xuất nông nghiệp, làm đường giao thông và khai thác gỗ",
+      "Do hiện tượng động đất sụt lún toàn bộ vùng thềm lục địa",
+      "Do lượng mưa ở vùng xích đạo giảm xuống bằng không",
+      "Do sự di cư tự nhiên của các loài cây rừng sang vùng ôn đới"
+    ],
+    "answer": "Khai hoang đất sản xuất nông nghiệp, làm đường giao thông và khai thác gỗ",
+    "explanation": "Các hoạt động kinh tế của con người như đốt rừng làm rẫy, mở các trang trại chăn nuôi bò và xây dựng tuyến đường xuyên A-ma-gôn là nguyên nhân làm mất rừng."
+  },
+  {
+    "question": "Liên kết vùng châu Âu (Euroregion) được hình thành trên cơ sở nào?",
+    "options": [
+      "Sự hợp tác giữa các vùng biên giới của các quốc gia thành viên EU",
+      "Sự sáp nhập hoàn toàn lãnh thổ của hai nước láng giềng",
+      "Quyết định của một quốc gia đứng đầu kiểm soát vùng khác",
+      "Sự cách ly kinh tế giữa các tỉnh trong cùng một đất nước"
+    ],
+    "answer": "Sự hợp tác giữa các vùng biên giới của các quốc gia thành viên EU",
+    "explanation": "Liên kết vùng là mô hình hợp tác tự nguyện giữa các địa phương thuộc các quốc gia khác nhau nằm sát biên giới nhằm phát triển kinh tế, văn hóa chung."
+  },
+  {
+    "question": "Mục tiêu cốt lõi của việc xây dựng Đường lối chung về đối ngoại và an ninh của EU là gì?",
+    "options": [
+      "Duy trì hòa bình, tăng cường an ninh và khẳng định vị thế của EU trên quốc tế",
+      "Xây dựng quân đội riêng để thôn tính các thuộc địa cũ",
+      "Cấm các nước thành viên quan hệ ngoại giao với các nước châu Á",
+      "Hủy bỏ toàn bộ các cam kết quốc tế đã ký trước đây"
+    ],
+    "answer": "Duy trì hòa bình, tăng cường an ninh và khẳng định vị thế của EU trên quốc tế",
+    "explanation": "Chính sách đối ngoại chung giúp EU có tiếng nói đồng nhất, mạnh mẽ hơn trong các vấn đề chính trị toàn cầu và bảo vệ an ninh chung của khối."
+  },
+  {
+    "question": "Yếu tố nào sau đây đóng vai trò quyết định giúp ngành dịch vụ của EU đạt trình độ phát triển cao hàng đầu thế giới?",
+    "options": [
+      "Hạ tầng hiện đại, nguồn lao động chất lượng cao và khoa học công nghệ tiên tiến",
+      "Sự ưu đãi đặc biệt của khí hậu băng giá vùng Bắc Âu",
+      "Diện tích đất nông nghiệp của vùng lớn nhất thế giới",
+      "Chính sách độc quyền hoàn toàn thị trường tiêu dùng nội địa"
+    ],
+    "answer": "Hạ tầng hiện đại, nguồn lao động chất lượng cao và khoa học công nghệ tiên tiến",
+    "explanation": "EU có nền tảng tri thức tốt, hệ thống giao thông viễn thông hoàn thiện và nguồn lực tài chính lớn, giúp các ngành tài chính, du lịch, bảo hiểm phát triển mạnh."
+  },
+  {
+    "question": "Cho bảng số liệu về cơ cấu kinh tế của một quốc gia: Nông nghiệp chiếm 5 phần trăm, Công nghiệp chiếm 25 phần trăm, Dịch vụ chiếm 70 phần trăm. Quốc gia này khả năng cao thuộc nhóm nước nào?",
+    "options": [
+      "Nhóm nước phát triển",
+      "Nhóm nước đang phát triển",
+      "Nhóm nước có nền kinh tế lạc hậu",
+      "Nhóm nước thuần nông nghiệp"
+    ],
+    "answer": "Nhóm nước phát triển",
+    "explanation": "Các nước phát triển có đặc trưng cơ cấu kinh tế hiện đại với tỉ trọng ngành dịch vụ rất cao (thường trên 65-70 phần trăm) và tỉ trọng nông nghiệp rất thấp."
+  },
+  {
+    "question": "Một tập đoàn công nghệ có trụ sở tại Mỹ, nhà máy lắp ráp tại sản xuất ở Việt Nam và bán sản phẩm cho người tiêu dùng toàn cầu. Đây là ví dụ điển hình cho thực thể nào?",
+    "options": [
+      "Công ty đa quốc gia",
+      "Doanh nghiệp tư nhân địa phương",
+      "Hợp tác xã nông nghiệp kiểu mới",
+      "Doanh nghiệp nhà nước độc quyền"
+    ],
+    "answer": "Công ty đa quốc gia",
+    "explanation": "Công ty đa quốc gia là công ty có trụ sở ở một nước nhưng hoạt động sản xuất, kinh doanh diễn ra ở nhiều quốc gia khác nhau."
+  },
+  {
+    "question": "Hành động nào sau đây của người dân góp phần trực tiếp đảm bảo an ninh nguồn nước sạch tại địa phương?",
+    "options": [
+      "Sử dụng tiết kiệm nước và không xả rác bừa bãi ra sông hồ",
+      "Tăng cường mua tích trữ nước đóng chai nhựa số lượng lớn",
+      "Đào thật nhiều giếng khoan sâu lạm dụng nước ngầm",
+      "Xả toàn bộ nước thải sinh hoạt chưa qua xử lý ra ao"
+    ],
+    "answer": "Sử dụng tiết kiệm nước và không xả rác bừa bãi ra sông hồ",
+    "explanation": "Bảo vệ nguồn nước mặt không bị ô nhiễm và sử dụng nước khoa học là biện pháp thiết thực nhất để duy trì nguồn nước sạch bền vững."
+  },
+  {
+    "question": "Tại sao các nước ven biển vùng vịnh Ca-ri-bê thuộc Mỹ La-tinh lại có lợi thế lớn để phát triển ngành du lịch?",
+    "options": [
+      "Có nhiều bãi biển đẹp, khí hậu ấm áp và cảnh quan đảo đặc sắc",
+      "Có hệ thống băng hà kỳ vĩ thích hợp môn trượt tuyết",
+      "Nằm gần khu vực có mạng lưới đường sắt xuyên lục địa",
+      "Nơi đây hoàn toàn không chịu ảnh hưởng của các cơn bão"
+    ],
+    "answer": "Có nhiều bãi biển đẹp, khí hậu ấm áp và cảnh quan đảo đặc sắc",
+    "explanation": "Vùng Ca-ri-bê nổi tiếng toàn cầu với các bãi biển cát trắng, nước xanh quanh năm và các rạn san hô, thu hút hàng triệu khách du lịch quốc tế."
+  },
+  {
+    "question": "Sự phát triển của các ngành công nghiệp đòi hỏi hàm lượng kỹ thuật cao ở EU (như sản xuất máy bay, tên lửa Ariane) phụ thuộc chủ yếu vào điều kiện nào?",
+    "options": [
+      "Sự liên kết chặt chẽ và hợp tác chuyển giao công nghệ giữa các nước thành viên",
+      "Nguồn khoáng sản thô giá rẻ nhập khẩu từ các đảo Nam Cực",
+      "Sự phân bố đồng đều của các dòng sông lớn ở Tây Âu",
+      "Chính sách hạn chế tối đa việc sử dụng máy tính điện tử"
+    ],
+    "answer": "Sự liên kết chặt chẽ và hợp tác chuyển giao công nghệ giữa các nước thành viên",
+    "explanation": "Các ngành công nghệ vũ trụ, hàng không đòi hỏi chi phí khổng lồ và kỹ thuật phức tạp, một nước riêng lẻ khó tự làm được mà cần sự liên kết nguồn lực toàn khối EU."
+  },
+  {
+    "question": "Một quốc gia có giá trị xuất khẩu là 50 tỉ USD, giá trị nhập khẩu là 45 tỉ USD. Cán cân thương mại của quốc gia này đang ở trạng thái nào?",
+    "options": [
+      "Xuất siêu 5 tỉ USD",
+      "Nhập siêu 5 tỉ USD",
+      "Cán cân thương mại cân bằng",
+      "Thâm hụt thương mại nghiêm trọng"
+    ],
+    "answer": "Xuất siêu 5 tỉ USD",
+    "explanation": "Cán cân thương mại bằng giá trị xuất khẩu trừ nhập khẩu: 50 trừ 45 bằng dương 5 tỉ USD. Giá trị dương nghĩa là quốc gia này đang xuất siêu."
+  },
+  {
+    "question": "Tại sao việc duy trì hòa bình và ổn định chính trị lại là điều kiện tiên quyết để thúc đẩy tăng trưởng kinh tế ở các quốc gia Mỹ La-tinh?",
+    "options": [
+      "Tạo môi trường an toàn để thu hút đầu tư nước ngoài và phát triển sản xuất",
+      "Giúp tăng lượng mưa tự nhiên cho các vùng trồng cây công nghiệp",
+      "Làm cho giá thành khoáng sản thô tự động tăng cao trên sàn quốc tế",
+      "Khiến tất cả các công ty đa quốc gia phải nhượng lại toàn bộ tài sản"
+    ],
+    "answer": "Tạo môi trường an toàn để thu hút đầu tư nước ngoài và phát triển sản xuất",
+    "explanation": "Nhà đầu tư chỉ bỏ vốn vào những nơi an toàn, không có bạo động hay lật đổ chính quyền. Ổn định giúp doanh nghiệp yên tâm lên kế hoạch sản xuất dài hạn."
+  },
+  {
+    "question": "Sự già hóa dân số nhanh chóng ở nhiều nước EU hiện nay đang đặt ra thách thức lớn nhất nào cho xã hội?",
+    "options": [
+      "Thiếu hụt lực lượng lao động và gia tăng chi phí phúc lợi, y tế cho người già",
+      "Làm giảm diện tích nhà ở tại các khu vực trung tâm đô thị",
+      "Khiến hệ thống giao thông công cộng bị ngưng trệ hoàn toàn",
+      "Làm tăng tỉ lệ người mù chữ trong độ tuổi thanh niên"
+    ],
+    "answer": "Thiếu hụt lực lượng lao động và gia tăng chi phí phúc lợi, y tế cho người già",
+    "explanation": "Người già nhiều, người trẻ ít dẫn tới thiếu người làm việc tạo ra của cải, trong khi quỹ lương hưu và chi phí chăm sóc sức khỏe cho người lớn tuổi tăng mạnh."
+  },
+  {
+    "question": "Việc thực hiện Chính sách nông nghiệp chung (CAP) của EU nhằm hướng tới mục tiêu chủ yếu nào?",
+    "options": [
+      "Đảm bảo nguồn cung thực phẩm ổn định, tăng năng suất và giá cả hợp lí",
+      "Cấm hoàn toàn việc ứng dụng công nghệ sinh học vào trồng trọt",
+      "Biến toàn bộ lãnh thổ châu Âu thành vùng đồng cỏ chăn nuôi thuần túy",
+      "Phụ thuộc hoàn toàn vào nguồn nông sản nhập khẩu từ các châu lục khác"
+    ],
+    "answer": "Đảm bảo nguồn cung thực phẩm ổn định, tăng năng suất và giá cả hợp lí",
+    "explanation": "CAP được thiết kế nhằm hiện đại hóa nông nghiệp châu Âu, hỗ trợ nông dân nâng cao năng suất để tự chủ lương thực an toàn trong khối."
+  },
+  {
+    "question": "Mối quan hệ giữa sự phát triển kinh tế của EU và việc bảo vệ môi trường được thể hiện thông qua chiến lược nào?",
+    "options": [
+      "Thỏa thuận Xanh châu Âu nhằm hướng tới nền kinh tế trung hòa các-bon",
+      "Chiến lược tăng cường xây dựng nhà máy nhiệt điện đốt than đá",
+      "Chính sách xả thải tự do cho các khu công nghiệp nặng vùng ven biển",
+      "Cấm hoàn toàn việc nghiên cứu các nguồn năng lượng tái tạo mới"
+    ],
+    "answer": "Thỏa thuận Xanh châu Âu nhằm hướng tới nền kinh tế trung hòa các-bon",
+    "explanation": "EU đi đầu trong việc cắt giảm phát thải khí nhà kính, chuyển đổi sang kinh tế tuần hoàn và năng lượng sạch thông qua kế hoạch Thỏa thuận Xanh."
+  },
+  {
+    "question": "Sự phân bố dân cư không đều ở Mỹ La-tinh, tập trung đông ở vùng ven biển và thưa thớt ở vùng nội địa (như bồn địa A-ma-gôn) chịu tác động quyết định của yếu tố nào?",
+    "options": [
+      "Điều kiện tự nhiên kết hợp với lịch sử khai thác lãnh thổ",
+      "Quyết định hành chính mang tính bắt buộc của các chính phủ",
+      "Sự phân bố ngẫu nhiên của các loài động vật hoang dã",
+      "Xu hướng chuyển cư tự phát của người dân sang châu Âu"
+    ],
+    "answer": "Điều kiện tự nhiên kết hợp với lịch sử khai thác lãnh thổ",
+    "explanation": "Vùng ven biển có khí hậu thuận lợi, giao thương biển dễ dàng và là nơi người châu Âu đặt chân đến khai phá đầu tiên nên đông dân. Rừng rậm nội địa khắc nghiệt nên ít dân."
+  },
+  {
+    "question": "Tại sao các nước đang phát triển thường gặp khó khăn về mặt tài chính trong việc thực hiện các cam kết quốc tế về cắt giảm khí nhà kính?",
+    "options": [
+      "Thiếu nguồn vốn và công nghệ xanh, trong khi cần ưu tiên vốn cho tăng trưởng kinh tế xóa nghèo",
+      "Do luật pháp quốc tế cấm các nước nghèo tiếp cận năng lượng mặt trời",
+      "Do các nước này không chịu bất kỳ hậu quả nào của biến đổi khí hậu",
+      "Do các nhà máy ở đây hoàn toàn không phát thải khí các-bon ra môi trường"
+    ],
+    "answer": "Thiếu nguồn vốn và công nghệ xanh, trong khi cần ưu tiên vốn cho tăng trưởng kinh tế xóa nghèo",
+    "explanation": "Chuyển đổi sang năng lượng sạch cần đầu tư rất lớn cho công nghệ mới. Các nước đang phát triển phải cân đối ngân sách eo hẹp cho mục tiêu cấp bách là phát triển kinh tế, nâng thu nhập người dân."
+  },
+  {
+    "question": "Sự hợp tác giữa các quốc gia thành viên EU trong việc quản lý và bảo vệ nguồn nước sông Đa-nuýp chảy qua nhiều nước là biểu hiện của nguyên lý nào?",
+    "options": [
+      "Sự thống nhất và phụ thuộc lẫn nhau giữa các thành phần trong môi trường địa lí",
+      "Sự cách ly hoàn toàn về mặt lãnh thổ tự nhiên giữa các nước",
+      "Quyền độc quyền sử dụng dòng sông của quốc gia nằm ở thượng nguồn",
+      "Sự triệt tiêu hoàn toàn các dòng chảy tự nhiên do biên giới chính trị"
+    ],
+    "answer": "Sự thống nhất và phụ thuộc lẫn nhau giữa các thành phần trong môi trường địa lí",
+    "explanation": "Sông chảy qua nhiều quốc gia, nếu nước thượng nguồn bị ô nhiễm thì hạ nguồn chịu hậu quả. Do đó các nước phải cùng nhau quản lý, thể hiện tính hệ thống và thống nhất của tự nhiên."
+  },
+  {
+    "question": "Tác động lâu dài của việc tự do dịch cư lao động trong không gian EU đối với các nước thành viên có trình độ kinh tế thấp hơn ở Đông Âu là gì?",
+    "options": [
+      "Có thể gây ra tình trạng chảy máu chất xám và thiếu hụt nhân lực trình độ cao",
+      "Giúp các nước này tăng quy mô dân số lên gấp nhiều lần trong ngắn hạn",
+      "Hạn chế hoàn toàn việc người dân tiếp cận với nền giáo dục tiên tiến",
+      "Làm cho tỉ lệ thất nghiệp ở khu vực nông thôn tăng lên mức tối đa"
+    ],
+    "answer": "Có thể gây ra tình trạng chảy máu chất xám và thiếu hụt nhân lực trình độ cao",
+    "explanation": "Lao động giỏi, có chuyên môn cao ở các nước kinh tế kém hơn có xu hướng di cư sang các nước giàu ở Tây Âu (Đức, Pháp) để hưởng lương cao, khiến nước nhà mất đi nhân tài."
+  },
+  {
+    "question": "Giải pháp căn cơ nhất để giải quyết triệt đề vấn đề an ninh năng lượng toàn cầu một cách bền vững trong tương lai là gì?",
+    "options": [
+      "Đẩy mạnh nghiên cứu và sử dụng các nguồn năng lượng tái tạo",
+      "Tăng cường tối đa việc tìm kiếm và đốt các mỏ than đá cũ",
+      "Đóng cửa hoàn toàn tất cả các nhà máy sản xuất công nghiệp",
+      "Phụ thuộc hoàn toàn vào nguồn cung dầu mỏ của một quốc gia duy nhất"
+    ],
+    "answer": "Đẩy mạnh nghiên cứu và sử dụng các nguồn năng lượng tái tạo",
+    "explanation": "Nhiên liệu hóa thạch (dầu, than) sẽ cạn kiệt và gây ô nhiễm. Năng lượng tái tạo (gió, mặt trời, hydro) là nguồn vô tận, sạch, giúp các nước tự chủ nguồn cung lâu dài."
+  }
+]
+
+

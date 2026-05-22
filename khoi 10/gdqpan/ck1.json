@@ -1,0 +1,554 @@
+[
+  {
+    "question": "Ngày truyền thống của Quân đội nhân dân Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 22 tháng 12 năm 1944.",
+      "Ngày 19 tháng 8 năm 1945.",
+      "Ngày 22 tháng 12 năm 1946.",
+      "Ngày 30 tháng 4 năm 1975."
+    ],
+    "answer": "Ngày 22 tháng 12 năm 1944.",
+    "explanation": "Ngày 22/12/1944 là ngày thành lập Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội nhân dân Việt Nam."
+  },
+  {
+    "question": "Tên gọi đầu tiên của Quân đội nhân dân Việt Nam là gì?",
+    "options": [
+      "Đội Việt Nam Tuyên truyền Giải phóng quân.",
+      "Cứu quốc quân.",
+      "Việt Nam Giải phóng quân.",
+      "Vệ quốc đoàn."
+    ],
+    "answer": "Đội Việt Nam Tuyên truyền Giải phóng quân.",
+    "explanation": "Theo chỉ thị của lãnh tụ Hồ Chí Minh, Đội Việt Nam Tuyên truyền Giải phóng quân được thành lập ngày 22/12/1944 tại Cao Bằng."
+  },
+  {
+    "question": "Ngày truyền thống của Công an nhân dân Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 19 tháng 8 năm 1945.",
+      "Ngày 22 tháng 12 năm 1944.",
+      "Ngày 2 tháng 9 năm 1945.",
+      "Ngày 10 tháng 10 năm 1954."
+    ],
+    "answer": "Ngày 19 tháng 8 năm 1945.",
+    "explanation": "Ngày 19/8/1945 cùng với sự thành lập của chính quyền cách mạng trong Cách mạng tháng Tám, lực lượng Công an nhân dân chính thức ra đời."
+  },
+  {
+    "question": "Bản chất cách mạng của Quân đội nhân dân Việt Nam mang bản chất của giai cấp nào?",
+    "options": [
+      "Giai cấp công nhân.",
+      "Giai cấp nông dân.",
+      "Tầng lớp trí thức.",
+      "Toàn thể nhân dân."
+    ],
+    "answer": "Giai cấp công nhân.",
+    "explanation": "Quân đội nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo nên mang bản chất cách mạng của giai cấp công nhân."
+  },
+  {
+    "question": "Nghĩa vụ quân sự là nghĩa vụ vẻ vang của ai đối với Tổ quốc?",
+    "options": [
+      "Công dân Việt Nam.",
+      "Người nước ngoài cư trú tại Việt Nam.",
+      "Học sinh và sinh viên nam.",
+      "Chỉ những người làm việc trong cơ quan nhà nước."
+    ],
+    "answer": "Công dân Việt Nam.",
+    "explanation": "Theo Luật Nghĩa vụ quân sự, đây là nghĩa vụ vẻ vang của mọi công dân Việt Nam, không phân biệt dân tộc, thành phần xã hội."
+  },
+  {
+    "question": "Độ tuổi gọi nhập ngũ trong thời bình của công dân nam theo quy định chung của Luật Nghĩa vụ quân sự hiện hành là bao nhiêu?",
+    "options": [
+      "Từ đủ 18 tuổi đến hết 25 tuổi.",
+      "Từ đủ 17 tuổi đến hết 25 tuổi.",
+      "Từ đủ 18 tuổi đến hết 27 tuổi.",
+      "Từ đủ 20 tuổi đến hết 30 tuổi."
+    ],
+    "answer": "Từ đủ 18 tuổi đến hết 25 tuổi.",
+    "explanation": "Quy định chung của Luật Nghĩa vụ quân sự quy định độ tuổi gọi nhập ngũ từ đủ 18 tuổi đến hết 25 tuổi (trường hợp hoãn học đại học/cao đẳng thì kéo dài đến hết 27 tuổi)."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm trong Luật Giáo dục quốc phòng và an ninh?",
+    "options": [
+      "Trốn tránh, cản trở việc thực hiện giáo dục quốc phòng và an ninh.",
+      "Tham gia học tập giáo dục quốc phòng tại trường học.",
+      "Tuyên truyền về truyền thống chống giặc ngoại xâm.",
+      "Tổ chức hội thao giáo dục quốc phòng cho học sinh."
+    ],
+    "answer": "Trốn tránh, cản trở việc thực hiện giáo dục quốc phòng và an ninh.",
+    "explanation": "Tất cả các hành vi trốn tránh, cản trở hoặc làm sai lệch nội dung giáo dục quốc phòng và an ninh đều bị pháp luật nghiêm cấm."
+  },
+  {
+    "question": "Lực lượng nào làm nòng cốt trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia?",
+    "options": [
+      "Công an nhân dân.",
+      "Dân quân tự vệ.",
+      "Lực lượng kiểm lâm.",
+      "Hội cựu chiến binh."
+    ],
+    "answer": "Công an nhân dân.",
+    "explanation": "Công an nhân dân có chức năng làm nòng cốt trong sự nghiệp bảo vệ an ninh quốc gia và giữ gìn trật tự an toàn xã hội."
+  },
+  {
+    "question": "Khi thực hiện động tác quay tại chỗ, người chiến sĩ lấy bộ phận nào của chân làm trụ?",
+    "options": [
+      "Gót bàn chân.",
+      "Mũi bàn chân.",
+      "Cạnh ngoài bàn chân.",
+      "Cả bàn chân chạm đất."
+    ],
+    "answer": "Gót bàn chân.",
+    "explanation": "Theo điều lệnh đội ngũ, khi thực hiện các động tác quay (phải, trái, đằng sau), chân làm trụ luôn dùng gót chân kết hợp mũi chân kia để quay."
+  },
+  {
+    "question": "Động tác quay đằng sau thì hướng quay sang bên nào?",
+    "options": [
+      "Quay sang bên phải.",
+      "Quay sang bên trái.",
+      "Quay bên nào cũng được.",
+      "Quay chéo về phía trước."
+    ],
+    "answer": "Quay sang bên phải.",
+    "explanation": "Động tác quay đằng sau quy định phải quay sang bên phải một góc 180 độ."
+  },
+  {
+    "question": "Khi nghe khẩu lệnh 'Nghiêm', người chiến sĩ phải thực hiện tư thế đứng như thế nào?",
+    "options": [
+      "Đứng thẳng, hai gót chân sát nhau, hai mũi chân mở rộng một góc khoảng 45 độ.",
+      "Đứng thả lỏng, hai chân mở rộng bằng vai.",
+      "Đứng thẳng, hai chân khép hoàn toàn song song.",
+      "Đứng chân trước chân sau tự nhiên."
+    ],
+    "answer": "Đứng thẳng, hai gót chân sát nhau, hai mũi chân mở rộng một góc khoảng 45 độ.",
+    "explanation": "Đúng tư thế nghiêm theo điều lệnh: Hai gót chân chạm vào nhau nằm trên một đường ngang, hai mũi chân mở rộng thành một góc khoảng 45 độ."
+  },
+  {
+    "question": "Trong động tác đi đều, độ dài bước đi thông thường của học sinh phổ thông trung học khoảng bao nhiêu?",
+    "options": [
+      "Khoảng 60 đến 65 cen-ti-mét.",
+      "Khoảng 75 cen-ti-mét.",
+      "Khoảng 40 cen-ti-mét.",
+      "Khoảng 90 cen-ti-mét."
+    ],
+    "answer": "Khoảng 60 đến 65 cen-ti-mét.",
+    "explanation": "Đối với học sinh, do chiều cao và thể hình, độ dài bước đi đều tiêu chuẩn thường ngắn hơn chiến sĩ quân đội, dao động khoảng 60-65 cm."
+  },
+  {
+    "question": "Khi có còi báo động bom đạn từ máy bay, hành động đầu tiên cần làm ngay là gì?",
+    "options": [
+      "Nhanh chóng di chuyển xuống hầm trú ẩn hoặc vị trí che chắn an toàn.",
+      "Chạy ra sân xem máy bay bay từ hướng nào.",
+      "Gọi điện thoại cho người thân hỏi tình hình.",
+      "Thu gom sách vở, tài sản cá nhân đóng gói cẩn thận."
+    ],
+    "answer": "Nhanh chóng di chuyển xuống hầm trú ẩn hoặc vị trí che chắn an toàn.",
+    "explanation": "Để bảo đảm tính mạng, hành động tiên quyết và khẩn cấp nhất là tìm nơi trú ẩn an toàn ngăn đất đá và mảnh bom."
+  },
+  {
+    "question": "Hành động nào sau đây là đúng khi phát hiện một vật thể lạ nghi là bom hoặc lựu đạn?",
+    "options": [
+      "Giữ nguyên hiện trường và báo ngay cho cơ quan chức năng hoặc người lớn.",
+      "Dùng gậy chọc thử xem bên trong chứa gì.",
+      "Nhặt lên mang về nhà làm kỷ niệm.",
+      "Rủ các bạn xung quanh ném đá vào vật thể đó."
+    ],
+    "answer": "Giữ nguyên hiện trường và báo ngay cho cơ quan chức năng hoặc người lớn.",
+    "explanation": "Bom đạn sót lại cực kỳ nguy hiểm, tuyệt đối không được chạm vào hoặc tác động lực, cần giữ nguyên vị trí và báo chính quyền."
+  },
+  {
+    "question": "Thiên tai nào sau đây thường xảy ra phổ biến nhất vào mùa mưa bão ở vùng núi nước ta?",
+    "options": [
+      "Lũ quét và sạt lở đất.",
+      "Ngập lụt diện rộng.",
+      "Hạn hán và xâm nhập mặn.",
+      "Động đất mạnh kèm sóng thần."
+    ],
+    "answer": "Lũ quét và sạt lở đất.",
+    "explanation": "Đặc điểm địa hình dốc kết hợp mưa lớn tập trung ở vùng miền núi rất dễ gây ra hiện tượng lũ quét và sạt lở đất đá."
+  },
+  {
+    "question": "Mục đích chính của việc học tập môn Giáo dục quốc phòng và an ninh ở trường trung học phổ thông là gì?",
+    "options": [
+      "Giáo dục tinh thần yêu nước, trách nhiệm và kỹ năng bảo vệ Tổ quốc.",
+      "Huấn luyện học sinh trở thành chiến sĩ quân đội tinh nhuệ ngay lập tức.",
+      "Cung cấp kiến thức để học sinh đi làm việc ở nước ngoài.",
+      "Thay thế hoàn toàn cho các môn thể dục và thể thao."
+    ],
+    "answer": "Giáo dục tinh thần yêu nước, trách nhiệm và kỹ năng bảo vệ Tổ quốc.",
+    "explanation": "Môn học nhằm bồi dưỡng lòng yêu nước, niềm tự hào dân tộc, nâng cao ý thức, trách nhiệm và kỹ năng quốc phòng cần thiết cho học sinh."
+  },
+  {
+    "question": "Một trong những truyền thống quý báu của Quân đội nhân dân Việt Nam là gì?",
+    "options": [
+      "Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập tự do.",
+      "Luôn sử dụng vũ khí hiện đại nhất thế giới trong mọi trận đánh.",
+      "Chỉ tham gia chiến đấu bảo vệ vùng đồng bằng và thành phố.",
+      "Tự lực cánh sinh hoàn toàn mà không cần sự giúp đỡ của nhân dân."
+    ],
+    "answer": "Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập tự do.",
+    "explanation": "Đây là lời khen ngợi của Chủ tịch Hồ Chí Minh, khẳng định cốt lõi truyền thống trung hiếu và tinh thần xả thân của quân đội."
+  },
+  {
+    "question": "Lực lượng Công an nhân dân Việt Nam có mấy lực lượng chính?",
+    "options": [
+      "2 lực lượng là Lực lượng An ninh và Lực lượng Cảnh sát.",
+      "3 lực lượng là An ninh, Cảnh sát và Dân quân tự vệ.",
+      "4 lực lượng là An ninh, Cảnh sát, Đặc công và Tình báo.",
+      "1 lực lượng duy nhất làm mọi nhiệm vụ."
+    ],
+    "answer": "2 lực lượng là Lực lượng An ninh và Lực lượng Cảnh sát.",
+    "explanation": "Công an nhân dân Việt Nam gồm hai lực lượng cốt lõi chuyên trách là An ninh (phòng chống gián điệp, phản động) và Cảnh sát (giữ gìn trật tự an toàn xã hội)."
+  },
+  {
+    "question": "Tổ chức nào lãnh đạo tuyệt đối, trực tiếp về mọi mặt đối với Quân đội nhân dân và Công an nhân dân Việt Nam?",
+    "options": [
+      "Đảng Cộng sản Việt Nam.",
+      "Bộ Giáo dục và Đào tạo.",
+      "Ủy ban nhân dân các cấp.",
+      "Hội Cựu chiến binh Việt Nam."
+    ],
+    "answer": "Đảng Cộng sản Việt Nam.",
+    "explanation": "Đảng Cộng sản Việt Nam là lực lượng độc tôn duy nhất lãnh đạo tuyệt đối, trực tiếp về mọi mặt đối với các lực lượng vũ trang nhân dân."
+  },
+  {
+    "question": "Khi nghe khẩu lệnh 'Thôi', người chiến sĩ đang ở tư thế nào phải dừng hành động hành tiến hoặc tập luyện?",
+    "options": [
+      "Hủy bỏ động tác đang làm và trở về tư thế đứng nghiêm.",
+      "Đứng nghiêm rồi ngồi ngay xuống đất.",
+      "Chạy nhanh về vị trí xuất phát ban đầu.",
+      "Tiếp tục thực hiện nốt động tác rồi mới dừng."
+    ],
+    "answer": "Hủy bỏ động tác đang làm và trở về tư thế đứng nghiêm.",
+    "explanation": "Khẩu lệnh 'Thôi' dùng để chấm dứt một động tác hoặc bài tập, khi nghe khẩu lệnh này người tập dừng làm và về tư thế nghiêm."
+  },
+  {
+    "question": "Tại sao nói Quân đội nhân dân Việt Nam là quân đội 'từ nhân dân mà ra, vì nhân dân mà chiến đấu'?",
+    "options": [
+      "Vì cán bộ chiến sĩ đều là con em nhân dân, mục tiêu chiến đấu là bảo vệ lợi ích của nhân dân.",
+      "Vì quân đội không có doanh trại riêng mà sống hoàn toàn cùng nhà với dân.",
+      "Vì tất cả mọi người dân trong xã hội đều bắt buộc phải gia nhập quân đội.",
+      "Vì vũ khí trang bị của quân đội đều do nhân dân tự chế tạo thủ công."
+    ],
+    "answer": "Vì cán bộ chiến sĩ đều là con em nhân dân, mục tiêu chiến đấu là bảo vệ lợi ích của nhân dân.",
+    "explanation": "Bản chất của quân đội ta xuất thân từ các tầng lớp nhân dân lao động yêu nước và chiến đấu quên mình vì độc lập, hạnh phúc của chính nhân dân."
+  },
+  {
+    "question": "Điểm khác biệt cơ bản về chức năng giữa Lực lượng An ninh và Lực lượng Cảnh sát trong Công an nhân dân là gì?",
+    "options": [
+      "An ninh tập trung phòng chống các tội phạm xâm phạm an ninh quốc gia; Cảnh sát tập trung đấu tranh phòng chống tội phạm trật tự xã hội.",
+      "An ninh chỉ làm việc trong văn phòng; Cảnh sát chỉ làm việc ngoài đường phố.",
+      "An ninh được trang bị vũ khí; Cảnh sát thì không được sử dụng vũ khí.",
+      "An ninh do Bộ Quốc phòng quản lý; Cảnh sát do Bộ Công an quản lý."
+    ],
+    "answer": "An ninh tập trung phòng chống các tội phạm xâm phạm an ninh quốc gia; Cảnh sát tập trung đấu tranh phòng chống tội phạm trật tự xã hội.",
+    "explanation": "Lực lượng An ninh bảo vệ chế độ chính quyền, phòng chống gián điệp bí mật; Lực lượng Cảnh sát quản lý hành chính, trật tự giao thông, phòng chống tội phạm hình sự công khai hơn."
+  },
+  {
+    "question": "Theo Luật Nghĩa vụ quân sự, học sinh đang học tại các trường trung học phổ thông có được tạm hoãn gọi nhập ngũ trong thời bình không?",
+    "options": [
+      "Được tạm hoãn gọi nhập ngũ.",
+      "Không được tạm hoãn gọi nhập ngũ.",
+      "Chỉ học sinh giỏi mới được tạm hoãn.",
+      "Chỉ học sinh nam có hộ khẩu thành thị mới được hoãn."
+    ],
+    "answer": "Được tạm hoãn gọi nhập ngũ.",
+    "explanation": "Luật quy định công dân đang học tập tại cơ sở giáo dục phổ thông thì thuộc đối tượng được tạm hoãn gọi nhập ngũ trong thời bình."
+  },
+  {
+    "question": "Tại sao pháp luật Việt Nam nghiêm cấm công dân tự ý tàng trữ, sử dụng vũ khí quân dụng trái phép?",
+    "options": [
+      "Vì gây nguy hiểm trực tiếp đến tính mạng con người và đe dọa an ninh, trật tự xã hội.",
+      "Vì vũ khí quân dụng có giá thành rất đắt đỏ trên thị trường.",
+      "Vì việc bảo quản vũ khí trong nhà làm tốn diện tích không gian sống.",
+      "Vì vũ khí quân dụng chỉ có thể phát huy tác dụng khi ở bãi tập."
+    ],
+    "answer": "Vì gây nguy hiểm trực tiếp đến tính mạng con người và đe dọa an ninh, trật tự xã hội.",
+    "explanation": "Vũ khí quân dụng có tính sát thương cao, việc tàng trữ bất hợp pháp dễ dẫn đến các vụ án nghiêm trọng, ảnh hưởng an ninh trật tự nên cần nhà nước quản lý độc quyền."
+  },
+  {
+    "question": "Khi thực hiện động tác quay bên trái, vì sao chiến sĩ phải phối hợp lực của cả hai chân?",
+    "options": [
+      "Dùng gót chân trái làm trụ, mũi chân phải đẩy để xoay người cân bằng và dứt khoát.",
+      "Dùng cả hai gót chân cùng quay một lúc để tốc độ nhanh hơn.",
+      "Chỉ dùng lực chân phải nhảy lên rồi xoay người trên không.",
+      "Để giữ cho hai tay không bị vung vẩy tự do."
+    ],
+    "answer": "Dùng gót chân trái làm trụ, mũi chân phải đẩy để xoay người cân bằng và dứt khoát.",
+    "explanation": "Khi quay trái: Gót chân trái làm trụ xoay, mũi chân phải đóng vai trò đẩy lấy đà giúp toàn thân xoay sang trái một góc 90 độ mượt mà, đúng tư thế."
+  },
+  {
+    "question": "Sự khác nhau cơ bản giữa động tác 'Đi đều' và 'Giậm chân' là gì?",
+    "options": [
+      "Đi đều là hành tiến di chuyển vị trí; Giậm chân là nhấc chân tại chỗ không thay đổi vị trí.",
+      "Đi đều chỉ dùng chân trái; Giậm chân chỉ dùng chân phải.",
+      "Đi đều tay không đánh; Giậm chân tay đánh biên độ rộng hơn.",
+      "Đi đều thực hiện khi di chuyển chậm; Giậm chân thực hiện khi cần chạy nhanh."
+    ],
+    "answer": "Đi đều là hành tiến di chuyển vị trí; Giậm chân là nhấc chân tại chỗ không thay đổi vị trí.",
+    "explanation": "Cả hai có nhịp điệu giống nhau, nhưng đi đều giúp dịch chuyển đội hình về phía trước, còn giậm chân là động tác tại chỗ thường dùng để điều chỉnh hàng ngũ trước khi dừng hẳn."
+  },
+  {
+    "question": "Tại sao khi đi đều, người chỉ huy hô nhịp 'Một' luôn rơi vào chân trái và nhịp 'Hai' rơi vào chân phải?",
+    "options": [
+      "Để thống nhất toàn đội hình, tránh hiện tượng đi ngược chân gây giẫm đạp vào nhau.",
+      "Vì chân trái của con người luôn dài và khỏe hơn chân phải.",
+      "Đây là quy định ngẫu nhiên không có mục đích cụ thể.",
+      "Để giúp người đi đều đỡ mỏi cơ chân hơn."
+    ],
+    "answer": "Để thống nhất toàn đội hình, tránh hiện tượng đi ngược chân gây giẫm đạp vào nhau.",
+    "explanation": "Quy định bước chân theo nhịp hô (Một - chân trái chạm đất, Hai - chân phải chạm đất) giúp cả khối đội ngũ bước đi đồng điệu, đẹp mắt và không va vấp."
+  },
+  {
+    "question": "Tại sao bom từ trường (bom nam châm) lại nguy hiểm và khó rà phá hơn bom thông thường?",
+    "options": [
+      "Vì nó tự động nổ khi phát hiện có vật thể kim loại hoặc dòng điện đi qua gần.",
+      "Vì nó có kích thước quá nhỏ mắt thường không thể nhìn thấy.",
+      "Vì nó phát ra tia phóng xạ cực độc gây chết người hàng loạt.",
+      "Vì nó chỉ nổ khi có người dẫm trực tiếp lên ngòi nổ."
+    ],
+    "answer": "Vì nó tự động nổ khi phát hiện có vật thể kim loại hoặc dòng điện đi qua gần.",
+    "explanation": "Bom từ trường hoạt động dựa trên cảm biến sự thay đổi của từ trường xung quanh (khi có xe cộ, cuốc xẻng sắt đi qua), khiến việc dò tìm bằng máy dò kim loại thông thường gặp nguy hiểm lớn."
+  },
+  {
+    "question": "Khi ở trong nhà kiên cố mà gặp động đất dữ dội, vị trí trú ẩn nào dưới đây giúp giảm thiểu nguy cơ chấn thương do sập trần nhà?",
+    "options": [
+      "Chui dưới gầm bàn vững chắc, góc tường hoặc cạnh các cột trụ chịu lực chính.",
+      "Chạy ngay vào đứng giữa phòng khách trống trải.",
+      "Chạy đến cạnh tủ kính lớn hoặc cửa sổ bằng kính.",
+      "Nằm sát ngay cạnh ban công ngoài trời."
+    ],
+    "answer": "Chui dưới gầm bàn vững chắc, góc tường hoặc cạnh các cột trụ chịu lực chính.",
+    "explanation": "Các góc tường và cột trụ chịu lực là cấu trúc bền vững nhất của ngôi nhà khi có rung chấn. Gầm bàn vững chắc bảo vệ đầu khỏi gạch đá rơi."
+  },
+  {
+    "question": "Khi thấy mây đen kịt, gió nổi lên mạnh và có hiện tượng sấm sét, hành động nào sau đây đảm bảo an toàn phòng chống sét đánh?",
+    "options": [
+      "Tránh xa các cây cao cô đơn, không đứng gần kết cấu kim loại và tìm nơi trú ẩn thấp.",
+      "Chạy thật nhanh lên đỉnh đồi để nhìn rõ đường đi.",
+      "Đứng trú ngay dưới gốc một cây cổ thụ to nhất giữa đồng trống.",
+      "Mang các thanh sắt, công cụ kim loại ra bờ ruộng để che chắn."
+    ],
+    "answer": "Tránh xa các cây cao cô đơn, không đứng gần kết cấu kim loại và tìm nơi trú ẩn thấp.",
+    "explanation": "Sét có xu hướng đánh vào những điểm cao và dẫn điện tốt. Do đó đứng cạnh cây cao biệt lập hay mang vật kim loại là mục tiêu dễ bị sét đánh trúng."
+  },
+  {
+    "question": "Nội dung nào dưới đây thể hiện đúng quyền của công dân về quốc phòng và an ninh?",
+    "options": [
+      "Được tham gia các tổ chức dân quân tự vệ, ứng tuyển vào các trường quân đội theo quy định.",
+      "Tự ý tổ chức các hoạt động vũ trang tự phát tại địa phương.",
+      "Từ chối tham gia học tập quốc phòng nếu bản thân cảm thấy không thích.",
+      "Được quyền mua bán vũ khí thô sơ để tự bảo vệ gia đình."
+    ],
+    "answer": "Được tham gia các tổ chức dân quân tự vệ, ứng tuyển vào các trường quân đội theo quy định.",
+    "explanation": "Công dân có quyền tham gia bảo vệ Tổ quốc trong các lực lượng vũ trang nhân dân và học tập, rèn luyện tại hệ thống trường đào tạo của quốc phòng, an ninh."
+  },
+  {
+    "question": "Việc ký kết các hiệp ước biên giới quốc gia giữa Việt Nam và các nước láng giềng có ý nghĩa gì đối với an ninh nước ta?",
+    "options": [
+      "Tạo cơ sở pháp lý quốc tế vững chắc để bảo vệ chủ quyền biên giới và xây dựng vùng biên hòa bình.",
+      "Để người dân tự do qua lại biên giới mà không cần bất kỳ giấy tờ thủ tục nào.",
+      "Xóa bỏ hoàn toàn các trạm biên phòng ở khu vực biên giới đất liền.",
+      "Đảm bảo nước ta không bao giờ phải chịu thiên tai từ phía bên kia biên giới."
+    ],
+    "answer": "Tạo cơ sở pháp lý quốc tế vững chắc để bảo vệ chủ quyền biên giới và xây dựng vùng biên hòa bình.",
+    "explanation": "Hiệp ước phân giới cắm mốc được ký kết giúp xác định rõ ranh giới chủ quyền được quốc tế công nhận, giải quyết tranh chấp bằng biện pháp hòa bình."
+  },
+  {
+    "question": "Hành vi tung tin đồn thất thiệt, sai sự thật trên mạng xã hội về tình hình dịch bệnh hoặc an ninh chính trị vi phạm luật nào?",
+    "options": [
+      "Luật An ninh mạng.",
+      "Luật Nghĩa vụ quân sự.",
+      "Luật Giáo dục quốc phòng và an ninh.",
+      "Luật Quốc phòng."
+    ],
+    "answer": "Luật An ninh mạng.",
+    "explanation": "Luật An ninh mạng nghiêm cấm hành vi thông tin sai sự thật gây hoang mang trong nhân dân, thiệt hại đến hoạt động kinh tế - xã hội, xâm phạm quyền lợi nhà nước."
+  },
+  {
+    "question": "Khi tập luyện động tác đi đều, nếu phát hiện mình bị đi sai nhịp (ngược chân với người xung quanh), người chiến sĩ phải sửa như thế nào?",
+    "options": [
+      "Thực hiện một bước nhảy lướt (bước kép) giữ nguyên chân trụ để đổi nhịp chân.",
+      "Dừng lại hẳn đợi hàng ngũ đi qua rồi chạy theo sau.",
+      "Đổi sang chạy bước ngắn thật nhanh để bắt kịp.",
+      "Cứ giữ nguyên bước đi sai vì không ảnh hưởng đến ai."
+    ],
+    "answer": "Thực hiện một bước nhảy lướt (bước kép) giữ nguyên chân trụ để đổi nhịp chân.",
+    "explanation": "Để sửa sai nhịp chân khi đi đều, chiến sĩ dùng kỹ thuật bước lướt: Nhấc chân phải/trái lên giậm liên tiếp 2 nhịp vào một chân để đổi nhịp trùng với tiếng hô của chỉ huy."
+  },
+  {
+    "question": "Tại sao trong chiến tranh phá hoại bằng không quân trước đây, nhân dân ta lại dựng các lũy tre, ụ đất bao quanh nhà và lớp học?",
+    "options": [
+      "Để cản bớt sóng nổ và mảnh bom, đạn văng xiên từ các trận oanh tạc bên ngoài.",
+      "Để làm đẹp cảnh quan môi trường nông thôn thời chiến.",
+      "Để che nắng, che mưa cho lớp học không bị dột.",
+      "Để ngăn chặn các điệp viên tiếp cận ngôi nhà từ trên cao."
+    ],
+    "answer": "Để cản bớt sóng nổ và mảnh bom, đạn văng xiên từ các trận oanh tạc bên ngoài.",
+    "explanation": "Các ụ đất dày và lũy tre có khả năng hấp thụ lực cản của sóng xung kích và cản phá hiệu quả mảnh bom đạn bay tầm thấp, bảo vệ người bên trong."
+  },
+  {
+    "question": "Một người bạn rủ em trốn buổi khám sức khỏe nghĩa vụ quân sự bằng cách uống thuốc làm tăng huyết áp tạm thời. Em nên xử lý như thế nào?",
+    "options": [
+      "Từ chối và khuyên bạn nên đi khám nghiêm túc vì trốn tránh nghĩa vụ là vi phạm pháp luật.",
+      "Đồng ý làm theo bạn để không phải đi nghĩa vụ quân sự.",
+      "Không tham gia nhưng cũng giữ bí mật giúp bạn.",
+      "Mắng mỏ bạn nặng lời rồi cắt đứt quan hệ bạn bè."
+    ],
+    "answer": "Từ chối và khuyên bạn nên đi khám nghiêm túc vì trốn tránh nghĩa vụ là vi phạm pháp luật.",
+    "explanation": "Là học sinh, công dân cần nhận thức rõ trách nhiệm pháp lý và đạo đức, không tiếp tay cho hành vi gian lận, trốn tránh nghĩa vụ công dân."
+  },
+  {
+    "question": "Khi đang đi bộ trên đường vắng, em nhặt được một chiếc cặp bên trong có một khẩu súng ngắn quân dụng và vài viên đạn. Hành động đúng pháp luật nhất là gì?",
+    "options": [
+      "Mang ngay chiếc cặp đến nộp cho cơ quan công an hoặc quân đội nơi gần nhất.",
+      "Giấu khẩu súng vào bụi cây rồi bỏ đi coi như không biết.",
+      "Đem khẩu súng về nhà cất giấu để phòng thân khi có trộm.",
+      "Chụp ảnh đăng lên mạng xã hội tìm người đánh rơi súng để trả lại."
+    ],
+    "answer": "Mang ngay chiếc cặp đến nộp cho cơ quan công an hoặc quân đội nơi gần nhất.",
+    "explanation": "Súng quân dụng là vũ khí nguy hiểm được quản lý nghiêm ngặt. Việc giao nộp ngay lập tức cho cơ quan chức năng đảm bảo an toàn pháp lý và xã hội."
+  },
+  {
+    "question": "Trong giờ học thực hành Đội ngũ từng người không có súng, thấy một số bạn đùa nghịch, làm sai động tác quay tại chỗ dẫn đến va quẹt vào nhau, em nên làm gì?",
+    "options": [
+      "Nhắc nhở các bạn tập trung nghiêm túc để tránh chấn thương và đạt kết quả học tập tốt.",
+      "Tham gia đùa nghịch cùng các bạn cho buổi học thêm vui vẻ.",
+      "Ngó lơ coi như không thấy vì đó không phải việc của mình.",
+      "Bỏ học đi về lớp ngồi một mình."
+    ],
+    "answer": "Nhắc nhở các bạn tập trung nghiêm túc để tránh chấn thương và đạt kết quả học tập tốt.",
+    "explanation": "Học tập nội quy điều lệnh đòi hỏi tính kỷ luật cao. Nhắc nhở bạn thể hiện ý thức xây dựng tập thể và bảo đảm an toàn thân thể khi thực hành."
+  },
+  {
+    "question": "Gia đình em sống ở vùng hạ lưu sông, nhận được tin báo sắp có lũ lớn thượng nguồn đổ về. Hành động chuẩn bị nào sau đây của gia đình em là thiết thực nhất?",
+    "options": [
+      "Kê cao tài sản quý, tích trữ nước uống, lương thực khô, đèn pin và theo dõi sát đài phát thanh.",
+      "Đóng chặt toàn bộ cửa sổ nhà lại và đi ngủ như bình thường.",
+      "Tháo hết nước trong các bể chứa nhà đi để đón nước lũ vào.",
+      "Sơ tán một mình ra bờ sông xem mực nước dâng lên cao thế nào."
+    ],
+    "answer": "Kê cao tài sản quý, tích trữ nước uống, lương thực khô, đèn pin và theo dõi sát đài phát thanh.",
+    "explanation": "Chuẩn bị nhu yếu phẩm, kê cao đồ đạc tránh ngập hỏng và liên tục cập nhật thông tin cứu hộ là kỹ năng sinh tồn cơ bản khi chạy lũ."
+  },
+  {
+    "question": "Trường học của em tổ chức hội thao Giáo dục quốc phòng và an ninh. Để đạt thành tích cao ở nội dung Đội ngũ từng người, tập thể lớp em cần chú trọng điều gì nhất?",
+    "options": [
+      "Sự đồng đều, thống nhất nhịp bước và tinh thần kỷ luật nghiêm túc của tất cả thành viên.",
+      "Mua trang phục quần áo thật đắt tiền và rực rỡ để thu hút giám khảo.",
+      "Cử ra những bạn khỏe nhất chạy thật nhanh về đích.",
+      "Mỗi người tự sáng tạo ra một kiểu đi riêng biệt không ai giống ai."
+    ],
+    "answer": "Sự đồng đều, thống nhất nhịp bước và tinh thần kỷ luật nghiêm túc của tất cả thành viên.",
+    "explanation": "Bản chất của điều lệnh đội ngũ là tính tổ chức và tính thống nhất tối cao, thể hiện sức mạnh tập thể qua sự đồng đều của các bước chân và động tác."
+  },
+  {
+    "question": "Tại sao Luật Giáo dục quốc phòng và an ninh lại quy định môn học này là môn học chính khóa, bắt buộc đối với học sinh trung học phổ thông?",
+    "options": [
+      "Để hình thành sớm ý thức quốc phòng, bảo vệ Tổ quốc vững chắc ngay từ thế hệ trẻ học đường.",
+      "Để chuẩn bị thay thế cho các kỳ thi tuyển sinh đại học sau này.",
+      "Để học sinh giảm bớt thời gian học các môn lý thuyết tự nhiên khác.",
+      "Vì đây là môn học dễ lấy điểm cao nhất trong học bạ."
+    ],
+    "answer": "Để hình thành sớm ý thức quốc phòng, bảo vệ Tổ quốc vững chắc ngay từ thế hệ trẻ học đường.",
+    "explanation": "Lứa tuổi THPT là giai đoạn quan trọng hình thành thế giới quan, nhận thức pháp luật. Việc giáo dục quốc phòng chính khóa giúp xây dựng nền móng lòng yêu nước vững chắc cho đất nước."
+  },
+  {
+    "question": "Khi xem bản đồ tác chiến hoặc nghe thông báo phòng không, nếu biết máy bay địch bay theo hướng 180 độ thì nghĩa là máy bay đang bay từ hướng nào đến?",
+    "options": [
+      "Từ hướng Nam bay lên hướng Bắc.",
+      "Từ hướng Bắc bay xuống hướng Nam.",
+      "Từ hướng Đông bay sang hướng Tây.",
+      "Từ hướng Tây bay sang hướng Đông."
+    ],
+    "answer": "Từ hướng Nam bay lên hướng Bắc.",
+    "explanation": "Trong sơ đồ quân sự, hướng 0 độ (hoặc 360 độ) là hướng Bắc, 90 độ là hướng Đông, 180 độ chính là hướng Nam. Máy bay bay theo trục 180 độ nghĩa là di chuyển từ phía Nam."
+  },
+  {
+    "question": "Nếu đang ở ngoài đồng trống không có hầm trú ẩn, khi nghe tiếng bom rít đến gần, tư thế nằm sấp ẩn nấp nào dưới đây hạn chế tối đa diện tích dính mảnh bom?",
+    "options": [
+      "Nằm sấp sát đất, hai tay đỡ dưới ngực, hơi nâng ngực khỏi mặt đất, miệng hơi há.",
+      "Nằm ngửa mặt lên trời để quan sát hướng bom rơi để tránh.",
+      "Nằm co gập hai đầu gối sát vào bụng, hai tay ôm lấy đầu.",
+      "Nằm sấp, hai chân dang rộng hết cỡ, ép chặt toàn thân xuống bùn đất."
+    ],
+    "answer": "Nằm sấp sát đất, hai tay đỡ dưới ngực, hơi nâng ngực khỏi mặt đất, miệng hơi há.",
+    "explanation": "Nằm sấp sát đất giảm diện tích tiếp xúc mảnh văng phẳng. Việc nâng ngực nhẹ bằng tay giúp bảo vệ lồng ngực khỏi chấn động (sóng xung kích) truyền qua đất. Miệng há giúp cân bằng áp suất màng nhĩ."
+  },
+  {
+    "question": "Vì sao khi di chuyển trong khu vực bị ô nhiễm bom mạn hoặc chất độc hóa học dã chiến, người ta tuyệt đối tránh đi vào các vùng trũng, lòng chảo hay thung lũng kín?",
+    "options": [
+      "Vì khí độc và hơi độc thường nặng hơn không khí, có xu hướng chìm xuống và tích tụ lâu ở vùng trũng.",
+      "Vì vùng trũng luôn có nhiều thú dữ sinh sống nguy hiểm hơn.",
+      "Vì đi vào vùng trũng sẽ không thể nhìn thấy phong cảnh xung quanh.",
+      "Vì các chiến sĩ dễ bị lạc đường khi đi xuống nơi thấp."
+    ],
+    "answer": "Vì khí độc và hơi độc thường nặng hơn không khí, có xu hướng chìm xuống và tích tụ lâu ở vùng trũng.",
+    "explanation": "Hầu hết các chất độc quân sự dạng khí hoặc bụi khói sinh ra do nổ bom đều có tỷ trọng nặng hơn không khí, chúng sẽ đọng lại lâu ngày ở các vùng thấp, kín gió."
+  },
+  {
+    "question": "Tại sao trong động tác đi đều, việc giữ đúng cự ly hàng ngang và khoảng cách hàng dọc lại quyết định vẻ đẹp nghệ thuật khối của đội hình?",
+    "options": [
+      "Vì nó giữ cho các trục chuyển động luôn song song và vuông góc, tạo hiệu ứng thị giác đều tăm tắp.",
+      "Vì giữ cự ly giúp các chiến sĩ có không gian để trò chuyện dễ dàng hơn.",
+      "Để người chỉ huy không cần phải quan sát đội hình khi đi.",
+      "Để tiết kiệm diện tích mặt đường khi toàn đội hành quân."
+    ],
+    "answer": "Vì nó giữ cho các trục chuyển động luôn song song và vuông góc, tạo hiệu ứng thị giác đều tăm tắp.",
+    "explanation": "Khi giữ đúng cự ly (hàng ngang) và khoảng cách (hàng dọc), toàn bộ khối người chuyển dịch tạo thành các đường thẳng động học, tạo nên vẻ nghiêm chỉnh, hùng mạnh của quân đội."
+  },
+  {
+    "question": "Nội dung nào phản ánh đầy đủ nhất ý nghĩa của câu nói: 'Dựng nước đi đôi với giữ nước' đối với lịch sử dân tộc Việt Nam?",
+    "options": [
+      "Là quy luật sinh tồn của dân tộc, do vị trí địa chính trị đặc biệt luôn bị các thế lực ngoại bang dòm ngó.",
+      "Vì người Việt Nam yêu thích chiến đấu hơn các công việc lao động sản xuất.",
+      "Bởi vì lãnh thổ nước ta tự động mở rộng liên tục qua các thời kỳ lịch sử.",
+      "Để chứng minh cho các nước khác thấy sức mạnh quân sự của quốc gia."
+    ],
+    "answer": "Là quy luật sinh tồn của dân tộc, do vị trí địa chính trị đặc biệt luôn bị các thế lực ngoại bang dòm ngó.",
+    "explanation": "Nước ta nằm ở ngã ba đường, cửa ngõ Đông Nam Á, giàu tài nguyên nên xuyên suốt lịch sử, thời kỳ dựng cơ nghiệp nào cũng phải đối diện với các cuộc chiến tranh xâm lược từ bên ngoài."
+  },
+  {
+    "question": "Trong trường hợp xảy ra sự cố cháy nổ lớn tại chung cư cao tầng, việc sử dụng thang máy để thoát nạn được xem xét như thế nào?",
+    "options": [
+      "Tuyệt đối không sử dụng vì hệ thống điện có thể bị ngắt đột ngột gây kẹt bên trong và buồng thang dễ bị ngạt khói.",
+      "Nên sử dụng vì thang máy giúp di chuyển xuống mặt đất nhanh nhất.",
+      "Chỉ sử dụng khi thấy thang máy vẫn còn đèn sáng bình thường.",
+      "Sử dụng thang máy nếu số lượng người thoát nạn đi cùng đông đúc."
+    ],
+    "answer": "Tuyệt đối không sử dụng vì hệ thống điện có thể bị ngắt đột ngột gây kẹt bên trong và buồng thang dễ bị ngạt khói.",
+    "explanation": "Khi có cháy, nguồn điện tòa xe thường bị cắt hoặc chập mạch, thang máy sẽ ngừng chạy biến thành bẫy kín chứa đầy khói độc bốc lên từ giếng thang."
+  },
+  {
+    "question": "Anh A nhận được lệnh gọi nhập ngũ nhưng đã tự ý nhờ người làm giả hồ sơ bệnh án mắc bệnh hiểm nghèo để nộp cho Hội đồng nghĩa vụ quân sự. Hành vi này của anh A sẽ bị xử lý như thế nào theo pháp luật?",
+    "options": [
+      "Bị xử phạt vi phạm hành chính, nếu tiếp tục tái phạm hoặc gây hậu quả nghiêm trọng có thể bị truy cứu trách nhiệm hình sự.",
+      "Chỉ bị nhắc nhở và không cần phải tham gia nghĩa vụ quân sự nữa.",
+      "Được hoãn nghĩa vụ vĩnh viễn vì có tinh thần sáng tạo hồ sơ.",
+      "Phạt tiền rất nhẹ và cho phép anh A tự chọn thời gian nhập ngũ sau này."
+    ],
+    "answer": "Bị xử phạt vi phạm hành chính, nếu tiếp tục tái phạm hoặc gây hậu quả nghiêm trọng có thể bị truy cứu trách nhiệm hình sự.",
+    "explanation": "Hành vi gian lận hồ sơ, dùng thủ đoạn lừa dối để trốn tránh nghĩa vụ quân sự vi phạm Điều 332 Bộ luật Hình sự về tội trốn tránh nghĩa vụ quân sự."
+  },
+  {
+    "question": "Vào mùa mưa bão, một số người dân vùng núi vẫn liều mình lội qua các con suối nước đang chảy xiết để vớt củi trôi. Từ góc độ phòng chống thiên tai, em đánh giá hành vi này thế nào?",
+    "options": [
+      "Cực kỳ nguy hiểm, vi phạm nguyên tắc an toàn, nguy cơ cao bị lũ cuốn trôi bất ngờ do lũ quét từ thượng nguồn đổ về.",
+      "Là hành động dũng cảm, đáng được biểu dương vì giúp thu gom củi bảo vệ môi trường nước.",
+      "Bình thường vì người dân vùng cao đã quen với địa hình sông suối.",
+      "Nên khuyến khích nếu đi thành nhóm nhiều người cùng vớt củi."
+    ],
+    "answer": "Cực kỳ nguy hiểm, vi phạm nguyên tắc an toàn, nguy cơ cao bị lũ cuốn trôi bất ngờ do lũ quét từ thượng nguồn đổ về.",
+    "explanation": "Lũ quét vùng cao tốc độ cực nhanh, dòng nước xiết mang theo đất đá cây cối có lực va đập cực lớn, việc lội suối thời điểm này gần như tự tước đi cơ hội sống sót nếu lũ đổ về."
+  },
+  {
+    "question": "Trong một đợt hành quân dã ngoại, nếu toàn đội hình đang đi đều gặp một đoạn đường bùn lầy, trơn trượt dài khoảng 20 mét, người chỉ huy nên xử lý đội hình như thế nào để đảm bảo an toàn và giữ hàng ngũ?",
+    "options": [
+      "Phát lệnh chuyển sang động tác 'Đi nghiêm' hoặc 'Giậm chân' để từng người dò đường, giữ khoảng cách giãn rộng.",
+      "Hô lệnh cho toàn đội giữ nguyên tốc độ đi đều và chạy băng qua thật nhanh.",
+      "Cho toàn đội giải tán tự do ai muốn đi đường nào tùy ý rồi tập hợp lại sau.",
+      "Yêu cầu mọi người quay đằng sau đi ngược trở lại vị trí xuất phát."
+    ],
+    "answer": "Phát lệnh chuyển sang động tác 'Đi nghiêm' hoặc 'Giậm chân' để từng người dò đường, giữ khoảng cách giãn rộng.",
+    "explanation": "Gặp địa hình phức tạp trơn trượt, việc duy trì đi đều dập khuôn dễ làm ngã dây chuyền. Người chỉ huy linh hoạt cho đi bước tự do hoặc giữ khoảng cách an toàn, chú ý quan sát bước chân để bảo đảm an toàn cho chiến sĩ."
+  }
+]
+
+

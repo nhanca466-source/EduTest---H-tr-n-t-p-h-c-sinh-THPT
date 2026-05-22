@@ -1,0 +1,387 @@
+[
+  {
+    "question": "Hệ thống điện quốc gia gồm có những thành phần chính nào sau đây?",
+    "options": [
+      "Nguồn điện, các lưới điện và các hộ tiêu thụ điện",
+      "Nhà máy điện, đường dây tải điện và biến áp",
+      "Trạm biến áp, đường dây truyền tải và thiết bị đo đếm",
+      "Các máy phát điện, các phụ tải và các thiết bị bảo vệ"
+    ],
+    "answer": "Nguồn điện, các lưới điện và các hộ tiêu thụ điện",
+    "explanation": "Theo khái niệm trong sách giáo khoa, hệ thống điện quốc gia bao gồm nguồn điện, các lưới điện và các hộ tiêu thụ điện trên toàn quốc được liên kết với nhau thành một hệ thống thống nhất."
+  },
+  {
+    "question": "Cấu kiện điện tử nào sau đây thuộc nhóm linh kiện thụ động?",
+    "options": [
+      "Điện trở",
+      "Diode điện tử",
+      "Transistor",
+      "Mạch vi điều khiển"
+    ],
+    "answer": "Điện trở",
+    "explanation": "Điện trở, tụ điện và cuộn cảm là các linh kiện điện tử thụ động, không có khả năng tự phát năng lượng hay khuếch đại tín hiệu."
+  },
+  {
+    "question": "Linh kiện điện tử nào sau đây có chức năng chính là tích lũy năng lượng điện trường?",
+    "options": [
+      "Điện trở",
+      "Tụ điện",
+      "Cuộn cảm",
+      "Triac"
+    ],
+    "answer": "Tụ điện",
+    "explanation": "Tụ điện có cấu tạo gồm hai bản dẫn điện đặt song song, ở giữa là lớp điện môi, có chức năng tích lũy năng lượng điện trường khi có dòng điện đi qua."
+  },
+  {
+    "question": "Linh kiện điện tử bán dẫn nào chỉ cho dòng điện đi qua theo một chiều từ cực Anode sang cực Cathode?",
+    "options": [
+      "Transistor",
+      "Diode",
+      "Tụ điện",
+      "Điện trở"
+    ],
+    "answer": "Diode",
+    "explanation": "Diode bán dẫn có cấu tạo gồm một lớp tiếp giáp P - N, có đặc tính dẫn điện một chiều từ cực Anode sang cực Cathode."
+  },
+  {
+    "question": "Lưới điện quốc gia được phân thành những loại nào dựa theo chức năng của nó?",
+    "options": [
+      "Lưới điện cao áp và lưới điện hạ áp",
+      "Lưới điện truyền tải và lưới điện phân phối",
+      "Lưới điện một pha và lưới điện ba pha",
+      "Lưới điện nội bộ và lưới điện liên tỉnh"
+    ],
+    "answer": "Lưới điện truyền tải và lưới điện phân phối",
+    "explanation": "Dựa theo chức năng, lưới điện quốc gia được phân chia thành lưới điện truyền tải (vận chuyển điện năng đi xa) và lưới điện phân phối (đưa điện đến hộ tiêu thụ)."
+  },
+  {
+    "question": "Trên một điện trở có các vòng màu theo thứ tự là: Đỏ, Đỏ, Nâu, Kim ngân. Vòng màu cuối cùng (Kim ngân) cho biết thông số nào của điện trở?",
+    "options": [
+      "Trị số điện trở danh định",
+      "Hệ số nhân của điện trở",
+      "Sai số của điện trở",
+      "Công suất định mức của điện trở"
+    ],
+    "answer": "Sai số của điện trở",
+    "explanation": "Theo quy ước mã màu quốc tế, vòng màu cuối cùng trên điện trở thường thể hiện mức độ sai số của linh kiện đó so với giá trị danh định."
+  },
+  {
+    "question": "Linh kiện điện tử bán dẫn nào sau đây có 3 cực và thường được dùng phổ biến để khuếch đại tín hiệu điện hoặc làm khóa điện tử?",
+    "options": [
+      "Diode",
+      "Transistor",
+      "Tụ hóa",
+      "Cuộn cảm"
+    ],
+    "answer": "Transistor",
+    "explanation": "Transistor là linh kiện bán dẫn có 3 cực (E, B, C đối với BJT) chuyên dùng để khuếch đại dòng điện, điện áp hoặc làm công tắc đóng ngắt mạch điện."
+  },
+  {
+    "question": "Trong mạch nguồn một chiều, linh kiện nào thường được dùng để san phẳng các gợn sóng nhấp nhô của dòng điện sau khi chỉnh lưu?",
+    "options": [
+      "Điện trở công suất",
+      "Tụ điện có điện dung lớn",
+      "Diode chỉnh lưu",
+      "Cầu chì bảo vệ"
+    ],
+    "answer": "Tụ điện có điện dung lớn",
+    "explanation": "Tụ điện (thường là tụ hóa) có khả năng nạp xả liên tục, giúp san phẳng các gợn sóng điện áp nhấp nhô sau khối chỉnh lưu để tạo ra điện áp một chiều phẳng hơn."
+  },
+  {
+    "question": "Chức năng chính của trạm biến áp tăng áp đặt tại các nhà máy phát điện là gì?",
+    "options": [
+      "Giảm dòng điện tiêu thụ của nhà máy",
+      "Tăng điện áp lên cao để giảm tổn hao điện năng trên đường dây truyền tải đi xa",
+      "Biến đổi dòng điện một chiều thành dòng điện ba pha",
+      "Ổn định tần số của hệ thống điện quốc gia"
+    ],
+    "answer": "Tăng điện áp lên cao để giảm tổn hao điện năng trên đường dây truyền tải đi xa",
+    "explanation": "Khi tăng điện áp truyền tải, dòng điện trên đường dây giảm xuống, từ đó làm giảm hao phí do tỏa nhiệt trên đường dây truyền tải một cách hiệu quả."
+  },
+  {
+    "question": "Linh kiện điện tử bán dẫn Tiristor có tất cả bao nhiêu cực chức năng?",
+    "options": [
+      "2 cực",
+      "3 cực",
+      "4 cực",
+      "5 cực"
+    ],
+    "answer": "3 cực",
+    "explanation": "Tiristor (SCR) là linh kiện bán dẫn có 3 cực bao gồm: Anode, Cathode và cực điều khiển G."
+  },
+  {
+    "question": "Khi sử dụng tụ điện hóa trong mạch điện, người thiết kế cần lưu ý điều gì đặc biệt so với tụ giấy hay tụ gốm?",
+    "options": [
+      "Không được để tụ hóa tiếp xúc với không khí",
+      "Phải mắc đúng chiều phân cực dương và âm của tụ vào mạch điện",
+      "Chỉ sử dụng tụ hóa trong các mạch điện cao áp",
+      "Tụ hóa không thể làm việc với dòng điện xoay chiều dưới bất kỳ hình thức nào"
+    ],
+    "answer": "Phải mắc đúng chiều phân cực dương và âm của tụ vào mạch điện",
+    "explanation": "Tụ hóa là loại tụ điện có phân cực rõ ràng (có cực dương và cực âm). Nếu mắc ngược cực, tụ có thể bị hỏng, rò rỉ dung dịch hoặc gây nổ."
+  },
+  {
+    "question": "Tại sao lõi của cuộn cảm cao tần thường làm bằng vật liệu ferrite thay vì làm bằng các lá thép kĩ thuật điện?",
+    "options": [
+      "Vì vật liệu ferrite giúp cuộn cảm nhẹ hơn",
+      "Vì lõi sắt từ thông thường sẽ bị tổn hao dòng điện xoáy (Foucault) rất lớn ở tần số cao",
+      "Vì ferrite có giá thành rẻ hơn thép kỹ thuật nhiều lần",
+      "Vì vật liệu ferrite giúp cuộn cảm cách điện tốt hơn với vỏ ngoài"
+    ],
+    "answer": "Vì lõi sắt từ thông thường sẽ bị tổn hao dòng điện xoáy (Foucault) rất lớn ở tần số cao",
+    "explanation": "Ở tần số cao, tổn hao do dòng điện Foucault trong lõi thép rất lớn. Vật liệu ferrite có điện trở suất cao, giảm thiểu dòng Foucault nên được dùng làm lõi cho biến áp và cuộn cảm cao tần."
+  },
+  {
+    "question": "Sự khác biệt cốt lõi giữa lưới điện truyền tải và lưới điện phân phối là gì?",
+    "options": [
+      "Lưới điện truyền tải sử dụng dòng điện một chiều, lưới điện phân phối dùng dòng xoay chiều",
+      "Lưới điện truyền tải có cấp điện áp cao hơn và làm nhiệm vụ đưa điện đi xa, lưới điện phân phối có cấp điện áp thấp hơn để đưa điện tới phụ tải",
+      "Lưới điện phân phối chỉ sử dụng ở các vùng nông thôn, lưới điện truyền tải ở vùng thành thị",
+      "Lưới điện truyền tải không sử dụng trạm biến áp, lưới điện phân phối thì có"
+    ],
+    "answer": "Lưới điện truyền tải có cấp điện áp cao hơn và làm nhiệm vụ đưa điện đi xa, lưới điện phân phối có cấp điện áp thấp hơn để đưa điện tới phụ tải",
+    "explanation": "Lưới truyền tải (thường từ 110 kV đến 500 kV) kết nối các trung tâm điện lực lớn, còn lưới phân phối (dưới 110 kV) đưa điện trực tiếp đến các nhà máy, hộ dân."
+  },
+  {
+    "question": "Trường hợp nào sau đây thể hiện việc ứng dụng linh kiện điện tử Quang điện trở (LDR) trong đời sống kỹ thuật?",
+    "options": [
+      "Làm bóng đèn chiếu sáng tiết kiệm điện",
+      "Làm cảm biến trong mạch tự động bật tắt đèn đường khi trời tối",
+      "Làm rơ le bảo vệ quá dòng cho động cơ",
+      "Làm bộ phận sinh nhiệt trong nồi cơm điện"
+    ],
+    "answer": "Làm cảm biến trong mạch tự động bật tắt đèn đường khi trời tối",
+    "explanation": "Quang điện trở có trị số điện trở thay đổi mạnh mẽ theo cường độ ánh sáng chiếu vào, do đó rất phù hợp làm cảm biến nhận biết sáng tối để điều khiển mạch đèn tự động."
+  },
+  {
+    "question": "Khối chỉnh lưu trong các mạch nguồn một chiều có nhiệm vụ kỹ thuật gì?",
+    "options": [
+      "Biến đổi dòng điện một chiều thành dòng điện xoay chiều có tần số cao",
+      "Biến đổi dòng điện xoay chiều thành dòng điện một chiều nhấp nhô",
+      "Giữ cho điện áp đầu ra luôn ổn định khi tải thay đổi",
+      "Hạ điện áp xoay chiều 220 Volt xuống mức điện áp thấp hơn"
+    ],
+    "answer": "Biến đổi dòng điện xoay chiều thành dòng điện một chiều nhấp nhô",
+    "explanation": "Khối chỉnh lưu thường sử dụng các diode bán dẫn để cho dòng điện chạy qua theo một hướng, chuyển dòng xoay chiều thành dòng một chiều (dù vẫn còn nhấp nhô)."
+  },
+  {
+    "question": "Linh kiện Triac được coi là có khả năng dẫn điện tương đương với cặp linh kiện nào sau đây mắc song song ngược chiều?",
+    "options": [
+      "Hai điện trở công suất",
+      "Hai tụ điện hóa",
+      "Hai linh kiện Tiristor",
+      "Hai linh kiện Transistor"
+    ],
+    "answer": "Hai linh kiện Tiristor",
+    "explanation": "Triac có cấu trúc tương đương với hai Tiristor mắc song song ngược chiều nhau và có chung một cực điều khiển, cho phép điều khiển dòng điện xoay chiều cả hai bán kỳ."
+  },
+  {
+    "question": "Vì sao các thiết bị điện tử dân dụng như tivi, máy tính không dùng trực tiếp nguồn điện xoay chiều 220 Volt từ ổ cắm mà phải qua một bộ nguồn (Adapter)?",
+    "options": [
+      "Vì nguồn điện xoay chiều quá mạnh sẽ làm cháy vỏ nhựa của thiết bị",
+      "Vì các mạch điện tử bên trong thiết bị chỉ hoạt động với dòng điện một chiều ở điện áp thấp",
+      "Vì bộ nguồn giúp thiết bị tiết kiệm toàn bộ điện năng tiêu thụ",
+      "Vì bộ nguồn làm tăng tần số của dòng điện lên nhiều lần"
+    ],
+    "answer": "Vì các mạch điện tử bên trong thiết bị chỉ hoạt động với dòng điện một chiều ở điện áp thấp",
+    "explanation": "Các linh kiện điện tử bán dẫn, vi mạch trong tivi, máy tính yêu cầu nguồn cấp là điện một chiều phẳng (thường là 5 Volt, 12 Volt, 19 Volt...) để hoạt động chính xác và an toàn."
+  },
+  {
+    "question": "Để bảo vệ các thiết bị điện tử nhạy cảm khỏi hiện tượng nhiễu sóng tần số cao lan truyền trên đường dây điện, người ta sử dụng mạch lọc gồm các thành phần nào?",
+    "options": [
+      "Mạch kết hợp giữa cuộn cảm và tụ điện",
+      "Mạch kết hợp giữa nhiều điện trở mắc nối tiếp",
+      "Hệ thống cầu chì nối tiếp với atomat",
+      "Sử dụng các diode chỉnh lưu công suất lớn"
+    ],
+    "answer": "Mạch kết hợp giữa cuộn cảm và tụ điện",
+    "explanation": "Cuộn cảm có đặc tính cản trở dòng điện tần số cao, tụ điện có đặc tính cho dòng điện tần số cao đi qua. Sự kết hợp LC tạo ra bộ lọc thông thấp, loại bỏ nhiễu tần số cao bảo vệ mạch."
+  },
+  {
+    "question": "Khi kiểm tra một Diode bằng đồng hồ vạn năng, nếu đo cả hai chiều (đổi que đo) mà kim đồng hồ đều lên mức điện trở gần bằng không, ta kết luận gì về tình trạng của Diode?",
+    "options": [
+      "Diode còn hoạt động rất tốt",
+      "Diode đã bị đứt mạch bên trong",
+      "Diode đã bị chập (ngắn mạch)",
+      "Diode bị phân cực ngược dòng"
+    ],
+    "answer": "Diode đã bị chập (ngắn mạch)",
+    "explanation": "Diode chuẩn chỉ dẫn điện một chiều (một chiều điện trở nhỏ, một chiều điện trở rất lớn). Nếu cả hai chiều đều có điện trở bằng không chứng tỏ lớp tiếp giáp bán dẫn đã bị phá hủy và bị chập hoàn toàn."
+  },
+  {
+    "question": "Ý nghĩa kinh tế và kỹ thuật quan trọng nhất của việc xây dựng đường dây truyền tải điện siêu cao áp 500 kV Bắc - Nam tại Việt Nam là gì?",
+    "options": [
+      "Giúp tất cả các hộ dân đều có thể sử dụng điện áp 500 kV",
+      "Liên kết các hệ thống điện miền thành một hệ thống điện quốc gia thống nhất, điều hòa lượng điện năng dư thừa và thiếu hụt giữa các miền",
+      "Thay thế hoàn toàn các nhà máy phát điện cỡ nhỏ ở các địa phương",
+      "Làm giảm tần số dòng điện của hệ thống để an toàn hơn"
+    ],
+    "answer": "Liên kết các hệ thống điện miền thành một hệ thống điện quốc gia thống nhất, điều hòa lượng điện năng dư thừa và thiếu hụt giữa các miền",
+    "explanation": "Đường dây 500 kV giúp hợp nhất hệ thống điện cả nước, cho phép truyền tải năng lượng từ nơi thừa (như các trung tâm nguồn điện lớn) đến nơi thiếu, tối ưu hóa vận hành hệ thống toàn quốc."
+  },
+  {
+    "question": "Trong một mạch khuếch đại thuật toán (Op-Amp), đường phản hồi âm được thiết lập bằng cách mắc linh kiện từ đầu ra quay trở về đầu vào nào?",
+    "options": [
+      "Đầu vào đảo",
+      "Đầu vào không đảo",
+      "Cực cấp nguồn dương",
+      "Cực cấp nguồn âm"
+    ],
+    "answer": "Đầu vào đảo",
+    "explanation": "Phản hồi âm trong Op-Amp được thực hiện bằng cách đưa một phần tín hiệu đầu ra ngược trở lại đầu vào đảo (ký hiệu dấu trừ) nhằm ổn định độ khuếch đại và mở rộng dải tần."
+  },
+  {
+    "question": "Một người thợ muốn điều chỉnh tốc độ của một chiếc quạt bàn chạy điện xoay chiều bằng phương pháp điện tử một cách êm ái, người đó nên chọn mạch điều khiển sử dụng linh kiện nào?",
+    "options": [
+      "Mạch chỉnh lưu cầu dùng 4 Diode",
+      "Mạch sử dụng Triac kết hợp Diac",
+      "Mạch rơ le cơ học đóng ngắt theo thời gian",
+      "Mạch tăng áp dùng biến áp tự ngẫu cỡ lớn"
+    ],
+    "answer": "Mạch sử dụng Triac kết hợp Diac",
+    "explanation": "Mạch điều khiển góc mở dùng Triac và Diac (Dimmer) giúp điều chỉnh trị số hiệu dụng của điện áp xoay chiều cấp cho quạt, giúp thay đổi tốc độ quạt mượt mà, nhỏ gọn và hiệu suất cao."
+  },
+  {
+    "question": "Khi lắp ráp một mạch điện tử, một kỹ sư thấy trên sơ đồ yêu cầu một điện trở có giá trị 470 Ohm với sai số nhỏ. Kỹ sư đó nên chọn điện trở có các vòng màu nào sau đây?",
+    "options": [
+      "Vàng, Tím, Nâu, Kim ngân",
+      "Vàng, Tím, Đen, Kim ngân",
+      "Đỏ, Đỏ, Nâu, Kim cương",
+      "Xanh lục, Xanh lam, Đen, Không màu"
+    ],
+    "answer": "Vàng, Tím, Nâu, Kim ngân",
+    "explanation": "Mã màu: Vàng ứng với số 4, Tím ứng với số 7, Nâu ứng với hệ số nhân là 10 mũ 1 (nhân với 10). Giá trị là 47 nhân với 10 bằng 470 Ohm. Kim ngân thể hiện sai số 5 phần trăm."
+  },
+  {
+    "question": "Trong hệ thống điện, việc xảy ra sự cố ngắn mạch (chập mạch) tại một nút giao thông điện năng nếu không được ngắt kịp thời sẽ dẫn đến hậu quả nguy hiểm nhất là gì?",
+    "options": [
+      "Làm tăng tần số của toàn hệ thống điện lên mức nguy hiểm",
+      "Dòng điện ngắn mạch tăng cực đại gây cháy nổ thiết bị, sụt áp nghiêm trọng và có thể làm rã lưới toàn hệ thống",
+      "Làm cho tất cả các nhà máy điện tự động tăng công suất phát",
+      "Làm đảo lộn chiều quay của các động cơ điện ba pha"
+    ],
+    "answer": "Dòng điện ngắn mạch tăng cực đại gây cháy nổ thiết bị, sụt áp nghiêm trọng và có thể làm rã lưới toàn hệ thống",
+    "explanation": "Ngắn mạch khiến điện trở mạch sụt về gần bằng không, dòng điện tăng vọt tạo nhiệt lượng lớn gây cháy nổ, phá hủy thiết bị và gây sụt áp dây chuyền dẫn tới mất ổn định hệ thống điện."
+  },
+  {
+    "question": "Linh kiện điện tử IC 7805 thuộc nhóm IC chức năng nào sau đây trong các mạch điện tử?",
+    "options": [
+      "IC khuếch đại âm thanh",
+      "IC ổn áp nguồn một chiều",
+      "IC logic xử lý tín hiệu số",
+      "IC hẹn giờ và tạo xung"
+    ],
+    "answer": "IC ổn áp nguồn một chiều",
+    "explanation": "Dòng IC họ 78xx là IC ổn áp nguồn một chiều đầu ra dương, trong đó hai chữ số cuối '05' cho biết điện áp đầu ra được ổn định cố định ở mức dương 5 Volt."
+  },
+  {
+    "question": "Một mạch nguồn một chiều có điện áp đầu ra thấp hơn yêu cầu của tải và xuất hiện nhiễu sóng rất lớn. Sau khi kiểm tra, kỹ sư phát hiện tụ lọc nguồn bị phồng và chảy dung dịch. Hãy phân tích nguyên nhân kỹ thuật của hiện tượng này?",
+    "options": [
+      "Do điện trở tải quá lớn làm dòng điện chạy qua tụ tăng mạnh",
+      "Do tụ điện làm việc quá điện áp định mức hoặc bị quá nhiệt dẫn đến chất điện phân bên trong bị sôi, sinh khí làm phồng vỏ và mất khả năng lọc nhiễu",
+      "Do diode chỉnh lưu bị đứt mạch làm dòng điện không đến được tụ điện",
+      "Do tần số của nguồn điện xoay chiều đầu vào đột ngột giảm xuống bằng không"
+    ],
+    "answer": "Do tụ điện làm việc quá điện áp định mức hoặc bị quá nhiệt dẫn đến chất điện phân bên trong bị sôi, sinh khí làm phồng vỏ và mất khả năng lọc nhiễu",
+    "explanation": "Khi tụ hóa hoạt động ở điện áp vượt ngưỡng định mức hoặc nhiệt độ quá cao, chất điện môi hữu cơ bên trong bị phân hủy sinh khí gây áp suất lớn làm phồng tụ, mất điện dung khiến mạch không lọc được nhiễu."
+  },
+  {
+    "question": "Trong mạch điều khiển sử dụng Transistor làm khóa điện tử để đóng cắt một rơ le một chiều, người ta luôn mắc song song ngược một Diode qua cuộn dây của rơ le. Mục đích kỹ thuật của Diode này là gì?",
+    "options": [
+      "Để tăng dòng điện chạy qua cuộn dây rơ le giúp hút mạnh hơn",
+      "Để dập tắt điện áp cảm ứng tự cảm rất cao sinh ra khi Transistor ngắt dòng điện, bảo vệ Transistor không bị đánh thủng",
+      "Để biến dòng điện qua cuộn dây thành dòng điện xoay chiều",
+      "Để cách điện giữa mạch điều khiển và mạch động lực của rơ le"
+    ],
+    "answer": "Để dập tắt điện áp cảm ứng tự cảm rất cao sinh ra khi Transistor ngắt dòng điện, bảo vệ Transistor không bị đánh thủng",
+    "explanation": "Khi Transistor ngắt đột ngột, cuộn dây rơ le sinh ra điện áp tự cảm ngược rất lớn. Diode mắc ngược (Diode bánh đà) sẽ tạo mạch kín cho dòng điện cảm ứng này tự tiêu tán, bảo vệ mối nối của Transistor."
+  },
+  {
+    "question": "Một tòa nhà chung cư cao tầng lắp đặt hệ thống pin năng lượng mặt trời trên mái. Để hòa dòng điện từ hệ thống pin này vào lưới điện xoay chiều dùng chung của tòa nhà, hệ thống bắt buộc phải sử dụng thiết bị điện tử công suất nào?",
+    "options": [
+      "Bộ biến đổi điện áp một chiều thành xoay chiều đồng bộ pha (Inverter hòa lưới)",
+      "Mạch chỉnh lưu cầu ba pha sử dụng diode công suất lớn",
+      "Trạm biến áp hạ áp tự ngẫu điều khiển bằng tay",
+      "Mạch băm xung điện áp một chiều công suất cao"
+    ],
+    "answer": "Bộ biến đổi điện áp một chiều thành xoay chiều đồng bộ pha (Inverter hòa lưới)",
+    "explanation": "Pin mặt trời tạo ra dòng điện một chiều (DC). Để đưa vào lưới điện xoay chiều (AC) của tòa nhà, cần bộ Inverter để nghịch lưu dòng điện thành xoay chiều, đồng thời phải trùng tần số và đồng bộ pha với lưới điện."
+  },
+  {
+    "question": "Tại sao trong cấu trúc hệ thống điện thông minh (Smart Grid) hiện nay, người ta lại chú trọng lắp đặt các công tơ điện tử thông minh thay thế công tơ cơ khí truyền thống?",
+    "options": [
+      "Vì công tơ điện tử làm giảm lượng điện tiêu thụ của các thiết bị trong nhà",
+      "Vì công tơ điện tử có khả năng đo đếm chính xác theo thời gian thực và truyền dữ liệu hai chiều giúp tối ưu hóa biểu đồ phụ tải",
+      "Vì công tơ điện tử không cần kết nối với dây dẫn điện của lưới điện",
+      "Vì công tơ điện tử có thể tự ngắt toàn bộ hệ thống khi người dân quên đóng tiền điện"
+    ],
+    "answer": "Vì công tơ điện tử có khả năng đo đếm chính xác theo thời gian thực và truyền dữ liệu hai chiều giúp tối ưu hóa biểu đồ phụ tải",
+    "explanation": "Công tơ thông minh cho phép ngành điện và người dùng theo dõi lượng điện tiêu thụ liên tục, thực hiện tính giá điện theo giờ cao/thấp điểm, hỗ trợ quản lý và phân phối nguồn điện linh hoạt hiệu quả."
+  },
+  {
+    "question": "Giả sử một kỹ sư thiết kế mạch khuếch đại đảo sử dụng một linh kiện khuếch đại thuật toán Op-Amp. Nếu điện trở phản hồi mắc từ đầu ra về đầu vào đảo có trị số bằng 100 kilo Ohm, và điện trở đầu vào có trị số bằng 10 kilo Ohm, thì độ khuếch đại điện áp của mạch này về trị số tuyệt đối là bao nhiêu?",
+    "options": [
+      "Độ khuếch đại bằng 10 lần",
+      "Độ khuếch đại bằng 110 lần",
+      "Độ khuếch đại bằng 90 lần",
+      "Độ khuếch đại bằng 1 lần"
+    ],
+    "answer": "Độ khuếch đại bằng 10 lần",
+    "explanation": "Đối với mạch khuếch đại đảo dùng Op-Amp, trị số tuyệt đối của hệ số khuếch đại điện áp được tính bằng trị số điện trở phản hồi chia cho trị số điện trở đầu vào. Lấy 100 chia cho 10 ta được kết quả bằng 10 lần."
+  },
+  {
+    "question": "Trong việc vận hành hệ thống điện quốc gia, hiện tượng 'thừa công suất phát' vào ban đêm khi các nhà máy điện gió, điện mặt trời vẫn tạo ra năng lượng nhưng nhu cầu tiêu thụ giảm sâu sẽ gây ra nguy cơ kỹ thuật gì?",
+    "options": [
+      "Làm sụt áp nghiêm trọng trên toàn bộ các đường dây truyền tải",
+      "Làm tần số của hệ thống điện tăng cao vượt ngưỡng an toàn, đe dọa sự ổn định của các máy phát điện truyền thống",
+      "Làm mất pha hoàn toàn tại các trạm biến áp phân phối nông thôn",
+      "Làm tăng điện trở của tất cả các dây dẫn điện trong hệ thống"
+    ],
+    "answer": "Làm tần số của hệ thống điện tăng cao vượt ngưỡng an toàn, đe dọa sự ổn định của các máy phát điện truyền thống",
+    "explanation": "Tần số hệ thống điện phụ thuộc vào sự cân bằng giữa công suất phát và công suất tiêu thụ. Khi công suất phát lớn hơn nhu cầu tiêu thụ, các rotor máy phát sẽ quay nhanh hơn, làm tần số hệ thống tăng cao, có thể gây hỏng hóc hoặc rã lưới nếu không có giải pháp lưu trữ/cắt giảm công suất."
+  },
+  {
+    "question": "Phân tích giải pháp kỹ thuật tối ưu để giảm thiểu dòng điện khởi động rất lớn của các động cơ không đồng bộ ba pha công suất cao trong các nhà máy sản xuất công nghiệp?",
+    "options": [
+      "Mắc nối tiếp một tụ điện có điện dung cực nhỏ vào mạch cấp nguồn",
+      "Sử dụng bộ khởi động mềm hoặc bộ biến tần để tăng dần điện áp và tần số cấp cho động cơ một cách tuần tự",
+      "Ngắt bỏ hoàn toàn hệ thống dây trung tính của mạng điện nhà máy",
+      "Tăng điện áp nguồn cấp lên gấp đôi điện áp định mức trước khi bấm khởi động"
+    ],
+    "answer": "Sử dụng bộ khởi động mềm hoặc bộ biến tần để tăng dần điện áp và tần số cấp cho động cơ một cách tuần tự",
+    "explanation": "Động cơ lớn khi khởi động trực tiếp sẽ rút dòng rất cao gây sụt áp lưới nội bộ. Bộ khởi động mềm hoặc biến tần (Inverter) giúp kiểm soát dòng điện bằng cách tăng dần tần số và điện áp từ từ, bảo vệ hệ thống cơ và điện."
+  },
+  {
+    "question": "Khi thiết kế hệ thống điện cho một nhà máy chế tạo cơ khí chính xác, tại sao các kỹ sư bắt buộc phải tính toán lắp đặt hệ thống tụ bù công suất phản kháng?",
+    "options": [
+      "Để biến dòng điện xoay chiều của nhà máy thành dòng một chiều",
+      "Để nâng cao hệ số công suất, giảm tổn thất điện năng trên đường dây cấp điện và tránh bị phạt tiền theo quy định của ngành điện",
+      "Để làm cho các máy công cụ chạy nhanh hơn tốc độ thiết kế",
+      "Để triệt tiêu hoàn toàn dòng điện chạy trong dây trung tính"
+    ],
+    "answer": "Để nâng cao hệ số công suất, giảm tổn thất điện năng trên đường dây cấp điện và tránh bị phạt tiền theo quy định của ngành điện",
+    "explanation": "Các động cơ, máy biến áp trong nhà máy có tính cảm kháng cao làm giảm hệ số công suất (cos phi). Lắp tụ bù giúp cung cấp công suất phản kháng tại chỗ, giảm dòng điện chạy trên đường dây truyền tải, giảm hao tổn và đáp ứng tiêu chuẩn của ngành điện."
+  },
+  {
+    "question": "Tại một trạm biến áp 110 kV, nếu xảy ra sự cố sét đánh trực tiếp vào đường dây truyền tải gần trạm, thiết bị bảo vệ nào có vai trò cốt lõi để bảo vệ máy biến áp lực không bị sóng điện áp cao phá hủy cách điện?",
+    "options": [
+      "Thiết bị chống sét van mắc giữa dây pha và hệ thống nối đất",
+      "Hệ thống cầu chì tự rơi lắp ở phía hạ áp của trạm",
+      "Aptomat khối dòng cắt thấp lắp tại tủ phân phối",
+      "Các điện trở thanh gốm mắc nối tiếp trên đường dây"
+    ],
+    "answer": "Thiết bị chống sét van mắc giữa dây pha và hệ thống nối đất",
+    "explanation": "Chống sét van (Surge Arrester) có đặc tính bình thường cách điện, nhưng khi có điện áp cao do sét đánh, nó ngay lập tức chuyển sang trạng thái dẫn điện mạnh để chuyển dòng điện sét xuống đất, bảo vệ an toàn cách điện cho máy biến áp."
+  },
+  {
+    "question": "Trong xu thế phát triển nguồn năng lượng tái tạo, việc tích hợp các hệ thống lưu trữ năng lượng bằng pin quy mô lớn (BESS) vào hệ thống điện quốc gia nhằm giải quyết bài toán kỹ thuật cốt lõi nào?",
+    "options": [
+      "Thay thế hoàn toàn chức năng tăng áp của các trạm biến áp lực",
+      "Khắc phục tính bất định, không liên tục của điện mặt trời và điện gió, giúp làm mịn đồ thị công suất phát và hỗ trợ ổn định tần số lưới điện",
+      "Biến đổi toàn bộ lưới điện xoay chiều quốc gia thành lưới điện một chiều",
+      "Loại bỏ hoàn toàn hiện tượng ngắn mạch trên hệ thống đường dây truyền tải"
+    ],
+    "answer": "Khắc phục tính bất định, không liên tục của điện mặt trời và điện gió, giúp làm mịn đồ thị công suất phát và hỗ trợ ổn định tần số lưới điện",
+    "explanation": "Điện mặt trời và điện gió phụ thuộc hoàn toàn vào thời tiết (nắng, gió) nên công suất phát trồi sụt thất thường. Hệ thống pin BESS sẽ nạp điện khi thừa công suất và xả điện ra lưới khi thiếu hụt, giúp lưới điện vận hành an toàn và liên tục."
+  }
+]

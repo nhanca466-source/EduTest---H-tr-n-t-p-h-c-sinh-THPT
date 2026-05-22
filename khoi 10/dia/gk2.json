@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Gia tăng dân số thực tế là kết quả tổng hợp của hai yếu tố nào sau đây?",
+    "options": [
+      "Gia tăng tự nhiên và gia tăng cơ học",
+      "Tỉ suất sinh thô và tỉ suất tử thô",
+      "Số người xuất cư và số người nhập cư",
+      "Quy mô dân số và mật độ dân số"
+    ],
+    "answer": "Gia tăng tự nhiên và gia tăng cơ học",
+    "explanation": "Gia tăng dân số thực tế bằng gia tăng tự nhiên cộng hoặc trừ với gia tăng cơ học, phản ánh chính xác sự biến động dân số của một vùng."
+  },
+  {
+    "question": "Cơ cấu dân số theo tuổi thường được chia thành mấy nhóm tuổi chính trên thế giới?",
+    "options": [
+      "Ba nhóm tuổi",
+      "Hai nhóm tuổi",
+      "Bốn nhóm tuổi",
+      "Năm nhóm tuổi"
+    ],
+    "answer": "Ba nhóm tuổi",
+    "explanation": "Cơ cấu dân số theo tuổi thường chia thành ba nhóm: dưới tuổi lao động (0 đến 14 tuổi), tuổi lao động (15 đến 64 tuổi) và trên tuổi lao động (từ 65 tuổi trở lên)."
+  },
+  {
+    "question": "Loại tháp tuổi nào sau đây đặc trưng cho cơ cấu dân số trẻ?",
+    "options": [
+      "Tháp có đáy rộng, đỉnh nhọn",
+      "Tháp có đáy hẹp, đỉnh mở rộng",
+      "Tháp có hình dáng giống như cái chuông",
+      "Tháp có các cạnh thẳng đứng từ đáy lên"
+    ],
+    "answer": "Tháp có đáy rộng, đỉnh nhọn",
+    "explanation": "Tháp dân số trẻ có đáy rộng (tỉ suất sinh cao) và thu hẹp nhanh về phía đỉnh (tỉ suất tử cao, tuổi thọ trung bình thấp)."
+  },
+  {
+    "question": "Thước đo nào sau đây được dùng để xác định mức độ tập trung dân cư trên một đơn vị diện tích?",
+    "options": [
+      "Mật độ dân số",
+      "Tỉ suất sinh thô",
+      "Tỉ lệ đô thị hóa",
+      "Quy mô dân số"
+    ],
+    "answer": "Mật độ dân số",
+    "explanation": "Mật độ dân số là số dân cư trú trên một đơn vị diện tích lãnh thổ (thường là người trên một ki-lô-mét vuông)."
+  },
+  {
+    "question": "Đô thị hóa là quá trình kinh tế - xã hội gắn liền với sự phát triển của yếu tố nào sau đây?",
+    "options": [
+      "Công nghiệp và dịch vụ",
+      "Nông nghiệp và lâm nghiệp",
+      "Khai thác tài nguyên biển",
+      "Kinh tế tự cung tự cấp"
+    ],
+    "answer": "Công nghiệp và dịch vụ",
+    "explanation": "Đô thị hóa là quá trình tất yếu gắn liền với sự dịch chuyển cơ cấu kinh tế từ nông nghiệp sang công nghiệp và dịch vụ."
+  },
+  {
+    "question": "Đặc điểm nào sau đây thuộc về sản xuất nông nghiệp và khác biệt hoàn toàn với công nghiệp?",
+    "options": [
+      "Đất trồng là tư liệu sản xuất chủ yếu và không thể thay thế",
+      "Sản xuất có tính chất tập trung cao độ tại nhà máy",
+      "Sản phẩm chịu ít ảnh hưởng của quy luật tự nhiên",
+      "Máy móc hoàn toàn thay thế được sinh vật sống"
+    ],
+    "answer": "Đất trồng là tư liệu sản xuất chủ yếu và không thể thay thế",
+    "explanation": "Trong nông nghiệp, đất trồng là tư liệu sản xuất bắt buộc và quan trọng nhất, không có đất thì không thể tiến hành trồng trọt."
+  },
+  {
+    "question": "Đối tượng lao động đặc thù của ngành nông nghiệp là gì?",
+    "options": [
+      "Cây trồng và vật nuôi",
+      "Các loại khoáng sản",
+      "Máy móc và công cụ",
+      "Đất đai và nguồn nước"
+    ],
+    "answer": "Cây trồng và vật nuôi",
+    "explanation": "Đối tượng lao động của nông nghiệp là các sinh vật sống (cây trồng, vật nuôi), chúng sinh trưởng và phát triển theo các quy luật sinh học."
+  },
+  {
+    "question": "Cây lương thực nào sau đây ưa khí hậu nóng ẩm, đất phù sa và cần nhiều nước?",
+    "options": [
+      "Lúa gạo",
+      "Lúa mì",
+      "Ngô",
+      "Lúa mạch"
+    ],
+    "answer": "Lúa gạo",
+    "explanation": "Lúa gạo là cây lương thực nhiệt đới, đòi hỏi nhiệt độ cao, độ ẩm lớn và tầng đất phù sa ngập nước."
+  },
+  {
+    "question": "Cây lương thực nào sau đây thích nghi tốt với khí hậu ôn đới, đất ẩm và chịu được lạnh?",
+    "options": [
+      "Lúa mì",
+      "Lúa gạo",
+      "Cây cao su",
+      "Cây cà phê"
+    ],
+    "answer": "Lúa mì",
+    "explanation": "Lúa mì là cây lương thực miền ôn đới và cận nhiệt, có khả năng chịu được khí hậu lạnh và khô hơn lúa gạo."
+  },
+  {
+    "question": "Nhóm cây công nghiệp nào sau đây được dùng để lấy dầu?",
+    "options": [
+      "Đậu tương, hướng dương, lạc",
+      "Mía, củ cải đường, sắn",
+      "Cà phê, ca cao, chè",
+      "Bông, lanh, đay"
+    ],
+    "answer": "Đậu tương, hướng dương, lạc",
+    "explanation": "Đậu tương (đậu nành), hướng dương và lạc (đậu phộng) là những loại cây công nghiệp chứa hàm lượng lipid cao, chuyên dùng để chế biến dầu ăn."
+  },
+  {
+    "question": "Ngành chăn nuôi lợn và gia cầm thường phân bố tập trung ở những khu vực nào sau đây?",
+    "options": [
+      "Vùng thâm canh lương thực và ven đô thị lớn",
+      "Các vùng đồng cỏ nửa hoang mạc khô hạn",
+      "Vùng rừng núi cao hiểm trở",
+      "Vùng ngập mặn ven biển đại dương"
+    ],
+    "answer": "Vùng thâm canh lương thực và ven đô thị lớn",
+    "explanation": "Lợn và gia cầm là vật nuôi ăn ngũ cốc, cần nguồn thức ăn lớn từ ngành trồng trọt và có nhu cầu tiêu thụ cao ở các thành phố."
+  },
+  {
+    "question": "Ngành lâm nghiệp bao gồm hai hoạt động chính nào sau đây?",
+    "options": [
+      "Trồng rừng, bảo vệ rừng và khai thác, chế biến gỗ",
+      "Khai thác gỗ và săn bắt động vật hoang dã",
+      "Đốt rừng làm nương rẫy và nuôi cây cảnh",
+      "Trồng cây ăn quả và bảo tồn thiên nhiên"
+    ],
+    "answer": "Trồng rừng, bảo vệ rừng và khai thác, chế biến gỗ",
+    "explanation": "Theo cấu trúc ngành, lâm nghiệp gồm các hoạt động quản lý, trồng, chăm sóc bảo vệ rừng và khai thác, lâm sản."
+  },
+  {
+    "question": "Ngành thủy sản bao gồm hai bộ phận sản xuất nào sau đây?",
+    "options": [
+      "Khai thác thủy sản và nuôi trồng thủy sản",
+      "Đánh bắt cá biển và chế biến nước mắm",
+      "Nuôi tôm xuất khẩu và làm muối ven biển",
+      "Khai thác ngọc trai và đóng tàu cá"
+    ],
+    "answer": "Khai thác thủy sản và nuôi trồng thủy sản",
+    "explanation": "Kinh tế thủy sản bao gồm hoạt động khai thác (đánh bắt tự nhiên) và hoạt động nuôi trồng các loài thủy sinh vật."
+  },
+  {
+    "question": "Yếu tố tự nhiên nào quyết định đến sự phân bố của các loại cây trồng trong nông nghiệp?",
+    "options": [
+      "Khí hậu và đất đai",
+      "Khoáng sản và địa chất",
+      "Hệ thống sông ngòi",
+      "Thủy triều và dòng biển"
+    ],
+    "answer": "Khí hậu và đất đai",
+    "explanation": "Mỗi loại cây trồng có nhu cầu về nhiệt độ, ánh sáng, độ ẩm và loại đất riêng biệt để sinh trưởng."
+  },
+  {
+    "question": "Cơ cấu dân số theo giới tính biểu thị tương quan giữa nhóm nào với nhóm nào?",
+    "options": [
+      "Nam giới và nữ giới",
+      "Người trong tuổi lao động và ngoài lao động",
+      "Dân cư thành thị và nông thôn",
+      "Người lao động trí óc và chân tay"
+    ],
+    "answer": "Nam giới và nữ giới",
+    "explanation": "Cơ cấu giới tính biểu thị tương quan giữa số nam và số nữ hoặc giữa tỉ lệ nam và tỉ lệ nữ trong tổng số dân."
+  },
+  {
+    "question": "Quốc gia nào sau đây có quy mô dân số đứng đầu thế giới tính đến nửa đầu thập kỷ này?",
+    "options": [
+      "Ấn Độ",
+      "Trung Quốc",
+      "Hoa Kỳ",
+      "Bác-la-đét"
+    ],
+    "answer": "Ấn Độ",
+    "explanation": "Ấn Độ đã chính thức vượt qua Trung Quốc để trở thành quốc gia có quy mô dân số đông nhất thế giới."
+  },
+  {
+    "question": "Sự phân bố dân cư trên thế giới có đặc điểm cốt lõi nào sau đây?",
+    "options": [
+      "Phân bố không đồng đều trong không gian",
+      "Phân bố đồng đều ở tất cả các châu lục",
+      "Chỉ tập trung ở các vùng có khí hậu lạnh",
+      "Tăng đều đặn theo chiều cao địa hình"
+    ],
+    "answer": "Phân bố không đồng đều trong không gian",
+    "explanation": "Dân cư thế giới phân bố rất không đồng đều, nơi đông đúc như đồng bằng châu thổ, nơi thưa thớt như hoang mạc, vùng cực."
+  },
+  {
+    "question": "Vùng nào sau đây trên Trái Đất thường có mật độ dân số thấp nhất?",
+    "options": [
+      "Các hoang mạc và vùng cực lạnh giá",
+      "Các đồng bằng châu thổ sông lớn",
+      "Các vùng ven bờ đại dương ấm áp",
+      "Các trung tâm công nghiệp hiện đại"
+    ],
+    "answer": "Các hoang mạc và vùng cực lạnh giá",
+    "explanation": "Hoang mạc (thiếu nước) và vùng cực (quá lạnh) có điều kiện tự nhiên khắc nghiệt nên mật độ dân số rất thấp."
+  },
+  {
+    "question": "Loại rừng nào sau đây có vai trò chủ yếu là phòng chống thiên tai, bảo vệ nguồn nước và chống xói mòn đất?",
+    "options": [
+      "Rừng phòng hộ",
+      "Rừng sản xuất",
+      "Rừng đặc dụng",
+      "Rừng gỗ quý xuất khẩu"
+    ],
+    "answer": "Rừng phòng hộ",
+    "explanation": "Rừng phòng hộ được sử dụng chủ yếu để bảo vệ nguồn nước, bảo vệ đất, chống xói mòn, sạt lở, hạn chế thiên tai."
+  },
+  {
+    "question": "Cơ cấu sinh học của dân số bao gồm những tiêu chí nào sau đây?",
+    "options": [
+      "Cơ cấu theo giới tính và theo tuổi",
+      "Cơ cấu theo lao động và trình độ học vấn",
+      "Cơ cấu theo tôn giáo và dân tộc",
+      "Cơ cấu theo thành thị và nông thôn"
+    ],
+    "answer": "Cơ cấu theo giới tính và theo tuổi",
+    "explanation": "Cơ cấu sinh học phản ánh đặc tính tự nhiên của con người, gồm cơ cấu theo giới tính và cơ cấu theo tuổi."
+  },
+  {
+    "question": "Tại sao tỉ suất tử thô ở nhiều nước phát triển hiện nay lại có xu hướng tăng lên dù y học rất hiện đại?",
+    "options": [
+      "Do cơ cấu dân số già, tỉ lệ người cao tuổi lớn",
+      "Do ô nhiễm môi trường công nghiệp quá nặng",
+      "Do hệ thống y tế bị xuống cấp nghiêm trọng",
+      "Do người dân không có nhu cầu chăm sóc sức khỏe"
+    ],
+    "answer": "Do cơ cấu dân số già, tỉ lệ người cao tuổi lớn",
+    "explanation": "Ở các nước phát triển, tỉ lệ người già trong tổng số dân rất cao, quy luật sinh học khiến tỉ suất tử thô tăng lên dù điều kiện sống rất tốt."
+  },
+  {
+    "question": "Cơ cấu dân số già gây ra khó khăn lớn nhất nào sau đây cho phát triển kinh tế?",
+    "options": [
+      "Thiếu hụt lực lượng lao động trong tương lai",
+      "Gia tăng nhanh chóng nạn thất nghiệp ở đô thị",
+      "Gây áp lực quá tải lên hệ thống giáo dục tiểu học",
+      "Làm giảm sút nhanh chóng quy mô dân số đô thị"
+    ],
+    "answer": "Thiếu hụt lực lượng lao động trong tương lai",
+    "explanation": "Dân số già đồng nghĩa với việc tỉ lệ trẻ em sinh ra ít đi, dẫn đến nguy cơ thiếu hụt lao động bổ sung và chi phí phúc lợi xã hội cho người già tăng cao."
+  },
+  {
+    "question": "Tại sao các vùng đồng bằng châu thổ sông ở châu Á thường có mật độ dân số rất cao?",
+    "options": [
+      "Đất đai màu mỡ, nguồn nước dồi dào, lịch sử trồng lúa nước lâu đời",
+      "Là nơi tập trung nhiều mỏ khoáng sản kim loại màu lớn nhất",
+      "Khí hậu mát mẻ quanh năm giống như vùng ôn đới châu Âu",
+      "Diện tích đất rộng lớn và không bao giờ xảy ra thiên tai"
+    ],
+    "answer": "Đất đai màu mỡ, nguồn nước dồi dào, lịch sử trồng lúa nước lâu đời",
+    "explanation": "Đồng bằng sông ở châu Á hội tụ điều kiện lý tưởng cho canh tác lúa nước (ngành cần nhiều lao động), tạo cơ sở để hình thành các vùng dân cư đông đúc từ lâu đời."
+  },
+  {
+    "question": "Yếu tố kinh tế - xã hội nào có tính chất quyết định nhất đến việc phân bố dân cư hiện đại?",
+    "options": [
+      "Trình độ phát triển của lực lượng sản xuất và tính chất nền kinh tế",
+      "Sự phân bố của hệ thống sông ngòi và nguồn nước ngọt",
+      "Hình dáng hình học và độ dốc của bề mặt địa hình",
+      "Phong tục tập quán và các lễ hội truyền thống phương Đông"
+    ],
+    "answer": "Trình độ phát triển của lực lượng sản xuất và tính chất nền kinh tế",
+    "explanation": "Nơi có kinh tế phát triển, công nghiệp và dịch vụ hiện đại sẽ thu hút nhiều lao động, tạo nên các vùng thâm canh và đô thị hóa có mật độ dân số cao."
+  },
+  {
+    "question": "Ảnh hưởng tích cực lớn nhất của quá trình đô thị hóa đến phát triển kinh tế là gì?",
+    "options": [
+      "Thúc đẩy sự chuyển dịch cơ cấu kinh tế theo hướng hiện đại",
+      "Làm giảm hoàn toàn khoảng cách giàu nghèo giữa các vùng",
+      "Giải quyết triệt để vấn đề ô nhiễm môi trường nông thôn",
+      "Hạn chế sự di chuyển lao động tự do giữa các địa phương"
+    ],
+    "answer": "Thúc đẩy sự chuyển dịch cơ cấu kinh tế theo hướng hiện đại",
+    "explanation": "Đô thị hóa thúc đẩy tăng trưởng kinh tế, làm tăng tỉ trọng của các ngành công nghiệp và dịch vụ, thay đổi diện mạo kinh tế đất nước."
+  },
+  {
+    "question": "Đô thị hóa tự phát (không có quy hoạch) thường dẫn đến hậu quả nghiêm trọng nào sau đây tại các thành phố lớn?",
+    "options": [
+      "Quá tải hạ tầng, ô nhiễm môi trường và tệ nạn xã hội tăng",
+      "Thiếu hụt việc làm ở các vùng nông thôn lân cận",
+      "Giá cả bất động sản giảm sút nhanh chóng tại trung tâm",
+      "Lực lượng lao động kỹ thuật cao rời bỏ thành phố"
+    ],
+    "answer": "Quá tải hạ tầng, ô nhiễm môi trường và tệ nạn xã hội tăng",
+    "explanation": "Dòng người di cư quá đông vào đô thị khi kinh tế chưa đủ đáp ứng gây áp lực lên nhà ở, giao thông, y tế, gây ô nhiễm và mất an ninh trật tự."
+  },
+  {
+    "question": "Tính chất mùa vụ trong sản xuất nông nghiệp được quy định chủ yếu bởi yếu tố tự nhiên nào?",
+    "options": [
+      "Khí hậu",
+      "Địa hình",
+      "Đất đai",
+      "Khoáng sản"
+    ],
+    "answer": "Khí hậu",
+    "explanation": "Khí hậu nước ta và nhiều nơi có sự phân hóa theo mùa (nhiệt độ, lượng mưa), tác động đến chu kỳ sinh trưởng của cây trồng, tạo ra tính mùa vụ."
+  },
+  {
+    "question": "Việc đẩy mạnh liên kết giữa sản xuất nông nghiệp với công nghiệp chế biến có ý nghĩa cốt lõi nào?",
+    "options": [
+      "Nâng cao giá trị sản phẩm và kéo dài thời gian bảo quản lâm nông sản",
+      "Thay thế hoàn toàn lao động thủ công bằng robot thông minh",
+      "Làm cho sản xuất nông nghiệp không còn phụ thuộc vào đất trồng",
+      "Xóa bỏ hoàn toàn tính chất mùa vụ của khí hậu thời tiết"
+    ],
+    "answer": "Nâng cao giá trị sản phẩm và kéo dài thời gian bảo quản lâm nông sản",
+    "explanation": "Công nghiệp chế biến giúp nông sản chế biến sâu, nâng giá trị thương mại, dễ vận chuyển và bảo quản được lâu hơn, tránh tình trạng được mùa mất giá."
+  },
+  {
+    "question": "Tại sao cây cao su và cây cà phê lại phân bố chủ yếu ở vùng nhiệt đới và cận nhiệt đới?",
+    "options": [
+      "Do có nhu cầu cao về nhiệt độ và độ ẩm quanh năm",
+      "Do chỉ sinh trưởng được trên địa hình núi cao ôn đới",
+      "Do các nước ở vùng này có trình độ công nghệ cao nhất",
+      "Do thị trường tiêu thụ các sản phẩm này chỉ nằm ở nhiệt đới"
+    ],
+    "answer": "Do có nhu cầu cao về nhiệt độ và độ ẩm quanh năm",
+    "explanation": "Cao su và cà phê là cây công nghiệp nhiệt đới, đòi hỏi nguồn nhiệt dồi dào, lượng mưa lớn và độ ẩm cao để cho năng suất tốt."
+  },
+  {
+    "question": "Sự phát triển mạnh mẽ của ngành công nghiệp chế biến thức ăn gia súc có tác động như thế nào đến ngành chăn nuôi?",
+    "options": [
+      "Giúp chăn nuôi chuyển sang hình thức công nghiệp, chủ động thức ăn",
+      "Làm cho ngành chăn nuôi hoàn toàn tách rời khỏi ngành trồng trọt",
+      "Làm giảm nhu cầu tiêu thụ các sản phẩm thịt, trứng, sữa",
+      "Khiến vật nuôi chỉ có thể phát triển được ở các khu vực đô thị"
+    ],
+    "answer": "Giúp chăn nuôi chuyển sang hình thức công nghiệp, chủ động thức ăn",
+    "explanation": "Thức ăn chế biến công nghiệp cung cấp dinh dưỡng cân đối, giúp chăn nuôi thoát khỏi việc phụ thuộc hoàn toàn vào đồng cỏ tự nhiên, tiến lên quy mô lớn."
+  },
+  {
+    "question": "Tại sao việc bảo vệ rừng đặc dụng lại có ý nghĩa sống còn đối với sự đa dạng sinh học?",
+    "options": [
+      "Là nơi lưu giữ các nguồn gen quý và các hệ sinh thái tự nhiên chuẩn mẫu",
+      "Cung cấp khối lượng gỗ lớn nhất cho công nghiệp xuất khẩu giấy",
+      "Là nơi có tốc độ tăng trưởng kinh tế lâm nghiệp nhanh nhất nước",
+      "Giúp ngăn chặn hoàn toàn hiện tượng sa mạc hóa ở các đồng bằng"
+    ],
+    "answer": "Là nơi lưu giữ các nguồn gen quý và các hệ sinh thái tự nhiên chuẩn mẫu",
+    "explanation": "Rừng đặc dụng bao gồm các vườn quốc gia, khu bảo tồn thiên nhiên, được thành lập mục đích chính để bảo tồn nguồn gen, động thực vật hoang dã."
+  },
+  {
+    "question": "Yếu tố nào sau đây là điều kiện tiên quyết giúp ngành nuôi trồng thủy sản nước ngọt phát triển?",
+    "options": [
+      "Diện tích mặt nước sông, hồ, ao và kênh rạch dồi dào",
+      "Các bãi tôm, bãi cá lớn phân bố ở ngoài khơi xa",
+      "Hệ thống dòng biển nóng và dòng biển lạnh gặp nhau",
+      "Độ mặn của nước biển ổn định ở mức cao quanh năm"
+    ],
+    "answer": "Diện tích mặt nước sông, hồ, ao và kênh rạch dồi dào",
+    "explanation": "Nuôi trồng thủy sản nước ngọt đòi hỏi không gian mặt nước nội địa như sông ngòi, ao hồ, đầm phá để xây dựng lồng bè hoặc ao nuôi."
+  },
+  {
+    "question": "Thị trường tiêu thụ có vai trò như thế nào đối với sản xuất nông nghiệp nông thôn?",
+    "options": [
+      "Điều tiết hướng chuyên môn hóa và kích thích quy mô sản xuất",
+      "Quy định sự có mặt của các loại giống cây trồng tự nhiên",
+      "Thay đổi hoàn toàn thành phần dinh dưỡng của đất canh tác",
+      "Trực tiếp tạo ra các nguồn năng lượng cho máy móc vận hành"
+    ],
+    "answer": "Điều tiết hướng chuyên môn hóa và kích thích quy mô sản xuất",
+    "explanation": "Thị trường đóng vai trò định hướng: người nông dân sẽ trồng cây gì, nuôi con gì dựa vào nhu cầu và giá cả của thị trường tiêu thụ."
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng về sự khác biệt giữa gia tăng tự nhiên và gia tăng cơ học?",
+    "options": [
+      "Gia tăng tự nhiên do sinh tử quyết định, gia tăng cơ học do di dân",
+      "Gia tăng tự nhiên chỉ có ở nông thôn, gia tăng cơ học chỉ có ở thành thị",
+      "Gia tăng cơ học làm thay đổi quy mô dân số của toàn bộ Trái Đất",
+      "Gia tăng tự nhiên không ảnh hưởng đến cấu trúc tuổi của dân số"
+    ],
+    "answer": "Gia tăng tự nhiên do sinh tử quyết định, gia tăng cơ học do di dân",
+    "explanation": "Gia tăng tự nhiên là hiệu số giữa tỉ suất sinh thô và tử thô. Gia tăng cơ học là hiệu số giữa người nhập cư và xuất cư."
+  },
+  {
+    "question": "Yếu tố nào sau đây vừa là lực lượng sản xuất, vừa là đối tượng tiêu thụ các sản phẩm trong nền kinh tế?",
+    "options": [
+      "Dân số",
+      "Tài nguyên đất",
+      "Vốn đầu tư",
+      "Công nghệ số"
+    ],
+    "answer": "Dân số",
+    "explanation": "Con người (dân số) cung cấp nguồn lao động để sản xuất ra của cải, đồng thời chính họ là thị trường tiêu thụ các sản phẩm hàng hóa dịch vụ."
+  },
+  {
+    "question": "Sự phát triển của khoa học công nghệ tiên tiến có tác động nào sau đây đến ngành trồng trọt hiện đại?",
+    "options": [
+      "Tạo ra các giống mới năng suất cao và tăng khả năng thích ứng thời tiết",
+      "Làm cho cây trồng không cần hấp thụ ánh sáng mặt trời vẫn cho quả",
+      "Xóa bỏ hoàn toàn vai trò của nước đối với sự sinh trưởng của cây",
+      "Làm cho diện tích đất trồng trên thế giới tăng lên liên tục"
+    ],
+    "answer": "Tạo ra các giống mới năng suất cao và tăng khả năng thích ứng thời tiết",
+    "explanation": "Công nghệ sinh học tạo ra các giống cây kháng sâu bệnh, chịu hạn, chịu mặn tốt, nâng cao năng suất và chất lượng nông sản."
+  },
+  {
+    "question": "Một quốc gia có tỉ lệ dân số thành thị tăng từ ba mươi phần trăm lên sáu mươi phần trăm trong vòng hai mươi năm. Hiện tượng này phản ánh điều gì?",
+    "options": [
+      "Quá trình đô thị hóa diễn ra với tốc độ nhanh chóng",
+      "Quy mô dân số của quốc gia đó giảm đi một nửa",
+      "Ngành nông nghiệp trở thành ngành kinh tế chủ đạo",
+      "Tất cả người dân nông thôn đều ngừng sản xuất"
+    ],
+    "answer": "Quá trình đô thị hóa diễn ra với tốc độ nhanh chóng",
+    "explanation": "Tỉ lệ dân thành thị là thước đo quan trọng nhất phản ánh trình độ và tốc độ của quá trình đô thị hóa ở một quốc gia."
+  },
+  {
+    "question": "Tại sao các nước đang phát triển ở châu Á, châu Phi thường có tỉ suất gia tăng dân số tự nhiên cao hơn các nước phát triển?",
+    "options": [
+      "Do tâm lý muốn có nhiều con và trình độ phát triển kinh tế xã hội thấp hơn",
+      "Do điều kiện y tế ở các nước này tốt hơn các nước phát triển",
+      "Do cơ cấu dân số của các nước này thuộc nhóm dân số già",
+      "Do có chính sách khuyến khích sinh sản với tiền thưởng rất lớn"
+    ],
+    "answer": "Do tâm lý muốn có nhiều con và trình độ phát triển kinh tế xã hội thấp hơn",
+    "explanation": "Các nước đang phát triển có cơ cấu dân số trẻ, độ tuổi sinh đẻ lớn, kết hợp với tập quán và quan niệm truyền thống nên tỉ lệ sinh vẫn giữ ở mức cao."
+  },
+  {
+    "question": "Sự di dân từ nông thôn ra thành phố lớn ở các nước đang phát triển chủ yếu xuất phát từ động lực kinh tế nào?",
+    "options": [
+      "Tìm kiếm cơ hội việc làm và nâng cao thu nhập cá nhân",
+      "Trốn tránh các nghĩa vụ lao động công ích ở địa phương",
+      "Do thành thị có nhiều diện tích đất canh tác nông nghiệp tự do",
+      "Muốn thay đổi quốc tịch và học tập ngôn ngữ mới"
+    ],
+    "answer": "Tìm kiếm cơ hội việc làm và nâng cao thu nhập cá nhân",
+    "explanation": "Sự chênh lệch về cơ hội việc làm, mức lương và điều kiện sống giữa thành thị và nông thôn là lực hút mạnh mẽ lao động nông thôn ra thành phố."
+  },
+  {
+    "question": "Để khắc phục hạn chế về tính mùa vụ và sự phụ thuộc vào tự nhiên của nông nghiệp, giải pháp nào sau đây là tối ưu?",
+    "options": [
+      "Phát triển nông nghiệp công nghệ cao, nhà kính và hệ thống thủy lợi",
+      "Chuyển toàn bộ lao động nông nghiệp sang làm ngành khai thác khoáng sản",
+      "Ngừng sản xuất vào những mùa có thời tiết khí hậu không thuận lợi",
+      "Mở rộng diện tích đất canh tác ra các vùng hoang mạc khô cằn"
+    ],
+    "answer": "Phát triển nông nghiệp công nghệ cao, nhà kính và hệ thống thủy lợi",
+    "explanation": "Công nghệ cao (nhà kính điều hòa nhiệt độ, tưới tiêu tự động) giúp con người kiểm soát môi trường sống của cây trồng, giảm thiểu tác động bất lợi của thời tiết."
+  },
+  {
+    "question": "Tại sao việc khai thác thủy sản xa bờ lại được khuyến khích phát triển hơn so với khai thác thủy sản ven bờ?",
+    "options": [
+      "Giúp bảo vệ nguồn lợi thủy sản ven bờ và khẳng định chủ quyền biển đảo",
+      "Chi phí đầu tư cho tàu thuyền đánh bắt xa bờ rất thấp và đơn giản",
+      "Các loài cá xa bờ dễ đánh bắt và không chịu ảnh hưởng của bão biển",
+      "Hải sản ven bờ hoàn toàn không có giá trị kinh tế trên thị trường"
+    ],
+    "answer": "Giúp bảo vệ nguồn lợi thủy sản ven bờ và khẳng định chủ quyền biển đảo",
+    "explanation": "Khai thác ven bờ quá mức làm cạn kiệt nguồn lợi sinh vật sinh sản. Đánh bắt xa bờ vừa khai thác nguồn lợi lớn ngoài khơi vừa góp phần bảo vệ an ninh chủ quyền biển quốc gia."
+  },
+  {
+    "question": "Tại sao các vùng có khí hậu cận nhiệt địa trung hải lại rất thích hợp cho việc phát triển các loại cây ăn quả như cam, chanh, nho, ô liu?",
+    "options": [
+      "Do có mùa hè nóng khô, mùa đông ấm áp và có mưa",
+      "Do có hiện tượng băng giá bao phủ bề mặt đất suốt mùa hè",
+      "Do lượng mưa phân bố đều đặn và rất lớn ở tất cả các tháng",
+      "Do có tầng đất đai bị ngập nước quanh năm giống như đồng bằng sông"
+    ],
+    "answer": "Do có mùa hè nóng khô, mùa đông ấm áp và có mưa",
+    "explanation": "Khí hậu Địa Trung Hải đặc trưng bởi mùa hè khô nóng, nhiều nắng (giúp quả tích tụ đường tốt) và mùa đông ấm ẩm, phù hợp sinh thái của nhóm cây ăn quả đặc trưng này."
+  },
+  {
+    "question": "Một vùng lãnh thổ có diện tích mười vạn ki-lô-mét vuông, dân số là hai mươi triệu người. Hãy tính mật độ dân số của vùng lãnh thổ này?",
+    "options": [
+      "200 người trên một ki-lô-mét vuông",
+      "50 người trên một ki-lô-mét vuông",
+      "20 người trên một ki-lô-mét vuông",
+      "500 người trên một ki-lô-mét vuông"
+    ],
+    "answer": "200 người trên một ki-lô-mét vuông",
+    "explanation": "Đổi mười vạn ki-lô-mét vuông bằng 100000 ki-lô-mét vuông. Công thức tính mật độ dân số là lấy số dân chia cho diện tích: 20000000 người chia cho 100000 ki-lô-mét vuông bằng 200 người trên một ki-lô-mét vuông."
+  },
+  {
+    "question": "Mối quan hệ giữa ngành trồng trọt và ngành chăn nuôi được thể hiện rõ nét nhất ở khía cạnh nào sau đây?",
+    "options": [
+      "Trồng trọt cung cấp thức ăn, chăn nuôi cung cấp phân bón và sức kéo",
+      "Trồng trọt và chăn nuôi hoàn toàn cạnh tranh gay gắt về diện tích đất",
+      "Chăn nuôi phát triển sẽ làm triệt tiêu hoàn toàn các ngành trồng trọt",
+      "Trồng trọt chỉ phát triển khi ngành chăn nuôi bị suy giảm quy mô"
+    ],
+    "answer": "Trồng trọt cung cấp thức ăn, chăn nuôi cung cấp phân bón và sức kéo",
+    "explanation": "Hai ngành này có mối quan hệ hữu cơ, hỗ trợ nhau: phụ phẩm trồng trọt làm thức ăn cho gia súc, chất thải chăn nuôi được ủ làm phân bón hữu cơ cho đất trồng."
+  },
+  {
+    "question": "Xu hướng nổi bật trong tổ chức lãnh thổ nông nghiệp hiện nay của các nước tiên tiến trên thế giới là gì?",
+    "options": [
+      "Hình thành các vùng chuyên môn hóa và trang trại quy mô lớn",
+      "Quay trở lại hình thức canh tác tự cung tự cấp nhỏ lẻ hộ gia đình",
+      "Xóa bỏ hoàn toàn ranh giới giữa đất nông nghiệp và đất đô thị",
+      "Tập trung toàn bộ việc trồng trọt vào trong các phòng thí nghiệm"
+    ],
+    "answer": "Hình thành các vùng chuyên môn hóa và trang trại quy mô lớn",
+    "explanation": "Tổ chức sản xuất hiện đại hướng tới xây dựng vùng chuyên canh nông sản quy mô lớn, ứng dụng cơ giới hóa để sản xuất ra khối lượng hàng hóa đồng đều, chất lượng cao."
+  },
+  {
+    "question": "Tại sao diện tích rừng của thế giới nói chung và các nước đang phát triển nói riêng vẫn bị suy giảm nghiêm trọng mặc dù có nhiều lời kêu gọi bảo vệ?",
+    "options": [
+      "Do áp lực từ việc mở rộng đất nông nghiệp, khai thác gỗ và đô thị hóa",
+      "Do biến đổi khí hậu làm cho cây rừng tự động ngừng sinh trưởng",
+      "Do các loài động vật hoang dã phá hủy cây rừng quá mức",
+      "Do con người chuyển sang dùng năng lượng củi đốt thay thế hoàn toàn điện"
+    ],
+    "answer": "Do áp lực từ việc mở rộng đất nông nghiệp, khai thác gỗ và đô thị hóa",
+    "explanation": "Áp lực gia tăng dân số buộc các nước đang phát triển phải phá rừng lấy đất canh tác lương thực, lấy không gian xây đô thị và khai thác lâm sản kiếm nguồn thu kinh tế ngắn hạn."
+  },
+  {
+    "question": "Việc chuyển dịch từ cơ cấu dân số trẻ sang cơ cấu dân số già ở một quốc gia sẽ trực tiếp làm thay đổi chiến lược phát triển kinh tế xã hội nào sau đây?",
+    "options": [
+      "Chuyển từ mở rộng trường học tiểu học sang đầu tư hệ thống chăm sóc sức khỏe người già",
+      "Chuyển toàn bộ ngân sách quốc phòng sang đầu tư cho ngành khai thác khoáng sản",
+      "Đóng cửa tất cả các nhà máy công nghiệp để tập trung phát triển nông nghiệp sinh thái",
+      "Cấm hoàn toàn người dân di cư từ khu vực nông thôn ra các thành phố lớn"
+    ],
+    "answer": "Chuyển từ mở rộng trường học tiểu học sang đầu tư hệ thống chăm sóc sức khỏe người già",
+    "explanation": "Dân số già đòi hỏi cấu trúc hạ tầng xã hội phải thay đổi theo để thích ứng: đầu tư viện dưỡng lão, y tế lão khoa, bảo hiểm xã hội thay vì tập trung xây quá nhiều trường mầm non, tiểu học."
+  },
+  {
+    "question": "Sự phát triển của mạng lưới giao thông vận tải và hệ thống logistics hiện đại có tác động mang tính bước ngoặt nào đối với ngành thủy sản?",
+    "options": [
+      "Mở rộng không gian thị trường tiêu thụ, giúp vận chuyển hải sản tươi sống đi khắp thế giới",
+      "Làm thay đổi hoàn toàn tập tính sinh sản tự nhiên của các loài cá biển sâu",
+      "Giúp con người có thể nuôi trồng thủy sản mà không cần sử dụng đến nguồn nước",
+      "Làm giảm hoàn toàn chi phí đánh bắt hải sản của ngư dân ngoài khơi xa"
+    ],
+    "answer": "Mộng rộng không gian thị trường tiêu thụ, giúp vận chuyển hải sản tươi sống đi khắp thế giới",
+    "explanation": "Hải sản là mặt hàng dễ hư hỏng. Hệ thống tàu vận tải đông lạnh và máy bay kết hợp logistics chuyên nghiệp giúp kết nối trực tiếp vùng đánh bắt với bàn ăn của người tiêu dùng quốc tế chỉ trong vài ngày."
+  },
+  {
+    "question": "Nếu một quốc gia áp dụng chính sách dân số triệt để làm giảm nhanh tỉ suất sinh xuống dưới mức thay thế, hệ quả cấu trúc dân số dài hạn sau ba mươi năm sẽ là gì?",
+    "options": [
+      "Khủng hoảng thiếu hụt lao động nghiêm trọng và tốc độ già hóa dân số cực nhanh",
+      "Tỉ lệ người trong độ tuổi lao động tăng lên đạt mức tuyệt đối một trăm phần trăm",
+      "Nạn thất nghiệp và nghèo đói ở các đô thị lớn tăng lên không kiểm soát được",
+      "Quy mô dân số thành thị sẽ tự động biến mất và dịch chuyển về nông thôn"
+    ],
+    "answer": "Khủng hoảng thiếu hụt lao động nghiêm trọng và tốc độ già hóa dân số cực nhanh",
+    "explanation": "Sinh ít trong thời gian dài khiến nền đáy tháp dân số co hẹp lại. Ba mươi năm sau, thế hệ này bước vào độ tuổi lao động với số lượng ít ỏi, trong khi thế hệ trước đã già đi, tạo gánh nặng lớn cho nền kinh tế."
+  },
+  {
+    "question": "Tại sao việc phát triển nông nghiệp bền vững lại đòi hỏi phải hạn chế tối đa việc lạm dụng phân bón hóa học và thuốc bảo vệ thực vật hữu cơ?",
+    "options": [
+      "Để tránh làm suy thoái, ô nhiễm đất, nguồn nước và bảo vệ sức khỏe người tiêu dùng",
+      "Vì phân bón hóa học làm cho cây trồng giảm năng suất ngay trong vụ mùa đầu tiên",
+      "Vì các hóa chất này phá hủy toàn bộ hệ thống máy móc cơ giới hóa trên đồng ruộng",
+      "Vì các nước phát triển đã cấm hoàn toàn việc sử dụng phân bón trong trồng trọt"
+    ],
+    "answer": "Để tránh làm suy thoái, ô nhiễm đất, nguồn nước và bảo vệ sức khỏe người tiêu dùng",
+    "explanation": "Hóa chất nông nghiệp dư thừa sẽ làm chết hệ vi sinh vật có ích trong đất, gây chai cứng đất, ngấm vào mạch nước ngầm và để lại dư lượng độc hại trong nông sản, đi ngược lại tiêu chí nông nghiệp sạch, bền vững."
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Dân tộc nào sau đây chiếm đại đa số trong tổng số dân của nước ta?",
+    "options": [
+      "Dân tộc Kinh",
+      "Dân tộc Tày",
+      "Dân tộc Thái",
+      "Dân tộc Mường"
+    ],
+    "answer": "Dân tộc Kinh",
+    "explanation": "Nước ta có 54 dân tộc anh em, trong đó dân tộc Kinh chiếm tỉ lệ lớn nhất, khoảng trên 85% tổng số dân cả nước."
+  },
+  {
+    "question": "Nguồn lao động của nước ta hiện nay có đặc điểm nổi bật nào sau đây?",
+    "options": [
+      "Số lượng nhỏ, đang giảm nhanh",
+      "Quy mô lớn và tăng liên tục hàng năm",
+      "Trình độ chuyên môn kỹ thuật đều rất cao",
+      "Chỉ tập trung ở các vùng núi cao"
+    ],
+    "answer": "Quy mô lớn và tăng liên tục hàng năm",
+    "explanation": "Do quy mô dân số nước ta lớn và cơ cấu dân số trẻ trước đây chuyển sang, nguồn lao động nước ta rất dồi dào và tiếp tục tăng thêm hàng năm."
+  },
+  {
+    "question": "Vùng nào sau đây có mật độ dân số cao nhất nước ta hiện nay?",
+    "options": [
+      "Đồng bằng sông Cửu Long",
+      "Tây Nguyên",
+      "Đồng bằng sông Hồng",
+      "Trung du và miền núi Bắc Bộ"
+    ],
+    "answer": "Đồng bằng sông Hồng",
+    "explanation": "Đồng bằng sông Hồng là vùng có lịch sử định cư lâu đời, kinh tế phát triển và đô thị tập trung nên có mật độ dân số cao nhất cả nước."
+  },
+  {
+    "question": "Quá trình đô thị hóa ở nước ta hiện nay có đặc điểm nào sau đây?",
+    "options": [
+      "Tỉ lệ dân thành thị giảm mạnh",
+      "Số lượng đô thị tăng và quy mô đô thị mở rộng",
+      "Đô thị hóa diễn ra đồng đều giữa các vùng",
+      "Không chịu ảnh hưởng của công nghiệp hóa"
+    ],
+    "answer": "Số lượng đô thị tăng và quy mô đô thị mở rộng",
+    "explanation": "Cùng với sự phát triển kinh tế, số lượng các đô thị ở nước ta tăng lên nhanh chóng, quy mô không gian và dân số đô thị ngày càng mở rộng."
+  },
+  {
+    "question": "Hiện nay, khu vực kinh tế nào chiếm tỉ trọng cao nhất trong cơ cấu tổng sản phẩm trong nước (GDP) của Việt Nam?",
+    "options": [
+      "Khu vực Nông, lâm nghiệp và thủy sản",
+      "Khu vực Công nghiệp và xây dựng",
+      "Khu vực Dịch vụ",
+      "Khu vực Kinh tế cá thể"
+    ],
+    "answer": "Khu vực Dịch vụ",
+    "explanation": "Trong xu hướng chuyển dịch cơ cấu ngành kinh tế hiện nay, khu vực dịch vụ luôn duy trì tỉ trọng cao nhất trong cơ cấu GDP quốc gia."
+  },
+  {
+    "question": "Cây lương thực chủ yếu và quan trọng nhất được trồng ở nước ta là cây nào?",
+    "options": [
+      "Cây ngô",
+      "Cây lúa gạo",
+      "Cây sắn",
+      "Cây lúa mì"
+    ],
+    "answer": "Cây lúa gạo",
+    "explanation": "Lúa gạo là cây lương thực truyền thống, chủ đạo, chiếm diện tích lớn nhất và là nguồn lương thực chính của người dân Việt Nam."
+  },
+  {
+    "question": "Vùng sản xuất lương thực lớn nhất của nước ta hiện nay là vùng nào?",
+    "options": [
+      "Đồng bằng sông Hồng",
+      "Duyên hải Nam Trung Bộ",
+      "Đồng bằng sông Cửu Long",
+      "Bắc Trung Bộ"
+    ],
+    "answer": "Đồng bằng sông Cửu Long",
+    "explanation": "Đồng bằng sông Cửu Long là vựa lúa lớn nhất nước ta, đóng góp phần lớn sản lượng lúa cả nước và phục vụ xuất khẩu."
+  },
+  {
+    "question": "Cây công nghiệp lâu năm nào sau đây được trồng nhiều nhất ở vùng Tây Nguyên?",
+    "options": [
+      "Cây chè",
+      "Cây cà phê",
+      "Cây cao su",
+      "Cây hồ tiêu"
+    ],
+    "answer": "Cây cà phê",
+    "explanation": "Tây Nguyên là vùng chuyên canh cây công nghiệp lớn nhất cả nước, trong đó cây cà phê là cây trồng biểu tượng và có diện tích lớn nhất tại đây."
+  },
+  {
+    "question": "Hoạt động lâm nghiệp ở nước ta bao gồm các phân ngành cơ bản nào?",
+    "options": [
+      "Chỉ có khai thác gỗ rừng tự nhiên",
+      "Trồng rừng, chăm sóc rừng và khai thác, chế biến lâm sản",
+      "Săn bắt động vật hoang dã",
+      "Chế biến củi than từ rừng ngập mặn"
+    ],
+    "answer": "Trồng rừng, chăm sóc rừng và khai thác, chế biến lâm sản",
+    "explanation": "Lâm nghiệp là một ngành kinh tế kỹ thuật bao gồm toàn bộ các hoạt động từ khâu trồng, chăm sóc, bảo vệ cho đến khai thác, chế biến lâm sản."
+  },
+  {
+    "question": "Vùng nào sau đây dẫn đầu cả nước về sản lượng thủy sản nuôi trồng hiện nay?",
+    "options": [
+      "Đồng bằng sông Hồng",
+      "Đồng bằng sông Cửu Long",
+      "Bắc Trung Bộ",
+      "Tây Nguyên"
+    ],
+    "answer": "Đồng bằng sông Cửu Long",
+    "explanation": "Với lợi thế mạng lưới sông rạch dày đặc, diện tích mặt nước lớn, Đồng bằng sông Cửu Long là vùng nuôi trồng thủy sản (đặc biệt là tôm, cá tra) lớn nhất nước."
+  },
+  {
+    "question": "Ngành công nghiệp nào sau đây thuộc nhóm ngành công nghiệp trọng điểm của nước ta?",
+    "options": [
+      "Công nghiệp chế biến nông, lâm, thủy sản",
+      "Ngành thủ công mỹ nghệ truyền thống",
+      "Ngành sản xuất đồ chơi trẻ em",
+      "Ngành dệt chiếu cói"
+    ],
+    "answer": "Công nghiệp chế biến nông, lâm, thủy sản",
+    "explanation": "Công nghiệp chế biến nông, lâm, thủy sản có thế mạnh lâu dài, mang lại hiệu quả kinh tế cao và tác động mạnh đến các ngành khác nên là ngành trọng điểm."
+  },
+  {
+    "question": "Ngành công nghiệp năng lượng của nước ta bao gồm các phân ngành chính nào?",
+    "options": [
+      "Khai thác than, dầu khí và sản xuất điện năng",
+      "Chế biến gỗ và sản xuất giấy",
+      "Khai thác quặng sắt và luyện kim",
+      "Sản xuất xi măng và phân bón"
+    ],
+    "answer": "Khai thác than, dầu khí và sản xuất điện năng",
+    "explanation": "Cơ cấu công nghiệp năng lượng bao gồm khai thác nhiên liệu (than, dầu mỏ, khí đốt) và ngành điện lực."
+  },
+  {
+    "question": "Nguồn nhiên liệu chính cung cấp cho các nhà máy nhiệt điện ở miền Bắc nước ta là gì?",
+    "options": [
+      "Dầu thô nhập khẩu",
+      "Khí tự nhiên từ thềm lục địa",
+      "Than đá (chủ yếu là than antraxít)",
+      "Năng lượng mặt trời"
+    ],
+    "answer": "Than đá (chủ yếu là than antraxít)",
+    "explanation": "Các nhà máy nhiệt điện ở miền Bắc (như Phả Lại, Uông Bí) chủ yếu sử dụng nguồn than đá dồi dào được khai thác trực tiếp tại tỉnh Quảng Ninh."
+  },
+  {
+    "question": "Trung tâm công nghiệp có quy mô lớn nhất nước ta hiện nay là trung tâm nào?",
+    "options": [
+      "Thành phố Hồ Chí Minh",
+      "Hà Nội",
+      "Hải Phòng",
+      "Đà Nẵng"
+    ],
+    "answer": "Thành phố Hồ Chí Minh",
+    "explanation": "Thành phố Hồ Chí Minh là đầu tàu kinh tế, trung tâm công nghiệp lớn nhất cả nước với giá trị sản xuất và cơ cấu ngành đa dạng."
+  },
+  {
+    "question": "Vùng có số lượng đô thị nhiều nhất nước ta hiện nay là vùng nào?",
+    "options": [
+      "Đông Nam Bộ",
+      "Trung du và miền núi Bắc Bộ",
+      "Đồng bằng sông Cửu Long",
+      "Tây Nguyên"
+    ],
+    "answer": "Trung du và miền núi Bắc Bộ",
+    "explanation": "Mặc dù có nhiều đô thị quy mô nhỏ và vừa (các thị trấn, thị xã miền núi), Trung du và miền núi Bắc Bộ vẫn là vùng có số lượng đô thị nhiều nhất nước."
+  },
+  {
+    "question": "Loại rừng nào sau đây có chức năng chủ yếu là phòng chống thiên tai, chống xói mòn, chắn cát bay và điều hòa nguồn nước?",
+    "options": [
+      "Rừng sản xuất",
+      "Rừng đặc dụng",
+      "Rừng phòng hộ",
+      "Rừng nguyên sinh"
+    ],
+    "answer": "Rừng phòng hộ",
+    "explanation": "Rừng phòng hộ được trồng và bảo vệ nhằm mục đích chủ yếu là điều hòa nguồn nước, bảo vệ đất, chống xói mòn, sạt lở và chắn sóng bão ven biển."
+  },
+  {
+    "question": "Tỉnh nào sau đây của nước ta có sản lượng khai thác dầu mỏ lớn nhất hiện nay?",
+    "options": [
+      "Quảng Ninh",
+      "Bà Rịa - Vũng Tàu",
+      "Cà Mau",
+      "Thanh Hóa"
+    ],
+    "answer": "Bà Rịa - Vũng Tàu",
+    "explanation": "Các mỏ dầu lớn đang khai thác của nước ta nằm ở bể trầm tích Cửu Long và Nam Côn Sơn thuộc thềm lục địa tỉnh Bà Rịa - Vũng Tàu."
+  },
+  {
+    "question": "Xu hướng chuyển dịch cơ cấu thành phần kinh tế ở nước ta hiện nay thể hiện ở việc:",
+    "options": [
+      "Kinh tế Nhà nước tăng tuyệt đối tỉ trọng",
+      "Kinh tế có vốn đầu tư nước ngoài ngày càng đóng vai trò quan trọng",
+      "Xóa bỏ hoàn toàn khu vực kinh tế tư nhân",
+      "Giảm số lượng các thành phần kinh tế"
+    ],
+    "answer": "Kinh tế có vốn đầu tư nước ngoài ngày càng đóng vai trò quan trọng",
+    "explanation": "Nước ta đang phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa, thu hút mạnh mẽ khu vực có vốn đầu tư nước ngoài, làm tăng tỉ trọng và vai trò của thành phần này."
+  },
+  {
+    "question": "Ngành chăn nuôi lợn và gia cầm ở nước ta phát triển mạnh nhất ở các vùng đồng bằng chủ yếu do yếu tố nào?",
+    "options": [
+      "Nguồn thức ăn dồi dào từ trồng trọt và thị trường tiêu thụ rộng lớn",
+      "Diện tích đồng cỏ tự nhiên rộng lớn",
+      "Khí hậu quanh năm rét buốt ổn định",
+      "Có nhiều đồi núi thấp thuận lợi chăn thả"
+    ],
+    "answer": "Nguồn thức ăn dồi dào từ trồng trọt và thị trường tiêu thụ rộng lớn",
+    "explanation": "Các vùng đồng bằng là vựa lương thực (cung cấp cám, ngô làm thức ăn) và là nơi tập trung dân cư đông đúc, tạo ra nhu cầu tiêu thụ thực phẩm rất lớn."
+  },
+  {
+    "question": "Ngành công nghiệp dệt may, da giày của nước ta phân bố chủ yếu ở các đô thị lớn vì nơi đây có lợi thế về:",
+    "options": [
+      "Nguồn tài nguyên khoáng sản phong phú",
+      "Nguồn lao động dồi dào và thị trường tiêu thụ tại chỗ rộng",
+      "Nguồn năng lượng thủy điện dồi dào",
+      "Diện tích đất đai rộng rãi, giá rẻ"
+    ],
+    "answer": "Nguồn lao động dồi dào và thị trường tiêu thụ tại chỗ rộng",
+    "explanation": "Dệt may và da giày là các ngành công nghiệp cần nhiều lao động (lao động sống) và gần thị trường tiêu thụ lớn để giảm chi phí vận chuyển sản phẩm."
+  },
+  {
+    "question": "Tại sao sự phân bố dân cư ở nước ta hiện nay chưa hợp lý giữa vùng đồng bằng và vùng đồi núi?",
+    "options": [
+      "Do người dân vùng núi có xu hướng không muốn di cư",
+      "Do sự khác biệt lớn về điều kiện tự nhiên, lịch sử định cư và mức độ phát triển kinh tế xã hội",
+      "Do vùng đồng bằng có diện tích rộng gấp nhiều lần vùng đồi núi",
+      "Do nhà nước cấm người dân lên vùng đồi núi sinh sống"
+    ],
+    "answer": "Do sự khác biệt lớn về điều kiện tự nhiên, lịch sử định cư và mức độ phát triển kinh tế xã hội",
+    "explanation": "Vùng đồng bằng có địa hình bằng phẳng, giao thông thuận tiện, kinh tế phát triển nên thu hút dân cư tập trung đông đúc. Vùng đồi núi giao thông khó khăn, kinh tế chậm phát triển hơn nên dân cư thưa thớt."
+  },
+  {
+    "question": "Cơ cấu dân số theo độ tuổi ở nước ta đang có xu hướng già hóa chủ yếu là do:",
+    "options": [
+      "Tỉ suất sinh giảm nhanh và tuổi thọ trung bình của người dân ngày càng tăng",
+      "Số lượng trẻ em sinh ra hàng năm tăng đột biến",
+      "Người lao động di cư ra nước ngoài quá nhiều",
+      "Tỉ suất tử vong ở người già tăng cao"
+    ],
+    "answer": "Tỉ suất sinh giảm nhanh và tuổi thọ trung bình của người dân ngày càng tăng",
+    "explanation": "Nhờ thực hiện tốt chính sách dân số nên tỉ suất sinh giảm, số trẻ em ít đi; đồng thời chất lượng cuộc sống và y tế nâng cao giúp tăng tuổi thọ, làm tỉ trọng người già tăng lên."
+  },
+  {
+    "question": "Việc đẩy mạnh phát triển các đô thị vệ tinh xung quanh các siêu đô thị như Hà Nội, Thành phố Hồ Chí Minh nhằm mục đích chủ yếu nào?",
+    "options": [
+      "Tăng diện tích trồng lúa trong nội thành",
+      "Giảm áp lực về dân số, hạ tầng giao thông và môi trường cho vùng trung tâm",
+      "Thu hút toàn bộ người dân nông thôn về sinh sống",
+      "Xóa bỏ hoàn toàn các ngành công nghiệp"
+    ],
+    "answer": "Giảm áp lực về dân số, hạ tầng giao thông và môi trường cho vùng trung tâm",
+    "explanation": "Các đô thị vệ tinh giúp phân tán bớt mật độ dân cư, điều hòa dòng di dân và giảm bớt tình trạng quá tải hạ tầng, ùn tắc giao thông, ô nhiễm môi trường cho vùng lõi trung tâm."
+  },
+  {
+    "question": "Ý nghĩa lớn nhất của việc đẩy mạnh đa dạng hóa cơ cấu ngành công nghiệp ở nước ta là gì?",
+    "options": [
+      "Sử dụng triệt để nguồn năng lượng hóa thạch",
+      "Phù hợp với xu thế hội nhập, khai thác hiệu quả các thế mạnh và hạn chế rủi ro thị trường",
+      "Làm giảm số lượng lao động trong ngành dịch vụ",
+      "Tập trung phát triển duy nhất một ngành mũi nhọn"
+    ],
+    "answer": "Phù hợp với xu thế hội nhập, khai thác hiệu quả các thế mạnh và hạn chế rủi ro thị trường",
+    "explanation": "Đa dạng hóa cơ cấu ngành công nghiệp giúp nước ta tận dụng nhiều nguồn lực khác nhau, sản xuất nhiều mặt hàng đáp ứng nhu cầu đa dạng của thế giới, tránh phụ thuộc vào một sản phẩm khi thị trường biến động."
+  },
+  {
+    "question": "Tại sao ngành nuôi trồng thủy sản ở nước ta phát triển nhanh hơn ngành khai thác thủy sản trong những năm gần đây?",
+    "options": [
+      "Do nguồn lợi thủy sản ven bờ có xu hướng suy giảm và nuôi trồng mang lại hiệu quả kinh tế chủ động hơn",
+      "Do nhà nước cấm hoàn toàn hoạt động đánh bắt xa bờ",
+      "Do người dân không còn kỹ năng đi biển",
+      "Do giá xăng dầu dùng cho tàu thuyền quá rẻ"
+    ],
+    "answer": "Do nguồn lợi thủy sản ven bờ có xu hướng suy giảm và nuôi trồng mang lại hiệu quả kinh tế chủ động hơn",
+    "explanation": "Đánh bắt ven bờ đã quá giới hạn làm suy giảm nguồn cá tự nhiên. Trong khi đó, nuôi trồng thủy sản giúp chủ động được nguồn hàng, kiểm soát chất lượng, đáp ứng tốt các tiêu chuẩn khắt khe của thị trường xuất khẩu."
+  },
+  {
+    "question": "Biện pháp quan trọng hàng đầu để nâng cao giá trị của nông sản xuất khẩu ở nước ta hiện nay là gì?",
+    "options": [
+      "Mở rộng tối đa diện tích đất canh tác bằng mọi giá",
+      "Đẩy mạnh công nghiệp chế biến sau thu hoạch và xây dựng thương hiệu nông sản",
+      "Tăng cường sử dụng các loại thuốc bảo vệ thực vật hóa học",
+      "Chỉ tập trung tiêu thụ ở thị trường tự do trong nước"
+    ],
+    "answer": "Đẩy mạnh công nghiệp chế biến sau thu hoạch và xây dựng thương hiệu nông sản",
+    "explanation": "Xuất khẩu nông sản thô mang lại giá trị kinh tế thấp. Việc đẩy mạnh chế biến (sấy khô, đóng hộp, làm nước ép...) giúp tăng thời gian bảo quản, nâng cao giá trị gia tăng và đáp ứng tiêu chuẩn xuất khẩu quốc tế."
+  },
+  {
+    "question": "Nhân tố tự nhiên nào đóng vai trò quan trọng nhất đối với việc phát triển các nhà máy thủy điện quy mô lớn ở vùng Trung du và miền núi Bắc Bộ?",
+    "options": [
+      "Khí hậu quanh năm không có mùa khô",
+      "Địa hình dốc, chia cắt mạnh và các hệ thống sông lớn có trữ năng thủy điện khổng lồ",
+      "Lớp phủ thực vật rừng nguyên sinh còn nguyên vẹn",
+      "Sự phân bố của các mỏ khoáng sản kim loại"
+    ],
+    "answer": "Địa hình dốc, chia cắt mạnh và các hệ thống sông lớn có trữ năng thủy điện khổng lồ",
+    "explanation": "Địa hình vùng núi Bắc Bộ cao, dốc tạo độ chênh lớn cho dòng chảy. Kết hợp với các hệ thống sông lớn như sông Hồng, sông Đà có lượng nước dồi dào tạo nên trữ năng thủy điện lớn nhất nước."
+  },
+  {
+    "question": "Sự chuyển dịch cơ cấu ngành kinh tế nước ta theo hướng công nghiệp hóa thể hiện rõ nhất qua xu hướng nào?",
+    "options": [
+      "Tăng tỉ trọng khu vực nông, lâm, thủy sản",
+      "Giảm tỉ trọng khu vực nông, lâm, thủy sản; tăng tỉ trọng khu vực công nghiệp - xây dựng và dịch vụ",
+      "Giảm tuyệt đối giá trị sản xuất của tất cả các ngành",
+      "Giữ nguyên tỉ trọng của ba khu vực kinh tế"
+    ],
+    "answer": "Giảm tỉ trọng khu vực nông, lâm, thủy sản; tăng tỉ trọng khu vực công nghiệp - xây dựng và dịch vụ",
+    "explanation": "Quá trình công nghiệp hóa và hiện đại hóa làm tốc độ tăng trưởng của công nghiệp và dịch vụ nhanh hơn nông nghiệp, dẫn đến tỉ trọng của nông nghiệp giảm dần dù giá trị vẫn tăng."
+  },
+  {
+    "question": "Tại sao vùng Đông Nam Bộ lại trở thành vùng dẫn đầu cả nước về giá trị sản xuất công nghiệp?",
+    "options": [
+      "Do có nguồn tài nguyên khoáng sản kim loại lớn nhất nước",
+      "Do hội tụ đầy đủ các lợi thế về vị trí, lao động tay nghề, hạ tầng đồng bộ và thu hút vốn đầu tư mạnh mẽ",
+      "Do có diện tích đất nông nghiệp rộng lớn nhất",
+      "Do hoàn toàn không chịu ảnh hưởng của các loại thiên tai"
+    ],
+    "answer": "Do hội tụ đầy đủ các lợi thế về vị trí, lao động tay nghề, hạ tầng đồng bộ và thu hút vốn đầu tư mạnh mẽ",
+    "explanation": "Đông Nam Bộ có vị trí chiến lược, hạ tầng phát triển tốt (cảng biển, đường cao tốc), nguồn lao động có trình độ và chính sách thu hút đầu tư nước ngoài (FDI) thông thoáng, tạo động lực phát triển công nghiệp vượt trội."
+  },
+  {
+    "question": "Khó khăn lớn nhất về mặt tự nhiên đối với việc phát triển cây công nghiệp lâu năm ở vùng Tây Nguyên vào mùa khô là gì?",
+    "options": [
+      "Hiện tượng sương muối làm chết cây trồng",
+      "Thiếu nước tưới nghiêm trọng do hạ thấp mực nước ngầm và cạn kiệt các dòng sông",
+      "Hiện tượng ngập úng diện rộng ở các cao nguyên",
+      "Đất đai bị nhiễm mặn do triều cường dâng cao"
+    ],
+    "answer": "Thiếu nước tưới nghiêm trọng do hạ thấp mực nước ngầm và cạn kiệt các dòng sông",
+    "explanation": "Mùa khô ở Tây Nguyên kéo dài từ tháng 11 đến tháng 4 năm sau, hầu như không có mưa. Việc thiếu nước tưới cho các vườn cà phê, hồ tiêu là thách thức lớn nhất của sản xuất nông nghiệp nơi đây."
+  },
+  {
+    "question": "Việc phát triển các vùng chuyên canh cây công nghiệp quy mô lớn ở nước ta dựa trên điều kiện thuận lợi cốt lõi nào?",
+    "options": [
+      "Sự phân bố đồng đều của các loại đất phù sa sông",
+      "Sự phân hóa của các vùng đất đai có quy mô rộng (đất feralit, đất ba-zan) và khí hậu nhiệt đới",
+      "Tất cả các vùng đều có mùa đông lạnh giống nhau",
+      "Hệ thống máy móc nông nghiệp đã tự động hóa hoàn toàn"
+    ],
+    "answer": "Sự phân hóa của các vùng đất đai có quy mô rộng (đất feralit, đất ba-zan) và khí hậu nhiệt đới",
+    "explanation": "Nước ta có các vùng đất tập trung với diện tích lớn như đất đỏ ba-zan ở Tây Nguyên, đất feralit ở Trung du Bắc Bộ kết hợp khí hậu nhiệt đới tạo điều kiện cho việc quy hoạch thành các vùng chuyên canh nông nghiệp quy mô lớn."
+  },
+  {
+    "question": "Xu hướng giảm tỉ trọng của thành phần kinh tế Nhà nước trong cơ cấu GDP chứng tỏ điều gì?",
+    "options": [
+      "Nền kinh tế nước ta đang bị suy thoái nghiêm trọng",
+      "Vai trò chủ đạo của kinh tế Nhà nước đã không còn",
+      "Nước ta đang thực hiện hiệu quả chính sách cổ phần hóa và phát triển kinh tế nhiều thành phần",
+      "Khu vực kinh tế tư nhân đang bị thu hẹp lại"
+    ],
+    "answer": "Nước ta đang thực hiện hiệu quả chính sách cổ phần hóa và phát triển kinh tế nhiều thành phần",
+    "explanation": "Việc giảm tỉ trọng kinh tế nhà nước không phải là yếu đi, mà là kết quả của quá trình cơ cấu lại, cổ phần hóa doanh nghiệp nhà nước, tạo không gian cho kinh tế tư nhân và đầu tư nước ngoài phát triển mạnh mẽ hơn."
+  },
+  {
+    "question": "Ngành lâm nghiệp của nước ta hiện nay đang chuyển dịch theo hướng bền vững nào sau đây?",
+    "options": [
+      "Tăng cường khai thác tối đa rừng tự nhiên lấy gỗ xuất khẩu",
+      "Chuyển từ mô hình lâm nghiệp truyền thống sang lâm nghiệp xã hội, đẩy mạnh khoanh nuôi và bảo vệ",
+      "Phá bớt rừng phòng hộ để lấy đất xây khu công nghiệp",
+      "Ngừng toàn bộ việc trồng mới rừng để tập trung khai thác"
+    ],
+    "answer": "Chuyển từ mô hình lâm nghiệp truyền thống sang lâm nghiệp xã hội, đẩy mạnh khoanh nuôi và bảo vệ",
+    "explanation": "Ngành lâm nghiệp hiện đại chú trọng phát triển bền vững, gắn việc quản lý rừng với lợi ích của cộng đồng người dân địa phương (lâm nghiệp xã hội), nâng cao độ che phủ rừng và giá trị sinh thái."
+  },
+  {
+    "question": "Tác động lớn nhất của việc phát triển giao thông vận tải đến sự phân bố công nghiệp nước ta là gì?",
+    "options": [
+      "Làm thay đổi hoàn toàn cấu trúc địa chất của các vùng",
+      "Tăng tính cơ động, gắn kết các vùng nguyên liệu với nơi chế biến và thị trường tiêu thụ",
+      "Làm giảm nhu cầu sử dụng lao động trong nhà máy",
+      "Làm cho tài nguyên khoáng sản tự sản sinh thêm"
+    ],
+    "answer": "Tăng tính cơ động, gắn kết các vùng nguyên liệu với nơi chế biến và thị trường tiêu thụ",
+    "explanation": "Giao thông vận tải là mạch máu của nền kinh tế. Hạ tầng giao thông tốt giúp vận chuyển nguyên liệu (như nông sản, khoáng sản) từ vùng sâu về các nhà máy chế biến ở đô thị và đưa hàng hóa ra thị trường một cách nhanh chóng."
+  },
+  {
+    "question": "Mục đích chủ yếu của việc hình thành các khu công nghiệp tập trung ở nước ta là gì?",
+    "options": [
+      "Để giải quyết chỗ ở cho toàn bộ người dân nông thôn",
+      "Thu hút vốn đầu tư, thúc đẩy chuyển giao công nghệ và tăng cường năng lực sản xuất hàng xuất khẩu",
+      "Để tập trung tất cả các ngành thủ công nghiệp truyền thống",
+      "Hạn chế việc giao thương kinh tế với các nước khác"
+    ],
+    "answer": "Thu hút vốn đầu tư, thúc đẩy chuyển giao công nghệ và tăng cường năng lực sản xuất hàng xuất khẩu",
+    "explanation": "Khu công nghiệp được quy hoạch hạ tầng đồng bộ nhằm mục đích thu hút các nhà đầu tư trong và ngoài nước, ứng dụng công nghệ hiện đại vào sản xuất để tạo ra khối lượng sản phẩm lớn phục vụ tiêu dùng và xuất khẩu."
+  },
+  {
+    "question": "Tình trạng thiếu việc làm ở nông thôn nước ta diễn ra phổ biến chủ yếu do nhân tố nào?",
+    "options": [
+      "Do người nông dân không có trình độ văn hóa",
+      "Tính chất mùa vụ của sản xuất nông nghiệp và sự hạn chế của các ngành nghề phi nông nghiệp",
+      "Do diện tích đất nông nghiệp đang ngày càng mở rộng",
+      "Do người dân nông thôn không muốn làm việc"
+    ],
+    "answer": "Tính chất mùa vụ của sản xuất nông nghiệp và sự hạn chế của các ngành nghề phi nông nghiệp",
+    "explanation": "Sản xuất nông nghiệp phụ thuộc vào chu kỳ sinh trưởng của cây trồng vật nuôi nên có thời gian nhàn rỗi giữa các vụ gieo trồng. Nếu ở địa phương thiếu các ngành nghề phụ (thủ công nghiệp, dịch vụ) sẽ dẫn đến thiếu việc làm."
+  },
+  {
+    "question": "Giải pháp quan trọng nhất để giảm tỉ lệ thất nghiệp ở khu vực thành thị nước ta hiện nay là:",
+    "options": [
+      "Đẩy mạnh chuyển dịch cơ cấu kinh tế, phát triển các ngành công nghiệp và dịch vụ công nghệ cao",
+      "Đưa toàn bộ dân thành thị về nông thôn làm nông nghiệp",
+      "Cấm các nhà máy sử dụng máy móc tự động hóa",
+      "Giảm bớt quy mô và số lượng các trường đại học"
+    ],
+    "answer": "Đẩy mạnh chuyển dịch cơ cấu kinh tế, phát triển các ngành công nghiệp và dịch vụ công nghệ cao",
+    "explanation": "Thất nghiệp thành thị phần lớn là thất nghiệp cơ cấu hoặc công nghệ. Việc phát triển kinh tế đa dạng, mở rộng các ngành dịch vụ, công nghiệp hiện đại sẽ tạo ra nhiều vị trí việc làm mới thích hợp cho lao động đô thị."
+  },
+  {
+    "question": "Việc phân bố lại dân cư và nguồn lao động giữa các vùng trên phạm vi cả nước có ý nghĩa cốt lõi nào?",
+    "options": [
+      "Để tăng tỉ lệ sinh ở các vùng miền núi",
+      "Khai thác hợp lý, hiệu quả tài nguyên thiên nhiên và nguồn lực của từng vùng",
+      "Xóa bỏ hoàn toàn sự tồn tại của các đô thị lớn",
+      "Làm cho tất cả các vùng đều có mật độ dân số bằng nhau"
+    ],
+    "answer": "Khai thác hợp lý, hiệu quả tài nguyên thiên nhiên và nguồn lực của từng vùng",
+    "explanation": "Nước ta nơi thừa lao động thiếu tài nguyên (đồng bằng), nơi giàu tài nguyên lại thiếu lao động (vùng núi). Điều hóa, phân bố lại lao động giúp cân đối nguồn lực, thúc đẩy kinh tế phát triển đồng đều."
+  },
+  {
+    "question": "Khó khăn lớn nhất về mặt kinh tế xã hội đối với ngành chăn nuôi gia súc lớn ở vùng Trung du và miền núi Bắc Bộ là gì?",
+    "options": [
+      "Thiếu diện tích đồng cỏ tự nhiên để chăn thả",
+      "Hệ thống cơ sở hạ tầng giao thông và cơ sở chế biến, thị trường tiêu thụ còn hạn chế",
+      "Người dân địa phương hoàn toàn chưa có kinh nghiệm chăn nuôi",
+      "Khí hậu quanh năm quá nóng bức"
+    ],
+    "answer": "Hệ thống cơ sở hạ tầng giao thông và cơ sở chế biến, thị trường tiêu thụ còn hạn chế",
+    "explanation": "Mặc dù có thế mạnh về đồng cỏ và khí hậu mát, việc vận chuyển sản phẩm thịt, sữa từ vùng núi sâu về đồng bằng tiêu thụ gặp khó khăn do khoảng cách địa lý và thiếu các nhà máy chế biến quy mô lớn tại chỗ."
+  },
+  {
+    "question": "Sự phát triển mạnh mẽ của ngành công nghiệp điện tử - tin học ở nước ta trong những năm gần đây chủ yếu dựa vào:",
+    "options": [
+      "Nguồn tài nguyên khoáng sản quý hiếm sẵn có",
+      "Chính sách mở cửa, thu hút dòng vốn đầu tư nước ngoài (FDI) và nguồn lao động có khả năng tiếp thu công nghệ nhanh",
+      "Nhu cầu sử dụng máy tính của ngành nông nghiệp",
+      "Sự hỗ trợ hoàn toàn miễn phí của các tổ chức từ thiện"
+    ],
+    "answer": "Chính sách mở cửa, thu hút dòng vốn đầu tư nước ngoài (FDI) và nguồn lao động có khả năng tiếp thu công nghệ nhanh",
+    "explanation": "Các tập đoàn lớn (như Samsung, Intel) đầu tư vào Việt Nam do môi trường chính trị ổn định, ưu đãi thuế và lực lượng lao động trẻ, khéo tay, tiếp thu quy trình công nghệ lắp ráp rất nhanh chóng."
+  },
+  {
+    "question": "Biến động lớn nhất của cơ cấu lao động theo ngành kinh tế ở nước ta hiện nay là:",
+    "options": [
+      "Lao động trong ngành nông, lâm, thủy sản giảm mạnh về tỉ trọng",
+      "Lao động ngành dịch vụ giảm xuống mức thấp nhất",
+      "Lao động ngành công nghiệp ngừng tăng trưởng",
+      "Lao động dịch chuyển hoàn toàn sang khu vực kinh tế cá thể"
+    ],
+    "answer": "Lao động trong ngành nông, lâm, thủy sản giảm mạnh về tỉ trọng",
+    "explanation": "Cùng với sự chuyển dịch cơ cấu GDP, một lượng lớn lao động từ khu vực nông nghiệp nông thôn đang chuyển dịch sang làm việc trong các nhà máy công nghiệp hoặc các ngành dịch vụ ở đô thị."
+  },
+  {
+    "question": "Để giải quyết tốt vấn đề lương thực, thực phẩm cho xã hội, ngành trồng trọt nước ta cần tập trung vào xu hướng nào?",
+    "options": [
+      "Chuyển dịch từ sản lượng thô sang nông nghiệp chất lượng cao, an toàn sinh học và VietGAP",
+      "Chỉ tập trung trồng các loại cây lương thực ngắn ngày ở vùng núi cao",
+      "Dừng hoàn toàn việc trồng rau củ để chỉ trồng lúa gạo",
+      "Tăng cường sử dụng các khu đất rừng đặc dụng để làm ruộng"
+    ],
+    "answer": "Chuyển dịch từ sản lượng thô sang nông nghiệp chất lượng cao, an toàn sinh học và VietGAP",
+    "explanation": "Nhu cầu xã hội hiện nay không chỉ là ăn no mà là ăn sạch, an toàn và chất lượng. Phát triển nông nghiệp sạch, áp dụng tiêu chuẩn VietGAP giúp nâng cao giá trị sản phẩm và bảo vệ sức khỏe người tiêu dùng."
+  },
+  {
+    "question": "Tại sao các nhà máy chế biến lương thực, thực phẩm quy mô lớn thường phân bố tập trung ở vùng Đồng bằng sông Cửu Long và Đồng bằng sông Hồng?",
+    "options": [
+      "Do hai vùng này có nguồn tài nguyên khoáng sản năng lượng lớn",
+      "Do gắn liền với vùng nguyên liệu nông - thủy sản dồi dào và thị trường tiêu thụ rộng lớn tại chỗ",
+      "Do có nguồn nước khoáng ngầm phong phú",
+      "Do hai vùng này có địa hình cao nhất nước"
+    ],
+    "answer": "Do gắn liền với vùng nguyên liệu nông - thủy sản dồi dào và thị trường tiêu thụ rộng lớn tại chỗ",
+    "explanation": "Đây là hai vựa lúa, vùng chăn nuôi và nuôi trồng thủy sản lớn nhất nước. Đặt nhà máy chế biến tại đây giúp giảm thiểu chi phí vận chuyển nguyên liệu tươi sống, đảm bảo chất lượng thành phẩm và tiếp cận ngay thị trường tiêu thụ đông dân."
+  },
+  {
+    "question": "Ý nghĩa chiến lược về mặt an ninh quốc phòng của việc đánh bắt hải sản xa bờ ở nước ta là gì?",
+    "options": [
+      "Khai thác hết tất cả các loài sinh vật dưới đáy đại dương",
+      "Khẳng định và bảo vệ chủ quyền, quyền chủ quyền biển đảo của Tổ quốc",
+      "Làm giảm bớt lượng nước biển dâng cao do biến đổi khí hậu",
+      "Tạo điều kiện định cư lâu dài cho người dân trên mặt biển"
+    ],
+    "answer": "Khẳng định và bảo vệ chủ quyền, quyền chủ quyền biển đảo của Tổ quốc",
+    "explanation": "Mỗi con tàu đánh cá xa bờ của ngư dân được ví như một cột mốc chủ quyền di động trên biển. Hoạt động khai thác hải sản xa bờ góp phần quan trọng cùng các lực lượng chức năng bảo vệ an ninh, chủ quyền vùng biển quốc gia."
+  },
+  {
+    "question": "Yếu tố nào sau đây tác động mạnh nhất đến sự thay đổi cơ cấu sản xuất cây trồng trong ngành trồng trọt ở nước ta hiện nay?",
+    "options": [
+      "Sự biến động của nhu cầu thị trường tiêu thụ và tiến bộ khoa học kỹ thuật",
+      "Sự thay đổi hoàn toàn của hướng các dòng sông lớn",
+      "Sự gia tăng diện tích đất hoang hóa ở các vùng đồng bằng",
+      "Sự xuất hiện của các đợt bão tuyết vào mùa hè"
+    ],
+    "answer": "Sự biến động của nhu cầu thị trường tiêu thụ và tiến bộ khoa học kỹ thuật",
+    "explanation": "Thị trường quyết định người nông dân trồng cây gì để có hiệu quả kinh tế cao (xu hướng chuyển từ cây hiệu quả thấp sang cây giá trị cao). Đồng thời kỹ thuật mới giúp lai tạo giống chịu hạn, chịu mặn tốt, làm thay đổi cơ cấu cây trồng."
+  },
+  {
+    "question": "Một tỉnh miền núi có nguồn lao động dồi dào nhưng tỉ lệ qua đào tạo rất thấp. Để thu hút các dự án đầu tư công nghiệp trong giai đoạn đầu, tỉnh này nên ưu tiên phát triển nhóm ngành nào?",
+    "options": [
+      "Công nghiệp phần mềm và thiết kế vi mạch điện tử",
+      "Các ngành công nghiệp cần nhiều lao động phổ thông như dệt may, da giày, chế biến nông sản",
+      "Công nghiệp hóa chất cơ bản và chế tạo rô-bốt",
+      "Ngành hàng không vũ trụ"
+    ],
+    "answer": "Các ngành công nghiệp cần nhiều lao động phổ thông như dệt may, da giày, chế biến nông sản",
+    "explanation": "Giai đoạn đầu, do lao động chưa có tay nghề cao, việc phát triển các ngành công nghiệp thâm dụng lao động phổ thông sẽ giúp giải quyết việc làm nhanh chóng, tăng thu nhập cho người dân và tích lũy vốn cho địa phương."
+  },
+  {
+    "question": "Trước tình trạng xâm nhập mặn diễn ra ngày càng sâu vào mùa khô tại Đồng bằng sông Cửu Long, ngành trồng trọt ở các vùng ven biển của khu vực này nên có giải pháp thích ứng nào?",
+    "options": [
+      "Tiếp tục thâm canh tăng vụ lúa bằng mọi giá",
+      "Chuyển đổi cơ cấu mùa vụ, lựa chọn các giống cây trồng chịu mặn hoặc chuyển sang mô hình quảng canh kết hợp nuôi tôm",
+      "Xây dựng các bức tường bê tông bao bọc toàn bộ bờ biển của vùng",
+      "Bỏ hoang toàn bộ đất đai không canh tác nữa"
+    ],
+    "answer": "Chuyển đổi cơ cấu mùa vụ, lựa chọn các giống cây trồng chịu mặn hoặc chuyển sang mô hình quảng canh kết hợp nuôi tôm",
+    "explanation": "Thay vì chống lại tự nhiên, giải pháp bền vững là thuận thiên: chủ động né vụ mặn, sử dụng giống lúa chịu mặn hoặc áp dụng mô hình lúa - tôm (mùa ngọt trồng lúa, mùa mặn nuôi tôm), biến thách thức nước mặn thành cơ hội kinh tế."
+  },
+  {
+    "question": "Tại sao việc phát triển các nhà máy điện gió, điện mặt trời ở nước ta hiện nay chủ yếu tập trung tại khu vực Nam Trung Bộ và Tây Nguyên?",
+    "options": [
+      "Do hai vùng này có mạng lưới sông ngòi dày đặc nhất nước",
+      "Do có số giờ nắng trong năm lớn, tổng lượng bức xạ cao và có nguồn năng lượng gió dồi dào, ổn định",
+      "Do đất đai ở đây hoàn toàn là các đầm lầy ngập nước",
+      "Do đây là những vùng có mật độ dân số cao nhất nước"
+    ],
+    "answer": "Do có số giờ nắng trong năm lớn, tổng lượng bức xạ cao và có nguồn năng lượng gió dồi dào, ổn định",
+    "explanation": "Nam Trung Bộ và Tây Nguyên nằm ở vĩ độ thấp, chịu ảnh hưởng mạnh của chế độ gió mùa và gió tín phong, có khí hậu nhiều nắng, ít mây, khô hạn. Đây là điều kiện tự nhiên lý tưởng nhất cả nước để phát triển năng lượng tái tạo."
+  },
+  {
+    "question": "Hậu quả lâu dài nghiêm trọng nhất của việc phát triển công nghiệp quá mức nhưng thiếu hệ thống xử lý chất thải đạt chuẩn tại các đô thị lớn là gì?",
+    "options": [
+      "Làm giảm tốc độ tăng trưởng tổng sản phẩm (GDP) ngay lập tức",
+      "Gây ô nhiễm môi trường nghiêm trọng (đất, nước, không khí), ảnh hưởng xấu đến sức khỏe cộng đồng và suy giảm chất lượng cuộc sống",
+      "Làm cho các đô thị bị dịch chuyển vị trí địa lý",
+      "Làm mất đi toàn bộ nguồn lao động phổ thông"
+    ],
+    "answer": "Gây ô nhiễm môi trường nghiêm trọng (đất, nước, không khí), ảnh hưởng xấu đến sức khỏe cộng đồng và suy giảm chất lượng cuộc sống",
+    "explanation": "Phát triển công nghiệp không đi đôi với bảo vệ môi trường sẽ làm suy thoái nghiêm trọng hệ sinh thái đô thị. Nguồn nước bị nhiễm độc, không khí đầy bụi mịn sẽ trực tiếp gây ra các bệnh mãn tính cho người dân, triệt tiêu các thành quả phát triển kinh tế bền vững."
+  },
+  {
+    "question": "Để giải quyết căn cơ bài toán chuyển dịch cơ cấu lao động nông thôn theo hướng công nghiệp hóa, nhà nước cần tập trung vào giải pháp cốt lõi nào sau đây?",
+    "options": [
+      "Ép buộc cơ học người dân nông thôn phải chuyển vào sống trong các nhà máy",
+      "Đẩy mạnh đào tạo nghề cho lao động nông thôn gắn với phát triển công nghiệp, dịch vụ tại các vùng địa phương",
+      "Tăng mức thuế sản xuất nông nghiệp lên thật cao để người dân bỏ ruộng",
+      "Tịch thu toàn bộ máy móc nông nghiệp để tăng sử dụng lao động thủ công"
+    ],
+    "answer": "Đẩy mạnh đào tạo nghề cho lao động nông thôn gắn với phát triển công nghiệp, dịch vụ tại các vùng địa phương",
+    "explanation": "Lao động nông thôn chủ yếu là lao động nông nghiệp chưa qua đào tạo kỹ năng. Việc nâng cao chất lượng lao động qua các lớp dạy nghề, kết hợp xây dựng các nhà máy, cụm công nghiệp tại khu vực nông thôn (ly nông bất ly hương) là giải pháp bền vững nhất giúp họ chuyển đổi nghề nghiệp ổn định."
+  }
+]

@@ -1,0 +1,1740 @@
+[
+  {
+    "question": "Which word refers to the legal process of becoming a citizen of another country?",
+    "options": [
+      "naturalisation",
+      "migration",
+      "emigration",
+      "pioneer"
+    ],
+    "answer": "naturalisation",
+    "explanation": "Naturalisation nghĩa là sự nhập tịch, quá trình hợp pháp để trở thành công dân của một quốc gia khác."
+  },
+  {
+    "question": "What is the noun form of the adjective 'innovative'?",
+    "options": [
+      "innovation",
+      "innovate",
+      "innovator",
+      "innovatively"
+    ],
+    "answer": "innovation",
+    "explanation": "Danh từ chỉ sự đổi mới, sáng kiến là 'innovation'."
+  },
+  {
+    "question": "Which word means 'a very famous person whose achievements are legendary'?",
+    "options": [
+      "icon",
+      "peer",
+      "amateur",
+      "novice"
+    ],
+    "answer": "icon",
+    "explanation": "Từ 'icon' được dùng để chỉ một biểu tượng, nhân vật cực kỳ nổi tiếng và được ngưỡng mộ."
+  },
+  {
+    "question": "What is the antonym of 'urbanisation'?",
+    "options": [
+      "ruralisation",
+      "modernisation",
+      "industrialisation",
+      "globalisation"
+    ],
+    "answer": "ruralisation",
+    "explanation": "Trái nghĩa với đô thị hóa (urbanisation) là nông thôn hóa (ruralisation)."
+  },
+  {
+    "question": "Which word means 'the state of having a job or being employed'?",
+    "options": [
+      "employment",
+      "unemployment",
+      "employer",
+      "employee"
+    ],
+    "answer": "employment",
+    "explanation": "'Employment' là danh từ chỉ việc làm hoặc tình trạng có việc làm."
+  },
+  {
+    "question": "Identify the past participle form of the verb 'strive'.",
+    "options": [
+      "striven",
+      "strove",
+      "striving",
+      "strives"
+    ],
+    "answer": "striven",
+    "explanation": "Động từ bất quy tắc 'strive' có dạng quá khứ là 'strove' và quá khứ phân từ là 'striven'."
+  },
+  {
+    "question": "Which word refers to 'an official agreement or a formal treaty between countries'?",
+    "options": [
+      "pact",
+      "argument",
+      "dispute",
+      "conflict"
+    ],
+    "answer": "pact",
+    "explanation": "'Pact' có nghĩa là hiệp ước, giao kèo hoặc thỏa thuận chính thức giữa các bên."
+  },
+  {
+    "question": "What does the abbreviation 'AI' stand for?",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Internet",
+      "Advanced Industry",
+      "Actual Information"
+    ],
+    "answer": "Artificial Intelligence",
+    "explanation": "AI là viết tắt của 'Artificial Intelligence' (Trí tuệ nhân tạo)."
+  },
+  {
+    "question": "Which word means 'the customs, beliefs, and values passed down through generations'?",
+    "options": [
+      "heritage",
+      "future",
+      "technology",
+      "modernity"
+    ],
+    "answer": "heritage",
+    "explanation": "'Heritage' nghĩa là di sản, bao gồm phong tục, niềm tin và các giá trị truyền thống lưu truyền qua nhiều thế hệ."
+  },
+  {
+    "question": "What is the adjective form of the noun 'biodiversity'?",
+    "options": [
+      "biodiverse",
+      "biodiversely",
+      "biodiversify",
+      "biologist"
+    ],
+    "answer": "biodiverse",
+    "explanation": "Tính từ của 'biodiversity' (sự đa dạng sinh học) là 'biodiverse'."
+  },
+  {
+    "question": "Which word means 'a person who leaves their own country to live permanently in another'?",
+    "options": [
+      "emigrant",
+      "immigrant",
+      "tourist",
+      "native"
+    ],
+    "answer": "emigrant",
+    "explanation": "'Emigrant' là người di cư (rời bỏ đất nước mình để đi nơi khác), phân biệt với 'immigrant' là người nhập cư."
+  },
+  {
+    "question": "What is the synonym of 'outstanding'?",
+    "options": [
+      "excellent",
+      "ordinary",
+      "terrible",
+      "unknown"
+    ],
+    "answer": "excellent",
+    "explanation": "'Outstanding' nghĩa là nổi bật, xuất sắc, đồng nghĩa với 'excellent'."
+  },
+  {
+    "question": "Which word refers to 'the collective community of online websites and social media platforms'?",
+    "options": [
+      "cyberspace",
+      "atmosphere",
+      "biosphere",
+      "geography"
+    ],
+    "answer": "cyberspace",
+    "explanation": "Không gian mạng được gọi là 'cyberspace'."
+  },
+  {
+    "question": "What is the noun form of the verb 'preserve'?",
+    "options": [
+      "preservation",
+      "preservative",
+      "preserved",
+      "preservement"
+    ],
+    "answer": "preservation",
+    "explanation": "Danh từ chỉ hành động bảo tồn, giữ gìn là 'preservation'."
+  },
+  {
+    "question": "Which word means 'living or lasting forever'?",
+    "options": [
+      "immortal",
+      "mortal",
+      "temporary",
+      "short-lived"
+    ],
+    "answer": "immortal",
+    "explanation": "'Immortal' nghĩa là bất tử, trường tồn vĩnh cửu."
+  },
+  {
+    "question": "What is the main purpose of a 'green lifestyle'?",
+    "options": [
+      "protecting the environment",
+      "earning more money",
+      "buying expensive clothes",
+      "traveling by airplane"
+    ],
+    "answer": "protecting the environment",
+    "explanation": "Lối sống xanh (green lifestyle) có mục đích cốt lõi là bảo vệ môi trường."
+  },
+  {
+    "question": "Which preposition usually follows the verb 'congratulate'?",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+    ],
+    "answer": "on",
+    "explanation": "Cấu trúc cố định luôn là 'congratulate somebody on something' (chúc mừng ai vì điều gì)."
+  },
+  {
+    "question": "What does 'overpopulation' mean?",
+    "options": [
+      "too many people living in an area",
+      "a small group of people in a town",
+      "the movement of people to cities",
+      "an equal distribution of residents"
+    ],
+    "answer": "too many people living in an area",
+    "explanation": "'Overpopulation' có nghĩa là nạn quá tải dân số, quá nhiều người sống trong một khu vực."
+  },
+  {
+    "question": "Which word means 'a period of ten years'?",
+    "options": [
+      "decade",
+      "century",
+      "millennium",
+      "annual"
+    ],
+    "answer": "decade",
+    "explanation": "Thập kỷ (giai đoạn 10 năm) trong tiếng Anh là 'decade'."
+  },
+  {
+    "question": "What is the adjective of the noun 'culture'?",
+    "options": [
+      "cultural",
+      "culturally",
+      "cultureless",
+      "cultivate"
+    ],
+    "answer": "cultural",
+    "explanation": "Tính từ của danh từ 'culture' (văn hóa) là 'cultural'."
+  },
+  {
+    "question": "Which word is a synonym for 'well-known'?",
+    "options": [
+      "famous",
+      "obscure",
+      "secret",
+      "hidden"
+    ],
+    "answer": "famous",
+    "explanation": "Đồng nghĩa với 'well-known' (được biết đến rộng rãi) là 'famous' (nổi tiếng)."
+  },
+  {
+    "question": "What does 'eco-friendly' describe?",
+    "options": [
+      "something not harmful to the environment",
+      "something very cheap to buy",
+      "something made of pure gold",
+      "something traditional from the past"
+    ],
+    "answer": "something not harmful to the environment",
+    "explanation": "'Eco-friendly' nghĩa là thân thiện với hệ sinh thái, không gây hại cho môi trường."
+  },
+  {
+    "question": "Which word refers to 'money that you have to pay to the government'?",
+    "options": [
+      "tax",
+      "salary",
+      "bonus",
+      "fine"
+    ],
+    "answer": "tax",
+    "explanation": "Khoản tiền bắt buộc phải trả cho chính phủ từ thu nhập hoặc hàng hóa gọi là thuế (tax)."
+  },
+  {
+    "question": "What is the noun form of the adjective 'sustainable'?",
+    "options": [
+      "sustainability",
+      "sustain",
+      "sustainably",
+      "sustenance"
+    ],
+    "answer": "sustainability",
+    "explanation": "Danh từ của tính từ 'sustainable' (bền vững) là 'sustainability' (sự bền vững)."
+  },
+  {
+    "question": "Which word means 'the process of learning skills that you need to do a particular job'?",
+    "options": [
+      "training",
+      "entertainment",
+      "relaxation",
+      "graduation"
+    ],
+    "answer": "training",
+    "explanation": "Quá trình học các kỹ năng cần thiết để làm một công việc cụ thể gọi là đào tạo/huấn luyện (training)."
+  },
+  {
+    "question": "What is the opposite of 'advantage'?",
+    "options": [
+      "disadvantage",
+      "benefit",
+      "profit",
+      "usefulness"
+    ],
+    "answer": "disadvantage",
+    "explanation": "Trái nghĩa với 'advantage' (lợi thế, ưu điểm) là 'disadvantage' (bất lợi, nhược điểm)."
+  },
+  {
+    "question": "Which word refers to 'a person who travels to a sacred place for religious reasons'?",
+    "options": [
+      "pilgrim",
+      "tourist",
+      "explorer",
+      "native"
+    ],
+    "answer": "pilgrim",
+    "explanation": "Người hành hương đến các vùng đất thánh vì lý do tôn giáo gọi là 'pilgrim'."
+  },
+  {
+    "question": "What is the noun form of the verb 'graduate' when referring to the ceremony?",
+    "options": [
+      "graduation",
+      "graduated",
+      "graduating",
+      "graduand"
+    ],
+    "answer": "graduation",
+    "explanation": "Lễ tốt nghiệp hoặc sự tốt nghiệp trong tiếng Anh là 'graduation'."
+  },
+  {
+    "question": "Which suffix is added to 'employ' to make a noun meaning 'the person who pays people to work'? ",
+    "options": [
+      "-er",
+      "-ee",
+      "-ment",
+      "-able"
+    ],
+    "answer": "-er",
+    "explanation": "Hậu tố '-er' thêm vào sau động từ 'employ' tạo thành 'employer' (người chủ, người sử dụng lao động)."
+  },
+  {
+    "question": "Which word means 'a strong desire to achieve something'?",
+    "options": [
+      "ambition",
+      "apathy",
+      "laziness",
+      "disinterest"
+    ],
+    "answer": "ambition",
+    "explanation": "'Ambition' nghĩa là tham vọng hoặc hoài bão, khát khao đạt được điều gì đó lớn lao."
+  },
+  {
+    "question": "What is the noun form of the verb 'pollute'?",
+    "options": [
+      "pollution",
+      "polluted",
+      "polluting",
+      "pollutant"
+    ],
+    "answer": "pollution",
+    "explanation": "Danh từ chỉ hành động hoặc trạng thái ô nhiễm là 'pollution'."
+  },
+  {
+    "question": "Which word refers to 'an animal or plant species that is at risk of extinction'?",
+    "options": [
+      "endangered species",
+      "extinct species",
+      "common species",
+      "domestic animal"
+    ],
+    "answer": "endangered species",
+    "explanation": "Loài có nguy cơ tuyệt chủng được gọi là 'endangered species'."
+  },
+  {
+    "question": "What is the past simple form of the irregular verb 'rise'?",
+    "options": [
+      "rose",
+      "risen",
+      "rised",
+      "rising"
+    ],
+    "answer": "rose",
+    "explanation": "Quá khứ đơn (V2) của động từ bất quy tắc 'rise' là 'rose'."
+  },
+  {
+    "question": "Which word means 'a system of vehicles such as buses and trains operating on regular routes'?",
+    "options": [
+      "public transport",
+      "private car",
+      "bicycle ride",
+      "airline company"
+    ],
+    "answer": "public transport",
+    "explanation": "Hệ thống xe buýt, tàu hỏa chạy theo tuyến cố định phục vụ người dân gọi là phương tiện công cộng (public transport)."
+  },
+  {
+    "question": "What is the adjective form of 'mass' when describing a huge migration or movement?",
+    "options": [
+      "massive",
+      "massively",
+      "massing",
+      "massed"
+    ],
+    "answer": "massive",
+    "explanation": "Tính từ 'massive' dùng để mô tả quy mô to lớn, đồ sộ hoặc ồ ạt."
+  },
+  {
+    "question": "Which word is a synonym for 'job' or 'profession'?",
+    "options": [
+      "occupation",
+      "hobby",
+      "pastime",
+      "entertainment"
+    ],
+    "answer": "occupation",
+    "explanation": "'Occupation' đồng nghĩa với nghề nghiệp hoặc công việc chuyên môn làm hằng ngày."
+  },
+  {
+    "question": "What does 'renewable energy' mean?",
+    "options": [
+      "energy from sources that do not run out",
+      "energy that causes severe pollution",
+      "energy produced only by burning coal",
+      "energy that is extremely rare and expensive"
+    ],
+    "answer": "energy from sources that do not run out",
+    "explanation": "Năng lượng tái tạo (renewable energy) là năng lượng từ các nguồn tự nhiên không bao giờ cạn kiệt như gió, mặt trời."
+  },
+  {
+    "question": "Which word means 'the practical use of scientific discoveries'?",
+    "options": [
+      "technology",
+      "history",
+      "literature",
+      "philosophy"
+    ],
+    "answer": "technology",
+    "explanation": "Việc ứng dụng thực tiễn các khám phá khoa học vào đời sống được gọi là công nghệ (technology)."
+  },
+  {
+    "question": "Identify the word that means 'to leave a place or a vehicle empty because of danger'.",
+    "options": [
+      "evacuate",
+      "remain",
+      "occupy",
+      "maintain"
+    ],
+    "answer": "evacuate",
+    "explanation": "'Evacuate' có nghĩa là sơ tán, di tản khỏi nơi nguy hiểm."
+  },
+  {
+    "question": "What is the opposite of the adjective 'artificial'?",
+    "options": [
+      "natural",
+      "fake",
+      "man-made",
+      "synthetic"
+    ],
+    "answer": "natural",
+    "explanation": "Trái nghĩa với nhân tạo (artificial) là tự nhiên (natural)."
+  },
+  {
+    "question": "What grammatical structure is used in: 'The book which was written by Nam Cao is famous'?",
+    "options": [
+      "Defining relative clause",
+      "Non-defining relative clause",
+      "Cleft sentence",
+      "Inversion"
+    ],
+    "answer": "Defining relative clause",
+    "explanation": "Mệnh đề quan hệ xác định (Defining relative clause) không dùng dấu phẩy, dùng để định nghĩa rõ ràng danh từ đứng trước."
+  },
+  {
+    "question": "When do we use a non-defining relative clause?",
+    "options": [
+      "To give extra information about a noun that is already clear.",
+      "To limit the meaning of a plural noun.",
+      "To join two completely unrelated independent sentences.",
+      "To express a future condition with high certainty."
+    ],
+    "answer": "To give extra information about a noun that is already clear.",
+    "explanation": "Mệnh đề quan hệ không xác định được dùng để cung cấp thêm thông tin phụ cho một danh từ đã được xác định rõ ràng trước đó."
+  },
+  {
+    "question": "In the sentence 'I saw the man and his dog that were walking in the park', why is 'that' preferred?",
+    "options": [
+      "Because the antecedent includes both a person and an animal.",
+      "Because 'that' can only be used for domestic pets.",
+      "Because 'who' is grammatically incorrect after any noun.",
+      "Because the sentence is written in the past simple tense."
+    ],
+    "answer": "Because the antecedent includes both a person and an animal.",
+    "explanation": "Đại từ quan hệ 'that' được ưu tiên sử dụng khi danh từ đi trước bao gồm cả người lẫn vật/động vật."
+  },
+  {
+    "question": "What is the function of the past perfect continuous tense?",
+    "options": [
+      "To emphasize the duration of an action before another past event.",
+      "To talk about a general truth in modern science.",
+      "To describe an action happening exactly at this moment.",
+      "To state a plan that will happen in the near future."
+    ],
+    "answer": "To emphasize the duration of an action before another past event.",
+    "explanation": "Thì Quá khứ hoàn thành tiếp diễn nhấn mạnh tính liên tục và khoảng thời gian của một hành động xảy ra trước một mốc quá khứ khác."
+  },
+  {
+    "question": "Which of the following sentences expresses a regret about a past situation?",
+    "options": [
+      "I wish I had studied harder for the exam last week.",
+      "I wish I will pass the exam tomorrow afternoon.",
+      "I wish I can speak five foreign languages fluently.",
+      "I wish I study every single day with my friends."
+    ],
+    "answer": "I wish I had studied harder for the exam last week.",
+    "explanation": "Cấu trúc 'S + wish + S + had + V3/ed' dùng để diễn tả một mong ước trái ngược với sự thật trong quá khứ (sự nuối tiếc)."
+  },
+  {
+    "question": "What does a 'smart city' use to manage traffic and save energy?",
+    "options": [
+      "Advanced digital sensors and internet-connected networks.",
+      "Traditional manual tools and physical paperwork.",
+      "Ancient architecture designs from medieval Europe.",
+      "Closing down all major highways during weekdays."
+    ],
+    "answer": "Advanced digital sensors and internet-connected networks.",
+    "explanation": "Thành phố thông minh quản lý giao thông và tài nguyên thông qua cảm biến kỹ thuật số tiên tiến và hệ thống mạng kết nối."
+  },
+  {
+    "question": "What is the passive voice form of modal verbs in the present?",
+    "options": [
+      "Modal verb + be + past participle",
+      "Modal verb + been + present participle",
+      "Modal verb + have + being + V-ing",
+      "Modal verb + to be + bare infinitive"
+    ],
+    "answer": "Modal verb + be + past participle",
+    "explanation": "Cấu trúc bị động tổng quát của động từ khuyết thiếu là: Modal verb + be + V3/ed."
+  },
+  {
+    "question": "When reporting a question, what happens to the word order of the original question?",
+    "options": [
+      "It changes back into the normal declarative word order.",
+      "It keeps the inversion of auxiliary verbs exactly the same.",
+      "It must be completely reversed from end to start.",
+      "It adds the word 'not' right after the main subject."
+    ],
+    "answer": "It changes back into the normal declarative word order.",
+    "explanation": "Trong câu tường thuật dạng câu hỏi, trật tự câu đảo ngữ của câu hỏi gốc biến đổi thành trật tự câu khẳng định (S + V)."
+  },
+  {
+    "question": "What is the meaning of the phrasal verb 'bring about' in environmental contexts?",
+    "options": [
+      "to cause something to happen",
+      "to destroy something completely",
+      "to delay a meeting or an event",
+      "to take care of a young child"
+    ],
+    "answer": "to cause something to happen",
+    "explanation": "'Bring about' có nghĩa là đem lại, gây ra hoặc làm cho một sự thay đổi nào đó xảy ra."
+  },
+  {
+    "question": "What is the role of the pronoun 'whose' in a relative clause?",
+    "options": [
+      "To indicate possession by a person or thing.",
+      "To replace a time adverb like 'when' or 'then'.",
+      "To point out a specific physical geographic location.",
+      "To act as a direct object for a dynamic verb."
+    ],
+    "answer": "To indicate possession by a person or thing.",
+    "explanation": "'Whose' là đại từ quan hệ thay thế cho các tính từ sở hữu hoặc danh từ sở hữu cách của cả người và vật."
+  },
+  {
+    "question": "In a third conditional sentence, what does the 'if-clause' represent?",
+    "options": [
+      "An imaginary condition that did not happen in the past.",
+      "A real situation that happens regularly in the present.",
+      "A highly probable event in the upcoming future.",
+      "A permanent scientific law of nature."
+    ],
+    "answer": "An imaginary condition that did not happen in the past.",
+    "explanation": "Câu điều kiện loại 3 dùng để giả định một điều kiện trái ngược hoàn toàn với sự thật đã xảy ra trong quá khứ."
+  },
+  {
+    "question": "What is a major consequence of rapid 'rural-to-urban migration'?",
+    "options": [
+      "Overcrowding and pressure on city infrastructure.",
+      "An immediate economic balance in rural villages.",
+      "A total decrease in worldwide carbon dioxide emissions.",
+      "The complete elimination of modern automated factories."
+    ],
+    "answer": "Overcrowding and pressure on city infrastructure.",
+    "explanation": "Sự di cư ồ ạt từ nông thôn ra thành thị dẫn tới hệ quả tất yếu là quá tải dân số và gây áp lực lên hạ tầng đô thị."
+  },
+  {
+    "question": "What grammatical change occurs to 'tomorrow' in indirect speech when the reporting verb is in the past?",
+    "options": [
+      "It changes to 'the following day' or 'the next day'.",
+      "It remains exactly as 'tomorrow' without changes.",
+      "It transforms into 'the day before' or 'yesterday'.",
+      "It is completely deleted from the reported sentence."
+    ],
+    "answer": "It changes to 'the following day' or 'the next day'.",
+    "explanation": "Trong câu gián tiếp, trạng từ chỉ thời gian tương lai 'tomorrow' phải chuyển đổi thành 'the next day' hoặc 'the following day'."
+  },
+  {
+    "question": "When a text mentions 'preserving intangible cultural heritage', it refers to:",
+    "options": [
+      "Traditional festivals, performing arts, and oral stories.",
+      "Ancient stone buildings, monuments, and archeological ruins.",
+      "Modern technological innovations and smartphone applications.",
+      "Financial markets and international trade pacts."
+    ],
+    "answer": "Traditional festivals, performing arts, and oral stories.",
+    "explanation": "Di sản văn hóa phi vật thể (intangible heritage) bao gồm lễ hội truyền thống, nghệ thuật trình diễn và truyền thuyết truyền khẩu."
+  },
+  {
+    "question": "What does the phrase 'carbon footprint' measure?",
+    "options": [
+      "The total amount of greenhouse gases produced by human activities.",
+      "The size of a modern eco-friendly shoe made of rubber.",
+      "The area of land covered by dense tropical rain forests.",
+      "The depth of a coal mine located deep underground."
+    ],
+    "answer": "The total amount of greenhouse gases produced by human activities.",
+    "explanation": "Dấu chân carbon (carbon footprint) là thước đo tổng lượng khí nhà kính phát thải ra môi trường do các hoạt động của con người."
+  },
+  {
+    "question": "Which of the following describes a lifelong learning approach?",
+    "options": [
+      "Continuously acquiring skills and knowledge throughout one's entire life.",
+      "Stopping all education right after receiving a high school diploma.",
+      "Studying only for passing a specific university entrance exam.",
+      "Relying entirely on childhood memories to solve professional tasks."
+    ],
+    "answer": "Continuously acquiring skills and knowledge throughout one's entire life.",
+    "explanation": "Học tập suốt đời (lifelong learning) nghĩa là liên tục tích lũy, cập nhật kiến thức và kỹ năng trong suốt cả cuộc đời."
+  },
+  {
+    "question": "What is the difference between 'as a result' and 'although'?",
+    "options": [
+      "'As a result' shows a consequence, while 'although' shows a contrast.",
+      "They mean exactly the same and can be swapped anywhere.",
+      "'Although' must always be followed by a single noun phrase.",
+      "'As a result' introduces an imaginary future condition."
+    ],
+    "answer": "'As a result' shows a consequence, while 'although' shows a contrast.",
+    "explanation": "'As a result' dùng để chỉ kết quả, hệ quả; trong khi 'although' dùng để thể hiện sự nhượng bộ, tương phản."
+  },
+  {
+    "question": "What does a 'green consumer' look for when buying products?",
+    "options": [
+      "Products that are sustainable and do not damage nature.",
+      "The cheapest items available regardless of chemical chemical safety.",
+      "Goods that are imported by luxury fashion brands from Europe.",
+      "Products packed in multiple layers of non-recyclable plastic."
+    ],
+    "answer": "Products that are sustainable and do not damage nature.",
+    "explanation": "Người tiêu dùng xanh (green consumer) ưu tiên chọn các sản phẩm mang tính bền vững và không gây hại cho môi trường tự nhiên."
+  },
+  {
+    "question": "What structure is used to emphasize a specific time or place in a sentence?",
+    "options": [
+      "Cleft sentence with 'It is/was... that...'",
+      "Inversion with negative adverbs at the beginning",
+      "Passive voice with an impersonal dummy subject",
+      "Relative clause using 'which' after a comma"
+    ],
+    "answer": "Cleft sentence with 'It is/was... that...'",
+    "explanation": "Câu chẻ (Cleft sentence) bắt đầu bằng 'It is/was... that...' được dùng chính xác để làm nổi bật một thành phần như trạng ngữ chỉ thời gian hoặc nơi chốn."
+  },
+  {
+    "question": "What is the purpose of the grammatical inversion structure?",
+    "options": [
+      "To create emphasis or a dramatic tone in formal writing.",
+      "To make a sentence simpler for children to read.",
+      "To change the meaning of a positive verb into a passive one.",
+      "To remove the necessity of punctuation at the end."
+    ],
+    "answer": "To create emphasis or a dramatic tone in formal writing.",
+    "explanation": "Cấu trúc đảo ngữ (Inversion) được dùng trong văn phong trang trọng nhằm nhấn mạnh hoặc tạo sắc thái ấn tượng cho câu."
+  },
+  {
+    "question": "By the time the rescue team arrived at the site, the villagers _________ the area safely.",
+    "options": [
+      "had evacuated",
+      "evacuated",
+      "have evacuated",
+      "were evacuating"
+    ],
+    "answer": "had evacuated",
+    "explanation": "Hành động sơ tán diễn ra và hoàn thành trước hành động đến của đội cứu hộ ('arrived' - quá khứ đơn), nên chia Quá khứ hoàn thành."
+  },
+  {
+    "question": "Uncle Ho, _________ life was dedicated to national liberation, is remembered by all Vietnamese people.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "that"
+    ],
+    "answer": "whose",
+    "explanation": "Cần một đại từ quan hệ chỉ sở hữu đứng trước danh từ 'life' (cuộc đời của Bác Hồ)."
+  },
+  {
+    "question": "The local authority decided to fine companies _________ chemical waste directly into the river.",
+    "options": [
+      "dumping",
+      "dumped",
+      "to dump",
+      "dump"
+    ],
+    "answer": "dumping",
+    "explanation": "Rút gọn mệnh đề quan hệ chủ động: 'companies which dump' chuyển thành cụm hiện tại phân từ 'companies dumping'."
+  },
+  {
+    "question": "If the government had invested more in green energy years ago, the air pollution _________ so severe now.",
+    "options": [
+      "wouldn't be",
+      "hadn't been",
+      "won't be",
+      "wouldn't have been"
+    ],
+    "answer": "wouldn't be",
+    "explanation": "Câu điều kiện hỗn hợp (Mixed conditional): Giả định quá khứ ('had invested') dẫn đến kết quả trái ngược ở hiện tại ('now'), dùng 'wouldn't + V-bare'."
+  },
+  {
+    "question": "Many young people move to metropolitan areas in the hope _________ better employment opportunities.",
+    "options": [
+      "of finding",
+      "to find",
+      "find",
+      "for finding"
+    ],
+    "answer": "of finding",
+    "explanation": "Cấu trúc danh từ cố định: 'in the hope of + V-ing' (với hy vọng làm được việc gì)."
+  },
+  {
+    "question": "The ancient citadel, _________ by UNESCO as a World Heritage site, attracts thousands of visitors annually.",
+    "options": [
+      "recognized",
+      "recognizing",
+      "which recognized",
+      "recognizes"
+    ],
+    "answer": "recognized",
+    "explanation": "Mệnh đề quan hệ rút gọn dạng bị động (được công nhận bởi UNESCO), ta lược bỏ đại từ quan hệ và to-be, giữ lại quá khứ phân từ 'recognized'."
+  },
+  {
+    "question": "She asked her teacher _________ software applications would be best for learning English online.",
+    "options": [
+      "which",
+      "that",
+      "whether",
+      "if"
+    ],
+    "answer": "which",
+    "explanation": "Đây là câu tường thuật dạng câu hỏi có từ để hỏi (Wh-question). 'Which software applications' đóng vai trò từ nối hỏi về sự lựa chọn."
+  },
+  {
+    "question": "Rarely _________ such a spectacular display of traditional folk arts in modern times.",
+    "options": [
+      "have I seen",
+      "I have seen",
+      "saw I",
+      "I saw"
+    ],
+    "answer": "have I seen",
+    "explanation": "Đảo ngữ với trạng từ phủ định 'Rarely' đứng đầu câu: Rarely + trợ động từ + S + V."
+  },
+  {
+    "question": "It was during the 19th century _________ the process of urbanisation accelerated rapidly in Western Europe.",
+    "options": [
+      "that",
+      "when",
+      "which",
+      "in which"
+    ],
+    "answer": "that",
+    "explanation": "Cấu trúc câu chẻ nhấn mạnh thành phần trạng ngữ thời gian: 'It was + trạng ngữ + that...'. Không dùng 'when' trong cấu trúc này."
+  },
+  {
+    "question": "The students _________ had been studying all night looked extremely exhausted before entering the examination room.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": "who",
+    "explanation": "Đại từ quan hệ 'who' làm chủ ngữ thay thế cho danh từ chỉ người số nhiều 'the students'."
+  },
+  {
+    "question": "Many historical structures have been modernised, _________ makes it harder for researchers to study original architectures.",
+    "options": [
+      "which",
+      "that",
+      "what",
+      "it"
+    ],
+    "answer": "which",
+    "explanation": "Đại từ quan hệ 'which' dùng sau dấu phẩy để thay thế cho toàn bộ nội dung của mệnh đề đứng trước nó."
+  },
+  {
+    "question": "The university representative congratulated Hoa _________ winning the prestigious national innovation award.",
+    "options": [
+      "on",
+      "for",
+      "at",
+      "with"
+    ],
+    "answer": "on",
+    "explanation": "Sử dụng cấu trúc cố định của động từ: 'congratulate someone on doing something'."
+  },
+  {
+    "question": "We cannot enjoy a high quality of life _________ we take active steps to cut down greenhouse gas emissions.",
+    "options": [
+      "unless",
+      "if",
+      "provided that",
+      "as long as"
+    ],
+    "answer": "unless",
+    "explanation": "'Unless' nghĩa là 'trừ khi' (bằng 'if... not'), hoàn toàn phù hợp với ngữ nghĩa logic mang tính điều kiện của câu."
+  },
+  {
+    "question": "The high cost of living in urban centres is a major factor _________ many young families from buying apartments.",
+    "options": [
+      "preventing",
+      "prevented",
+      "to prevent",
+      "prevents"
+    ],
+    "answer": "preventing",
+    "explanation": "Rút gọn mệnh đề quan hệ chủ động bổ nghĩa cho danh từ 'factor': 'a major factor which prevents' chuyển thành 'preventing'."
+  },
+  {
+    "question": "Lifelong learning helps workers update their skills, _________ avoiding the risk of being replaced by advanced automation.",
+    "options": [
+      "thereby",
+      "although",
+      "however",
+      "whereas"
+    ],
+    "answer": "thereby",
+    "explanation": "'Thereby + V-ing' dùng để chỉ một kết quả hệ quả trực tiếp từ hành động trước đó (bằng cách đó, do đó)."
+  },
+  {
+    "question": "He would have passed the job interview if he _________ more professional communication skills beforehand.",
+    "options": [
+      "had demonstrated",
+      "demonstrated",
+      "would demonstrate",
+      "has demonstrated"
+    ],
+    "answer": "had demonstrated",
+    "explanation": "Câu điều kiện loại 3 diễn tả giả định trái ngược quá khứ, mệnh đề 'if' phải chia ở thì Quá khứ hoàn thành ('had + V3/ed')."
+  },
+  {
+    "question": "Artificial intelligence applications _________ to perform complex surgeries in many modern hospitals nowadays.",
+    "options": [
+      "are being used",
+      "are using",
+      "have used",
+      "used"
+    ],
+    "answer": "are being used",
+    "explanation": "Chủ ngữ là vật ('AI applications'), có trạng từ 'nowadays' nên câu chia ở thể bị động của thì Hiện tại tiếp diễn."
+  },
+  {
+    "question": "The guide suggested _________ a traditional folk music show to understand the local cultural values better.",
+    "options": [
+      "watching",
+      "to watch",
+      "watch",
+      "watched"
+    ],
+    "answer": "watching",
+    "explanation": "Động từ 'suggest' đi kèm trực tiếp với danh động từ (V-ing) khi đề xuất một hành động chung."
+  },
+  {
+    "question": "The older generation often wishes that young people _________ more interest in preserving traditional crafts.",
+    "options": [
+      "would show",
+      "will show",
+      "showed",
+      "have shown"
+    ],
+    "answer": "would show",
+    "explanation": "Câu ước nguyện về một hành động/xu hướng trong tương lai hoặc thể hiện mong muốn ai đó thay đổi hành vi: 'S + wish + S + would + V-bare'."
+  },
+  {
+    "question": "The local people are trying to live more sustainably by adopting _________ habits like using reusable bags.",
+    "options": [
+      "eco-friendly",
+      "overpopulated",
+      "high-tech",
+      "long-term"
+    ],
+    "answer": "eco-friendly",
+    "explanation": "Thói quen dùng túi tái sử dụng là thói quen thân thiện với môi trường ('eco-friendly habits')."
+  },
+  {
+    "question": "It was the innovative presentation on renewable energy sources _________ won the first prize in the school contest.",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "whom"
+    ],
+    "answer": "that",
+    "explanation": "Cấu trúc câu chẻ nhấn mạnh chủ ngữ chỉ vật ('the innovative presentation...'), từ kết nối chuẩn mực luôn là 'that'."
+  },
+  {
+    "question": "The continuous emission of smoke from industrial zones has led to a _________ decline in local air quality index.",
+    "options": [
+      "significant",
+      "significantly",
+      "significance",
+      "signified"
+    ],
+    "answer": "significant",
+    "explanation": "Cần một tính từ đứng trước để bổ nghĩa cho danh từ 'decline' (sự suy giảm đáng kể)."
+  },
+  {
+    "question": "She has been working as an expert in computational linguistics since she _________ from her university.",
+    "options": [
+      "graduated",
+      "has graduated",
+      "graduates",
+      "was graduating"
+    ],
+    "answer": "graduated",
+    "explanation": "Mệnh đề đi sau giới từ liên kết thời gian 'since' thường được chia ở thì Quá khứ đơn."
+  },
+  {
+    "question": "If you want to achieve success in a professional career path, you must learn to sturdily _________ difficulties.",
+    "options": [
+      "overcome",
+      "prevent",
+      "damage",
+      "ignore"
+    ],
+    "answer": "overcome",
+    "explanation": "'Overcome difficulties' là cụm động từ mang nghĩa vượt qua các khó khăn, trở ngại."
+  },
+  {
+    "question": "The massive migration of young workers to major economic zones has left many rural villages _________ populated.",
+    "options": [
+      "sparsely",
+      "densely",
+      "heavily",
+      "crowdedly"
+    ],
+    "answer": "sparsely",
+    "explanation": "Khi lao động trẻ bỏ đi, làng quê sẽ trở nên thưa thớt dân cư. Trạng từ phù hợp là 'sparsely populated' (dân cư thưa thớt)."
+  },
+  {
+    "question": "The cultural officer asked the villagers _________ they still kept the custom of weaving traditional costumes.",
+    "options": [
+      "if",
+      "that",
+      "which",
+      "what"
+    ],
+    "answer": "if",
+    "explanation": "Đây là câu tường thuật dạng câu hỏi Yes/No question, ta dùng từ nối 'if' hoặc 'whether' (liệu rằng)."
+  },
+  {
+    "question": "No sooner had the new automated system been installed _________ the overall production rate of the factory doubled.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "before"
+    ],
+    "answer": "than",
+    "explanation": "Cấu trúc đảo ngữ cố định đi kèm cặp liên từ thời gian: 'No sooner + had + S + V3 + than + S + V2'."
+  },
+  {
+    "question": "The historical building, the roof of _________ was severely destroyed by the heavy storm, is being urgently restored.",
+    "options": [
+      "which",
+      "whom",
+      "whose",
+      "that"
+    ],
+    "answer": "which",
+    "explanation": "Cấu trúc giới từ + đại từ quan hệ thay thế sở hữu vật: 'the roof of which' (mái nhà của tòa nhà lịch sử đó)."
+  },
+  {
+    "question": "By focusing heavily on lifelong vocational training, workers can easily _________ pace with fast economic transformations.",
+    "options": [
+      "keep",
+      "make",
+      "take",
+      "catch"
+    ],
+    "answer": "keep",
+    "explanation": "Thành ngữ cố định 'keep pace with' nghĩa là giữ tốc độ bằng với, bắt kịp đà phát triển của cái gì."
+  },
+  {
+    "question": "The environmental protection committee highly commended the high school students _________ sorting out plastic wastes.",
+    "options": [
+      "for",
+      "with",
+      "at",
+      "on"
+    ],
+    "answer": "for",
+    "explanation": "Cấu trúc động từ khen ngợi: 'commend someone for something/doing something' (khen ngợi ai vì điều gì)."
+  },
+  {
+    "question": "The long-term strategy aims to transform the coastal town into a smart, sustainable city powered entirely by _________ energy.",
+    "options": [
+      "renewable",
+      "exhaustible",
+      "fossil",
+      "non-renewable"
+    ],
+    "answer": "renewable",
+    "explanation": "Một thành phố thông minh và bền vững sẽ được vận hành bằng năng lượng tái tạo ('renewable energy')."
+  },
+  {
+    "question": "The historical monument was closed to the general public with a view to _________ further structural deterioration.",
+    "options": [
+      "preventing",
+      "prevent",
+      "prevented",
+      "to prevent"
+    ],
+    "answer": "preventing",
+    "explanation": "Cấu trúc cụm giới từ chỉ mục đích: 'with a view to + V-ing' (với mục đích làm việc gì)."
+  },
+  {
+    "question": "Under no circumstances _________ modern technologies be allowed to completely replace the human touch in cultural education.",
+    "options": [
+      "should",
+      "we should",
+      "are",
+      "do"
+    ],
+    "answer": "should",
+    "explanation": "Đảo ngữ với cụm từ phủ định đứng đầu câu: 'Under no circumstances + trợ động từ/động từ khuyết thiếu + S + V'."
+  },
+  {
+    "question": "Had the local community been actively involved in the preservation campaign, the historical site _________ destroyed.",
+    "options": [
+      "wouldn't have been",
+      "hadn't been",
+      "won't be",
+      "wouldn't be"
+    ],
+    "answer": "wouldn't have been",
+    "explanation": "Đảo ngữ câu điều kiện loại 3 (bỏ 'If', đảo 'Had' lên trước chủ ngữ), mệnh đề chính phải dùng 'wouldn't have been + V3/ed'."
+  },
+  {
+    "question": "The technological university offers specialized courses designed to equip young students _________ necessary AI literacy skills.",
+    "options": [
+      "with",
+      "for",
+      "of",
+      "by"
+    ],
+    "answer": "with",
+    "explanation": "Cấu trúc cố định của động từ: 'equip someone with something' (trang bị cho ai cái gì)."
+  },
+  {
+    "question": "The young artist's unique style is deeply rooted in traditional folk arts, _________ adds a timeless value to her contemporary paintings.",
+    "options": [
+      "which",
+      "that",
+      "who",
+      "what"
+    ],
+    "answer": "which",
+    "explanation": "Sử dụng 'which' làm đại từ quan hệ thay thế cho toàn bộ sự việc ở mệnh đề trước, đứng sau dấu phẩy."
+  },
+  {
+    "question": "Many young professionals suffer from extreme psychological burnout due to their inability to _________ a healthy work-life balance.",
+    "options": [
+      "maintain",
+      "destroy",
+      "neglect",
+      "ignore"
+    ],
+    "answer": "maintain",
+    "explanation": "'Maintain a healthy work-life balance' là sự duy trì một trạng thái cân bằng lành mạnh giữa công việc và cuộc sống."
+  },
+  {
+    "question": "It is crucial that the international regulatory organization _________ strict codes of ethics on artificial intelligence development.",
+    "options": [
+      "impose",
+      "imposes",
+      "imposed",
+      "imposing"
+    ],
+    "answer": "impose",
+    "explanation": "Cấu trúc câu giả định với tính từ 'It is crucial that + S + V (nguyên thể không chia)'."
+  },
+  {
+    "question": "The sudden influx of rural migrants into the capital city has _________ severe shortages of affordable public housing blocks.",
+    "options": [
+      "brought about",
+      "carried out",
+      "taken after",
+      "put off"
+    ],
+    "answer": "brought about",
+    "explanation": "Cụm động từ 'bring about' nghĩa là gây ra, dẫn tới (sự thiếu hụt trầm trọng về nhà ở xã hội)."
+  },
+  {
+    "question": "The young activist dedicated her entire career to environmental protection, _________ an inspiring role model for her peers.",
+    "options": [
+      "becoming",
+      "become",
+      "became",
+      "to become"
+    ],
+    "answer": "becoming",
+    "explanation": "Rút gọn mệnh đề chỉ kết quả diễn tiến tự nhiên bằng cụm Hiện tại phân từ V-ing ('becoming')."
+  },
+  {
+    "question": "The old woman wished her grandchildren _________ spending so much time talking in virtual chat rooms every day.",
+    "options": [
+      "would stop",
+      "will stop",
+      "stopped",
+      "have stopped"
+    ],
+    "answer": "would stop",
+    "explanation": "Diễn tả lời phàn nàn và mong muốn một người khác thay đổi hành động gây khó chịu trong hiện tại: 'S + wish + S + would + V-bare'."
+  },
+  {
+    "question": "The local government implemented a comprehensive strategy aimed at promoting sustainable urban development and reducing carbon _________.",
+    "options": [
+      "footprints",
+      "prints",
+      "steps",
+      "marks"
+    ],
+    "answer": "footprints",
+    "explanation": "Cụm từ thuật ngữ môi trường cố định: 'reduce carbon footprints' (giảm lượng khí thải carbon cá nhân hoặc tập thể)."
+  },
+  {
+    "question": "The continuous integration of automated robotic arms into manufacturing lines has triggered widespread fears of structural _________.",
+    "options": [
+      "unemployment",
+      "employment",
+      "employees",
+      "employers"
+    ],
+    "answer": "unemployment",
+    "explanation": "Việc đưa robot tự động vào nhà máy làm nảy sinh nỗi sợ thất nghiệp mang tính cơ cấu xã hội ('structural unemployment')."
+  },
+  {
+    "question": "It was her profound knowledge of national historical heritages _________ impressed the foreign delegates during the cultural summit.",
+    "options": [
+      "that",
+      "which",
+      "who",
+      "whom"
+    ],
+    "answer": "that",
+    "explanation": "Câu chẻ nhấn mạnh thành phần chủ ngữ chỉ vật ('her profound knowledge...'), liên từ bắt buộc của khuôn mẫu này là 'that'."
+  },
+  {
+    "question": "She decided to undertake an intensive online course with a view to _________ her digital literacy skills for future career prospects.",
+    "options": [
+      "enhancing",
+      "enhance",
+      "enhanced",
+      "to enhance"
+    ],
+    "answer": "enhancing",
+    "explanation": "Áp dụng cấu trúc ngữ pháp: 'with a view to + V-ing' (nhằm nâng cao năng lực kỹ thuật số)."
+  },
+  {
+    "question": "The long-term conservation project focuses on preserving endangered animal species _________ habitats are threatened by illegal logging.",
+    "options": [
+      "whose",
+      "which",
+      "where",
+      "that"
+    ],
+    "answer": "whose",
+    "explanation": "Đại từ quan hệ 'whose' chỉ sở hữu cho danh từ 'habitats' đứng sau (môi trường sống của các loài động vật nguy cấp)."
+  },
+  {
+    "question": "The young pioneer was highly praised by his local community for _________ the innovative recycling initiative successfully.",
+    "options": [
+      "carrying out",
+      "putting out",
+      "taking over",
+      "giving up"
+    ],
+    "answer": "carrying out",
+    "explanation": "Cụm động từ 'carry out' có nghĩa là tiến hành, thực hiện một kế hoạch, sáng kiến."
+  },
+  {
+    "question": "If the urban planning department had designed the public drainage systems better, the city center _________ heavily last week.",
+    "options": [
+      "wouldn't have been flooded",
+      "hadn't been flooded",
+      "wouldn't be flooded",
+      "won't be flooded"
+    ],
+    "answer": "wouldn't have been flooded",
+    "explanation": "Câu điều kiện loại 3 diễn tả điều kiện giả định và kết quả đều thuộc về quá khứ ('last week'), dùng 'wouldn't have been + V3/ed'."
+  },
+  {
+    "question": "Not until the environmental protection law was strictly enforced _________ companies stop dumping chemical waste into the local lakes.",
+    "options": [
+      "did",
+      "had",
+      "would",
+      "do"
+    ],
+    "answer": "did",
+    "explanation": "Đảo ngữ với cấu trúc 'Not until...': Not until + mệnh đề thời gian + trợ động từ + S + V-bare. Do sự việc ở quá khứ nên dùng 'did'."
+  },
+  {
+    "question": "The local artisan spent decades mastering traditional embroidery techniques, _________ to preserve an invaluable part of ethnic heritage.",
+    "options": [
+      "striving",
+      "strove",
+      "striven",
+      "to strive"
+    ],
+    "answer": "striving",
+    "explanation": "Rút gọn hai mệnh đề chủ động có cùng chủ ngữ bằng hiện tại phân từ V-ing ('striving') để chỉ hành động song song nỗ lực."
+  },
+  {
+    "question": "The digital transition officer explained that artificial intelligence programs _________ massive datasets to optimize urban management tasks.",
+    "options": [
+      "were analyzing",
+      "are analyzing",
+      "analyzed",
+      "have analyzed"
+    ],
+    "answer": "were analyzing",
+    "explanation": "Câu tường thuật gián tiếp lùi thì từ Hiện tại tiếp diễn sang Quá khứ tiếp diễn phù hợp ngữ cảnh hành động đang diễn tiến tại thời điểm nói."
+  },
+  {
+    "question": "The young student expressed a strong desire to pursue higher education abroad to expand his academic _________.",
+    "options": [
+      "horizons",
+      "distances",
+      "boundaries",
+      "skylines"
+    ],
+    "answer": "horizons",
+    "explanation": "Thành ngữ cố định 'expand one's horizons' có nghĩa là mở rộng tầm nhìn, tầm hiểu biết kiến thức của ai đó."
+  },
+  {
+    "question": "The historical site, _________ extensively by local archeologists for five years, was finally opened to international travelers.",
+    "options": [
+      "having been excavated",
+      "excavating",
+      "excavated",
+      "having excavated"
+    ],
+    "answer": "having been excavated",
+    "explanation": "Rút gọn mệnh đề quan hệ dạng phân từ hoàn thành bị động ('having been + V3/ed') để nhấn mạnh một hành động bị động đã hoàn tất trước."
+  },
+  {
+    "question": "The international trade pact is expected to open up new pathways for economic growth, _________ benefit both developing countries.",
+    "options": [
+      "thereby helping to",
+      "although it helps to",
+      "nevertheless helping to",
+      "whereas it helps to"
+    ],
+    "answer": "thereby helping to",
+    "explanation": "Cấu trúc rút gọn hệ quả nhân quả mang tính tích cực phát triển: 'thereby + V-ing' (bằng cách đó giúp ích cho...)."
+  },
+  {
+    "question": "The elderly village chief requested that the younger generation _________ from altering the authentic rituals of the festival.",
+    "options": [
+      "refrain",
+      "refrained",
+      "refrains",
+      "refraining"
+    ],
+    "answer": "refrain",
+    "explanation": "Cấu trúc câu giả định đi kèm động từ yêu cầu: 'S1 + request + that + S2 + V (nguyên thể không chia)'."
+  },
+  {
+    "question": "Many historical towns risk losing their unique identities due to the rapid commercialization and excessive _________.",
+    "options": [
+      "urbanisation",
+      "ruralisation",
+      "preservation",
+      "conservation"
+    ],
+    "answer": "urbanisation",
+    "explanation": "Quá trình đô thị hóa quá nhanh và ồ ạt ('excessive urbanisation') là nguyên nhân khiến các thị trấn cổ mất đi bản sắc."
+  },
+  {
+    "question": "The primary school teacher congratulated the young girl _________ creating an exceptionally creative painting of a future smart city.",
+    "options": [
+      "on",
+      "for",
+      "with",
+      "about"
+    ],
+    "answer": "on",
+    "explanation": "Động từ 'congratulate' đi với cấu trúc giới từ: 'congratulate someone on doing something'."
+  },
+  {
+    "question": "It was his continuous dedication to lifelong learning _________ enabled him to secure a high-paying executive job at the AI firm.",
+    "options": [
+      "that",
+      "which",
+      "who",
+      "whom"
+    ],
+    "answer": "that",
+    "explanation": "Áp dụng cấu trúc câu chẻ chuẩn nhấn mạnh cụm danh từ chỉ vật: 'It is/was + N (vật) + that + V'."
+  },
+  {
+    "question": "The continuous integration of high-tech sensors into the agricultural sector has resulted in a _________ rise in total crop output.",
+    "options": [
+      "significant",
+      "significantly",
+      "significance",
+      "signify"
+    ],
+    "answer": "significant",
+    "explanation": "Cần một tính từ bổ nghĩa đứng trước danh từ 'rise' (sự gia tăng đáng kể)."
+  },
+  {
+    "question": "If the national museum had preserved those authentic ancient costumes better, modern researchers _________ them directly now.",
+    "options": [
+      "could examine",
+      "could have examined",
+      "can examine",
+      "had examined"
+    ],
+    "answer": "could examine",
+    "explanation": "Câu điều kiện hỗn hợp giả định hành động quá khứ ('had preserved') có kết quả trái ngược thực tế ở hiện tại ('now'): 'S + could + V-bare'."
+  },
+  {
+    "question": "Scarcely _________ entered the examination hall when the power grid went off due to the unexpected tropical storm.",
+    "options": [
+      "had the students",
+      "the students had",
+      "did the students",
+      "the students did"
+    ],
+    "answer": "had the students",
+    "explanation": "Đảo ngữ cấu trúc phủ định thời gian: 'Scarcely + had + S + V3/ed + when + S + V2/ed'."
+  },
+  {
+    "question": "The young immigrant, the academic achievements _________ were highly praised by the headmaster, received a full college scholarship.",
+    "options": [
+      "of whom",
+      "of which",
+      "whose",
+      "that"
+    ],
+    "answer": "of whom",
+    "explanation": "Sử dụng cấu trúc 'danh từ + of whom' làm đại từ quan hệ chỉ sở hữu cho đối tượng người đứng trước ('the young immigrant')."
+  },
+  {
+    "question": "Adopting a green lifestyle requires individuals to cut down on plastic usage, _________ contributing to global environment conservation.",
+    "options": [
+      "thereby",
+      "although",
+      "however",
+      "whereas"
+    ],
+    "answer": "thereby",
+    "explanation": "Trạng từ 'thereby' đi liền cấu trúc V-ing chỉ hệ quả đương nhiên logic của hành động trước (bằng cách đó đóng góp vào...)."
+  },
+  {
+    "question": "The environmental research team highly commended the local villagers _________ restoring the degraded mangrove forest ecosystem.",
+    "options": [
+      "for",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "for",
+    "explanation": "Cấu trúc quen thuộc biểu thị lý do khen ngợi tôn vinh: 'commend someone for doing something'."
+  },
+  {
+    "question": "The regional heritage association is planning a major digital campaign with a view to _________ historical documents for future generations.",
+    "options": [
+      "preserving",
+      "preserve",
+      "preserved",
+      "to preserve"
+    ],
+    "answer": "preserving",
+    "explanation": "Theo sau cấu trúc cụm từ 'with a view to' luôn là một danh động từ V-ing ('preserving')."
+  },
+  {
+    "question": "Under no circumstances _________ citizens download personal data from unverified internet networks in a smart city.",
+    "options": [
+      "should",
+      "they should",
+      "are",
+      "do"
+    ],
+    "answer": "should",
+    "explanation": "Đảo ngữ với trạng từ phủ định tuyệt đối: 'Under no circumstances + động từ khuyết thiếu (should) + S + V'."
+  },
+  {
+    "question": "The cultural history professor asked the foreign students _________ they had ever witnessed an authentic ethnic festival before.",
+    "options": [
+      "whether",
+      "that",
+      "which",
+      "what"
+    ],
+    "answer": "whether",
+    "explanation": "Tường thuật câu hỏi Yes/No, sử dụng từ liên kết 'whether' (liệu rằng) để mở đầu mệnh đề được tường thuật."
+  },
+  {
+    "question": "The newly built high-tech residential complex features automated systems that help residents optimize their daily energy _________.",
+    "options": [
+      "consumption",
+      "consume",
+      "consuming",
+      "consumer"
+    ],
+    "answer": "consumption",
+    "explanation": "Cụm danh từ ghép chuyên ngành: 'energy consumption' (sự tiêu thụ năng lượng)."
+  },
+  {
+    "question": "The young activist group avoids _________ materials that are non-biodegradable during their environmental campaigns.",
+    "options": [
+      "using",
+      "to use",
+      "use",
+      "used"
+    ],
+    "answer": "using",
+    "explanation": "Động từ 'avoid' (né tránh) bắt buộc đi kèm danh động từ dạng V-ing."
+  },
+  {
+    "question": "The historic temple, _________ completely of precious wood without any iron nails, is an architectural masterpiece.",
+    "options": [
+      "constructed",
+      "constructing",
+      "which constructed",
+      "constructs"
+    ],
+    "answer": "constructed",
+    "explanation": "Rút gọn mệnh đề quan hệ bị động mang nghĩa 'được xây dựng từ...', dùng quá khứ phân từ V3/ed ('constructed')."
+  },
+  {
+    "question": "The digital literacy instructor suggested _________ strong and distinct passwords for different online social accounts.",
+    "options": [
+      "creating",
+      "to create",
+      "create",
+      "created"
+    ],
+    "answer": "creating",
+    "explanation": "Cấu trúc động từ 'suggest + V-ing' dùng để đưa ra một gợi ý, đề xuất phương hướng."
+  },
+  {
+    "question": "The sudden closure of traditional craft factories has brought _________ severe economic difficulties for local artisans.",
+    "options": [
+      "about",
+      "up",
+      "out",
+      "off"
+    ],
+    "answer": "about",
+    "explanation": "Phrasal verb 'bring about' mang nghĩa gây ra, làm xảy ra tình trạng khó khăn kinh tế."
+  },
+  {
+    "question": "Many old residents wish that the local municipal council _________ more measures to restrict skyscraper developments in the historic core.",
+    "options": [
+      "would take",
+      "will take",
+      "take",
+      "have taken"
+    ],
+    "answer": "would take",
+    "explanation": "Cấu trúc ước muốn hành động tương lai hoặc mong mỏi một cơ quan thay đổi chính sách: 'S + wish + S + would + V-bare'."
+  },
+  {
+    "question": "It is fundamental that every university graduate _________ high levels of digital literacy to survive in the automated job market.",
+    "options": [
+      "possess",
+      "possesses",
+      "possessed",
+      "possessing"
+    ],
+    "answer": "possess",
+    "explanation": "Ngữ pháp câu giả định tính từ bắt buộc: 'It is fundamental that + S + V (nguyên thể giữ nguyên không chia cho mọi ngôi)'."
+  },
+  {
+    "question": "The local people have been collecting historical folk stories _________ the early months of last year.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "in"
+    ],
+    "answer": "since",
+    "explanation": "'The early months of last year' là mốc thời gian cụ thể bắt đầu hành động trong quá khứ, đi với 'since' trong thì hoàn thành."
+  },
+  {
+    "question": "The massive migration from rural villages to cities has left agricultural sectors struggling due to a shortage of _________ labor.",
+    "options": [
+      "manual",
+      "automated",
+      "high-tech",
+      "artificial"
+    ],
+    "answer": "manual",
+    "explanation": "Lao động chân tay tại nông thôn bị thiếu hụt do dòng người di cư. Thuật ngữ thích hợp là 'manual labor' (lao động chân tay)."
+  },
+  {
+    "question": "The historical document, _________ content was deciphered by linguistics experts, reveals secrets about ancient migrations.",
+    "options": [
+      "whose",
+      "which",
+      "that",
+      "whom"
+    ],
+    "answer": "whose",
+    "explanation": "Sử dụng đại từ quan hệ chỉ sở hữu 'whose' đứng trước danh từ 'content' (nội dung của văn kiện lịch sử)."
+  },
+  {
+    "question": "By _________ advanced filtering devices, local factories can easily minimize the amount of toxic gas released into the atmosphere.",
+    "options": [
+      "installing",
+      "install",
+      "installation",
+      "installed"
+    ],
+    "answer": "installing",
+    "explanation": "Sau giới từ phương thức 'by', ta dùng cấu trúc danh động từ V-ing ('installing' - bằng cách lắp đặt)."
+  },
+  {
+    "question": "The elderly artisan, _________ has dedicated her entire lifetime to pottery making, was officially honored as a national living icon.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "who",
+    "explanation": "Đại từ quan hệ 'who' đóng vai trò chủ ngữ thay thế danh từ chỉ người số ít 'the elderly artisan' trong mệnh đề không xác định."
+  },
+  {
+    "question": "The local wildlife conservation group is trying hard to prevent endangered species from becoming _________.",
+    "options": [
+      "extinct",
+      "extinction",
+      "extinguishing",
+      "extinctive"
+    ],
+    "answer": "extinct",
+    "explanation": "Cấu trúc cụm động từ nối: 'become + tính từ'. 'Become extinct' nghĩa là trở nên tuyệt chủng."
+  },
+  {
+    "question": "The environmentalist asked the factory manager why they _________ the updated waste management rules the previous year.",
+    "options": [
+      "had not applied",
+      "do not apply",
+      "have not applied",
+      "are not applying"
+    ],
+    "answer": "had not applied",
+    "explanation": "Câu tường thuật gián tiếp lùi thì từ Quá khứ đơn (nhận biết qua 'the previous year') lùi sâu thành Quá khứ hoàn thành."
+  },
+  {
+    "question": "It was in that ancient coastal village _________ the unique traditional boat-racing festival originated centuries ago.",
+    "options": [
+      "that",
+      "where",
+      "which",
+      "when"
+    ],
+    "answer": "that",
+    "explanation": "Cấu trúc câu chẻ nhấn mạnh trạng ngữ nơi chốn bắt đầu với 'It was...'. Thành phần kết nối chuẩn ngữ pháp luôn là 'that'."
+  },
+  {
+    "question": "The historic pagoda underwent a massive restoration project, _________ sparked a heated debate among local architectural experts.",
+    "options": [
+      "which",
+      "that",
+      "what",
+      "who"
+    ],
+    "answer": "which",
+    "explanation": "'Which' đứng sau dấu phẩy làm đại từ quan hệ thay thế cấu trúc ngữ nghĩa cho toàn bộ mệnh đề chính đứng trước."
+  },
+  {
+    "question": "Young professionals are highly encouraged to embrace lifelong learning to avoid being left _________ by fast technological changes.",
+    "options": [
+      "behind",
+      "out",
+      "off",
+      "over"
+    ],
+    "answer": "behind",
+    "explanation": "Cụm từ phrasal mang nghĩa bị tụt lại phía sau, không bắt kịp thời đại là 'be left behind'."
+  },
+  {
+    "question": "The rapid development of internet infrastructure in rural zones has _________ digital gaps between urban and countryside students.",
+    "options": [
+      "narrowed",
+      "widened",
+      "increased",
+      "damaged"
+    ],
+    "answer": "narrowed",
+    "explanation": "Hạ tầng mạng phát triển giúp 'thu hẹp khoảng cách số' (narrowed digital gaps), cải thiện điều kiện tiếp cận tri thức."
+  },
+  {
+    "question": "If the young researcher had possessed comprehensive AI skills, she _________ selected for the international innovation hub last month.",
+    "options": [
+      "would have been",
+      "had been",
+      "would be",
+      "was"
+    ],
+    "answer": "would have been",
+    "explanation": "Câu điều kiện loại 3 chỉ giả định quá khứ, mệnh đề chính ở thể bị động quá khứ hoàn thành điều kiện: 'would have been + V3/ed'."
+  },
+  {
+    "question": "Not only _________ historic relics, but sustainable tourism also brings sustainable income streams to the local population.",
+    "options": [
+      "does it protect",
+      "it protects",
+      "is it protecting",
+      "it protected"
+    ],
+    "answer": "does it protect",
+    "explanation": "Đảo ngữ với cấu trúc 'Not only' đặt ở đầu mệnh đề thứ nhất: Not only + trợ động từ + S + V-bare."
+  },
+  {
+    "question": "The ancient citadel, the stone preservation of _________ required advanced chemical solutions, was successfully saved from decay.",
+    "options": [
+      "which",
+      "whom",
+      "whose",
+      "that"
+    ],
+    "answer": "which",
+    "explanation": "Cấu trúc danh từ + giới từ + đại từ quan hệ vật 'which': 'the stone preservation of which' (việc bảo tồn đá của thành cổ đó)."
+  },
+  {
+    "question": "The local artisan spent years training young apprentices, _________ to ensure the immortal survival of the traditional weaving craft.",
+    "options": [
+      "hoping",
+      "hoped",
+      "having hoped",
+      "to hope"
+    ],
+    "answer": "hoping",
+    "explanation": "Rút gọn mệnh đề cùng chủ ngữ dạng chủ động diễn tả mục đích, trạng thái tinh thần đi kèm dùng Hiện tại phân từ 'hoping'."
+  },
+  {
+    "question": "The technological director announced that the company _________ a new artificial intelligence application to manage city traffic systems.",
+    "options": [
+      "was developing",
+      "is developing",
+      "developed",
+      "has developed"
+    ],
+    "answer": "was developing",
+    "explanation": "Tường thuật câu gián tiếp lùi thì từ Hiện tại tiếp diễn ('is developing') lùi một thì thành Quá khứ tiếp diễn ('was developing')."
+  },
+  {
+    "question": "Many workers find it extremely difficult to adapt to advanced automation, _________ running a high risk of long-term structural career displacement.",
+    "options": [
+      "thereby",
+      "although",
+      "nevertheless",
+      "whereas"
+    ],
+    "answer": "thereby",
+    "explanation": "Trạng từ từ nối 'thereby + V-ing' diễn tả kết quả kéo theo không thể tránh khỏi (do đó phải đối mặt với nguy cơ...)."
+  },
+  {
+    "question": "It is essential that every citizen _________ a green lifestyle by minimizing daily electricity and water consumption rates.",
+    "options": [
+      "adopt",
+      "adopts",
+      "adopted",
+      "adopting"
+    ],
+    "answer": "adopt",
+    "explanation": "Áp dụng ngữ pháp cấu trúc câu giả định thức: 'It is essential that + S + V (nguyên thể không chia bất chấp ngôi chủ ngữ)'."
+  },
+  {
+    "question": "The non-governmental organization highly commended the high school students _________ inventing an eco-friendly water purification device.",
+    "options": [
+      "for",
+      "on",
+      "with",
+      "about"
+    ],
+    "answer": "for",
+    "explanation": "Cấu trúc biểu thị lời khen tặng tuyên dương: 'commend someone for doing something'."
+  },
+  {
+    "question": "The ancient palace, _________ by national historic preservation teams for over a decade, has finally restored its original splendor.",
+    "options": [
+      "having been renovated",
+      "renovating",
+      "renovated",
+      "having renovated"
+    ],
+    "answer": "having been renovated",
+    "explanation": "Rút gọn mệnh đề quan hệ chủ ngữ dạng hoàn thành bị động 'having been + V3/ed' chỉ hành động được thực hiện kéo dài trước đó."
+  },
+  {
+    "question": "Had the industrial firm updated its filtration technologies, the river ecosystem _________ so catastrophically ruined now.",
+    "options": [
+      "wouldn't be",
+      "hadn't been",
+      "wouldn't have been",
+      "won't be"
+    ],
+    "answer": "wouldn't be",
+    "explanation": "Cấu trúc hỗn hợp đảo ngữ điều kiện (Mixed Conditional): Giả định quá khứ ('Had... updated') và hậu quả hiện tại ('now'), dùng 'wouldn't + V-bare'."
+  },
+  {
+    "question": "Under no circumstances _________ ethical guidelines be ignored when computer programmers design autonomous artificial intelligence models.",
+    "options": [
+      "should",
+      "we should",
+      "are",
+      "do"
+    ],
+    "answer": "should",
+    "explanation": "Đảo ngữ với trạng ngữ phủ định đứng đầu câu: Under no circumstances + Modal Verb (should) + S + be + V3/ed."
+  },
+  {
+    "question": "The young independent artisan, the unique cultural designs _________ won international fashion awards, opened a new vocational school.",
+    "options": [
+      "of whom",
+      "of which",
+      "whose",
+      "that"
+    ],
+    "answer": "of whom",
+    "explanation": "Cấu trúc sở hữu vật thuộc về người: 'the unique cultural designs of whom' (những thiết kế văn hóa độc đáo của người nghệ nhân trẻ đó)."
+  },
+  {
+    "question": "The local municipal council initiated a comprehensive clean-up program with a view to _________ sustainable living spaces for citizens.",
+    "options": [
+      "creating",
+      "create",
+      "created",
+      "to create"
+    ],
+    "answer": "creating",
+    "explanation": "Cấu trúc cố định đi kèm danh động từ: 'with a view to + V-ing' (nhằm mục đích kiến tạo không gian sống bền vững)."
+  }
+]

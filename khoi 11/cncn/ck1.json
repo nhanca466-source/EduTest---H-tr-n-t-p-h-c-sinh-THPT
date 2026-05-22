@@ -1,0 +1,387 @@
+[
+  {
+    "question": "Trong quy trình chế tạo cơ khí, bước nào sau đây thực hiện việc thay đổi hình dạng, kích thước của phôi để tạo thành chi tiết?",
+    "options": [
+      "Đóng gói sản phẩm",
+      "Gia công cắt gọt",
+      "Kiểm tra chất lượng",
+      "Lập bản vẽ kỹ thuật"
+    ],
+    "answer": "Gia công cắt gọt",
+    "explanation": "Gia công cắt gọt là quá trình bóc tách các lớp kim loại thừa trên phôi dưới dạng phoi để đạt được hình dạng và kích thước chi tiết theo yêu cầu."
+  },
+  {
+    "question": "Vật liệu nào sau đây thuộc nhóm kim loại đen?",
+    "options": [
+      "Đồng thau",
+      "Nhôm định hình",
+      "Thép carbon",
+      "Nhựa composite"
+    ],
+    "answer": "Thép carbon",
+    "explanation": "Thép carbon là hợp kim của sắt và carbon, thuộc nhóm kim loại đen."
+  },
+  {
+    "question": "Tính chất nào sau đây đặc trưng cho khả năng chống lại biến dạng dẻo hoặc phá hủy của vật liệu dưới tác dụng của ngoại lực?",
+    "options": [
+      "Tính dẻo",
+      "Độ cứng",
+      "Độ bền",
+      "Tính chống mài mòn"
+    ],
+    "answer": "Độ bền",
+    "explanation": "Độ bền là khả năng của vật liệu chống lại tác dụng của ngoại lực mà không bị phá hủy hoặc biến dạng dẻo."
+  },
+  {
+    "question": "Phương pháp gia công nào sau đây là phương pháp gia công không phoi?",
+    "options": [
+      "Phay",
+      "Tiện",
+      "Đúc",
+      "Khoan"
+    ],
+    "answer": "Đúc",
+    "explanation": "Đúc là phương pháp rót kim loại lỏng vào khuôn, sau khi nguội kết tinh thành sản phẩm, không sinh ra phoi như các phương pháp cắt gọt."
+  },
+  {
+    "question": "Trong cơ khí chế tạo, 'phôi' được định nghĩa là gì?",
+    "options": [
+      "Chi tiết máy đã hoàn thiện",
+      "Nguyên vật liệu ban đầu chưa qua xử lý",
+      "Vật liệu trung gian được dùng để chế tạo chi tiết",
+      "Phế thải sau quá trình gia công cắt gọt"
+    ],
+    "answer": "Vật liệu trung gian được dùng để chế tạo chi tiết",
+    "explanation": "Phôi là vật liệu ban đầu có hình dạng, kích thước phù hợp để từ đó gia công ra chi tiết máy."
+  },
+  {
+    "question": "Dụng cụ nào sau đây thường được sử dụng để đo kích thước đường trong, đường ngoài và chiều sâu của chi tiết cơ khí?",
+    "options": [
+      "Thước cặp",
+      "Thước lá",
+      "Kính hiển vi",
+      "Thước đo góc"
+    ],
+    "answer": "Thước cặp",
+    "explanation": "Thước cặp là dụng cụ đo đa năng, có thể đo được cả kích thước ngoài, kích thước trong và chiều sâu một cách chính xác."
+  },
+  {
+    "question": "Vật liệu composite thuộc nhóm vật liệu nào sau đây?",
+    "options": [
+      "Vật liệu kim loại đen",
+      "Vật liệu kim loại màu",
+      "Vật liệu phi kim loại",
+      "Vật liệu mới"
+    ],
+    "answer": "Vật liệu mới",
+    "explanation": "Vật liệu composite được tổng hợp từ hai hay nhiều vật liệu khác nhau nhằm tạo ra tính chất vượt trội, xếp vào nhóm vật liệu mới."
+  },
+  {
+    "question": "Phương pháp gia công cơ khí nào sử dụng chuyển động quay tròn của phôi kết hợp với chuyển động tịnh tiến của dao?",
+    "options": [
+      "Phay",
+      "Tiện",
+      "Khoan",
+      "Bào"
+    ],
+    "answer": "Tiện",
+    "explanation": "Trong nguyên lý cắt của phương pháp tiện, chuyển động chính là chuyển động quay tròn của phôi, chuyển động chạy dao là chuyển động tịnh tiến của dao tiện."
+  },
+  {
+    "question": "Thành phần hóa học chính của gang bao gồm những nguyên tố nào?",
+    "options": [
+      "Sắt và Carbon với hàm lượng Carbon nhỏ hơn hoặc bằng 2.14 phần trăm",
+      "Sắt và Carbon với hàm lượng Carbon lớn hơn 2.14 phần trăm",
+      "Đồng và Kẽm với hàm lượng thích hợp",
+      "Nhôm và Silicon có độ tinh khiết cao"
+    ],
+    "answer": "Sắt và Carbon với hàm lượng Carbon lớn hơn 2.14 phần trăm",
+    "explanation": "Gang là hợp kim của sắt và carbon, trong đó hàm lượng carbon lớn hơn 2.14 phần trăm."
+  },
+  {
+    "question": "Cơ khí chế tạo có vai trò gì đối với đời sống và sản xuất?",
+    "options": [
+      "Chỉ sản xuất đồ gia dụng cho gia đình",
+      "Cung cấp thiết bị, máy móc cho toàn bộ các ngành kinh tế kỹ thuật",
+      "Chỉ phục vụ cho ngành giao thông vận tải",
+      "Thay thế hoàn toàn lao động trí óc của con người"
+    ],
+    "answer": "Cung cấp thiết bị, máy móc cho toàn bộ các ngành kinh tế kỹ thuật",
+    "explanation": "Cơ khí chế tạo đóng vai trò nền tảng, sản xuất ra tư liệu sản xuất và công cụ cho tất cả các ngành nghề khác."
+  },
+  {
+    "question": "Dấu hiệu nào sau đây nhận biết phương pháp gia công đúc trong khuôn cát?",
+    "options": [
+      "Bề mặt chi tiết rất bóng mịn",
+      "Bề mặt chi tiết nhám và có độ chính xác kích thước thấp hơn khuôn kim loại",
+      "Chi tiết có các đường vân do dao phay để lại",
+      "Chi tiết có độ dẻo cực kỳ cao"
+    ],
+    "answer": "Bề mặt chi tiết nhám và có độ chính xác kích thước thấp hơn khuôn kim loại",
+    "explanation": "Đúc trong khuôn cát cho bề mặt chi tiết thô nhám, độ chính xác không cao do cấu trúc hạt cát của lòng khuôn."
+  },
+  {
+    "question": "Vật liệu phi kim loại nào được sử dụng phổ biến để làm lốp xe ô tô, xe máy nhờ tính đàn hồi cao?",
+    "options": [
+      "Nhựa PVC",
+      "Cao su",
+      "Thủy tinh hữu cơ",
+      "Gốm kỹ thuật"
+    ],
+    "answer": "Cao su",
+    "explanation": "Cao su có tính đàn hồi cực tốt, khả năng giảm chấn và chịu mài mòn tốt nên được dùng làm lốp xe."
+  },
+  {
+    "question": "Trong các cuộc cách mạng công nghiệp, cơ khí chế tạo đóng vai trò làm động lực cho cuộc cách mạng nào đầu tiên?",
+    "options": [
+      "Cách mạng công nghiệp lần thứ nhất",
+      "Cách mạng công nghiệp lần thứ hai",
+      "Cách mạng công nghiệp lần thứ ba",
+      "Cách mạng công nghiệp lần thứ tư"
+    ],
+    "answer": "Cách mạng công nghiệp lần thứ nhất",
+    "explanation": "Cuộc cách mạng công nghiệp lần thứ nhất bùng nổ nhờ sự ra đời của máy hơi nước và sự phát triển của ngành cơ khí chế tạo máy."
+  },
+  {
+    "question": "Phương pháp rèn tự do thuộc loại công nghệ gia công nào?",
+    "options": [
+      "Gia công cắt gọt",
+      "Gia công áp lực",
+      "Gia công hàn",
+      "Gia công bằng tia laser"
+    ],
+    "answer": "Gia công áp lực",
+    "explanation": "Rèn tự do sử dụng ngoại lực (búa) tác dụng lên kim loại ở trạng thái nóng để làm biến dạng dẻo theo hình dạng mong muốn, thuộc nhóm gia công áp lực."
+  },
+  {
+    "question": "Tại sao người ta thường chọn kim loại màu như đồng để làm lõi dây dẫn điện?",
+    "options": [
+      "Vì đồng có giá thành rẻ nhất",
+      "Vì đồng có tính dẫn điện rất tốt và tính dẻo dễ kéo sợi",
+      "Vì đồng có độ cứng cực kỳ cao",
+      "Vì đồng không bị oxy hóa ở bất kỳ điều kiện nào"
+    ],
+    "answer": "Vì đồng có tính dẫn điện rất tốt và tính dẻo dễ kéo sợi",
+    "explanation": "Kim loại màu (như đồng, nhôm) có điện trở suất nhỏ, dẫn điện tốt và độ dẻo cao giúp dễ dàng gia công kéo thành sợi dây điện."
+  },
+  {
+    "question": "Sự khác biệt cơ bản giữa phương pháp gia công phay và tiện là gì?",
+    "options": [
+      "Phay chỉ gia công được vật liệu phi kim, tiện gia công được kim loại",
+      "Tiện dùng dao có một lưỡi cắt và phôi quay tròn, phay dùng dao có nhiều lưỡi cắt và dao quay tròn",
+      "Phay luôn cho độ chính xác cao hơn tiện trong mọi trường hợp",
+      "Tiện không sinh ra phoi, còn phay sinh ra rất nhiều phoi"
+    ],
+    "answer": "Tiện dùng dao có một lưỡi cắt và phôi quay tròn, phay dùng dao có nhiều lưỡi cắt và dao quay tròn",
+    "explanation": "Đây là đặc điểm khác biệt về nguyên lý cắt. Tiện chuyển động chính là phôi quay, phay chuyển động chính là dao phay (dao nhiều lưỡi) quay."
+  },
+  {
+    "question": "Khi chế tạo vỏ máy của các động cơ cỡ lớn cần chịu lực tốt và giảm chấn dập tốt, người ta thường ưu tiên chọn vật liệu nào?",
+    "options": [
+      "Thép hợp kim cao",
+      "Gang xám",
+      "Nhôm nguyên chất",
+      "Nhựa nhiệt dẻo"
+    ],
+    "answer": "Gang xám",
+    "explanation": "Gang xám có giá thành rẻ, tính đúc tốt, đặc biệt là có khả năng tắt rung động (giảm chấn) rất tốt nên thường được dùng làm thân máy, vỏ động cơ."
+  },
+  {
+    "question": "Tại sao trong quy trình sản xuất cơ khí, bước kiểm tra chất lượng sản phẩm lại bắt buộc phải thực hiện trước khi đóng gói?",
+    "options": [
+      "Để tăng giá thành sản phẩm lên cao",
+      "Để đảm bảo chi tiết đạt đúng kích thước, yêu cầu kỹ thuật và loại bỏ sản phẩm lỗi",
+      "Để làm cho sản phẩm có bề mặt bóng đẹp hơn",
+      "Để thay đổi hình dạng của sản phẩm theo ý muốn"
+    ],
+    "answer": "Để đảm bảo chi tiết đạt đúng kích thước, yêu cầu kỹ thuật và loại bỏ sản phẩm lỗi",
+    "explanation": "Kiểm tra chất lượng là khâu kiểm soát để đảm bảo sản phẩm xuất xưởng đáp ứng đúng tiêu chuẩn thiết kế, tránh sai hỏng khi sử dụng."
+  },
+  {
+    "question": "Nếu một chi tiết máy làm bằng thép được bọc một lớp nhựa composite bên ngoài, mục đích chính thường là gì?",
+    "options": [
+      "Làm giảm độ bền cơ học của lõi thép",
+      "Tăng khả năng chống ăn mòn hóa học và cách điện, cách nhiệt cho chi tiết",
+      "Làm cho chi tiết nặng hơn để tăng độ đầm",
+      "Biến thép thành vật liệu dẻo hơn"
+    ],
+    "answer": "Tăng khả năng chống ăn mòn hóa học và cách điện, cách nhiệt cho chi tiết",
+    "explanation": "Nhựa composite có tính bền hóa học, cách điện và cách nhiệt tốt, bảo vệ lớp lõi thép bên trong khỏi tác động của môi trường phá hủy."
+  },
+  {
+    "question": "Khi muốn tạo một lỗ thông suốt trên một tấm thép dày, người thợ cơ khí nên chọn phương pháp gia công nào là tối ưu và nhanh nhất?",
+    "options": [
+      "Bào",
+      "Tiện",
+      "Khoan",
+      "Mài"
+    ],
+    "answer": "Khoan",
+    "explanation": "Khoan là phương pháp phổ biến và hiệu quả nhất để tạo lỗ từ phôi đặc."
+  },
+  {
+    "question": "Ưu điểm nổi bật của việc ứng dụng robot công nghiệp trong dây chuyền sản xuất cơ khí tự động hóa là gì?",
+    "options": [
+      "Giúp tiết kiệm nguyên vật liệu hơn một nửa",
+      "Tăng năng suất, độ chính xác cao và giải phóng con người khỏi môi trường độc hại",
+      "Có thể tự sửa chữa máy móc khi bị hỏng mà không cần con người",
+      "Làm cho quy trình sản xuất không cần lập bản vẽ kỹ thuật"
+    ],
+    "answer": "Tăng năng suất, độ chính xác cao và giải phóng con người khỏi môi trường độc hại",
+    "explanation": "Robot có khả năng làm việc liên tục với độ lặp lại chính xác cao, thay thế con người ở các vị trí nặng nhọc, độc hại (như hàn, sơn)."
+  },
+  {
+    "question": "Một người thợ muốn gia công một trục bậc có đường kính nhỏ dần. Người thợ đó nên sử dụng loại máy công cụ nào?",
+    "options": [
+      "Máy phay giường",
+      "Máy tiện",
+      "Máy khoan bàn",
+      "Máy bào"
+    ],
+    "answer": "Máy tiện",
+    "explanation": "Gia công các chi tiết có dạng tròn xoay, trục bậc, trục thẳng là công dụng đặc trưng của máy tiện."
+  },
+  {
+    "question": "Sản phẩm nào sau đây được coi là sản phẩm của ngành cơ khí chế tạo máy?",
+    "options": [
+      "Một chiếc áo sơ mi thời trang",
+      "Một chiếc máy cày dùng trong nông nghiệp",
+      "Một viên thuốc kháng sinh",
+      "Một ngôi nhà bê tông cốt thép"
+    ],
+    "answer": "Một chiếc máy cày dùng trong nông nghiệp",
+    "explanation": "Máy cày là thiết bị cơ khí hoàn chỉnh, có cấu tạo từ các chi tiết máy kết hợp với nhau nhằm thực hiện một nhiệm vụ cụ thể."
+  },
+  {
+    "question": "Tính công nghệ của vật liệu cơ khí được thể hiện qua yếu tố nào sau đây?",
+    "options": [
+      "Khả năng chịu lực kéo của vật liệu",
+      "Khả năng dẫn điện và dẫn nhiệt của vật liệu",
+      "Khả năng đúc, khả năng hàn, tính gia công cắt gọt của vật liệu",
+      "Màu sắc và độ bóng tự nhiên của vật liệu"
+    ],
+    "answer": "Khả năng đúc, khả năng hàn, tính gia công cắt gọt của vật liệu",
+    "explanation": "Tính công nghệ phản ánh khả năng gia công của vật liệu bằng các phương pháp công nghệ khác nhau để tạo ra sản phẩm một cách dễ dàng hay khó khăn."
+  },
+  {
+    "question": "Để cắt một tấm kim loại mỏng thành các hình tròn nhỏ mà không làm mất phoi, phương pháp nào phù hợp nhất?",
+    "options": [
+      "Cưa tay",
+      "Đột dập",
+      "Mài phẳng",
+      "Phay ngón"
+    ],
+    "answer": "Đột dập",
+    "explanation": "Đột dập thuộc nhóm gia công áp lực, sử dụng khuôn dập để tách phần kim loại theo biên dạng mong muốn một cách nhanh chóng và không sinh ra phoi vụn."
+  },
+  {
+    "question": "Một xưởng cơ khí nhận đơn hàng sản xuất 5000 chi tiết trục khuỷu xe máy. Theo em, họ nên chọn phương pháp tạo phôi nào để đảm bảo cơ tính tốt nhất và tiết kiệm thời gian gia công cắt gọt?",
+    "options": [
+      "Đúc trong khuôn cát",
+      "Rèn khuôn (dập nóng)",
+      "Gia công từ thép thanh bằng phương pháp tiện",
+      "Hàn ghép các đoạn trục lại với nhau"
+    ],
+    "answer": "Rèn khuôn (dập nóng)",
+    "explanation": "Rèn khuôn giúp chi tiết có tổ chức kim loại chặt chẽ, thớ kim loại liên tục dọc theo biên dạng trục khuỷu, cho cơ tính chịu lực bền bỉ cao và hình dáng sát với chi tiết nhất, giảm thời gian cắt gọt khi sản xuất hàng loạt."
+  },
+  {
+    "question": "Tại sao các lưỡi dao cắt gọt kim loại (như dao tiện, mũi khoan) thường được làm bằng thép gió hoặc hợp kim cứng mà không làm bằng thép carbon thông thường?",
+    "options": [
+      "Vì thép gió có màu sắc đẹp và dễ lau chùi hơn",
+      "Vì dụng cụ cắt cần có độ cứng, độ bền nhiệt và tính chống mài mòn cao hơn nhiều so với vật liệu phôi cần cắt",
+      "Vì thép gió có tính dẻo cao giúp dao không bao giờ bị gãy",
+      "Vì thép gió nhẹ hơn thép carbon làm máy chạy nhanh hơn"
+    ],
+    "answer": "Vì dụng cụ cắt cần có độ cứng, độ bền nhiệt và tính chống mài mòn cao hơn nhiều so với vật liệu phôi cần cắt",
+    "explanation": "Khi cắt gọt, ma sát tạo ra nhiệt độ rất cao. Vật liệu làm dao phải có độ cứng cao hơn phôi và có tính bền nhiệt (giữ được độ cứng ở nhiệt độ cao) để không bị mòn hay cùn nhanh."
+  },
+  {
+    "question": "Trong nhà máy chế tạo ô tô hiện đại, việc chuyển đổi từ cánh tay robot hàn sang cánh tay robot lắp ráp lập trình tự động thể hiện xu hướng phát triển nào của ngành cơ khí?",
+    "options": [
+      "Xu hướng thủ công hóa",
+      "Xu hướng tự động hóa và linh hoạt hóa sản xuất",
+      "Xu hướng đơn giản hóa tính năng sản phẩm",
+      "Xu hướng giảm tiêu chuẩn chất lượng sản phẩm"
+    ],
+    "answer": "Xu hướng tự động hóa và linh hoạt hóa sản xuất",
+    "explanation": "Hệ thống sản xuất linh hoạt (FMS) và robot có khả năng thay đổi chương trình, đầu công tác giúp dây chuyền nhanh chóng thích ứng với sản phẩm mới một cách tự động."
+  },
+  {
+    "question": "Giả sử một chi tiết bằng nhôm sau khi đúc xong bị phát hiện có các lỗ rỗng nhỏ bên trong ruột chi tiết (gọi là rỗ khí). Nguyên nhân chính của hiện tượng này là gì?",
+    "options": [
+      "Do nhiệt độ khuôn đúc quá thấp làm nhôm bị co ngót",
+      "Do dòng kim loại lỏng cuốn theo không khí hoặc khí hòa tan trong kim loại lỏng không thoát ra được trước khi nhôm đông đặc",
+      "Do người thợ rót kim loại quá chậm",
+      "Do nhôm có tính dẻo quá cao"
+    ],
+    "answer": "Do dòng kim loại lỏng cuốn theo không khí hoặc khí hòa tan trong kim loại lỏng không thoát ra được trước khi nhôm đông đặc",
+    "explanation": "Rỗ khí hình thành do bẫy khí hoặc khí hòa tan chưa kịp thoát ra khỏi khối kim loại lỏng trước khi nó chuyển sang trạng thái rắn."
+  },
+  {
+    "question": "Khi thiết kế một hệ thống băng tải chịu tải trọng lớn và làm việc ngoài trời, kỹ sư chọn nhựa Teflon để làm các tấm lót trượt thay vì dùng thép. Lựa chọn này dựa trên đặc tính ưu việt nào của Teflon?",
+    "options": [
+      "Teflon có giá rẻ hơn thép nhiều lần",
+      "Teflon có hệ số ma sát cực kỳ thấp, tự bôi trơn tốt và chống ăn mòn hóa học",
+      "Teflon chịu được nhiệt độ cao như ngọn lửa trực tiếp",
+      "Teflon cứng hơn thép carbon"
+    ],
+    "answer": "Teflon có hệ số ma sát cực kỳ thấp, tự bôi trơn tốt và chống ăn mòn hóa học",
+    "explanation": "Nhựa Teflon (PTFE) nổi tiếng với hệ số ma sát rất nhỏ và độ bền hóa chất cao, lý tưởng cho các bề mặt trượt giảm ma sát mà không cần tra dầu mỡ liên tục."
+  },
+  {
+    "question": "Một doanh nghiệp muốn tối ưu hóa quy trình sản xuất một loại bánh răng phức tạp bằng cách giảm thiểu lượng phoi thải ra môi trường. Giải pháp công nghệ nào sau đây mang tính đột phá và phù hợp nhất hiện nay?",
+    "options": [
+      "Sử dụng dao tiện sắc hơn để phoi cắt ra mỏng hơn",
+      "Chuyển sang công nghệ in 3D kim loại (thiêu kết laser chọn lọc) để tạo phôi chính xác",
+      "Tăng tốc độ quay của máy phay lên mức tối đa",
+      "Ngâm phôi vào hóa chất ăn mòn để tạo hình bánh răng"
+    ],
+    "answer": "Chuyển sang công nghệ in 3D kim loại (thiêu kết laser chọn lọc) để tạo phôi chính xác",
+    "explanation": "In 3D kim loại là công nghệ chế tạo bồi đắp, đắp dần từng lớp vật liệu để tạo thành chi tiết, giúp giảm thiểu hoặc hầu như không phát sinh phoi thải so với công nghệ chế tạo cắt gọt truyền thống."
+  },
+  {
+    "question": "Để đánh giá một quy trình công nghệ chế tạo chi tiết máy có đạt chứng nhận 'Sản xuất xanh' hay không, yếu tố nào sau đây đóng vai trò quyết định?",
+    "options": [
+      "Số lượng công nhân làm việc trong nhà máy",
+      "Khả năng tiết kiệm năng lượng, tái sử dụng dung dịch làm mát và giảm thiểu chất thải độc hại ra môi trường",
+      "Tốc độ hoàn thiện sản phẩm nhanh hay chậm",
+      "Màu sắc sơn bên ngoài của các máy công cụ"
+    ],
+    "answer": "Khả năng tiết kiệm năng lượng, tái sử dụng dung dịch làm mát và giảm thiểu chất thải độc hại ra môi trường",
+    "explanation": "Sản xuất xanh trong cơ khí chú trọng giảm tiêu thụ tài nguyên, năng lượng, sử dụng vật liệu thân thiện và xử lý tốt chất thải (như dầu tưới nguội, phoi)."
+  },
+  {
+    "question": "Trong việc gia công một trục khuỷu có yêu cầu độ chính xác kích thước và độ bóng bề mặt cực cao để lắp vào động cơ, quy trình sắp xếp các nguyên công nào sau đây là hợp lý nhất?",
+    "options": [
+      "Mài bóng bề mặt trước, sau đó mới rèn phôi và tiện thô",
+      "Rèn tạo phôi, tiện thô, tiện tinh, và cuối cùng là mài tinh các cổ trục",
+      "Tiện tinh, rèn tạo phôi, mài tinh và tiện thô",
+      "Đúc phôi, mài tinh rồi tiến hành rèn khuôn"
+    ],
+    "answer": "Rèn tạo phôi, tiện thô, tiện tinh, và cuối cùng là mài tinh các cổ trục",
+    "explanation": "Quy trình gia công cơ khí phải đi từ gia công thô (loại bỏ phần lớn lượng dư), gia công bán tinh, gia công tinh (tiện tinh) và gia công siêu tinh (mài) để đạt độ bóng và chính xác cao nhất mà không làm hỏng bề mặt."
+  },
+  {
+    "question": "Phân tích tác động của việc thay thế vật liệu kim loại bằng vật liệu thông minh (như hợp kim nhớ hình) trong việc chế tạo các van tự động của hệ thống công nghiệp?",
+    "options": [
+      "Làm cho hệ thống van cồng kềnh và tốn năng lượng vận hành hơn",
+      "Giúp van có thể tự động đóng mở dựa trên sự thay đổi nhiệt độ môi trường mà không cần đến động cơ điện hay hệ thống điều khiển phức tạp",
+      "Làm giảm tuổi thọ của van do vật liệu thông minh dễ bị gỉ sét hơn thép",
+      "Bắt buộc hệ thống phải sử dụng thêm nhiều cảm biến áp suất bên ngoài"
+    ],
+    "answer": "Giúp van có thể tự động đóng mở dựa trên sự thay đổi nhiệt độ môi trường mà không cần đến động cơ điện hay hệ thống điều khiển phức tạp",
+    "explanation": "Hợp kim nhớ hình có khả năng tự phục hồi hình dạng ban đầu khi đạt đến một nhiệt độ nhất định. Ứng dụng này giúp van tự hoạt động dựa vào nhiệt độ môi trường, tối giản hóa kết cấu cơ khí."
+  },
+  {
+    "question": "Khi lập kế hoạch chuyển đổi một xưởng cơ khí truyền thống sang mô hình nhà máy thông minh (Smart Factory) theo xu hướng Cách mạng công nghiệp 4.0, bước đi nào mang tính cốt lõi và quyết định sự thành công?",
+    "options": [
+      "Mua thật nhiều máy công cụ đời cũ về để tăng số lượng dây chuyền",
+      "Số hóa toàn bộ dữ liệu thiết kế và kết nối các máy CNC, robot thông qua mạng Internet vạn vật công nghiệp để quản lý tập trung",
+      "Cắt giảm toàn bộ đội ngũ kỹ sư và chỉ thuê lao động phổ thông để tiết kiệm chi phí",
+      "Ngừng sử dụng máy tính và quay lại quản lý bằng sổ sách thủ công"
+    ],
+    "answer": "Số hóa toàn bộ dữ liệu thiết kế và kết nối các máy CNC, robot thông qua mạng Internet vạn vật công nghiệp để quản lý tập trung",
+    "explanation": "Cốt lõi của nhà máy thông minh là sự kết nối xuyên suốt (IIoT) và số hóa dữ liệu, giúp các thiết bị tự giao tiếp, tối ưu hóa quy trình sản xuất theo thời gian thực."
+  }
+]

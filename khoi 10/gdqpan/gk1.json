@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Ngày truyền thống của Quân đội nhân dân Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 22 tháng 12 năm 1944",
+      "Ngày 19 tháng 8 năm 1945",
+      "Ngày 22 tháng 5 năm 1946",
+      "Ngày 30 tháng 4 năm 1975"
+    ],
+    "answer": "Ngày 22 tháng 12 năm 1944",
+    "explanation": "Ngày 22 tháng 12 năm 1944 là ngày thành lập Đội Việt Nam Tuyên truyền Giải phóng quân, tổ chức tiền thân của Quân đội nhân dân Việt Nam, và ngày này được lấy làm ngày truyền thống của Quân đội."
+  },
+  {
+    "question": "Đội Việt Nam Tuyên truyền Giải phóng quân khi mới thành lập gồm bao nhiêu chiến sĩ?",
+    "options": [
+      "30 chiến sĩ",
+      "34 chiến sĩ",
+      "40 chiến sĩ",
+      "54 chiến sĩ"
+    ],
+    "answer": "34 chiến sĩ",
+    "explanation": "Khi mới thành lập vào ngày 22 tháng 12 năm 1944 tại Cao Bằng, Đội Việt Nam Tuyên truyền Giải phóng quân gồm có 34 chiến sĩ, chia thành 3 tiểu đội."
+  },
+  {
+    "question": "Ai là người trực tiếp chỉ huy và là người anh cả của Đội Việt Nam Tuyên truyền Giải phóng quân?",
+    "options": [
+      "Đại tướng Võ Nguyên Giáp",
+      "Chủ tịch Hồ Chí Minh",
+      "Tổng bí thư Trường Chinh",
+      "Đại tướng Nguyễn Chí Thanh"
+    ],
+    "answer": "Đại tướng Võ Nguyên Giáp",
+    "explanation": "Đồng chí Võ Nguyên Giáp (sau này là Đại tướng) được Trung ương Đảng và Lãnh tụ Hồ Chí Minh ủy nhiệm đứng ra thành lập và trực tiếp chỉ huy Đội Việt Nam Tuyên truyền Giải phóng quân."
+  },
+  {
+    "question": "Ngày truyền thống của Lực lượng Công an nhân dân Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 19 tháng 5 năm 1941",
+      "Ngày 22 tháng 12 năm 1944",
+      "Ngày 19 tháng 8 năm 1945",
+      "Ngày 2 tháng 9 năm 1945"
+    ],
+    "answer": "Ngày 19 tháng 8 năm 1945",
+    "explanation": "Ngày 19 tháng 8 năm 1945 gắn liền với sự kiện Cách mạng tháng Tám thành công, các tổ chức đầu tiên của Công an nhân dân được thành lập ở cả ba miền nên ngày này được chọn là ngày truyền thống của lực lượng."
+  },
+  {
+    "question": "Lực lượng Dân quân tự vệ Việt Nam là lực lượng vũ trang thuộc bộ phận nào?",
+    "options": [
+      "Lực lượng vũ trang chuyên nghiệp",
+      "Lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác",
+      "Lực lượng quân đội thường trực",
+      "Lực lượng cảnh sát cơ động đặc nhiệm"
+    ],
+    "answer": "Lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác",
+    "explanation": "Dân quân tự vệ là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác, được tổ chức ở địa phương và cơ quan, tổ chức nhằm bảo vệ trật tự trị an tại cơ sở."
+  },
+  {
+    "question": "Theo Luật Sĩ quan Quân đội nhân dân Việt Nam, sĩ quan là chức danh của công dân Việt Nam phục vụ trong bộ phận nào?",
+    "options": [
+      "Quân đội nhân dân Việt Nam",
+      "Công an nhân dân Việt Nam",
+      "Hội Cựu chiến binh Việt Nam",
+      "Lực lượng Thanh niên xung phong"
+    ],
+    "answer": "Quân đội nhân dân Việt Nam",
+    "explanation": "Sĩ quan Quân đội nhân dân Việt Nam là cán bộ của Đảng và Nhà nước, hoạt động trong lĩnh vực quân sự, được Nhà nước phong quân hàm cấp Úy, cấp Tá, cấp Tướng để phục vụ trong Quân đội."
+  },
+  {
+    "question": "Cấp bậc quân hàm của sĩ quan Quân đội nhân dân Việt Nam gồm có mấy cấp?",
+    "options": [
+      "2 cấp",
+      "3 cấp",
+      "4 cấp",
+      "5 cấp"
+    ],
+    "answer": "3 cấp",
+    "explanation": "Hệ thống cấp bậc quân hàm của sĩ quan Quân đội nhân dân Việt Nam gồm có 3 cấp: Cấp Úy, Cấp Tá và Cấp Tướng."
+  },
+  {
+    "question": "Cấp bậc quân hàm cao nhất của sĩ quan Công an nhân dân Việt Nam là gì?",
+    "options": [
+      "Thượng tướng",
+      "Đại tướng",
+      "Trung tướng",
+      "Thiếu tướng"
+    ],
+    "answer": "Đại tướng",
+    "explanation": "Theo quy định của Luật Công an nhân dân, cấp bậc hàm cao nhất của sĩ quan Công an nhân dân Việt Nam là Đại tướng."
+  },
+  {
+    "question": "Nội dung giáo dục quốc phòng và an ninh là môn học chính khóa được quy định bắt buộc đối với đối tượng nào sau đây?",
+    "options": [
+      "Học sinh trung học phổ thông, trung cấp chuyên nghiệp, sinh viên các trường cao đẳng, đại học",
+      "Trẻ em ở các trường mầm non",
+      "Học sinh tiểu học toàn quốc",
+      "Chỉ dành riêng cho công chức nhà nước"
+    ],
+    "answer": "Học sinh trung học phổ thông, trung cấp chuyên nghiệp, sinh viên các trường cao đẳng, đại học",
+    "explanation": "Luật Giáo dục quốc phòng và an ninh quy định đây là môn học chính khóa đối với học sinh trung học phổ thông, trung cấp, cao đẳng và đại học nhằm trang bị kiến thức cơ bản về bảo vệ Tổ quốc."
+  },
+  {
+    "question": "Lực lượng vũ trang nhân dân Việt Nam bao gồm những bộ phận nào?",
+    "options": [
+      "Quân đội nhân dân và Công an nhân dân",
+      "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+      "Quân đội nhân dân và Dân quân tự vệ",
+      "Bộ đội chủ lực và Bộ đội biên phòng"
+    ],
+    "answer": "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+    "explanation": "Hiến pháp và các bộ luật liên quan quy định Lực lượng vũ trang nhân dân Việt Nam gồm ba thành phần nòng cốt là: Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ."
+  },
+  {
+    "question": "Hai trận đánh đầu tiên khẳng định truyền thống 'bách chiến bách thắng' của Đội Việt Nam Tuyên truyền Giải phóng quân là những trận nào?",
+    "options": [
+      "Phay Khắt và Nà Ngần",
+      "Điện Biên Phủ và Ấp Bắc",
+      "Đông Khê và Thất Khê",
+      "Vạn Tường và Núi Thành"
+    ],
+    "answer": "Phay Khắt và Nà Ngần",
+    "explanation": "Ngay sau khi thành lập, Đội Việt Nam Tuyên truyền Giải phóng quân đã mưu trí, táo bạo đánh thắng liên tiếp hai trận tại đồn Phay Khắt (ngày 25 tháng 12 năm 1944) và đồn Nà Ngần (ngày 26 tháng 12 năm 1944)."
+  },
+  {
+    "question": "Chức năng cơ bản của Quân đội nhân dân Việt Nam bao gồm những gì?",
+    "options": [
+      "Đội quân chiến đấu, đội quân công tác, đội quân lao động sản xuất",
+      "Đội quân chiến đấu, đội quân biểu diễn, đội quân khảo sát",
+      "Đội quân sản xuất, đội quân xây dựng, đội quân vận chuyển",
+      "Đội quân tuần tra, đội quân cứu hộ, đội quân trinh sát"
+    ],
+    "answer": "Đội quân chiến đấu, đội quân công tác, đội quân lao động sản xuất",
+    "explanation": "Quân đội nhân dân Việt Nam có ba chức năng cốt lõi được duy trì xuyên suốt lịch sử: vừa là đội quân chiến đấu bảo vệ Tổ quốc, vừa là đội quân công tác vận động quần chúng, và là đội quân lao động sản xuất phát triển kinh tế."
+  },
+  {
+    "question": "Lực lượng Công an nhân dân Việt Nam đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của tổ chức nào?",
+    "options": [
+      "Bộ Quốc phòng Việt Nam",
+      "Đảng Cộng sản Việt Nam",
+      "Ủy ban nhân dân các cấp",
+      "Hội Cựu chiến binh Việt Nam"
+    ],
+    "answer": "Đảng Cộng sản Việt Nam",
+    "explanation": "Lực lượng Công an nhân dân được tổ chức và hoạt động dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước."
+  },
+  {
+    "question": "Hệ thống tổ chức của Công an nhân dân Việt Nam được phân chia thành mấy cấp hành chính?",
+    "options": [
+      "2 cấp",
+      "3 cấp",
+      "4 cấp",
+      "5 cấp"
+    ],
+    "answer": "4 cấp",
+    "explanation": "Công an nhân dân Việt Nam được tổ chức tập trung, thống nhất theo 4 cấp hành chính gồm: Cấp Bộ (Bộ Công an), Cấp Tỉnh (Công an tỉnh, thành phố trực thuộc trung ương), Cấp Huyện (Công an quận, huyện, thị xã) và Cấp Xã (Công an xã, phường, thị trấn)."
+  },
+  {
+    "question": "Mục đích chủ yếu của việc ban hành Luật Giáo dục quốc phòng và an ninh là gì?",
+    "options": [
+      "Để chuẩn bị cho việc tổng động viên toàn dân đi chiến đấu ngay lập tức",
+      "Phát triển kiến thức, kỹ năng quân sự, an ninh, bồi dưỡng lòng yêu nước cho công dân",
+      "Để thay thế các môn học văn hóa khác trong nhà trường",
+      "Để quản lý vũ khí, trang thiết bị quân sự của quốc gia"
+    ],
+    "answer": "Phát triển kiến thức, kỹ năng quân sự, an ninh, bồi dưỡng lòng yêu nước cho công dân",
+    "explanation": "Luật Giáo dục quốc phòng và an ninh nhằm giáo dục cho công dân về lòng yêu nước, niềm tự hào dân tộc, nâng cao ý thức trách nhiệm và kỹ năng cần thiết để tham gia xây dựng nền quốc phòng toàn dân."
+  },
+  {
+    "question": "Độ tuổi gọi nhập ngũ thông thường trong thời bình của công dân nam Việt Nam là từ bao nhiêu tuổi?",
+    "options": [
+      "Từ đủ 16 tuổi đến hết 25 tuổi",
+      "Từ đủ 18 tuổi đến hết 25 tuổi",
+      "Từ đủ 18 tuổi đến hết 30 tuổi",
+      "Từ đủ 20 tuổi đến hết 27 tuổi"
+    ],
+    "answer": "Từ đủ 18 tuổi đến hết 25 tuổi",
+    "explanation": "Theo quy định pháp luật nghĩa vụ quân sự hiện hành, độ tuổi gọi nhập ngũ của công dân nam từ bình thường là từ đủ 18 tuổi đến hết 25 tuổi (trường hợp có trình độ đại học, cao đẳng được kéo dài đến hết 27 tuổi)."
+  },
+  {
+    "question": "Một trong những nghĩa vụ của sĩ quan Quân đội nhân dân Việt Nam là gì?",
+    "options": [
+      "Sẵn sàng chiến đấu, hy sinh bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ của Tổ quốc",
+      "Được ưu tiên kinh doanh thương mại tự do không cần đóng thuế",
+      "Có quyền từ chối mệnh lệnh của cấp trên nếu thấy nguy hiểm",
+      "Được tự ý lựa chọn đơn vị và địa bàn công tác theo ý muốn"
+    ],
+    "answer": "Sẵn sàng chiến đấu, hy sinh bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ của Tổ quốc",
+    "explanation": "Sĩ quan quân đội có nghĩa vụ tuyệt đối trung thành với Tổ quốc, nhân dân, sẵn sàng chiến đấu và hy sinh để bảo vệ độc lập, chủ quyền, toàn vẹn lãnh thổ của đất nước."
+  },
+  {
+    "question": "Lực lượng nào đóng vai trò nòng cốt trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự an toàn xã hội?",
+    "options": [
+      "Dân quân tự vệ",
+      "Công an nhân dân",
+      "Lực lượng thanh niên xung phong",
+      "Các đội bảo vệ dân phố"
+    ],
+    "answer": "Công an nhân dân",
+    "explanation": "Luật Công an nhân dân quy định rõ Công an nhân dân là lực lượng nòng cốt của lực lượng vũ trang nhân dân trong sự nghiệp bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội."
+  },
+  {
+    "question": "Ngày truyền thống của Lực lượng Dân quân tự vệ Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 28 tháng 3 năm 1935",
+      "Ngày 22 tháng 12 năm 1944",
+      "Ngày 19 tháng 8 năm 1945",
+      "Ngày 2 tháng 9 năm 1945"
+    ],
+    "answer": "Ngày 28 tháng 3 năm 1935",
+    "explanation": "Ngày 28 tháng 3 năm 1935, Đại hội Đảng toàn quốc lần thứ nhất tại Ma Cao (Trung Quốc) đã ra 'Nghị quyết về đội tự vệ', đây là mốc son đánh dấu sự ra đời và là ngày truyền thống của Dân quân tự vệ Việt Nam."
+  },
+  {
+    "question": "Cơ quan nào chịu trách nhiệm quản lý nhà nước về giáo dục quốc phòng và an ninh trên phạm vi cả nước?",
+    "options": [
+      "Bộ Quốc phòng",
+      "Bộ Giáo dục và Đào tạo",
+      "Chính phủ",
+      "Bộ Công an"
+    ],
+    "answer": "Chính phủ",
+    "explanation": "Chính phủ thống nhất quản lý nhà nước về giáo dục quốc phòng và an ninh trên phạm vi toàn quốc. Các bộ như Bộ Quốc phòng, Bộ Giáo dục và Đào tạo phối hợp thực hiện theo thẩm quyền."
+  },
+  {
+    "question": "Tại sao Quân đội nhân dân Việt Nam lại mang bản chất của giai cấp công nhân?",
+    "options": [
+      "Vì tất cả chiến sĩ quân đội đều xuất thân từ công nhân nhà máy",
+      "Vì quân đội do Đảng Cộng sản Việt Nam tổ chức, lãnh đạo và rèn luyện",
+      "Vì quân đội chỉ sử dụng vũ khí do công nhân chế tạo",
+      "Vì quân đội hoạt động chủ yếu ở các khu công nghiệp, thành phố"
+    ],
+    "answer": "Vì quân đội do Đảng Cộng sản Việt Nam tổ chức, lãnh đạo và rèn luyện",
+    "explanation": "Quân đội nhân dân Việt Nam mang bản chất giai cấp công nhân, tính nhân dân và tính dân tộc sâu sắc vì quân đội do Đảng của giai cấp công nhân (Đảng Cộng sản Việt Nam) sáng lập, tổ chức, lãnh đạo và giáo dục."
+  },
+  {
+    "question": "Điểm giống nhau cơ bản về mục tiêu hoạt động của Quân đội nhân dân và Công an nhân dân Việt Nam là gì?",
+    "options": [
+      "Đều tập trung phát triển các hoạt động kinh tế thương mại ra nước ngoài",
+      "Đều chiến đấu vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội và hạnh phúc của nhân dân",
+      "Đều thực hiện nhiệm vụ chủ yếu ở ngoài không gian mạng",
+      "Đều xây dựng lực lượng dựa hoàn toàn vào việc mua vũ khí nước ngoài"
+    ],
+    "answer": "Đều chiến đấu vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội và hạnh phúc của nhân dân",
+    "explanation": "Cả hai lực lượng đều là thành phần nòng cốt của lực lượng vũ trang nhân dân, có cùng mục tiêu tối thượng là bảo vệ chế độ, bảo vệ độc lập chủ quyền, toàn vẹn lãnh thổ và cuộc sống bình yên của nhân dân."
+  },
+  {
+    "question": "Truyền thống 'Tận trung với Đảng, tận hiếu với dân' của lực lượng vũ trang nước ta được thể hiện rõ nét nhất qua hành động nào?",
+    "options": [
+      "Luôn đặt lợi ích cá nhân lên trên hết trong mọi hoàn cảnh",
+      "Tuyệt đối phục tùng sự lãnh đạo của Đảng, sẵn sàng giúp đỡ, bảo vệ nhân dân trong thiên tai, hoạn nạn",
+      "Chỉ thực hiện nhiệm vụ khi được trả lương cao",
+      "Chỉ bảo vệ những người thân trong gia đình mình"
+    ],
+    "answer": "Tuyệt đối phục tùng sự lãnh đạo của Đảng, sẵn sàng giúp đỡ, bảo vệ nhân dân trong thiên tai, hoạn nạn",
+    "explanation": "Truyền thống này thể hiện ở bản lĩnh chính trị kiên định, lòng trung thành vô hạn với lý tưởng của Đảng và sự gắn bó máu thịt với nhân dân, xả thân cứu dân trong thiên tai, bão lũ."
+  },
+  {
+    "question": "Nội dung giáo dục quốc phòng và an ninh trong trường trung học phổ thông được lồng ghép hoặc tổ chức thông qua hình thức nào là chủ yếu?",
+    "options": [
+      "Học tập như một môn học chính khóa độc lập, có lý thuyết và thực hành quân sự phổ thông",
+      "Chỉ tổ chức xem phim tài liệu giải trí vào cuối tuần",
+      "Học sinh tự nghiên cứu ở nhà và không cần kiểm tra đánh giá",
+      "Lồng ghép hoàn toàn vào môn Lịch sử mà không có tiết học riêng"
+    ],
+    "answer": "Học tập như một môn học chính khóa độc lập, có lý thuyết và thực hành quân sự phổ thông",
+    "explanation": "Ở cấp trung học phổ thông, Giáo dục quốc phòng và an ninh là môn học chính khóa, được giảng dạy theo chương trình riêng gồm các tiết lý thuyết và các bài thực hành kỹ năng quân sự cơ bản như đội ngũ, băng bó vết thương."
+  },
+  {
+    "question": "Tại sao nói lực lượng Dân quân tự vệ là một chiến lược xây dựng nền quốc phòng toàn dân?",
+    "options": [
+      "Vì đây là lực lượng đông đảo, có mặt ở khắp các địa bàn cơ sở, kết hợp chặt chẽ giữa lao động sản xuất và bảo vệ an ninh",
+      "Vì lực lượng này được trang bị vũ khí hiện đại hơn quân đội thường trực",
+      "Vì dân quân tự vệ có thể thay thế hoàn toàn vai trò của quân đội",
+      "Vì lực lượng này chỉ tham gia chiến đấu ở nước ngoài"
+    ],
+    "answer": "Vì đây là lực lượng đông đảo, có mặt ở khắp các địa bàn cơ sở, kết hợp chặt chẽ giữa lao động sản xuất và bảo vệ an ninh",
+    "explanation": "Dân quân tự vệ tạo nên thế trận quốc phòng toàn dân vững chắc tại từng làng xã, cơ quan, xí nghiệp. Họ vừa trực tiếp tạo ra của cải vật chất vừa là tai mắt, lực lượng bảo vệ địa bàn tại chỗ khi có tình huống bất ngờ xảy ra."
+  },
+  {
+    "question": "Một người muốn trở thành sĩ quan Quân đội nhân dân Việt Nam cần phải đáp ứng tiêu chuẩn cốt lõi nào đầu tiên?",
+    "options": [
+      "Phải có thân nhân đang làm việc ở nước ngoài",
+      "Có lý lịch chính trị rõ ràng, đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe và trình độ học vấn theo quy định",
+      "Phải có tài sản cá nhân lớn để đóng góp cho đơn vị",
+      "Biết sử dụng thành thạo tất cả các loại ngoại ngữ trên thế giới"
+    ],
+    "answer": "Có lý lịch chính trị rõ ràng, đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe và trình độ học vấn theo quy định",
+    "explanation": "Luật Sĩ quan quy định công dân muốn tuyển chọn làm sĩ quan phải có lập trường chính trị vững vàng, phẩm chất đạo đức tốt, có bằng cấp chuyên môn phù hợp và đạt sức khỏe phân loại theo tiêu chuẩn quân đội."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm theo Luật Giáo dục quốc phòng và an ninh?",
+    "options": [
+      "Tích cực tham gia các tiết học thực hành bắn súng hội thao",
+      "Lợi dụng hoạt động giáo dục quốc phòng và an ninh để xuyên tạc đường lối, chia rẽ khối đại đoàn kết dân tộc",
+      "Tự học thêm kiến thức lịch sử quân sự qua sách báo chính thống",
+      "Viết bài ca ngợi truyền thống anh hùng của quân đội nhân dân"
+    ],
+    "answer": "Lợi dụng hoạt động giáo dục quốc phòng và an ninh để xuyên tạc đường lối, chia rẽ khối đại đoàn kết dân tộc",
+    "explanation": "Luật nghiêm cấm việc lợi dụng nhiệm vụ giáo dục quốc phòng an ninh để tuyên truyền xuyên tạc, chống phá nhà nước, làm ảnh hưởng đến khối đại đoàn kết toàn dân tộc."
+  },
+  {
+    "question": "Sự khác biệt về nhiệm vụ trọng tâm giữa Công an nhân dân và Quân đội nhân dân trong thời bình là gì?",
+    "options": [
+      "Công an bảo vệ biên giới hải đảo; Quân đội giữ gìn trật tự đô thị",
+      "Công an nòng cốt bảo vệ an ninh nội địa, trật tự xã hội; Quân đội nòng cốt bảo vệ độc lập, chủ quyền, chống ngoại xâm",
+      "Công an chuyên sản xuất hàng hóa kinh tế; Quân đội chuyên làm nhiệm vụ cứu hộ quốc tế",
+      "Công an quản lý toàn bộ hệ thống trường học; Quân đội quản lý hệ thống y tế"
+    ],
+    "answer": "Công an nòng cốt bảo vệ an ninh nội địa, trật tự xã hội; Quân đội nòng cốt bảo vệ độc lập, chủ quyền, chống ngoại xâm",
+    "explanation": "Dù phối hợp chặt chẽ, nhiệm vụ trọng tâm của Công an là an ninh nội địa, đấu tranh phòng chống tội phạm, giữ trật tự xã hội. Còn Quân đội tập trung xây dựng lực lượng, sẵn sàng chiến đấu ngăn chặn nguy cơ xâm lược từ bên ngoài, bảo vệ toàn vẹn lãnh thổ."
+  },
+  {
+    "question": "Hệ thống chức vụ của sĩ quan Công an nhân dân khác hệ thống cấp bậc hàm ở điểm nào?",
+    "options": [
+      "Chức vụ là vị trí công tác được bổ nhiệm; cấp bậc hàm là học hàm học vị",
+      "Chức vụ thể hiện vị trí quản lý, chỉ huy được bổ nhiệm; cấp bậc hàm thể hiện trình độ, niên hạn và cấp bậc phong tặng",
+      "Chức vụ do người dân bầu ra; cấp bậc hàm do quân đội tự phong",
+      "Hai khái niệm này hoàn toàn giống nhau, không có điểm khác biệt"
+    ],
+    "answer": "Chức vụ thể hiện vị trí quản lý, chỉ huy được bổ nhiệm; cấp bậc hàm thể hiện trình độ, niên hạn và cấp bậc phong tặng",
+    "explanation": "Chức vụ là vị trí lãnh đạo (ví dụ: Trưởng Công an huyện, Giám đốc Công an tỉnh). Cấp bậc hàm là cấp bậc quân hàm cụ thể (ví dụ: Đại úy, Thượng tá). Một chức vụ có thể tương đương với một khung cấp bậc hàm nhất định."
+  },
+  {
+    "question": "Học sinh lớp 10 cần làm gì để thực hiện tốt trách nhiệm đối với môn học Giáo dục quốc phòng và an ninh?",
+    "options": [
+      "Chỉ cần có mặt điểm danh, không cần chú ý nghe giảng hay tập luyện",
+      "Nghiêm túc chấp hành kỷ luật, nỗ lực học tập lý thuyết và rèn luyện kỹ năng thực hành quân sự",
+      "Tự ý đem các mô hình vũ khí học tập ra ngoài trường để đùa nghịch",
+      "Tìm cách trốn tránh các buổi học thực hành ngoài trời"
+    ],
+    "answer": "Nghiêm túc chấp hành kỷ luật, nỗ lực học tập lý thuyết và rèn luyện kỹ năng thực hành quân sự",
+    "explanation": "Trách nhiệm của học sinh là phải học tập nghiêm túc, rèn luyện tính kỷ luật tự giác, nắm vững kiến thức quốc phòng an ninh để làm cơ sở bảo vệ bản thân và quê hương."
+  },
+  {
+    "question": "Nội dung nào phản ánh đúng tinh thần 'Quyết tử để Tổ quốc quyết sinh' của quân và dân ta trong kháng chiến chống Pháp?",
+    "options": [
+      "Sẵn sàng hy sinh tính mạng cá nhân để bảo vệ từng tấc đất Thủ đô và độc lập dân tộc",
+      "Rút lui hoàn toàn không tổ chức kháng chiến để bảo toàn lực lượng",
+      "Kêu gọi sự viện trợ kinh tế từ các nước tư bản",
+      "Chỉ tham gia chiến đấu khi thấy quân địch suy yếu"
+    ],
+    "answer": "Sẵn sàng hy sinh tính mạng cá nhân để bảo vệ từng tấc đất Thủ đô và độc lập dân tộc",
+    "explanation": "Lời thề 'Quyết tử để Tổ quốc quyết sinh' thể hiện tinh thần dũng cảm vô song, quyết tâm sắt đá của các chiến sĩ Vệ quốc quân, quyết bảo vệ nền độc lập non trẻ của nước nhà trước sự xâm lược trở lại của thực dân Pháp."
+  },
+  {
+    "question": "Vì sao việc xây dựng lực lượng vũ trang nhân dân phải lấy xây dựng về chính trị làm cơ sở?",
+    "options": [
+      "Để lực lượng vũ trang có thể tự kiếm tiền nuôi sống đơn vị",
+      "Để đảm bảo lực lượng vũ trang luôn có bản lĩnh vững vàng, tuyệt đối trung thành với Đảng, Nhà nước và nhân dân",
+      "Để tăng số lượng quân số nhanh chóng mà không cần huấn luyện",
+      "Để dễ dàng đàm phán ngoại giao với quân đội các nước khác"
+    ],
+    "answer": "Để đảm bảo lực lượng vũ trang luôn có bản lĩnh vững vàng, tuyệt đối trung thành với Đảng, Nhà nước và nhân dân",
+    "explanation": "Xây dựng về chính trị là cái gốc của lực lượng vũ trang. Có bản lĩnh chính trị vững vàng thì bộ đội, công an mới xác định rõ mục tiêu chiến đấu, không bị dao động trước khó khăn, hiểm nguy và giữ nghiêm kỷ luật."
+  },
+  {
+    "question": "Bản chất 'Từ nhân dân mà ra, vì nhân dân mà phục vụ' của Công an nhân dân Việt Nam được chứng minh qua đặc điểm nào?",
+    "options": [
+      "Lực lượng công an được tuyển chọn từ con em các tầng lớp nhân dân và hoạt động vì sự bình yên của nhân dân",
+      "Công an nhân dân chỉ làm việc tại các vùng nông thôn hẻo lánh",
+      "Người dân tự cấp kinh phí và vũ khí cho lực lượng công an hoạt động",
+      "Lực lượng công an không chịu sự quản lý của pháp luật nhà nước"
+    ],
+    "answer": "Lực lượng công an được tuyển chọn từ con em các tầng lớp nhân dân và hoạt động vì sự bình yên của nhân dân",
+    "explanation": "Công an nhân dân có nguồn gốc từ quần chúng nhân dân, được nhân dân nuôi dưỡng, đùm bọc, và mục tiêu hoạt động duy nhất của công an là bảo vệ an ninh, đem lại hạnh phúc, trật tự an toàn cho cuộc sống của nhân dân."
+  },
+  {
+    "question": "Tại sao nói nền quốc phòng toàn dân là nền quốc phòng 'vì dân, do dân, của dân'?",
+    "options": [
+      "Vì nền quốc phòng này chỉ do người dân tự xây dựng mà không có sự tham gia của nhà nước",
+      "Vì mục đích bảo vệ lợi ích của nhân dân, do toàn dân tham gia xây dựng và quản lý dưới sự lãnh đạo của Đảng",
+      "Vì lực lượng quân đội sẽ giải tán để người dân tự bảo vệ đất nước",
+      "Vì nền quốc phòng này chỉ được kích hoạt khi có chiến tranh xảy ra ngoài biên giới"
+    ],
+    "answer": "Vì mục đích bảo vệ lợi ích của nhân dân, do toàn dân tham gia xây dựng và quản lý dưới sự lãnh đạo của Đảng",
+    "explanation": "Nền quốc phòng toàn dân mang tính chất tự vệ, lấy lợi ích nhân dân làm tối thượng, huy động sức mạnh tổng hợp của mọi người dân, mọi tổ chức chính trị xã hội để tạo thành sức mạnh giữ nước."
+  },
+  {
+    "question": "Việc quy định độ tuổi và tiêu chuẩn tuyển chọn nghiêm ngặt vào các trường sĩ quan quân đội, công an nhằm mục đích cốt lõi nào?",
+    "options": [
+      "Để giảm thiểu tối đa chi phí đào tạo của nhà nước",
+      "Xây dựng đội ngũ sĩ quan kế cận có chất lượng cao về cả tư tưởng, trí tuệ và thể lực để đáp ứng yêu cầu tác chiến hiện đại",
+      "Hạn chế số lượng người tham gia vào lực lượng vũ trang",
+      "Để tạo ra sự cạnh tranh thương mại giữa các trường học"
+    ],
+    "answer": "Xây dựng đội ngũ sĩ quan kế cận có chất lượng cao về cả tư tưởng, trí tuệ và thể lực để đáp ứng yêu cầu tác chiến hiện đại",
+    "explanation": "Sĩ quan là lực lượng chỉ huy, lãnh đạo cốt nòng. Do đó, việc tuyển chọn khắt khe từ đầu vào đảm bảo thế hệ sĩ quan tương lai có đủ sức khỏe bền bỉ, tư duy sắc bén và lòng trung thành tuyệt đối để quản lý, chỉ huy đơn vị."
+  },
+  {
+    "question": "Hành động nào thể hiện sự vận dụng đúng đắn kiến thức quốc phòng an ninh vào thực tiễn cuộc sống của học sinh?",
+    "options": [
+      "Phát hiện hành vi phá hoại tài sản công cộng hoặc xâm phạm an ninh trường học và báo ngay cho thầy cô, công an",
+      "Tự ý lập nhóm vũ trang mini trong trường để giải quyết mâu thuẫn cá nhân",
+      "Chia sẻ các thông tin chưa kiểm chứng về bí mật quân sự lên mạng xã hội",
+      "Thờ ơ, phớt lờ trước các hoạt động lôi kéo của các tổ chức tội phạm"
+    ],
+    "answer": "Phát hiện hành vi phá hoại tài sản công cộng hoặc xâm phạm an ninh trường học và báo ngay cho thầy cô, công an",
+    "explanation": "Vận dụng kiến thức quốc phòng an ninh chính là nâng cao tinh thần cảnh giác, có ý thức bảo vệ an ninh trật tự xã hội từ những việc nhỏ nhất tại trường học và nơi cư trú bằng cách phối hợp với cơ quan chức năng."
+  },
+  {
+    "question": "Trách nhiệm lớn nhất của công dân đối với nghĩa vụ bảo vệ Tổ quốc được thể hiện ở việc:",
+    "options": [
+      "Sẵn sàng đăng ký và lên đường nhập ngũ thực hiện nghĩa vụ quân sự khi đến tuổi theo quy định",
+      "Chỉ đóng góp tài chính mà không cần trực tiếp tham gia quân đội",
+      "Chờ khi đất nước xảy ra chiến tranh mới bắt đầu tìm hiểu về luật",
+      "Chỉ bảo vệ đất nước khi bản thân được ban hành các đặc quyền kinh tế"
+    ],
+    "answer": "Sẵn sàng đăng ký và lên đường nhập ngũ thực hiện nghĩa vụ quân sự khi đến tuổi theo quy định",
+    "explanation": "Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý của công dân. Việc nghiêm túc thực hiện luật nghĩa vụ quân sự thể hiện ý thức trách nhiệm cao nhất của người trẻ đối với vận mệnh quốc gia."
+  },
+  {
+    "question": "Tại sao việc duy trì và phát triển lực lượng Dân quân tự vệ biển có ý nghĩa vô cùng quan trọng hiện nay?",
+    "options": [
+      "Để thay thế hoàn toàn lực lượng Hải quân nhân dân trên các vùng biển sâu",
+      "Để bảo vệ chủ quyền biển đảo ngay từ cơ sở, kết hợp đánh bắt hải sản và làm tai mắt trên biển cho lực lượng chức năng",
+      "Để tổ chức các tour du lịch quân sự trên biển Đông",
+      "Để ngăn chặn tất cả các tàu thuyền chở hàng thương mại quốc tế qua biển nước ta"
+    ],
+    "answer": "Để bảo vệ chủ quyền biển đảo ngay từ cơ sở, kết hợp đánh bắt hải sản và làm tai mắt trên biển cho lực lượng chức năng",
+    "explanation": "Dân quân tự vệ biển là những ngư dân trực tiếp bám biển lao động. Họ vừa phát triển kinh tế vừa là mạng lưới trinh sát, phát hiện sớm các vi phạm của tàu thuyền nước ngoài, khẳng định chủ quyền dân sự trên biển."
+  },
+  {
+    "question": "Mối quan hệ giữa 'Quốc phòng' và 'An ninh' trong sự nghiệp xây dựng và bảo vệ đất nước là gì?",
+    "options": [
+      "Là hai lĩnh vực hoàn toàn độc lập, tách rời và không liên quan gì đến nhau",
+      "Quốc phòng tạo tiền đề bên ngoài, an ninh giữ vững sự ổn định bên trong; hai mặt gắn kết khăng khít tạo nên sức mạnh toàn diện",
+      "Quốc phòng chỉ dành cho thời chiến, an ninh chỉ dành cho thời bình",
+      "An ninh mạnh sẽ tự động làm cho quốc phòng không cần phải đầu tư phát triển"
+    ],
+    "answer": "Quốc phòng tạo tiền đề bên ngoài, an ninh giữ vững sự ổn định bên trong; hai mặt gắn kết khăng khít tạo nên sức mạnh toàn diện",
+    "explanation": "Quốc phòng là công cuộc giữ nước bằng sức mạnh quân sự chống ngoại xâm. An ninh là giữ gìn sự ổn định chính trị, trật tự xã hội bên trong. Bên trong có yên ổn (an ninh tốt) thì bên ngoài mới vững chắc (quốc phòng mạnh) và ngược lại."
+  },
+  {
+    "question": "Nội dung nào không phải là biện pháp bồi dưỡng truyền thống đánh giặc giữ nước của dân tộc cho thế hệ trẻ?",
+    "options": [
+      "Tổ chức các chuyến tham quan di tích lịch sử như Địa đạo Củ Chi, Thành cổ Quảng Trị",
+      "Khuyến khích học sinh xem phim, đọc sách về các vị tướng anh hùng dân tộc",
+      "Cắt giảm thời lượng học môn Giáo dục quốc phòng để học sinh có thời gian chơi trò chơi điện tử",
+      "Tổ chức cuộc thi tìm hiểu về lịch sử 54 dân tộc anh em anh hùng"
+    ],
+    "answer": "Cắt giảm thời lượng học môn Giáo dục quốc phòng để học sinh có thời gian chơi trò chơi điện tử",
+    "explanation": "Việc cắt giảm môn học quốc phòng để chơi game là hành vi tiêu cực, làm suy giảm ý thức trách nhiệm và nhận thức lịch sử của thế hệ trẻ, đi ngược lại mục tiêu giáo dục toàn diện."
+  },
+  {
+    "question": "Khi phát hiện một nhóm người lạ mặt có hành vi quay phim, chụp ảnh hệ thống công trình phòng thủ, kho đạn quân sự tại địa phương, em cần xử lý như thế nào?",
+    "options": [
+      "Thờ ơ bỏ đi vì không phải là việc riêng của gia đình mình",
+      "Bí mật quan sát, ghi nhớ đặc điểm và báo cáo ngay lập tức cho cơ quan Công an hoặc Ban chỉ huy quân sự nơi gần nhất",
+      "Đến xin tham gia chụp ảnh cùng nhóm người đó để đăng lên mạng xã hội",
+      "Trực tiếp xông vào tranh giành máy ảnh và gây gổ với họ"
+    ],
+    "answer": "Bí mật quan sát, ghi nhớ đặc điểm và báo cáo ngay lập tức cho cơ quan Công an hoặc Ban chỉ huy quân sự nơi gần nhất",
+    "explanation": "Hệ thống kho tàng quân sự, công trình quốc phòng là bí mật quốc gia. Việc báo cáo kịp thời cho cơ quan chức năng giúp ngăn chặn nguy cơ thu thập tình báo, bảo vệ an toàn an ninh quốc phòng địa phương."
+  },
+  {
+    "question": "Trường hợp công dân nam đang đi học đại học hệ chính quy được tạm hoãn gọi nhập ngũ đến khi nào?",
+    "options": [
+      "Được hoãn vô thời hạn, không bao giờ phải đi nghĩa vụ quân sự nữa",
+      "Được tạm hoãn gọi nhập ngũ trong một khóa đào tạo của một trình độ đào tạo",
+      "Chỉ được hoãn hết năm học thứ nhất đại học",
+      "Được hoãn đến khi lập gia đình và sinh con xong"
+    ],
+    "answer": "Được tạm hoãn gọi nhập ngũ trong một khóa đào tạo của một trình độ đào tạo",
+    "explanation": "Theo Luật Nghĩa vụ quân sự, công dân đang học tập tại cơ sở giáo dục đại học chính quy thì được tạm hoãn gọi nhập ngũ trong thời gian một khóa đào tạo của một trình độ đào tạo (ví dụ khóa học 4 năm hoặc 5 năm)."
+  },
+  {
+    "question": "Nghệ thuật quân sự 'Lấy nhỏ thắng lớn, lấy ít địch nhiều' của ông cha ta được hình thành dựa trên cơ sở cốt lõi nào?",
+    "options": [
+      "Dựa vào sự viện trợ tối đa về vũ khí hạng nặng từ các nước lân cận",
+      "Dựa vào tinh thần đoàn kết toàn dân, chiến tranh nhân dân rộng khắp và nghệ thuật tận dụng địa hình hiểm trở",
+      "Dựa vào việc xây dựng quân đội chuyên nghiệp có quy mô lớn hơn quân địch",
+      "Dựa vào các hiệp ước hòa bình tạm thời với thế lực xâm lược"
+    ],
+    "answer": "Dựa vào tinh thần đoàn kết toàn dân, chiến tranh nhân dân rộng khắp và nghệ thuật tận dụng địa hình hiểm trở",
+    "explanation": "Nước ta vốn là nước nhỏ, thường phải chống lại các thế lực xâm lược lớn mạnh. Ông cha ta đã thông minh vận dụng sức mạnh toàn dân (toàn dân đánh giặc), dùng chiến thuật du kích, dựa vào địa thế núi rừng sông ngòi để tiêu hao và đánh bại kẻ thù."
+  },
+  {
+    "question": "Việc Đảng và Nhà nước ta thực hiện chính sách ưu đãi, chăm sóc các thương binh, bệnh binh và gia đình liệt sĩ thể hiện truyền thống đạo lý nào?",
+    "options": [
+      "Lá lành đùm lá rách",
+      "Uống nước nhớ nguồn, đền ơn đáp nghĩa",
+      "Chị ngã em nâng",
+      "Nhường cơm sẻ áo"
+    ],
+    "answer": "Uống nước nhớ nguồn, đền ơn đáp nghĩa",
+    "explanation": "Chính sách hậu phương quân đội, tri ân thương binh, liệt sĩ là biểu hiện sâu sắc của đạo lý 'Uống nước nhớ nguồn', ghi nhớ công lao xả thân bảo vệ đất nước của các thế hệ đi trước."
+  },
+  {
+    "question": "Tại sao việc xây dựng thế trận lòng dân được coi là nhân tố quyết định thắng lợi của nền quốc phòng toàn dân?",
+    "options": [
+      "Vì khi có được niềm tin, sự đồng lòng và ủng hộ tuyệt đối của nhân dân thì sẽ tạo ra sức mạnh vô địch, không kẻ thù nào đánh bại được",
+      "Vì thế trận lòng dân sẽ giúp nhà nước không cần phải đầu tư ngân sách mua sắm vũ khí",
+      "Vì nhân dân sẽ tự động đứng ra chỉ huy thay thế toàn bộ bộ máy chính quyền",
+      "Vì thế trận lòng dân chỉ cần xây dựng ở các vùng biên giới"
+    ],
+    "answer": "Vì khi có được niềm tin, sự đồng lòng và ủng hộ tuyệt đối của nhân dân thì sẽ tạo ra sức mạnh vô địch, không kẻ thù nào đánh bại được",
+    "explanation": "Chủ tịch Hồ Chí Minh đã dạy: 'Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong'. Khi lòng dân đồng thuận, tin tưởng vào Đảng và Nhà nước thì bất kỳ khó khăn hay thế lực xâm lược nào cũng đều bị đánh bại."
+  },
+  {
+    "question": "Ý nghĩa lớn nhất của việc học sinh phổ thông được trang bị kiến thức về tháo lắp súng tiểu liên AK mô hình hoặc các kỹ năng băng bó vết thương là gì?",
+    "options": [
+      "Để học sinh tự mua súng về sử dụng ngoài đời sống",
+      "Hình thành kỹ năng quân sự phổ thông cơ bản, sẵn sàng ứng phó các tình huống khẩn cấp và chuẩn bị nền tảng bảo vệ Tổ quốc",
+      "Để thay thế các bài tập thể dục buổi sáng thông thường",
+      "Giúp học sinh có thể tham gia vào các băng nhóm tự vệ tự phát"
+    ],
+    "answer": "Hình thành kỹ năng quân sự phổ thông cơ bản, sẵn sàng ứng phó các tình huống khẩn cấp và chuẩn bị nền tảng bảo vệ Tổ quốc",
+    "explanation": "Các bài học thực hành giúp học sinh làm quen với tác phong quân đội, biết cách tự vệ, sơ cứu y tế cơ bản trong cuộc sống hằng ngày và chuẩn bị tinh thần, kỹ năng cơ bản nhất phục vụ nghĩa vụ quân sự tương lai."
+  },
+  {
+    "question": "Sự phối hợp giữa lực lượng Công an địa phương và Dân quân tự vệ trong thời bình nhằm mục đích gì ở địa bàn xã, phường?",
+    "options": [
+      "Tổ chức các hoạt động sản xuất kinh doanh nông sản kiếm lời",
+      "Tuần tra giữ gìn trật tự trị an, phòng chống tội phạm và bảo vệ an toàn cho nhân dân tại cơ sở",
+      "Thay thế hoàn toàn chức năng xét xử của tòa án nhân dân",
+      "Cấm người dân ra khỏi nhà vào ban đêm để quản lý"
+    ],
+    "answer": "Tuần tra giữ gìn trật tự trị an, phòng chống tội phạm và bảo vệ an toàn cho nhân dân tại cơ sở",
+    "explanation": "Công an xã phối hợp dân quân tự vệ tạo nên mạng lưới an ninh tại chỗ dày đặc, kịp thời phát hiện, xử lý các vụ việc gây mất an ninh trật tự, bảo vệ cuộc sống bình yên cho nhân dân."
+  },
+  {
+    "question": "Hành vi trốn tránh, không chấp hành lệnh gọi kiểm tra sức khỏe nghĩa vụ quân sự hoặc lệnh gọi nhập ngũ sẽ bị xử lý như thế nào?",
+    "options": [
+      "Hoàn toàn không bị xử lý gì vì đó là quyền tự do của mỗi cá nhân",
+      "Bị xử phạt vi phạm hành chính hoặc có thể bị truy cứu trách nhiệm hình sự tùy theo mức độ vi phạm",
+      "Chỉ bị nhắc nhở nhẹ nhàng trên loa phát thanh địa phương",
+      "Bị phạt tiền nhẹ và được miễn hoàn toàn nghĩa vụ quân sự mãi mãi"
+    ],
+    "answer": "Bị xử phạt vi phạm hành chính hoặc có thể bị truy cứu trách nhiệm hình sự tùy theo mức độ vi phạm",
+    "explanation": "Luật quy định nghiêm cấm các hành vi trốn tránh nghĩa vụ quân sự. Tùy vào tính chất, mức độ vi phạm mà công dân có thể bị xử phạt hành chính tiền rất nặng hoặc bị xử lý hình sự (phạt tù) theo quy định của Bộ luật Hình sự."
+  },
+  {
+    "question": "Vì sao việc bảo vệ an ninh mạng được xếp vào một trong những nhiệm vụ trọng yếu của an ninh quốc gia hiện nay?",
+    "options": [
+      "Vì không gian mạng là nơi duy nhất tạo ra thu nhập cho đất nước",
+      "Vì các thế lực thù địch lợi dụng không gian mạng để phát tán thông tin sai sự thật, phá hoại tư tưởng, tấn công hạ tầng thông tin chiến lược",
+      "Vì nhà nước muốn kiểm soát hoàn toàn việc kết bạn của công dân",
+      "Vì không gian mạng có thể thay thế hoàn toàn lãnh thổ đất liền"
+    ],
+    "answer": "Vì các thế lực thù địch lợi dụng không gian mạng để phát tán thông tin sai sự thật, phá hoại tư tưởng, tấn công hạ tầng thông tin chiến lược",
+    "explanation": "Trong thời đại công nghệ số, an ninh mạng gắn liền với an ninh quốc gia. Tấn công mạng có thể làm tê liệt hệ thống ngân hàng, điện lưới, quốc phòng; thông tin xấu độc phá hoại khối đại đoàn kết, gây mất ổn định chính trị nội địa."
+  },
+  {
+    "question": "Trước các thông tin sai lệch, xuyên tạc về lịch sử và hình ảnh của lực lượng vũ trang nhân dân trên các nền tảng mạng xã hội, một học sinh lớp 10 có trách nhiệm cần ứng xử như thế nào để thể hiện tư duy bản lĩnh?",
+    "options": [
+      "Bấm yêu thích (like) và chia sẻ (share) rộng rãi để mọi người cùng bàn tán",
+      "Tuyệt đối không tin theo, không chia sẻ; đồng thời báo cáo xấu (report) bài viết và giải thích cho bạn bè hiểu đúng bản chất lịch sử dựa trên kiến thức được học",
+      "Viết các bình luận thô tục, chửi bới để kích động tranh cãi bạo lực mạng",
+      "Thờ ơ xem như không thấy và không cần quan tâm vì không ảnh hưởng đến điểm số trên lớp"
+    ],
+    "answer": "Tuyệt đối không tin theo, không chia sẻ; đồng thời báo cáo xấu (report) bài viết và giải thích cho bạn bè hiểu đúng bản chất lịch sử dựa trên kiến thức được học",
+    "explanation": "Học sinh cần có tư duy phản biện và bản lĩnh chính trị vững vàng. Không tiếp tay cho thông tin xấu độc, sử dụng các công cụ báo cáo vi phạm của nền tảng mạng xã hội và dùng kiến thức chuẩn xác để đính chính, bảo vệ uy tín, truyền thống của lực lượng vũ trang."
+  }
+]
